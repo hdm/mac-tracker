@@ -1,0 +1,1 @@
+deepmacDetailCallback("00bc60000000/24",[{"d":"2018-03-07","t":"add","a":"80 West Tasman Drive\nSan Jose  CA  94568\n\n","c":"UNITED STATES","o":"Cisco Systems, Inc"},{"d":"2018-03-08","t":"change","a":"80 West Tasman Drive San Jose CA US 94568","c":"US","o":"Cisco Systems, Inc"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00e019000000/24",[{"d":"1998-04-22","t":"add","a":"VIA PIETRO COSSA  115/12\n10146-TORINO\n\n","c":"ITALY","o":"ING. GIORDANO ELETTRONICA"},{"d":"2015-08-27","t":"change","a":"VIA PIETRO COSSA  115/12 10146-TORINO  IT","c":"IT","o":"ING. GIORDANO ELETTRONICA"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("d85d84000000/24",[{"d":"2010-11-05","t":"add","a":"Noettinger Strasse 3\nKarlsbad BW 76307\n\n","c":"GERMANY","o":"CAx soft GmbH"},{"d":"2015-08-27","t":"change","a":"Noettinger Strasse 3 Karlsbad BW DE 76307","c":"DE","o":"CAx soft GmbH"}]);

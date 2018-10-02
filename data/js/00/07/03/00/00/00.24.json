@@ -1,0 +1,1 @@
+deepmacDetailCallback("000703000000/24",[{"d":"2001-10-24","t":"add","a":"4, avenue du CANADA\nB.P. 243-91944 Les Ulis\n\n","c":"FRANCE","o":"CSEE Transport"},{"d":"2015-08-27","t":"change","a":"4, avenue du CANADA   FR","c":"FR","o":"CSEE Transport"}]);

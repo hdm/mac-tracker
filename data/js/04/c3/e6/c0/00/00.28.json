@@ -1,0 +1,1 @@
+deepmacDetailCallback("04c3e6c00000/28",[{"a":"Chenghua Industrial Zone，Wenguan Road，Chenghai District Shantou City Guangdong CN 515800","o":"SHANTOU YINGSHENG IMPORT & EXPORT TRADING CO.,LTD.","d":"2018-04-15","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("4cf2bf000000/24",[{"d":"2014-05-14","t":"add","a":"22 Floor,Qilai Tower;889 Yishan Road\nShanghai  200233\n\n","c":"CHINA","o":"Cambridge Industries(Group) Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"22 Floor,Qilai Tower;889 Yishan Road Shanghai  CN 200233","c":"CN","o":"Cambridge Industries(Group) Co.,Ltd."}]);

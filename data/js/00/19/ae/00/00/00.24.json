@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019ae000000/24",[{"d":"2006-09-25","t":"add","a":"Camerastraat 10\nAlmere Flevoland 1322 BC\n\n","c":"NETHERLANDS","o":"Hopling Technologies b.v."},{"d":"2015-08-27","t":"change","a":"Camerastraat 10 Almere Flevoland NL 1322 BC","c":"NL","o":"Hopling Technologies b.v."}]);

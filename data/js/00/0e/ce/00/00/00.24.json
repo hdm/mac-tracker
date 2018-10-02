@@ -1,0 +1,1 @@
+deepmacDetailCallback("000ece000000/24",[{"d":"2003-12-21","t":"add","a":"Via Cadorna 69\nVimodrone Milan I-20090\n\n","c":"ITALY","o":"S.I.T.T.I. S.p.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Cadorna 69 Vimodrone Milan IT I-20090","c":"IT","o":"S.I.T.T.I. S.p.A."}]);

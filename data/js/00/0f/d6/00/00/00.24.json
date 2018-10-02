@@ -1,0 +1,1 @@
+deepmacDetailCallback("000fd6000000/24",[{"d":"2004-04-03","t":"add","a":"HanGang Bldg, 1549-7, Seocho-Dong,\nSeocho-ku,\nSeoul  137-070\n","c":"KOREA, REPUBLIC OF","o":"Sarotech Co., Ltd"},{"d":"2015-08-27","t":"change","a":"HanGang Bldg, 1549-7, Seocho-Dong, Seoul  KR 137-070","c":"KR","o":"Sarotech Co., Ltd"}]);

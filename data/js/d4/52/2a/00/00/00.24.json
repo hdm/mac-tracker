@@ -1,0 +1,1 @@
+deepmacDetailCallback("d4522a000000/24",[{"d":"2015-01-06","t":"add","a":"TangoWiFi Team\nBeijing Beijing 100022\n\n","c":"CHINA","o":"TangoWiFi.com"},{"d":"2015-08-27","t":"change","a":"TangoWiFi Team Beijing Beijing CN 100022","c":"CN","o":"TangoWiFi.com"}]);

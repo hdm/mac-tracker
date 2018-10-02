@@ -1,0 +1,1 @@
+deepmacDetailCallback("286dcd000000/24",[{"d":"2018-06-12","t":"add","a":"Floor 18, YinDu Building, No.67 FuCheng Road, HaiDian District Beijing  CN 100142","c":"CN","o":"Beijing Winner Microelectronics Co.,Ltd."}]);

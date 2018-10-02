@@ -1,0 +1,1 @@
+deepmacDetailCallback("001503000000/24",[{"d":"2005-06-25","t":"add","a":"Turgenevova 5\nBrno EU/Europe 618 00\n\n","c":"CZECH REPUBLIC","o":"PROFIcomms s.r.o."},{"d":"2015-08-27","t":"change","a":"Turgenevova 5 Brno EU/Europe CZ 618 00","c":"CZ","o":"PROFIcomms s.r.o."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("6891d0200000/28",[{"a":"C.8F, Bofook Lilang Industry Park, Bulan Road, Nanwan Street, Longgang Shenzhen Guangdong CN 518112","o":"Shenzhen NeaTech Intelligence Technology Co., Ltd.","d":"2016-02-21","t":"add","s":"ieee","c":"CN"}]);

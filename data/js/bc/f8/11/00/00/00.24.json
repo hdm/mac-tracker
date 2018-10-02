@@ -1,0 +1,1 @@
+deepmacDetailCallback("bcf811000000/24",[{"d":"2015-01-29","t":"add","a":"5F,Xingtel Building,Chuangxin Rd.\nTorch Hi-Tech Industrial District,\nXiamen Fujian 361006\n","c":"CHINA","o":"Xiamen DNAKE Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"5F,Xingtel Building,Chuangxin Rd. Xiamen Fujian CN 361006","c":"CN","o":"Xiamen DNAKE Technology Co.,Ltd"}]);

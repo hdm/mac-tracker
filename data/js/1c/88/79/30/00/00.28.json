@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c8879300000/28",[{"d":"2015-10-10","t":"add","a":"2F, Wing D, Building 5, Software Industry Base, No.14, Haitian 2nd Road, Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Xiaoxi Technology Co., Ltd."}]);

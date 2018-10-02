@@ -1,0 +1,1 @@
+deepmacDetailCallback("141fbac00000/28",[{"a":"2712 Great China International Exchange Square Shenzhen Guangdong CN 518026","o":"Swiss Electronic (Shenzhen) Co., Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

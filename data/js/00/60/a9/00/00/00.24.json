@@ -1,0 +1,1 @@
+deepmacDetailCallback("0060a9000000/24",[{"d":"1998-04-22","t":"add","a":"PASCALSTRASSE 6\nD 52076 AACHEN\n\n","c":"GERMANY","o":"GESYTEC MBH"},{"d":"2002-06-05","t":"change","a":"PASCALSTRASSE 6\nD 52076 AACHEN\n\n","c":"GERMANY","o":"GESYTEC MbH"},{"d":"2015-08-27","t":"change","a":"PASCALSTRASSE 6 D 52076 AACHEN  DE","c":"DE","o":"GESYTEC MBH"}]);

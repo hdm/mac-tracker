@@ -1,0 +1,1 @@
+deepmacDetailCallback("24eb65000000/24",[{"d":"2013-02-10","t":"add","a":"Via LeinÃ¬ 1/B\nSan Maurizio C.se TO 10077\n\n","c":"ITALY","o":"SAET I.S. S.r.l.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Leinì 1/B San Maurizio C.se TO IT 10077","c":"IT","o":"SAET I.S. S.r.l."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f93000000/24",[{"d":"2004-03-17","t":"add","a":"Feldstrasse 1\nZug  CH-6301\n\n","c":"SWITZERLAND","o":"Landis+Gyr Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Feldstrasse 1 Zug  CH CH-6301","c":"CH","o":"Landis+Gyr Ltd."}]);

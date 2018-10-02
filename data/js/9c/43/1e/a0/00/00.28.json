@@ -1,0 +1,1 @@
+deepmacDetailCallback("9c431ea00000/28",[{"a":"3F., No. 111 Zhongzheng Rd., Banciao Dist., New Taipei City New Taipei City  TW 22054","o":"ST Access Control System Corp.","d":"2017-10-22","t":"add","s":"ieee","c":"TW"}]);

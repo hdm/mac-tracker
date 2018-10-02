@@ -1,0 +1,1 @@
+deepmacDetailCallback("30142d000000/24",[{"d":"2010-11-02","t":"add","a":"Claudiastrasse 5\nCologne NRW 51149\n\n","c":"GERMANY","o":"Piciorgros GmbH"},{"d":"2015-08-27","t":"change","a":"Claudiastrasse 5 Cologne NRW DE 51149","c":"DE","o":"Piciorgros GmbH"}]);

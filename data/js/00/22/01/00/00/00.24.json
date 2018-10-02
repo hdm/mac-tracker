@@ -1,0 +1,1 @@
+deepmacDetailCallback("002201000000/24",[{"d":"2008-06-18","t":"add","a":"428, 3553 - 31 Street NW\nCalgary  T2L 2K7\n\n","c":"CANADA","o":"Aksys Networks Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"428, 3553 - 31 Street NW Calgary  CA T2L 2K7","c":"CA","o":"Aksys Networks Inc"}]);

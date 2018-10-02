@@ -1,0 +1,1 @@
+deepmacDetailCallback("000de5000000/24",[{"d":"2003-09-08","t":"add","a":"259 Gongdan-Dong\nGumi-City Gyeongsangbuk-do 730-904\n\n","c":"KOREA, REPUBLIC OF","o":"Samsung Thales","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"259 Gongdan-Dong Gumi-City Gyeongsangbuk-do KR 730-904","c":"KR","o":"Samsung Thales"}]);

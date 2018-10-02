@@ -1,0 +1,1 @@
+deepmacDetailCallback("f0acd7d00000/28",[{"a":"Room 102,Unit A,Building 32,No.999,Gaoxinqi Road, High Tech Industrial Development Zone,Nanchang,Jiangxi  Nanchang City Jiangxi Province CN 330096","o":"Smart Power Technology Co., Ltd.","d":"2016-05-01","t":"add","s":"ieee","c":"CN"}]);

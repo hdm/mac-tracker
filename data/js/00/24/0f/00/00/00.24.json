@@ -1,0 +1,1 @@
+deepmacDetailCallback("00240f000000/24",[{"d":"2008-10-26","t":"add","a":"2-5-60 Higashi-Omichi\nOita  870-0823\n\n","c":"JAPAN","o":"Ishii Tool & Engineering Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2-5-60 Higashi-Omichi Oita  JP 870-0823","c":"JP","o":"Ishii Tool & Engineering Corporation"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("a8bd3a000000/24",[{"d":"2013-12-14","t":"add","a":"18F, HUAYANG TOWER,YANDAYI ROAD\nHuizhou Guangdong 516007\n\n","c":"CHINA","o":"UNIONMAN TECHNOLOGY CO.,LTD"},{"d":"2015-08-27","t":"change","a":"18F, HUAYANG TOWER,YANDAYI ROAD Huizhou Guangdong CN 516007","c":"CN","o":"UNIONMAN TECHNOLOGY CO.,LTD"}]);

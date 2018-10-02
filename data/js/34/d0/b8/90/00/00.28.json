@@ -1,0 +1,1 @@
+deepmacDetailCallback("34d0b8900000/28",[{"a":"Flat F, 23/F., Block 2, Kingswin Industrial Building, 32-50 Lei Muk Road Kwai Chung  HK 000000","o":"Skytech Creations Limited","d":"2017-08-06","t":"add","s":"ieee","c":"HK"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("84de3d000000/24",[{"d":"2010-12-14","t":"add","a":"Lion Technology park\nStation Road east\nWhittlesford/ Cambridge Cambs CB22 4WL\n","c":"UNITED KINGDOM","o":"Crystal Vision Ltd"},{"d":"2015-08-27","t":"change","a":"Lion Technology park Whittlesford/ Cambridge Cambs GB CB22 4WL","c":"GB","o":"Crystal Vision Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("24faf3000000/24",[{"d":"2018-03-20","t":"add","a":"Room 804, C6 Building,No.52 Bay Valley Technology Park, Lane 1688 North Guoquan Road, Yangpu District. Shanghai  CN 200438","c":"CN","o":"Shanghai Flexem Technology Co.,Ltd."}]);

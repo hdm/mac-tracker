@@ -1,0 +1,1 @@
+deepmacDetailCallback("288915000000/24",[{"d":"2010-03-13","t":"add","a":"Finlandsgatan 16\nKista  16474\n\n","c":"SWEDEN","o":"CashGuard Sverige AB"},{"d":"2015-08-27","t":"change","a":"Finlandsgatan 16 Kista  SE 16474","c":"SE","o":"CashGuard Sverige AB"}]);

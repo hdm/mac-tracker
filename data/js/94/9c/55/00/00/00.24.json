@@ -1,0 +1,1 @@
+deepmacDetailCallback("949c55000000/24",[{"d":"2010-02-19","t":"add","a":"4901 Rockaway Blvd, Building A\nRio Rancho NM 87124\n\n","c":"UNITED STATES","o":"Alta Data Technologies"},{"d":"2015-08-27","t":"change","a":"4901 Rockaway Blvd, Building A Rio Rancho NM US 87124","c":"US","o":"Alta Data Technologies"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("acc698000000/24",[{"d":"2012-05-22","t":"add","a":"2-6-15, Kurigi, Asao-ku\nKawasaki-shi Kanagawa 215-8521\n\n","c":"JAPAN","o":"Kohzu Precision Co., Ltd."},{"d":"2015-08-27","t":"change","a":"2-6-15, Kurigi, Asao-ku Kawasaki-shi Kanagawa JP 215-8521","c":"JP","o":"Kohzu Precision Co., Ltd."}]);

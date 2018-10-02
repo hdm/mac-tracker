@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009ee000000/24",[{"d":"2002-06-05","t":"add","a":"4-27-2 Higashiogu\nArakawa-ku Tokyo 116-0012\n\n","c":"JAPAN","o":"MEIKYO ELECTRIC CO.,LTD"},{"d":"2015-08-27","t":"change","a":"4-27-2 Higashiogu Arakawa-ku Tokyo JP 116-0012","c":"JP","o":"MEIKYO ELECTRIC CO.,LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("d4b761000000/24",[{"a":"Anzhou,Industrial Park Anzhou,Industrial Park Sichuan CN 621000","o":"Sichuan AI-Link Technology Co., Ltd.","d":"2018-09-23","t":"add","s":"ieee","c":"CN"}]);

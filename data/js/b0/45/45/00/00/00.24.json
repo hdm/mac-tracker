@@ -1,0 +1,1 @@
+deepmacDetailCallback("b04545000000/24",[{"d":"2013-08-23","t":"add","a":"Gustav Meyer Allee 25\nBerlin  13355\n\n","c":"GERMANY","o":"YACOUB Automation GmbH"},{"d":"2015-08-27","t":"change","a":"Gustav Meyer Allee 25 Berlin  DE 13355","c":"DE","o":"YACOUB Automation GmbH"}]);

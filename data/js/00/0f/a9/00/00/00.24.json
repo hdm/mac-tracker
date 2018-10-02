@@ -1,0 +1,1 @@
+deepmacDetailCallback("000fa9000000/24",[{"d":"2004-03-17","t":"add","a":"Buchenstrasse 13-15\nDresden Sachsen 01097\n\n","c":"GERMANY","o":"PC Fabrik","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Buchenstrasse 13-15 Dresden Sachsen DE 01097","c":"DE","o":"PC Fabrik"}]);

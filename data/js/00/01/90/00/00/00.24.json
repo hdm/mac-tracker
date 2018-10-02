@@ -1,0 +1,1 @@
+deepmacDetailCallback("000190000000/24",[{"d":"2000-09-08","t":"add","a":"1055 Tierra Del Rey\nChula Vista  CA  91910\n\n","c":"UNITED STATES","o":"SMK-M"},{"d":"2001-10-24","t":"change","a":"1055 Tierra Del Rey\nChula Vista CA 91910\n\n","c":"UNITED STATES","o":"SMK-M"},{"d":"2015-08-27","t":"change","a":"1055 Tierra Del Rey Chula Vista CA US 91910","c":"US","o":"SMK-M"}]);

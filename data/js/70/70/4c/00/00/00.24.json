@@ -1,0 +1,1 @@
+deepmacDetailCallback("70704c000000/24",[{"d":"2011-10-05","t":"add","a":"595 Menlo\nRocklin CA 95765\n\n","c":"UNITED STATES","o":"Purple Communications, Inc"},{"d":"2015-08-27","t":"change","a":"595 Menlo Rocklin CA US 95765","c":"US","o":"Purple Communications, Inc"}]);

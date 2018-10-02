@@ -1,0 +1,1 @@
+deepmacDetailCallback("98a7b0000000/24",[{"d":"2012-04-27","t":"add","a":"35/50, Nizhnyaya Krasnoselskaya St.,\nMoscow  105666\n\n","c":"RUSSIAN FEDERATION","o":"MCST ZAO"},{"d":"2015-08-27","t":"change","a":"35/50, Nizhnyaya Krasnoselskaya St., Moscow  RU 105666","c":"RU","o":"MCST ZAO"}]);

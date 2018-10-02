@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c220c000/36",[{"a":"Gragdanski str. 111 St.Petersburg  RU 195256","o":"Communication and Telemechanical Systems Company Limited","d":"2008-07-30","t":"add","s":"ieee","c":"RU"}]);

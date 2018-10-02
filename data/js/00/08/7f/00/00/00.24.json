@@ -1,0 +1,1 @@
+deepmacDetailCallback("00087f000000/24",[{"d":"2001-12-14","t":"add","a":"Byk-Gulden - Str. 22\n78224 Singen\n\n","c":"GERMANY","o":"SPAUN electronic GmbH & Co. KG"},{"d":"2015-08-27","t":"change","a":"Byk-Gulden - Str. 22   DE","c":"DE","o":"SPAUN electronic GmbH & Co. KG"}]);

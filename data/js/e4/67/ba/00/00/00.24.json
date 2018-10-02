@@ -1,0 +1,1 @@
+deepmacDetailCallback("e467ba000000/24",[{"d":"2011-10-08","t":"add","a":"Vestre Teglgade 12\nCopenhagen SV 2450\n\n","c":"DENMARK","o":"Danish Interpretation Systems A/S"},{"d":"2015-08-27","t":"change","a":"Vestre Teglgade 12 Copenhagen SV DK 2450","c":"DK","o":"Danish Interpretation Systems A/S"}]);

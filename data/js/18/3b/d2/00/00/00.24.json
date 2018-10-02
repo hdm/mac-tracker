@@ -1,0 +1,1 @@
+deepmacDetailCallback("183bd2000000/24",[{"d":"2010-01-07","t":"add","a":"No3000 LongDong Avenue, Pudong District\nShanghai  201203\n\n","c":"CHINA","o":"BYD Precision Manufacture Company Ltd."},{"d":"2015-08-27","t":"change","a":"No3000 LongDong Avenue, Pudong District Shanghai  CN 201203","c":"CN","o":"BYD Precision Manufacture Company Ltd."}]);

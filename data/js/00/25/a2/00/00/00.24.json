@@ -1,0 +1,1 @@
+deepmacDetailCallback("0025a2000000/24",[{"d":"2009-03-22","t":"add","a":"Maria de Luna 11, nave 4\nZaragoza  Es-50018\n\n","c":"SPAIN","o":"Alta Definicion LINCEO S.L.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Maria de Luna 11, nave 4 Zaragoza  ES Es-50018","c":"ES","o":"Alta Definicion LINCEO S.L."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001c32000000/24",[{"d":"2007-05-13","t":"add","a":"4FL. Namjeon Bldg. 53-3 Haandong\nKwangmyungsi Kyoungkido 423060\n\n","c":"KOREA, REPUBLIC OF","o":"Telian Corporation"},{"d":"2015-08-27","t":"change","a":"4FL. Namjeon Bldg. 53-3 Haandong Kwangmyungsi Kyoungkido KR 423060","c":"KR","o":"Telian Corporation"}]);

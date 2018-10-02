@@ -1,0 +1,1 @@
+deepmacDetailCallback("001611000000/24",[{"d":"2005-10-05","t":"add","a":"Via F.lli Cairoli, 17\nLissone Milano 20035\n\n","c":"ITALY","o":"Altecon Srl","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via F.lli Cairoli, 17 Lissone Milano IT 20035","c":"IT","o":"Altecon Srl"}]);

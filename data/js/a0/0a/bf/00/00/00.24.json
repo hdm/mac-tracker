@@ -1,0 +1,1 @@
+deepmacDetailCallback("a00abf000000/24",[{"d":"2012-08-15","t":"add","a":"7F, No. 276, Sec. 1, Datong Rd\nXizhi Dist\nNew Taipei City  221\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Wieson Technologies Co., Ltd."},{"d":"2015-08-27","t":"change","a":"7F, No. 276, Sec. 1, Datong Rd New Taipei City  TW 221","c":"TW","o":"Wieson Technologies Co., Ltd."}]);

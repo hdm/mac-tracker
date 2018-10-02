@@ -1,0 +1,1 @@
+deepmacDetailCallback("0025c6000000/24",[{"d":"2009-04-05","t":"add","a":"South 20,Gaobu Road,Gaobu Town\nDongwan Guangdong 523000\n\n","c":"CHINA","o":"kasercorp, ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"South 20,Gaobu Road,Gaobu Town Dongwan Guangdong CN 523000","c":"CN","o":"kasercorp, ltd"}]);

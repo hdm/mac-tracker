@@ -1,0 +1,1 @@
+deepmacDetailCallback("0013ea000000/24",[{"d":"2005-03-06","t":"add","a":"Industrivej 28\nStilling  8660\n\n","c":"DENMARK","o":"Kamstrup A/S","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Industrivej 28 Stilling  DK 8660","c":"DK","o":"Kamstrup A/S"}]);

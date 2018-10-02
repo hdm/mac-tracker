@@ -1,0 +1,1 @@
+deepmacDetailCallback("40ed98100000/28",[{"a":"201,2/F, F Building, Hougang Industrial Zone, Shigang Village, huangshi West Road,Baiyun District GuangZhou  CN 510430","o":"GuangZhou FiiO Electronics Technology Co.,Ltd","d":"2016-09-18","t":"add","s":"ieee","c":"CN"}]);

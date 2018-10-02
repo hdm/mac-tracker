@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b34000000/24",[{"d":"2002-09-09","t":"add","a":"17F,No.122,HuangXing Road\nShangHai  200090\n\n","c":"CHINA","o":"ShangHai Broadband Technologies CO.LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"17F,No.122,HuangXing Road ShangHai  CN 200090","c":"CN","o":"ShangHai Broadband Technologies CO.LTD"}]);

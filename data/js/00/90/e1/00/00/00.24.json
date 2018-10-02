@@ -1,0 +1,1 @@
+deepmacDetailCallback("0090e1000000/24",[{"d":"1998-04-22","t":"add","a":"VIA SAVONA, 146\n20144 MILANO\n\n","c":"ITALY","o":"TELENA S.P.A."},{"d":"2015-08-27","t":"change","a":"VIA SAVONA, 146 20144 MILANO  IT","c":"IT","o":"TELENA S.P.A."}]);

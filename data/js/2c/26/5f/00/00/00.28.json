@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c265f000000/28",[{"a":"No.306 of Chengye Bldg., Xiamen Pioneering Park for Overseas Chinese Scholars xiamen fujian CN 361000","o":"XIAMEN VORLINK IOT TECHNOLOGY CO.,LTD.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

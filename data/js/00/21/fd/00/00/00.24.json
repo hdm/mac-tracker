@@ -1,0 +1,1 @@
+deepmacDetailCallback("0021fd000000/24",[{"d":"2008-06-18","t":"add","a":"Majada 4\nTres Cantos Madrid 28760\n\n","c":"SPAIN","o":"DSTA S.L.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Majada 4\nTres Cantos  Madrid  28760\n\n","c":"ES","o":"DSTA S.L."},{"d":"2015-11-20","t":"change","a":"Majada 4 Tres Cantos Madrid ES 28760","c":"ES","o":"LACROIX TRAFFIC S.A.U"}]);

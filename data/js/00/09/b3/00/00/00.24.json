@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009b3000000/24",[{"d":"2002-03-29","t":"add","a":"Kolomban 9F\nAnkaran Slovenija 6280\n\n","c":"SLOVENIA","o":"MCM Systems Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kolomban 9F Ankaran Slovenija SI 6280","c":"SI","o":"MCM Systems Ltd"}]);

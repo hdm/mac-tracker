@@ -1,0 +1,1 @@
+deepmacDetailCallback("d80ccf000000/24",[{"d":"2014-05-06","t":"add","a":"18, RUE THEODORE MONOD\nZA LA VIGIE BP 90004\nOSTWALD CEDEX BAS-RHIN 67541\n","c":"FRANCE","o":"C.G.V. S.A.S."},{"d":"2015-08-27","t":"change","a":"18, RUE THEODORE MONOD OSTWALD CEDEX BAS-RHIN FR 67541","c":"FR","o":"C.G.V. S.A.S."}]);

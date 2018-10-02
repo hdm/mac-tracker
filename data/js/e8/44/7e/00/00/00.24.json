@@ -1,0 +1,1 @@
+deepmacDetailCallback("e8447e000000/24",[{"d":"2014-10-21","t":"add","a":"24 Delea Veche St.\nOffices Building A, floor 7, district 2\nBucharest Romania 024102\n","c":"ROMANIA","o":"Bitdefender SRL"},{"d":"2015-08-27","t":"change","a":"24 Delea Veche St. Bucharest Romania RO 024102","c":"RO","o":"Bitdefender SRL"}]);

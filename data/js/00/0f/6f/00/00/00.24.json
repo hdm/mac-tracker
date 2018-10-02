@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f6f000000/24",[{"d":"2004-02-12","t":"add","a":"11, rue Pierre Werner\nBetzdorf  L-6832\n\n","c":"LUXEMBOURG","o":"FTA Communication Technologies"},{"d":"2015-08-27","t":"change","a":"11, rue Pierre Werner Betzdorf  LU L-6832","c":"LU","o":"FTA Communication Technologies"}]);

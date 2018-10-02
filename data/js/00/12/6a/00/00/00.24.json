@@ -1,0 +1,1 @@
+deepmacDetailCallback("00126a000000/24",[{"d":"2004-09-22","t":"add","a":"3-1Kamiaokinishi 1-chome\nKawaguchi Saitama Pref. 333-0845\n\n","c":"JAPAN","o":"OPTOELECTRONICS Co., Ltd."},{"d":"2015-08-27","t":"change","a":"3-1Kamiaokinishi 1-chome Kawaguchi Saitama Pref. JP 333-0845","c":"JP","o":"OPTOELECTRONICS Co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0bb3ed00000/28",[{"a":"105~107,1/F,Bldg T3,Shenzhen SW Park,No 011,High-teh South 7th Road, Nanshan District,Shenzhen Shenzhen Guangdong CN 518040","o":"Shenzhen Talent Technology company limited","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

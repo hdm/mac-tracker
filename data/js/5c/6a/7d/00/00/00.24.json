@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c6a7d000000/24",[{"d":"2010-09-30","t":"add","a":"1370 SK, NO:42/304,\nMONTRO IZMIR 35230\n\n","c":"TURKEY","o":"KENTKART EGE ELEKTRONIK SAN. VE TIC. LTD. STI."},{"d":"2015-08-27","t":"change","a":"1370 SK, NO:42/304,  MONTRO IZMIR TR 35230","c":"TR","o":"KENTKART EGE ELEKTRONIK SAN. VE TIC. LTD. STI."}]);

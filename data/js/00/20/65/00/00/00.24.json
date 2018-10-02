@@ -1,0 +1,1 @@
+deepmacDetailCallback("002065000000/24",[{"d":"1998-04-22","t":"add","a":"16 TOZERET HA'ARETZ ST.\nTEL-AVIV 67891\n\n","c":"ISRAEL","o":"SUPERNET NETWORKING INC."},{"d":"2015-08-27","t":"change","a":"16 TOZERET HA'ARETZ ST. TEL-AVIV 67891  IL","c":"IL","o":"SUPERNET NETWORKING INC."}]);

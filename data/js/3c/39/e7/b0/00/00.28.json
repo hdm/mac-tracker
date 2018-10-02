@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c39e7b00000/28",[{"a":"NanGuang road, DongHua design house 758 room Shenzhen Guangdong CN 518000","o":"chipsguide technology Co.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00130b000000/24",[{"d":"2004-12-11","t":"add","a":"De Tienden 48\nNuenen Noord Brabant 5674TB\n\n","c":"NETHERLANDS","o":"Mextal B.V."},{"d":"2015-08-27","t":"change","a":"De Tienden 48 Nuenen Noord Brabant NL 5674TB","c":"NL","o":"Mextal B.V."}]);

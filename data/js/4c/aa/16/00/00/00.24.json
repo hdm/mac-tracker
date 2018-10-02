@@ -1,0 +1,1 @@
+deepmacDetailCallback("4caa16000000/24",[{"d":"2012-03-06","t":"add","a":"No.8 Lane 66, Chenbao Road, Malu Town Jiading District\nShanghai  201801\n\n","c":"CHINA","o":"AzureWave Technologies (Shanghai) Inc."},{"d":"2015-08-27","t":"change","a":"No.8 Lane 66, Chenbao Road, Malu Town Jiading District Shanghai  CN 201801","c":"CN","o":"AzureWave Technologies (Shanghai) Inc."}]);

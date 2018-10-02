@@ -1,0 +1,1 @@
+deepmacDetailCallback("00086f000000/24",[{"d":"2001-12-14","t":"add","a":"Rm 324, Tech Centre, 72 Tat Chee Ave.,\nKowloon Tong, Kowloon\n\n","c":"HONG KONG","o":"Resources Computer Network Ltd."},{"d":"2015-08-27","t":"change","a":"Rm 324, Tech Centre, 72 Tat Chee Ave.,   HK","c":"HK","o":"Resources Computer Network Ltd."}]);

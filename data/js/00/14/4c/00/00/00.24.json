@@ -1,0 +1,1 @@
+deepmacDetailCallback("00144c000000/24",[{"d":"2005-04-07","t":"add","a":"1935 Dominion Way\nColorado Springs Colorado 80918\n\n","c":"UNITED STATES","o":"General Meters Corp."},{"d":"2015-08-27","t":"change","a":"1935 Dominion Way Colorado Springs Colorado US 80918","c":"US","o":"General Meters Corp."}]);

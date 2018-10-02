@@ -1,0 +1,1 @@
+deepmacDetailCallback("001d8d000000/24",[{"d":"2007-08-18","t":"add","a":"Blankenburger Str. 135\nBerlin  13127\n\n","c":"GERMANY","o":"Raytek GmbH"},{"d":"2015-08-27","t":"change","a":"Blankenburger Str. 135 Berlin  DE 13127","c":"DE","o":"Raytek GmbH"}]);

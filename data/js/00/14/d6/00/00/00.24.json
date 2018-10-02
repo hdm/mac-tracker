@@ -1,0 +1,1 @@
+deepmacDetailCallback("0014d6000000/24",[{"d":"2005-06-07","t":"add","a":"#710, Byuksan Digital Valley 2,\nKasan-Dong, Keumcheon-Gu,\nSeoul  153 783\n","c":"KOREA, REPUBLIC OF","o":"Jeongmin Electronics Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"#710, Byuksan Digital Valley 2, Seoul  KR 153 783","c":"KR","o":"Jeongmin Electronics Co.,Ltd."}]);

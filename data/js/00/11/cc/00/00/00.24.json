@@ -1,0 +1,1 @@
+deepmacDetailCallback("0011cc000000/24",[{"d":"2004-07-24","t":"add","a":"No.9 Shenzhou Road,Guangzhou Science City\nGuangzhou Guangdong 510663\n\n","c":"CHINA","o":"Guangzhou Jinpeng Group Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"No.9 Shenzhou Road,Guangzhou Science City Guangzhou Guangdong CN 510663","c":"CN","o":"Guangzhou Jinpeng Group Co.,Ltd."}]);

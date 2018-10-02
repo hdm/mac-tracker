@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5b16000/36",[{"a":"1-2-4-2401 XIANGSHU NO.3 KEJI FIVE STREET XI'AN SHANXI CN 710000","o":"XI'AN SHENMING ELECTRON TECHNOLOGY CO.,LTD","d":"2014-04-13","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("ccd31e600000/28",[{"a":"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000","o":"BBPOS International Limited","d":"2016-03-13","t":"add","s":"ieee","c":"HK"}]);

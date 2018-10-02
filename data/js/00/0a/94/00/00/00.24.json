@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a94000000/24",[{"d":"2002-08-03","t":"add","a":"C3 MeiLong ZhongXin Industrial Park,No.1\nShangHai  200237\n\n","c":"CHINA","o":"ShangHai cellink CO., LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"C3 MeiLong ZhongXin Industrial Park,No.1 ShangHai  US 200237","c":"US","o":"ShangHai cellink CO., LTD"}]);

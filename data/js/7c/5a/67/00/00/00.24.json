@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c5a67000000/24",[{"d":"2015-08-04","t":"add","a":"#611, Gyeonggi Venture Yeonsung University\n111, Anyang-ro, Manan-gu\nAnyang-si Gyeonggi-do 430731\n","c":"KOREA, REPUBLIC OF","o":"JNC Systems, Inc."},{"d":"2015-08-27","t":"change","a":"#611, Gyeonggi Venture Yeonsung University Anyang-si Gyeonggi-do KR 430731","c":"KR","o":"JNC Systems, Inc."}]);

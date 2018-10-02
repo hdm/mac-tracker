@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c1a31000000/24",[{"d":"2014-06-04","t":"add","a":"Units 12,15&16,8/F,Metro Centre 2\nNo.21 Lam Hing Street,\nKowloon Bay HongKong 852\n","c":"CHINA","o":"Electronics Company Limited"},{"d":"2015-08-27","t":"change","a":"Units 12,15&16,8/F,Metro Centre 2 Kowloon Bay HongKong CN 852","c":"CN","o":"Electronics Company Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("301f9ab00000/28",[{"a":"Cooper Buildings, Arundel Street Sheffield South Yorkshire GB S1 2NS","o":"Smart Component Technologies LTD","d":"2017-12-10","t":"add","s":"ieee","c":"GB"}]);

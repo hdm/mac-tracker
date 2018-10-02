@@ -1,0 +1,1 @@
+deepmacDetailCallback("f06853000000/24",[{"d":"2010-01-23","t":"add","a":"3/F, Shun On Commercial Bldg.,\n112-114 Des Voeux Road, C.,\nCetnral,\n","c":"HONG KONG","o":"Integrated Corporation"},{"d":"2015-08-27","t":"change","a":"3/F, Shun On Commercial Bldg.,  Cetnral,  HK","c":"HK","o":"Integrated Corporation"}]);

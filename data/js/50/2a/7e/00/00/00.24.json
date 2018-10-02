@@ -1,0 +1,1 @@
+deepmacDetailCallback("502a7e000000/24",[{"d":"2009-11-17","t":"add","a":"Industrie Str. 29\nSt. Georgen  78112\n\n","c":"GERMANY","o":"Smart electronic GmbH"},{"d":"2015-08-27","t":"change","a":"Industrie Str. 29 St. Georgen  DE 78112","c":"DE","o":"Smart electronic GmbH"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e84000000/24",[{"d":"2007-10-22","t":"add","a":"535 Legget Drive\nSuite 400\nOttawa Ontario K2K 3B8\n","c":"CANADA","o":"Pika Technologies Inc."},{"d":"2015-08-27","t":"change","a":"535 Legget Drive Ottawa Ontario CA K2K 3B8","c":"CA","o":"Pika Technologies Inc."}]);

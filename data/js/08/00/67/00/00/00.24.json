@@ -1,0 +1,1 @@
+deepmacDetailCallback("080067000000/24",[{"d":"2000-09-08","t":"add","a":"751 SOUTH KELLOG AVENUE\nGOLETA CA 93117-3880\n\n","c":"UNITED STATES","o":"COMDESIGN"},{"d":"2015-08-27","t":"change","a":"Goleta CA US","c":"US","o":"ComDesign"}]);

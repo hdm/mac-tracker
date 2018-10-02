@@ -1,0 +1,1 @@
+deepmacDetailCallback("a082c7000000/24",[{"d":"2010-05-18","t":"add","a":"1-5-1,Tsurumidan\nKoriyama-shi Fukushima 963-8861\n\n","c":"JAPAN","o":"P.T.I Co.,LTD"},{"d":"2015-08-27","t":"change","a":"1-5-1,Tsurumidan Koriyama-shi Fukushima JP 963-8861","c":"JP","o":"P.T.I Co.,LTD"}]);

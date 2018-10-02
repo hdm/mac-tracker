@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0593a000000/24",[{"d":"2009-11-10","t":"add","a":"Via Del Pantano 71\nSCANDICCI FI 50018\n\n","c":"ITALY","o":"V.D.S. Video Display Systems srl"},{"d":"2015-08-27","t":"change","a":"Via Del Pantano 71 SCANDICCI FI IT 50018","c":"IT","o":"V.D.S. Video Display Systems srl"}]);

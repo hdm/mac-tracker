@@ -1,0 +1,1 @@
+deepmacDetailCallback("040a83000000/24",[{"d":"2011-02-04","t":"add","a":"Via Trento, 30\nVimenrcate MB 2059\n\n","c":"ITALY","o":"Alcatel-Lucent"},{"d":"2015-08-27","t":"change","a":"Via Trento, 30 Vimenrcate MB IT 2059","c":"IT","o":"Alcatel-Lucent"}]);

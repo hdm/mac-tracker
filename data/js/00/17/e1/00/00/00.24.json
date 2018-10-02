@@ -1,0 +1,1 @@
+deepmacDetailCallback("0017e1000000/24",[{"d":"2006-04-08","t":"add","a":"104 Daeryung-Technotown III 448\nGasan-Dong\nSEOUL Keumcheon-Gu 153-772\n","c":"KOREA, REPUBLIC OF","o":"DACOS Technologies Co., Ltd."},{"d":"2015-08-27","t":"change","a":"104 Daeryung-Technotown III 448 SEOUL Keumcheon-Gu KR 153-772","c":"KR","o":"DACOS Technologies Co., Ltd."}]);

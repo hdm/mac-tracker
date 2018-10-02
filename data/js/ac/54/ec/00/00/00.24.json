@@ -1,0 +1,1 @@
+deepmacDetailCallback("ac54ec000000/24",[{"d":"2011-08-04","t":"add","a":"445 Hoes Lane\nPiscataway NJ 08854\n\n","c":"UNITED STATES","o":"IEEE P1823 Standards Working Group"},{"d":"2015-08-27","t":"change","a":"445 Hoes Lane Piscataway NJ US 08854","c":"US","o":"IEEE P1823 Standards Working Group"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("002101000000/24",[{"d":"2008-04-14","t":"add","a":"C/Rey Pastor 40\nPoligono Industrial Butarque\nLeganes Madrid 28914\n","c":"SPAIN","o":"Aplicaciones Electronicas Quasar (AEQ)","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"C/Rey Pastor 40 Leganes Madrid ES 28914","c":"ES","o":"Aplicaciones Electronicas Quasar (AEQ)"}]);

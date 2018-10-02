@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0a1d7000000/24",[{"d":"2010-10-06","t":"add","a":"40/42 Quai du point du jour\nBoulogne Billancourt Hauts de Seine 92659\n\n","c":"FRANCE","o":"SFR"},{"d":"2015-08-27","t":"change","a":"40/42 Quai du point du jour Boulogne Billancourt Hauts de Seine FR 92659","c":"FR","o":"SFR"}]);

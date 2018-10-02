@@ -1,0 +1,1 @@
+deepmacDetailCallback("00120d000000/24",[{"d":"2004-08-04","t":"add","a":"10390 Wilshire Boulevard\nSuite 1803\nLos Angeles California 90024\n","c":"UNITED STATES","o":"Advanced Telecommunication Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"10390 Wilshire Boulevard Los Angeles California US 90024","c":"US","o":"Advanced Telecommunication Technologies, Inc."}]);

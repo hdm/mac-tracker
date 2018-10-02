@@ -1,0 +1,1 @@
+deepmacDetailCallback("d86c02000000/24",[{"d":"2015-10-17","t":"add","a":"No.1 Building,399 Keyuan Road, Zhangjian Hi-Tech Park, Pudong New Area Shanghai  CN 201203","c":"CN","o":"Huaqin Telecom Technology Co.,Ltd"}]);

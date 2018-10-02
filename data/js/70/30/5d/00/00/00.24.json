@@ -1,0 +1,1 @@
+deepmacDetailCallback("70305d000000/24",[{"d":"2014-01-21","t":"add","a":"8F Ubiquoss B/D, 68, Pangyo-ro 255beon-gil, Bundang-gu\nSeongnam-si Gyeonggi-do 463-400\n\n","c":"KOREA, REPUBLIC OF","o":"Ubiquoss Inc"},{"d":"2015-08-27","t":"change","a":"8F Ubiquoss B/D, 68, Pangyo-ro 255beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 463-400","c":"KR","o":"Ubiquoss Inc"}]);

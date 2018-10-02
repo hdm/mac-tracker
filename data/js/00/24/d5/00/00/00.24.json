@@ -1,0 +1,1 @@
+deepmacDetailCallback("0024d5000000/24",[{"d":"2008-12-28","t":"add","a":"Rm.7, P Floor, Tower A,\nHung Hom Commercial Centre,\nHongKong  852\n","c":"CHINA","o":"Winward Industrial Limited","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Rm.7, P Floor, Tower A, HongKong  CN 852","c":"CN","o":"Winward Industrial Limited"}]);

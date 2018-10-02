@@ -1,0 +1,1 @@
+deepmacDetailCallback("0024bc000000/24",[{"d":"2008-12-21","t":"add","a":"2121, Jeongwang-Dong\nSiheung-Si Gyeonggi-Do 429-793\n\n","c":"KOREA, REPUBLIC OF","o":"HuRob Co.,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2121, Jeongwang-Dong Siheung-Si Gyeonggi-Do KR 429-793","c":"KR","o":"HuRob Co.,Ltd"}]);

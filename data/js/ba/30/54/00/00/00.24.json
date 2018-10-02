@@ -1,0 +1,1 @@
+deepmacDetailCallback("ba3054000000/24",[{"a":"Barlow Road, Aldermans Green Industrial Estate Coventry West Midlands GB CV2 2LD","o":"George Wilson Industries Ltd","d":"2017-05-28","t":"add","s":"ieee","c":"GB"}]);

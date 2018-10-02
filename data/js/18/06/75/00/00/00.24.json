@@ -1,0 +1,1 @@
+deepmacDetailCallback("180675000000/24",[{"d":"2010-03-12","t":"add","a":"Alt-Moabit 96b\nBerlin  10559\n\n","c":"GERMANY","o":"DILAX Intelcom GmbH"},{"d":"2015-08-27","t":"change","a":"Alt-Moabit 96b\nBerlin    10559\n\n","c":"DE","o":"DILAX Intelcom GmbH"},{"d":"2016-08-10","t":"change","a":"Alt-Moabit 96b Berlin  DE 10559","c":"DE","o":"Dilax Intelcom GmbH"}]);

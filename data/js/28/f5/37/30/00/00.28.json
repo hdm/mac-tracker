@@ -1,0 +1,1 @@
+deepmacDetailCallback("28f537300000/28",[{"a":"Koishikawadaikoku Bldg. 3F, 1-3-25  Koishikawa, Bunkyo-ku Tokyo JP 112-0002","o":"PRIMETECH ENGINEERING CORP.","d":"2017-04-30","t":"add","s":"ieee","c":"JP"}]);

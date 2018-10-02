@@ -1,0 +1,1 @@
+deepmacDetailCallback("907a0a000000/24",[{"d":"2013-05-21","t":"add","a":"Ochshaeuser Str. 14\nKassel  34266\n\n","c":"GERMANY","o":"Gebr. Bode GmbH & Co KG"},{"d":"2015-08-27","t":"change","a":"Ochshaeuser Str. 14 Kassel  DE 34266","c":"DE","o":"Gebr. Bode GmbH & Co KG"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0cf405000000/24",[{"d":"2013-02-27","t":"add","a":"Room B 1905,Tri-tower\nNo.66 Zhongguancun eastRoad\nHaidian District Beijing 100190\n","c":"CHINA","o":"Beijing Signalway Technologies Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Room B 1905,Tri-tower Haidian District Beijing CN 100190","c":"CN","o":"Beijing Signalway Technologies Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("144d67000000/24",[{"d":"2016-07-14","t":"add","a":"A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District Shenzhen Guangdong CN 518000","c":"CN","o":"Zioncom Electronics (Shenzhen) Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00187c000000/24",[{"d":"2006-06-13","t":"add","a":"Novoselov str., 58/7\nRyazan  390049\n\n","c":"RUSSIAN FEDERATION","o":"INTERCROSS, LLC"},{"d":"2015-08-27","t":"change","a":"Novoselov str., 58/7 Ryazan  RU 390049","c":"RU","o":"INTERCROSS, LLC"}]);

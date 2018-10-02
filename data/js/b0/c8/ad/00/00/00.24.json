@@ -1,0 +1,1 @@
+deepmacDetailCallback("b0c8ad000000/24",[{"d":"2009-12-06","t":"add","a":"620 Lowell Ave\nPalo Alto CA 94301\n\n","c":"UNITED STATES","o":"People Power Company"},{"d":"2015-08-27","t":"change","a":"620 Lowell Ave Palo Alto CA US 94301","c":"US","o":"People Power Company"}]);

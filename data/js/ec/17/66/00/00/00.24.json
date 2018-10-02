@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec1766000000/24",[{"d":"2014-01-01","t":"add","a":"3 Eight March 4Th Street\nMoscow Moscow 125190\n\n","c":"RUSSIAN FEDERATION","o":"Research Centre Module"},{"d":"2015-08-27","t":"change","a":"3 Eight March 4Th Street Moscow Moscow RU 125190","c":"RU","o":"Research Centre Module"}]);

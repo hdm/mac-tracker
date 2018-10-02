@@ -1,0 +1,1 @@
+deepmacDetailCallback("00188e000000/24",[{"d":"2006-06-13","t":"add","a":"Tallberginkatu 2\nHELSINKI UUSIMAA 00180\n\n","c":"FINLAND","o":"Ekahau, Inc."},{"d":"2013-03-14","t":"change","a":"Hiilikatu 3\nHELSINKI UUSIMAA 00180\n\n","c":"FINLAND","o":"Ekahau, Inc."},{"d":"2015-08-27","t":"change","a":"Hiilikatu 3 HELSINKI UUSIMAA FI 00180","c":"FI","o":"Ekahau, Inc."}]);

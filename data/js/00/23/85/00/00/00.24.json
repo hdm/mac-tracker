@@ -1,0 +1,1 @@
+deepmacDetailCallback("002385000000/24",[{"d":"2008-10-08","t":"add","a":"5 RUE DE DOUAI\nPARIS ILE DE FRANCE 75009\n\n","c":"FRANCE","o":"ANTIPODE","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5 RUE DE DOUAI PARIS ILE DE FRANCE FR 75009","c":"FR","o":"ANTIPODE"}]);

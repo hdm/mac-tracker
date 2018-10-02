@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016a0000000/24",[{"d":"2005-11-29","t":"add","a":"Sophie Radichs Vei 7\nLILLESTROM Akershus 2003\n\n","c":"NORWAY","o":"Auto-Maskin"},{"d":"2015-08-27","t":"change","a":"Sophie Radichs Vei 7 LILLESTROM Akershus NO 2003","c":"NO","o":"Auto-Maskin"}]);

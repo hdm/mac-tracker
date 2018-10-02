@@ -1,0 +1,1 @@
+deepmacDetailCallback("000ffe000000/24",[{"d":"2004-04-03","t":"add","a":"first arrange C YingHu industrial estate QingXi country DongGuan city\nDongGuan GuangDong 523648\n\n","c":"CHINA","o":"G-PRO COMPUTER"},{"d":"2015-08-27","t":"change","a":"first arrange C YingHu industrial estate QingXi country DongGuan city DongGuan GuangDong CN 523648","c":"CN","o":"G-PRO COMPUTER"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("24c86e000000/24",[{"d":"2011-02-09","t":"add","a":"965 Wells Street\nLake Geneva WI 53147\n\n","c":"UNITED STATES","o":"Chaney Instrument Co."},{"d":"2015-08-27","t":"change","a":"965 Wells Street Lake Geneva WI US 53147","c":"US","o":"Chaney Instrument Co."}]);

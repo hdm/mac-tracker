@@ -1,0 +1,1 @@
+deepmacDetailCallback("00130f000000/24",[{"d":"2004-12-11","t":"add","a":"Fevzi Cakmak 2 Sok 31/A\nKIZILAY\nANKARA CANKAYA 06440\n","c":"TURKEY","o":"EGEMEN Bilgisayar Muh San ve Tic LTD STI"},{"d":"2015-08-27","t":"change","a":"Fevzi Cakmak 2 Sok 31/A ANKARA CANKAYA TR 06440","c":"TR","o":"EGEMEN Bilgisayar Muh San ve Tic LTD STI"}]);

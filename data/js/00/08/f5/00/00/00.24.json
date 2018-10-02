@@ -1,0 +1,1 @@
+deepmacDetailCallback("0008f5000000/24",[{"d":"2002-01-30","t":"add","a":"4th FL Kyung-Am B/D 157-27 Samsung-Dong,\nSeoul 135-090\n\n","c":"KOREA, REPUBLIC OF","o":"YESTECHNOLOGY Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4th FL Kyung-Am B/D 157-27 Samsung-Dong,  Seoul KR 135-090","c":"KR","o":"YESTECHNOLOGY Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("38f597000000/24",[{"d":"2012-10-24","t":"add","a":"Im Haslet 42\nWoerth/Donau Bayern 93086\n\n","c":"GERMANY","o":"home2net GmbH"},{"d":"2015-08-27","t":"change","a":"Im Haslet 42 Woerth/Donau Bayern DE 93086","c":"DE","o":"home2net GmbH"}]);

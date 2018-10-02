@@ -1,0 +1,1 @@
+deepmacDetailCallback("001107000000/24",[{"d":"2004-04-15","t":"add","a":"2929 Campus Drive\nSuite 165\nSan Mateo CA 94403\n","c":"UNITED STATES","o":"RGB Networks Inc."},{"d":"2015-08-27","t":"change","a":"2929 Campus Drive San Mateo CA US 94403","c":"US","o":"RGB Networks Inc."}]);

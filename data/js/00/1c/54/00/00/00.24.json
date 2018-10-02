@@ -1,0 +1,1 @@
+deepmacDetailCallback("001c54000000/24",[{"d":"2007-05-13","t":"add","a":"A-1905 e-Wing Center\nZhichun Road, Haidian\nBeijing  100086\n","c":"CHINA","o":"Hillstone Networks Inc"},{"d":"2015-08-27","t":"change","a":"A-1905 e-Wing Center Beijing  CN 100086","c":"CN","o":"Hillstone Networks Inc"}]);

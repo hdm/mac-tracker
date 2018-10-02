@@ -1,0 +1,1 @@
+deepmacDetailCallback("000eb9000000/24",[{"d":"2003-12-21","t":"add","a":"3866-12 Takasu-cho\nMatsusaka Mie 515-0104\n\n","c":"JAPAN","o":"HASHIMOTO Electronics Industry Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3866-12 Takasu-cho Matsusaka Mie JP 515-0104","c":"JP","o":"HASHIMOTO Electronics Industry Co.,Ltd."}]);

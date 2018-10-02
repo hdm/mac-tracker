@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f42000000/24",[{"d":"2004-01-23","t":"add","a":"Grenier 9\nCommugny VD 1291\n\n","c":"SWITZERLAND","o":"Xalyo Systems","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Grenier 9 Commugny VD CH 1291","c":"CH","o":"Xalyo Systems"}]);

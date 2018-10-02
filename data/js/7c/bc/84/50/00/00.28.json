@@ -1,0 +1,1 @@
+deepmacDetailCallback("7cbc84500000/28",[{"a":"3/f, no.6 guichun road, qingxiu district Nanning Guangxi CN 530021","o":"Nanning auto digital technology co.,LTD","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

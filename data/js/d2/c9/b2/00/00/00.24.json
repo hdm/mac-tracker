@@ -1,0 +1,1 @@
+deepmacDetailCallback("d2c9b2000000/24",[{"d":"2015-08-27","t":"add","a":"482 Mercury Drive\nSunnyvale  California  94085\n\n","c":"US","o":"Quanergy Systems Inc"},{"d":"2015-09-01","t":"delete","a":"482 Mercury Drive\nSunnyvale  California  94085\n\n","c":"US","o":"Quanergy Systems Inc"}]);

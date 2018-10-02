@@ -1,0 +1,1 @@
+deepmacDetailCallback("080042000000/24",[{"d":"2000-11-23","t":"add","a":"\n\n\n","c":"JAPAN","o":"JAPAN MACNICS CORP.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"JP","c":"JP","o":"JAPAN MACNICS CORP."}]);

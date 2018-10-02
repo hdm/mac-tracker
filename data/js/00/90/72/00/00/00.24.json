@@ -1,0 +1,1 @@
+deepmacDetailCallback("009072000000/24",[{"d":"1998-04-22","t":"add","a":"P.O. BOX 111\n3191 HORTEN\n\n","c":"NORWAY","o":"SIMRAD AS"},{"d":"2015-08-27","t":"change","a":"P.O. BOX 111  3191 HORTEN NO","c":"NO","o":"SIMRAD AS"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009fd000000/24",[{"d":"2002-06-05","t":"add","a":"Cambridge Technology Centre\nMelbourn Hertfordshire SG8 6DP\n\n","c":"UNITED KINGDOM","o":"Ubinetics Limited"},{"d":"2015-08-27","t":"change","a":"Cambridge Technology Centre Melbourn Hertfordshire GB SG8 6DP","c":"GB","o":"Ubinetics Limited"}]);

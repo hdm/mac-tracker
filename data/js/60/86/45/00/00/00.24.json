@@ -1,0 +1,1 @@
+deepmacDetailCallback("608645000000/24",[{"d":"2011-09-15","t":"add","a":"1000 Armstrong Drive\nFairmont MN 56031\n\n","c":"UNITED STATES","o":"Avery Weigh-Tronix, LLC"},{"d":"2015-08-27","t":"change","a":"1000 Armstrong Drive Fairmont MN US 56031","c":"US","o":"Avery Weigh-Tronix, LLC"}]);

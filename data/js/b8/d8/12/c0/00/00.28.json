@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8d812c00000/28",[{"a":"Floor 6, Taike Building, No 2 Taike Road, Futian Shenzhen Guangdong CN 518049","o":"Yuwei Info&Tech Development Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

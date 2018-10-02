@@ -1,0 +1,1 @@
+deepmacDetailCallback("a414f2000000/24",[{"d":"2012-04-12","t":"add","a":"2280 boul. Alfred-Nobel\nSuite 400\nSt,. Laurent Quebec H4S 2A4\n","c":"CANADA","o":"Genetec Inc."},{"d":"2012-04-14","t":"delete","a":"2280 boul. Alfred-Nobel\nSuite 400\nSt,. Laurent Quebec H4S 2A4\n","c":"CANADA","o":"Genetec Inc."}]);

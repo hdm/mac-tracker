@@ -1,0 +1,1 @@
+deepmacDetailCallback("bc1a67000000/24",[{"d":"2013-10-17","t":"add","a":"No.62,South Fumin Road,\nFumin Industrial Park, Dalang Town,\nDongguang Guangdong 523773\n","c":"CHINA","o":"YF Technology Co., Ltd"},{"d":"2015-08-27","t":"change","a":"No.62,South Fumin Road, Dongguang Guangdong CN 523773","c":"CN","o":"YF Technology Co., Ltd"}]);

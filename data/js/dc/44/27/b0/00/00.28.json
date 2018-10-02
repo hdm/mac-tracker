@@ -1,0 +1,1 @@
+deepmacDetailCallback("dc4427b00000/28",[{"a":"No.55, Fengcheng St., Bade District, Taoyuan City 334, Taiwan(R.O.C) Taoyuan City NA TW 334","o":"Nautilus Infotech CO., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);

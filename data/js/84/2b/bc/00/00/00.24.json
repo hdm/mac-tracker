@@ -1,0 +1,1 @@
+deepmacDetailCallback("842bbc000000/24",[{"d":"2012-07-17","t":"add","a":"Plainbachstrasse 4\nBergheim  5101\n\n","c":"AUSTRIA","o":"Modelleisenbahn GmbH"},{"d":"2015-08-27","t":"change","a":"Plainbachstrasse 4 Bergheim  AT 5101","c":"AT","o":"Modelleisenbahn GmbH"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0017bd000000/24",[{"d":"2006-04-08","t":"add","a":"6F IT Castle II 550-1 Gasan-dong\nSeoul Geumcheon-gu 153-803\n\n","c":"KOREA, REPUBLIC OF","o":"Tibetsystem"},{"d":"2015-08-27","t":"change","a":"6F IT Castle II 550-1 Gasan-dong Seoul Geumcheon-gu KR 153-803","c":"KR","o":"Tibetsystem"}]);

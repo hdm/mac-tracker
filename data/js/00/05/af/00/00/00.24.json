@@ -1,0 +1,1 @@
+deepmacDetailCallback("0005af000000/24",[{"d":"2001-06-04","t":"add","a":"Soren Frichsvej 42R\nDK-8230 Aabyhoj\n\n","c":"DENMARK","o":"InnoScan Computing A/S"},{"d":"2015-08-27","t":"change","a":"Soren Frichsvej 42R   DK","c":"DK","o":"InnoScan Computing A/S"}]);

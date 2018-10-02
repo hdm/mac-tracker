@@ -1,0 +1,1 @@
+deepmacDetailCallback("001a20000000/24",[{"d":"2006-11-02","t":"add","a":"5F Etronix Bldg. 17-10\nYoido-Dong\nYoungdungpo-Gu Seoul 150-874\n","c":"KOREA, REPUBLIC OF","o":"CMOTECH Co. Ltd."},{"d":"2015-08-27","t":"change","a":"5F Etronix Bldg. 17-10 Youngdungpo-Gu Seoul KR 150-874","c":"KR","o":"CMOTECH Co. Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("38f33f000000/24",[{"d":"2014-05-22","t":"add","a":"2-6,Mita 3-Chome,Minato-ku\nTokyo 108-8520\n\n","c":"JAPAN","o":"TATSUNO CORPORATION"},{"d":"2015-08-27","t":"change","a":"2-6,Mita 3-Chome,Minato-ku  Tokyo JP 108-8520","c":"JP","o":"TATSUNO CORPORATION"}]);

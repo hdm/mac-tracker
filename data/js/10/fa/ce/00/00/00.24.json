@@ -1,0 +1,1 @@
+deepmacDetailCallback("10face000000/24",[{"d":"2014-08-05","t":"add","a":"Building No.5-401,\nNo.3000 Long Dong Avenue,\nPu Dong New District, Shanghai 201203\n","c":"CHINA","o":"Reacheng Communication Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Building No.5-401, Pu Dong New District, Shanghai CN 201203","c":"CN","o":"Reacheng Communication Technology Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5c2d000/36",[{"a":"Unit F,  6 Floor, Cheung Hing Shing Centre, No.23 Sha Tsui Road Tsuen Wan  HK 0000","o":"Ensotech Limited","d":"2018-09-30","t":"add","s":"ieee","c":"HK"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c4759000000/24",[{"d":"2018-02-23","t":"add","a":"Room 2201,No.8,Ruichuang International B Block,Wangjing East Road Beijing  CN 100102","c":"CN","o":"Beijing MEGA preponderance Science & Technology Co. Ltd"}]);

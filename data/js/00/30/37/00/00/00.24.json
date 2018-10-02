@@ -1,0 +1,1 @@
+deepmacDetailCallback("003037000000/24",[{"d":"2000-09-08","t":"add","a":"299 avenue Patton, BP 645\n49006 Angers Cedex 01\n\n","c":"FRANCE","o":"Packard Bell Nec Services"},{"d":"2015-08-27","t":"change","a":"299 avenue Patton, BP 645 49006 Angers Cedex 01  FR","c":"FR","o":"Packard Bell Nec Services"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00195a000000/24",[{"d":"2006-08-15","t":"add","a":"Buchaer Strasse 1\nJena Thueringen 07745\n\n","c":"GERMANY","o":"Jenaer Antriebstechnik GmbH"},{"d":"2015-08-27","t":"change","a":"Buchaer Strasse 1 Jena Thueringen DE 07745","c":"DE","o":"Jenaer Antriebstechnik GmbH"}]);

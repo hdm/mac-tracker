@@ -1,0 +1,1 @@
+deepmacDetailCallback("e01d38000000/24",[{"d":"2014-05-14","t":"add","a":"30F,Beijing Silver Tower\nNo.2 North Road,Dong San Huan\nChao Yang Dist Beijing 100027\n","c":"CHINA","o":"Beijing HuaqinWorld Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"30F,Beijing Silver Tower Chao Yang Dist Beijing CN 100027","c":"CN","o":"Beijing HuaqinWorld Technology Co.,Ltd"}]);

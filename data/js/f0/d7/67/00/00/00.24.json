@@ -1,0 +1,1 @@
+deepmacDetailCallback("f0d767000000/24",[{"d":"2010-04-03","t":"add","a":"Box 90 215\nStockholm  120 23\n\n","c":"SWEDEN","o":"Axema Passagekontroll AB"},{"d":"2015-08-27","t":"change","a":"Box 90 215 Stockholm  SE 120 23","c":"SE","o":"Axema Passagekontroll AB"}]);

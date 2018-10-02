@@ -1,0 +1,1 @@
+deepmacDetailCallback("84af1f000000/24",[{"d":"2012-02-16","t":"add","a":"1-11-1-2F, Nodaya-cho\nKita-ku\nOkayama-city Okayama 700-0815\n","c":"JAPAN","o":"Beat System Service Co,. Ltd."},{"d":"2015-08-27","t":"change","a":"1-11-1-2F, Nodaya-cho Okayama-city Okayama JP 700-0815","c":"JP","o":"Beat System Service Co,. Ltd."}]);

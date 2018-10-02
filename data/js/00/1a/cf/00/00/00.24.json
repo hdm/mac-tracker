@@ -1,0 +1,1 @@
+deepmacDetailCallback("001acf000000/24",[{"d":"2006-12-17","t":"add","a":"Via Caduti di Nassiriya 5 B\nBarberino Val D'Elsa (FI)  50021\n\n","c":"ITALY","o":"C.T. ELETTRONICA"},{"d":"2015-08-27","t":"change","a":"Via Caduti di Nassiriya 5 B Barberino Val D'Elsa (FI)  IT 50021","c":"IT","o":"C.T. ELETTRONICA"}]);

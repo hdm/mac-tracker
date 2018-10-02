@@ -1,0 +1,1 @@
+deepmacDetailCallback("000e32000000/24",[{"d":"2003-09-08","t":"add","a":"Reinacherstrasse 131\nBasel  4002\n\n","c":"SWITZERLAND","o":"Kontron Medical","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Reinacherstrasse 131 Basel  CH 4002","c":"CH","o":"Kontron Medical"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00075d000000/24",[{"d":"2001-10-24","t":"add","a":"c/o Celeritas Ltd.\nBezalel 29, Ramat-Gan\n\n","c":"ISRAEL","o":"Celleritas Inc."},{"d":"2015-08-27","t":"change","a":"c/o Celeritas Ltd.   IL","c":"IL","o":"Celleritas Inc."}]);

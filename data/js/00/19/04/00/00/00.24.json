@@ -1,0 +1,1 @@
+deepmacDetailCallback("001904000000/24",[{"d":"2006-07-14","t":"add","a":"ul. Poznanska 129/133\nOzarow Mazowiecki Mazowieckie 05-850\n\n","c":"POLAND","o":"WB Electronics Sp. z o.o."},{"d":"2015-08-27","t":"change","a":"ul. Poznanska 129/133 Ozarow Mazowiecki Mazowieckie PL 05-850","c":"PL","o":"WB Electronics Sp. z o.o."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001553000000/24",[{"d":"2005-08-04","t":"add","a":"250 Campus Dive\nMarlborough MA 01752\n\n","c":"UNITED STATES","o":"Cytyc Corporation"},{"d":"2015-08-27","t":"change","a":"250 Campus Dive Marlborough MA US 01752","c":"US","o":"Cytyc Corporation"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b9a000000/24",[{"d":"2002-10-23","t":"add","a":"6 Floor, Building 3\n230 West Jiangwan Road\nShanghai  200083\n","c":"CHINA","o":"Shanghai Ulink Telecom Equipment Co. Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6 Floor, Building 3 Shanghai  CN 200083","c":"CN","o":"Shanghai Ulink Telecom Equipment Co. Ltd."}]);

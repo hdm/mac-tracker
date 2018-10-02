@@ -1,0 +1,1 @@
+deepmacDetailCallback("7cc4ef000000/24",[{"d":"2014-03-22","t":"add","a":"126, rue RÃ©aumur\nParis Paris 75002\n\n","c":"FRANCE","o":"Devialet"},{"d":"2015-08-27","t":"change","a":"126, rue Réaumur Paris Paris FR 75002","c":"FR","o":"Devialet"}]);

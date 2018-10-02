@@ -1,0 +1,1 @@
+deepmacDetailCallback("9046b7000000/24",[{"d":"2013-04-03","t":"add","a":"71 Ayer Rajah Crescent\n#04-18 Ayer Rajah Industrial Estate\n139951\n","c":"SINGAPORE","o":"Vadaro Pte Ltd"},{"d":"2015-08-27","t":"change","a":"71 Ayer Rajah Crescent   SG 139951","c":"SG","o":"Vadaro Pte Ltd"}]);

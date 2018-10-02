@@ -1,0 +1,1 @@
+deepmacDetailCallback("e81863300000/28",[{"a":"10th floor, Jinhui Bussiness Building, DongGuan City GuangDong Province CN 523850","o":"DongGuan Pengxun Electronics Technology Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

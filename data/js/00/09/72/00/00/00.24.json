@@ -1,0 +1,1 @@
+deepmacDetailCallback("000972000000/24",[{"d":"2002-03-29","t":"add","a":"2nd Fl,Seungseung-Bldg,Dokok 2-Dong,Kang\nSeoul  135-854\n\n","c":"KOREA, REPUBLIC OF","o":"Securebase,Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2nd Fl,Seungseung-Bldg,Dokok 2-Dong,Kang Seoul  KR 135-854","c":"KR","o":"Securebase,Inc"}]);

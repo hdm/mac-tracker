@@ -1,0 +1,1 @@
+deepmacDetailCallback("28cd4c000000/24",[{"d":"2010-02-19","t":"add","a":"Im Zemmer 6\nWoffelsbach NRW 52152\n\n","c":"GERMANY","o":"Individual Computers GmbH"},{"d":"2015-08-27","t":"change","a":"Im Zemmer 6 Woffelsbach NRW DE 52152","c":"DE","o":"Individual Computers GmbH"}]);

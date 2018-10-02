@@ -1,0 +1,1 @@
+deepmacDetailCallback("f86971000000/24",[{"d":"2011-01-25","t":"add","a":"1458-7\nHazama\nHachioji Tokyo 193-0941\n","c":"JAPAN","o":"Seibu Electric Co.,"},{"d":"2015-08-27","t":"change","a":"1458-7 Hachioji Tokyo JP 193-0941","c":"JP","o":"Seibu Electric Co.,"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000df3000000/24",[{"d":"2003-09-08","t":"add","a":"Tatarska 5\nCracow  30-103\n\n","c":"POLAND","o":"Asmax Solutions","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Tatarska 5 Cracow  PL 30-103","c":"PL","o":"Asmax Solutions"}]);

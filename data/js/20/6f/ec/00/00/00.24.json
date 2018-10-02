@@ -1,0 +1,1 @@
+deepmacDetailCallback("206fec000000/24",[{"d":"2010-05-19","t":"add","a":"43134 Osgood Road\nFremont CA 94539\n\n","c":"UNITED STATES","o":"Braemac CA LLC"},{"d":"2015-08-27","t":"change","a":"43134 Osgood Road Fremont CA US 94539","c":"US","o":"Braemac CA LLC"}]);

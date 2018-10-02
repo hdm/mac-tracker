@@ -1,0 +1,1 @@
+deepmacDetailCallback("000d39000000/24",[{"d":"2003-06-01","t":"add","a":"Box 1020\nSandefjord Sandefjord N3204\n\n","c":"NORWAY","o":"Network Electronics"},{"d":"2015-08-27","t":"change","a":"Box 1020 Sandefjord Sandefjord NO N3204","c":"NO","o":"Network Electronics"}]);

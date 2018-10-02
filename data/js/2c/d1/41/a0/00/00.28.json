@@ -1,0 +1,1 @@
+deepmacDetailCallback("2cd141a00000/28",[{"a":"2F,5# Building,Minxing Industrial Park,MinKang Rd.Minzhi,Longhua District,ShenZhen China. shenzhen GuangDong CN 518131","o":"Fiberroad Technology Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

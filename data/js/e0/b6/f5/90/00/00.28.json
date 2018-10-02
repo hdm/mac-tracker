@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0b6f5900000/28",[{"a":"#244,17th cross Sector 6 HSR Layout Bangalore Karnataka IN 560102","o":"Motiveprime Consumer Electronics Pvt Ltd","d":"2016-02-21","t":"add","s":"ieee","c":"IN"}]);

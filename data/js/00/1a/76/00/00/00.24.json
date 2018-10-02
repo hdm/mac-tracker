@@ -1,0 +1,1 @@
+deepmacDetailCallback("001a76000000/24",[{"d":"2006-11-29","t":"add","a":"Samil B/B 2F, 5-63 Hyochang-dong\nYongsan-Ku,\nSeoul  140-896\n","c":"KOREA, REPUBLIC OF","o":"SDT information Technology Co.,LTD."},{"d":"2015-08-27","t":"change","a":"Samil B/B 2F, 5-63 Hyochang-dong Seoul  KR 140-896","c":"KR","o":"SDT information Technology Co.,LTD."}]);

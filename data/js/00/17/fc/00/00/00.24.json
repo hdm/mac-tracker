@@ -1,0 +1,1 @@
+deepmacDetailCallback("0017fc000000/24",[{"d":"2006-04-13","t":"add","a":"16F Parkview Office Tower,\nJeongja-dong, Bundang-gu,\nSeongnam Gyeonggi 463-863\n","c":"KOREA, REPUBLIC OF","o":"Suprema Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"16F Parkview Office Tower, Seongnam Gyeonggi KR 463-863","c":"KR","o":"Suprema Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("d0bd01000000/24",[{"d":"2013-10-22","t":"add","a":"806ho, ACE HITECH21 B/D\n1470 U-Dong, Haeundae-gu\nBusan Busan 612-020\n","c":"KOREA, REPUBLIC OF","o":"DS International"},{"d":"2015-08-27","t":"change","a":"806ho, ACE HITECH21 B/D Busan Busan KR 612-020","c":"KR","o":"DS International"}]);

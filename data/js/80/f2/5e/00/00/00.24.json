@@ -1,0 +1,1 @@
+deepmacDetailCallback("80f25e000000/24",[{"d":"2013-09-11","t":"add","a":"Pirttikuja 3\nOulu 90450\n\n","c":"FINLAND","o":"Kyynel"},{"d":"2015-08-27","t":"change","a":"Pirttikuja 3  Oulu FI 90450","c":"FI","o":"Kyynel"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("58e876d00000/28",[{"a":"Room 1501,15th floor,Building C,DaTang YOHO Park,Huli district Xiamen Fujian CN 361000","o":"Xiamen Cacamle Technology Co.,Ltd.","d":"2016-05-15","t":"add","s":"ieee","c":"CN"}]);

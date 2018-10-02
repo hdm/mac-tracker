@@ -1,0 +1,1 @@
+deepmacDetailCallback("001aac000000/24",[{"d":"2006-12-12","t":"add","a":"Tegnergatan 37\nStockholm  11161\n\n","c":"SWEDEN","o":"Corelatus AB"},{"d":"2015-08-27","t":"change","a":"Tegnergatan 37 Stockholm  SE 11161","c":"SE","o":"Corelatus AB"}]);

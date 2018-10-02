@@ -1,0 +1,1 @@
+deepmacDetailCallback("8cd2e9000000/24",[{"d":"2016-03-09","t":"add","a":"1-71 Toriki-cho Araya\nAkita-city    010-1633\n\n","c":"JP","o":"NIPPON SMT Co.Ltï½"},{"d":"2017-05-24","t":"change","a":"10-18 Minami-Gosyono Yasumoto Yokote-City Akita JP 013-0811","c":"JP","o":"YOKOTE SEIKO CO., LTD."}]);

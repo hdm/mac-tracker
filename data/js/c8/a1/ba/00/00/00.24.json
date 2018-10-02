@@ -1,0 +1,1 @@
+deepmacDetailCallback("c8a1ba000000/24",[{"d":"2011-05-21","t":"add","a":"Suite 42 Innovation Centre\nUnit 23 Science Park\nCambridge Cambs CB4 0EY\n","c":"UNITED KINGDOM","o":"Neul Ltd"},{"d":"2015-08-27","t":"change","a":"Suite 42 Innovation Centre Cambridge Cambs GB CB4 0EY","c":"GB","o":"Neul Ltd"}]);

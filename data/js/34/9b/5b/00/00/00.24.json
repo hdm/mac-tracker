@@ -1,0 +1,1 @@
+deepmacDetailCallback("349b5b000000/24",[{"d":"2015-03-03","t":"add","a":"Kehler Strasse 31\nRastatt Baden-WÃ¼rttemberg 76437\n\n","c":"GERMANY","o":"Maquet GmbH"},{"d":"2015-08-27","t":"change","a":"Kehler Strasse 31 Rastatt Baden-Württemberg DE 76437","c":"DE","o":"Maquet GmbH"}]);

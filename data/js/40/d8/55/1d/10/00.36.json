@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d8551d1000/36",[{"a":"5/F, Building B, 15 Xueyuan South Rd, Haidian District Beijing CN 100088","o":"Founder Broadband Network Service Co.,Ltd.","d":"2013-12-15","t":"add","s":"ieee","c":"CN"}]);

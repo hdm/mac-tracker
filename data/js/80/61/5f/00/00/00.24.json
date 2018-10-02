@@ -1,0 +1,1 @@
+deepmacDetailCallback("80615f000000/24",[{"d":"2017-05-16","t":"add","a":"Room 504,Block A, New material Building, Yongfeng industrial, Haiding District, Beijing.China Beijing Beijing CN 100000","c":"CN","o":"Beijing Sinead Technology Co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("68a8e1000000/24",[{"d":"2018-04-25","t":"add","a":"Sumitomo Fudosan Shinjuku Grand Tower 31F,8-17-1\n\n\n","c":"Nishi-shinjuku,Shinjuku-ku  Tokyo  160-6131","o":"Wacom Co.,Ltd."},{"d":"2018-04-26","t":"change","a":"Sumitomo Fudosan Shinjuku Grand Tower 31F,8-17-1 Nishi-shinjuku,Shinjuku-ku Tokyo JP 160-6131","c":"JP","o":"Wacom Co.,Ltd."}]);

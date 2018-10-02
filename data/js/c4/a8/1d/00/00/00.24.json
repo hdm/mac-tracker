@@ -1,0 +1,1 @@
+deepmacDetailCallback("c4a81d000000/24",[{"d":"2013-11-05","t":"add","a":"1 Internal Business Park, #03-12\nThe Synergy\nSingapore 609917\n","c":"SINGAPORE","o":" D-Link International"},{"d":"2015-10-10","t":"change","a":"1 Internal Business Park, #03-12, SINGAPORE Singapore SG 609917","c":"SG","o":"D-Link International"}]);

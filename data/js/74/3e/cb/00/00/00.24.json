@@ -1,0 +1,1 @@
+deepmacDetailCallback("743ecb000000/24",[{"d":"2013-09-26","t":"add","a":"15F No.738-5 JhengJhong Rd\nJhengHo dist\nNew Taipei city  235\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Gentrice tech"},{"d":"2015-08-27","t":"change","a":"15F No.738-5 JhengJhong Rd New Taipei city  TW 235","c":"TW","o":"Gentrice tech"}]);

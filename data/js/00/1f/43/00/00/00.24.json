@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f43000000/24",[{"d":"2007-12-31","t":"add","a":"Y. Dudullu Org. San. Bol. And Sanayi Sit. No.6\nUmraniye\nIstanbul Dudullu 34775\n","c":"TURKEY","o":"ENTES ELEKTRONIK"},{"d":"2015-08-27","t":"change","a":"Y. Dudullu Org. San. Bol. And Sanayi Sit. No.6 Istanbul Dudullu TR 34775","c":"TR","o":"ENTES ELEKTRONIK"}]);

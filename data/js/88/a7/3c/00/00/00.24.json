@@ -1,0 +1,1 @@
+deepmacDetailCallback("88a73c000000/24",[{"d":"2013-11-16","t":"add","a":"D10/D11, No.3188, Xiupu Road\nPuDong District\nShanghai 201315\n","c":"CHINA","o":"Ragentek Technology Group"},{"d":"2015-08-27","t":"change","a":"D10/D11, No.3188, Xiupu Road  Shanghai CN 201315","c":"CN","o":"Ragentek Technology Group"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("a4e9a3000000/24",[{"d":"2013-08-23","t":"add","a":"5F, KyungDong Bldg. 906-5,\nJijok-Dong, Yuseong-Gu,\nDaejeon 305-330\n","c":"KOREA, REPUBLIC OF","o":"Honest Technology Co., Ltd"},{"d":"2015-08-27","t":"change","a":"5F, KyungDong Bldg. 906-5,  Daejeon KR 305-330","c":"KR","o":"Honest Technology Co., Ltd"}]);

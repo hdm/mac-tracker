@@ -1,0 +1,1 @@
+deepmacDetailCallback("00253b000000/24",[{"d":"2009-02-15","t":"add","a":"Kotzinastrasse 5\nLinz Upper Austria 4030\n\n","c":"AUSTRIA","o":"din Dietmar Nocker Facilitymanagement GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kotzinastrasse 5 Linz Upper Austria AT 4030","c":"AT","o":"din Dietmar Nocker Facilitymanagement GmbH"}]);

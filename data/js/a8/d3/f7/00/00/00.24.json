@@ -1,0 +1,1 @@
+deepmacDetailCallback("a8d3f7000000/24",[{"d":"2015-08-12","t":"add","a":"No.8, Sec.2, Guangfu Rd.,\nHsinchu City Hsinchu 30071\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Arcadyan Technology Corporation"},{"d":"2015-08-27","t":"change","a":"No.8, Sec.2, Guangfu Rd., Hsinchu City Hsinchu TW 30071","c":"TW","o":"Arcadyan Technology Corporation"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("002059000000/24",[{"d":"1998-04-22","t":"add","a":"CARL MIELE STR. 4\nD-38112 BRAUNSCHWEIG\n\n","c":"GERMANY","o":"MIRO COMPUTER PRODUCTS AG"},{"d":"2015-08-27","t":"change","a":"CARL MIELE STR. 4 D-38112 BRAUNSCHWEIG  DE","c":"DE","o":"MIRO COMPUTER PRODUCTS AG"}]);

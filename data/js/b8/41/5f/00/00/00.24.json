@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8415f000000/24",[{"d":"2010-10-02","t":"add","a":"Max- Planck-Str. 15 a-c\nErkrath NRW 40699\n\n","c":"GERMANY","o":"ASP AG"},{"d":"2015-08-27","t":"change","a":"Max- Planck-Str. 15 a-c Erkrath NRW DE 40699","c":"DE","o":"ASP AG"}]);

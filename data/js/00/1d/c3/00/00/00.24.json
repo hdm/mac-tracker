@@ -1,0 +1,1 @@
+deepmacDetailCallback("001dc3000000/24",[{"d":"2007-08-18","t":"add","a":"Kostomarovsky per.,3\nMoscow  105120\n\n","c":"RUSSIAN FEDERATION","o":"RIKOR TV, Ltd"},{"d":"2015-08-27","t":"change","a":"Kostomarovsky per.,3 Moscow  RU 105120","c":"RU","o":"RIKOR TV, Ltd"}]);

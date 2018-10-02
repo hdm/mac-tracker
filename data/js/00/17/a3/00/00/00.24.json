@@ -1,0 +1,1 @@
+deepmacDetailCallback("0017a3000000/24",[{"d":"2006-03-15","t":"add","a":"Via Caldera, 21\nMilan  I-20153\n\n","c":"ITALY","o":"MIX s.r.l.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Caldera, 21 Milan  IT I-20153","c":"IT","o":"MIX s.r.l."}]);

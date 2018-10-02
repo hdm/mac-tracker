@@ -1,0 +1,1 @@
+deepmacDetailCallback("00137b000000/24",[{"d":"2005-02-06","t":"add","a":"5th, Hyunjuk B/D\n140-28, Samsung-dong, Kangnam-ku\nSeoul  135-092\n","c":"KOREA, REPUBLIC OF","o":"Movon Corporation"},{"d":"2015-08-27","t":"change","a":"5th, Hyunjuk B/D Seoul  KR 135-092","c":"KR","o":"Movon Corporation"}]);

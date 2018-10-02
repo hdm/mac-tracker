@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec79f2000000/24",[{"d":"2018-06-05","t":"add","a":"Xi Chuang Industrial Park，Second industrial district of Guan Long Village，Xili town ，Nanshan District Shenzhen Guangdong CN 518055","c":"CN","o":"Startel"}]);

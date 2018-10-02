@@ -1,0 +1,1 @@
+deepmacDetailCallback("b0416f000000/24",[{"d":"2018-01-09","t":"add","a":"6/F, Bldg.3, Honghui Industrial Park, Liuxian 2nd Rd., Bao'an Dist. Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen Maxtang Computer Co.,Ltd"}]);

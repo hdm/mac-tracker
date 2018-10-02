@@ -1,0 +1,1 @@
+deepmacDetailCallback("e8f928000000/24",[{"d":"2011-01-25","t":"add","a":"VIA VENETO, 22\nSCHIO VICENZA 36015\n\n","c":"ITALY","o":"RFTECH SRL"},{"d":"2015-08-27","t":"change","a":"VIA VENETO, 22 SCHIO VICENZA IT 36015","c":"IT","o":"RFTECH SRL"}]);

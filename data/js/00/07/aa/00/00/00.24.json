@@ -1,0 +1,1 @@
+deepmacDetailCallback("0007aa000000/24",[{"d":"2001-10-24","t":"add","a":"2111 Big Timber Rd.\nElgin IL 60123-1100\n\n","c":"UNITED STATES","o":"Quantum Data Inc."},{"d":"2015-08-27","t":"change","a":"2111 Big Timber Rd. Elgin IL US 60123-1100","c":"US","o":"Quantum Data Inc."}]);

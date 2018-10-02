@@ -1,0 +1,1 @@
+deepmacDetailCallback("bcd940000000/24",[{"d":"2012-04-25","t":"add","a":"1-3-1 Sotokanda Chiyoda-ku\nTokyo  101-0021\n\n","c":"JAPAN","o":"ASR Co,.Ltd."},{"d":"2015-08-27","t":"change","a":"1-3-1 Sotokanda Chiyoda-ku Tokyo  JP 101-0021","c":"JP","o":"ASR Co,.Ltd."}]);

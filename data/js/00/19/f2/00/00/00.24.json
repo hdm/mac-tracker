@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019f2000000/24",[{"d":"2006-10-16","t":"add","a":"272-13, Heisei, Takaono\nOzu-machi\nKikuchi-gun Kumamoto 869-1232\n","c":"JAPAN","o":"Teradyne K.K.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"272-13, Heisei, Takaono Kikuchi-gun Kumamoto JP 869-1232","c":"JP","o":"Teradyne K.K."}]);

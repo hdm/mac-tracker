@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0e25a000000/24",[{"d":"2012-10-20","t":"add","a":"Koreszkova 9\nSkalica Trnavsky kraj 90901\n\n","c":"SLOVAKIA","o":"Amicus SK, s.r.o."},{"d":"2015-08-27","t":"change","a":"Koreszkova 9 Skalica Trnavsky kraj SK 90901","c":"SK","o":"Amicus SK, s.r.o."}]);

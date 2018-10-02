@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e5c000000/24",[{"d":"2007-10-04","t":"add","a":"Bulevar despota stefana 59a\nBeograd Serbia 11000\n\n","c":"YUGOSLAVIA","o":"RB GeneralEkonomik"},{"d":"2015-08-27","t":"change","a":"Bulevar despota stefana 59a Beograd Serbia YU 11000","c":"YU","o":"RB GeneralEkonomik"}]);

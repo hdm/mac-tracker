@@ -1,0 +1,1 @@
+deepmacDetailCallback("001d93000000/24",[{"d":"2007-08-18","t":"add","a":"Jinsuk Building 1536-7\nSeocho-Dong, Seocho-Gu\nSeoul  137-073\n","c":"KOREA, REPUBLIC OF","o":"Modacom"},{"d":"2015-08-27","t":"change","a":"Jinsuk Building 1536-7 Seoul  KR 137-073","c":"KR","o":"Modacom"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("08cd9b000000/24",[{"d":"2014-04-05","t":"add","a":"Saarstrasse 27\nFilderstadt Baden-Wuerttemberg 70794\n\n","c":"GERMANY","o":"samtec automotive electronics & software GmbH"},{"d":"2015-08-27","t":"change","a":"Saarstrasse 27 Filderstadt Baden-Wuerttemberg DE 70794","c":"DE","o":"samtec automotive electronics & software GmbH"}]);

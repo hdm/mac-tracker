@@ -1,0 +1,1 @@
+deepmacDetailCallback("a019b2d00000/28",[{"a":"Room1602,No68 Taidong Road,Siming District,Xiamen City Xiamen FuJian CN 361000","o":"RYD Electronic Technology Co.,Ltd.","d":"2018-03-11","t":"add","s":"ieee","c":"CN"}]);

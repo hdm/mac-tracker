@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c07000000/24",[{"d":"2002-12-12","t":"add","a":"Schwimmbadstrasse 43\nWettingen AG 5430\n\n","c":"SWITZERLAND","o":"Iftest AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Schwimmbadstrasse 43 Wettingen AG CH 5430","c":"CH","o":"Iftest AG"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c95000000/24",[{"d":"2003-03-02","t":"add","a":"Hongik University, 72-1, Sangsu-Dong, Ma\nSeoul  121-791\n\n","c":"KOREA, REPUBLIC OF","o":"PrimeNet","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Hongik University, 72-1, Sangsu-Dong, Ma Seoul  KR 121-791","c":"KR","o":"PrimeNet"}]);

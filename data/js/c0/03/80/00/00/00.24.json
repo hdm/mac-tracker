@@ -1,0 +1,1 @@
+deepmacDetailCallback("c00380000000/24",[{"d":"2018-04-03","t":"add","a":"1133 Innovation Way\nSunnyvale  CA  94089\n\n","c":"UNITED STATES","o":"Juniper Networks"},{"d":"2018-04-04","t":"change","a":"1133 Innovation Way Sunnyvale CA US 94089","c":"US","o":"Juniper Networks"}]);

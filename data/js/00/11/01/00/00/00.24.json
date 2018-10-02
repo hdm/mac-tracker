@@ -1,0 +1,1 @@
+deepmacDetailCallback("001101000000/24",[{"d":"2004-04-03","t":"add","a":"100 Jurong East Street 21\nSingapore Technologies Building\n609602\n","c":"SINGAPORE","o":"CET Technologies Pte Ltd"},{"d":"2015-08-27","t":"change","a":"100 Jurong East Street 21   SG 609602","c":"SG","o":"CET Technologies Pte Ltd"}]);

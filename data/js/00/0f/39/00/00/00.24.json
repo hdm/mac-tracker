@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f39000000/24",[{"d":"2004-01-23","t":"add","a":"ZA les Ufernets\nTOULAUD Ardeche F07130\n\n","c":"FRANCE","o":"IRIS SENSORS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"ZA les Ufernets TOULAUD Ardeche FR F07130","c":"FR","o":"IRIS SENSORS"}]);

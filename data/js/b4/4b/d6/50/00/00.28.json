@@ -1,0 +1,1 @@
+deepmacDetailCallback("b44bd6500000/28",[{"a":"Pengnian Science Park Building A 314 Shenzhen Guangdong CN 518040","o":"ShenZhen Comstar Technology Company","d":"2018-04-01","t":"add","s":"ieee","c":"CN"}]);

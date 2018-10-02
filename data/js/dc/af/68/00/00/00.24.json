@@ -1,0 +1,1 @@
+deepmacDetailCallback("dcaf68000000/24",[{"d":"2018-03-02","t":"add","a":"Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China Weifang Shandong CN 261205","c":"CN","o":"WEIFANG GOERTEK ELECTRONICS CO.,LTD"}]);

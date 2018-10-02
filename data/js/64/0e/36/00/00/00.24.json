@@ -1,0 +1,1 @@
+deepmacDetailCallback("640e36000000/24",[{"d":"2011-08-25","t":"add","a":"Cicea 1\nRue du Courtil\nBruz  35170\n","c":"FRANCE","o":"TAZTAG"},{"d":"2015-08-27","t":"change","a":"Cicea 1 Bruz  FR 35170","c":"FR","o":"TAZTAG"}]);

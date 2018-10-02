@@ -1,0 +1,1 @@
+deepmacDetailCallback("041b94000000/24",[{"d":"2013-05-16","t":"add","a":"Anders Personsgatan 12\nGothenburg Vastra Gotaland 41664\n\n","c":"SWEDEN","o":"Host Mobility AB"},{"d":"2015-08-27","t":"change","a":"Anders Personsgatan 12 Gothenburg Vastra Gotaland SE 41664","c":"SE","o":"Host Mobility AB"}]);

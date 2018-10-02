@@ -1,0 +1,1 @@
+deepmacDetailCallback("e4c146000000/24",[{"d":"2012-10-02","t":"add","a":"C/ Monte Esquinza, 28, 1D\nMadrid 28017\n\n","c":"SPAIN","o":"Objetivos y Servicios de Valor A"},{"d":"2015-08-27","t":"change","a":"C/ Monte Esquinza, 28, 1D  Madrid ES 28017","c":"ES","o":"Objetivos y Servicios de Valor A"}]);

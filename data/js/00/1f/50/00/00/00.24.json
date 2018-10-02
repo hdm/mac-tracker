@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f50000000/24",[{"d":"2007-12-31","t":"add","a":"Grasweg 7\nSchwarzhaeusern BE 4911\n\n","c":"SWITZERLAND","o":"Swissdis AG"},{"d":"2015-08-27","t":"change","a":"Grasweg 7 Schwarzhaeusern BE CH 4911","c":"CH","o":"Swissdis AG"}]);

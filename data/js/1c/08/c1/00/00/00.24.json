@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c08c1000000/24",[{"d":"2013-03-28","t":"add","a":"978-1 Jangduk dong, Gwangsangu\nGwangju Gwangju 506-731\n\n","c":"KOREA, REPUBLIC OF","o":"Lg Innotek"},{"d":"2015-08-27","t":"change","a":"978-1 Jangduk dong, Gwangsangu Gwangju Gwangju KR 506-731","c":"KR","o":"Lg Innotek"}]);

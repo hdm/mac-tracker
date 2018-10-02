@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d855059000/36",[{"a":"3361 SHANNON AIRPORT CIRCLE FREDERICKSBURG VIRGINIA US 22408","o":"COLONIAL ASSEMBLY and  DESIGN","d":"2012-12-02","t":"add","s":"ieee","c":"US"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d85504b000/36",[{"a":"Rua Jose Villar Granjel, 22-24 Camipnas - San Paulo  BR 13030680","o":"Vital Tech Industria e Comercio Ltda","d":"2012-11-25","t":"add","s":"ieee","c":"BR"}]);

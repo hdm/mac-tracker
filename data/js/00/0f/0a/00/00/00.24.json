@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f0a000000/24",[{"d":"2003-12-21","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2006-01-03","t":"change","a":"11250 El Camino Real\nSan Diego CA 92130\n\n","c":"UNITED STATES","o":"Clear Edge Networks"},{"d":"2015-08-27","t":"change","a":"11250 El Camino Real San Diego CA US 92130","c":"US","o":"Clear Edge Networks"}]);

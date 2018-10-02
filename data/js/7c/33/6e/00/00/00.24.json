@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c336e000000/24",[{"d":"2011-08-25","t":"add","a":"Bogazici Universitesi Kuzey Kampus\nBUN Teknopark Kat:2 No:306 Bebek-Besiktas\nISTANBUL  34342\n","c":"TURKEY","o":"MEG Electronics Inc."},{"d":"2015-08-27","t":"change","a":"Bogazici Universitesi Kuzey Kampus ISTANBUL  TR 34342","c":"TR","o":"MEG Electronics Inc."}]);

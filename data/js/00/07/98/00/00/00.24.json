@@ -1,0 +1,1 @@
+deepmacDetailCallback("000798000000/24",[{"d":"2001-10-24","t":"add","a":"Via A. Moro No. 69\n46015 - Cicognara\n\n","c":"(MN) - ITALY","o":"Selea SRL"},{"d":"2001-12-14","t":"change","a":"Via A. Moro No. 69\n46015 - Cicognara\n\n","c":"ITALY","o":"Selea SRL"},{"d":"2015-08-27","t":"change","a":"Via A. Moro No. 69   IT","c":"IT","o":"Selea SRL"}]);

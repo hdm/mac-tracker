@@ -1,0 +1,1 @@
+deepmacDetailCallback("0008ad000000/24",[{"d":"2001-12-14","t":"add","a":"Hirakawa-Cho, Chiyada-ku,\nTokyo  102-0093\n\n","c":"JAPAN","o":"Toyo-Linx Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Hirakawa-Cho, Chiyada-ku, Tokyo  JP 102-0093","c":"JP","o":"Toyo-Linx Co., Ltd."}]);

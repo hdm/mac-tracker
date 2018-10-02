@@ -1,0 +1,1 @@
+deepmacDetailCallback("50d37f000000/24",[{"d":"2016-12-31","t":"add","a":"6F, No. 1168 Huyi Road, Nanxiang Town Jiading District Shanghai 201800 CHINA shanghai  CN 201800","c":"CN","o":"Yu Fly Mikly Way Science and Technology Co., Ltd."}]);

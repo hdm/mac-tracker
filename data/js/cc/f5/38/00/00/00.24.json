@@ -1,0 +1,1 @@
+deepmacDetailCallback("ccf538000000/24",[{"d":"2014-05-29","t":"add","a":"11F-2 No1247 , Jung Jeng RD ,\nTAOYUAN\nTaipei Taiwan 0000\n","c":"TAIWAN, PROVINCE OF CHINA","o":"3isysnetworks"},{"d":"2015-08-27","t":"change","a":"11F-2 No1247 , Jung Jeng RD , Taipei Taiwan TW 0000","c":"TW","o":"3isysnetworks"}]);

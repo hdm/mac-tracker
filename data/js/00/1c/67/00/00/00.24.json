@@ -1,0 +1,1 @@
+deepmacDetailCallback("001c67000000/24",[{"d":"2007-05-13","t":"add","a":"3FL JungHo Bldg, 108-4 Sangdo-Dong, Dongjak-Gu\nSEOUL  156-030\n\n","c":"KOREA, REPUBLIC OF","o":"Pumpkin Networks, Inc."},{"d":"2015-08-27","t":"change","a":"3FL JungHo Bldg, 108-4 Sangdo-Dong, Dongjak-Gu SEOUL  KR 156-030","c":"KR","o":"Pumpkin Networks, Inc."}]);

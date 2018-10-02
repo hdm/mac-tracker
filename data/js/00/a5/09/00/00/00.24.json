@@ -1,0 +1,1 @@
+deepmacDetailCallback("00a509000000/24",[{"d":"2014-09-12","t":"add","a":"4009 banister lane\nsuite 200\naustin texas 78704\n","c":"UNITED STATES","o":"WigWag Inc."},{"d":"2015-08-27","t":"change","a":"4009 banister lane austin texas US 78704","c":"US","o":"WigWag Inc."}]);

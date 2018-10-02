@@ -1,0 +1,1 @@
+deepmacDetailCallback("000988000000/24",[{"d":"2002-03-29","t":"add","a":"797-28 Bangbae-Dong, Seocho-Gu\nSeoul  137-060\n\n","c":"KOREA, REPUBLIC OF","o":"Nudian Electron Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"797-28 Bangbae-Dong, Seocho-Gu Seoul  KR 137-060","c":"KR","o":"Nudian Electron Co., Ltd."}]);

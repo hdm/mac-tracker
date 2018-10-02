@@ -1,0 +1,1 @@
+deepmacDetailCallback("804b20000000/24",[{"d":"2013-03-19","t":"add","a":"Kronenstrasse 34\nVillingen-Schwenningen Baden-Wuerttemberg 78054\n\n","c":"GERMANY","o":"Ventilation Control"},{"d":"2015-08-27","t":"change","a":"Kronenstrasse 34 Villingen-Schwenningen Baden-Wuerttemberg DE 78054","c":"DE","o":"Ventilation Control"}]);

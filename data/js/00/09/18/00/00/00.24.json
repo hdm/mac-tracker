@@ -1,0 +1,1 @@
+deepmacDetailCallback("000918000000/24",[{"d":"2002-01-30","t":"add","a":"42\nSUNGJUDONG\nCHANGWON KYONGNAM 641-716\n","c":"KOREA, REPUBLIC OF","o":"SAMSUNG TECHWIN CO.,LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"42 CHANGWON KYONGNAM KR 641-716","c":"KR","o":"SAMSUNG TECHWIN CO.,LTD"}]);

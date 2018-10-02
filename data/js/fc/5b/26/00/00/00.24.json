@@ -1,0 +1,1 @@
+deepmacDetailCallback("fc5b26000000/24",[{"d":"2011-11-15","t":"add","a":"Jalan Petung 31 Papringan\nYogyakarta DIY 55281\n\n","c":"INDONESIA","o":"MikroBits"},{"d":"2015-08-27","t":"change","a":"Jalan Petung 31 Papringan Yogyakarta DIY ID 55281","c":"ID","o":"MikroBits"}]);

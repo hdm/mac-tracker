@@ -1,0 +1,1 @@
+deepmacDetailCallback("60455e000000/24",[{"d":"2012-05-08","t":"add","a":"Hradna 338\nLiptovsky Hradok  03301\n\n","c":"SLOVAKIA","o":"Liptel s.r.o."},{"d":"2015-08-27","t":"change","a":"Hradna 338 Liptovsky Hradok  SK 03301","c":"SK","o":"Liptel s.r.o."}]);

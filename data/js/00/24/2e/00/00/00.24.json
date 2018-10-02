@@ -1,0 +1,1 @@
+deepmacDetailCallback("00242e000000/24",[{"d":"2008-11-02","t":"add","a":"1 Waterview Drive\nSuite 103\nShelton CT 06484\n","c":"UNITED STATES","o":"Datastrip Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1 Waterview Drive Shelton CT US 06484","c":"US","o":"Datastrip Inc."}]);

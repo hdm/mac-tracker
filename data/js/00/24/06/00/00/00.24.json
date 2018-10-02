@@ -1,0 +1,1 @@
+deepmacDetailCallback("002406000000/24",[{"d":"2008-10-19","t":"add","a":"301,World Meridian Verture Center-1 60-24\nGasan-dong\nSeoul Geumcheon-gu 153781\n","c":"KOREA, REPUBLIC OF","o":"Pointmobile","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"301,World Meridian Verture Center-1 60-24 Seoul Geumcheon-gu KR 153781","c":"KR","o":"Pointmobile"}]);

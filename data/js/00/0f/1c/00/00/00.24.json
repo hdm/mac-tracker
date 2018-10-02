@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f1c000000/24",[{"d":"2004-01-23","t":"add","a":"Sejin Bld 2F, 689 ilwon2-dong,\ngangnam-gu Seoul 135-946\n\n","c":"KOREA, REPUBLIC OF","o":"DigitAll World Co., Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Sejin Bld 2F, 689 ilwon2-dong, gangnam-gu Seoul KR 135-946","c":"KR","o":"DigitAll World Co., Ltd"}]);

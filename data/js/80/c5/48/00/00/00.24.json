@@ -1,0 +1,1 @@
+deepmacDetailCallback("80c548000000/24",[{"d":"2017-10-12","t":"add","a":"NO.5 Zowee technology building, Science & Technology industrial park of privately  Science & Technology industrial park of privately owned enterprises Shenzhen GuangDong CN 518055","c":"CN","o":"Shenzhen Zowee Technology Co.,Ltd"}]);

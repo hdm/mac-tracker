@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c1193000000/24",[{"d":"2013-09-04","t":"add","a":"Berliner Str. 44\nFrankfurt am Main Hessen 60311\n\n","c":"GERMANY","o":"Seal One AG"},{"d":"2015-08-27","t":"change","a":"Berliner Str. 44 Frankfurt am Main Hessen DE 60311","c":"DE","o":"Seal One AG"}]);

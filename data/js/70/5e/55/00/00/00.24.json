@@ -1,0 +1,1 @@
+deepmacDetailCallback("705e55000000/24",[{"a":"No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing. Chongqing China CN 401120","o":"Realme Chongqing MobileTelecommunications Corp Ltd","d":"2018-09-10","t":"add","s":"ieee","c":"CN"}]);

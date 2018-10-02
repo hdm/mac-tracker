@@ -1,0 +1,1 @@
+deepmacDetailCallback("181420000000/24",[{"d":"2011-05-27","t":"add","a":"RD294 - Corpeau\nMeursault Burgundy 21190\n\n","c":"FRANCE","o":"TEB SAS"},{"d":"2015-08-27","t":"change","a":"RD294 - Corpeau Meursault Burgundy FR 21190","c":"FR","o":"TEB SAS"}]);

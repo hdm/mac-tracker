@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2913000/36",[{"a":"A Finmeccanica Company Basildon Essex GB SS14 3EL","o":"Leonardo MW Ltd (Land & Naval Defence Electronic)","d":"2008-07-30","t":"add","s":"ieee","c":"GB"}]);

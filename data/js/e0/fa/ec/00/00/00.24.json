@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0faec000000/24",[{"d":"2013-06-14","t":"add","a":"ul.Platanowa 2\nSopot pomorskie 81-855\n\n","c":"POLAND","o":"Platan sp. z o.o. sp. k."},{"d":"2015-08-27","t":"change","a":"ul.Platanowa 2 Sopot pomorskie PL 81-855","c":"PL","o":"Platan sp. z o.o. sp. k."}]);

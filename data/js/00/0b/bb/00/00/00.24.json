@@ -1,0 +1,1 @@
+deepmacDetailCallback("000bbb000000/24",[{"d":"2002-11-19","t":"add","a":"12F, IT Venture Tower,\n78 GarakBon-Dong, Songpa-Ku\nSeoul  138-803\n","c":"KOREA, REPUBLIC OF","o":"Etin Systems Co., Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"12F, IT Venture Tower, Seoul  KR 138-803","c":"KR","o":"Etin Systems Co., Ltd"}]);

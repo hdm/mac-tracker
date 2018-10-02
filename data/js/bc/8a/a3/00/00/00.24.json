@@ -1,0 +1,1 @@
+deepmacDetailCallback("bc8aa3000000/24",[{"d":"2016-05-18","t":"add","a":"Play Museum, 629 Sampyeong-dong, Bundang-gu\n\n\n","c":"Seongnam-si, Gyeonggi-do    463-400","o":"NHN Entertainment"},{"d":"2016-05-19","t":"change","a":"Play Museum, 629 Sampyeong-dong, Bundang-gu Seongnam-si, Gyeonggi-do  KR 463-400","c":"KR","o":"NHN Entertainment"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0018fd000000/24",[{"d":"2006-07-14","t":"add","a":"12 Spanish Main Drive\nPO Box F-42409/359\nFreeport GBI\n","c":"BAHAMAS","o":"Optimal Technologies International Inc."},{"d":"2015-08-27","t":"change","a":"12 Spanish Main Drive Freeport GBI BS","c":"BS","o":"Optimal Technologies International Inc."}]);

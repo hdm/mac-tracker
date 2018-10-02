@@ -1,0 +1,1 @@
+deepmacDetailCallback("103378000000/24",[{"d":"2013-09-10","t":"add","a":"A-625, Sigma2, Tancheonsang-ro 164\nBundang-gu\nSeongnam-si Gyeonggi-do 463-741\n","c":"KOREA, REPUBLIC OF","o":"FLECTRON Co., LTD"},{"d":"2015-08-27","t":"change","a":"A-625, Sigma2, Tancheonsang-ro 164 Seongnam-si Gyeonggi-do KR 463-741","c":"KR","o":"FLECTRON Co., LTD"}]);

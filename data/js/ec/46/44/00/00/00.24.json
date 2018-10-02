@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec4644000000/24",[{"d":"2010-11-03","t":"add","a":"4, Rue du Chemin Vert\nClichy  92110\n\n","c":"FRANCE","o":"TTK SAS"},{"d":"2015-08-27","t":"change","a":"4, Rue du Chemin Vert Clichy  FR 92110","c":"FR","o":"TTK SAS"}]);

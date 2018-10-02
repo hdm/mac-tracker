@@ -1,0 +1,1 @@
+deepmacDetailCallback("a00627000000/24",[{"d":"2014-04-24","t":"add","a":"#105, YBS bldg,227-1 Yongdap-Dong\nSeongdong-Gu\nSeoul ASI/KR/KS013/SEOUL\n","c":"KOREA, REPUBLIC OF","o":"NEXPA System"},{"d":"2015-08-27","t":"change","a":"#105, YBS bldg,227-1 Yongdap-Dong  Seoul KR ASI/KR/KS013/SEOUL","c":"KR","o":"NEXPA System"}]);

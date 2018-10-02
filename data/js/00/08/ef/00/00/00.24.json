@@ -1,0 +1,1 @@
+deepmacDetailCallback("0008ef000000/24",[{"d":"2002-01-30","t":"add","a":"Astintze Kalea 24\nDerio Vizcaya 48160\n\n","c":"SPAIN","o":"DIBAL,S.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Astintze Kalea 24 Derio Vizcaya ES 48160","c":"ES","o":"DIBAL,S.A."}]);

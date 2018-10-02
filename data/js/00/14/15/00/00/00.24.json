@@ -1,0 +1,1 @@
+deepmacDetailCallback("001415000000/24",[{"d":"2005-03-22","t":"add","a":"2751 Arbutus Rd.\nVictoria British Columbia V8N 5X7\n\n","c":"CANADA","o":"Intec Automation Inc."},{"d":"2015-08-27","t":"change","a":"2751 Arbutus Rd. Victoria British Columbia CA V8N 5X7","c":"CA","o":"Intec Automation inc."}]);

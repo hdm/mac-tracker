@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0e631000000/24",[{"d":"2013-09-21","t":"add","a":"Rm 303, Building #13,\nKangqiao Gardon, Buji town,\nLong Gang district, ShenZhen GuangDong 518000\n","c":"CHINA","o":"SNB TECHNOLOGIES LIMITED"},{"d":"2015-08-27","t":"change","a":"Rm 303, Building #13, Long Gang district, ShenZhen GuangDong CN 518000","c":"CN","o":"SNB TECHNOLOGIES LIMITED"}]);

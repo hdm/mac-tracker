@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b08000000/24",[{"d":"2007-01-11","t":"add","a":"Ulsnaes 1\nGraasten 6300\n\n","c":"DENMARK","o":"Danfoss Drives A/S"},{"d":"2015-08-27","t":"change","a":"Ulsnaes 1 Graasten 6300 DK","c":"DK","o":"Danfoss Drives A/S"}]);

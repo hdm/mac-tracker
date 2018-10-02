@@ -1,0 +1,1 @@
+deepmacDetailCallback("4037ad000000/24",[{"d":"2010-08-27","t":"add","a":"East Bldg., 6th Floor, IT Venture Tower,\n78 Garakbon-Dong, Songpa-Gu,\nSeoul  138-950\n","c":"KOREA, REPUBLIC OF","o":"Macro Image Technology, Inc."},{"d":"2015-08-27","t":"change","a":"East Bldg., 6th Floor, IT Venture Tower, Seoul  KR 138-950","c":"KR","o":"Macro Image Technology, Inc."}]);

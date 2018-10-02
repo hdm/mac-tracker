@@ -1,0 +1,1 @@
+deepmacDetailCallback("b01f81500000/28",[{"a":"6thfloor,jinda Technology Center,No.8 of kefeng Road ,Science and Technology Park,NanshanDist,Shenzhen shenzhen guangdong CN 518054","o":"SHENZHEN GRID TECHNOLOGY CO.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

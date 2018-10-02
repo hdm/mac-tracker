@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c574e000000/24",[{"d":"2016-03-18","t":"add","a":"Solmsstrasse 4\n\n\n","c":"Frankfurt am Main    60486","o":"COBI GmbH"},{"d":"2016-03-22","t":"change","a":"Solmsstrasse 4 Frankfurt am Main  DE 60486","c":"DE","o":"COBI GmbH"}]);

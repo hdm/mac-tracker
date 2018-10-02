@@ -1,0 +1,1 @@
+deepmacDetailCallback("0010cd000000/24",[{"d":"1998-04-22","t":"add","a":"3 VENELLE DE KERGOS\n29000 QUIMPER\n\n","c":"FRANCE","o":"INTERFACE CONCEPT"},{"d":"2002-06-05","t":"change","a":"3 VENELLE de KERGOS\n29000 QUIMPER\n\n","c":"FRANCE","o":"INTERFACE CONCEPT"},{"d":"2015-08-27","t":"change","a":"3 VENELLE de KERGOS 29000 QUIMPER  FR","c":"FR","o":"INTERFACE CONCEPT"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001932000000/24",[{"d":"2006-08-14","t":"add","a":"Eintrachstrasse 113\nCologne NRW 50668\n\n","c":"GERMANY","o":"Gude Analog- und Digialsysteme GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Eintrachstrasse 113 Cologne NRW DE 50668","c":"DE","o":"Gude Analog- und Digialsysteme GmbH"}]);

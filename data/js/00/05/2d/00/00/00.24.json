@@ -1,0 +1,1 @@
+deepmacDetailCallback("00052d000000/24",[{"d":"2001-02-02","t":"add","a":"Room 701 Po Hing Centre,\n18 Wan Chiu Road, Kowloon,\n\n","c":"HONG KONG","o":"Zoltrix International Limited"},{"d":"2015-08-27","t":"change","a":"Room 701 Po Hing Centre,   HK","c":"HK","o":"Zoltrix International Limited"}]);

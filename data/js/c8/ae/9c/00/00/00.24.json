@@ -1,0 +1,1 @@
+deepmacDetailCallback("c8ae9c000000/24",[{"d":"2012-03-17","t":"add","a":"21F, BLKB, NO.391 GuiPing Rd,\nShanghai 200233\n\n","c":"CHINA","o":"Shanghai TYD Elecronic Technology Co. Ltd"},{"d":"2015-08-27","t":"change","a":"21F, BLKB, NO.391 GuiPing Rd,   Shanghai CN 200233","c":"CN","o":"Shanghai TYD Elecronic Technology Co. Ltd"}]);

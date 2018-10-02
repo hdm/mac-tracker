@@ -1,0 +1,1 @@
+deepmacDetailCallback("001467000000/24",[{"d":"2005-05-07","t":"add","a":"4699 Old Ironsides Dr. Suite 100\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"ArrowSpan Inc."},{"d":"2015-08-27","t":"change","a":"4699 Old Ironsides Dr. Suite 100 Santa Clara CA US 95054","c":"US","o":"ArrowSpan Inc."}]);

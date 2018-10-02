@@ -1,0 +1,1 @@
+deepmacDetailCallback("000712000000/24",[{"d":"2001-10-24","t":"add","a":"Network Solution Dep. JAL-Tamachi Bldg.\n15-1, Shibura, 4-chome, Minato-ku,\nTokyo\n","c":"JAPAN","o":"JAL Information Technology"},{"d":"2015-08-27","t":"change","a":"Network Solution Dep. JAL-Tamachi Bldg. Tokyo  JP","c":"JP","o":"JAL Information Technology"}]);

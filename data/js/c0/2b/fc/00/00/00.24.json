@@ -1,0 +1,1 @@
+deepmacDetailCallback("c02bfc000000/24",[{"d":"2010-06-16","t":"add","a":"Ohmstrasse 9\nLudwigsburg  71642\n\n","c":"GERMANY","o":"iNES. applied informatics GmbH"},{"d":"2015-08-27","t":"change","a":"Ohmstrasse 9 Ludwigsburg  DE 71642","c":"DE","o":"iNES. applied informatics GmbH"}]);

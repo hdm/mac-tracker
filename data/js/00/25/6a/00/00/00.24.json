@@ -1,0 +1,1 @@
+deepmacDetailCallback("00256a000000/24",[{"d":"2009-03-08","t":"add","a":"Liebigstrasse 87\nLemgo Northrhine-Westfalia 32657\n\n","c":"GERMANY","o":"inIT - Institut Industrial IT","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Liebigstrasse 87 Lemgo Northrhine-Westfalia DE 32657","c":"DE","o":"inIT - Institut Industrial IT"}]);

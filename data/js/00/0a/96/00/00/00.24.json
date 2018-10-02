@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a96000000/24",[{"d":"2002-08-03","t":"add","a":"E15FL. IT VENTURE TOWER\n78 KARAK-DONG, SONGPA-GU\nSEOUL  138-803\n","c":"KOREA, REPUBLIC OF","o":"MEWTEL TECHNOLOGY INC.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"E15FL. IT VENTURE TOWER SEOUL  KR 138-803","c":"KR","o":"MEWTEL TECHNOLOGY INC."}]);

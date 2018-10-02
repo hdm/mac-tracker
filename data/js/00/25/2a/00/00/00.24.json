@@ -1,0 +1,1 @@
+deepmacDetailCallback("00252a000000/24",[{"d":"2009-02-08","t":"add","a":"50 Shuxi Road,\nChengdu SiChuan 610091\n\n","c":"CHINA","o":"Chengdu GeeYa Technology Co.,LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"50 Shuxi Road, Chengdu SiChuan CN 610091","c":"CN","o":"Chengdu GeeYa Technology Co.,LTD"}]);

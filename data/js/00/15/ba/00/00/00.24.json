@@ -1,0 +1,1 @@
+deepmacDetailCallback("0015ba000000/24",[{"d":"2005-09-09","t":"add","a":"Koenigswarterstrasse 44\nFuerth Bavaria 90762\n\n","c":"GERMANY","o":"iba AG"},{"d":"2015-08-27","t":"change","a":"Koenigswarterstrasse 44 Fuerth Bavaria DE 90762","c":"DE","o":"iba AG"}]);

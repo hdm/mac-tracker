@@ -1,0 +1,1 @@
+deepmacDetailCallback("000bd5000000/24",[{"d":"2002-11-19","t":"add","a":"Jeil Bldg. 4th, Samsung-dong 168-26, Kan\nSeoul  135-090\n\n","c":"KOREA, REPUBLIC OF","o":"Nvergence, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Jeil Bldg. 4th, Samsung-dong 168-26, Kan Seoul  KR 135-090","c":"KR","o":"Nvergence, Inc."}]);

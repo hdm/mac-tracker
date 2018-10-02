@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c279e200000/28",[{"a":"2F, 42th Building, No.1000 Jinhai Road,Pudong Shanghai  Shanghai  CN 201206","o":"Kunyi electronic technology (Shanghai) Co., Ltd.","d":"2017-06-11","t":"add","s":"ieee","c":"CN"}]);

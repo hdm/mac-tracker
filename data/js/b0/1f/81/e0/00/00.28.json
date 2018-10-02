@@ -1,0 +1,1 @@
+deepmacDetailCallback("b01f81e00000/28",[{"a":"5F, No. 3-2, Industry East 9th Road, Hsinchu Science Park, Hsinchu City Hsinchu TW 30075","o":"Advanced & Wise Technology Corp.","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);

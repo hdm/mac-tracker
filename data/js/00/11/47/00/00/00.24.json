@@ -1,0 +1,1 @@
+deepmacDetailCallback("001147000000/24",[{"d":"2004-05-11","t":"add","a":"Fukuo kaKuramoto Ichihonki 3-3\nShiroishi Miyagi 989-0295\n\n","c":"JAPAN","o":"Secom-Industry co.LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Fukuoka Kuramoto Ichihonki 3-3 Shiroishi Miyagi JP 989-0295","c":"JP","o":"Secom-Industry co.LTD."}]);

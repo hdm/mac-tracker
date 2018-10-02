@@ -1,0 +1,1 @@
+deepmacDetailCallback("e43fa2000000/24",[{"d":"2012-06-06","t":"add","a":"Rm A801,530Mansion,International High-Tech Park,Qingyuan Road\nWuxi Jiangsu 214000\n\n","c":"CHINA","o":"Wuxi DSP Technologies Inc."},{"d":"2015-08-27","t":"change","a":"Rm A801,530Mansion,International High-Tech Park,Qingyuan Road Wuxi Jiangsu US 214000","c":"US","o":"Wuxi DSP Technologies Inc."}]);

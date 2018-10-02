@@ -1,0 +1,1 @@
+deepmacDetailCallback("000bec000000/24",[{"d":"2002-12-03","t":"add","a":"3-56-21 Hirado\nTotsuka-ku Yokohama-shi 244-0802\n\n","c":"JAPAN","o":"NIPPON ELECTRIC INSTRUMENT, INC.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3-56-21 Hirado Totsuka-ku Yokohama-shi JP 244-0802","c":"JP","o":"NIPPON ELECTRIC INSTRUMENT, INC."}]);

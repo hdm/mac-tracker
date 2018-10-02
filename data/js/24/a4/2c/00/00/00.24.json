@@ -1,0 +1,1 @@
+deepmacDetailCallback("24a42c000000/24",[{"d":"2010-03-26","t":"add","a":"U vinnych sklepu 7\nPrague  190 00\n\n","c":"CZECH REPUBLIC","o":"KOUKAAM a.s."},{"d":"2015-08-27","t":"change","a":"U vinnych sklepu 7 Prague  CZ 190 00","c":"CZ","o":"KOUKAAM a.s."}]);

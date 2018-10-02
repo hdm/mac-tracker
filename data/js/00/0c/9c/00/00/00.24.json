@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c9c000000/24",[{"d":"2003-03-02","t":"add","a":"Chongho Bldg, #7-61 Yangjae-dong, Seocho\nSeoul  137-130\n\n","c":"KOREA, REPUBLIC OF","o":"Chongho information & communications","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Chongho Bldg, #7-61 Yangjae-dong, Seocho Seoul  KR 137-130","c":"KR","o":"Chongho information & communications"}]);

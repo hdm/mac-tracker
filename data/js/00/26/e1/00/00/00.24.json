@@ -1,0 +1,1 @@
+deepmacDetailCallback("0026e1000000/24",[{"d":"2009-07-18","t":"add","a":"353 Serra Mall\nEE - Computer Systems Laboratory\nStanford CA 94305-9030\n","c":"UNITED STATES","o":"Stanford University, OpenFlow Group"},{"d":"2015-08-27","t":"change","a":"353 Serra Mall Stanford CA US 94305-9030","c":"US","o":"Stanford University, OpenFlow Group"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000727000000/24",[{"d":"2001-10-24","t":"add","a":"30/F, China Resources Building\n26 Harbour Road, Waichai,\n\n","c":"HONG KONG","o":"Zi Corporation (HK) Ltd."},{"d":"2015-08-27","t":"change","a":"30/F, China Resources Building   HK","c":"HK","o":"Zi Corporation (HK) Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000e90000000/24",[{"d":"2003-12-21","t":"add","a":"602, Ace Twin Tower 1, 212-1 Guro-dong\nGurogu Seoul 152-766\n\n","c":"KOREA, REPUBLIC OF","o":"PONICO CORP.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"602, Ace Twin Tower 1, 212-1 Guro-dong Gurogu Seoul KR 152-766","c":"KR","o":"PONICO CORP."}]);

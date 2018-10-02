@@ -1,0 +1,1 @@
+deepmacDetailCallback("00177e000000/24",[{"d":"2006-03-06","t":"add","a":"Meritullinkatu 1 C\nHelsinki  00170\n\n","c":"FINLAND","o":"Meshcom Technologies Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Meritullinkatu 1 C Helsinki  FI 00170","c":"FI","o":"Meshcom Technologies Inc."}]);

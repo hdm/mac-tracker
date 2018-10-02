@@ -1,0 +1,1 @@
+deepmacDetailCallback("000edc000000/24",[{"d":"2003-12-21","t":"add","a":"5th Fl. BONA Venture Town\n1586-1 Seocho 3-dong, Seocho-gu\nSeoul Seocho-gu. 137-719\n","c":"KOREA, REPUBLIC OF","o":"Tellion INC.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5th Fl. BONA Venture Town Seoul Seocho-gu. KR 137-719","c":"KR","o":"Tellion INC."}]);

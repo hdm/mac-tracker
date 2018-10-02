@@ -1,0 +1,1 @@
+deepmacDetailCallback("a07771000000/24",[{"d":"2013-10-23","t":"add","a":"Loodsboot 15\n3991 CJ\nHOUTEN Utrecht 3991 CJ\n","c":"NETHERLANDS","o":"Vialis BV"},{"d":"2015-08-27","t":"change","a":"Loodsboot 15 HOUTEN Utrecht US 3991 CJ","c":"US","o":"Vialis BV"}]);

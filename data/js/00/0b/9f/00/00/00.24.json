@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b9f000000/24",[{"d":"2002-10-23","t":"add","a":"Sonnenweg 11\nAachen  52070\n\n","c":"GERMANY","o":"Neue ELSA GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Sonnenweg 11 Aachen  DE 52070","c":"DE","o":"Neue ELSA GmbH"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000880000000/24",[{"d":"2001-12-14","t":"add","a":"3700 Griffith, Suite 389\nSaint-Laurent Quebec H4T 2B3\n\n","c":"CANADA","o":"BroadTel Canada Communications inc."},{"d":"2015-08-27","t":"change","a":"3700 Griffith, Suite 389 Saint-Laurent Quebec CA H4T 2B3","c":"CA","o":"BroadTel Canada Communications inc."}]);

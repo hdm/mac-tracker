@@ -1,0 +1,1 @@
+deepmacDetailCallback("002199000000/24",[{"d":"2008-06-18","t":"add","a":"P.O.Box 25\nVaasa  65380\n\n","c":"FINLAND","o":"Vacon Plc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O.Box 25 Vaasa  FI 65380","c":"FI","o":"Vacon Plc"}]);

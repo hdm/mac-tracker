@@ -1,0 +1,1 @@
+deepmacDetailCallback("50e0c7000000/24",[{"d":"2013-08-29","t":"add","a":"Geschwister-Scholl-Strasse 7\nGenthin Sachsen-Anhalt 39307\n\n","c":"GERMANY","o":"TurControlSystme AG"},{"d":"2015-08-27","t":"change","a":"Geschwister-Scholl-Strasse 7 Genthin Sachsen-Anhalt DE 39307","c":"DE","o":"TurControlSystme AG"}]);

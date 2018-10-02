@@ -1,0 +1,1 @@
+deepmacDetailCallback("001919000000/24",[{"d":"2006-07-19","t":"add","a":"59-7 Jang-dong Yusung-Gu\nDaejeon Chungnam 305-343\n\n","c":"KOREA, REPUBLIC OF","o":"ASTEL Inc."},{"d":"2015-08-27","t":"change","a":"59-7 Jang-dong Yusung-Gu Daejeon Chungnam KR 305-343","c":"KR","o":"ASTEL Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c4979000000/24",[{"d":"2015-07-28","t":"add","a":"Alt-Moabit 95\nBerlin Berlin 10559\n\n","c":"GERMANY","o":"AVM Audiovisuelles Marketing und Computersysteme GmbH"},{"d":"2015-08-27","t":"change","a":"Alt-Moabit 95 Berlin Berlin DE 10559","c":"DE","o":"AVM Audiovisuelles Marketing und Computersysteme GmbH"}]);

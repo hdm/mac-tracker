@@ -1,0 +1,1 @@
+deepmacDetailCallback("f8769b000000/24",[{"d":"2010-12-01","t":"add","a":"#401 Neo bd., 196-44 Anyang7-Dong\nManan-Gu\nAnyang Kyonggi-Do 430-857\n","c":"KOREA, REPUBLIC OF","o":"Neopis Co., Ltd."},{"d":"2015-08-27","t":"change","a":"#401 Neo bd., 196-44 Anyang7-Dong Anyang Kyonggi-Do KR 430-857","c":"KR","o":"Neopis Co., Ltd."}]);

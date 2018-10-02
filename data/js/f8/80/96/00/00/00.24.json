@@ -1,0 +1,1 @@
+deepmacDetailCallback("f88096000000/24",[{"d":"2015-11-06","t":"add","a":"Rod. Visconde de Porto Seguro, n.º 2.660, Sitio Recreio dos Cafezais Valinhos SP BR 13278327 ","c":"BR","o":"Elsys Equipamentos Eletrônicos Ltda"}]);

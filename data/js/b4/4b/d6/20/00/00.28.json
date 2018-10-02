@@ -1,0 +1,1 @@
+deepmacDetailCallback("b44bd6200000/28",[{"a":"The Great Wall Building,No3 Kefa Road Shenzhen Guangdong CN 518000","o":"Shenzhen Cudy Technology Co., Ltd.","d":"2018-04-01","t":"add","s":"ieee","c":"CN"}]);

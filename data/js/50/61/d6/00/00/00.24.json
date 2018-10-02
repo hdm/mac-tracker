@@ -1,0 +1,1 @@
+deepmacDetailCallback("5061d6000000/24",[{"d":"2013-02-27","t":"add","a":"Blumenstr. 3\nSchmÃ¶lln ThÃ¼ringen 04626\n\n","c":"GERMANY","o":"Indu-Sol GmbH"},{"d":"2015-08-27","t":"change","a":"Blumenstr. 3 Schmölln Thüringen DE 04626","c":"DE","o":"Indu-Sol GmbH"}]);

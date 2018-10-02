@@ -1,0 +1,1 @@
+deepmacDetailCallback("00307c000000/24",[{"d":"2000-09-08","t":"add","a":"70 RU ANATOLE FRANCE\n92 300 LEVALLOIS-PERRET CEDEX\n\n","c":"FRANCE","o":"ADID SA"},{"d":"2015-08-27","t":"change","a":"70 RU ANATOLE FRANCE 92 300 LEVALLOIS-PERRET CEDEX  FR","c":"FR","o":"ADID SA"}]);

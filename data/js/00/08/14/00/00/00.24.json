@@ -1,0 +1,1 @@
+deepmacDetailCallback("000814000000/24",[{"d":"2001-10-24","t":"add","a":"Europark DePichaury, BAT 9\n13856 AIX en Providence\n\n","c":"FRANCE","o":"TIL Technologies"},{"d":"2015-08-27","t":"change","a":"Europark DePichaury, BAT 9   FR","c":"FR","o":"TIL Technologies"}]);

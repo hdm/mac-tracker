@@ -1,0 +1,1 @@
+deepmacDetailCallback("70f1e5000000/24",[{"d":"2012-09-05","t":"add","a":"1668 Valtec Lane\nSuite G\nBoulder CO 80301\n","c":"UNITED STATES","o":"Xetawave LLC"},{"d":"2015-08-27","t":"change","a":"1668 Valtec Lane Boulder CO US 80301","c":"US","o":"Xetawave LLC"}]);

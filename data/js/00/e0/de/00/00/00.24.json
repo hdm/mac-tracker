@@ -1,0 +1,1 @@
+deepmacDetailCallback("00e0de000000/24",[{"d":"1998-04-22","t":"add","a":"RINGLAAN 51\nB-2600 BERCHEM\n\n","c":"BELGIUM","o":"DATAX NV"},{"d":"2015-08-27","t":"change","a":"RINGLAAN 51 B-2600 BERCHEM  BE","c":"BE","o":"DATAX NV"}]);

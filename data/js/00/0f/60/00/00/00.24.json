@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f60000000/24",[{"d":"2004-02-01","t":"add","a":"6-7,Tenjinnishimachi\nKita-Ku\nOsaka Osaka Prefecture 530-0045\n","c":"JAPAN","o":"Lifetron Co.,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6-7,Tenjinnishimachi Osaka Osaka Prefecture JP 530-0045","c":"JP","o":"Lifetron Co.,Ltd"}]);

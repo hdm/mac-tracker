@@ -1,0 +1,1 @@
+deepmacDetailCallback("001d33000000/24",[{"d":"2007-08-18","t":"add","a":"908, Daerungposttower 2-cha, 182-13\nGuro-dong, Guro-gu\nSeoul  152-790\n","c":"KOREA, REPUBLIC OF","o":"Maverick Systems Inc."},{"d":"2015-08-27","t":"change","a":"908, Daerungposttower 2-cha, 182-13 Seoul  KR 152-790","c":"KR","o":"Maverick Systems Inc."}]);

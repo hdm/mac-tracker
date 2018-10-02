@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5d43000/36",[{"a":"E-914,E-915, 60, Haan-ro(Soha-dong, Gwangmyeong SK Technopark)  Gwangmyeong-si Gyeonggi-do KR 14322","o":"EZSYS Co., Ltd.","d":"2017-05-28","t":"add","s":"ieee","c":"KR"}]);

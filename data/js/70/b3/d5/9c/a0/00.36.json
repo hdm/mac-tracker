@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d59ca000/36",[{"a":"MEVLANA MAH. BATTAL SOK. NO:4 ISTANBUL SANCAKTEPE TR 34791","o":"KOMSIS ELEKTRONIK SISTEMLERI SAN. TIC. LTD.STI","d":"2015-02-08","t":"add","s":"ieee","c":"TR"}]);

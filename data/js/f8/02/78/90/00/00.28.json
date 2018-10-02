@@ -1,0 +1,1 @@
+deepmacDetailCallback("f80278900000/28",[{"a":"7F, B block, Yu Hui building Haidian District Beijing CN 100142","o":"Beijing Redcdn Technology, Co., Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

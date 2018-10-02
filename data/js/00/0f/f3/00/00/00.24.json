@@ -1,0 +1,1 @@
+deepmacDetailCallback("000ff3000000/24",[{"d":"2004-04-03","t":"add","a":"1th FL., Dong IL Bldg.107 Yangjae-Dong\nSeocho-Ku Seoul 137-130\n\n","c":"KOREA, REPUBLIC OF","o":"Jung Myoung Communications&Technology"},{"d":"2015-08-27","t":"change","a":"1th FL., Dong IL Bldg.107 Yangjae-Dong Seocho-Ku Seoul KR 137-130","c":"KR","o":"Jung Myoung Communications&Technology"}]);

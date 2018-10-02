@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c04bf000000/24",[{"d":"2010-06-17","t":"add","a":"4F, 5F Jaeyoon Bld, 75-3 Yangjae-Dong,\nSeoul Seocho-Gu 137-889\n\n","c":"KOREA, REPUBLIC OF","o":"PRAVIS SYSTEMS Co.Ltd.,"},{"d":"2015-08-27","t":"change","a":"4F, 5F Jaeyoon Bld, 75-3 Yangjae-Dong, Seoul Seocho-Gu KR 137-889","c":"KR","o":"PRAVIS SYSTEMS Co.Ltd.,"}]);

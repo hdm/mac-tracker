@@ -1,0 +1,1 @@
+deepmacDetailCallback("6cadef000000/24",[{"d":"2012-08-18","t":"add","a":"1601 Tower C\nSkyworth Building, High-Tech\nShenzhen Guangdong 518057\n","c":"CHINA","o":"KZ Broadband Technologies, Ltd."},{"d":"2015-08-27","t":"change","a":"1601 Tower C  Shenzhen Guangdong CN 518057","c":"CN","o":"KZ Broadband Technologies, Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("4cab33000000/24",[{"d":"2012-08-29","t":"add","a":"Bangi-dong,Songpa-gu\nKST B/D 164-1\nSEOUL Seoul 138-050\n","c":"KOREA, REPUBLIC OF","o":"KST technology"},{"d":"2015-08-27","t":"change","a":"Bangi-dong, songpa-gu  Seoul KR 138-050","c":"KR","o":"KST technology"}]);

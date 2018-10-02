@@ -1,0 +1,1 @@
+deepmacDetailCallback("7ccd3c000000/24",[{"d":"2013-08-17","t":"add","a":"Building C Rm 1906-1909\nBaiNaoHui Squre  Rd Tianhe 596\nGuangzhou Guangdong 510630\n","c":"CHINA","o":"Guangzhou Juzing Technology Co., Ltd"},{"d":"2015-08-27","t":"change","a":"Building C Rm 1906-1909 Guangzhou Guangdong US 510630","c":"US","o":"Guangzhou Juzing Technology Co., Ltd"}]);

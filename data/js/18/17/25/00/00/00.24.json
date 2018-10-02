@@ -1,0 +1,1 @@
+deepmacDetailCallback("181725000000/24",[{"d":"2012-11-17","t":"add","a":"No. 276, Sinhu 1st Rd., Neihu District,\nTaipei City 114, Taiwan\nTaipei  114\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Cameo Communications, Inc."},{"d":"2015-08-27","t":"change","a":"No. 276, Sinhu 1st Rd., Neihu District, Taipei  TW 114","c":"TW","o":"Cameo Communications, Inc."}]);

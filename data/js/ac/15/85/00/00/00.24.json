@@ -1,0 +1,1 @@
+deepmacDetailCallback("ac1585000000/24",[{"a":"Oleander  Way，802 West  Bay  Road，P.O. BOX    32052 Grand   Cayman  KYI-1208，Cayman Islands  US 32052","o":"silergy corp","d":"2018-08-05","t":"add","s":"ieee","c":"US"}]);

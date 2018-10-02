@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009ae000000/24",[{"d":"2002-03-29","t":"add","a":"2-8-18 KANAYAMA-CHO\nHIGASHIKURUME TOKYO 203-0003\n\n","c":"JAPAN","o":"OKANO ELECTRIC CO.,LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2-8-18 KANAYAMA-CHO HIGASHIKURUME TOKYO JP 203-0003","c":"JP","o":"OKANO ELECTRIC CO.,LTD"}]);

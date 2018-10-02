@@ -1,0 +1,1 @@
+deepmacDetailCallback("00749c000000/24",[{"d":"2016-05-26","t":"add","a":"19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road\nFUZHOU  FUJIAN  350002\n\n","c":"CN","o":"RUIJIE NETWORKS CO., LTD."},{"d":"2016-07-28","t":"change","a":"19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002","c":"CN","o":"Ruijie Networks Co.,LTD"}]);

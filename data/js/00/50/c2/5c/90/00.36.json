@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c25c9000/36",[{"a":"No.215, Building Langfeng, Road Kefa no.2  Hong Kong CN 25175 852","o":"Shenzhen Quanlong Technique Co.Ltd","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("8cd3a2000000/24",[{"d":"2012-05-12","t":"add","a":"Vollveien 5\nHorten Vestfold 3183\n\n","c":"NORWAY","o":"VisSim AS"},{"d":"2015-08-27","t":"change","a":"Vollveien 5 Horten Vestfold NO 3183","c":"NO","o":"VisSim AS"}]);

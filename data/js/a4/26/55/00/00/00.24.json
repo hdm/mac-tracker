@@ -1,0 +1,1 @@
+deepmacDetailCallback("a42655000000/24",[{"a":"NO.80, Lane 2927, LaiYang Road Pudong New District Shanghai Shanghai CN 200137","o":"LTI Motion (Shanghai) Co., Ltd.","d":"2018-08-05","t":"add","s":"ieee","c":"CN"}]);

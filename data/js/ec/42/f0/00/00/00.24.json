@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec42f0000000/24",[{"d":"2012-05-09","t":"add","a":"4411 Morena Blvd.\nSuite 101\nSan Diego CA 92117\n","c":"UNITED STATES","o":"ADL Embedded Solutions, Inc."},{"d":"2015-08-27","t":"change","a":"4411 Morena Blvd. San Diego CA US 92117","c":"US","o":"ADL Embedded Solutions, Inc."}]);

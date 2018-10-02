@@ -1,0 +1,1 @@
+deepmacDetailCallback("00115a000000/24",[{"d":"2004-06-03","t":"add","a":"Bendererstrasse 2\nSchaan  9494\n\n","c":"LIECHTENSTEIN","o":"Ivoclar Vivadent AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Bendererstrasse 2 Schaan  LI 9494","c":"LI","o":"Ivoclar Vivadent AG"}]);

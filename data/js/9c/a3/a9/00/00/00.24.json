@@ -1,0 +1,1 @@
+deepmacDetailCallback("9ca3a9000000/24",[{"d":"2016-04-15","t":"add","a":"NO.9, street 3, HengLing industrial zone, Tangdong, tianhe district Guangzhou Guangdong CN 510000","c":"CN","o":"Guangzhou Juan Optical and Electronical Tech Joint Stock Co., Ltd"}]);

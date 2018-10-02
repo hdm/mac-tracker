@@ -1,0 +1,1 @@
+deepmacDetailCallback("046785000000/24",[{"d":"2014-05-24","t":"add","a":"Gewerbeparkstr. 20 Reichshof-Wehnrath NRW  51580","c":"GERMANY","o":"scemtec Hard- und Software fuer Mess- und Steuerungstechnik GmbH"}]);

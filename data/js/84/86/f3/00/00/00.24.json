@@ -1,0 +1,1 @@
+deepmacDetailCallback("8486f3000000/24",[{"d":"2014-06-27","t":"add","a":"673 S. Milpitas Blvd. Suite 204\nMilpitas California 95035\n\n","c":"UNITED STATES","o":"Greenvity Communications"},{"d":"2015-08-27","t":"change","a":"673 S. Milpitas Blvd Suite 204 Milpitas California US 95035","c":"US","o":"Greenvity Communications"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("fce1fb000000/24",[{"d":"2015-02-14","t":"add","a":"1371 McCarthy Blvd\nMilpitas California 95035\n\n","c":"UNITED STATES","o":"Array Networks"},{"d":"2015-08-27","t":"change","a":"1371 McCarthy Blvd Milpitas California US 95035","c":"US","o":"Array Networks"}]);

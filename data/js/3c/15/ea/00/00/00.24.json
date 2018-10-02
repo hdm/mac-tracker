@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c15ea000000/24",[{"d":"2013-07-09","t":"add","a":"#928 UTV, 1141-2 Baeksuk Ilsandong\nGoyang Gyeonggi 410-722\n\n","c":"KOREA, REPUBLIC OF","o":"TESCOM CO., LTD."},{"d":"2015-08-27","t":"change","a":"#928 UTV, 1141-2 Baeksuk Ilsandong Goyang Gyeonggi KR 410-722","c":"KR","o":"TESCOM CO., LTD."}]);

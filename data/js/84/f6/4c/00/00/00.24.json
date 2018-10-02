@@ -1,0 +1,1 @@
+deepmacDetailCallback("84f64c000000/24",[{"d":"2010-03-12","t":"add","a":"Waanderweg 12\nEmmen Drenthe 7812 HZ\n\n","c":"NETHERLANDS","o":"Cross Point BV"},{"d":"2015-08-27","t":"change","a":"Postbus 2112 Emmen Drenthe NL 7801 CC","c":"NL","o":"Cross Point BV"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0007de000000/24",[{"d":"2001-10-24","t":"add","a":"Veddestavagen 24\nSE-175 62 Jarfalla\n\n","c":"SWEDEN","o":"eCopilt AB"},{"d":"2015-08-27","t":"change","a":"Veddestavagen 24   SE","c":"SE","o":"eCopilt AB"}]);

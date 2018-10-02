@@ -1,0 +1,1 @@
+deepmacDetailCallback("d0c42f000000/24",[{"d":"2013-09-05","t":"add","a":"1-3-47 Kitainter Kogyodanchi\nHachinohe city Aomori-Pref. 039-2245\n\n","c":"JAPAN","o":"Tamagawa Seiki Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"1-3-47 Kitainter Kogyodanchi Hachinohe city Aomori-Pref. US 039-2245","c":"US","o":"Tamagawa Seiki Co.,Ltd."}]);

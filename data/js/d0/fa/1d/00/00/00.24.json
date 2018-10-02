@@ -1,0 +1,1 @@
+deepmacDetailCallback("d0fa1d000000/24",[{"d":"2014-05-24","t":"add","a":"Building 2ï¼6 Haoyuan\nJiuxianqiao Road\nChaoyang District Beijing 100015\n","c":"CHINA","o":"Qihoo  360  Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Building 2，6 Haoyuan Chaoyang District Beijing CN 100015","c":"CN","o":"Qihoo  360  Technology Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5df7000/36",[{"a":"Isokatu 8A1 OULU FInland FI 90100","o":"Refecor Oy","d":"2015-06-21","t":"add","s":"ieee","c":"FI"}]);

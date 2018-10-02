@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b94000000/24",[{"d":"2007-03-01","t":"add","a":"via della Scienza 21 A/C\nCastelnuovo Rangone Modena 41051\n\n","c":"ITALY","o":"T.E.M.A. S.p.A."},{"d":"2015-08-27","t":"change","a":"via della Scienza 21 A/C Castelnuovo Rangone Modena IT 41051","c":"IT","o":"T.E.M.A. S.p.A."}]);

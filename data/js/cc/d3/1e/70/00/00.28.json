@@ -1,0 +1,1 @@
+deepmacDetailCallback("ccd31e700000/28",[{"a":"F13,No.02,Building Shangqi,Nanhaidadao 4050 Nanshan District,Shenzhen,P.R.China shenzhen Guangdong CN 518057","o":"Shenzhen Decnta Technology Co.,LTD.","d":"2016-03-27","t":"add","s":"ieee","c":"CN"}]);

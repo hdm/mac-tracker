@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d85513d000/36",[{"a":"25th of October Str, 106 Perm Privolgsky Federal District RU 614990","o":"Perm Scientific-Industrial Instrument Making Company JSC","d":"2013-07-21","t":"add","s":"ieee","c":"RU"}]);

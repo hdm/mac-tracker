@@ -1,0 +1,1 @@
+deepmacDetailCallback("60f13d000000/24",[{"d":"2009-09-09","t":"add","a":"V Nivach 12\nJablonec nad Nisou  466 01\n\n","c":"CZECH REPUBLIC","o":"JABLOCOM s.r.o."},{"d":"2015-08-27","t":"change","a":"V Nivach 12 Jablonec nad Nisou  CZ 466 01","c":"CZ","o":"JABLOCOM s.r.o."}]);

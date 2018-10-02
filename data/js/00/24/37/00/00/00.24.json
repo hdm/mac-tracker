@@ -1,0 +1,1 @@
+deepmacDetailCallback("002437000000/24",[{"d":"2008-11-09","t":"add","a":"1101 Marina Village Pkwy\nSte 200\nAlameda CA 94501\n","c":"UNITED STATES","o":"Motorola - BSG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1101 Marina Village Pkwy Alameda CA US 94501","c":"US","o":"Motorola - BSG"}]);

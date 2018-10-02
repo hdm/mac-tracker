@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5460000/36",[{"a":"Room C-306, Innovation Building,Information Industry Park, Chaoyang Road,Guilin,China GuiLin Guangxi CN 541000","o":"Guilin Tryin Technology Co.,Ltd","d":"2018-03-04","t":"add","s":"ieee","c":"CN"}]);

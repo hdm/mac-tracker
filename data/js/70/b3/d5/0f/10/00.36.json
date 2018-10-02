@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d50f1000/36",[{"a":"Room 901, Building #6, FENGCHUANG KeJi Park YIZHUANG economic development zone, District Daxing Beijing CN 100176","o":"Beijing One City Science & Technology Co., LTD","d":"2017-01-08","t":"add","s":"ieee","c":"CN"}]);

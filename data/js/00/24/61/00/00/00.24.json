@@ -1,0 +1,1 @@
+deepmacDetailCallback("002461000000/24",[{"d":"2008-11-23","t":"add","a":"632-62, Guro-Dong, Guro-Gu\n105-Ho, C-Dong, Guroculation Dept.\nSeoul  152-866\n","c":"KOREA, REPUBLIC OF","o":"Shin Wang Tech.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"632-62, Guro-Dong, Guro-Gu Seoul  KR 152-866","c":"KR","o":"Shin Wang Tech."}]);

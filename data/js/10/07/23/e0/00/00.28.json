@@ -1,0 +1,1 @@
+deepmacDetailCallback("100723e00000/28",[{"a":"No. 53, Lane 17, Yuhe Street Taoyuan City, Taoyuan County  TW 33057","o":"First Chair Acoustics Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);

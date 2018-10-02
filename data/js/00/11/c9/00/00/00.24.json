@@ -1,0 +1,1 @@
+deepmacDetailCallback("0011c9000000/24",[{"d":"2004-07-24","t":"add","a":"2-7-12\nMurotani\nNishi-ku Kobe 651-2241\n","c":"JAPAN","o":"MTT Corporation"},{"d":"2015-08-27","t":"change","a":"2-7-12 Nishi-ku Kobe JP 651-2241","c":"JP","o":"MTT Corporation"}]);

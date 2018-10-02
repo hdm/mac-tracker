@@ -1,0 +1,1 @@
+deepmacDetailCallback("0010d0000000/24",[{"d":"1998-04-22","t":"add","a":"P.O.B. 2250\nHAIFA  31021\n\n","c":"ISRAEL","o":"WITCOM, LTD."},{"d":"2015-08-27","t":"change","a":"P.O.B. 2250 HAIFA  31021  IL","c":"IL","o":"WITCOM, LTD."}]);

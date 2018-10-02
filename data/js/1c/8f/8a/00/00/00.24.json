@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c8f8a000000/24",[{"d":"2009-12-01","t":"add","a":"via Adamoli, 461\nGenova  IT16141\n\n","c":"ITALY","o":"Phase Motion Control SpA"},{"d":"2015-08-27","t":"change","a":"via Adamoli, 461 Genova  IT IT16141","c":"IT","o":"Phase Motion Control SpA"}]);

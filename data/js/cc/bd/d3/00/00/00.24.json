@@ -1,0 +1,1 @@
+deepmacDetailCallback("ccbdd3000000/24",[{"d":"2014-08-27","t":"add","a":"Burgemeester Rozeveld van de Venlaan 11\nGeldermalsen Gelderland 4191 PL\n\n","c":"NETHERLANDS","o":"Ultimaker B.V."},{"d":"2015-08-27","t":"change","a":"Burgemeester Rozeveld van de Venlaan 11 Geldermalsen Gelderland NL 4191 PL","c":"NL","o":"Ultimaker B.V."}]);

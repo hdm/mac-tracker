@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f23000000/24",[{"d":"2007-12-31","t":"add","a":"Drejervaenget 8\nAssens DK 5610\n\n","c":"DENMARK","o":"Interacoustics"},{"d":"2015-08-27","t":"change","a":"Drejervaenget 8 Assens DK DK 5610","c":"DK","o":"Interacoustics"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001171000000/24",[{"d":"2004-06-03","t":"add","a":"2F Shinsung B/D 404-1\nBackhyun-Dong, Bundang-Gu\nSungnam Gyunggi 463-420\n","c":"KOREA, REPUBLIC OF","o":"DEXTER Communications, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2F Shinsung B/D 404-1 Sungnam Gyunggi KR 463-420","c":"KR","o":"DEXTER Communications, Inc."}]);

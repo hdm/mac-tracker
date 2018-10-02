@@ -1,0 +1,1 @@
+deepmacDetailCallback("9c7bd2000000/24",[{"d":"2011-05-07","t":"add","a":"4F Yujung bldg.,\nSeocho-dong, Seocho-gu\nSeoul  137-070\n","c":"KOREA, REPUBLIC OF","o":"NEOLAB Convergence"},{"d":"2015-08-27","t":"change","a":"4F Yujung bldg., Seoul  KR 137-070","c":"KR","o":"NEOLAB Convergence"}]);

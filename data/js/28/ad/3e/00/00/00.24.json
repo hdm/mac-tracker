@@ -1,0 +1,1 @@
+deepmacDetailCallback("28ad3e000000/24",[{"d":"2017-07-11","t":"add","a":"Longhua District, Dalang street Langkou community Huarong Road Peng Tengda Industrial Park 4 5 floor SHENZHEN guangdong CN 518109","c":"CN","o":"Shenzhen TONG BO WEI Technology CO.,LTD"}]);

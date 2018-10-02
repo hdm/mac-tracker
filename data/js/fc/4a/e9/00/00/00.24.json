@@ -1,0 +1,1 @@
+deepmacDetailCallback("fc4ae9000000/24",[{"d":"2014-01-29","t":"add","a":"No.64, Chung-Shan Rd.\nTu-Cheng Dist.\nNew Taipei City  23680\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Castlenet Technology Inc."},{"d":"2015-08-27","t":"change","a":"No.64, Chung-Shan Rd. New Taipei City  TW 23680","c":"TW","o":"Castlenet Technology Inc."}]);

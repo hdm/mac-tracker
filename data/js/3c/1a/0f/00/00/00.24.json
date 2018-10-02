@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c1a0f000000/24",[{"d":"2014-09-17","t":"add","a":"99 Summer Street\nSuite 1130\nBoston MA 02110\n","c":"UNITED STATES","o":"ClearSky Data"},{"d":"2015-08-27","t":"change","a":"99 Summer Street Boston MA US 02110","c":"US","o":"ClearSky Data"}]);

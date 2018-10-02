@@ -1,0 +1,1 @@
+deepmacDetailCallback("6c3e9c000000/24",[{"d":"2010-02-10","t":"add","a":"Osterwalder Str. 12\nHopferbach Bavaria 87496\n\n","c":"GERMANY","o":"KE Knestel Elektronik GmbH"},{"d":"2015-08-27","t":"change","a":"Osterwalder Str. 12 Hopferbach Bavaria DE 87496","c":"DE","o":"KE Knestel Elektronik GmbH"}]);

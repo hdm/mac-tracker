@@ -1,0 +1,1 @@
+deepmacDetailCallback("000def000000/24",[{"d":"2003-09-08","t":"add","a":"via S.Ferrari 16\nCampogalliano Modena 41011\n\n","c":"ITALY","o":"Soc. Coop. Bilanciai","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"via S.Ferrari 16 Campogalliano Modena IT 41011","c":"IT","o":"Soc. Coop. Bilanciai"}]);

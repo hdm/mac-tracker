@@ -1,0 +1,1 @@
+deepmacDetailCallback("28f537900000/28",[{"a":"Peter-Henlein-Straße 5 Villingen-Schwenningen Baden-Württemberg DE 78056","o":"Herbert Waldmann GmbH & Co. KG","d":"2017-04-30","t":"add","s":"ieee","c":"DE"}]);

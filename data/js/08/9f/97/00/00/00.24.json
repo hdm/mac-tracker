@@ -1,0 +1,1 @@
+deepmacDetailCallback("089f97000000/24",[{"d":"2010-03-03","t":"add","a":"35, Boulevard du Libre Echange\nSaint Orens de Gameville  31650\n\n","c":"FRANCE","o":"LEROY AUTOMATION"},{"d":"2015-08-27","t":"change","a":"35, Boulevard du Libre Echange Saint Orens de Gameville  FR 31650","c":"FR","o":"LEROY AUTOMATION"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00904d000000/24",[{"d":"2000-09-08","t":"add","a":"CASP 172 3-B\n08013 BARCELONA\n\n","c":"SPAIN","o":"SPEC S.A."},{"d":"2015-08-27","t":"change","a":"CASP 172 3-B 08013 BARCELONA  ES","c":"ES","o":"SPEC S.A."}]);

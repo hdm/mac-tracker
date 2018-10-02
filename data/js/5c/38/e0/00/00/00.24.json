@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c38e0000000/24",[{"d":"2012-08-02","t":"add","a":"1/F Building A 39 Hongcao Road\nXuhui District\nShanghai  200233\n","c":"CHINA","o":"Shanghai Super Electronics Technology Co.,LTD"},{"d":"2015-08-27","t":"change","a":"1/F Building A 39 Hongcao Road Shanghai  CN 200233","c":"CN","o":"Shanghai Super Electronics Technology Co.,LTD"}]);

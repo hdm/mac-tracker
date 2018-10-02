@@ -1,0 +1,1 @@
+deepmacDetailCallback("7884ee000000/24",[{"d":"2010-02-12","t":"add","a":"C/ ROC BORONAT, 133\nBARCELONA  08018\n\n","c":"SPAIN","o":"INDRA ESPACIO S.A."},{"d":"2015-08-27","t":"change","a":"C/ ROC BORONAT, 133 BARCELONA  ES 08018","c":"ES","o":"INDRA ESPACIO S.A."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("94ce31000000/24",[{"d":"2014-05-20","t":"add","a":"1st district, 23D, 21\nMoscowsky City\nMoscow - 142784\n","c":"RUSSIAN FEDERATION","o":"CTS Limited"},{"d":"2015-08-27","t":"change","a":"1st district, 23D, 21 Moscow - RU 142784","c":"RU","o":"CTS Limited"}]);

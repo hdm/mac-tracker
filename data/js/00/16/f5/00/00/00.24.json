@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016f5000000/24",[{"d":"2006-01-03","t":"add","a":"No.1 Hua Road,Qixianling\nDalian LiaoNing 116023\n\n","c":"CHINA","o":"Dalian Golden Hualu Digital Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"No.1 Hua Road,Qixianling Dalian LiaoNing CN 116023","c":"CN","o":"Dalian Golden Hualu Digital Technology Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012ae000000/24",[{"d":"2004-10-26","t":"add","a":"53 Main Street\nDowling Ontario P0M 1R0\n\n","c":"CANADA","o":"HLS HARD-LINE Solutions Inc."},{"d":"2015-08-27","t":"change","a":"53 Main Street Dowling Ontario CA P0M 1R0","c":"CA","o":"HLS HARD-LINE Solutions Inc."}]);

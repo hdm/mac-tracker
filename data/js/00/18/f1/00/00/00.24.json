@@ -1,0 +1,1 @@
+deepmacDetailCallback("0018f1000000/24",[{"d":"2006-07-09","t":"add","a":"1 Denjiyama\nNarumi cho Midori ku\nNagoya Aichi 458-8525\n","c":"JAPAN","o":"Chunichi Denshi Co.,LTD."},{"d":"2015-08-27","t":"change","a":"1 Denjiyama Nagoya Aichi JP 458-8525","c":"JP","o":"Chunichi Denshi Co.,LTD."}]);

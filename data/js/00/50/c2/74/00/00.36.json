@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2740000/36",[{"a":"Pinghu Village,Pinghu Town,Shenzhen,Guangdong Province,Peoples Republic of China Shenzhen Guangdong CN 518111","o":"McQuay China","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

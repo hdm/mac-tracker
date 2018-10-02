@@ -1,0 +1,1 @@
+deepmacDetailCallback("788e33000000/24",[{"d":"2015-05-14","t":"add","a":"NO23.Wenzhu Road.Yuhuatai Distrct.\nNanjing Jiangsu Province 210012\n\n","c":"CHINA","o":"Jiangsu SEUIC Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"NO23.Wenzhu Road.Yuhuatai Distrct. Nanjing Jiangsu Province CN 210012","c":"CN","o":"Jiangsu SEUIC Technology Co.,Ltd"}]);

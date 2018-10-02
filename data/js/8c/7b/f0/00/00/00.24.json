@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c7bf0000000/24",[{"a":"FLAT/RM1616 16F INTERATIONAL TRADE CENTRE 11-19 SHA TSUI RD TSUEN WAN HongKong HongKong HK 999077","o":"Xufeng Development Limited","d":"2018-08-05","t":"add","s":"ieee","c":"HK"}]);

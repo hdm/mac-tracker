@@ -1,0 +1,1 @@
+deepmacDetailCallback("001669000000/24",[{"d":"2005-11-06","t":"add","a":"P.O Box 614\nYokneam  20692\n\n","c":"ISRAEL","o":"MRV Communication (Networks) LTD"},{"d":"2015-08-27","t":"change","a":"P.O Box 614 Yokneam  US 20692","c":"US","o":"MRV Communication (Networks) LTD"}]);

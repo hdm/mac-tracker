@@ -1,0 +1,1 @@
+deepmacDetailCallback("002214000000/24",[{"d":"2008-06-18","t":"add","a":"560-2, Shibjong-1dong, Pupyoung-gu\n5th Research Team\nPupyoung-gu Incheon 403-847\n","c":"KOREA, REPUBLIC OF","o":"RINNAI KOREA","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"560-2, Shibjong-1dong, Pupyoung-gu Pupyoung-gu Incheon KR 403-847","c":"KR","o":"RINNAI KOREA"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("94aee3000000/24",[{"d":"2014-05-02","t":"add","a":"333 Yanhu Road, Huaqiao Town\nKunshan Jiangsu 215332\n\n","c":"CHINA","o":"Belden Hirschmann Industries (Suzhou) Ltd."},{"d":"2015-08-27","t":"change","a":"333 Yanhu Road, Huaqiao Town Kunshan Jiangsu CN 215332","c":"CN","o":"Belden Hirschmann Industries (Suzhou) Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00198c000000/24",[{"d":"2006-09-03","t":"add","a":"55 av auguste Renoir\nMarly le Roi  78160\n\n","c":"FRANCE","o":"iXSea"},{"d":"2015-08-27","t":"change","a":"55 av auguste Renoir Marly le Roi  FR 78160","c":"FR","o":"iXSea"}]);

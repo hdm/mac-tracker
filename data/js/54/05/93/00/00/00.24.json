@@ -1,0 +1,1 @@
+deepmacDetailCallback("540593000000/24",[{"d":"2016-02-19","t":"add","a":"#1401~03, #1411~12, Bucheon Deawoo Techno Park, D-Dong, 261,Doyak-Ro, Wonmi-Gu,Bucheon-Si Gyeonggi-Do  KR 14523","c":"KR","o":"WOORI ELEC Co.,Ltd"}]);

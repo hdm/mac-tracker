@@ -1,0 +1,1 @@
+deepmacDetailCallback("0060c4000000/24",[{"d":"1998-04-22","t":"add","a":"2-4-3 SHINJUKU, SHINJUKU-KU\nTOKYO 160\n\n","c":"JAPAN","o":"SOLITON SYSTEMS K.K."},{"d":"2015-08-27","t":"change","a":"2-4-3 SHINJUKU, SHINJUKU-KU TOKYO 160  JP","c":"JP","o":"SOLITON SYSTEMS K.K."}]);

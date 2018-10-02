@@ -1,0 +1,1 @@
+deepmacDetailCallback("00113a000000/24",[{"d":"2004-05-11","t":"add","a":"4F DAHNWORLD BUILDING, 154-11 SAMSUNG-DONG\nKANGNAM-GU,\nSEOUL  135-879\n","c":"KOREA, REPUBLIC OF","o":"SHINBORAM","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4F DAHNWORLD BUILDING, 154-11 SAMSUNG-DONG SEOUL  KR 135-879","c":"KR","o":"SHINBORAM"}]);

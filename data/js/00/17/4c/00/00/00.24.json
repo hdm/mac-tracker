@@ -1,0 +1,1 @@
+deepmacDetailCallback("00174c000000/24",[{"d":"2006-02-04","t":"add","a":"1, rue Jacques Monod\nRond-point des Sangliers\nGuyancourt  78280\n","c":"FRANCE","o":"Millipore"},{"d":"2015-08-27","t":"change","a":"1, rue Jacques Monod Guyancourt  FR 78280","c":"FR","o":"Millipore"}]);

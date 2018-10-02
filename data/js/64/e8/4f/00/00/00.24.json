@@ -1,0 +1,1 @@
+deepmacDetailCallback("64e84f000000/24",[{"d":"2011-08-10","t":"add","a":"Room 315, 706 Painting Room,\n85# Jiancaicheng West Road, Haidian District\nBeijing  100096\n","c":"CHINA","o":"Serialway Communication Technology Co. Ltd"},{"d":"2015-08-27","t":"change","a":"Room 315, 706 Painting Room,  Beijing  CN 100096","c":"CN","o":"Serialway Communication Technology Co. Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d50a4000/36",[{"a":"11F,No.166, Jian 1th Rd.,Jhonghe Dist. 11F,No.166, Jian 1th Rd.,Jhonghe Dist.  TW","o":"Communication Technology Ltd.","d":"2014-08-17","t":"add","s":"ieee","c":"TW"}]);

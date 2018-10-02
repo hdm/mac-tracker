@@ -1,0 +1,1 @@
+deepmacDetailCallback("001d39000000/24",[{"d":"2007-08-18","t":"add","a":"Seoul Hightech Venture Center C-307 647-26\nDeungchon-Dong Gangseo-Gu\nSEOUL  157-030\n","c":"KOREA, REPUBLIC OF","o":"MOOHADIGITAL CO., LTD"},{"d":"2015-08-27","t":"change","a":"Seoul Hightech Venture Center C-307 647-26 SEOUL  KR 157-030","c":"KR","o":"MOOHADIGITAL CO., LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0015d3000000/24",[{"d":"2005-09-16","t":"add","a":"1451-34, Seocho-dong, Seocho-Gu\nSeoul  137-070\n\n","c":"KOREA, REPUBLIC OF","o":"Pantech&Curitel Communications, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1451-34, Seocho-dong, Seocho-Gu Seoul  KR 137-070","c":"KR","o":"Pantech&Curitel Communications, Inc."}]);

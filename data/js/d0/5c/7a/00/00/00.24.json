@@ -1,0 +1,1 @@
+deepmacDetailCallback("d05c7a000000/24",[{"d":"2015-01-06","t":"add","a":"Kuniscak 28\nZagreb 10000\n\n","c":"CROATIA","o":"Sartura d.o.o."},{"d":"2015-08-27","t":"change","a":"Kuniscak 28  Zagreb HR 10000","c":"HR","o":"Sartura d.o.o."}]);

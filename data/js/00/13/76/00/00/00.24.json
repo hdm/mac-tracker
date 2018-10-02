@@ -1,0 +1,1 @@
+deepmacDetailCallback("001376000000/24",[{"d":"2005-02-06","t":"add","a":"9 Hatatsia St.\nTel Hanan  20302\n\n","c":"ISRAEL","o":"Tabor Electronics Ltd."},{"d":"2015-08-27","t":"change","a":"9 Hatatsia St. Tel Hanan  IL 20302","c":"IL","o":"Tabor Electronics Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("3009f9a00000/28",[{"a":"5-10 Building High-tech Zone, Nanshan District,  Shenzhen Guangdong Province CN 518057","o":"Shenzhen Tencent Computer System Co., Ltd.","d":"2018-05-13","t":"add","s":"ieee","c":"CN"}]);

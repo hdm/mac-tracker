@@ -1,0 +1,1 @@
+deepmacDetailCallback("90d92c000000/24",[{"d":"2010-10-09","t":"add","a":"Auriedstrasse 10\nBoesingen Fribourg 3178\n\n","c":"SWITZERLAND","o":"HUG-WITSCHI AG"},{"d":"2015-08-27","t":"change","a":"Auriedstrasse 10 Boesingen Fribourg CH 3178","c":"CH","o":"HUG-WITSCHI AG"}]);

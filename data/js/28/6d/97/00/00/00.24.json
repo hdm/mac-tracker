@@ -1,0 +1,1 @@
+deepmacDetailCallback("286d97000000/24",[{"d":"2013-05-30","t":"add","a":"199-6, Anyang 7-dong, Manan-gu\nAnyang-si Gyeonggi-do 430-817\n\n","c":"KOREA, REPUBLIC OF","o":"SAMJIN Co., Ltd."},{"d":"2015-08-27","t":"change","a":"199-6, Anyang 7-dong, Manan-gu Anyang-si Gyeonggi-do KR 430-817","c":"KR","o":"SAMJIN Co., Ltd."}]);

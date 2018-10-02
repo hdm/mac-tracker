@@ -1,0 +1,1 @@
+deepmacDetailCallback("0021a9000000/24",[{"d":"2008-06-18","t":"add","a":"292-3 Sindang-ri, Sandong-myun\nGumi Gyeongbuk 730-853\n\n","c":"KOREA, REPUBLIC OF","o":"Mobilink Telecom Co.,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"292-3 Sindang-ri, Sandong-myun Gumi Gyeongbuk KR 730-853","c":"KR","o":"Mobilink Telecom Co.,Ltd"}]);

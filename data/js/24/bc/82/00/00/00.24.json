@@ -1,0 +1,1 @@
+deepmacDetailCallback("24bc82000000/24",[{"d":"2011-10-01","t":"add","a":"125 University Avenue, Suite 88\nPalo Alto CA 94301\n\n","c":"UNITED STATES","o":"Dali Wireless, Inc."},{"d":"2015-08-27","t":"change","a":"125 University Avenue, Suite 88 Palo Alto CA US 94301","c":"US","o":"Dali Wireless, Inc."}]);

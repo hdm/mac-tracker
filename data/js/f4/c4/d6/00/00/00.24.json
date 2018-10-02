@@ -1,0 +1,1 @@
+deepmacDetailCallback("f4c4d6000000/24",[{"d":"2016-11-19","t":"add","a":"No 57, Baoli Road, Buji Town Longgang District Shenzhen, Guangdong  CN 518112","c":"CN","o":"Shenzhen Xinfa Electronic Co.,ltd"}]);

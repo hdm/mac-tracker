@@ -1,0 +1,1 @@
+deepmacDetailCallback("00136d000000/24",[{"d":"2005-01-23","t":"add","a":"Studiegangen 3\nOstersund Jamtland SE - 831 40\n\n","c":"SWEDEN","o":"Tentaculus AB"},{"d":"2015-08-27","t":"change","a":"Studiegangen 3 Ostersund Jamtland SE SE - 831 40","c":"SE","o":"Tentaculus AB"}]);

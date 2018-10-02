@@ -1,0 +1,1 @@
+deepmacDetailCallback("34298f700000/28",[{"a":"No.3 Fumin North Rd,Shu'an Industrial Park, Humen Town Dongguan Guangdong China CN 523929","o":"Dongguan Kingtron Electronics Tech Co., Ltd","d":"2017-05-21","t":"add","s":"ieee","c":"CN"}]);

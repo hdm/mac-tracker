@@ -1,0 +1,1 @@
+deepmacDetailCallback("001c79000000/24",[{"d":"2007-05-13","t":"add","a":"200 South Wacker Dr.\nSuite 1500\nChicago IL 60606\n","c":"UNITED STATES","o":"Cohesive Financial Technologies LLC"},{"d":"2015-08-27","t":"change","a":"200 South Wacker Dr. Chicago IL US 60606","c":"US","o":"Cohesive Financial Technologies LLC"}]);

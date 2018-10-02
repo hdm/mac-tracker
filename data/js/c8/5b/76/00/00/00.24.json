@@ -1,0 +1,1 @@
+deepmacDetailCallback("c85b76000000/24",[{"d":"2016-03-08","t":"add","a":"YunGu Road 3188-1\n\n\n","c":"Hefei  Anhui  230000","o":"LCFC(HeFei) Electronics Technology co., ltd"},{"d":"2016-03-09","t":"change","a":"YunGu Road 3188-1 Hefei Anhui CN 230000","c":"CN","o":"LCFC(HeFei) Electronics Technology co., ltd"}]);

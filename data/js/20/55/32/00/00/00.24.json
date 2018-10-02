@@ -1,0 +1,1 @@
+deepmacDetailCallback("205532000000/24",[{"d":"2015-10-02","t":"add","a":"Unit 2506, 25/F, Prosperity Place,6 Shing Yip Street, Kwun Tong,  Kowloon Hong Kong  CN 00000","c":"CN","o":"Gotech International Technology Limited"}]);

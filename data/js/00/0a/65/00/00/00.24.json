@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a65000000/24",[{"d":"2002-08-03","t":"add","a":"solvit bldg 2f, 402-8, yangjae-don,\nseocho-gu, seoul 137-899\n\n","c":"KOREA, REPUBLIC OF","o":"GentechMedia.co.,ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"solvit bldg 2f, 402-8, yangjae-don, seocho-gu, seoul KR 137-899","c":"KR","o":"GentechMedia.co.,ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d357000000/24",[{"d":"2015-11-21","t":"add","a":"Room 6, 20F, No. 77, section 1, Xintai 5th Rd. Xizhi District New Taipei City Taiwan TW 22101","c":"TW","o":"Ison Technology Co., Ltd."}]);

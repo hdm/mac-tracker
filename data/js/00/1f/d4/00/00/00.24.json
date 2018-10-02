@@ -1,0 +1,1 @@
+deepmacDetailCallback("001fd4000000/24",[{"d":"2008-02-09","t":"add","a":"38129 CAMBRIDGE COURT\nFREMONT CA 94536\n\n","c":"UNITED STATES","o":"4IPNET, INC."},{"d":"2015-08-27","t":"change","a":"38129 CAMBRIDGE COURT FREMONT CA US 94536","c":"US","o":"4IPNET, INC."}]);

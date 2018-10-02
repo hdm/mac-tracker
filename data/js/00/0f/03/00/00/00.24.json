@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f03000000/24",[{"d":"2003-12-21","t":"add","a":"2F Woojin BLD 1445-2 Secho-Dong\nSecho-Gu\nSEOUL  137-070\n","c":"KOREA, REPUBLIC OF","o":"COM&C CO., LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2F Woojin BLD 1445-2 Secho-Dong SEOUL  KR 137-070","c":"KR","o":"COM&C CO., LTD"}]);

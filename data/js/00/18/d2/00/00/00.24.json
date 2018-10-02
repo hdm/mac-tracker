@@ -1,0 +1,1 @@
+deepmacDetailCallback("0018d2000000/24",[{"d":"2006-07-01","t":"add","a":"11679 S. Cormorant Circle\nParker CO 80134\n\n","c":"UNITED STATES","o":"High-Gain Antennas LLC"},{"d":"2015-08-27","t":"change","a":"11679 S. Cormorant Circle Parker CO US 80134","c":"US","o":"High-Gain Antennas LLC"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001796000000/24",[{"d":"2006-03-06","t":"add","a":"Inwilerriedstrasse 57\nPostfach 464\nBaar ZG CH-6341\n","c":"SWITZERLAND","o":"Rittmeyer AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Inwilerriedstrasse 57 Baar ZG CH CH-6341","c":"CH","o":"Rittmeyer AG"}]);

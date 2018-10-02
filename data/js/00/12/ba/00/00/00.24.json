@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012ba000000/24",[{"d":"2004-11-16","t":"add","a":"5847 County Road 41\nFarmington NY 14425\n\n","c":"UNITED STATES","o":"FSI Systems, Inc."},{"d":"2015-08-27","t":"change","a":"5847 County Road 41 Farmington NY US 14425","c":"US","o":"FSI Systems, Inc."}]);

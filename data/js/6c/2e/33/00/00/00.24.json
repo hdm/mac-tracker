@@ -1,0 +1,1 @@
+deepmacDetailCallback("6c2e33000000/24",[{"d":"2010-09-22","t":"add","a":"88 Youkeyuan Road,\nWuhan Hubei 430074\n\n","c":"CHINA","o":"Accelink Technologies Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"88 Youkeyuan Road, Wuhan Hubei CN 430074","c":"CN","o":"Accelink Technologies Co.,Ltd."}]);

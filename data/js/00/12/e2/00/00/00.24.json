@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012e2000000/24",[{"d":"2004-11-19","t":"add","a":"890 Kashimada, Saiwai-ku\nKawasaki-shi Kanagawa-ken 212-0058\n\n","c":"JAPAN","o":"ALAXALA Networks Corporation"},{"d":"2015-08-27","t":"change","a":"890 Kashimada, Saiwai-ku Kawasaki-shi Kanagawa-ken JP 212-0058","c":"JP","o":"ALAXALA Networks Corporation"}]);

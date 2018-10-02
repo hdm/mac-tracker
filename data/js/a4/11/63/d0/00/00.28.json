@@ -1,0 +1,1 @@
+deepmacDetailCallback("a41163d00000/28",[{"a":"Room 712 in 3A of Hecheng Century Garden，Wuhe Street South No.118，Longgang District，Shenzhen SHENZHEN GUANG DONG CN 518000","o":"SHENZHEN ZHISHI TECHNOLOGY CO., LTD.","d":"2016-12-04","t":"add","s":"ieee","c":"CN"}]);

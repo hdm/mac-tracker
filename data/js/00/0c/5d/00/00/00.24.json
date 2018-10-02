@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c5d000000/24",[{"d":"2003-02-07","t":"add","a":"7th Building,Shi'ao Ind.Zone,Longhua Tow\nShenzhen Guangdong 518109\n\n","c":"CHINA","o":"CHIC TECHNOLOGY (CHINA) CORP."},{"d":"2015-08-27","t":"change","a":"7th Building,Shi'ao Ind.Zone,Longhua Tow Shenzhen Guangdong CN 518109","c":"CN","o":"CHIC TECHNOLOGY (CHINA) CORP."}]);

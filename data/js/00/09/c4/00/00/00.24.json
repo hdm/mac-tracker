@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009c4000000/24",[{"d":"2002-06-05","t":"add","a":"72-3 5th Fl., Luna Bldg, Chungdam-dong\nKangnam-gu\nSeoul  135-080\n","c":"KOREA, REPUBLIC OF","o":"Medicore Co., Ltd"},{"d":"2015-08-27","t":"change","a":"72-3 5th Fl., Luna Bldg, Chungdam-dong Seoul  KR 135-080","c":"KR","o":"Medicore Co., Ltd"}]);

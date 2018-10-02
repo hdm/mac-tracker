@@ -1,0 +1,1 @@
+deepmacDetailCallback("00db45000000/24",[{"d":"2009-11-19","t":"add","a":"3-9-2\nImaizumi\nFuji Shizuoka 417-0001\n","c":"JAPAN","o":"THAMWAY CO.,LTD."},{"d":"2015-08-27","t":"change","a":"3-9-2 Fuji Shizuoka JP 417-0001","c":"JP","o":"THAMWAY CO.,LTD."}]);

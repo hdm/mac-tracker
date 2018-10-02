@@ -1,0 +1,1 @@
+deepmacDetailCallback("58b961000000/24",[{"d":"2013-07-24","t":"add","a":"ZAE La Plaine\n5, Rue Georges Besse\nCLAPIERS  34830\n","c":"FRANCE","o":"SOLEM Electronique"},{"d":"2015-08-27","t":"change","a":"ZAE La Plaine CLAPIERS  FR 34830","c":"FR","o":"SOLEM Electronique"}]);

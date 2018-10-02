@@ -1,0 +1,1 @@
+deepmacDetailCallback("00183b000000/24",[{"d":"2006-06-13","t":"add","a":"3F, Yangjae Bldg., 264-3\nYangjae-Dong, Seocho-Gu\nSeoul  137-130\n","c":"KOREA, REPUBLIC OF","o":"CENITS Co., Ltd."},{"d":"2015-08-27","t":"change","a":"3F, Yangjae Bldg., 264-3 Seoul  KR 137-130","c":"KR","o":"CENITS Co., Ltd."}]);

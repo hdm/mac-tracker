@@ -1,0 +1,1 @@
+deepmacDetailCallback("00088d000000/24",[{"d":"2001-12-14","t":"add","a":"550-1 Higashiasakawa-cho,\nHachioji-shi,\nTokyo  193-8550\n","c":"JAPAN","o":"Sigma-Links Inc."},{"d":"2015-08-27","t":"change","a":"550-1 Higashiasakawa-cho, Tokyo  JP 193-8550","c":"JP","o":"Sigma-Links Inc."}]);

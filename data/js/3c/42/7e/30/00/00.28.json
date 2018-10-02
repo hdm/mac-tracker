@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c427e300000/28",[{"a":"Room 1301-1303,West Wing,Skyworth Semiconductor Design Building,No.18,Gaoxin South 4th road, Nanshan District ShenZhen Guangdong CN 518063","o":"Shenzhen VETAS Communication Technology Co , Ltd.","d":"2018-04-15","t":"add","s":"ieee","c":"CN"}]);

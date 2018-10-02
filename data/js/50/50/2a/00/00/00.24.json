@@ -1,0 +1,1 @@
+deepmacDetailCallback("50502a000000/24",[{"d":"2014-12-06","t":"add","a":"Kleine Landtong 19\nGorinchem Zuid Holland 4201 HL\n\n","c":"NETHERLANDS","o":"Egardia"},{"d":"2015-08-27","t":"change","a":"Kleine Landtong 19 Gorinchem Zuid Holland NL 4201 HL","c":"NL","o":"Egardia"}]);

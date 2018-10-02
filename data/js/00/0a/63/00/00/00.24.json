@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a63000000/24",[{"d":"2002-08-03","t":"add","a":"Haferkornstrasse 5\nLeipzig Sachsen 04129\n\n","c":"GERMANY","o":"DHD GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Haferkornstrasse 5 Leipzig Sachsen DE 04129","c":"DE","o":"DHD GmbH"}]);

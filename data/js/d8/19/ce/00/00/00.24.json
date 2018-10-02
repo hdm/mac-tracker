@@ -1,0 +1,1 @@
+deepmacDetailCallback("d819ce000000/24",[{"d":"2012-11-17","t":"add","a":"670, Sampyeong-dong, Bundang-gu\nU-Space-1 1010\nSeongnam-si Gyeonggi-do 463-400\n","c":"KOREA, REPUBLIC OF","o":"Telesquare"},{"d":"2015-08-27","t":"change","a":"670, Sampyeong-dong, Bundang-gu Seongnam-si Gyeonggi-do KR 463-400","c":"KR","o":"Telesquare"}]);

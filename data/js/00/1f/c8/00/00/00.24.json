@@ -1,0 +1,1 @@
+deepmacDetailCallback("001fc8000000/24",[{"d":"2008-02-09","t":"add","a":"7/F., Unify Commercial & Industrial Building\n31 Tai Yip Street, Kwun Tong,\nKowloon\n","c":"HONG KONG","o":"Up-Today Industrial Co., Ltd."},{"d":"2015-08-27","t":"change","a":"7/F., Unify Commercial & Industrial Building Kowloon  HK","c":"HK","o":"Up-Today Industrial Co., Ltd."}]);

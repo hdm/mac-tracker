@@ -1,0 +1,1 @@
+deepmacDetailCallback("001770000000/24",[{"d":"2006-03-06","t":"add","a":"Ger-San Sitesi, 657. Sokak\nNo: 80, Ergazi\nAnkara TR 06370\n","c":"TURKEY","o":"Arti Industrial Electronics Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Ger-San Sitesi, 657. Sokak Ankara  TR 06370","c":"TR","o":"Arti Industrial Electronics Ltd."}]);

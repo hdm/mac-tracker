@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0ada1000000/24",[{"d":"2014-12-06","t":"add","a":"8968 Fullbright Avenue\nChatsworth California 91311\n\n","c":"UNITED STATES","o":"JMR Electronics, Inc"},{"d":"2015-08-27","t":"change","a":"8968 Fullbright Avenue Chatsworth California US 91311","c":"US","o":"JMR Electronics, Inc"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("d878e5000000/24",[{"d":"2011-11-03","t":"add","a":"4, impasse des fabriques\nSAVERNE  67700\n\n","c":"FRANCE","o":"KUHN SA"},{"d":"2015-08-27","t":"change","a":"4, impasse des fabriques SAVERNE  FR 67700","c":"FR","o":"KUHN SA"}]);

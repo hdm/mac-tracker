@@ -1,0 +1,1 @@
+deepmacDetailCallback("f8e968000000/24",[{"d":"2009-11-21","t":"add","a":"Szuglo u. 49.\nBudapest  1145\n\n","c":"HUNGARY","o":"Egker Kft."},{"d":"2015-08-27","t":"change","a":"Szuglo u. 49. Budapest  HU 1145","c":"HU","o":"Egker Kft."}]);

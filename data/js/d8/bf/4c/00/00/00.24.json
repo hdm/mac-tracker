@@ -1,0 +1,1 @@
+deepmacDetailCallback("d8bf4c000000/24",[{"d":"2011-11-24","t":"add","a":"4/F., CAC Tower,\n165 Hoi Bun Road,\nKwun Tong Kowloon KLN\n","c":"HONG KONG","o":"Victory Concept Electronics Limited"},{"d":"2015-08-27","t":"change","a":"4/F., CAC Tower, Kwun Tong Kowloon HK KLN","c":"HK","o":"Victory Concept Electronics Limited"}]);

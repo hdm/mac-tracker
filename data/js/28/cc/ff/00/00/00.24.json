@@ -1,0 +1,1 @@
+deepmacDetailCallback("28ccff000000/24",[{"d":"2010-12-17","t":"add","a":"Marie Curie 21\nMalaga  29590\n\n","c":"SPAIN","o":"Corporacion Empresarial Altra SL"},{"d":"2015-08-27","t":"change","a":"Marie Curie 21 Malaga  ES 29590","c":"ES","o":"Corporacion Empresarial Altra SL"}]);

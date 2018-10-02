@@ -1,0 +1,1 @@
+deepmacDetailCallback("60a9b0000000/24",[{"d":"2013-07-17","t":"add","a":"1050 NW 229th Avenue\nHIllsboro OR 97124\n\n","c":"UNITED STATES","o":"Merchandising Technologies, Inc"},{"d":"2015-08-27","t":"change","a":"1050 NW 229th Avenue HIllsboro OR US 97124","c":"US","o":"Merchandising Technologies, Inc"}]);

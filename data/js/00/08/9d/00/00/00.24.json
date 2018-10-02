@@ -1,0 +1,1 @@
+deepmacDetailCallback("00089d000000/24",[{"d":"2001-12-14","t":"add","a":"Zuercherstrasse 12\nBaden AG 5400\n\n","c":"SWITZERLAND","o":"UHD-Elektronik"},{"d":"2015-08-27","t":"change","a":"Zuercherstrasse 12 Baden AG CH 5400","c":"CH","o":"UHD-Elektronik"}]);

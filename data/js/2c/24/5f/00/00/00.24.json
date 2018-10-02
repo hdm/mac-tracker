@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c245f000000/24",[{"d":"2013-02-27","t":"add","a":"93 rue Andre Bollier\nLyon 69007\n\n","c":"FRANCE","o":"Babolat VS"},{"d":"2015-08-27","t":"change","a":"93 rue Andre Bollier  Lyon FR 69007","c":"FR","o":"Babolat VS"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c8779600000/28",[{"d":"2015-09-22","t":"add","a":"Rm.1301-1305A,Fujian Building, Caitian road, Futian District, Shenzhen Guangdong CN China","c":"CN","o":"Shenzhen Shouxin Tongda Technology Co.,Ltd"}]);

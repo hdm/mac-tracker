@@ -1,0 +1,1 @@
+deepmacDetailCallback("18d5b6000000/24",[{"d":"2014-03-15","t":"add","a":"205 N Michigan Ave\nSuite 4230\nChicago IL 60601\n","c":"UNITED STATES","o":"SMG Holdings LLC"},{"d":"2015-08-27","t":"change","a":"205 N Michigan Ave Chicago IL US 60601","c":"US","o":"SMG Holdings LLC"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0026d0000000/24",[{"d":"2009-07-11","t":"add","a":"ul. Raciborska 15D/32\nKrakow  30-384\n\n","c":"POLAND","o":"Semihalf"},{"d":"2013-04-12","t":"change","a":"ul. Wadowicka 8A\nKrakow ... 30-415\n\n","c":"POLAND","o":"Semihalf"},{"d":"2015-08-27","t":"change","a":"ul. Wadowicka 8A Krakow ... PL 30-415","c":"PL","o":"Semihalf"}]);

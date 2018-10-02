@@ -1,0 +1,1 @@
+deepmacDetailCallback("281471000000/24",[{"d":"2011-03-11","t":"add","a":"busan innobiz center 401\nbuk-ku, mandeok 3-dong\nbusan  616-829\n","c":"KOREA, REPUBLIC OF","o":"Lantis co., LTD."},{"d":"2015-08-27","t":"change","a":"busan innobiz center 401 busan  KR 616-829","c":"KR","o":"Lantis co., LTD."}]);

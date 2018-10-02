@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0a65c000000/24",[{"d":"2015-03-10","t":"add","a":"Technoparkstrasse 1\nZurich ZH 8005\n\n","c":"SWITZERLAND","o":"Supercomputing Systems AG"},{"d":"2015-08-27","t":"change","a":"Technoparkstrasse 1 Zurich ZH CH 8005","c":"CH","o":"Supercomputing Systems AG"}]);

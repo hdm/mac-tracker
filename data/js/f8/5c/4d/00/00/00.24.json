@@ -1,0 +1,1 @@
+deepmacDetailCallback("f85c4d000000/24",[{"d":"2016-05-05","t":"add","a":"1 Robbins Road\nWestford    01886-4113\n\n","c":"US","o":"NOKIA"},{"d":"2018-01-26","t":"change","a":"1 Robbins Road\nWestford  MA  01886-4113\n\n","c":"US","o":"NOKIA"},{"d":"2018-02-01","t":"change","a":"1 Robbins Road Westford MA US 01886-4113","c":"US","o":"Nokia"}]);

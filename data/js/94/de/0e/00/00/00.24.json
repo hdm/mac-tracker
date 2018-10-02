@@ -1,0 +1,1 @@
+deepmacDetailCallback("94de0e000000/24",[{"d":"2011-06-16","t":"add","a":"Stalfjaera 9\nOslo  N-0975\n\n","c":"NORWAY","o":"SmartOptics AS"},{"d":"2015-08-27","t":"change","a":"Stalfjaera 9 Oslo  NO N-0975","c":"NO","o":"SmartOptics AS"}]);

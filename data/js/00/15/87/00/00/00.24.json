@@ -1,0 +1,1 @@
+deepmacDetailCallback("001587000000/24",[{"d":"2005-08-24","t":"add","a":"178 HISHIE\nHIGASHI-OSAKA CITY OSAKA 578-0984\n\n","c":"JAPAN","o":"Takenaka Seisakusho Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"178 HISHIE HIGASHI-OSAKA CITY OSAKA JP 578-0984","c":"JP","o":"Takenaka Seisakusho Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009d2000000/24",[{"d":"2002-06-05","t":"add","a":"47697 Westinghouse Dr., Suite 200\nFremont CA 94539\n\n","c":"UNITED STATES","o":"Mai Logic Inc."},{"d":"2015-08-27","t":"change","a":"47697 Westinghouse Dr., Suite 200 Fremont CA US 94539","c":"US","o":"Mai Logic Inc."}]);

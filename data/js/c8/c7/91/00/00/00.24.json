@@ -1,0 +1,1 @@
+deepmacDetailCallback("c8c791000000/24",[{"d":"2012-07-13","t":"add","a":"Heinrich-Roller-Str. 16 B\nBerlin 10405\n\n","c":"GERMANY","o":"Zero1.tv GmbH"},{"d":"2015-08-27","t":"change","a":"Heinrich-Roller-Str. 16 B  Berlin DE 10405","c":"DE","o":"Zero1.tv GmbH"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("c4700b000000/24",[{"d":"2016-11-30","t":"add","a":"4th floor, Building J of JiTang Industrial Zone, No. 8 NanYun fifth road, HuangPu District Guangzhou Guangdong CN 510700","c":"CN","o":"GUANGZHOU CHIP TECHNOLOGIES CO.,LTD"}]);

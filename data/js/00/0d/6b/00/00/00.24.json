@@ -1,0 +1,1 @@
+deepmacDetailCallback("000d6b000000/24",[{"d":"2003-06-01","t":"add","a":"Haandvaerkervej 1\nRoedkaersbro DK DK-8840\n\n","c":"DENMARK","o":"Mita-Teknik A/S"},{"d":"2015-08-27","t":"change","a":"Haandvaerkervej 1 Roedkaersbro  DK DK-8840","c":"DK","o":"Mita-Teknik A/S"}]);

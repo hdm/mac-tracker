@@ -1,0 +1,1 @@
+deepmacDetailCallback("0021bc000000/24",[{"d":"2008-06-18","t":"add","a":"EL BOUNI\nANNABA  23000\n\n","c":"ALGERIA","o":"ZALA COMPUTER","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"EL BOUNI ANNABA  DZ 23000","c":"DZ","o":"ZALA COMPUTER"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00336c000000/24",[{"d":"2010-06-10","t":"add","a":"2365 Iron Point Road, Suite 100\nFolsom CA 95630\n\n","c":"UNITED STATES","o":"SynapSense Corporation"},{"d":"2015-08-27","t":"change","a":"2365 Iron Point Road, Suite 100 Folsom CA US 95630","c":"US","o":"SynapSense Corporation"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("ac9a96000000/24",[{"d":"2010-03-16","t":"add","a":"Am Campeon 3\nNeubiberg Bavaria 85579\n\n","c":"GERMANY","o":"Lantiq Deutschland GmbH"},{"d":"2015-08-27","t":"change","a":"Am Campeon 3 Neubiberg Bavaria DE 85579","c":"DE","o":"Lantiq Deutschland GmbH"}]);

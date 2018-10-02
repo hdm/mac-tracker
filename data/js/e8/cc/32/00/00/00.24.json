@@ -1,0 +1,1 @@
+deepmacDetailCallback("e8cc32000000/24",[{"d":"2011-04-05","t":"add","a":"Hametzuda 27\nAzor  58001\n\n","c":"ISRAEL","o":"Micronet  LTD"},{"d":"2015-08-27","t":"change","a":"Hametzuda 27 Azor  IL 58001","c":"IL","o":"Micronet  LTD"}]);

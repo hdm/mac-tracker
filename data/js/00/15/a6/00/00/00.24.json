@@ -1,0 +1,1 @@
+deepmacDetailCallback("0015a6000000/24",[{"d":"2005-08-26","t":"add","a":"Room 301, 3 rd Floor, Tsun Yip Centre\n41 Tsun Yip Street\nKwun Tong  852\n","c":"HONG KONG","o":"Digital Electronics Products Ltd."},{"d":"2015-08-27","t":"change","a":"Room 301, 3 rd Floor, Tsun Yip Centre Kwun Tong  HK 852","c":"HK","o":"Digital Electronics Products Ltd."}]);

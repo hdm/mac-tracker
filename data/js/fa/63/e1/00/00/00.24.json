@@ -1,0 +1,1 @@
+deepmacDetailCallback("fa63e1000000/24",[{"a":"Communications House, South Street Staines-Upon-Thames Middlesex GB TW18 4QE","o":"Samsung Electronics (UK) Ltd","d":"2017-05-28","t":"add","s":"ieee","c":"GB"}]);

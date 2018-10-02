@@ -1,0 +1,1 @@
+deepmacDetailCallback("001791000000/24",[{"d":"2006-03-06","t":"add","a":"Friedrich-Engels-Str. 35\nBerlin  13156\n\n","c":"GERMANY","o":"LinTech GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Friedrich-Engels-Str. 35 Berlin  DE 13156","c":"DE","o":"LinTech GmbH"}]);

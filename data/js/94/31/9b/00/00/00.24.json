@@ -1,0 +1,1 @@
+deepmacDetailCallback("94319b000000/24",[{"d":"2011-07-27","t":"add","a":"Watergoorweg 71\nNIJKERK Gld 3861 MA\n\n","c":"NETHERLANDS","o":"Alphatronics BV"},{"d":"2015-08-27","t":"change","a":"Watergoorweg 71 NIJKERK Gld NL 3861 MA","c":"NL","o":"Alphatronics BV"}]);

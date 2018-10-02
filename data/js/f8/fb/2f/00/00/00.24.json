@@ -1,0 +1,1 @@
+deepmacDetailCallback("f8fb2f000000/24",[{"d":"2010-04-24","t":"add","a":"40931 Encyclopedia Circle\nFremont California 94538\n\n","c":"UNITED STATES","o":"Santur Corporation"},{"d":"2015-08-27","t":"change","a":"40931 Encyclopedia Circle Fremont California US 94538","c":"US","o":"Santur Corporation"}]);

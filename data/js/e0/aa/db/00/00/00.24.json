@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0aadb000000/24",[{"d":"2017-08-08","t":"add","a":"NO.6 Paneng Road,Nanjing High-tech Zone,Jiang Su,China Nanjing  CN  210061","c":"CN","o":"Nanjing PANENG Technology Development Co.,Ltd"}]);

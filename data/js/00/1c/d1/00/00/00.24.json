@@ -1,0 +1,1 @@
+deepmacDetailCallback("001cd1000000/24",[{"d":"2007-06-16","t":"add","a":"Azrilei Center 3, Triangle tower\n32nd floor\nTel Aviv Central 67023\n","c":"ISRAEL","o":"Waves Audio LTD"},{"d":"2015-08-27","t":"change","a":"Azrilei Center 3, Triangle tower Tel Aviv Central IL 67023","c":"IL","o":"Waves Audio LTD"}]);

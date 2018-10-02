@@ -1,0 +1,1 @@
+deepmacDetailCallback("789f4c000000/24",[{"d":"2013-06-14","t":"add","a":"Justinus-Kernerstr. 7\nAmmerbuch Baden-Wuerttemberg D-72119\n\n","c":"GERMANY","o":"HOERBIGER Elektronik GmbH"},{"d":"2015-08-27","t":"change","a":"Justinus-Kernerstr. 7 Ammerbuch Baden-Wuerttemberg DE D-72119","c":"DE","o":"HOERBIGER Elektronik GmbH"}]);

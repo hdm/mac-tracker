@@ -1,0 +1,1 @@
+deepmacDetailCallback("cc5459000000/24",[{"d":"2009-11-21","t":"add","a":"Gladsvei 20\nOslo  0489\n\n","c":"NORWAY","o":"OnTime Networks AS"},{"d":"2015-08-27","t":"change","a":"Gladsvei 20 Oslo  NO 0489","c":"NO","o":"OnTime Networks AS"}]);

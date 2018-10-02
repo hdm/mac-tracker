@@ -1,0 +1,1 @@
+deepmacDetailCallback("80fa5b000000/24",[{"d":"2012-11-17","t":"add","a":"NO. 129, XINGDE ROAD\nSANCHONG DIST.,\nNew TAIPEI CITY  241\n","c":"TAIWAN, PROVINCE OF CHINA","o":"CLEVO CO."},{"d":"2015-08-27","t":"change","a":"NO. 129, XINGDE ROAD New TAIPEI CITY  TW 241","c":"TW","o":"CLEVO CO."}]);

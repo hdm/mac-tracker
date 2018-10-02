@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c76c1000000/24",[{"d":"2012-11-29","t":"add","a":"ROOM 510-511C2 NAN FUNG TOWER.,\n173 DES VOEUS ROAD C\n999077\n","c":"HONG KONG","o":"Goden Tech Limited"},{"d":"2015-08-27","t":"change","a":"ROOM 510-511C2 NAN FUNG TOWER.,   HK 999077","c":"HK","o":"Goden Tech Limited"}]);

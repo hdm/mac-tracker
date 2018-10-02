@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c8776800000/28",[{"d":"2015-10-01","t":"add","a":"6F/No.6 Building, No.9/4th Lanyu St., GZ Economy&Technology Development Area Guangzhou Guangdong CN 510730","c":"CN","o":"Guangzhou Video-Star Electronics Co.,Ltd."}]);

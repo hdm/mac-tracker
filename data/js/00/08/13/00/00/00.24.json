@@ -1,0 +1,1 @@
+deepmacDetailCallback("000813000000/24",[{"d":"2001-10-24","t":"add","a":"3F Focus Building, 725-25\nYeoksam-dong, Kangnam-gu\nSeoul  135-080\n","c":"KOREA, REPUBLIC OF","o":"Diskbank, Inc."},{"d":"2015-08-27","t":"change","a":"3F Focus Building, 725-25 Seoul  KR 135-080","c":"KR","o":"Diskbank, Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("f81d78600000/28",[{"a":"3/F, B Building, Second Laowei Industrial Zone, Longhua District Shenzhen Guangdong CN 518109","o":"Zengge Co., Limited","d":"2016-06-19","t":"add","s":"ieee","c":"CN"}]);

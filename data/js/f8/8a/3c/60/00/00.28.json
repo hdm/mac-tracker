@@ -1,0 +1,1 @@
+deepmacDetailCallback("f88a3c600000/28",[{"a":"RM# 712-35, 7th Floor,  #2 Xin Xi Road, Shangdi, Haidian District Beijing  CN 100085","o":"Beijing Zhong Chuang Communication Technology Ltd.","d":"2017-03-26","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("8cc8f4500000/28",[{"a":"Room 12A05, North Real Estate Building, Block 3 81 Zizhuyuan Road, Haidian District Beijing  CN 100089","o":"Beijing KXWELL Technology CO., LTD","d":"2016-11-06","t":"add","s":"ieee","c":"CN"}]);

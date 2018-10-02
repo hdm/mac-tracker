@@ -1,0 +1,1 @@
+deepmacDetailCallback("282c02700000/28",[{"a":"1-ja ulica Buhvostova, d.12/11, korp.53, floor 13 Moscow  RU 107258","o":"Telecom and Microelectonic Industries","d":"2017-10-22","t":"add","s":"ieee","c":"RU"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("a40bed000000/24",[{"d":"2012-05-25","t":"add","a":"4F, No.119, JianKang Road\nJhonghe Dist. New Taipei City 23585\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Carry Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"4F, No.119, JianKang Road Jhonghe Dist. New Taipei City TW 23585","c":"TW","o":"Carry Technology Co.,Ltd"}]);

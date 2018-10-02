@@ -1,0 +1,1 @@
+deepmacDetailCallback("00a0ad000000/24",[{"d":"1998-04-22","t":"add","a":"VIA NEGRONE, 1A\n16153 GENOVA CORNIGLIANO\n\n","c":"ITALY","o":"MARCONI SPA"},{"d":"2015-08-27","t":"change","a":"VIA NEGRONE, 1A 16153 GENOVA CORNIGLIANO  IT","c":"IT","o":"MARCONI SPA"}]);

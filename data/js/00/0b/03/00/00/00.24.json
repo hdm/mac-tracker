@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b03000000/24",[{"d":"2002-09-09","t":"add","a":"#191-1, Anyang-7Dong, Manan-Gu\nAnyang-Si South Korea 430-017\n\n","c":"KOREA, REPUBLIC OF","o":"Taekwang Industrial Co., Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#191-1, Anyang-7Dong, Manan-Gu Anyang-Si South Korea KR 430-017","c":"KR","o":"Taekwang Industrial Co., Ltd"}]);

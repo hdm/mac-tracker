@@ -1,0 +1,1 @@
+deepmacDetailCallback("000d8b000000/24",[{"d":"2003-07-23","t":"add","a":"5652-169 Sasaga\nMatsumoto Nagano 399-0033\n\n","c":"JAPAN","o":"T&D Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5652-169 Sasaga Matsumoto Nagano JP 399-0033","c":"JP","o":"T&D Corporation"}]);

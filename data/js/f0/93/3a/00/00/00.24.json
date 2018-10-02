@@ -1,0 +1,1 @@
+deepmacDetailCallback("f0933a000000/24",[{"d":"2010-10-14","t":"add","a":"Schillerstrasse 4\nBad Kissingen  97688\n\n","c":"GERMANY","o":"NxtConect"},{"d":"2015-08-27","t":"change","a":"Schillerstrasse 4 Bad Kissingen  DE 97688","c":"DE","o":"NxtConect"}]);

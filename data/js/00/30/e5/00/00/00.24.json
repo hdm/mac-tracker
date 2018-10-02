@@ -1,0 +1,1 @@
+deepmacDetailCallback("0030e5000000/24",[{"d":"2000-11-23","t":"add","a":"C/Marconi n*3  (PTM)\nTres Cantos\n28760 Madrid\n","c":"SPAIN","o":"Amper Datos S.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"C/Marconi n*3  (PTM) 28760 Madrid  ES","c":"ES","o":"Amper Datos S.A."}]);

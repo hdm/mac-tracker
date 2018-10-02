@@ -1,0 +1,1 @@
+deepmacDetailCallback("c4bd6a000000/24",[{"d":"2014-06-17","t":"add","a":"Gunnar-Wester-Strasse 12\nSchweinfurt DE DE-97421\n\n","c":"GERMANY","o":"SKF GmbH"},{"d":"2015-08-27","t":"change","a":"Gunnar-Wester-Strasse 12 Schweinfurt DE DE DE-97421","c":"DE","o":"SKF GmbH"}]);

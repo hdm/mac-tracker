@@ -1,0 +1,1 @@
+deepmacDetailCallback("8cc8f4c00000/28",[{"a":"Kstar Industrial Park, 7th Road, Guangming Hi- Tech Industrial Zone Shenzhen  CN 518070","o":"Shenzhen KSTAR Science and Technology Co., Ltd","d":"2016-10-30","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0000fc000000/24",[{"d":"2000-09-08","t":"add","a":"650 AZTEC WEST\nBRISTOL BS12 4SD\n\n","c":"UNITED KINGDOM","o":"MEIKO"},{"d":"2005-07-21","t":"change","a":"650 AZTEC WEST\nBRISTOL BS12 4SD\nUNITED KINGDOM\n","c":"UNITED KINGDOM","o":"MEIKO"},{"d":"2015-08-27","t":"change","a":"650 AZTEC WEST  UNITED GB KINGDOM","c":"GB","o":"MEIKO"}]);

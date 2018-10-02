@@ -1,0 +1,1 @@
+deepmacDetailCallback("c49300000000/24",[{"d":"2011-11-01","t":"add","a":"Gedimino st. 47\nKaunas LT 44242\n\n","c":"LITHUANIA","o":"8Devices"},{"d":"2015-08-27","t":"change","a":"Gedimino st. 47 Kaunas LT LT 44242","c":"LT","o":"8Devices"}]);

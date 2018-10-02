@@ -1,0 +1,1 @@
+deepmacDetailCallback("fcdc4a000000/24",[{"d":"2014-12-06","t":"add","a":"901, S&CTBuilding, No.9 Zhongguancun South Avenue\nHaidian District\nBeijing Beijing 100081\n","c":"CHINA","o":"G-Wearables Corp."},{"d":"2015-08-27","t":"change","a":"901, S&CTBuilding, No.9 Zhongguancun South Avenue Beijing Beijing CN 100081","c":"CN","o":"G-Wearables Corp."}]);

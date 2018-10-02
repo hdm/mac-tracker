@@ -1,0 +1,1 @@
+deepmacDetailCallback("002640000000/24",[{"d":"2009-05-31","t":"add","a":"910 Quantum Plaza\nNo.23 Zhichun Road\nBeijing  100191\n","c":"CHINA","o":"Baustem Broadband Technologies, Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"910 Quantum Plaza Beijing  CN 100191","c":"CN","o":"Baustem Broadband Technologies, Ltd."}]);

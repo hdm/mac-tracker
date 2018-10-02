@@ -1,0 +1,1 @@
+deepmacDetailCallback("885d90100000/28",[{"a":"Yinfeng industrial park Jiu wei community shenzhen guangdong CN 518000","o":"ShenZhen Yuyangsheng technology company LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000aca000000/24",[{"d":"2002-08-03","t":"add","a":"6-96 Matsumura\nKanazawa Ishikawa 920-0348\n\n","c":"JAPAN","o":"YOKOYAMA SHOKAI CO.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6-96 Matsumura Kanazawa Ishikawa JP 920-0348","c":"JP","o":"YOKOYAMA SHOKAI CO.,Ltd."}]);

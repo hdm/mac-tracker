@@ -1,0 +1,1 @@
+deepmacDetailCallback("001234000000/24",[{"d":"2004-09-02","t":"add","a":"Aargauerstr. 7\nWohlen AG 5610\n\n","c":"SWITZERLAND","o":"Camille Bauer"},{"d":"2015-08-27","t":"change","a":"Aargauerstr. 7 Wohlen AG CH 5610","c":"CH","o":"Camille Bauer"}]);

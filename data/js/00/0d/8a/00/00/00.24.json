@@ -1,0 +1,1 @@
+deepmacDetailCallback("000d8a000000/24",[{"d":"2003-07-23","t":"add","a":"#340-5,Wonchun-Dong,Paldal-Gu\nSuwon-City Kyungki-Do 442-823\n\n","c":"KOREA, REPUBLIC OF","o":"Winners Electronics Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#340-5,Wonchun-Dong,Paldal-Gu Suwon-City Kyungki-Do KR 442-823","c":"KR","o":"Winners Electronics Co., Ltd."}]);

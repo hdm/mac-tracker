@@ -1,0 +1,1 @@
+deepmacDetailCallback("bc88c3000000/24",[{"d":"2017-05-09","t":"add","a":"No.168 Shengguang road Luotuo street Zhenhai district Ningbo Zhejiang CN 315202","c":"CN","o":"Ningbo Dooya Mechanic & Electronic Technology Co., Ltd"}]);

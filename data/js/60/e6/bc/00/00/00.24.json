@@ -1,0 +1,1 @@
+deepmacDetailCallback("60e6bc000000/24",[{"d":"2014-12-17","t":"add","a":"6F, Building 2, No.115, Lane 1276 Nanle Rd\nSongjiang District, Shanghai\n201613\n","c":"CHINA","o":"Sino-Telecom Technology Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"6F, Building 2, No.115, Lane 1276 Nanle Rd   CN 201613","c":"CN","o":"Sino-Telecom Technology Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000319000000/24",[{"d":"2000-09-08","t":"add","a":"P.O. Box 800949\nD-81609 Munich\n\n","c":"GERMANY","o":"Infineon AG"},{"d":"2015-08-27","t":"change","a":"P.O. Box 800949   DE","c":"DE","o":"Infineon AG"}]);

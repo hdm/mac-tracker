@@ -1,0 +1,1 @@
+deepmacDetailCallback("00217d000000/24",[{"d":"2008-06-18","t":"add","a":"C/O DIP. INFORMATICA E SISTEMISTICA - UNIVERSITY OF PAVIA\nVIA FERRATA 1\nPAVIA  27100\n","c":"ITALY","o":"PYXIS S.R.L.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"C/O DIP. INFORMATICA E SISTEMISTICA - UNIVERSITY OF PAVIA PAVIA  IT 27100","c":"IT","o":"PYXIS S.R.L."}]);

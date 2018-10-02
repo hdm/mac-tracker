@@ -1,0 +1,1 @@
+deepmacDetailCallback("283638b00000/28",[{"a":"11F,TongLian Building,1565 Jiaotong Rd.,ShangHai 200065,P.R.C. ShangHai ShangHai CN 200065","o":"ShangHai Canall Information Technology Co.,Ltd","d":"2016-04-24","t":"add","s":"ieee","c":"CN"}]);

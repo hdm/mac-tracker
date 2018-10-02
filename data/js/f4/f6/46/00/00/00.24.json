@@ -1,0 +1,1 @@
+deepmacDetailCallback("f4f646000000/24",[{"d":"2014-04-19","t":"add","a":"4F,No.7,Lane 143, Xinming Rd.,\nNeihu District\nTaipei  114\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Dediprog Technology Co. Ltd."},{"d":"2015-08-27","t":"change","a":"4F,No.7,Lane 143, Xinming Rd., Taipei  TW 114","c":"TW","o":"Dediprog Technology Co. Ltd."}]);

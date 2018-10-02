@@ -1,0 +1,1 @@
+deepmacDetailCallback("087618000000/24",[{"d":"2009-10-01","t":"add","a":"no. 85-A, Lintang Bayan Lepas 11,\nPhase 4\nBayan Lepas Penang 11900\n","c":"MALAYSIA","o":"ViE Technologies Sdn. Bhd."},{"d":"2015-08-27","t":"change","a":"no. 85-A, Lintang Bayan Lepas 11, Bayan Lepas Penang MY 11900","c":"MY","o":"ViE Technologies Sdn. Bhd."}]);

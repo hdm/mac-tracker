@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c4c69000000/24",[{"d":"2010-01-13","t":"add","a":"Crtra. N-II, Km 48,5 Pol. Ind. Cabanillas del Campo, Parc. 12B\nGuadalajara  19171\n\n","c":"SPAIN","o":"Infinity System S.L."},{"d":"2015-08-27","t":"change","a":"Crtra. N-II, Km 48,5 Pol. Ind. Cabanillas del Campo, Parc. 12B Guadalajara  US 19171","c":"US","o":"Infinity System S.L."}]);

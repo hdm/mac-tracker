@@ -1,0 +1,1 @@
+deepmacDetailCallback("0018a1000000/24",[{"d":"2006-06-13","t":"add","a":"2215 Old Page Mill Rd\nPalo Alto CA 94304\n\n","c":"UNITED STATES","o":"Tiqit Computers, Inc."},{"d":"2015-08-27","t":"change","a":"2215 Old Page Mill Rd Palo Alto CA US 94304","c":"US","o":"Tiqit Computers, Inc."}]);

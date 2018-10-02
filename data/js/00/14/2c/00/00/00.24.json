@@ -1,0 +1,1 @@
+deepmacDetailCallback("00142c000000/24",[{"d":"2005-03-25","t":"add","a":"2500 E Foothill Blvd. #407\nPasadena CA 91107\n\n","c":"UNITED STATES","o":"Koncept International, Inc."},{"d":"2015-08-27","t":"change","a":"2500 E Foothill Blvd. #407 Pasadena CA US 91107","c":"US","o":"Koncept International, Inc."}]);

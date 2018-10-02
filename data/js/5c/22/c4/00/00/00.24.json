@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c22c4000000/24",[{"d":"2013-02-21","t":"add","a":"1029 Hokye-Dong, Dongan-Goo\nAnyang-Shi Kyongki-Do 431-080\n\n","c":"KOREA, REPUBLIC OF","o":"DAE EUN ELETRONICS CO., LTD"},{"d":"2015-08-27","t":"change","a":"1029 Hokye-Dong, Dongan-Goo Anyang-Shi Kyongki-Do KR 431-080","c":"KR","o":"DAE EUN ELETRONICS CO., LTD"}]);

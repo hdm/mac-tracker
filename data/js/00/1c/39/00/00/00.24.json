@@ -1,0 +1,1 @@
+deepmacDetailCallback("001c39000000/24",[{"d":"2007-05-13","t":"add","a":"10F Sungwon Bldg., 141 Samsung-Dong\nKangnam-Ku\nSeoul  135-716\n","c":"KOREA, REPUBLIC OF","o":"S Netsystems Inc."},{"d":"2015-08-27","t":"change","a":"10F Sungwon Bldg., 141 Samsung-Dong Seoul  KR 135-716","c":"KR","o":"S Netsystems Inc."}]);

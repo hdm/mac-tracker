@@ -1,0 +1,1 @@
+deepmacDetailCallback("5070e5000000/24",[{"d":"2011-02-02","t":"add","a":"New Material Base, Gonghe Town\nHeshan City\nJiangmen Guangdong 529728\n","c":"CHINA","o":"He Shan World Fair Electronics Technology Limited"},{"d":"2015-08-27","t":"change","a":"New Material Base, Gonghe Town Jiangmen Guangdong CN 529728","c":"CN","o":"He Shan World Fair Electronics Technology Limited"}]);

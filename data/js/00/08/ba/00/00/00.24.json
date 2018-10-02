@@ -1,0 +1,1 @@
+deepmacDetailCallback("0008ba000000/24",[{"d":"2001-12-23","t":"add","a":"Salter Road\nEastfield Industrial Estate\nScarborough North Yorkshire YO11 3DU\n","c":"UNITED KINGDOM","o":"Erskine Systems Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Salter Road Scarborough North Yorkshire GB YO11 3DU","c":"GB","o":"Erskine Systems Ltd"}]);

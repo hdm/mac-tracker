@@ -1,0 +1,1 @@
+deepmacDetailCallback("001145000000/24",[{"d":"2004-05-11","t":"add","a":"350 Townsend St Ste 320\nSan Francisco, CA 94107\n\n","c":"UNITED STATES","o":"ValuePoint Networks","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"350 Townsend St Ste 320 San Francisco, CA US 94107","c":"US","o":"ValuePoint Networks"}]);

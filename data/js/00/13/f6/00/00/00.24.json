@@ -1,0 +1,1 @@
+deepmacDetailCallback("0013f6000000/24",[{"d":"2005-03-06","t":"add","a":"21a route de la wantzenau\nHoenheim  67800\n\n","c":"FRANCE","o":"Cintech","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"21a route de la wantzenau Hoenheim  FR 67800","c":"FR","o":"Cintech"}]);

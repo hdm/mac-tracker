@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c3910000000/24",[{"d":"2011-10-28","t":"add","a":"Byucksan-Sunyoung Technopia 1004,\nOjeon-Dong,\nUiwang-City Kyunggi-Do 437-821\n","c":"KOREA, REPUBLIC OF","o":"Newtek Electronics co., Ltd."},{"d":"2015-08-27","t":"change","a":"Byucksan-Sunyoung Technopia 1004, Uiwang-City Kyunggi-Do KR 437-821","c":"KR","o":"Newtek Electronics co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("e4ce70000000/24",[{"d":"2014-12-17","t":"add","a":"9F, No. 186, Jian Yi Road\nNew Taipei City Taiwan 23553\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Health & Life co., Ltd."},{"d":"2015-08-27","t":"change","a":"9F, No. 186, Jian Yi Road New Taipei City Taiwan TW 23553","c":"TW","o":"Health & Life co., Ltd."}]);

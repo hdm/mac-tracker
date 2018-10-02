@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2385000/36",[{"a":"#105,Suntechcity Bldg,513-15 Sangdaewon-Dong, Jungwon-Gu Seongnam Kyonggi-Do KR 462-806","o":"SUNGJIN NEOTECH Co.Ltd.","d":"2008-07-30","t":"add","s":"ieee","c":"KR"}]);

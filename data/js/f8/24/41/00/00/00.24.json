@@ -1,0 +1,1 @@
+deepmacDetailCallback("f82441000000/24",[{"d":"2014-06-21","t":"add","a":"F10-B4, Bldg. B, International Innovation Park\n169 Songling Rd., Laoshan\nQingdao Shandong 266101\n","c":"CHINA","o":"Yeelink"},{"d":"2015-08-27","t":"change","a":"F10-B4, Bldg. B, International Innovation Park Qingdao Shandong CN 266101","c":"CN","o":"Yeelink"}]);

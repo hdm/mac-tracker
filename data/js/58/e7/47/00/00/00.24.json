@@ -1,0 +1,1 @@
+deepmacDetailCallback("58e747000000/24",[{"d":"2010-03-09","t":"add","a":"Riedstrasse 8\nDietikon Zurich 8953\n\n","c":"SWITZERLAND","o":"Deltanet AG"},{"d":"2015-08-27","t":"change","a":"Riedstrasse 8 Dietikon Zurich CH 8953","c":"CH","o":"Deltanet AG"}]);

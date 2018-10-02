@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b7d000000/24",[{"d":"2007-02-20","t":"add","a":"Rue de l'ornette\nAbondant  28410\n\n","c":"FRANCE","o":"CXR Anderson Jacobson"},{"d":"2015-08-27","t":"change","a":"Rue de l'ornette Abondant  FR 28410","c":"FR","o":"CXR Anderson Jacobson"}]);

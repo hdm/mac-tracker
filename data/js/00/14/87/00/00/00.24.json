@@ -1,0 +1,1 @@
+deepmacDetailCallback("001487000000/24",[{"d":"2005-05-07","t":"add","a":"1358 Rosalia Ave\nSan Jose CA 95130\n\n","c":"UNITED STATES","o":"American Technology Integrators"},{"d":"2015-08-27","t":"change","a":"1358 Rosalia Ave San Jose CA US 95130","c":"US","o":"American Technology Integrators"}]);

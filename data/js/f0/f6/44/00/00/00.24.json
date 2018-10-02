@@ -1,0 +1,1 @@
+deepmacDetailCallback("f0f644000000/24",[{"d":"2012-10-10","t":"add","a":"Room301,Building7,NO.6,Lane365\nXinHua Road,ChangNing District\nShanghai 200052\n","c":"CHINA","o":"Whitesky Science & Technology Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"Room301,Building7,NO.6,Lane365  Shanghai CN 200052","c":"CN","o":"Whitesky Science & Technology Co.,Ltd."}]);

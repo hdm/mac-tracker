@@ -1,0 +1,1 @@
+deepmacDetailCallback("00e02e000000/24",[{"d":"1998-04-22","t":"add","a":"2-1-3 SHIBASAKI, CHOFU-SHI\nTOKYO, 182\n\n","c":"JAPAN","o":"SPC ELECTRONICS CORPORATION"},{"d":"2015-08-27","t":"change","a":"2-1-3 SHIBASAKI, CHOFU-SHI TOKYO, 182  JP","c":"JP","o":"SPC ELECTRONICS CORPORATION"}]);

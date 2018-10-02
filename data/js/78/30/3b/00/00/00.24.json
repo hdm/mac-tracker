@@ -1,0 +1,1 @@
+deepmacDetailCallback("78303b000000/24",[{"d":"2013-03-20","t":"add","a":"5/F, Building NO.1, TongXin Industry Zone\nHengGang, LongGang\nShenzhen Guangdong 518115\n","c":"CHINA","o":"Stephen Technologies Co.,Limited"},{"d":"2015-08-27","t":"change","a":"5/F, Building NO.1, TongXin Industry Zone Shenzhen Guangdong CN 518115","c":"CN","o":"Stephen Technologies Co.,Limited"}]);

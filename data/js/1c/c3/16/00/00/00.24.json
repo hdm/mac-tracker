@@ -1,0 +1,1 @@
+deepmacDetailCallback("1cc316000000/24",[{"d":"2012-06-22","t":"add","a":"202-2,No.21 Wanghai Road, 2nd Software Park\nXiamen Fujian 361006\n\n","c":"CHINA","o":"MileSight Technology Co., Ltd."},{"d":"2015-08-27","t":"change","a":"202-2,No.21 Wanghai Road, 2nd Software Park Xiamen Fujian CN 361006","c":"CN","o":"MileSight Technology Co., Ltd."}]);

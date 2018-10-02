@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012a4000000/24",[{"d":"2004-10-21","t":"add","a":"One Broadway\n14th Floor\nCambridge MA 02142\n","c":"UNITED STATES","o":"ThingMagic, LLC"},{"d":"2015-08-27","t":"change","a":"One Broadway Cambridge MA US 02142","c":"US","o":"ThingMagic, LLC"}]);

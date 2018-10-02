@@ -1,0 +1,1 @@
+deepmacDetailCallback("000d00000000/24",[{"d":"2003-04-08","t":"add","a":"1 Chrysalis Way\nOttawa Ontario K2G 6P9\n\n","c":"CANADA","o":"Seaway Networks Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1 Chrysalis Way Ottawa Ontario CA K2G 6P9","c":"CA","o":"Seaway Networks Inc."}]);

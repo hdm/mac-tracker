@@ -1,0 +1,1 @@
+deepmacDetailCallback("3ce1a1000000/24",[{"d":"2018-01-09","t":"add","a":"141, Lane 351, Taiping Road, Sec.1,Tsao Tuen Nan-Tou Taiwan TW 54261","c":"TW","o":"Universal Global Scientific Industrial Co., Ltd."}]);

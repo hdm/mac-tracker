@@ -1,0 +1,1 @@
+deepmacDetailCallback("002235000000/24",[{"d":"2008-06-18","t":"add","a":"Westkanaaldijk 2\nUtrecht  3542 DA\n\n","c":"NETHERLANDS","o":"Strukton Systems bv","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Westkanaaldijk 2 Utrecht  NL 3542 DA","c":"NL","o":"Strukton Systems bv"}]);

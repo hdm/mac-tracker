@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c00000000/24",[{"d":"2002-12-12","t":"add","a":"Progressastrasse 31\nOberburg BE 3414\n\n","c":"SWITZERLAND","o":"BEB Industrie-Elektronik AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Progressastrasse 31 Oberburg BE CH 3414","c":"CH","o":"BEB Industrie-Elektronik AG"}]);

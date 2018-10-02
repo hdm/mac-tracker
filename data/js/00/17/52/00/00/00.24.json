@@ -1,0 +1,1 @@
+deepmacDetailCallback("001752000000/24",[{"d":"2006-03-06","t":"add","a":"C-510, Woolim Lion's Valley, 371-28, Gasan Dong, Geumcheon Ku\nSeoul  153-786\n\n","c":"KOREA, REPUBLIC OF","o":"DAGS, Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"C-510, Woolim Lion's Valley, 371-28, Gasan Dong, Geumcheon Ku Seoul  KR 153-786","c":"KR","o":"DAGS, Inc"}]);

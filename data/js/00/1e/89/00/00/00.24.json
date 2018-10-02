@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e89000000/24",[{"d":"2007-10-22","t":"add","a":"Building 7200\nCambridge Research Park\nWaterbeach Cambridgeshire CB25 9TL\n","c":"UNITED KINGDOM","o":"CRFS Limited"},{"d":"2015-08-27","t":"change","a":"Building 7200 Waterbeach Cambridgeshire GB CB25 9TL","c":"GB","o":"CRFS Limited"}]);

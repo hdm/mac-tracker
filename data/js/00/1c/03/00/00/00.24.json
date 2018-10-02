@@ -1,0 +1,1 @@
+deepmacDetailCallback("001c03000000/24",[{"d":"2007-04-08","t":"add","a":"Hardturmstrasse 2\nZurich  80005\n\n","c":"SWITZERLAND","o":"Betty TV Technology AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Hardturmstrasse 2 Zurich  CH 80005","c":"CH","o":"Betty TV Technology AG"}]);

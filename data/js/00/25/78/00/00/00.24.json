@@ -1,0 +1,1 @@
+deepmacDetailCallback("002578000000/24",[{"d":"2009-03-15","t":"add","a":"Plekhanovskaya st., 14\nVoronezh  394018\n\n","c":"RUSSIAN FEDERATION","o":"JSC \"Concern \"Sozvezdie\"","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Plekhanovskaya st., 14 Voronezh  RU 394018 ","c":"RU","o":"JSC \"Concern \"Sozvezdie\""}]);

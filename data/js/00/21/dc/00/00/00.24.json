@@ -1,0 +1,1 @@
+deepmacDetailCallback("0021dc000000/24",[{"d":"2008-06-18","t":"add","a":"Via Cirie'\nSan Mauro Torinese Torino 10099\n\n","c":"ITALY","o":"TECNOALARM S.r.l.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Cirie' San Mauro Torinese Torino IT 10099","c":"IT","o":"TECNOALARM S.r.l."}]);

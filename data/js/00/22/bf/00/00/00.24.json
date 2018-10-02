@@ -1,0 +1,1 @@
+deepmacDetailCallback("0022bf000000/24",[{"d":"2008-07-19","t":"add","a":"2 Ang Mo Kio Street 64\nAng Mo Kio Industrial Park 3, Unit 02-01D Econ Building\nSingapore  569084\n","c":"SINGAPORE","o":"SieAmp Group of Companies"},{"d":"2015-08-27","t":"change","a":"2 Ang Mo Kio Street 64 Singapore  US 569084","c":"US","o":"SieAmp Group of Companies"}]);

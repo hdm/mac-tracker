@@ -1,0 +1,1 @@
+deepmacDetailCallback("40b6b1000000/24",[{"d":"2013-10-18","t":"add","a":"SUNGSAM Bldg, 7-1, BAnga-ro 23beon-gil, Bundang-gu\nSeongnam-si Gyeonggi-do 463-829\n\n","c":"KOREA, REPUBLIC OF","o":"SUNGSAM CO,.Ltd"},{"d":"2015-08-27","t":"change","a":"SUNGSAM Bldg, 7-1, BAnga-ro 23beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 463-829","c":"KR","o":"SUNGSAM CO,.Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0022d9000000/24",[{"d":"2008-07-19","t":"add","a":"Flat 16, 12 /F.,Pacific Trade Centre\n2 Kai Hing Road,Kowloon Bay,\nKowloon Hong Kong 852\n","c":"CHINA","o":"Fortex Industrial Ltd."},{"d":"2015-08-27","t":"change","a":"Flat 16, 12 /F.,Pacific Trade Centre Kowloon Hong Kong CN 852","c":"CN","o":"Fortex Industrial Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b55000000/24",[{"d":"2002-10-14","t":"add","a":"P. O. Box 587\nDunedin Otago 9001\n\n","c":"NEW ZEALAND","o":"ADInstruments"},{"d":"2015-08-27","t":"change","a":"P. O. Box 587 Dunedin Otago NZ 9001","c":"NZ","o":"ADInstruments"}]);

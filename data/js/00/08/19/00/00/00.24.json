@@ -1,0 +1,1 @@
+deepmacDetailCallback("000819000000/24",[{"d":"2001-10-24","t":"add","a":"Haachtsesteenweg 1442\n1130 Brussel\n\n","c":"BELGIUM","o":"Banksys"},{"d":"2015-08-27","t":"change","a":"Haachtsesteenweg 1442   BE","c":"BE","o":"Banksys"}]);

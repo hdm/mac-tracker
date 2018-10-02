@@ -1,0 +1,1 @@
+deepmacDetailCallback("a89352000000/24",[{"d":"2015-12-01","t":"add","a":"RM510,418 Guiping Road,xuhui-Park shanghai shanghai CN 200233","c":"CN","o":"SHANGHAI ZHONGMI COMMUNICATION TECHNOLOGY CO.,LTD"}]);

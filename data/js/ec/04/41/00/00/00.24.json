@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec0441000000/24",[{"d":"2017-05-06","t":"add","a":"Room B6-709, Funian Plaza, No.3 Shihua Road, Futian Bonded Area shenzhen China / Guangdong CN 518048","c":"CN","o":"ShenZhen TIGO Semiconductor Co., Ltd."}]);

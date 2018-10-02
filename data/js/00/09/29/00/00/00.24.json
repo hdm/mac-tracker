@@ -1,0 +1,1 @@
+deepmacDetailCallback("000929000000/24",[{"d":"2002-03-29","t":"add","a":"School Road\nLowestoft Suffolk NR33 9NA\n\n","c":"UNITED KINGDOM","o":"Sanyo Industries (UK) Limited","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"School Road Lowestoft Suffolk GB NR33 9NA","c":"GB","o":"Sanyo Industries (UK) Limited"}]);

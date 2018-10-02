@@ -1,0 +1,1 @@
+deepmacDetailCallback("202df8000000/24",[{"d":"2015-12-24","t":"add","a":"5F-3, No. 9, Ln 3, Jihu Rd, Neihu\n\n\n","c":"Taipei    11492","o":"Digital Media Cartridge Ltd."},{"d":"2015-12-29","t":"change","a":"5F-3, No. 9, Ln 3, Jihu Rd, Neihu Taipei  TW 11492","c":"TW","o":"Digital Media Cartridge Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("20fabb000000/24",[{"d":"2011-12-14","t":"add","a":"St John's Innovation Centre\nCowley Road\nCambridge Cambridgeshire CB40WS\n","c":"UNITED KINGDOM","o":"Cambridge Executive Limited"},{"d":"2015-08-27","t":"change","a":"St John's Innovation Centre Cambridge Cambridgeshire GB CB40WS","c":"GB","o":"Cambridge Executive Limited"}]);

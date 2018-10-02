@@ -1,0 +1,1 @@
+deepmacDetailCallback("e85e53000000/24",[{"d":"2010-01-26","t":"add","a":"Gevener Weg 38\nNeuenrade NRW 58579\n\n","c":"GERMANY","o":"Infratec Datentechnik GmbH"},{"d":"2015-08-27","t":"change","a":"Gevener Weg 38 Neuenrade NRW DE 58579","c":"DE","o":"Infratec Datentechnik GmbH"}]);

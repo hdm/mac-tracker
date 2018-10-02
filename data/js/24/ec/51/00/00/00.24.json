@@ -1,0 +1,1 @@
+deepmacDetailCallback("24ec51000000/24",[{"d":"2018-02-27","t":"add","a":"Plot 88F, Lintang Bayan Lepas 10, Bayan Lepas Industrial Park Phase IV Bayan Lepas Pulau Pinang MY 11900","c":"MY","o":"ADF Technologies Sdn Bhd"}]);

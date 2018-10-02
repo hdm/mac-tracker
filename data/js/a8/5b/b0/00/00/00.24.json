@@ -1,0 +1,1 @@
+deepmacDetailCallback("a85bb0000000/24",[{"d":"2010-03-06","t":"add","a":"5C,Tianzhan Building Tianan Cyberpark,\nFutian district\nShenZhen Guang Dong 518040\n","c":"CHINA","o":"Shenzhen Dehoo Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"5C,Tianzhan Building Tianan Cyberpark, ShenZhen Guang Dong CN 518040","c":"CN","o":"Shenzhen Dehoo Technology Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f27000000/24",[{"d":"2004-01-23","t":"add","a":"10350 Sorrento Valley Road\nSan Diego California 92121\n\n","c":"UNITED STATES","o":"TEAL Electronics, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"10350 Sorrento Valley Road San Diego California US 92121","c":"US","o":"TEAL Electronics, Inc."}]);

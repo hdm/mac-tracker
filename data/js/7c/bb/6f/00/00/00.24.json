@@ -1,0 +1,1 @@
+deepmacDetailCallback("7cbb6f000000/24",[{"d":"2010-05-12","t":"add","a":"#1101, ENC Dream tower, 327-27\nGasan-dong, Geumcheon-gu\nSeoul  153-793\n","c":"KOREA, REPUBLIC OF","o":"Cosco Electronics Co., Ltd."},{"d":"2015-08-27","t":"change","a":"#1101, ENC Dream tower, 327-27 Seoul  KR 153-793","c":"KR","o":"Cosco Electronics Co., Ltd."}]);

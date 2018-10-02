@@ -1,0 +1,1 @@
+deepmacDetailCallback("04586f000000/24",[{"d":"2012-11-17","t":"add","a":"Layer 16,Building 10, C Area\nTianfu Software Park,Hi-Tech district\nChengdu City  610041\n","c":"CHINA","o":"Sichuan Whayer information industry Co.,LTD"},{"d":"2015-08-27","t":"change","a":"Layer 16,Building 10, C Area Chengdu City  CN 610041","c":"CN","o":"Sichuan Whayer information industry Co.,LTD"}]);

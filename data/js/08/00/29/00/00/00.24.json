@@ -1,0 +1,1 @@
+deepmacDetailCallback("080029000000/24",[{"d":"2000-09-08","t":"add","a":"9645 SCRANTON ROAD\nSAN DIEGO CA 92121\n\n","c":"UNITED STATES","o":"MEGATEK CORPORATION"},{"d":"2015-08-27","t":"change","a":"16868 Via Del Campo Court San Diego CA US 92127","c":"US","o":"Megatek Corporation"}]);

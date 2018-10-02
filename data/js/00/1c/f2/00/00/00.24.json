@@ -1,0 +1,1 @@
+deepmacDetailCallback("001cf2000000/24",[{"d":"2007-06-16","t":"add","a":"4/F.,Shenhua Bldg,No.3155,Binhe Road,Futian District\nShenzhen Guangdong 518033\n\n","c":"CHINA","o":"Tenlon Technology Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"4/F.,Shenhua Bldg,No.3155,Binhe Road,Futian District Shenzhen Guangdong CN 518033","c":"CN","o":"Tenlon Technology Co.,Ltd."}]);

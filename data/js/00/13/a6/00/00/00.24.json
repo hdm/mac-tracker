@@ -1,0 +1,1 @@
+deepmacDetailCallback("0013a6000000/24",[{"d":"2005-02-06","t":"add","a":"Glil Yam\nHerzlia  46905\n\n","c":"ISRAEL","o":"Extricom Ltd"},{"d":"2015-08-27","t":"change","a":"Glil Yam Herzlia  IL 46905","c":"IL","o":"Extricom Ltd"}]);

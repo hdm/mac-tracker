@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d85507d000/36",[{"a":"No.1 Wind power Road, Wind Power Technology Industrial Park Wuxi Jiangsu Province CN 214000","o":"Wuxi SiNeng New Energy Co., Ltd.","d":"2013-01-13","t":"add","s":"ieee","c":"CN"}]);

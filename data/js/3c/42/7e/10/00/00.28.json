@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c427e100000/28",[{"a":"Taide Industrial Park,Phase 2 Jinfenghuang Industrial District Huangdong,Fenggang Town Dongguan City GuangDong CN 523696","o":"Dongguan Taide Industrial Co.,Ltd.","d":"2018-04-08","t":"add","s":"ieee","c":"CN"}]);

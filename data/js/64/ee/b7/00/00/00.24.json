@@ -1,0 +1,1 @@
+deepmacDetailCallback("64eeb7000000/24",[{"d":"2018-07-24","t":"add","a":"Building 6, Baolong Plant, Able Technology Park, Longgang District,\n\n\n","c":"Shenzhen    518116","o":"Netcore Technology Inc"},{"d":"2018-07-26","t":"change","a":"Building 6, Baolong Plant, Able Technology Park, Longgang District,  Shenzhen  CN 518116","c":"CN","o":"Netcore Technology Inc"}]);

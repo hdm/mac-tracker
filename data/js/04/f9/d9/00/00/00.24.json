@@ -1,0 +1,1 @@
+deepmacDetailCallback("04f9d9000000/24",[{"a":"No. 8 Development Zone Road, Huimin Sub-district  Jiashan Zhejiang CN 314112","o":"Speaker Electronic(Jiashan) Co.,Ltd","d":"2018-08-19","t":"add","s":"ieee","c":"CN"}]);

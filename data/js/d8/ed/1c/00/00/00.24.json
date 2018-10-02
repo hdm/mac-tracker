@@ -1,0 +1,1 @@
+deepmacDetailCallback("d8ed1c000000/24",[{"d":"2017-06-23","t":"add","a":"C/Principe de Vergara, 55. 3Âª planta\n\n\n","c":"Madrid    28006","o":"Magna Technology SL"},{"d":"2017-06-24","t":"change","a":"C/Principe de Vergara, 55. 3ª planta Madrid  ES 28006","c":"ES","o":"Magna Technology SL"}]);

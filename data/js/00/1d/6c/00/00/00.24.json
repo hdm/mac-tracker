@@ -1,0 +1,1 @@
+deepmacDetailCallback("001d6c000000/24",[{"d":"2007-08-18","t":"add","a":"16 Technology Dr., Suite 165\nIrvine CA 92618\n\n","c":"UNITED STATES","o":"ClariPhy Communications, Inc."},{"d":"2015-08-27","t":"change","a":"16 Technology Dr., Suite 165 Irvine CA US 92618","c":"US","o":"ClariPhy Communications, Inc."}]);

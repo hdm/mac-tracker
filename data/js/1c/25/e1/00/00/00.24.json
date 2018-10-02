@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c25e1000000/24",[{"d":"2016-05-21","t":"add","a":"NO.8 Yu Ma Road, NanAn Area Chongqing,China\nChongqing  Chongqing  401336\n\n","c":"CN","o":"China Mobile IOT Company Limited"},{"d":"2018-05-09","t":"change","a":"NO.8 Yu Ma Road, NanAn Area Chongqing Chongqing CN 401336","c":"CN","o":"China Mobile IOT Company Limited"}]);

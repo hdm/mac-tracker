@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d85507b000/36",[{"a":"7 Floor,E block,Dong Hai Wang Building,BuLong Road, Shenzhen Guangdong CN 518000","o":"IPS Technology Limited","d":"2013-01-06","t":"add","s":"ieee","c":"CN"}]);

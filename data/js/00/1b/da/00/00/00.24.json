@@ -1,0 +1,1 @@
+deepmacDetailCallback("001bda000000/24",[{"d":"2007-04-08","t":"add","a":"1275 Harbor Bay PKWY\nAlameda CA 94502\n\n","c":"UNITED STATES","o":"UTStarcom Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1275 Harbor Bay PKWY Alameda CA US 94502","c":"US","o":"UTStarcom Inc"}]);

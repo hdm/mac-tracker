@@ -1,0 +1,1 @@
+deepmacDetailCallback("901b0e000000/24",[{"d":"2012-01-06","t":"add","a":"Buergermeister-Ulrich-Strasse 100\nAugsburg Bayern 86199\n\n","c":"GERMANY","o":"Fujitsu Technology Solutions GmbH"},{"d":"2015-08-27","t":"change","a":"Buergermeister-Ulrich-Strasse 100 Augsburg Bayern DE 86199","c":"DE","o":"Fujitsu Technology Solutions GmbH"}]);

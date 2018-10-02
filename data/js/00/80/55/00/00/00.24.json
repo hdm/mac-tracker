@@ -1,0 +1,1 @@
+deepmacDetailCallback("008055000000/24",[{"d":"2000-09-08","t":"add","a":"P.O. BOX 500, MS-234\nBATAVIA, IL 60510\n\n","c":"UNITED STATES","o":"FERMILAB"},{"d":"2001-10-24","t":"change","a":"P.O. BOX 500, MS-234\nBATAVIA IL 60510\n\n","c":"UNITED STATES","o":"FERMILAB"},{"d":"2015-08-27","t":"change","a":"P.O. BOX 500, MS-234 BATAVIA IL US 60510","c":"US","o":"FERMILAB"}]);

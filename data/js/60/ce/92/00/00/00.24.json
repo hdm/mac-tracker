@@ -1,0 +1,1 @@
+deepmacDetailCallback("60ce92000000/24",[{"d":"2018-07-11","t":"add","a":"7/F Sun King Factory Bldg,1 - 7 Shing Chuen Road, Shatin, NT Hong Kong NT HK 000000","c":"HK","o":"The Refined Industry Company Limited"}]);

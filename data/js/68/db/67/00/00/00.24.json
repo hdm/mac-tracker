@@ -1,0 +1,1 @@
+deepmacDetailCallback("68db67000000/24",[{"d":"2013-02-23","t":"add","a":"No.188 Xinsheng Road\nChongchuan Area\nNantong Jiangsu 226000\n","c":"CHINA","o":"Nantong Coship Electronics Co., Ltd"},{"d":"2015-08-27","t":"change","a":"No.188 Xinsheng Road Nantong Jiangsu US 226000","c":"US","o":"Nantong Coship Electronics Co., Ltd"}]);

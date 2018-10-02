@@ -1,0 +1,1 @@
+deepmacDetailCallback("98aafcb00000/28",[{"a":"Tsurumi chiyoda building,4-34-26,Tsurumi-tyuou,Tsurumi Yokohama-shi kanagawa-ken JP 230-0051","o":"Resonant Systems Inc.","d":"2017-01-08","t":"add","s":"ieee","c":"JP"}]);

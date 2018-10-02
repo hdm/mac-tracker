@@ -1,0 +1,1 @@
+deepmacDetailCallback("a4134e000000/24",[{"d":"2011-03-23","t":"add","a":"357 S 670 W\nLindon UT 84042\n\n","c":"UNITED STATES","o":"Luxul Wireless"},{"d":"2012-01-25","t":"change","a":"14203 Minuteman Drive\nSuite 201\nDraper UT 84020\n","c":"UNITED STATES","o":"Luxul"},{"d":"2015-08-27","t":"change","a":"14203 Minuteman Drive Draper UT US 84020","c":"US","o":"Luxul"}]);

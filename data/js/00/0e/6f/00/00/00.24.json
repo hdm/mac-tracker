@@ -1,0 +1,1 @@
+deepmacDetailCallback("000e6f000000/24",[{"d":"2003-12-21","t":"add","a":"IRIS Smart Technology Complex\nTechnology Park Malaysia, Bukit Jalil\nKuala Lumpur WP 57000\n","c":"MALAYSIA","o":"IRIS Corporation Berhad","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"IRIS Smart Technology Complex Kuala Lumpur WP MY 57000","c":"MY","o":"IRIS Corporation Berhad"}]);

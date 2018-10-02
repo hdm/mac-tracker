@@ -1,0 +1,1 @@
+deepmacDetailCallback("580556000000/24",[{"d":"2010-01-23","t":"add","a":"Via Vittori, 63\nFAENZA RA 48018\n\n","c":"ITALY","o":"Elettronica GF S.r.L."},{"d":"2015-08-27","t":"change","a":"Via Vittori, 63 FAENZA RA IT 48018","c":"IT","o":"Elettronica GF S.r.L."}]);

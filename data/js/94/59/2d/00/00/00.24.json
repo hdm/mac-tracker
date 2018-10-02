@@ -1,0 +1,1 @@
+deepmacDetailCallback("94592d000000/24",[{"d":"2009-11-21","t":"add","a":"Piispanportti 7\nEspoo - 02240\n\n","c":"FINLAND","o":"EKE Building Technology Systems Ltd"},{"d":"2015-08-27","t":"change","a":"Piispanportti 7 Espoo - US 02240","c":"US","o":"EKE Building Technology Systems Ltd"}]);

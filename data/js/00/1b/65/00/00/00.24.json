@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b65000000/24",[{"d":"2007-02-09","t":"add","a":"21/F, Huaneng Building, No. 2068 Shennan Main Road\nShenzhen Guangdong 0086\n\n","c":"CHINA","o":"China Gridcom Co., Ltd"},{"d":"2015-08-27","t":"change","a":"21/F, Huaneng Building, No. 2068 Shennan Main Road Shenzhen Guangdong CN 0086","c":"CN","o":"China Gridcom Co., Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b48000000/24",[{"d":"2002-10-14","t":"add","a":"2 rue du plessis\nvern sur seiche ille et vilaine 35770\n\n","c":"FRANCE","o":"sofrel"},{"d":"2015-08-27","t":"change","a":"2 rue du plessis vern sur seiche ille et vilaine FR 35770","c":"FR","o":"sofrel"}]);

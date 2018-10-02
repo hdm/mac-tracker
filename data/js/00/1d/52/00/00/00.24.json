@@ -1,0 +1,1 @@
+deepmacDetailCallback("001d52000000/24",[{"d":"2007-08-18","t":"add","a":"Transportcentrum 10\nEnschede Overijssel 7547 RW\n\n","c":"NETHERLANDS","o":"Defzone B.V."},{"d":"2015-08-27","t":"change","a":"Transportcentrum 10 Enschede Overijssel NL 7547 RW","c":"NL","o":"Defzone B.V."}]);

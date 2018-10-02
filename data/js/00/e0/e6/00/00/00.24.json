@@ -1,0 +1,1 @@
+deepmacDetailCallback("00e0e6000000/24",[{"d":"1998-04-22","t":"add","a":"P.O. BOX 211\n7300 AE APELDOORN\n\n","c":"NETHERLANDS","o":"INCAA DATACOM B.V."},{"d":"2015-08-27","t":"change","a":"P.O. BOX 211\n7300 AE APELDOORN\n\n","c":"NL","o":"INCAA DATACOM B.V."},{"d":"2016-02-04","t":"change","a":"P.O. BOX 211 7300 AE APELDOORN  NL","c":"NL","o":"INCAA Computers"}]);

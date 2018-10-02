@@ -1,0 +1,1 @@
+deepmacDetailCallback("00155d000000/24",[{"d":"2005-08-04","t":"add","a":"One Microsoft Way\nRedmond WA 98052-8300\n\n","c":"UNITED STATES","o":"Microsoft Corporation"},{"d":"2015-08-27","t":"change","a":"One Microsoft Way Redmond WA US 98052-8300","c":"US","o":"Microsoft Corporation"}]);

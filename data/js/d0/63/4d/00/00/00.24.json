@@ -1,0 +1,1 @@
+deepmacDetailCallback("d0634d000000/24",[{"d":"2013-10-23","t":"add","a":"EnglerstraÃe 3\nOffenburg  77652\n\n","c":"GERMANY","o":"Meiko Maschinenbau GmbH &amp; Co. KG"},{"d":"2015-08-27","t":"change","a":"Englerstraße 3 Offenburg  DE 77652","c":"DE","o":"Meiko Maschinenbau GmbH &amp; Co. KG"}]);

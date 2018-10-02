@@ -1,0 +1,1 @@
+deepmacDetailCallback("10b26b000000/24",[{"d":"2013-08-16","t":"add","a":"F1 92 building taoyuancun longzhu road\nNanshan District\nShenzhen Guangdong 518000\n","c":"CHINA","o":"base Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"F1 92 building taoyuancun longzhu road Shenzhen Guangdong CN 518000","c":"CN","o":"base Co.,Ltd."}]);

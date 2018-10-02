@@ -1,0 +1,1 @@
+deepmacDetailCallback("001fc0000000/24",[{"d":"2008-02-09","t":"add","a":"Laitaatsillantie 3\nSavonlinna  57170\n\n","c":"FINLAND","o":"Control Express Finland Oy"},{"d":"2015-08-27","t":"change","a":"Laitaatsillantie 3 Savonlinna  FI 57170","c":"FI","o":"Control Express Finland Oy"}]);

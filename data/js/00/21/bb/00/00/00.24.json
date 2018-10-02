@@ -1,0 +1,1 @@
+deepmacDetailCallback("0021bb000000/24",[{"d":"2008-06-18","t":"add","a":"2-7-6 Azusawa\nItabashi-Ku Tokyo 174-8744\n\n","c":"JAPAN","o":"Riken Keiki Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2-7-6 Azusawa Itabashi-Ku Tokyo JP 174-8744","c":"JP","o":"Riken Keiki Co., Ltd."}]);

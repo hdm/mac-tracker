@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c43ec000000/24",[{"d":"2012-05-09","t":"add","a":"NKF-Kawasaki-Building 7F\n1-2 Higashidacho,Kawasaki-ku\nKawasaki Kanagawa 2100005\n","c":"JAPAN","o":"JAPAN CIRCUIT CO.,LTD"},{"d":"2015-08-27","t":"change","a":"NKF-Kawasaki-Building 7F Kawasaki Kanagawa JP 2100005","c":"JP","o":"JAPAN CIRCUIT CO.,LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("a06d09000000/24",[{"d":"2012-03-03","t":"add","a":"5490  Boul Thimens\nSuite 250\nSaint-Laurent Quebec H4R2K9\n","c":"CANADA","o":"Intelcan Technosystems Inc."},{"d":"2015-08-27","t":"change","a":"5490  Boul Thimens Saint-Laurent Quebec CA H4R2K9","c":"CA","o":"Intelcan Technosystems Inc."}]);

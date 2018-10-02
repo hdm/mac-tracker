@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c6bf7000000/24",[{"d":"2016-12-10","t":"add","a":"5th floor takei building 2-19-6\n\n\n","c":"taito  taito-ku , Tokyo  1100016","o":"NTI co., ltd."},{"d":"2016-12-13","t":"change","a":"5th floor takei building 2-19-6 taito taito-ku , Tokyo JP 1100016","c":"JP","o":"NTI co., ltd."}]);

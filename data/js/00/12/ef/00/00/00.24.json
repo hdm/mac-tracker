@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012ef000000/24",[{"d":"2004-11-26","t":"add","a":"28 rue de la Redoute\nFontenay aux Roses  92260\n\n","c":"FRANCE","o":"OneAccess SA"},{"d":"2015-08-27","t":"change","a":"28 rue de la Redoute Fontenay aux Roses  FR 92260","c":"FR","o":"OneAccess SA"}]);

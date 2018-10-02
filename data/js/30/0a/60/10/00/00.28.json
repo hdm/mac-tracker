@@ -1,0 +1,1 @@
+deepmacDetailCallback("300a60100000/28",[{"a":"Blk 6,Rm 602,Noble CenterⅡ，No.1 Automotive Museum East Lane,South Fourth Ring Road, Fengtai District Beijing Beijing CN 100070","o":"Beijing Ruiteng Zhongtian TECH Ltd.,Co","d":"2018-06-24","t":"add","s":"ieee","c":"CN"}]);

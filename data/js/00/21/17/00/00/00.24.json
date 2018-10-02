@@ -1,0 +1,1 @@
+deepmacDetailCallback("002117000000/24",[{"d":"2008-04-14","t":"add","a":"Gurogu Gurodong 170-5 Woolim e-Biz Center 709\nSeoul  152-050\n\n","c":"KOREA, REPUBLIC OF","o":"Tellord","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Gurogu Gurodong 170-5 Woolim e-Biz Center 709 Seoul  KR 152-050","c":"KR","o":"Tellord"}]);

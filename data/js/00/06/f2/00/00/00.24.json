@@ -1,0 +1,1 @@
+deepmacDetailCallback("0006f2000000/24",[{"d":"2001-10-24","t":"add","a":"3150A Coronado Dr.\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"Platys Communications"},{"d":"2015-08-27","t":"change","a":"3150A Coronado Dr. Santa Clara CA US 95054","c":"US","o":"Platys Communications"}]);

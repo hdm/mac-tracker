@@ -1,0 +1,1 @@
+deepmacDetailCallback("34a68c000000/24",[{"d":"2013-04-16","t":"add","a":"Unit 1401B Telecom Tower\nWharf T&T Square\nKwun Tong Kowloon 000001\n","c":"HONG KONG","o":"Shine Profit Development Limited"},{"d":"2015-08-27","t":"change","a":"Unit 1401B Telecom Tower Kwun Tong Kowloon HK 000001","c":"HK","o":"Shine Profit Development Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00193a000000/24",[{"d":"2006-08-14","t":"add","a":"Technopark, 958-3 Daechon-Dong, Buk-Gu\nGwangju Buk-Gu 500-706\n\n","c":"KOREA, REPUBLIC OF","o":"OESOLUTIONS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Technopark, 958-3 Daechon-Dong, Buk-Gu Gwangju Buk-Gu KR 500-706","c":"KR","o":"OESOLUTIONS"}]);

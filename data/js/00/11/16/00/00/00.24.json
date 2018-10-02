@@ -1,0 +1,1 @@
+deepmacDetailCallback("001116000000/24",[{"d":"2004-04-15","t":"add","a":"3-3-19 KACHIDOKI\nCHUO-KU TOKYO 104-0054\n\n","c":"JAPAN","o":"COTEAU VERT CO., LTD."},{"d":"2015-08-27","t":"change","a":"3-3-19 KACHIDOKI CHUO-KU TOKYO JP 104-0054","c":"JP","o":"COTEAU VERT CO., LTD."}]);

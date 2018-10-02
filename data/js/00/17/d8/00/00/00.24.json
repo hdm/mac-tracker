@@ -1,0 +1,1 @@
+deepmacDetailCallback("0017d8000000/24",[{"d":"2006-04-08","t":"add","a":"591 Yosemite Drive\nMilpitas CA 95035\n\n","c":"UNITED STATES","o":"Magnum Semiconductor, Inc."},{"d":"2015-08-27","t":"change","a":"591 Yosemite Drive Milpitas CA US 95035","c":"US","o":"Magnum Semiconductor, Inc."}]);

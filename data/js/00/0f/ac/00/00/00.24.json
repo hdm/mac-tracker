@@ -1,0 +1,1 @@
+deepmacDetailCallback("000fac000000/24",[{"d":"2004-03-17","t":"add","a":"4125 Highlander Parkway\nRichfield Ohio 44286\n\n","c":"UNITED STATES","o":"IEEE 802.11","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4125 Highlander Parkway Richfield Ohio US 44286","c":"US","o":"IEEE 802.11"}]);

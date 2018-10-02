@@ -1,0 +1,1 @@
+deepmacDetailCallback("00074a000000/24",[{"d":"2001-10-24","t":"add","a":"Neckarstrabe 78-80\nD-78056 VS-Schwenningen\n\n","c":"GERMANY","o":"Carl Valentin GmbH"},{"d":"2015-08-27","t":"change","a":"Neckarstrabe 78-80   DE","c":"DE","o":"Carl Valentin GmbH"}]);

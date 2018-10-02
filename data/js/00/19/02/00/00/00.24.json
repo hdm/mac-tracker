@@ -1,0 +1,1 @@
+deepmacDetailCallback("001902000000/24",[{"d":"2006-07-14","t":"add","a":"Science Park\nMilton Road\nCambridge Cambs CB4 0DW\n","c":"UNITED KINGDOM","o":"Cambridge Consultants Ltd"},{"d":"2015-08-27","t":"change","a":"Science Park Cambridge Cambs GB CB4 0DW","c":"GB","o":"Cambridge Consultants Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e55000000/24",[{"d":"2007-10-04","t":"add","a":"6th Fl. COWON TOWER,689-3,\nYeoksam-Dong,Gangnam-Gu,\nSeoul  135-080\n","c":"KOREA, REPUBLIC OF","o":"COWON SYSTEMS,Inc."},{"d":"2015-08-27","t":"change","a":"6th Fl. COWON TOWER,689-3, Seoul  KR 135-080","c":"KR","o":"COWON SYSTEMS,Inc."}]);

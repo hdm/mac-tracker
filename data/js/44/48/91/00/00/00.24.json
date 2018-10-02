@@ -1,0 +1,1 @@
+deepmacDetailCallback("444891000000/24",[{"d":"2013-11-19","t":"add","a":"1140 East Arques, Suite 100\nSunnyvale CA 94085\n\n","c":"UNITED STATES","o":"HDMI Licensing, LLC"},{"d":"2015-08-27","t":"change","a":"1140 East Arques, Suite 100 Sunnyvale CA US 94085","c":"US","o":"HDMI Licensing, LLC"}]);

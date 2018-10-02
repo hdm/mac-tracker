@@ -1,0 +1,1 @@
+deepmacDetailCallback("7cf098000000/24",[{"d":"2010-04-08","t":"add","a":"TCI B5\n2-6-1 Sengen\nTsukuba City Ibaraki 305-0047\n","c":"JAPAN","o":"Bee Beans Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"TCI B5 Tsukuba City Ibaraki JP 305-0047","c":"JP","o":"Bee Beans Technologies, Inc."}]);

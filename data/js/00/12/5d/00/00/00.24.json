@@ -1,0 +1,1 @@
+deepmacDetailCallback("00125d000000/24",[{"d":"2004-09-12","t":"add","a":"#205, Lotte Suntech City, 513-15\nSangdaewon-dong, Chungwon-gu\nSungnam Kyunggi 462-806\n","c":"KOREA, REPUBLIC OF","o":"CyberNet Inc."},{"d":"2015-08-27","t":"change","a":"#205, Lotte Suntech City, 513-15 Sungnam Kyunggi KR 462-806","c":"KR","o":"CyberNet Inc."}]);

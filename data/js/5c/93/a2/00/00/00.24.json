@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c93a2000000/24",[{"d":"2014-06-04","t":"add","a":"4F,90,Chien 1 Road, ChungHo, TaiPei Hsien\nTaiPei TaiWan 23585\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Liteon Technology Corporation"},{"d":"2015-08-27","t":"change","a":"4F,90,Chien 1 Road, ChungHo, TaiPei Hsien TaiPei TaiWan TW 23585","c":"TW","o":"Liteon Technology Corporation"}]);

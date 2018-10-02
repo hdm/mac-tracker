@@ -1,0 +1,1 @@
+deepmacDetailCallback("7ccbe2000000/28",[{"a":"Xin Yong Yi Science Park, GaoXin 3rd Road, High-tech Zone Heyuan Guangdong CN 517000","o":"Heyuan Yongyida Technology Holdings Co.,Ltd.","d":"2016-08-22","t":"add","s":"ieee","c":"CN"}]);

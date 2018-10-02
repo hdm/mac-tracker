@@ -1,0 +1,1 @@
+deepmacDetailCallback("783ce3000000/24",[{"d":"2012-07-03","t":"add","a":"3F.-12, No.79, Sec. 1, Xintai 5th Rd.,\nXizhi Dist.\nNew Taipei City  22101\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Kai-EE"},{"d":"2015-08-27","t":"change","a":"3F.-12, No.79, Sec. 1, Xintai 5th Rd.,  New Taipei City  TW 22101","c":"TW","o":"Kai-EE"}]);

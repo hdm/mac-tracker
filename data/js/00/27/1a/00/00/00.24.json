@@ -1,0 +1,1 @@
+deepmacDetailCallback("00271a000000/24",[{"d":"2009-08-02","t":"add","a":"Unit 402, 4/F., Tower I,SHUI QING MU HUA YUAN,\nHaidian District\nBeijing  100080\n","c":"CHINA","o":"Geenovo Technology Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Unit 402, 4/F., Tower I,SHUI QING MU HUA YUAN, Beijing  CN 100080","c":"CN","o":"Geenovo Technology Ltd."}]);

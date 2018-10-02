@@ -1,0 +1,1 @@
+deepmacDetailCallback("04df69000000/24",[{"d":"2013-04-04","t":"add","a":"3855 SW 153rd Drive\nBeaverton Oregon 97006\n\n","c":"UNITED STATES","o":"Car Connectivity Consortium"},{"d":"2015-08-27","t":"change","a":"3855 SW 153rd Drive Beaverton Oregon US 97006","c":"US","o":"Car Connectivity Consortium"}]);

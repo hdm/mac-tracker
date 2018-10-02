@@ -1,0 +1,1 @@
+deepmacDetailCallback("2442bc000000/24",[{"d":"2014-06-17","t":"add","a":"Yodoyabashi Dai-Bldg 13F,\n4 Chome 4-9, Koraibashi, Chuo-ku\nOsaka Osaka pref. 541-0043\n","c":"JAPAN","o":"Alinco,incorporated"},{"d":"2015-08-27","t":"change","a":"Yodoyabashi Dai-Bldg 13F, Osaka Osaka pref. JP 541-0043","c":"JP","o":"Alinco,incorporated"}]);

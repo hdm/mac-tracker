@@ -1,0 +1,1 @@
+deepmacDetailCallback("101248000000/24",[{"d":"2012-07-06","t":"add","a":"YASUHARA BLDG 302, 1-42-6, ITABASHI,\nITABASHI-KU TOKYO 173-0004\n\n","c":"JAPAN","o":"ITG, Inc."},{"d":"2015-08-27","t":"change","a":"YASUHARA BLDG 302, 1-42-6, ITABASHI, ITABASHI-KU TOKYO US 173-0004","c":"US","o":"ITG, Inc."}]);

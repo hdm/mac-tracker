@@ -1,0 +1,1 @@
+deepmacDetailCallback("0011b4000000/24",[{"d":"2004-06-30","t":"add","a":"Stora Sundby\nSE-640 40 St\n\n","c":"SWEDEN","o":"Westermo Teleindustri AB"},{"d":"2004-07-24","t":"change","a":"Stora Sundby\nSE-640 40\n\n","c":"SWEDEN","o":"Westermo Teleindustri AB"},{"d":"2015-08-27","t":"change","a":"Stora Sundby   SE SE-640 40","c":"SE","o":"Westermo Teleindustri AB"}]);

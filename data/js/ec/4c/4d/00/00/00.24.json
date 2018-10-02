@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec4c4d000000/24",[{"d":"2012-04-24","t":"add","a":"Bild. 119-1, Prospekt Mira\nMoscow Moscow 129223\n\n","c":"RUSSIAN FEDERATION","o":"ZAO NPK RoTeK"},{"d":"2015-08-27","t":"change","a":"Bild. 119-1, Prospekt Mira Moscow Moscow RU 129223","c":"RU","o":"ZAO NPK RoTeK"}]);

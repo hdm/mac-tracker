@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0a23c000000/24",[{"d":"2013-08-31","t":"add","a":"40 Ridge Rd\nCornwall VT 05753\n\n","c":"UNITED STATES","o":"GPMS"},{"d":"2015-08-27","t":"change","a":"40 Ridge Rd Cornwall VT US 05753","c":"US","o":"GPMS"}]);

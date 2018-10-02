@@ -1,0 +1,1 @@
+deepmacDetailCallback("6cac60000000/24",[{"d":"2009-09-10","t":"add","a":"8-3-9,Shin-machi\nOme-shi, Tokyo 198-0024\n\n","c":"JAPAN","o":"Venetex Corp"},{"d":"2015-08-27","t":"change","a":"8-3-9,Shin-machi Ome-shi, Tokyo JP 198-0024","c":"JP","o":"Venetex Corp"}]);

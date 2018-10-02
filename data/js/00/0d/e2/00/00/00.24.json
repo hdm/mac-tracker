@@ -1,0 +1,1 @@
+deepmacDetailCallback("000de2000000/24",[{"d":"2003-07-23","t":"add","a":"Via dell'Artiginato, 21\nVascon di Carbonera Treviso 31050\n\n","c":"ITALY","o":"CMZ Sistemi Elettronici","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via dell'Artiginato, 21 Vascon di Carbonera Treviso IT 31050","c":"IT","o":"CMZ Sistemi Elettronici"}]);

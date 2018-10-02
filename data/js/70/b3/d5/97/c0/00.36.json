@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d597c000/36",[{"a":"6, Hosa Road , G.K Layout, Electronic City post Bangalore Karnataka IN 560100","o":"Nu-Tek Power Controls and Automation","d":"2016-03-13","t":"add","s":"ieee","c":"IN"}]);

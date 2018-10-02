@@ -1,0 +1,1 @@
+deepmacDetailCallback("dc175a000000/24",[{"d":"2011-05-18","t":"add","a":"794, Higashitoyoi,\nKudamatsu City, Yamaguchi Pref., 744-0002,\n\n","c":"JAPAN","o":"Hitachi High-Technologies Corporation"},{"d":"2015-08-27","t":"change","a":"794, Higashitoyoi, Kudamatsu City, Yamaguchi Pref., JP 744-0002,","c":"JP","o":"Hitachi High-Technologies Corporation"}]);

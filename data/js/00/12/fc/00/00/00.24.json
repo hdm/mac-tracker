@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012fc000000/24",[{"d":"2004-12-11","t":"add","a":"4th Floor, Daehan B/D, 873-29,\nBangbae4-Dong, Seocho-Ku,\nSeoul  137-064\n","c":"KOREA, REPUBLIC OF","o":"PLANET System Co.,LTD"},{"d":"2015-08-27","t":"change","a":"4th Floor, Daehan B/D, 873-29, Seoul  KR 137-064","c":"KR","o":"PLANET System Co.,LTD"}]);

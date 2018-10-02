@@ -1,0 +1,1 @@
+deepmacDetailCallback("fc01cd000000/24",[{"d":"2011-06-23","t":"add","a":"Avenida Otaola, 20\nEibar Gipuzkoa 20600\n\n","c":"SPAIN","o":"FUNDACION TEKNIKER"},{"d":"2015-08-27","t":"change","a":"Avenida Otaola, 20 Eibar Gipuzkoa ES 20600","c":"ES","o":"FUNDACION TEKNIKER"}]);

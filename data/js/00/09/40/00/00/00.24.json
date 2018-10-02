@@ -1,0 +1,1 @@
+deepmacDetailCallback("000940000000/24",[{"d":"2002-03-29","t":"add","a":"Postfach 140107\nBielefeld Rhine Westfalia 33621\n\n","c":"GERMANY","o":"AGFEO GmbH & Co. KG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Postfach 140107 Bielefeld Rhine Westfalia DE 33621","c":"DE","o":"AGFEO GmbH & Co. KG"}]);

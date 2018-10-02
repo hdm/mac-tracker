@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b2a000000/24",[{"d":"2002-09-09","t":"add","a":"J-COM Bd. 4F, 124-4 OJEON-DONG\nUIWANG-SHI KYOUNGGI-DO 437-070\n\n","c":"KOREA, REPUBLIC OF","o":"HOWTEL Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"J-COM Bd. 4F, 124-4 OJEON-DONG UIWANG-SHI KYOUNGGI-DO KR 437-070","c":"KR","o":"HOWTEL Co., Ltd."}]);

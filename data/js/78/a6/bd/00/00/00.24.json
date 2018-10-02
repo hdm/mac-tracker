@@ -1,0 +1,1 @@
+deepmacDetailCallback("78a6bd000000/24",[{"d":"2010-02-26","t":"add","a":"ACETECHNOTOWER 2-108, 197-7, Guro3-Dong, Guro-Gu,\nSeoul  152-766\n\n","c":"KOREA, REPUBLIC OF","o":"DAEYEON Control&Instrument Co,.Ltd"},{"d":"2015-08-27","t":"change","a":"ACETECHNOTOWER 2-108, 197-7, Guro3-Dong, Guro-Gu,  Seoul  KR 152-766","c":"KR","o":"DAEYEON Control&Instrument Co,.Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0d9a2000000/24",[{"d":"2012-11-17","t":"add","a":"Sceince Park Scion\nDiplomvej 381\nLyngby  2800\n","c":"DENMARK","o":"Hippih aps"},{"d":"2015-08-27","t":"change","a":"Sceince Park Scion Lyngby  DK 2800","c":"DK","o":"Hippih aps"}]);

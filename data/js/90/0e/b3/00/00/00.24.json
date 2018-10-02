@@ -1,0 +1,1 @@
+deepmacDetailCallback("900eb3000000/24",[{"d":"2018-06-30","t":"add","a":"2th floor, block A, building B, Minsheng Industrial Zone, Longhua District Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen Amediatech Technology Co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001ce4000000/24",[{"d":"2007-06-16","t":"add","a":"Altayskaya street, 161a\nTomsk oblast 634021\n\n","c":"RUSSIAN FEDERATION","o":"EleSy JSC"},{"d":"2015-08-27","t":"change","a":"Altayskaya street, 161a  Tomsk oblast RU 634021","c":"RU","o":"EleSy JSC"}]);

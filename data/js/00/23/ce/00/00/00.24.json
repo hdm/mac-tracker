@@ -1,0 +1,1 @@
+deepmacDetailCallback("0023ce000000/24",[{"d":"2008-10-08","t":"add","a":"12F TOKYO-NISHIIKEBUKURO Bilg.,\n1-7-7, Nishi-ikebukuro\nToshima-ku, Tokyo 171-0021\n","c":"JAPAN","o":"KITA DENSHI CORPORATION","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"12F TOKYO-NISHIIKEBUKURO Bilg., Toshima-ku, Tokyo JP 171-0021","c":"JP","o":"KITA DENSHI CORPORATION"}]);

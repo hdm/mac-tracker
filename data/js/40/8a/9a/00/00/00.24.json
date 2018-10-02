@@ -1,0 +1,1 @@
+deepmacDetailCallback("408a9a000000/24",[{"d":"2010-01-28","t":"add","a":"7Fl. Shindo B/D 10 Garak-dong\nSongpa-gu\nSeoul  138-160\n","c":"KOREA, REPUBLIC OF","o":"TITENG CO., Ltd."},{"d":"2015-08-27","t":"change","a":"7Fl. Shindo B/D 10 Garak-dong Seoul  KR 138-160","c":"KR","o":"TITENG CO., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c8306000000/24",[{"d":"2013-05-23","t":"add","a":"Postboks 16\nStjoerdal N-T 7501\n\n","c":"NORWAY","o":"Glen Dimplex Nordic as"},{"d":"2015-08-27","t":"change","a":"Postboks 16 Stjoerdal N-T NO 7501","c":"NO","o":"Glen Dimplex Nordic as"}]);

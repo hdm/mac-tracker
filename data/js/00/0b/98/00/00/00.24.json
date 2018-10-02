@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b98000000/24",[{"d":"2002-10-23","t":"add","a":"IntelZone 703\nYongIn  Gugal-ri  Ki Heung KyoungKiDo 354-2\n\n","c":"KOREA, REPUBLIC OF","o":"NiceTechVision","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"IntelZone 703 YongIn  Gugal-ri  Ki Heung KyoungKiDo KR 354-2","c":"KR","o":"NiceTechVision"}]);

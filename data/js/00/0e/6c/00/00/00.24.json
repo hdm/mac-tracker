@@ -1,0 +1,1 @@
+deepmacDetailCallback("000e6c000000/24",[{"d":"2003-12-21","t":"add","a":"1-5-1-103\nWakamatsu-cho\nFuchu-shi Tokyo 1830005\n","c":"JAPAN","o":"Device Drivers Limited","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-5-1-103 Fuchu-shi Tokyo JP 1830005","c":"JP","o":"Device Drivers Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00198f000000/24",[{"d":"2006-09-03","t":"add","a":"Copernicuslaan 50\nAntwerp  B-2018\n\n","c":"BELGIUM","o":"Alcatel Bell N.V."},{"d":"2015-08-27","t":"change","a":"Copernicuslaan 50 Antwerp  BE B-2018","c":"BE","o":"Alcatel Bell N.V."}]);

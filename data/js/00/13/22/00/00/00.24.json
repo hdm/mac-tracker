@@ -1,0 +1,1 @@
+deepmacDetailCallback("001322000000/24",[{"d":"2004-12-20","t":"add","a":"262B Old New Brunswick Road\nPiscataway NJ 08854\n\n","c":"UNITED STATES","o":"DAQ Electronics, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"262B Old New Brunswick Road Piscataway NJ US 08854","c":"US","o":"DAQ Electronics, Inc."}]);

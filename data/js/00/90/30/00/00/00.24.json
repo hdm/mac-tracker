@@ -1,0 +1,1 @@
+deepmacDetailCallback("009030000000/24",[{"d":"2000-09-08","t":"add","a":"VIA TINTORETTO, 15\n21012 CASSANO MAGNAGO (VA)\n\n","c":"ITALY","o":"HONEYWELL-DATING"},{"d":"2015-08-27","t":"change","a":"VIA TINTORETTO, 15 21012 CASSANO MAGNAGO (VA)  IT","c":"IT","o":"HONEYWELL-DATING"}]);

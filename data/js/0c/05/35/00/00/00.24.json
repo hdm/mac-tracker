@@ -1,0 +1,1 @@
+deepmacDetailCallback("0c0535000000/24",[{"d":"2013-03-12","t":"add","a":"1132 W. 1700 N.\nLogan UT 84321\n\n","c":"UNITED STATES","o":"Juniper Systems"},{"d":"2015-08-27","t":"change","a":"1132 W. 1700 N. Logan UT US 84321","c":"US","o":"Juniper Systems"}]);

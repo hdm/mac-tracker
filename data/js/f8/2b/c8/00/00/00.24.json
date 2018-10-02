@@ -1,0 +1,1 @@
+deepmacDetailCallback("f82bc8000000/24",[{"d":"2013-04-09","t":"add","a":"Room 512, Buliding 8, 118 Nanyuanbei Road\nCanglang District\nSuzhou City Jiangsu Province 215006\n","c":"CHINA","o":"Jiangsu Switter Co., Ltd"},{"d":"2015-08-27","t":"change","a":"Room 512, Buliding 8, 118 Nanyuanbei Road Suzhou City Jiangsu Province CN 215006","c":"CN","o":"Jiangsu Switter Co., Ltd"}]);

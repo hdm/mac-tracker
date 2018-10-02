@@ -1,0 +1,1 @@
+deepmacDetailCallback("0021d5000000/24",[{"d":"2008-06-18","t":"add","a":"Raiffeisenstrasse 9\nWinden Rheinland-Pfalz 76872\n\n","c":"GERMANY","o":"X2E GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Raiffeisenstrasse 9 Winden Rheinland-Pfalz DE 76872","c":"DE","o":"X2E GmbH"}]);

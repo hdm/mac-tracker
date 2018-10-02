@@ -1,0 +1,1 @@
+deepmacDetailCallback("001853000000/24",[{"d":"2006-06-13","t":"add","a":"31, Habarzel St.\nRamat Hachayal\nTel-Aviv  69710\n","c":"ISRAEL","o":"Atera Networks LTD."},{"d":"2015-08-27","t":"change","a":"31, Habarzel St. Tel-Aviv  IL 69710","c":"IL","o":"Atera Networks LTD."}]);

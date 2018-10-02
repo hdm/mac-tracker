@@ -1,0 +1,1 @@
+deepmacDetailCallback("000093000000/24",[{"d":"1998-09-25","t":"add","a":"4 TECH CIRCLE\nNATICK MA 01760\n\n","c":"UNITED STATES","o":"PROTEON INC.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4 TECH CIRCLE NATICK MA US 01760","c":"US","o":"PROTEON INC."}]);

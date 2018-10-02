@@ -1,0 +1,1 @@
+deepmacDetailCallback("04c3e6100000/28",[{"a":"No. 38 South Kemu Road  Guangzhou City Tianhe District, Guangdong Province CN 510520","o":"Guangdong New Pulse Electric Co., Ltd.","d":"2018-04-15","t":"add","s":"ieee","c":"CN"}]);

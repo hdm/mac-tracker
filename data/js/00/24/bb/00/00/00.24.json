@@ -1,0 +1,1 @@
+deepmacDetailCallback("0024bb000000/24",[{"d":"2008-12-21","t":"add","a":"NISSO 17 Bldg.7F 2-14-30\nShinyokohama Kouhoku-ku\nYokohama Kanagawa 222-0033\n","c":"JAPAN","o":"CENTRAL Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"NISSO 17 Bldg.7F 2-14-30 Yokohama Kanagawa JP 222-0033","c":"JP","o":"CENTRAL Corporation"}]);

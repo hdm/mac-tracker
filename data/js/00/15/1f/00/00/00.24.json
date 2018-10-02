@@ -1,0 +1,1 @@
+deepmacDetailCallback("00151f000000/24",[{"d":"2005-07-08","t":"add","a":"26/F, Aitken Vanson Centre,\n61 Hoi Yuen Road, Kwun Tong, Kowloon,\n\n","c":"HONG KONG","o":"Multivision Intelligent Surveillance (Hong Kong) Ltd"},{"d":"2015-08-27","t":"change","a":"26/F, Aitken Vanson Centre,   HK","c":"HK","o":"Multivision Intelligent Surveillance (Hong Kong) Ltd"}]);

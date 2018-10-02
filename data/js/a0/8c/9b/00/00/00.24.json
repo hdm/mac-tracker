@@ -1,0 +1,1 @@
+deepmacDetailCallback("a08c9b000000/24",[{"d":"2010-11-10","t":"add","a":"200 4616 Valiant Dr NW\nCalgary AB T3A0X9\n\n","c":"CANADA","o":"Xtreme Technologies Corp"},{"d":"2015-08-27","t":"change","a":"200 4616 Valiant Dr NW Calgary AB CA T3A0X9","c":"CA","o":"Xtreme Technologies Corp"}]);

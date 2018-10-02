@@ -1,0 +1,1 @@
+deepmacDetailCallback("d858d7000000/24",[{"d":"2013-10-01","t":"add","a":"Americka 23\nPrague 12000\n\n","c":"CZECH REPUBLIC","o":"CZ.NIC, z.s.p.o."},{"d":"2015-08-27","t":"change","a":"Americka 23  Prague CZ 12000","c":"CZ","o":"CZ.NIC, z.s.p.o."}]);

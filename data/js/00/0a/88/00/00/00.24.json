@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a88000000/24",[{"d":"2002-08-03","t":"add","a":"18 rue de l'Eau\nLuxembourg  1449\n\n","c":"LUXEMBOURG","o":"InCypher S.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"18 rue de l'Eau Luxembourg  LU 1449","c":"LU","o":"InCypher S.A."}]);

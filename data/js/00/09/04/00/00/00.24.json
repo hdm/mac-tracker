@@ -1,0 +1,1 @@
+deepmacDetailCallback("000904000000/24",[{"d":"2002-01-30","t":"add","a":"Eggelsberg 73\nEggelsberg Oberoesterreich 5142\n\n","c":"AUSTRIA","o":"MONDIAL electronic","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Eggelsberg 73 Eggelsberg Oberoesterreich AT 5142","c":"AT","o":"MONDIAL electronic"}]);

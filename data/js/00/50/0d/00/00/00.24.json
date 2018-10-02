@@ -1,0 +1,1 @@
+deepmacDetailCallback("00500d000000/24",[{"d":"2000-09-08","t":"add","a":"TIGUSADAI 38-8  MIDORI-KU\nYOKOHAMA, KANAGAWA\n\n","c":"JAPAN","o":"SATORI ELECTORIC CO., LTD."},{"d":"2015-08-27","t":"change","a":"TIGUSADAI 38-8  MIDORI-KU YOKOHAMA, KANAGAWA  JP","c":"JP","o":"SATORI ELECTORIC CO., LTD."}]);

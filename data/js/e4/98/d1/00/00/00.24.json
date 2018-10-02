@@ -1,0 +1,1 @@
+deepmacDetailCallback("e498d1000000/24",[{"d":"2015-05-29","t":"add","a":"Keilalahdentie 4\nESPOO Not applicable 02150\n\n","c":"FINLAND","o":"Microsoft Mobile Oy"},{"d":"2015-08-27","t":"change","a":"Keilalahdentie 4 ESPOO  FI 02150","c":"FI","o":"Microsoft Mobile Oy"}]);

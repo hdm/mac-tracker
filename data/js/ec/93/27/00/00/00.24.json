@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec9327000000/24",[{"d":"2012-05-10","t":"add","a":"Aeussere Rittersbacher Strasse 38\nSchwabach Bavaria 91126\n\n","c":"GERMANY","o":"MEMMERT GmbH + Co. KG"},{"d":"2015-08-27","t":"change","a":"Aeussere Rittersbacher Strasse 38 Schwabach Bavaria DE 91126","c":"DE","o":"MEMMERT GmbH + Co. KG"}]);

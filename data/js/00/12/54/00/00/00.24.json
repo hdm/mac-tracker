@@ -1,0 +1,1 @@
+deepmacDetailCallback("001254000000/24",[{"d":"2004-09-09","t":"add","a":"Unit 1301-09, Tower II\nPacific Century Place, Mongkok\n852\n","c":"HONG KONG","o":"Spectra Technologies Holdings Company Ltd"},{"d":"2015-08-27","t":"change","a":"Unit 1301-09, Tower II   HK 852","c":"HK","o":"Spectra Technologies Holdings Company Ltd"}]);

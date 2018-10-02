@@ -1,0 +1,1 @@
+deepmacDetailCallback("78c2c0700000/28",[{"a":"no.32 Changsha Rd Shayong village Guangzhou Guangdong CN 511450","o":"Guangzhou Hongcai Stage Equipment co.,ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000d79000000/24",[{"d":"2003-06-10","t":"add","a":"17-8 Nihonbashi Hakozaki-cho\nChuo-ku Tokyo 103-0015\n\n","c":"JAPAN","o":"Dynamic Solutions Co,.Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"17-8 Nihonbashi Hakozaki-cho Chuo-ku Tokyo JP 103-0015","c":"JP","o":"Dynamic Solutions Co,.Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c0dee000000/24",[{"d":"2013-10-24","t":"add","a":"FL5-UNIT A2 NO 1528 GUMEI ROAD\nSHANGHAI 200233\n\n","c":"CHINA","o":"JABIL CIRCUIT (SHANGHAI) LTD."},{"d":"2015-08-27","t":"change","a":"FL5-UNIT A2 NO 1528 GUMEI ROAD  SHANGHAI CN 200233","c":"CN","o":"JABIL CIRCUIT (SHANGHAI) LTD."}]);

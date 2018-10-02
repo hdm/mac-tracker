@@ -1,0 +1,1 @@
+deepmacDetailCallback("a4be61000000/24",[{"d":"2010-06-16","t":"add","a":"Rm 403,Building33,No.680 GuipingRd,Xuhui,\nShanghai  200233\n\n","c":"CHINA","o":"EutroVision System, Inc."},{"d":"2015-08-27","t":"change","a":"Rm 403,Building33,No.680 GuipingRd,Xuhui, Shanghai  CN 200233","c":"CN","o":"EutroVision System, Inc."}]);

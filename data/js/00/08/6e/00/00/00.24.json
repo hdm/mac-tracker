@@ -1,0 +1,1 @@
+deepmacDetailCallback("00086e000000/24",[{"d":"2001-12-14","t":"add","a":"Vastberga alle 60\nSE-126 75 Stockholm\n\n","c":"SWEDEN","o":"Hyglo AB"},{"d":"2015-08-27","t":"change","a":"Vastberga alle 60   SE","c":"SE","o":"Hyglo AB"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("68af13000000/24",[{"d":"2012-07-24","t":"add","a":"515 PENNSYLVANIA AVE\nFORT WASHINTON PA 19034\n\n","c":"UNITED STATES","o":"Futura Mobility"},{"d":"2015-08-27","t":"change","a":"515 PENNSYLVANIA AVE FORT WASHINTON PA US 19034","c":"US","o":"Futura Mobility"}]);

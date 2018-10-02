@@ -1,0 +1,1 @@
+deepmacDetailCallback("0021c6000000/24",[{"d":"2008-06-18","t":"add","a":"9th Fl. Samwhan Bldg. Annex, 17-26 Yeouido-dong,\nYoungdeungpo-Gu\nSeoul  150-874\n","c":"KOREA, REPUBLIC OF","o":"CSJ Global, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9th Fl. Samwhan Bldg. Annex, 17-26 Yeouido-dong, Seoul  KR 150-874","c":"KR","o":"CSJ Global, Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a3e000000/24",[{"d":"2002-06-05","t":"add","a":"Landshuter Strasse 26\nMunich Bavaria 85716\n\n","c":"GERMANY","o":"EADS Telecom"},{"d":"2015-08-27","t":"change","a":"Landshuter Strasse 26 Munich Bavaria DE 85716","c":"DE","o":"EADS Telecom"}]);

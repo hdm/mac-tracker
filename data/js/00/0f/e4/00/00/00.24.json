@@ -1,0 +1,1 @@
+deepmacDetailCallback("000fe4000000/24",[{"d":"2004-04-03","t":"add","a":"Shinsong B/D 3F, 25-12,\nYeouido-Dong,\nYoungdeungpo-GU Seoul 150-711\n","c":"KOREA, REPUBLIC OF","o":"Pantech Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Shinsong B/D 3F, 25-12, Youngdeungpo-GU Seoul KR 150-711","c":"KR","o":"Pantech Co.,Ltd"}]);

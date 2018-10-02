@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c268a000/36",[{"a":"8/F,BlockA,Tsinghua Science Park,101 College Road,TangJia Zhuahi Guangdong CN 519080","o":"Zhuhai Jiahe Electronics Co.,LTD","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

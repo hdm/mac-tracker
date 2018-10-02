@@ -1,0 +1,1 @@
+deepmacDetailCallback("889ca6000000/24",[{"d":"2013-10-18","t":"add","a":"#1001, Suntech City 1st\n474 Doonchondaero\nSungnam Kyunggido 462-725\n","c":"KOREA, REPUBLIC OF","o":"BTB Korea INC"},{"d":"2015-08-27","t":"change","a":"#1001, Suntech City 1st Sungnam Kyunggido KR 462-725","c":"KR","o":"BTB Korea INC"}]);

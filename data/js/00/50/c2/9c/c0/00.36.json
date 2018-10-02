@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c29cc000/36",[{"a":"Shinyokohama I.O Bldg. #602, 1-3-10, Shinyokohama, Kohoku-ku Yokohama City Kanagawa JP 222-0033","o":"Hirotech, Inc","d":"2008-11-09","t":"add","s":"ieee","c":"JP"}]);

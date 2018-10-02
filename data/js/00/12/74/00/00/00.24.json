@@ -1,0 +1,1 @@
+deepmacDetailCallback("001274000000/24",[{"d":"2004-09-29","t":"add","a":"Skoriny str., 65-3\nMinsk Minskaya obl. 220013\n\n","c":"BELARUS","o":"NIT lab","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Skoriny str., 65-3 Minsk Minskaya obl. BY 220013","c":"BY","o":"NIT lab"}]);

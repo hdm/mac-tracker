@@ -1,0 +1,1 @@
+deepmacDetailCallback("0024b1000000/24",[{"d":"2008-12-21","t":"add","a":"1692 Dell Ave\nCampbell CA 95008\n\n","c":"UNITED STATES","o":"Coulomb Technologies","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1692 Dell Ave Campbell CA US 95008","c":"US","o":"Coulomb Technologies"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("3456fe000000/24",[{"d":"2017-06-17","t":"add","a":"500 Terry A. Francois Blvd\n\n\n","c":"San Francisco    94158","o":"Cisco Meraki"},{"d":"2017-06-20","t":"change","a":"500 Terry A. Francois Blvd San Francisco  US 94158","c":"US","o":"Cisco Meraki"}]);

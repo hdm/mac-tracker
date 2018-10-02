@@ -1,0 +1,1 @@
+deepmacDetailCallback("001260000000/24",[{"d":"2004-09-12","t":"add","a":"3000 SW 42nd Street\nHollywood FL 33312\n\n","c":"UNITED STATES","o":"Stanton Magnetics,inc."},{"d":"2015-08-27","t":"change","a":"3000 SW 42nd Street Hollywood FL US 33312","c":"US","o":"Stanton Magnetics,inc."}]);

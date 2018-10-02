@@ -1,0 +1,1 @@
+deepmacDetailCallback("000980000000/24",[{"d":"2002-03-29","t":"add","a":"Tsujido Nishikaigan 1-10-7\nFujisawa Kanagawa 251-0046\n\n","c":"JAPAN","o":"Power Zenith Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Tsujido Nishikaigan 1-10-7 Fujisawa Kanagawa JP 251-0046","c":"JP","o":"Power Zenith Inc."}]);

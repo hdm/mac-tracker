@@ -1,0 +1,1 @@
+deepmacDetailCallback("001792000000/24",[{"d":"2006-03-06","t":"add","a":"Gewerbering 6\nLangewiesen Thuringia 98704\n\n","c":"GERMANY","o":"Falcom Wireless Comunications Gmbh","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Gewerbering 6 Langewiesen Thuringia DE 98704","c":"DE","o":"Falcom Wireless Comunications Gmbh"}]);

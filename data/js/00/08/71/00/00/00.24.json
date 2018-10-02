@@ -1,0 +1,1 @@
+deepmacDetailCallback("000871000000/24",[{"d":"2001-12-14","t":"add","a":"#302 KayangTechno-Town 1487\nKayang3-Dong\nKangseo-Gu Seoul 157-810\n","c":"KOREA, REPUBLIC OF","o":"NORTHDATA Co., Ltd."},{"d":"2015-08-27","t":"change","a":"#302 KayangTechno-Town 1487 Kangseo-Gu Seoul KR 157-810","c":"KR","o":"NORTHDATA Co., Ltd."}]);
