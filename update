@@ -12,7 +12,7 @@ require 'fileutils'
 # Deepmac Tracker
 #
 @data = {}
-@today = Time.now.strftime("%Y%m%d")
+@today = Time.now.strftime("%Y-%m-%d")
 @based = File.expand_path(File.dirname(__FILE__))
 
 Dir.chdir(@based)
@@ -38,9 +38,9 @@ def update(addr, date, org, address, source)
 				'd' => date,
 				't' => 'add',
 				's' => source,
-				'a' => address.to_s,
-				'c' => country,
-				'o' => org,
+				'a' => mash_encoding(address.to_s),
+				'c' => country.to_s,
+				'o' => mash_encoding(org),
 			}
 		]
 		return
@@ -70,7 +70,7 @@ def prefix_to_path(str)
 end
 
 def mash_encoding(str)
-	str.force_encoding("utf-8")
+	str.force_encoding("utf-8").scrub{|bytes| '<'+bytes.unpack('H*')[0]+'>' }.strip
 end
 
 def squash_cosmetic_changes(str)
