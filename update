@@ -140,8 +140,9 @@ def download_ieee_csv(url)
 end
 
 def write_results
+	jdata = JSON.dump(@data)
 	File.open(File.join(@based, "data", "deepmac.json"), "wb") do |fd|
-		fd.write(JSON.dump(@data))
+		fd.write(jdata)
 	end
 
 	entries = {}
@@ -154,13 +155,15 @@ def write_results
 		dpath = File.join(@based, "data", "js", path)
 		dname = File.dirname(dpath)
 		FileUtils.mkdir_p(dname)
+		jdata = JSON.dump(v)
 		File.open(dpath, "wb") do |fd|
-			fd.puts "deepmacDetailCallback(\"#{k}\"," + JSON.dump(v) + ");\n"
+			fd.puts "deepmacDetailCallback(\"#{k}\"," + jdata + ");\n"
 		end
 	end
-		
+	
+	jdata = JSON.dump(entries)
 	File.open(File.join(@based, "data", "js", "deepmac.js"), "wb") do |fd|
-		fd.write("var deepmacData = " + JSON.dump(entries) + ";\n")
+		fd.write("var deepmacData = " + jdata + ";\n")
 	end
 end
 
@@ -186,5 +189,3 @@ write_results()
 
 log("Commiting and pushing the results")
 exit(system("git add data && git commit -m 'Update #{@today}' ./data && git push origin master"))
-
-
