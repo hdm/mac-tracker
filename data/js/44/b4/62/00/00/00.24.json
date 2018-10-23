@@ -1,0 +1,1 @@
+deepmacDetailCallback("44b462000000/24",[{"d":"2018-10-23","t":"add","s":"ieee-oui.csv","a":"SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC Chennai  IN 602107","c":"IN","o":"Flextronics Tech.(Ind) Pvt Ltd"}]);
