@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5949000/36",[{"d":"2018-10-24","t":"add","s":"ieee-oui36.csv","a":"T&T Complex, Haripur Haripur KPK PK 22620","c":"PK","o":"National Radio & Telecommunication Corporation - NRTC"}]);
