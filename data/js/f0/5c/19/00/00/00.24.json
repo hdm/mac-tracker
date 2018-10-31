@@ -1,1 +1,1 @@
-deepmacDetailCallback("f05c19000000/24",[{"d":"2015-10-30","t":"add","a":"1344 Crossman Ave Sunnyvale CA US 94089","c":"US","o":"Aruba Networks"}]);
+deepmacDetailCallback("f05c19000000/24",[{"d":"2015-10-30","t":"add","a":"1344 Crossman Ave Sunnyvale CA US 94089","c":"US","o":"Aruba Networks"},{"d":"2018-10-31","t":"change","s":"ieee-oui.csv","a":"3333 Scott Blvd Santa Clara CA US 95054","c":"US","o":"Aruba, a Hewlett Packard Enterprise Company"}]);
