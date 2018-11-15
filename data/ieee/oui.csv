@@ -5138,6 +5138,7 @@ MA-L,48F8E1,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,50E0EF,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,3CF011,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,08ECF5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,885A06,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,8C5AF8,"Beijing Xiaomi Electronics Co., Ltd.","Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District Beijing Beijing CN 10085 "
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
@@ -5436,7 +5437,6 @@ MA-L,E8447E,Bitdefender SRL,24 Delea Veche St. Bucharest Romania RO 024102
 MA-L,84C3E8,Vaillant GmbH,Berghauser Straße 40 Remscheid NRW DE D-42859 
 MA-L,B88EC6,Stateless Networks,388 Market Street San Francisco CA US 94111 
 MA-L,146B72,"Shenzhen Fortune Ship Technology Co., Ltd.","Room 701-716, 7th Floor, Nanshan District, Shenzhen Guangdong CN 518000 "
-MA-L,40A5EF,"Shenzhen Four Seas Global Link Network Technology Co., Ltd.","Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base, Tenglong Road, Longhua District, Shenzhen, China. shenzhen guangdong CN 518000 "
 MA-L,7C7A53,Phytrex Technology Corp.,"8F-16, No.81, Shuili Rd., Hsinchu Taiwan TW 30059 "
 MA-L,4886E8,Microsoft Corporation,1 Microsoft Way Redmond Washington FI 98052 
 MA-L,88E161,"Art Beijing Science and Technology Development Co., Ltd.","Room 210,Building 1#, No. 27 Qinghe Longgang Rd., Haidian District, Beijing,100192,China Beijing Beijing CN 100192 "
@@ -10293,6 +10293,10 @@ MA-L,905851,Technicolor CH USA Inc.,5030 Sugarloaf Parkway Bldg 6 Lawrenceville 
 MA-L,D45800,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,C464B7,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,4C4D66,"Nanjing Jiahao Technology Co., Ltd.","Moling Industrial Park, Development Zone, Jiangning, Nanjing Nanjing Jiangsu CN 211111 "
+MA-L,48E6C0,"SIMCom Wireless Solutions Co.,Ltd.","Building B,SIM Technology Building,No.633,Jinzhong Road Shanghai  CN 200335 "
+MA-L,38F85E,"HUMAX Co., Ltd.","HUMAX Village, 216, Hwangsaeul-ro, Bu Seongnam-si Gyeonggi-do KR 463-875 "
+MA-L,C02E25,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,40A5EF,"Shenzhen Four Seas Global Link Network Technology Co., Ltd.","Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base Tenglong Road, Longhua District,  Shenzhen Guangdong CN 518000 "
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15337,8 +15341,9 @@ MA-L,F81308,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,A492CB,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,D4E33F,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,380025,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
-MA-L,88E034,Shinwa industries(China) ltd.,"No.26,Huifeng West 2 Road,Zhongkai High-tech Zone Huizhou Guangdong CN 516006 "
 MA-L,A4817A,CIG SHANGHAI CO LTD,"5th Floor, Building 8 No 2388 Chenhang Road SHANGHAI  CN 201114 "
+MA-L,88E034,Shinwa industries(China) ltd.,"No.26,Huifeng West 2 Road,Zhongkai High-tech Zone Huizhou Guangdong CN 516006 "
+MA-L,48D845,"Shenzhen Mainuoke Electronics Co., Ltd","9th Floor, Hengtemei Building, Buji Shenzhen Guangdong CN 518000 "
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -20472,6 +20477,7 @@ MA-L,702526,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,286C07,"XIAOMI Electronics,CO.,LTD","Xiaomi Building, No.68 Qinghe Middle Street Haidian District Beijing CN 100085 "
 MA-L,2C557C,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,D88DC8,"Atil Technology Co., LTD","Rm. 3, 21F., No.93, Sec. 2, Roosevelt Rd., Da’an Dist., Taipei City  TW 106 "
+MA-L,383C9C,"Fujian Newland Payment Technology Co.,Ltd.","No. B602,Building #1,Haixia Jingmao Plaza,Fuzhou Bonded Area Fuzhou Fujian CN 350015 "
 MA-L,0014FB,Technical Solutions Inc.,101-7188 Progress Way Delta BC CA V4G 1M6 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
@@ -25593,3 +25599,7 @@ MA-L,D0ABD5,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,C4F0EC,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,00CB51,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,E05A9F,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,04D7A5,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,C010B1,HMD Global Oy,Karaportti 2 Espoo  FI 02610 
+MA-L,90895F,"WEIFANG GOERTEK ELECTRONICS CO.,LTD","Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China Weifang Shandong CN 261205 "
+MA-L,5447D3,TSAT AS,Martin Linges v 25 Fornebu  NO 1364 
