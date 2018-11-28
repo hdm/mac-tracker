@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5391000/36",[{"d":"2018-11-28","t":"add","s":"ieee-oui36.csv","a":"No.2,Qingdao Road,Yushan High-tech Industrial Development Zone Changshu Jiangshu CN 215500","c":"CN","o":"Changshu Ruite Electric Co.,Ltd."}]);
