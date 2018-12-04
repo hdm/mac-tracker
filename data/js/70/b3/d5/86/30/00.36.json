@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5863000/36",[{"d":"2018-12-04","t":"add","s":"ieee-oui36.csv","a":"A511, Mingyou Purchasing Center, Baoyuan Road, Xixiang Street Shenzhen Guangdong CN 518102","c":"CN","o":"Shenzhen Wesion Technology Co., Ltd"}]);
