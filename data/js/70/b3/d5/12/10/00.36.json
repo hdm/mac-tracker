@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5121000/36",[{"d":"2018-12-08","t":"add","s":"ieee-oui36.csv","a":"13th Floor,  Kenuo Building, No. 7 road, TongGuan Street,  GuangMing Shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen Luxurite Smart Home Ltd"}]);
