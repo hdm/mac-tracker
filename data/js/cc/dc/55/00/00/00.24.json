@@ -1,0 +1,1 @@
+deepmacDetailCallback("ccdc55000000/24",[{"d":"2018-12-11","t":"add","s":"ieee-oui.csv","a":"Room 601-2, 6/F, IC Development Centre, No. 6 Science Park West Avenue, Hong Kong Science Park, Shatin, N.T. Hong Kong  HK NA","c":"NA","o":"Dragonchip Limited"}]);
