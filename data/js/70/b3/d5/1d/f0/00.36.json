@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d51df000/36",[{"d":"2018-12-18","t":"add","s":"ieee-oui36.csv","a":"78-2 Buncheon-ri, Bongdam-eup Hwaseong-city Gyungki-do KR 445-894","c":"KR","o":"ENTEC Electric & Electronic Co., LTD."}]);

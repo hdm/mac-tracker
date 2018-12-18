@@ -1,0 +1,1 @@
+deepmacDetailCallback("fcd2b6b00000/28",[{"d":"2018-12-18","t":"add","s":"ieee-mam.csv","a":"Room 320, C Tower, Jingji Building, HuaFeng Headquarter, Xixiang, Baoan SHENZHEN Guangdong CN 518000","c":"CN","o":"T CHIP DIGITAL TECHNOLOGY CO.LTD"}]);
