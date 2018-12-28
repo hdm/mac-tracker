@@ -66,7 +66,7 @@ end
 def prefix_to_path(str)
 	prefix, mask = str.split("/", 2)
 	segments = prefix.scan(/[a-f0-9]{2}/)
-	segments.join("/") + ".#{mask}.json"
+	segments.join("/") + ".#{mask}.js"
 end
 
 def mash_encoding(str)
