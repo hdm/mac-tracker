@@ -1,0 +1,1 @@
+deepmacDetailCallback("000eb1000000/24",[{"d":"2003-12-21","t":"add","a":"Anyang Megavally 715-3\nKwanyang-Dong, Dongan-Gu,\nAnyang City Gueonggi-Do 431-160\n","c":"KOREA, REPUBLIC OF","o":"Newcotech,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Anyang Megavally 715-3 Anyang City Gueonggi-Do KR 431-160","c":"KR","o":"Newcotech,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("080a4e000000/24",[{"d":"2015-07-07","t":"add","a":"75190 Gerald Ford Dr.\nPalm Desert CA 92211\n\n","c":"UNITED STATES","o":"Planet BingoÂ® â 3rd Rock GamingÂ®"},{"d":"2015-08-27","t":"change","a":"75190 Gerald Ford Dr. Palm Desert CA US 92211 ","c":"US","o":"Planet Bingo® — 3rd Rock Gaming®"}]);

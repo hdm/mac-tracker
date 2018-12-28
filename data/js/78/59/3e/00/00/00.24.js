@@ -1,0 +1,1 @@
+deepmacDetailCallback("78593e000000/24",[{"d":"2010-11-06","t":"add","a":"Ravensburger Str. 128-134\nBerg Baden Wurttemberg 88276\n\n","c":"GERMANY","o":"RAFI GmbH & Co.KG"},{"d":"2015-08-27","t":"change","a":"Ravensburger Str. 128-134 Berg Baden Wurttemberg DE 88276","c":"DE","o":"RAFI GmbH & Co.KG"}]);

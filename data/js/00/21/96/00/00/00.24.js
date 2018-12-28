@@ -1,0 +1,1 @@
+deepmacDetailCallback("002196000000/24",[{"d":"2008-06-18","t":"add","a":"Viale dell'Industria, 1\nQuinto DiTreviso 31055\n\n","c":"ITALY","o":"Telsey  S.p.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Viale dell'Industria, 1 Quinto DiTreviso IT 31055","c":"IT","o":"Telsey  S.p.A."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("f86601000000/24",[{"d":"2014-01-29","t":"add","a":"Rm204Cã204D, Building A7,\nBiobay, No.218, Xinghu St, SIP\nSuZhou Jiangsu 215123\n","c":"CHINA","o":"Suzhou Chi-tek information technology Co., Ltd"},{"d":"2015-08-27","t":"change","a":"Rm204C、204D, Building A7,  SuZhou Jiangsu CN 215123","c":"CN","o":"Suzhou Chi-tek information technology Co., Ltd"}]);

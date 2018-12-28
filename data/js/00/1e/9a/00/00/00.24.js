@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e9a000000/24",[{"d":"2007-11-02","t":"add","a":"Via Crusch 8\nBonaduz Graubuenden 7402\n\n","c":"SWITZERLAND","o":"HAMILTON Bonaduz AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Crusch 8 Bonaduz Graubuenden CH 7402","c":"CH","o":"HAMILTON Bonaduz AG"}]);

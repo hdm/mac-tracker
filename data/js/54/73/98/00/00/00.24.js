@@ -1,0 +1,1 @@
+deepmacDetailCallback("547398000000/24",[{"d":"2012-05-22","t":"add","a":"1860-38, Simoakasaka\nKawagoe Saitama 3501155\n\n","c":"JAPAN","o":"Toyo Electronics Corporation"},{"d":"2015-08-27","t":"change","a":"1860-38, Simoakasaka Kawagoe Saitama JP 3501155","c":"JP","o":"Toyo Electronics Corporation"}]);

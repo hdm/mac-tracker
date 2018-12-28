@@ -1,0 +1,1 @@
+deepmacDetailCallback("bc024a000000/24",[{"d":"2016-11-23","t":"add","a":"Etelaesplanadi 2\nHelsinki    00130\n\n","c":"FI","o":"HMD Global Oy"},{"d":"2017-04-06","t":"change","a":"Karaportti 2 Espoo  FI 02610","c":"FI","o":"HMD Global Oy"},{"d":"2018-12-14","t":"change","s":"ieee-oui.csv","a":"Bertel Jungin aukio 9 Espoo  FI 02600","c":"FI","o":"HMD Global Oy"}]);

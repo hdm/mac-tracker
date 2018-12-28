@@ -1,0 +1,1 @@
+deepmacDetailCallback("000949000000/24",[{"d":"2002-03-29","t":"add","a":"735 W. Clinton Street\nIthaca NY 14850\n\n","c":"UNITED STATES","o":"Glyph Technologies Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"735 W. Clinton Street Ithaca NY US 14850","c":"US","o":"Glyph Technologies Inc."}]);

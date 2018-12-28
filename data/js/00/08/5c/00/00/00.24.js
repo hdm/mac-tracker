@@ -1,0 +1,1 @@
+deepmacDetailCallback("00085c000000/24",[{"d":"2001-12-14","t":"add","a":"23F, China Merchants Tower,\nNo. 161, East LujiaZui Road\nPudong New Area, Shanghai\n","c":"CHINA","o":"Shanghai Dare Technologies Co. Ltd."},{"d":"2015-08-27","t":"change","a":"23F, China Merchants Tower, Pudong New Area, Shanghai CN","c":"CN","o":"Shanghai Dare Technologies Co. Ltd."}]);

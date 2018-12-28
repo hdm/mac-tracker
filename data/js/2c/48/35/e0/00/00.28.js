@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c4835e00000/28",[{"a":"Room 606, Floor 6, Building 5, Eastern Yard 10, Xibeiwang East Road Beijing  CN 100092","o":"IROOTECH TECHNOLOGY CO.,LTD","d":"2018-03-04","t":"add","s":"ieee","c":"CN"}]);

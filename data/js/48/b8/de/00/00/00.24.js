@@ -1,0 +1,1 @@
+deepmacDetailCallback("48b8de000000/24",[{"d":"2012-09-28","t":"add","a":"10F-1, NO. 122, QIAOHE RD.,\nZHONGHE DIST.,\nNEW TAIPEI CITY,  235\n","c":"TAIWAN, PROVINCE OF CHINA","o":"HOMEWINS TECHNOLOGY CO.,LTD."},{"d":"2015-08-27","t":"change","a":"10F-1, NO. 122, QIAOHE RD., NEW TAIPEI CITY,  TW 235","c":"TW","o":"HOMEWINS TECHNOLOGY CO.,LTD."}]);

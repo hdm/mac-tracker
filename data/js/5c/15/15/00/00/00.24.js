@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c1515000000/24",[{"d":"2014-05-10","t":"add","a":"Wisma SMR.JL.Yos Sudarso Kav 89,Lt8.\nSuite 104\nJakarta Jakarta Utara ï¼ï¼ï¼ï¼ï¼\n","c":"INDONESIA","o":"ADVAN"},{"d":"2015-08-27","t":"change","a":"Wisma SMR.JL.Yos Sudarso Kav 89,Lt8.Suite 804,Jakarta Utara 10730 Jakarta Jakarta Utara ID １４３５０","c":"ID","o":"ADVAN"}]);

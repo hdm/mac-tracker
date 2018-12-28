@@ -1,0 +1,1 @@
+deepmacDetailCallback("0005f0000000/24",[{"d":"2001-06-04","t":"add","a":"P.O. Box 45022\nJerusalem\n\n","c":"91450 ISRAEL","o":"SATEC"},{"d":"2001-12-14","t":"change","a":"P.O. Box 45022\nJerusalem\n91450\n","c":"ISRAEL","o":"SATEC"},{"d":"2015-08-27","t":"change","a":"P.O. Box 45022  91450 IL","c":"IL","o":"SATEC"}]);

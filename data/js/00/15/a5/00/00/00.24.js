@@ -1,0 +1,1 @@
+deepmacDetailCallback("0015a5000000/24",[{"d":"2005-08-26","t":"add","a":"4th Fl. Susung B/D, 893-4\nJijok-dong\nYuseong-gu Daejeon 305-330\n","c":"KOREA, REPUBLIC OF","o":"DCI Co., Ltd."},{"d":"2015-08-27","t":"change","a":"4th Fl. Susung B/D, 893-4 Daejeon  KR 305-330","c":"KR","o":"DCI Co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00147d000000/24",[{"d":"2005-05-07","t":"add","a":"31-6, The Bund Center\n222 Yan An E. Rd\nShanghai SH 200002\n","c":"CHINA","o":"Aeon Digital International"},{"d":"2015-08-27","t":"change","a":"31-6, The Bund Center Shanghai SH CN 200002","c":"CN","o":"Aeon Digital International"}]);

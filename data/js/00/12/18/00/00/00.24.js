@@ -1,0 +1,1 @@
+deepmacDetailCallback("001218000000/24",[{"d":"2004-08-12","t":"add","a":"Ariake Frontier Building A\n3-1-25 Ariake\nKohtoh-ku Tokyo 135-0063\n","c":"JAPAN","o":"ARUZE Corporation"},{"d":"2015-08-27","t":"change","a":"Ariake Frontier Building A Kohtoh-ku Tokyo JP 135-0063","c":"JP","o":"ARUZE Corporation"}]);

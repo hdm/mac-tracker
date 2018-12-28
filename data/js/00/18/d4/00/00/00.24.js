@@ -1,0 +1,1 @@
+deepmacDetailCallback("0018d4000000/24",[{"d":"2006-07-01","t":"add","a":"15201 SW Greenbrier Parkway\nBeaverton Oregon 97006\n\n","c":"UNITED STATES","o":"Unified Display Interface SIG"},{"d":"2015-08-27","t":"change","a":"15201 SW Greenbrier Road Beaverton Oregon US 97006","c":"US","o":"Unified Display Interface SIG"}]);

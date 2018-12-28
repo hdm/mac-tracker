@@ -1,0 +1,1 @@
+deepmacDetailCallback("000ff5000000/24",[{"d":"2004-04-03","t":"add","a":"301 Ansan S/W center, 643-7 wongok-dong\nAnsan city Gyeonggi-do 425-130\n\n","c":"KOREA, REPUBLIC OF","o":"GN&S company"},{"d":"2015-08-27","t":"change","a":"301 Ansan S/W center, 643-7 wongok-dong Ansan city Gyeonggi-do KR 425-130","c":"KR","o":"GN&S company"}]);

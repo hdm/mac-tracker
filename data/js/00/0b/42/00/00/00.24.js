@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b42000000/24",[{"d":"2002-10-14","t":"add","a":"513-11, Sangdaewon-Dong, Jungwon-Ku\nSungnam-City Kyunggi-Do 462-120\n\n","c":"KOREA, REPUBLIC OF","o":"commax Co., Ltd."},{"d":"2015-08-27","t":"change","a":"513-11, Sangdaewon-Dong, Jungwon-Ku Sungnam-City Kyunggi-Do KR 462-120","c":"KR","o":"commax Co., Ltd."}]);

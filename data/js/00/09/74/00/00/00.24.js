@@ -1,0 +1,1 @@
+deepmacDetailCallback("000974000000/24",[{"d":"2002-03-29","t":"add","a":"5F., Institute of Technology\nHanyang University, 17 Haengdang-Dong\nSeoul  133-791\n","c":"KOREA, REPUBLIC OF","o":"Innopia Technologies, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5F., Institute of Technology Seoul  KR 133-791","c":"KR","o":"Innopia Technologies, Inc."}]);

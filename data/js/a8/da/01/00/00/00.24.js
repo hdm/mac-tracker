@@ -1,0 +1,1 @@
+deepmacDetailCallback("a8da01000000/24",[{"d":"2017-11-18","t":"add","a":"A Area of The Second Flood and D Area of The First Floor,Factory Building A,Youxinda Industrial Park,Gengyu Road,Tianliao Community,Gongming Street Office,Guangming New District,Shenzhen City,Guangdong,P.R.China Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen NUOLIJIA Digital Technology Co.,Ltd"}]);

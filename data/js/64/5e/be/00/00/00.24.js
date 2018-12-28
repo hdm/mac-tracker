@@ -1,0 +1,1 @@
+deepmacDetailCallback("645ebe000000/24",[{"d":"2011-11-30","t":"add","a":"Midtown Tower\n9-7-1 Akasaka\nMinato-ku Tokyo 107-6211\n","c":"JAPAN","o":"Yahoo! JAPAN"},{"d":"2015-08-27","t":"change","a":"Midtown Tower Minato-ku Tokyo JP 107-6211","c":"JP","o":"Yahoo! JAPAN"}]);

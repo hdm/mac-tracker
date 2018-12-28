@@ -1,0 +1,1 @@
+deepmacDetailCallback("c035bd000000/24",[{"d":"2011-12-13","t":"add","a":"Automatikvej 1, 3rd floor\nSOEBORG  2860\n\n","c":"DENMARK","o":"Velocytech Aps"},{"d":"2015-08-27","t":"change","a":"Automatikvej 1, 3rd floor SOEBORG  DK 2860","c":"DK","o":"Velocytech Aps"}]);

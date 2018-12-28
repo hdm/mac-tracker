@@ -1,0 +1,1 @@
+deepmacDetailCallback("001522000000/24",[{"d":"2005-07-08","t":"add","a":"Via Magenta 9\nMassa MS 54100\n\n","c":"ITALY","o":"Dea Security"},{"d":"2013-02-14","t":"change","a":"Galleria Leonardo da Vinci, 20\nMassa MS 54100\n\n","c":"ITALY","o":"Dea Security"},{"d":"2015-08-27","t":"change","a":"Via Togliatti Santo Stefano Magra SP IT 19037","c":"IT","o":"Dea Security"}]);

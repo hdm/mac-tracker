@@ -1,0 +1,1 @@
+deepmacDetailCallback("000923000000/24",[{"d":"2002-01-30","t":"add","a":"Building M6,National Hi-tech & Indus\nChangsha Hunan Province 410013\n\n","c":"CHINA","o":"Heaman System Co., Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Building M6,National Hi-tech & Indus Changsha Hunan Province US 410013","c":"US","o":"Heaman System Co., Ltd"}]);

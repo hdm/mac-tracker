@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c19de000000/24",[{"d":"2010-11-30","t":"add","a":"Hundsschleestrasse 23\nReutlingen BW 72766\n\n","c":"GERMANY","o":"eyevis GmbH"},{"d":"2015-08-27","t":"change","a":"Hundsschleestrasse 23 Reutlingen BW DE 72766","c":"DE","o":"eyevis GmbH"}]);

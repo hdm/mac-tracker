@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f5a000000/24",[{"d":"2004-02-01","t":"add","a":"2855 Bowers Ave\nSanta Clara CA 95051\n\n","c":"UNITED STATES","o":"Peribit Networks","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2855 Bowers Ave Santa Clara CA US 95051","c":"US","o":"Peribit Networks"}]);

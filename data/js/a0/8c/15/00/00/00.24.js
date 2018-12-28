@@ -1,0 +1,1 @@
+deepmacDetailCallback("a08c15000000/24",[{"d":"2012-07-24","t":"add","a":"Steinstrasse 23\nHamburg 20095\n\n","c":"GERMANY","o":"Gerhard D. Wempe KG"},{"d":"2015-08-27","t":"change","a":"Steinstrasse 23  Hamburg DE 20095","c":"DE","o":"Gerhard D. Wempe KG"}]);

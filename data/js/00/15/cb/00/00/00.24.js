@@ -1,0 +1,1 @@
+deepmacDetailCallback("0015cb000000/24",[{"d":"2005-09-09","t":"add","a":"P.O. Box 343\nSoltam Industrial Zone\nYokneam  20164\n","c":"ISRAEL","o":"Surf Communication Solutions Ltd."},{"d":"2015-08-27","t":"change","a":"P.O. Box 343 Yokneam  IL 20164","c":"IL","o":"Surf Communication Solutions Ltd."}]);

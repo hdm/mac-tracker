@@ -1,0 +1,1 @@
+deepmacDetailCallback("002665000000/24",[{"d":"2009-05-31","t":"add","a":"PO Box 67707\nAlbuquerque NM 87193\n\n","c":"UNITED STATES","o":"ProtectedLogic Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"PO Box 67707 Albuquerque NM US 87193","c":"US","o":"ProtectedLogic Corporation"}]);

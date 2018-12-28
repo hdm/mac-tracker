@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e1b000000/24",[{"d":"2007-09-25","t":"add","a":"4,5,6th Fl., TaeChang B/D, 451-1\nSungNae-Dong, GangDong-Ku\nSeoul  134-030\n","c":"KOREA, REPUBLIC OF","o":"Digital Stream Technology, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4,5,6th Fl., TaeChang B/D, 451-1 Seoul  KR 134-030","c":"KR","o":"Digital Stream Technology, Inc."}]);

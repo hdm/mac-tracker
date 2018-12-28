@@ -1,0 +1,1 @@
+deepmacDetailCallback("bcbc46000000/24",[{"d":"2014-08-15","t":"add","a":"Marie-Curie-Str. 14\nKaiserslautern Rheinlandpfalz 67661\n\n","c":"GERMANY","o":"SKS Welding Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Marie-Curie-Str. 14 Kaiserslautern Rheinlandpfalz DE 67661","c":"DE","o":"SKS Welding Systems GmbH"}]);

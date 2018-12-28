@@ -1,0 +1,1 @@
+deepmacDetailCallback("dc6f00000000/24",[{"d":"2013-05-09","t":"add","a":"7677 Oakport Street, 12th floor\nOakland California 94621\n\n","c":"UNITED STATES","o":"Livescribe, Inc."},{"d":"2015-08-27","t":"change","a":"7677 Oakport Street Oakland California US 94621","c":"US","o":"Livescribe, Inc."}]);

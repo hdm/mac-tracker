@@ -1,0 +1,1 @@
+deepmacDetailCallback("b4cef6000000/24",[{"d":"2014-05-02","t":"add","a":"No. 23, Xinghua Rd., Taoyuan City\nTaoyuan County Taiwan 330\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"HTC Corporation"},{"d":"2015-08-27","t":"change","a":"No. 23, Xinghua Rd., Taoyuan City Taoyuan County Taiwan TW 330","c":"TW","o":"HTC Corporation"}]);

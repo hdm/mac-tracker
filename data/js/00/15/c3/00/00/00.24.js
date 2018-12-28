@@ -1,0 +1,1 @@
+deepmacDetailCallback("0015c3000000/24",[{"d":"2005-09-09","t":"add","a":"Ruetistrasse 13\nSchlieren ZH 8952\n\n","c":"SWITZERLAND","o":"Ruf Telematik AG"},{"d":"2015-08-27","t":"change","a":"Ruetistrasse 13 Schlieren ZH CH 8952","c":"CH","o":"Ruf Telematik AG"}]);

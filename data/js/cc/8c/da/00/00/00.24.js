@@ -1,0 +1,1 @@
+deepmacDetailCallback("cc8cda000000/24",[{"d":"2016-08-23","t":"add","a":"5K, Block B,Yueshang Center Cultural Square Jianshe East Rd Longhua New District Shenzhen  CN 518109","c":"CN","o":"Shenzhen Wei Da Intelligent Technology Go.,Ltd"}]);

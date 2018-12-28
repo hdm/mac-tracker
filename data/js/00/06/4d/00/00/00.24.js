@@ -1,0 +1,1 @@
+deepmacDetailCallback("00064d000000/24",[{"d":"2001-06-04","t":"add","a":"3200 Sencore Dr.\nSioux Falls, SD 57107\n\n","c":"UNITED STATES","o":"Sencore"},{"d":"2001-10-24","t":"change","a":"3200 Sencore Dr.\nSioux Falls SD 57107\n\n","c":"UNITED STATES","o":"Sencore"},{"d":"2015-08-27","t":"change","a":"3200 Sencore Dr. Sioux Falls SD US 57107","c":"US","o":"Sencore"}]);

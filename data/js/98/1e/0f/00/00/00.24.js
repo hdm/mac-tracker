@@ -1,0 +1,1 @@
+deepmacDetailCallback("981e0f000000/24",[{"d":"2016-04-16","t":"add","a":"Room 302,Building 17, No.658, Jinzhong Road\nshanghai    200052\n\n","c":"CN","o":"Shanghai Jeelan Technology Information Inc."},{"d":"2016-05-18","t":"change","a":"Room 302,Building 17, No.658, Jinzhong Road shanghai  CN 200052","c":"CN","o":"Jeelan (Shanghai Jeelan Technology Information Inc"}]);

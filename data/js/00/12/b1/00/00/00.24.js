@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012b1000000/24",[{"d":"2004-10-26","t":"add","a":"2-8-21,Akabane-minami\nKita-ku Tokyo 115-0044\n\n","c":"JAPAN","o":"Dai Nippon Printing Co., Ltd"},{"d":"2015-08-27","t":"change","a":"2-8-21,Akabane-minami Kita-ku Tokyo JP 115-0044","c":"JP","o":"Dai Nippon Printing Co., Ltd"}]);

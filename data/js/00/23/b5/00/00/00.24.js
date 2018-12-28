@@ -1,0 +1,1 @@
+deepmacDetailCallback("0023b5000000/24",[{"d":"2008-10-08","t":"add","a":"OSTIM KOCASINAN SANAYI SITESI\n13. SOKAK NO:37-39 Y. MAHALLE\nANKARA  06370\n","c":"TURKEY","o":"ORTANA LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"OSTIM KOCASINAN SANAYI SITESI ANKARA  TR 06370","c":"TR","o":"ORTANA LTD"}]);

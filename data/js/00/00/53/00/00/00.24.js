@@ -1,0 +1,1 @@
+deepmacDetailCallback("000053000000/24",[{"d":"2000-09-08","t":"add","a":"2211 MICHIGAN AVENUE\nSANTA MONICA CA 90404\n\n","c":"UNITED STATES","o":"COMPUCORP"},{"d":"2015-08-27","t":"change","a":"2211 MICHIGAN AVENUE SANTA MONICA CA US 90404","c":"US","o":"COMPUCORP"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0868ea000000/24",[{"d":"2012-06-29","t":"add","a":"1-34-1 Shinmeidai\nHamura-shi Tokyo 205-0023\n\n","c":"JAPAN","o":"EITO ELECTRONICS CO., LTD."},{"d":"2015-08-27","t":"change","a":"1-34-1 Shinmeidai Hamura-shi Tokyo JP 205-0023","c":"JP","o":"EITO ELECTRONICS CO., LTD."}]);

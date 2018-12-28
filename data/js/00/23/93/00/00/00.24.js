@@ -1,0 +1,1 @@
+deepmacDetailCallback("002393000000/24",[{"d":"2008-10-08","t":"add","a":"9-3, Holimdong, Dalseogu\nDaegu  704-240\n\n","c":"KOREA, REPUBLIC OF","o":"AJINEXTEK","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9-3, Holimdong, Dalseogu Daegu  KR 704-240","c":"KR","o":"AJINEXTEK"}]);

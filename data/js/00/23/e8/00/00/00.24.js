@@ -1,0 +1,1 @@
+deepmacDetailCallback("0023e8000000/24",[{"d":"2008-10-09","t":"add","a":"#919, Doosan Venturedigm, 126-1\nPyungchon-Dong, Dongan-Ku\nAnyang-Si Kyungki-Do 431-070\n","c":"KOREA, REPUBLIC OF","o":"Demco Corp.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#919, Doosan Venturedigm, 126-1 Anyang-Si Kyungki-Do US 431-070","c":"US","o":"Demco Corp."}]);

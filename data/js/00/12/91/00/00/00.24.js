@@ -1,0 +1,1 @@
+deepmacDetailCallback("001291000000/24",[{"d":"2004-10-10","t":"add","a":"Carl Zeiss Str. 1\nEttlingen BW 76275\n\n","c":"GERMANY","o":"KWS Computersysteme GmbH"},{"d":"2015-08-27","t":"change","a":"Carl Zeiss Str. 1 Ettlingen BW DE 76275","c":"DE","o":"KWS Computersysteme GmbH"}]);

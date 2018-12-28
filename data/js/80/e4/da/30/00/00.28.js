@@ -1,0 +1,1 @@
+deepmacDetailCallback("80e4da300000/28",[{"a":"Beijing City Haidian District 23 Liangziyinzuo 806 room beijing beijing CN 100191","o":"Beijing Gaokezhongtian Technology Co Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

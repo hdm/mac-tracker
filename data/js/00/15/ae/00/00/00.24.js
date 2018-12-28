@@ -1,0 +1,1 @@
+deepmacDetailCallback("0015ae000000/24",[{"d":"2005-08-27","t":"add","a":"woar rong-myn yougate-ri 101-2\npaju-city gyeong gi 413-813\n\n","c":"KOREA, REPUBLIC OF","o":"kyung il"},{"d":"2015-08-27","t":"change","a":"woar rong-myn yougate-ri 101-2 paju-city gyeong gi KR 413-813","c":"KR","o":"kyung il"}]);

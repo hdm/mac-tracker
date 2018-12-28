@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d85516a000/36",[{"a":"2Q , NanYouTianAn industrial park Tower4 ,Nanshan District Shenzhen Guangdong CN 518054","o":"Aplex Technology Inc.","d":"2013-09-08","t":"add","s":"ieee","c":"CN"}]);

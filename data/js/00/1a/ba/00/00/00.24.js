@@ -1,0 +1,1 @@
+deepmacDetailCallback("001aba000000/24",[{"d":"2006-12-12","t":"add","a":"Room 102, No. 101, Lane 91\nE-Shan Road, Pudong District\nShanghai  200127\n","c":"CHINA","o":"Caton Overseas Limited"},{"d":"2015-08-27","t":"change","a":"Room 102, No. 101, Lane 91 Shanghai  CN 200127","c":"CN","o":"Caton Overseas Limited"}]);

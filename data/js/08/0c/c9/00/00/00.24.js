@@ -1,0 +1,1 @@
+deepmacDetailCallback("080cc9000000/24",[{"d":"2012-03-15","t":"add","a":"9918 Via Pasar\nSan Diego CA 92126\n\n","c":"UNITED STATES","o":"Mission Technology Group, dba Magma"},{"d":"2015-08-27","t":"change","a":"9918 Via Pasar San Diego CA US 92126","c":"US","o":"Mission Technology Group, dba Magma"}]);

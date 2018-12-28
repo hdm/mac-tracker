@@ -1,0 +1,1 @@
+deepmacDetailCallback("409558000000/24",[{"d":"2009-11-07","t":"add","a":"No.18A, Xingshikou Road,\nHaidian District\nBeijing  100195\n","c":"CHINA","o":"Aisino Corporation"},{"d":"2015-08-27","t":"change","a":"No.18A, Xingshikou Road, Beijing  CN 100195","c":"CN","o":"Aisino Corporation"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0018e4000000/24",[{"d":"2006-07-01","t":"add","a":"3/FL.Industry zone,Fuxinlin,Hangcheng,Xixiang,Baoan\nShenzhen Guangdong 518126\n\n","c":"CHINA","o":"YIGUANG"},{"d":"2015-08-27","t":"change","a":"3/FL.Industry zone,Fuxinlin,Hangcheng,Xixiang,Baoan Shenzhen Guangdong CN 518126","c":"CN","o":"YIGUANG"}]);

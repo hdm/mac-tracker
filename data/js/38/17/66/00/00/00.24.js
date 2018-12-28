@@ -1,0 +1,1 @@
+deepmacDetailCallback("381766000000/24",[{"d":"2013-02-21","t":"add","a":"Noviy Arbat street, 21\nMoscow 119019\n\n","c":"RUSSIAN FEDERATION","o":"PROMZAKAZ LTD."},{"d":"2015-08-27","t":"change","a":"Noviy Arbat street, 21  Moscow RU 119019","c":"RU","o":"PROMZAKAZ LTD."}]);

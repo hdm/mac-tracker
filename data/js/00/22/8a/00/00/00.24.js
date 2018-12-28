@@ -1,0 +1,1 @@
+deepmacDetailCallback("00228a000000/24",[{"d":"2008-06-21","t":"add","a":"Karl-Ulrich-Strasse 1\nGross-Umstadt  D-64823\n\n","c":"GERMANY","o":"Teratronik elektronische systeme gmbh","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Karl-Ulrich-Strasse 1 Gross-Umstadt  DE D-64823","c":"DE","o":"Teratronik elektronische systeme gmbh"}]);

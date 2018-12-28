@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c8f000000/24",[{"d":"2003-03-02","t":"add","a":"Viale Bardanzellu,8\nRoma  00155\n\n","c":"ITALY","o":"Nergal s.r.l.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Viale Bardanzellu,8 Roma  IT 00155","c":"IT","o":"Nergal s.r.l."}]);

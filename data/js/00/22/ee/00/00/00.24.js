@@ -1,0 +1,1 @@
+deepmacDetailCallback("0022ee000000/24",[{"d":"2008-07-30","t":"add","a":"4500 Beedie Street\nBurnaby BC V5J 5L2\n\n","c":"CANADA","o":"Algo Communication Products Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4500 Beedie Street Burnaby BC CA V5J 5L2","c":"CA","o":"Algo Communication Products Ltd"}]);

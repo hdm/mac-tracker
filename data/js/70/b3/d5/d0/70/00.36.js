@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5d07000/36",[{"a":"#1002 Pankyo-Innovalley, 622 Sampyong-dong, Bundang-gu Seongnam-si, Kyeonggi-do  KR 13486","o":"Waversa Systems","d":"2015-08-30","t":"add","s":"ieee","c":"KR"}]);

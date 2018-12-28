@@ -1,0 +1,1 @@
+deepmacDetailCallback("3428f0000000/24",[{"d":"2014-07-03","t":"add","a":"4210, Office Tower, Convention Plaza\n1 Harbour Road, Wanchai,\nHong Kong 00000\n","c":"HONG KONG","o":"ATN International Limited"},{"d":"2015-08-27","t":"change","a":"4210, Office Tower, Convention Plaza Hong Kong Hong Kong HK 00000","c":"HK","o":"ATN International Limited"}]);

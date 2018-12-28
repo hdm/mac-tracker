@@ -1,0 +1,1 @@
+deepmacDetailCallback("f0182b000000/24",[{"d":"2015-04-01","t":"add","a":"128, Yeoui-daero, Yeongdeungpo-gu,\nSeoul Seoul 150-721\n\n","c":"KOREA, REPUBLIC OF","o":"LG Chem"},{"d":"2015-08-27","t":"change","a":"128, Yeoui-daero, Yeongdeungpo-gu, Seoul Seoul KR 150-721","c":"KR","o":"LG Chem"}]);

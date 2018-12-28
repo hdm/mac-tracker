@@ -1,0 +1,1 @@
+deepmacDetailCallback("0030de000000/24",[{"d":"2000-09-08","t":"add","a":"Hansastrasse 27\n32423 Minden\n\n","c":"GERMANY","o":"WAGO Kontakttechnik GmbH"},{"d":"2015-08-27","t":"change","a":"Hansastrasse 27 32423 Minden  DE","c":"DE","o":"WAGO Kontakttechnik GmbH"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("1cadd1000000/24",[{"d":"2015-03-03","t":"add","a":"74-12, Saemaeul-ro.\nGumi-si Gyeongsangbuk-do 730-930\n\n","c":"KOREA, REPUBLIC OF","o":"Bosung Electronics Co., Ltd."},{"d":"2015-08-27","t":"change","a":"74-12, Saemaeul-ro. Gumi-si Gyeongsangbuk-do KR 730-930","c":"KR","o":"Bosung Electronics Co., Ltd."}]);

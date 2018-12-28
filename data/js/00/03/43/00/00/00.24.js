@@ -1,0 +1,1 @@
+deepmacDetailCallback("000343000000/24",[{"d":"2000-09-08","t":"add","a":"Olof Palmes Alle 18\nDK-8200 Aarhusn\n\n","c":"DENMARK","o":"Martin Professional A/S"},{"d":"2015-08-27","t":"change","a":"Olof Palmes Alle 18   DK","c":"DK","o":"Martin Professional A/S"}]);

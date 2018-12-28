@@ -1,0 +1,1 @@
+deepmacDetailCallback("001af3000000/24",[{"d":"2007-01-06","t":"add","a":"146-1, sangdaewon-dong, joongwon-gu\nsungnam-shi Gyunggi-do 462-807\n\n","c":"KOREA, REPUBLIC OF","o":"Samyoung Electronics"},{"d":"2015-08-27","t":"change","a":"146-1, sangdaewon-dong, joongwon-gu sungnam-shi Gyunggi-do KR 462-807","c":"KR","o":"Samyoung Electronics"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5ca3000/36",[{"a":"Embassy Icon, 3rd Floor, No. 3, Infantry Road, Bangalore Karnataka IN 560001","o":"Saankhya Labs Private Limited","d":"2018-03-04","t":"add","s":"ieee","c":"IN"}]);

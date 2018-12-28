@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a03000000/24",[{"d":"2002-06-05","t":"add","a":"AVGDA PARAL.LEL, 51\nBARCELONA  08004\n\n","c":"SPAIN","o":"ENDESA SERVICIOS, S.L."},{"d":"2015-08-27","t":"change","a":"AVGDA PARAL.LEL, 51 BARCELONA  ES 08004","c":"ES","o":"ENDESA SERVICIOS, S.L."}]);

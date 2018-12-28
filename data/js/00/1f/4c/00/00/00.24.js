@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f4c000000/24",[{"d":"2007-12-31","t":"add","a":"65 Weizman Street\nGivataim Israel 53468\n\n","c":"ISRAEL","o":"Roseman Engineering Ltd"},{"d":"2015-08-27","t":"change","a":"65 Weizman Street Givataim Israel IL 53468","c":"IL","o":"Roseman Engineering Ltd"}]);

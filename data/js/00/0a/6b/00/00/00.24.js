@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a6b000000/24",[{"d":"2002-08-03","t":"add","a":"18 Hasivim St.\nP.O.Box 450\nPetach Tikva  49105\n","c":"ISRAEL","o":"Tadiran Telecom Business Systems LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"18 Hasivim St. Petach Tikva  IL 49105","c":"IL","o":"Tadiran Telecom Business Systems LTD"}]);

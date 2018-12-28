@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8a8af000000/24",[{"d":"2010-12-24","t":"add","a":"Via Galilei 5\nCassina de' Pecchi MI 20060\n\n","c":"ITALY","o":"Logic S.p.A."},{"d":"2015-08-27","t":"change","a":"Via Galilei 5 Cassina de' Pecchi MI IT 20060","c":"IT","o":"Logic S.p.A."}]);

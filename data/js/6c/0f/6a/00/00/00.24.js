@@ -1,0 +1,1 @@
+deepmacDetailCallback("6c0f6a000000/24",[{"d":"2009-08-12","t":"add","a":"370-12 Daemyung-ri Daegot-myun\nKimpo-si Kyunggi-do 410-853\n\n","c":"KOREA, REPUBLIC OF","o":"JDC Tech Co., Ltd."},{"d":"2015-08-27","t":"change","a":"370-12 Daemyung-ri Daegot-myun Kimpo-si Kyunggi-do KR 410-853","c":"KR","o":"JDC Tech Co., Ltd."}]);

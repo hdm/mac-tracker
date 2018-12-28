@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019cc000000/24",[{"d":"2006-09-25","t":"add","a":"9/F., Core C, Cyberport 3\n100 Cyberport Rd\n\n","c":"HONG KONG","o":"RCG (HK) Ltd"},{"d":"2015-08-27","t":"change","a":"9/F., Core C, Cyberport 3   HK","c":"HK","o":"RCG (HK) Ltd"}]);

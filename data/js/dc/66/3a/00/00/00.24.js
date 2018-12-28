@@ -1,0 +1,1 @@
+deepmacDetailCallback("dc663a000000/24",[{"d":"2014-02-28","t":"add","a":"1F., No.32, Zhongcheng Rd., Tucheng Dist.,\nNew Taipei City Taiwan R.O.C. 236\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Apacer Technology Inc."},{"d":"2015-08-27","t":"change","a":"1F., No.32, Zhongcheng Rd., Tucheng Dist., New Taipei City Taiwan R.O.C. TW 236","c":"TW","o":"Apacer Technology Inc."}]);

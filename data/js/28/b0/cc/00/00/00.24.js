@@ -1,0 +1,1 @@
+deepmacDetailCallback("28b0cc000000/24",[{"d":"2011-07-19","t":"add","a":"Celovska cesta 172\nLjubljana  1000\n\n","c":"SLOVENIA","o":"Xenya d.o.o."},{"d":"2015-08-27","t":"change","a":"Celovska cesta 172 Ljubljana  SI 1000","c":"SI","o":"Xenya d.o.o."}]);

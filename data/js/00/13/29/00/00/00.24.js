@@ -1,0 +1,1 @@
+deepmacDetailCallback("001329000000/24",[{"d":"2005-01-15","t":"add","a":"suit 3202, Korea World Trade Center 159-1\nSamsung-Dong, Kangnam-Gu\nSeoul  135-729\n","c":"KOREA, REPUBLIC OF","o":"VSST Co., LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"suit 3202, Korea World Trade Center 159-1 Seoul  KR 135-729","c":"KR","o":"VSST Co., LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("94f278000000/24",[{"d":"2015-05-27","t":"add","a":"44350 S. Grimmer Blvd\nFremont CA 94538\n\n","c":"UNITED STATES","o":"Elma Electronic"},{"d":"2015-08-27","t":"change","a":"44350 S. Grimmer Blvd Fremont CA US 94538","c":"US","o":"Elma Electronic"}]);

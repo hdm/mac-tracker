@@ -1,0 +1,1 @@
+deepmacDetailCallback("001184000000/24",[{"d":"2004-06-05","t":"add","a":"Nishiogi-Kita 5-19-11\nSuginami-ku Tokyo 167-0042\n\n","c":"JAPAN","o":"Humo Laboratory,Ltd."},{"d":"2015-08-27","t":"change","a":"Nishiogi-Kita 5-19-11 Suginami-ku Tokyo JP 167-0042","c":"JP","o":"Humo Laboratory,Ltd."}]);

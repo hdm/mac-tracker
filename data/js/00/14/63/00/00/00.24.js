@@ -1,0 +1,1 @@
+deepmacDetailCallback("001463000000/24",[{"d":"2005-04-14","t":"add","a":"Hellebeemden 9\nHasselt Limburg 3500\n\n","c":"BELGIUM","o":"IDCS N.V."},{"d":"2015-08-27","t":"change","a":"Hellebeemden 9 Hasselt Limburg BE 3500","c":"BE","o":"IDCS N.V."}]);

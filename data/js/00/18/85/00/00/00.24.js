@@ -1,0 +1,1 @@
+deepmacDetailCallback("001885000000/24",[{"d":"2006-06-13","t":"add","a":"Box 378, 101 - 1001 West Broadway\nVancouver BC V6H 4E4\n\n","c":"CANADA","o":"Avigilon Corporation"},{"d":"2015-08-27","t":"change","a":"Box 378, 101 - 1001 West Broadway Vancouver BC CA V6H 4E4","c":"CA","o":"Avigilon Corporation"}]);

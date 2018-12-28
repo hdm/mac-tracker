@@ -1,0 +1,1 @@
+deepmacDetailCallback("807d1b000000/24",[{"d":"2010-04-19","t":"add","a":"4-19-12 Takao\nDazaifu-shi Fukuoka 818-0122\n\n","c":"JAPAN","o":"Neosystem Co. Ltd."},{"d":"2015-08-27","t":"change","a":"4-19-12 Takao Dazaifu-shi Fukuoka JP 818-0122","c":"JP","o":"Neosystem Co. Ltd."}]);

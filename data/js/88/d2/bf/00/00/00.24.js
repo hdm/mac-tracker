@@ -1,0 +1,1 @@
+deepmacDetailCallback("88d2bf000000/24",[{"d":"2018-03-24","t":"add","a":"KÃ¶penicker Str. 154\n\n\n","c":"Berlin  Berlin  10997","o":"German Autolabs"},{"d":"2018-03-30","t":"change","a":"Köpenicker Str. 154 Berlin Berlin DE 10997","c":"DE","o":"German Autolabs"}]);

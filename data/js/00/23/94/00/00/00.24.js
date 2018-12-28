@@ -1,0 +1,1 @@
+deepmacDetailCallback("002394000000/24",[{"d":"2008-10-08","t":"add","a":"#1313-1 Joil-Ri, Samdong-Myeun,Ulju-Gun\nUlsan City South Korea 689-934\n\n","c":"KOREA, REPUBLIC OF","o":"Samjeon","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#1313-1 Joil-Ri, Samdong-Myeun,Ulju-Gun Ulsan City South Korea KR 689-934","c":"KR","o":"Samjeon"}]);

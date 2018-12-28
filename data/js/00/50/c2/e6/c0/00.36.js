@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2e6c000/36",[{"a":"San #24 Nongseo-Dong Yongin-City, Suwon-City Gyeonggi-do KR 446-711","o":"SAMSUNG Electronics Co.,Ltd.(LED Division)","d":"2011-08-07","t":"add","s":"ieee","c":"KR"}]);

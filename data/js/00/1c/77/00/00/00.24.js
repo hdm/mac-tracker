@@ -1,0 +1,1 @@
+deepmacDetailCallback("001c77000000/24",[{"d":"2007-05-13","t":"add","a":"C/Trigo 54 Pol. Ind. Polvoranca\nLeganes MADRID 28914\n\n","c":"SPAIN","o":"Prodys"},{"d":"2015-08-27","t":"change","a":"C/Trigo 54 Pol. Ind. Polvoranca Leganes MADRID ES 28914","c":"ES","o":"Prodys"}]);

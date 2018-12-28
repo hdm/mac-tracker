@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e47000000/24",[{"d":"2007-09-25","t":"add","a":"Jl. Soekarno Hatta No. 450\nBandung Jawa Barat 40266\n\n","c":"INDONESIA","o":"PT. Hariff Daya Tunggal Engineering","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Jl. Soekarno Hatta No. 450 Bandung Jawa Barat ID 40266","c":"ID","o":"PT. Hariff Daya Tunggal Engineering"}]);

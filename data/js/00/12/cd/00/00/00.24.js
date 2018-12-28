@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012cd000000/24",[{"d":"2004-11-16","t":"add","a":"Via Buia, 4\nARTEGNA Udine I-33011\n\n","c":"ITALY","o":"ASEM SpA"},{"d":"2015-08-27","t":"change","a":"Via Buia, 4 ARTEGNA Udine IT I-33011","c":"IT","o":"ASEM SpA"}]);

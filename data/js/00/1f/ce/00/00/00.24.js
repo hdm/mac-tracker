@@ -1,0 +1,1 @@
+deepmacDetailCallback("001fce000000/24",[{"d":"2008-02-09","t":"add","a":"Novozavodskaya st. 18 build. 1\nMoscow Moscow region 121309\n\n","c":"RUSSIAN FEDERATION","o":"QTECH LLC"},{"d":"2015-08-27","t":"change","a":"Novozavodskaya st. 18 build. 1 Moscow Moscow region RU 121309","c":"RU","o":"QTECH LLC"}]);

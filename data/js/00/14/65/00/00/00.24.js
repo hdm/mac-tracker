@@ -1,0 +1,1 @@
+deepmacDetailCallback("001465000000/24",[{"d":"2005-04-14","t":"add","a":"Novo Alle\nBagsvaerd  2880\n\n","c":"DENMARK","o":"Novo Nordisk A/S"},{"d":"2015-08-27","t":"change","a":"Novo Alle Bagsvaerd  DK 2880","c":"DK","o":"Novo Nordisk A/S"}]);

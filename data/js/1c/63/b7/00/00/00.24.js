@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c63b7000000/24",[{"d":"2013-09-04","t":"add","a":"Barsebaecksvaegen 27\nLoddekopinge  24630\n\n","c":"SWEDEN","o":"OpenProducts 237 AB"},{"d":"2015-08-27","t":"change","a":"Barsebäcksvägen 27 Löddeköpinge  SE 24630","c":"SE","o":"OpenProducts 237 AB"}]);

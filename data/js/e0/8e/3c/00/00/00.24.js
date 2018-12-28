@@ -1,0 +1,1 @@
+deepmacDetailCallback("e08e3c000000/24",[{"d":"2014-11-08","t":"add","a":"31, Ubi Road 1\nAztech Building\n408694\n","c":"SINGAPORE","o":"Aztech Electronics Pte Ltd"},{"d":"2015-08-27","t":"change","a":"31, Ubi Road 1 Singapore Singapore SG 408694","c":"SG","o":"Aztech Electronics Pte Ltd"}]);

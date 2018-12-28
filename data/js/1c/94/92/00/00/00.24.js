@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c9492000000/24",[{"d":"2012-07-19","t":"add","a":"RUAG Defence\nStauffacherstrasse 65\nBern 22 BE 3000\n","c":"SWITZERLAND","o":"RUAG Schweiz AG"},{"d":"2015-08-27","t":"change","a":"RUAG Defence  Hombrechtikon ZH CH 8634","c":"CH","o":"RUAG Schweiz AG"}]);

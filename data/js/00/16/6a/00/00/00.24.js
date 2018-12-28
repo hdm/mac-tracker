@@ -1,0 +1,1 @@
+deepmacDetailCallback("00166a000000/24",[{"d":"2005-11-06","t":"add","a":"145 quai de Stalingrad\nIssy Les Moulineaux Ile de France 92137\n\n","c":"FRANCE","o":"TPS"},{"d":"2015-08-27","t":"change","a":"145 quai de Stalingrad Issy Les Moulineaux Ile de France FR 92137","c":"FR","o":"TPS"}]);

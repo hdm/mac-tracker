@@ -1,0 +1,1 @@
+deepmacDetailCallback("0022dd000000/24",[{"d":"2008-07-19","t":"add","a":"Kesmark str 7/A\nBudapest Hungary 1158\n\n","c":"HUNGARY","o":"Protecta Electronics Ltd"},{"d":"2015-08-27","t":"change","a":"Kesmark str 7/A Budapest Hungary HU 1158","c":"HU","o":"Protecta Electronics Ltd"}]);

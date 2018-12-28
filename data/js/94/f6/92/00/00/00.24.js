@@ -1,0 +1,1 @@
+deepmacDetailCallback("94f692000000/24",[{"d":"2010-01-20","t":"add","a":"#102-1112, Chunui-Technopark, 200-1,\nChunui-dong, Wonmi-gu\nBucheon-city Kyunggi-do 420-857\n","c":"KOREA, REPUBLIC OF","o":"Geminico co.,Ltd."},{"d":"2015-08-27","t":"change","a":"#102-1112, Chunui-Technopark, 200-1, Bucheon-city Kyunggi-do KR 420-857","c":"KR","o":"Geminico co.,Ltd."}]);

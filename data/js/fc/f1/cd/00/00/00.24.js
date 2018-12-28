@@ -1,0 +1,1 @@
+deepmacDetailCallback("fcf1cd000000/24",[{"d":"2010-12-29","t":"add","a":"91 Awata-cho\nChudoji Shimogyo-ku\nKyoto  600-8815\n","c":"JAPAN","o":"OPTEX-FA CO.,LTD."},{"d":"2015-08-27","t":"change","a":"91 Awata-cho Kyoto  JP 600-8815","c":"JP","o":"OPTEX-FA CO.,LTD."}]);

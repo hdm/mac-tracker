@@ -1,0 +1,1 @@
+deepmacDetailCallback("68ebc5000000/24",[{"d":"2010-09-08","t":"add","a":"Yuzhnaya promzona, passage 4806, 4, build 3\nZelenograd Moscow 124460\n\n","c":"RUSSIAN FEDERATION","o":"Angstrem Telecom"},{"d":"2015-08-27","t":"change","a":"Yuzhnaya promzona, passage 4806, 4, build 3  Zelenograd Moscow RU 124460","c":"RU","o":"Angstrem Telecom"}]);

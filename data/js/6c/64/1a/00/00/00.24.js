@@ -1,0 +1,1 @@
+deepmacDetailCallback("6c641a000000/24",[{"d":"2013-11-08","t":"add","a":"45800 Northport Loop West\nFremont CA 94538\n\n","c":"UNITED STATES","o":"Penguin Computing"},{"d":"2015-08-27","t":"change","a":"45800 Northport Loop West Fremont CA US 94538","c":"US","o":"Penguin Computing"}]);

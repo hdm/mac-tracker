@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c977e000000/24",[{"d":"2013-04-19","t":"add","a":"7 Floor,E  block,Dong Hai Wang Building\n,BuLong Road,LongGang District\nShenzhen Guangodng 518000\n","c":"CHINA","o":"IPS Technology Limited"},{"d":"2015-08-27","t":"change","a":"7 Floor,E  block,Dong Hai Wang Building Shenzhen Guangodng CN 518000","c":"CN","o":"IPS Technology Limited"}]);

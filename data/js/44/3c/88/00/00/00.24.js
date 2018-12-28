@@ -1,0 +1,1 @@
+deepmacDetailCallback("443c88000000/24",[{"d":"2018-10-11","t":"add","s":"ieee-oui.csv","a":"Zone Franche Technopolis Rocade Rabat-Salé 11103 Sala Al Jadida - Salé Salé  MA 11103","c":"MA","o":"FICOSA MAROC INTERNATIONAL"}]);

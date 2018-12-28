@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0b5da000000/24",[{"d":"2010-09-10","t":"add","a":"2F,Sector C of Tsinghua University Academy,\nHi-Tech Park(South),Nanshan District\nShenzhen Guangdong 518057\n","c":"CHINA","o":"HongKong THTF Co., Ltd"},{"d":"2015-08-27","t":"change","a":"2F,Sector C of Tsinghua University Academy,  Shenzhen Guangdong CN 518057","c":"CN","o":"HongKong THTF Co., Ltd"}]);

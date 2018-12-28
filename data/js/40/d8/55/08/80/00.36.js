@@ -1,0 +1,1 @@
+deepmacDetailCallback("40d855088000/36",[{"a":"14-1, IKENOIRIYAMA, FUMASE IZUMIZAKI-MURA, NISHISHIRAKAWA-GUN FUKUSHIMA JP 969-0105","o":"JEL SYSTEM CO., LTD.","d":"2013-01-27","t":"add","s":"ieee","c":"JP"}]);

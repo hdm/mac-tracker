@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c1984000000/24",[{"d":"2009-10-01","t":"add","a":"2669 Great Arbor Way\nUnion City CA 94587\n\n","c":"UNITED STATES","o":"IDN Telecom, Inc."},{"d":"2015-08-27","t":"change","a":"2669 Great Arbor Way Union City CA US 94587","c":"US","o":"IDN Telecom, Inc."}]);

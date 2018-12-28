@@ -1,0 +1,1 @@
+deepmacDetailCallback("34d2c4000000/24",[{"d":"2010-07-03","t":"add","a":"Hienlohestrasse 24\nOtterfing Bavaria 83624\n\n","c":"GERMANY","o":"RENA GmbH Print Systeme"},{"d":"2015-08-27","t":"change","a":"Hienlohestrasse 24 Otterfing Bavaria DE 83624","c":"DE","o":"RENA GmbH Print Systeme"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("ecf236000000/24",[{"d":"2011-05-13","t":"add","a":"Mladost-4, bl. 483, mag. 13\nSofia  1715\n\n","c":"BULGARIA","o":"NEOMONTANA ELECTRONICS"},{"d":"2015-08-27","t":"change","a":"Mladost-4, bl. 483, mag. 13 Sofia  BG 1715","c":"BG","o":"NEOMONTANA ELECTRONICS"}]);

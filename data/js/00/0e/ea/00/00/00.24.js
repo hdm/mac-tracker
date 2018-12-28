@@ -1,0 +1,1 @@
+deepmacDetailCallback("000eea000000/24",[{"d":"2003-12-21","t":"add","a":"No.188,east,Huayuan Road\nJinan Shandong 250100\n\n","c":"CHINA","o":"Shadong Luneng Jicheng Electronics,Co.,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"No.188,east,Huayuan Road Jinan Shandong CN 250100","c":"CN","o":"Shadong Luneng Jicheng Electronics,Co.,Ltd"}]);

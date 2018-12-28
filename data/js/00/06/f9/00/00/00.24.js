@@ -1,0 +1,1 @@
+deepmacDetailCallback("0006f9000000/24",[{"d":"2001-10-24","t":"add","a":"11-1, Uno 1-chome\nTamano-shi, Okayama\n706-0011\n","c":"JAPAN","o":"Mitsui Zosen Systems Research Inc."},{"d":"2015-08-27","t":"change","a":"11-1, Uno 1-chome   JP 706-0011","c":"JP","o":"Mitsui Zosen Systems Research Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001402000000/24",[{"d":"2005-03-17","t":"add","a":"Cypresvej 6\nHerning  7400\n\n","c":"DENMARK","o":"kk-electronic a/s"},{"d":"2015-08-27","t":"change","a":"Cypresvej 6 Herning  DK 7400","c":"DK","o":"kk-electronic a/s"}]);

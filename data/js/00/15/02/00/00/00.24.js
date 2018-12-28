@@ -1,0 +1,1 @@
+deepmacDetailCallback("001502000000/24",[{"d":"2005-06-25","t":"add","a":"15 rue d'apollo\nL'UNION  31240\n\n","c":"FRANCE","o":"BETA tech"},{"d":"2015-08-27","t":"change","a":"15 rue d'apollo L'UNION  FR 31240","c":"FR","o":"BETA tech"}]);

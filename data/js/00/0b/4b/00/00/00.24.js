@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b4b000000/24",[{"d":"2002-10-14","t":"add","a":"Route de la Pierre 22\nVICTORIA HOUSE\nECUBLENS VAUD CH-1024\n","c":"SWITZERLAND","o":"VISIOWAVE SA"},{"d":"2015-08-27","t":"change","a":"Route de la Pierre 22 ECUBLENS VAUD CH CH-1024","c":"CH","o":"VISIOWAVE SA"}]);

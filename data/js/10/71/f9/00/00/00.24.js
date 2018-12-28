@@ -1,0 +1,1 @@
+deepmacDetailCallback("1071f9000000/24",[{"d":"2011-05-25","t":"add","a":"1032 Elwell Court\nSuite 222\nPalo Alto CA 94303\n","c":"UNITED STATES","o":"Cloud Telecomputers, LLC"},{"d":"2015-08-27","t":"change","a":"1032 Elwell Court Palo Alto CA US 94303","c":"US","o":"Cloud Telecomputers, LLC"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("545ebd000000/24",[{"d":"2012-03-15","t":"add","a":"33 Laird Drive\nToronto ON M4G3S8\n\n","c":"CANADA","o":"NL Technologies"},{"d":"2015-08-27","t":"change","a":"33 Laird Drive Toronto ON CA M4G3S8","c":"CA","o":"NL Technologies"}]);

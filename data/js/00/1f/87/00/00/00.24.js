@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f87000000/24",[{"d":"2008-01-14","t":"add","a":"#28-9 Wonhyoro1-ga, Yongsan-gu,\nSeoul  140-846\n\n","c":"KOREA, REPUBLIC OF","o":"Skydigital Inc."},{"d":"2015-08-27","t":"change","a":"#28-9 Wonhyoro1-ga, Yongsan-gu, Seoul  KR 140-846","c":"KR","o":"Skydigital Inc."}]);

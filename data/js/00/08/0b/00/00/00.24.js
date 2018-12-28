@@ -1,0 +1,1 @@
+deepmacDetailCallback("00080b000000/24",[{"d":"2001-10-24","t":"add","a":"Box 20100\n161 02 Bromma\n\n","c":"SWEDEN","o":"Birka BPA Informationssystem AB"},{"d":"2015-08-27","t":"change","a":"Box 20100   SE","c":"SE","o":"Birka BPA Informationssystem AB"}]);

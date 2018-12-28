@@ -1,0 +1,1 @@
+deepmacDetailCallback("54068b000000/24",[{"d":"2018-06-30","t":"add","a":"zone 2nd , 301#, Road Xuxiake, Ninghai yuelong district ningbo Zhejiang CN 315600","c":"CN","o":"Ningbo Deli Kebei Technology Co.LTD"}]);

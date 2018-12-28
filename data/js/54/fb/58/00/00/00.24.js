@@ -1,0 +1,1 @@
+deepmacDetailCallback("54fb58000000/24",[{"d":"2013-06-26","t":"add","a":"Centro Social e Administrativo da ZIV\nLote 141, R/C\nZona Industrial de Vagos Portugal 3840-385\n","c":"PORTUGAL","o":"WISEWARE, Lda"},{"d":"2015-08-27","t":"change","a":"Centro Social e Administrativo da ZIV Zona Industrial de Vagos Portugal PT 3840-385","c":"PT","o":"WISEWARE, Lda"}]);

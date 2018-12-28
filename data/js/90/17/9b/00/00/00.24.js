@@ -1,0 +1,1 @@
+deepmacDetailCallback("90179b000000/24",[{"d":"2014-07-08","t":"add","a":"BD Ed.Machtens 79/22\nBXL Molenbeek 1080\n\n","c":"BELGIUM","o":"Nanomegas"},{"d":"2015-08-27","t":"change","a":"BD Ed.Machtens 79/22 BXL Molenbeek BE 1080","c":"BE","o":"Nanomegas"}]);

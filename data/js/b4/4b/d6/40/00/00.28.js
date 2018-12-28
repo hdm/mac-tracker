@@ -1,0 +1,1 @@
+deepmacDetailCallback("b44bd6400000/28",[{"a":"3F, 4Building, Anda Industrial Zone, Chongqing Road, Fuyong Town, Baoan District ShenZhen GuangDong CN 518103","o":"Shenzhen Hi-Net Technology Co., Ltd.","d":"2018-04-01","t":"add","s":"ieee","c":"CN"}]);

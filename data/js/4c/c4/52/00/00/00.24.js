@@ -1,0 +1,1 @@
+deepmacDetailCallback("4cc452000000/24",[{"d":"2009-10-23","t":"add","a":"Room No.5,N0.396,GuiLin Road,\nXu Hui District\nShang Hai  200233\n","c":"CHINA","o":"Shang Hai Tyd. Electon Technology Ltd."},{"d":"2015-08-27","t":"change","a":"Room No.5,N0.396,GuiLin Road,  Shang Hai  US 200233","c":"US","o":"Shang Hai Tyd. Electon Technology Ltd."}]);

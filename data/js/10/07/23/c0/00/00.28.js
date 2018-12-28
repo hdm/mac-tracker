@@ -1,0 +1,1 @@
+deepmacDetailCallback("100723c00000/28",[{"a":"NO.57., Baoli Rd.,Buji Town.,Longgang District.,Shenzhen city.,guangdong province.,China shenzhen guangdong CN 518112","o":"Shenzhen Xinfa Electronic Co.,ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

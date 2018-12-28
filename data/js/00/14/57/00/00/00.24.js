@@ -1,0 +1,1 @@
+deepmacDetailCallback("001457000000/24",[{"d":"2005-04-08","t":"add","a":"Ostensjoveien 18\nOslo NO-0661\n\n","c":"NORWAY","o":"T-VIPS AS"},{"d":"2015-08-27","t":"change","a":"Ostensjoveien 18  Oslo NO NO-0661","c":"NO","o":"T-VIPS AS"}]);

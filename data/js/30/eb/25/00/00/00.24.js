@@ -1,0 +1,1 @@
+deepmacDetailCallback("30eb25000000/24",[{"d":"2011-01-11","t":"add","a":"801, 8th Fl., Anyang K-center building, 1591-9\nGwanyang-dong, Dongan-gu\nAnyang  431-060\n","c":"KOREA, REPUBLIC OF","o":"INTEK DIGITAL"},{"d":"2015-08-27","t":"change","a":"801, 8th Fl., Anyang K-center building, 1591-9 Anyang  KR 431-060","c":"KR","o":"INTEK DIGITAL"}]);

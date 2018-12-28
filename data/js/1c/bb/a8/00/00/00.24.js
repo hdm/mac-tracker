@@ -1,0 +1,1 @@
+deepmacDetailCallback("1cbba8000000/24",[{"d":"2011-10-22","t":"add","a":"39, 50 let SSSR\nUfa Bashkortostan 450071\n\n","c":"RUSSIAN FEDERATION","o":"OJSC \"Ufimskiy Zavod \"Promsvyaz\""},{"d":"2015-08-27","t":"change","a":"39, 50 let SSSR Ufa Bashkortostan RU 450071 ","c":"RU","o":"OJSC \"Ufimskiy Zavod \"Promsvyaz\""}]);

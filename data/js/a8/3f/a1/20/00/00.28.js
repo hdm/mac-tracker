@@ -1,0 +1,1 @@
+deepmacDetailCallback("a83fa1200000/28",[{"a":"12th Floor, Baiwang Research Building, No.5158 Shahe West Road, Xili, Nanshan Shenzhen  CN 518055","o":"MEDCAPTAIN MEDICAL TECHNOLOGY CO., LTD.","d":"2018-07-22","t":"add","s":"ieee","c":"CN"}]);

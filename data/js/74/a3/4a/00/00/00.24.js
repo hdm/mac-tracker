@@ -1,0 +1,1 @@
+deepmacDetailCallback("74a34a000000/24",[{"d":"2014-09-20","t":"add","a":"Room A913, 159 Chengjiang Road, Jiangyin City, Jiangsu Province, P, R.China\n214400\n\n","c":"CHINA","o":"ZIMI CORPORATION"},{"d":"2015-08-27","t":"change","a":"Room A913, 159 Chengjiang Road, Jiangyin City, Jiangsu Province, P, R.China   CN 214400","c":"CN","o":"ZIMI CORPORATION"}]);

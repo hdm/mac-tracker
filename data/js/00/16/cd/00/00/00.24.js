@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016cd000000/24",[{"d":"2005-12-15","t":"add","a":"Ohga 8133\nHiji\nHayami Oita 879-1504\n","c":"JAPAN","o":"HIJI HIGH-TECH CO., LTD."},{"d":"2015-08-27","t":"change","a":"Ohga 8133 Hayami Oita JP 879-1504","c":"JP","o":"HIJI HIGH-TECH CO., LTD."}]);

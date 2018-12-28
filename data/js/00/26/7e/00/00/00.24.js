@@ -1,0 +1,1 @@
+deepmacDetailCallback("00267e000000/24",[{"d":"2009-06-14","t":"add","a":"174 quai de Jemmapes\nParis  78100\n\n","c":"FRANCE","o":"Parrot SA","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"174 quai de Jemmapes\nParis    78100\n\n","c":"FR","o":"Parrot SA"},{"d":"2016-04-14","t":"change","a":"174 Quai de Jemmapes Paris  FR 75010","c":"FR","o":"PARROT SA"}]);

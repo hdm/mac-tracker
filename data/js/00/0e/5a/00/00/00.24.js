@@ -1,0 +1,1 @@
+deepmacDetailCallback("000e5a000000/24",[{"d":"2003-12-21","t":"add","a":"3F, Kumbo Bldg, 2-9, Seokchon-Dong\nSongpa-Gu\nSeoul  138-190\n","c":"KOREA, REPUBLIC OF","o":"TELEFIELD inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3F, Kumbo Bldg, 2-9, Seokchon-Dong Seoul  KR 138-190","c":"KR","o":"TELEFIELD inc."}]);

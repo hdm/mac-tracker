@@ -1,0 +1,1 @@
+deepmacDetailCallback("00113e000000/24",[{"d":"2004-05-11","t":"add","a":"4-4-17 SUGE\nTAMA-KU\nKAWASAKI-CITY KANAGAWA-KEN 214-0001\n","c":"JAPAN","o":"JL Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4-4-17 SUGE KAWASAKI-CITY KANAGAWA-KEN JP 214-0001","c":"JP","o":"JL Corporation"}]);

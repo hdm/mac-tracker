@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2211000/36",[{"a":"Wächterstraße 13 Leipzig Saxonia DE D-04107","o":"Hochschule für Technik, Wirtschaft und Kultur Leipzig (FH)","d":"2008-07-30","t":"add","s":"ieee","c":"DE"}]);

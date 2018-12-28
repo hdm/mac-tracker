@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec3c88000000/24",[{"d":"2014-11-11","t":"add","a":"Hanshin IT Tower2 11F, Digital lo 9 gil\nGeumcheon-Gu Seoul 153-712\n\n","c":"KOREA, REPUBLIC OF","o":"MCNEX Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"Hanshin IT Tower2 11F, Digital lo 9 gil Geumcheon-Gu Seoul KR 153-712","c":"KR","o":"MCNEX Co.,Ltd."}]);

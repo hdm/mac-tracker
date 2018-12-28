@@ -1,0 +1,1 @@
+deepmacDetailCallback("c8292a000000/24",[{"d":"2011-09-03","t":"add","a":"869, Jangji-ri, Dongtan-myeon\nHwaseong-si Gyeonggi-do 445812\n\n","c":"KOREA, REPUBLIC OF","o":"Barun Electronics"},{"d":"2015-08-27","t":"change","a":"869, Jangji-ri, Dongtan-myeon Hwaseong-si Gyeonggi-do KR 445812","c":"KR","o":"Barun Electronics"}]);

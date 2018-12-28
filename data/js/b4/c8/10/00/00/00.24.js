@@ -1,0 +1,1 @@
+deepmacDetailCallback("b4c810000000/24",[{"d":"2010-05-06","t":"add","a":"Via Respighi, 15\nCattolica  47841\n\n","c":"ITALY","o":"UMPI Elettronica"},{"d":"2015-08-27","t":"change","a":"Via Respighi, 15 Cattolica  IT 47841","c":"IT","o":"UMPI Elettronica"}]);

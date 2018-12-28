@@ -1,0 +1,1 @@
+deepmacDetailCallback("000442000000/24",[{"d":"2000-11-23","t":"add","a":"191 W. 5200 N.\nProvo, UT 84604\n\n","c":"UNITED STATES","o":"NACT","s":"wireshark.org"},{"d":"2001-10-24","t":"change","a":"191 W. 5200 N.\nProvo UT 84604\n\n","c":"UNITED STATES","o":"NACT"},{"d":"2015-08-27","t":"change","a":"191 W. 5200 N. Provo UT US 84604","c":"US","o":"NACT"}]);

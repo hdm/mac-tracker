@@ -1,0 +1,1 @@
+deepmacDetailCallback("e8481f000000/24",[{"d":"2013-03-27","t":"add","a":"Pol.Ind Can Mitjans s/n\nViladecavalls Barcelona 08232\n\n","c":"SPAIN","o":"Advanced Automotive Antennas"},{"d":"2015-08-27","t":"change","a":"Pol.Ind Can Mitjans s/n Viladecavalls Barcelona ES 08232","c":"ES","o":"Advanced Automotive Antennas"}]);

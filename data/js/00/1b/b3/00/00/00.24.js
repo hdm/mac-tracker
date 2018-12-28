@@ -1,0 +1,1 @@
+deepmacDetailCallback("001bb3000000/24",[{"d":"2007-03-07","t":"add","a":"Kohlstatt 3\nLichtenau Bavaria 86706\n\n","c":"GERMANY","o":"Condalo GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kohlstatt 3 Lichtenau Bavaria DE 86706","c":"DE","o":"Condalo GmbH"}]);

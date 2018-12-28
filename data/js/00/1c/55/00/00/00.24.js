@@ -1,0 +1,1 @@
+deepmacDetailCallback("001c55000000/24",[{"d":"2007-05-13","t":"add","a":"7006 Caitian Road, Futian District,\nShenzhen Guangdong 518035\n\n","c":"CHINA","o":"Shenzhen Kaifa Technology Co."},{"d":"2015-08-27","t":"change","a":"7006 Caitian Road, Futian District, Shenzhen Guangdong CN 518035","c":"CN","o":"Shenzhen Kaifa Technology Co."}]);

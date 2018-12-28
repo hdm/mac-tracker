@@ -1,0 +1,1 @@
+deepmacDetailCallback("480bb2800000/28",[{"a":"Room 506, Chengye Building lnnovation park Xiamen Torch Hi-Tech Zone Xiamen fujian P.R.China Xiamen fujian CN 361000","o":"BravoCom（xiamen）TechCo.Ltd","d":"2018-01-14","t":"add","s":"ieee","c":"CN"}]);

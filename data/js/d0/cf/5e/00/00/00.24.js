@@ -1,0 +1,1 @@
+deepmacDetailCallback("d0cf5e000000/24",[{"d":"2011-09-17","t":"add","a":"Sandakerveien 118\nOslo  N-0484\n\n","c":"NORWAY","o":"Energy Micro AS"},{"d":"2015-08-27","t":"change","a":"Sandakerveien 118 Oslo  NO N-0484","c":"NO","o":"Energy Micro AS"}]);

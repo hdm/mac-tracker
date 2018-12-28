@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016be000000/24",[{"d":"2005-12-09","t":"add","a":"8th Floor, Cowell B/D, 66-1\nBanpo-Dong, Seocho-Gu\nSeoul  137-040\n","c":"KOREA, REPUBLIC OF","o":"INFRANET, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"8th Floor, Cowell B/D, 66-1 Seoul  KR 137-040","c":"KR","o":"INFRANET, Inc."}]);

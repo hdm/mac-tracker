@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8c855000000/24",[{"d":"2013-03-20","t":"add","a":"Room 602, Building 6, No.\n555 Dongchuan Road\nShanghai 200241\n","c":"CHINA","o":"Shanghai GBCOM Communication Technology Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"Room 602, Building 6, No.  Shanghai CN 200241","c":"CN","o":"Shanghai GBCOM Communication Technology Co.,Ltd."}]);

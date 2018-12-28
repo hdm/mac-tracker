@@ -1,0 +1,1 @@
+deepmacDetailCallback("3873ea100000/28",[{"a":"3/F Rongxin business organization #56 Jinyan Road Fuzhou Fujian CN 350000","o":"KingWay Information Co.,Ltd.","d":"2017-08-24","t":"add","s":"ieee","c":"CN"}]);

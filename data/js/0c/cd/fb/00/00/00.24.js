@@ -1,0 +1,1 @@
+deepmacDetailCallback("0ccdfb000000/24",[{"d":"2012-08-17","t":"add","a":"1-3-7 Nakamachidai\nTuzuki word\nYokohama Kanagawa 224-0041\n","c":"JAPAN","o":"EDIC Systems Inc."},{"d":"2015-08-27","t":"change","a":"1-3-7 Nakamachidai Yokohama Kanagawa JP 224-0041","c":"JP","o":"EDIC Systems Inc."}]);

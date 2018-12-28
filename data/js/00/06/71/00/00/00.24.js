@@ -1,0 +1,1 @@
+deepmacDetailCallback("000671000000/24",[{"d":"2001-06-04","t":"add","a":"Richard-Reitzner-Allee 6\n85540 Haar\n\n","c":"GERMANY","o":"Softing AG"},{"d":"2015-08-27","t":"change","a":"Richard-Reitzner-Allee 6   DE","c":"DE","o":"Softing AG"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00088f000000/24",[{"d":"2001-12-14","t":"add","a":"ADT BLDG.,3-3, YANGJAE-DONG,\nSEOCHO-GU,\nSEOUL\n","c":"KOREA, REPUBLIC OF","o":"ADVANCED DIGITAL TECHNOLOGY"},{"d":"2015-08-27","t":"change","a":"ADT BLDG.,3-3, YANGJAE-DONG, SEOUL  KR","c":"KR","o":"ADVANCED DIGITAL TECHNOLOGY"}]);

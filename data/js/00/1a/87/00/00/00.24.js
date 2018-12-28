@@ -1,0 +1,1 @@
+deepmacDetailCallback("001a87000000/24",[{"d":"2006-11-29","t":"add","a":"Flat 4, 13/F., Block 4, Tai Ping Industrial Centre\n51A Ting Kok Road, Tai Po, N.T.,\n00852\n","c":"HONG KONG","o":"Canhold International Limited"},{"d":"2015-08-27","t":"change","a":"Flat 4, 13/F., Block 4, Tai Ping Industrial Centre   HK 00852","c":"HK","o":"Canhold International Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001914000000/24",[{"d":"2006-07-19","t":"add","a":"363 Angade Bldg., Yangjae-dong\nSeocho-gu\nSeoul  137-898\n","c":"KOREA, REPUBLIC OF","o":"Winix Co., Ltd"},{"d":"2015-08-27","t":"change","a":"363 Angade Bldg., Yangjae-dong Seoul  KR 137-898","c":"KR","o":"Winix Co., Ltd"}]);

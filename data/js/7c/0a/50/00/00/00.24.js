@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c0a50000000/24",[{"d":"2012-08-15","t":"add","a":"B2, 3F, No.1, Li-Hsin 1st Road,\nScience Park\nHsinchu Taiwan 300\n","c":"TAIWAN, PROVINCE OF CHINA","o":"J-MEX Inc."},{"d":"2015-08-27","t":"change","a":"B2, 3F, No.1, Li-Hsin 1st Road, Hsinchu Taiwan TW 300","c":"TW","o":"J-MEX Inc."}]);

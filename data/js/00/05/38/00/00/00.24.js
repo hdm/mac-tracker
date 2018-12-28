@@ -1,0 +1,1 @@
+deepmacDetailCallback("000538000000/24",[{"d":"2001-02-02","t":"add","a":"#307-46165 Yale Road\nChiliwack, BC, Canada\n\n","c":"V2P 2P2","o":"Merilus, Inc."},{"d":"2001-12-14","t":"change","a":"#307-46165 Yale Road\nChiliwack, BC\nV2P 2P2\n","c":"CANADA","o":"Merilus, Inc."},{"d":"2015-08-27","t":"change","a":"#307-46165 Yale Road   CA V2P 2P2","c":"CA","o":"Merilus, Inc."}]);

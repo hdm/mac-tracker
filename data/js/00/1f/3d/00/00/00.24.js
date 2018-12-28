@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f3d000000/24",[{"d":"2007-12-31","t":"add","a":"Zeiloch 3\nBruchsal Germany 76646\n\n","c":"GERMANY","o":"Qbit GmbH"},{"d":"2010-05-14","t":"change","a":"Stegwiesenstrasse 32\nBruchsal Germany 76646\n\n","c":"GERMANY","o":"Qbit GmbH"},{"d":"2015-08-27","t":"change","a":"Stegwiesenstrasse 32 Bruchsal Germany DE 76646","c":"DE","o":"Qbit GmbH"}]);

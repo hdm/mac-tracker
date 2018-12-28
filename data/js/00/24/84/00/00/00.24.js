@@ -1,0 +1,1 @@
+deepmacDetailCallback("002484000000/24",[{"d":"2008-12-07","t":"add","a":"Gimsinglundvej 20\nStruer DK DK7600\n\n","c":"DENMARK","o":"Bang and Olufsen Medicom a/s","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Gimsinglundvej 20 Struer DK DK DK7600","c":"DK","o":"Bang and Olufsen Medicom a/s"}]);

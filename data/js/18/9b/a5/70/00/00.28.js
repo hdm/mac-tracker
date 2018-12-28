@@ -1,0 +1,1 @@
+deepmacDetailCallback("189ba5700000/28",[{"a":"101, Building No.5, No.8 Chuangye Road., Haidian District Beijing  Beijing CN 100085","o":"Beijing Xinertel Technology Co., Ltd.","d":"2017-05-28","t":"add","s":"ieee","c":"CN"}]);

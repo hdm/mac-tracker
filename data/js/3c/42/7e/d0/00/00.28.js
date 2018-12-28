@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c427ed00000/28",[{"a":"No.96,Wanchun East Road,Jiujiang Economic Development District,Wuhu,Anhui,China Wuhu Anhui CN 241000","o":"ROBOX SMART MOTION (WUHU) CO.,LTD","d":"2018-04-08","t":"add","s":"ieee","c":"CN"}]);

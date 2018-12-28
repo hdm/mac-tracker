@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b27000000/24",[{"d":"2007-01-21","t":"add","a":"12625 Danielson Court\nSuite 109\nPoway CA 92064\n","c":"UNITED STATES","o":"Merlin CSI"},{"d":"2015-08-27","t":"change","a":"12625 Danielson Court Poway CA US 92064","c":"US","o":"Merlin CSI"}]);

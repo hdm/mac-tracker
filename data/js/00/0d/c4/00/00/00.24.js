@@ -1,0 +1,1 @@
+deepmacDetailCallback("000dc4000000/24",[{"d":"2003-07-23","t":"add","a":"1600 Eubank Blvd, SE\nAlbuquerque New Mexico 87123\n\n","c":"UNITED STATES","o":"Emcore Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1600 Eubank Blvd, SE Albuquerque New Mexico US 87123","c":"US","o":"Emcore Corporation"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("1cfd08500000/28",[{"a":"11Floor,north district,newton business building,No.25 Landian factory south road，Haidian District Beijing Beijing CN 100097","o":"Beijing Hengxin Rainbow Information Technology Co.,Ltd","d":"2018-07-22","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("006017000000/24",[{"d":"1998-04-22","t":"add","a":"2-16, MINAMI-KAMATA, OHTA-KU\nTOKYO 144\n\n","c":"JAPAN","o":"TOKIMEC INC."},{"d":"2015-08-27","t":"change","a":"2-16, MINAMI-KAMATA, OHTA-KU TOKYO 144  JP","c":"JP","o":"TOKIMEC INC."}]);

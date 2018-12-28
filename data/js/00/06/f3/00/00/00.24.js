@@ -1,0 +1,1 @@
+deepmacDetailCallback("0006f3000000/24",[{"d":"2001-10-24","t":"add","a":"70 Abele Road, Building 1200\nPittsburgh PA 15017\n\n","c":"UNITED STATES","o":"AcceLight Networks"},{"d":"2015-08-27","t":"change","a":"70 Abele Road, Building 1200 Pittsburgh PA US 15017","c":"US","o":"AcceLight Networks"}]);

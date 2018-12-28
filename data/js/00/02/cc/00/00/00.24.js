@@ -1,0 +1,1 @@
+deepmacDetailCallback("0002cc000000/24",[{"d":"2000-09-08","t":"add","a":"3520 Krums Corners Rd.\nIthaca, NY 14850\n\n","c":"UNITED STATES","o":"M.C.C.I"},{"d":"2001-10-24","t":"change","a":"3520 Krums Corners Rd.\nIthaca NY 14850\n\n","c":"UNITED STATES","o":"M.C.C.I"},{"d":"2015-08-27","t":"change","a":"3520 Krums Corners Rd. Ithaca NY US 14850","c":"US","o":"M.C.C.I"}]);

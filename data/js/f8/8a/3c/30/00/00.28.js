@@ -1,0 +1,1 @@
+deepmacDetailCallback("f88a3c300000/28",[{"a":"Science and Technology Park North District, high tech North six Road, LAN LAN Technology Park, building C-309,Shenzhen Nanshan District, Guangdong Province, China shenzhen guangdong CN 518000","o":"Shenzhen Shengyuan Tech Ltd.","d":"2017-03-26","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0022d0000000/24",[{"d":"2008-07-19","t":"add","a":"Professorintie 5\nKempele Oulu 90440\n\n","c":"FINLAND","o":"Polar Electro Oy"},{"d":"2015-08-27","t":"change","a":"Professorintie 5 Kempele Oulu FI 90440","c":"FI","o":"Polar Electro Oy"}]);

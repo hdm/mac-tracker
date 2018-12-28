@@ -1,0 +1,1 @@
+deepmacDetailCallback("0005b1000000/24",[{"d":"2001-06-04","t":"add","a":"De Ronde 15A\n5683 CZ Best\n\n","c":"THE NETHERLANDS","o":"ASB Technology BV"},{"d":"2001-12-14","t":"change","a":"De Ronde 15A\n5683 CZ Best\n\n","c":"NETHERLANDS","o":"ASB Technology BV"},{"d":"2015-08-27","t":"change","a":"De Ronde 15A   NL","c":"NL","o":"ASB Technology BV"}]);

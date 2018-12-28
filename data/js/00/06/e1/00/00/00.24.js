@@ -1,0 +1,1 @@
+deepmacDetailCallback("0006e1000000/24",[{"d":"2001-10-24","t":"add","a":"732a Chaussee de Bruxelles\nB-1410 Waterloo\n\n","c":"BELGIUM","o":"Techno Trade s.a"},{"d":"2015-08-27","t":"change","a":"732a Chaussee de Bruxelles   BE","c":"BE","o":"Techno Trade s.a"}]);

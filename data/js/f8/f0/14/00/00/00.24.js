@@ -1,0 +1,1 @@
+deepmacDetailCallback("f8f014000000/24",[{"d":"2010-10-07","t":"add","a":"44053 Fremont Blvd.\nFremont CA 94538\n\n","c":"UNITED STATES","o":"RackWare Inc."},{"d":"2015-08-27","t":"change","a":"44053 Fremont Blvd. Fremont CA US 94538","c":"US","o":"RackWare Inc."}]);

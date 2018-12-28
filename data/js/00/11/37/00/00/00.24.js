@@ -1,0 +1,1 @@
+deepmacDetailCallback("001137000000/24",[{"d":"2004-04-25","t":"add","a":"1\naichi-cho\nkasugai city aichi pref. 486-8666\n","c":"JAPAN","o":"AICHI ELECTRIC CO., LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1 kasugai city aichi pref. JP 486-8666","c":"JP","o":"AICHI ELECTRIC CO., LTD."}]);

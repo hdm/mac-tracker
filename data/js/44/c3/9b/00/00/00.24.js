@@ -1,0 +1,1 @@
+deepmacDetailCallback("44c39b000000/24",[{"d":"2012-07-07","t":"add","a":"Pionerskaya 11a\nBratsk Irkutsk 665717\n\n","c":"RUSSIAN FEDERATION","o":"OOO RUBEZH NPO"},{"d":"2015-08-27","t":"change","a":"Pionerskaya 11a Bratsk Irkutsk RU 665717","c":"RU","o":"OOO RUBEZH NPO"}]);

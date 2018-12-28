@@ -1,0 +1,1 @@
+deepmacDetailCallback("000828000000/24",[{"d":"2001-12-14","t":"add","a":"3-40, 5-Chome\nKire-nishi Hirano-ku\nOsaku  547-0026\n","c":"JAPAN","o":"Koei Engineering Ltd."},{"d":"2015-08-27","t":"change","a":"3-40, 5-Chome Osaku  JP 547-0026","c":"JP","o":"Koei Engineering Ltd."}]);

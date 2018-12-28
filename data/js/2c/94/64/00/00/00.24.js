@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c9464000000/24",[{"d":"2013-03-22","t":"add","a":"7F., No. 4 Aly. 1 Ln. 235, Baociao Rd.,\nSindian Dist.\nNew Taipei City  23145\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Cincoze Co., Ltd."},{"d":"2015-08-27","t":"change","a":"7F., No. 4 Aly. 1 Ln. 235, Baociao Rd., New Taipei City  US 23145","c":"US","o":"Cincoze Co., Ltd."}]);

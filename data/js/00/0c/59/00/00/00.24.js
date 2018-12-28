@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c59000000/24",[{"d":"2003-02-07","t":"add","a":"9085 Aero Dr.\nSan Diego CA 92123\n\n","c":"UNITED STATES","o":"Indyme Electronics, Inc."},{"d":"2015-08-27","t":"change","a":"9085 Aero Dr. San Diego CA US 92123","c":"US","o":"Indyme Electronics, Inc."}]);

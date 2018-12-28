@@ -1,0 +1,1 @@
+deepmacDetailCallback("1803fa000000/24",[{"d":"2011-09-15","t":"add","a":"Im Taubhaus 19\nRoedermark Hessen 63322\n\n","c":"GERMANY","o":"IBT Interfaces"},{"d":"2015-08-27","t":"change","a":"Im Taubhaus 19 Roedermark Hessen DE 63322","c":"DE","o":"IBT Interfaces"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("00112c000000/24",[{"d":"2004-04-25","t":"add","a":"Am Weichselgarten 5\nErlangen Bavaria 91058\n\n","c":"GERMANY","o":"IZT GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Am Weichselgarten 5 Erlangen Bavaria DE 91058","c":"DE","o":"IZT GmbH"}]);

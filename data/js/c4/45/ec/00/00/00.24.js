@@ -1,0 +1,1 @@
+deepmacDetailCallback("c445ec000000/24",[{"d":"2013-09-21","t":"add","a":"Room 1-607\nXinfu Road 388, Xinzhuang Town\nShanghai 201100\n","c":"CHINA","o":"Shanghai Yali Electron Co.,LTD"},{"d":"2015-08-27","t":"change","a":"Room 1-607 Shanghai Shanghai US 201100","c":"US","o":"Shanghai Yali Electron Co.,LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("4428a3000000/24",[{"a":"The south of lanling road, yongan new district Danyang  Jiangsu CN 212300","o":"Jiangsu fulian  Communication Technology Co., Ltd.","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

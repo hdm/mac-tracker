@@ -1,0 +1,1 @@
+deepmacDetailCallback("4ac03f000000/24",[{"a":"Rm.01, 21/F, F4 Building, 5th Phase-NO.1 Software Park, Guanshan 1 Rd, East Lake  Development Zone, Wuhan, China(430040) Wuhan Hubei CN 430040","o":"WUHAN HIKSTORAGE TECHNOLOGY CO.,LTD","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

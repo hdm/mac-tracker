@@ -1,0 +1,1 @@
+deepmacDetailCallback("00187f000000/24",[{"d":"2006-06-13","t":"add","a":"23, rue des Fraisettes\nPALAISEAU ESSONNE 91120\n\n","c":"FRANCE","o":"ZODIANET"},{"d":"2015-08-27","t":"change","a":"23, rue des Fraisettes PALAISEAU ESSONNE FR 91120","c":"FR","o":"ZODIANET"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001211000000/24",[{"d":"2004-08-12","t":"add","a":"Otto Hahn Str. 26\nOttobrunn Germany/Bavaria 85521\n\n","c":"GERMANY","o":"Protechna Herbst GmbH & Co. KG"},{"d":"2015-08-27","t":"change","a":"Otto Hahn Str. 26 Ottobrunn Germany/Bavaria DE 85521","c":"DE","o":"Protechna Herbst GmbH & Co. KG"}]);

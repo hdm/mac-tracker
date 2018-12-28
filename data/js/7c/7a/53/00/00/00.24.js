@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c7a53000000/24",[{"d":"2014-12-06","t":"add","a":"8F-16, No.81, Shuili Rd.,\nHsinchu Taiwan 30059\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Phytrex Technology Corp."},{"d":"2015-08-27","t":"change","a":"8F-16, No.81, Shuili Rd., Hsinchu Taiwan TW 30059","c":"TW","o":"Phytrex Technology Corp."}]);

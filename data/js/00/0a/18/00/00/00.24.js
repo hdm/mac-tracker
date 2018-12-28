@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a18000000/24",[{"d":"2002-06-05","t":"add","a":"3F Jang Bldg. 92-6 Yangjae-dong, Secho-g\nSeoul  137-130\n\n","c":"KOREA, REPUBLIC OF","o":"Vichel Inc."},{"d":"2015-08-27","t":"change","a":"3F Jang Bldg. 92-6 Yangjae-dong, Secho-g Seoul  KR 137-130","c":"KR","o":"Vichel Inc."}]);

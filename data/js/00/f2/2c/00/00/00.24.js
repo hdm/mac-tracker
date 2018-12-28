@@ -1,0 +1,1 @@
+deepmacDetailCallback("00f22c000000/24",[{"d":"2016-06-22","t":"add","a":"4Floor NO.1158 Xiehe Road,Changning District ,shanghai ,China 200335 Shanghai  CN  200335","c":"CN","o":"Shanghai B-star Technology Co.,Ltd."}]);

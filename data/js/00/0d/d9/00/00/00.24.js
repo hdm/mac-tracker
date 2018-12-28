@@ -1,0 +1,1 @@
+deepmacDetailCallback("000dd9000000/24",[{"d":"2003-07-23","t":"add","a":"Anton-Paar-Strasse 20\nGraz  8054\n\n","c":"AUSTRIA","o":"Anton Paar GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Anton-Paar-Strasse 20 Graz  AT 8054","c":"AT","o":"Anton Paar GmbH"}]);

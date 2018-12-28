@@ -1,0 +1,1 @@
+deepmacDetailCallback("78510c000000/24",[{"d":"2011-02-01","t":"add","a":"5 Hagavish St.\nKfar-Saba  44641\n\n","c":"ISRAEL","o":"LiveU Ltd."},{"d":"2015-08-27","t":"change","a":"5 Hagavish St. Kfar-Saba  IL 44641","c":"IL","o":"LiveU Ltd."}]);

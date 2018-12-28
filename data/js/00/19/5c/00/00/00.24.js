@@ -1,0 +1,1 @@
+deepmacDetailCallback("00195c000000/24",[{"d":"2006-08-20","t":"add","a":"3-17-6\nShin-Yokohama, Kohoku-ku\nYokohama Kanagawa 222-8580\n","c":"JAPAN","o":"Innotech Corporation"},{"d":"2015-08-27","t":"change","a":"3-17-6 Yokohama Kanagawa JP 222-8580","c":"JP","o":"Innotech Corporation"}]);

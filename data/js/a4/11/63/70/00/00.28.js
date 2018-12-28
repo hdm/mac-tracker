@@ -1,0 +1,1 @@
+deepmacDetailCallback("a41163700000/28",[{"a":"Zone B,Floor 15,NO.2 Building,Yihe Road,Shilong Community,Shiyan Street,Baoan District Shenzhen  CN 518000","o":"SHENZHEN YIWANJIA INFORMATION TECHNOLOGY CO.,LTD","d":"2016-12-11","t":"add","s":"ieee","c":"CN"}]);

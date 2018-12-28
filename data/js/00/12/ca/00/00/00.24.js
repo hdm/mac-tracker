@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012ca000000/24",[{"d":"2004-11-16","t":"add","a":"Ellegardvej 36\n6400 Sonderborg\n\n","c":"DENMARK","o":"Hansen Telecom"},{"d":"2008-02-09","t":"change","a":"Alsion 2\n6400 Sonderborg\n\n","c":"DENMARK","o":"Mechatronic Brick Aps"},{"d":"2015-08-27","t":"change","a":"Alsion 2 6400 Sonderborg DK","c":"DK","o":"Mechatronic Brick Aps"}]);

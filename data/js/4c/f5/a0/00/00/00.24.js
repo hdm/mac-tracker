@@ -1,0 +1,1 @@
+deepmacDetailCallback("4cf5a0000000/24",[{"d":"2014-07-01","t":"add","a":"600 Corporate Pointe\nSuite 1200\nCulver City CA 90230\n","c":"UNITED STATES","o":"Scalable Network Technologies Inc"},{"d":"2015-08-27","t":"change","a":"600 Corporate Pointe Culver City CA US 90230","c":"US","o":"Scalable Network Technologies Inc"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001eea000000/24",[{"d":"2007-12-31","t":"add","a":"900 Northrop Road\nWallingford CT 06492\n\n","c":"UNITED STATES","o":"Sensor Switch, Inc."},{"d":"2015-08-27","t":"change","a":"900 Northrop Road Wallingford CT US 06492","c":"US","o":"Sensor Switch, Inc."}]);

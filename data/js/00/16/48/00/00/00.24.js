@@ -1,0 +1,1 @@
+deepmacDetailCallback("001648000000/24",[{"d":"2005-10-29","t":"add","a":"3-3-4 Higashiyagura\nKusatsu-city Shiga 525-0054\n\n","c":"JAPAN","o":"SSD Company Limited"},{"d":"2015-08-27","t":"change","a":"3-3-4 Higashiyagura Kusatsu-city Shiga JP 525-0054","c":"JP","o":"SSD Company Limited"}]);

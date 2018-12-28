@@ -1,0 +1,1 @@
+deepmacDetailCallback("d4d7a9000000/24",[{"d":"2015-01-15","t":"add","a":"A401, NO.509 Caobao Road, Shanghai, PRC\nShanghai Shanghai 200233\n\n","c":"CHINA","o":"Shanghai Kaixiang Info Tech LTD"},{"d":"2015-08-27","t":"change","a":"A401, NO.509 Caobao Road, Shanghai, PRC Shanghai Shanghai CN 200233","c":"CN","o":"Shanghai Kaixiang Info Tech LTD"}]);

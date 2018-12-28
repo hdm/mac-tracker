@@ -1,0 +1,1 @@
+deepmacDetailCallback("384369000000/24",[{"d":"2012-11-17","t":"add","a":"1128 Narragansett Blvd.\nCranston RI 02905\n\n","c":"UNITED STATES","o":"Patrol Products Consortium LLC"},{"d":"2015-08-27","t":"change","a":"1128 Narragansett Blvd. Cranston RI US 02905","c":"US","o":"Patrol Products Consortium LLC"}]);

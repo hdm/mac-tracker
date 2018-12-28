@@ -1,0 +1,1 @@
+deepmacDetailCallback("48e6c0000000/24",[{"d":"2018-11-15","t":"add","s":"ieee-oui.csv","a":"Building B,SIM Technology Building,No.633,Jinzhong Road Shanghai  CN 200335","c":"CN","o":"SIMCom Wireless Solutions Co.,Ltd."}]);

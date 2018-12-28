@@ -1,0 +1,1 @@
+deepmacDetailCallback("f862aa000000/24",[{"d":"2013-08-22","t":"add","a":"#917, Worldmerdian 2nd\nGasan-dong, Guemchun-gu\nSeoul 153759\n","c":"KOREA, REPUBLIC OF","o":"xn systems"},{"d":"2015-08-27","t":"change","a":"#917, Worldmerdian 2nd  Seoul KR 153759","c":"KR","o":"xn systems"}]);

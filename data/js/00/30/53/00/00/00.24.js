@@ -1,0 +1,1 @@
+deepmacDetailCallback("003053000000/24",[{"d":"2000-09-08","t":"add","a":"An Der Strusbek 60-62\n22926 Ahrensburg\n\n","c":"GERMANY","o":"Basler AG"},{"d":"2015-08-27","t":"change","a":"An Der Strusbek 60-62 22926 Ahrensburg  DE","c":"DE","o":"Basler AG"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016e1000000/24",[{"d":"2005-12-23","t":"add","a":"48430 Lakeview Blvd.\nFremont CA 94538\n\n","c":"UNITED STATES","o":"SiliconStor, Inc."},{"d":"2015-08-27","t":"change","a":"48430 Lakeview Blvd. Fremont CA US 94538","c":"US","o":"SiliconStor, Inc."}]);

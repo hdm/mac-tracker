@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0d9f7000000/24",[{"d":"2016-09-24","t":"add","a":"Jining high-tech zone base of production,education & research Jining Shandong CN 272000","c":"CN","o":"ShanDong Domor Intelligent S&T CO.,Ltd"}]);

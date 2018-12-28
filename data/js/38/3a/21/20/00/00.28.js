@@ -1,0 +1,1 @@
+deepmacDetailCallback("383a21200000/28",[{"a":"6F, Bld#A, Dezhong Industrial Park, Yangmei Village, Bantian Town, Longgang District Shenzhen Guangdong CN 518129","o":"Shenzhen HS Fiber Communication Equipment CO., LTD","d":"2016-07-03","t":"add","s":"ieee","c":"CN"}]);

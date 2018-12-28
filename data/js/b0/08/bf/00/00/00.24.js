@@ -1,0 +1,1 @@
+deepmacDetailCallback("b008bf000000/24",[{"d":"2015-01-17","t":"add","a":"900 E HAMILTON AVE STE 500\nCAMPBELL CA 95008-0667\n\n","c":"UNITED STATES","o":"Vital Connect, Inc."},{"d":"2015-08-27","t":"change","a":"900 E HAMILTON AVE STE 500 CAMPBELL CA US 95008-0667","c":"US","o":"Vital Connect, Inc."}]);

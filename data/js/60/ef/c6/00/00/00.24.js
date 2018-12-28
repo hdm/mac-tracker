@@ -1,0 +1,1 @@
+deepmacDetailCallback("60efc6000000/24",[{"d":"2016-06-25","t":"add","a":"5F, TongXin Technology Park,HengGang,LongGang,Shenzhen,China Shenzhen GuangDong CN 518115","c":"CN","o":"Shenzhen Chima Technologies Co Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("48cb6e000000/24",[{"d":"2010-09-25","t":"add","a":"Cliff Lodge\nHarmby Road\nLeyburn North Yorkshire DL8 5NS\n","c":"UNITED KINGDOM","o":"Cello Electronics (UK) Ltd"},{"d":"2015-08-27","t":"change","a":"Cliff Lodge Leyburn North Yorkshire GB DL8 5NS","c":"GB","o":"Cello Electronics (UK) Ltd"}]);

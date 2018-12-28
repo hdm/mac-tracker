@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0db88000000/24",[{"d":"2013-11-19","t":"add","a":"3090 Raritan Ave\nAberdeen Proving Ground MD 21001\n\n","c":"UNITED STATES","o":"Open Standard Digital-IF Interface for SATCOM Systems"},{"d":"2015-08-27","t":"change","a":"3090 Raritan Ave Aberdeen Proving Ground MD US 21001","c":"US","o":"Open Standard Digital-IF Interface for SATCOM Systems"}]);

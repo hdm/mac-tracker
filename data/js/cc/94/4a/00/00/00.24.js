@@ -1,0 +1,1 @@
+deepmacDetailCallback("cc944a000000/24",[{"d":"2011-11-03","t":"add","a":"Berliner Str. 43\nAsslar Hessen 35614\n\n","c":"GERMANY","o":"Pfeiffer Vacuum GmbH"},{"d":"2015-08-27","t":"change","a":"Berliner Str. 43 Asslar Hessen DE 35614","c":"DE","o":"Pfeiffer Vacuum GmbH"}]);

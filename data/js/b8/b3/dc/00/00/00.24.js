@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8b3dc000000/24",[{"d":"2015-03-13","t":"add","a":"Gaojiling, Taiping Town,\nShixing County\nShao Guan Guang Dong 512500\n","c":"CHINA","o":"DEREK (SHAOGUAN) LIMITED"},{"d":"2015-08-27","t":"change","a":"Gaojiling, Taiping Town, Shao Guan Guang Dong CN 512500","c":"CN","o":"DEREK (SHAOGUAN) LIMITED"}]);

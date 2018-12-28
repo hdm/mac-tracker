@@ -1,0 +1,1 @@
+deepmacDetailCallback("a4d3b5000000/24",[{"d":"2013-03-06","t":"add","a":"Cintorinska 557/73\nStropkov  09101\n\n","c":"SLOVAKIA","o":"GLITEL Stropkov, s.r.o."},{"d":"2015-08-27","t":"change","a":"Cintorinska 557/73 Stropkov  SK 09101","c":"SK","o":"GLITEL Stropkov, s.r.o."}]);

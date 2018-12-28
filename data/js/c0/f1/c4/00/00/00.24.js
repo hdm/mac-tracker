@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0f1c4000000/24",[{"d":"2013-10-01","t":"add","a":"3F., No. 11, Aly 3, Ln. 123, Sec. 3 Ren'ai Rd.\nDa'an District\nTaipei City  106\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Pacidal Corporation Ltd."},{"d":"2015-08-27","t":"change","a":"3F., No. 11, Aly 3, Ln. 123, Sec. 3 Ren'ai Rd. Taipei City  TW 106","c":"TW","o":"Pacidal Corporation Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c106f000000/24",[{"d":"2010-03-30","t":"add","a":"165, King Abdullah Second Street\nAmman  11953\n\n","c":"JORDAN","o":"ALBAHITH TECHNOLOGIES"},{"d":"2015-08-27","t":"change","a":"165, King Abdullah Second Street Amman  JO 11953","c":"JO","o":"ALBAHITH TECHNOLOGIES"}]);

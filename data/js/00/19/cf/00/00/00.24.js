@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019cf000000/24",[{"d":"2006-09-25","t":"add","a":"Av. Serra , 100\nSta.Ma.Palautordera Barcelona 08460\n\n","c":"SPAIN","o":"SALICRU, S.A."},{"d":"2015-08-27","t":"change","a":"Av. Serra , 100 Sta.Ma.Palautordera Barcelona ES 08460","c":"ES","o":"SALICRU, S.A."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("002352000000/24",[{"d":"2008-10-08","t":"add","a":"Via Lavino, 265\nMonte San Pietro (BO)  40050\n\n","c":"ITALY","o":"DATASENSOR S.p.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Lavino, 265 Monte San Pietro (BO)  IT 40050","c":"IT","o":"DATASENSOR S.p.A."}]);

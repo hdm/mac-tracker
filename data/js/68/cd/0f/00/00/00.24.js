@@ -1,0 +1,1 @@
+deepmacDetailCallback("68cd0f000000/24",[{"d":"2011-07-07","t":"add","a":"FL5, BLDG12, 3RD DISTRICT, TANGTOU INDUSTRIAL PARK\nSHIYAN, BAOAN\nSHENZHEN GUANGDONG 518018\n","c":"CHINA","o":"U Tek Company Limited"},{"d":"2015-08-27","t":"change","a":"FL5, BLDG12, 3RD DISTRICT, TANGTOU INDUSTRIAL PARK SHENZHEN GUANGDONG CN 518018","c":"CN","o":"U Tek Company Limited"}]);

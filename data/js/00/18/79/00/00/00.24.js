@@ -1,0 +1,1 @@
+deepmacDetailCallback("001879000000/24",[{"d":"2006-06-13","t":"add","a":"Soeflinger Str. 100\nUlm BW 89077\n\n","c":"GERMANY","o":"dSys"},{"d":"2015-08-27","t":"change","a":"Soeflinger Str. 100 Ulm BW DE 89077","c":"DE","o":"dSys"}]);

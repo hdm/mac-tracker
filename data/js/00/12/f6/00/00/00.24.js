@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012f6000000/24",[{"d":"2004-12-05","t":"add","a":"2-6-27 Ibarame\nKashiwazaki City Niigata 9451341\n\n","c":"JAPAN","o":"MDK CO.,LTD."},{"d":"2015-08-27","t":"change","a":"2-6-27 Ibarame Kashiwazaki City Niigata JP 9451341","c":"JP","o":"MDK CO.,LTD."}]);

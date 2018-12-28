@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019db000000/24",[{"d":"2006-10-16","t":"add","a":"NO. 69, LI-DE ST., JUNG-HE CITY\nTAIPEI HSIEN  235\n\n","c":"TUVALU","o":"MICRO-STAR INTERNATIONAL CO., LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"NO. 69, LI-DE ST. JUNG-HE CITY TAIPEI HSIEN TW 235","c":"TW","o":"MICRO-STAR INTERNATIONAL CO., LTD."}]);

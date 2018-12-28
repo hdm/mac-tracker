@@ -1,0 +1,1 @@
+deepmacDetailCallback("001a17000000/24",[{"d":"2006-11-02","t":"add","a":"2901 Tasman Dr., Ste. #210\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"Teak Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"2901 Tasman Dr., Ste. #210 Santa Clara CA US 95054","c":"US","o":"Teak Technologies, Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("a06518000000/24",[{"d":"2013-10-29","t":"add","a":"HoaLac Hi-Tech Park\nHANOI 10000\n\n","c":"VIET NAM","o":"VNPT TECHNOLOGY"},{"d":"2015-08-27","t":"change","a":"HoaLac Hi-Tech Park  HANOI VN 10000","c":"VN","o":"VNPT TECHNOLOGY"}]);

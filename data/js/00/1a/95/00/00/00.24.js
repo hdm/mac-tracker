@@ -1,0 +1,1 @@
+deepmacDetailCallback("001a95000000/24",[{"d":"2006-12-05","t":"add","a":"11,JiangXi Road,\nQingDao ShanDong 266071\n\n","c":"CHINA","o":"Hisense Mobile Communications Technoligy Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"11,JiangXi Road, QingDao ShanDong CN 266071","c":"CN","o":"Hisense Mobile Communications Technoligy Co.,Ltd."}]);

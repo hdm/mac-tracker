@@ -1,0 +1,1 @@
+deepmacDetailCallback("cc3f1d000000/24",[{"d":"2014-07-08","t":"add","a":"Mila i Fontanals 1bis 1\nIgualada Barcelona 08700\n\n","c":"SPAIN","o":"Intesis Software SL"},{"d":"2015-08-27","t":"change","a":"Mila i Fontanals 1bis 1 Igualada Barcelona ES 08700","c":"ES","o":"Intesis Software SL"}]);

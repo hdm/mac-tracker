@@ -1,0 +1,1 @@
+deepmacDetailCallback("80fbf0000000/24",[{"a":"7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233","o":"Quectel Wireless Solutions Co., Ltd.","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("003092000000/24",[{"d":"2000-09-08","t":"add","a":"Langrutistrasse 33\nCH-8840 Einsledeln\n\n","c":"SWITZERLAND","o":"ModuNORM GmbH"},{"d":"2015-08-27","t":"change","a":"Langrutistrasse 33 CH-8840 Einsledeln  CH","c":"CH","o":"ModuNORM GmbH"}]);

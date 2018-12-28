@@ -1,0 +1,1 @@
+deepmacDetailCallback("18dfb4000000/24",[{"d":"2018-10-24","t":"add","s":"ieee-oui.csv","a":"70, Daechang-gil, Judeok-eup Chungju-si Chungcheongbuk-do KR 27463","c":"KR","o":"BOSUNG POWERTEC CO.,LTD."}]);

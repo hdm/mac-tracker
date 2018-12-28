@@ -1,0 +1,1 @@
+deepmacDetailCallback("385fc3000000/24",[{"d":"2010-05-01","t":"add","a":"#503, Dong il B/D, 826, Guro-3dong,\nGuro-Gu,\nSeoul  152-879\n","c":"KOREA, REPUBLIC OF","o":"Yu Jeong System, Co.Ltd"},{"d":"2015-08-27","t":"change","a":"#503, Dong il B/D, 826, Guro-3dong,  Seoul  KR 152-879","c":"KR","o":"Yu Jeong System, Co.Ltd"}]);

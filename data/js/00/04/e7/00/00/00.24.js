@@ -1,0 +1,1 @@
+deepmacDetailCallback("0004e7000000/24",[{"d":"2001-01-24","t":"add","a":"10140 Barnes Canyon Road\nSan Diego CA 92121\n\n","c":"UNITED STATES","o":"Lightpointe Communications, Inc"},{"d":"2015-08-27","t":"change","a":"10140 Barnes Canyon Road San Diego CA US 92121","c":"US","o":"Lightpointe Communications, Inc"}]);

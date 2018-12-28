@@ -1,0 +1,1 @@
+deepmacDetailCallback("94b9b4000000/24",[{"d":"2013-09-10","t":"add","a":"5F., No.65, Guangfu N. Rd., Zhongxing Vil.,\nHukou Township\nHsinchu  303\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Aptos Technology"},{"d":"2015-08-27","t":"change","a":"5F., No.65, Guangfu N. Rd., Zhongxing Vil., Hsinchu  TW 303","c":"TW","o":"Aptos Technology"}]);

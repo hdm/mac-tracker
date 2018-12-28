@@ -1,0 +1,1 @@
+deepmacDetailCallback("e42ad3000000/24",[{"d":"2010-12-22","t":"add","a":"Via del Timavo 33\nBologna  40128\n\n","c":"ITALY","o":"Magneti Marelli S.p.A. Powertrain"},{"d":"2015-08-27","t":"change","a":"Via del Timavo 33 Bologna  IT 40128","c":"IT","o":"Magneti Marelli S.p.A. Powertrain"}]);

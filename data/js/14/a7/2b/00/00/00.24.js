@@ -1,0 +1,1 @@
+deepmacDetailCallback("14a72b000000/24",[{"d":"2017-11-14","t":"add","a":"CRT Building, Jupitor Jn , Near Time kids Koothattukulam - Piravom Rd ERNAKULAM Time Kids day care IN 686662","c":"IN","o":"currentoptronics Pvt.Ltd"}]);

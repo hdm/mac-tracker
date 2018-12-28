@@ -1,0 +1,1 @@
+deepmacDetailCallback("ac1702000000/24",[{"d":"2012-10-06","t":"add","a":"ul. Lotnicza 1\nPoznan  60-421\n\n","c":"POLAND","o":"Fibar Group sp. z o.o."},{"d":"2015-08-27","t":"change","a":"ul. Lotnicza 1 Poznan  PL 60-421","c":"PL","o":"Fibar Group sp. z o.o."}]);

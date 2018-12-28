@@ -1,0 +1,1 @@
+deepmacDetailCallback("001fe7000000/24",[{"d":"2008-02-09","t":"add","a":"Strada del Portone 129\nGrugliasco Torino 10095\n\n","c":"ITALY","o":"Simet"},{"d":"2015-08-27","t":"change","a":"Strada del Portone 129 Grugliasco Torino IT 10095","c":"IT","o":"Simet"}]);

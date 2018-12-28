@@ -1,0 +1,1 @@
+deepmacDetailCallback("00136e000000/24",[{"d":"2005-01-23","t":"add","a":"4F. Dongam B/D., 264-5, YangJae-Dong\nSeocho-Ku\nSeoul  137-130\n","c":"KOREA, REPUBLIC OF","o":"Techmetro Corp."},{"d":"2015-08-27","t":"change","a":"4F. Dongam B/D., 264-5, YangJae-Dong Seoul  KR 137-130","c":"KR","o":"Techmetro Corp."}]);

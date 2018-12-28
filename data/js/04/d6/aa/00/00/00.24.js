@@ -1,0 +1,1 @@
+deepmacDetailCallback("04d6aa000000/24",[{"d":"2017-06-14","t":"add","a":"93Moo5T. Bangsamak SEMTHAI, WELLGROW INDUSTRIAL ESTATE Bangpakong Chachoengsao TH 24180","c":"TH","o":"SAMSUNG ELECTRO-MECHANICS(THAILAND)"}]);

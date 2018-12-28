@@ -1,0 +1,1 @@
+deepmacDetailCallback("60fe20000000/24",[{"d":"2013-12-05","t":"add","a":"1764 Automation ParkWay\nSan Jose CA 95131\n\n","c":"UNITED STATES","o":"2 Wire"},{"d":"2015-08-27","t":"change","a":"1764 Automation ParkWay\nSan Jose  CA  95131\n\n","c":"US","o":"2 Wire"},{"d":"2015-10-17","t":"change","a":"1764 Automation ParkWay San Jose CA US 95131","c":"US","o":"2Wire Inc"}]);

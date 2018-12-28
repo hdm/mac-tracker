@@ -1,0 +1,1 @@
+deepmacDetailCallback("000cd2000000/24",[{"d":"2003-04-08","t":"add","a":"Nordstrasse 1\nLuterbach  CH-4542\n\n","c":"SWITZERLAND","o":"Schaffner EMV AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Nordstrasse 1 Luterbach  CH CH-4542","c":"CH","o":"Schaffner EMV AG"}]);

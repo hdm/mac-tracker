@@ -1,0 +1,1 @@
+deepmacDetailCallback("0008d0000000/24",[{"d":"2001-12-23","t":"add","a":"3-11-7, Nishi-shimbashi\nMinato-ku Tokyo 105-0003\n\n","c":"JAPAN","o":"Musashi Engineering Co., LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3-11-7, Nishi-shimbashi Minato-ku Tokyo JP 105-0003","c":"JP","o":"Musashi Engineering Co., LTD."}]);

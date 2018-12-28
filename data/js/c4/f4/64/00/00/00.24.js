@@ -1,0 +1,1 @@
+deepmacDetailCallback("c4f464000000/24",[{"d":"2010-06-25","t":"add","a":"Pot k sejmiscu 33\nLjubljana  1000\n\n","c":"SLOVENIA","o":"Spica international"},{"d":"2015-08-27","t":"change","a":"Pot k sejmiscu 33 Ljubljana  SI 1000","c":"SI","o":"Spica international"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c4835400000/28",[{"a":"R310/312,3/F,Beike Venture Building,No.1077,Nanhai Avenue,Nanshan District Shenzhen Guangdong CN 518067","o":"GEARTECH LTD","d":"2018-02-18","t":"add","s":"ieee","c":"CN"}]);

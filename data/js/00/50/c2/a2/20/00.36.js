@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2a22000/36",[{"a":"Tokyo Opera City Tower 11F Shinjuku-ku Tokyo JP 163-1411","o":"Nippon Manufacturing Service Corporation (abbreviated as 'nms')","d":"2009-01-11","t":"add","s":"ieee","c":"JP"}]);

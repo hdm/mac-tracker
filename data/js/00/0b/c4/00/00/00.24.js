@@ -1,0 +1,1 @@
+deepmacDetailCallback("000bc4000000/24",[{"d":"2002-11-19","t":"add","a":"Woermannkehre 1\nBerlin  12359\n\n","c":"GERMANY","o":"BIOTRONIK GmbH & Co","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Woermannkehre 1 Berlin  DE 12359","c":"DE","o":"BIOTRONIK GmbH & Co"}]);

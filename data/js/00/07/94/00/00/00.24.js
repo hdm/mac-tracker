@@ -1,0 +1,1 @@
+deepmacDetailCallback("000794000000/24",[{"d":"2001-10-24","t":"add","a":"111 Anza Blvd., Suite 120\nBurlingame CA 94010\n\n","c":"UNITED STATES","o":"Simple Devices, Inc."},{"d":"2015-08-27","t":"change","a":"111 Anza Blvd., Suite 120 Burlingame CA US 94010","c":"US","o":"Simple Devices, Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000dd7000000/24",[{"d":"2003-07-23","t":"add","a":"1-12-44 Aobadai\nKashiwa-shi Chiba-ken 277-0055\n\n","c":"JAPAN","o":"Bright","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-12-44 Aobadai Kashiwa-shi Chiba-ken JP 277-0055","c":"JP","o":"Bright"}]);

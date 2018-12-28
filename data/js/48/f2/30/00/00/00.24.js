@@ -1,0 +1,1 @@
+deepmacDetailCallback("48f230000000/24",[{"d":"2012-11-17","t":"add","a":"Kranz Techno #1420, Sangdaewon 1-dong\nJungwon-gu, Seongnam-si\nSeongnam-Si  462-729\n","c":"KOREA, REPUBLIC OF","o":"Ubizcore Co.,LTD"},{"d":"2015-08-27","t":"change","a":"Kranz Techno #1420, Sangdaewon 1-dong Seongnam-Si  KR 462-729","c":"KR","o":"Ubizcore Co.,LTD"}]);

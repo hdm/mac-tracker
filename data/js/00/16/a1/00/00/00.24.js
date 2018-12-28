@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016a1000000/24",[{"d":"2005-11-29","t":"add","a":"3255-1 Scott Blvd\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"3Leaf Networks"},{"d":"2015-08-27","t":"change","a":"3255-1 Scott Blvd Santa Clara CA US 95054","c":"US","o":"3Leaf Networks"}]);

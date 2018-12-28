@@ -1,0 +1,1 @@
+deepmacDetailCallback("001a14000000/24",[{"d":"2006-10-16","t":"add","a":"160 Wenjing Rd., Minhang\nShanghai  2000245\n\n","c":"CHINA","o":"Xin Hua Control Engineering Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"160 Wenjing Rd., Minhang Shanghai  CN 2000245","c":"CN","o":"Xin Hua Control Engineering Co.,Ltd."}]);

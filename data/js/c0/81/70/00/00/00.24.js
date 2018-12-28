@@ -1,0 +1,1 @@
+deepmacDetailCallback("c08170000000/24",[{"d":"2012-03-30","t":"add","a":"4101, rue Molson\nSuite 400\nMontreal Quebec H1Y3L1\n","c":"CANADA","o":"Effigis GeoSolutions"},{"d":"2015-08-27","t":"change","a":"4101, rue Molson Montreal Quebec CA H1Y3L1","c":"CA","o":"Effigis GeoSolutions"}]);

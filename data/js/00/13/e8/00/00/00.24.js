@@ -1,0 +1,1 @@
+deepmacDetailCallback("0013e8000000/24",[{"d":"2005-03-06","t":"add","a":"Lot 8, Jalan Hi-tech 2/3\nKulim Hi-Tech Park\nKedah 09000\n","c":"MALAYSIA","o":"Intel Corporate","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Lot 8, Jalan Hi-tech 2/3 Kulim Kedah MY 09000","c":"MY","o":"Intel Corporate"}]);

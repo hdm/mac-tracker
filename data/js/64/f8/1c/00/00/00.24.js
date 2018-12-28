@@ -1,0 +1,1 @@
+deepmacDetailCallback("64f81c000000/24",[{"a":"Bantian, Longgang District, Shenzhen, 518129, P.R.C Shenzhen GUANGDONG Province CN 518000","o":"Huawei Technologies Co., Ltd.","d":"2018-08-05","t":"add","s":"ieee","c":"CN"}]);

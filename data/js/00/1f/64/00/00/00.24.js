@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f64000000/24",[{"d":"2007-12-31","t":"add","a":"Room B-12B01, Keshi Plaza, Xinxi road,\nShangdi park,Haidian,\nBeijing  100085\n","c":"CHINA","o":"Beijing Autelan Technology Inc."},{"d":"2015-08-27","t":"change","a":"Room B-12B01, Keshi Plaza, Xinxi road, Beijing  CN 100085","c":"CN","o":"Beijing Autelan Technology Inc."}]);

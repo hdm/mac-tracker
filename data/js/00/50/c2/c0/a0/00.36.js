@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2c0a000/36",[{"a":"ABB Industrial Park, Torch Hi-Tech Industrial Development Zone Xiamen  Fujian CN 361006","o":"ABB Transmission and Distribution Automation Equipment (Xiamen) Co., Ltd.","d":"2010-02-14","t":"add","s":"ieee","c":"CN"}]);

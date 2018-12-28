@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2d6a000/36",[{"a":"2023-1 Endo Fujisawa-shi Kanagawa-Pref. JP 252-0816","o":"A&T Corporation, Electrics Group , LAS R&D Unit,","d":"2010-11-21","t":"add","s":"ieee","c":"JP"}]);

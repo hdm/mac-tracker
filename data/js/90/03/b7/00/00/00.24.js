@@ -1,0 +1,1 @@
+deepmacDetailCallback("9003b7000000/24",[{"d":"2011-11-11","t":"add","a":"174 quai de jemmapes\nPARIS  7510\n\n","c":"FRANCE","o":"PARROT"},{"d":"2015-08-27","t":"change","a":"174 quai de jemmapes\nPARIS    7510\n\n","c":"FR","o":"PARROT"},{"d":"2016-04-14","t":"change","a":"174 Quai de Jemmapes Paris  FR 75010","c":"FR","o":"PARROT SA"}]);

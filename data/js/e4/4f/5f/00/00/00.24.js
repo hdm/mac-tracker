@@ -1,0 +1,1 @@
+deepmacDetailCallback("e44f5f000000/24",[{"d":"2012-07-27","t":"add","a":"Meclis Mah. Hayran Sok. No:4\nSancaktepe\nIstanbul  34785\n","c":"TURKEY","o":"EDS Elektronik Destek San.Tic.Ltd.Sti"},{"d":"2015-08-27","t":"change","a":"Meclis Mah. Hayran Sok. No:4 istanbul  TR 34785","c":"TR","o":"EDS Elektronik Destek San.Tic.Ltd.Sti"}]);

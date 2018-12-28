@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0a198000000/24",[{"d":"2013-06-04","t":"add","a":"16 Archimedes Place\nMurarrie QLD 4172\n\n","c":"AUSTRALIA","o":"NOJA Power Switchgear Pty Ltd"},{"d":"2015-08-27","t":"change","a":"16 Archimedes Place Murarrie QLD AU 4172","c":"AU","o":"NOJA Power Switchgear Pty Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8dc87000000/24",[{"d":"2013-06-08","t":"add","a":"577-1 Obane\nShimizu-Ku\nShizuoka-City Shizuoka 424-0103\n","c":"JAPAN","o":"IAI Corporation"},{"d":"2015-08-27","t":"change","a":"577-1 Obane Shizuoka-City Shizuoka JP 424-0103","c":"JP","o":"IAI Corporation"}]);

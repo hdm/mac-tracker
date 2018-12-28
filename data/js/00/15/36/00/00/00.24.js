@@ -1,0 +1,1 @@
+deepmacDetailCallback("001536000000/24",[{"d":"2005-07-21","t":"add","a":"#705, dongyoung Venturestel, 199-32\nAnyang7-dong, Manan-gu\nAnyang City Kyoungki-do 430-010\n","c":"KOREA, REPUBLIC OF","o":"Powertech co.,Ltd"},{"d":"2015-08-27","t":"change","a":"#705, dongyoung Venturestel, 199-32 Anyang City Kyoungki-do US 430-010","c":"US","o":"Powertech co.,Ltd"}]);

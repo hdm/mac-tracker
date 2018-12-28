@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016d1000000/24",[{"d":"2005-12-15","t":"add","a":"K Podlesi 541\nPribram VI  26180\n\n","c":"CZECH REPUBLIC","o":"ZAT a.s."},{"d":"2015-08-27","t":"change","a":"K Podlesi 541 Pribram VI  CZ 26180","c":"CZ","o":"ZAT a.s."}]);

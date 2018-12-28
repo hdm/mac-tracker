@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019bf000000/24",[{"d":"2006-09-25","t":"add","a":"No.2 Building,Jia 32,Beiheyan Avenue,East City\nPeijing  100006\n\n","c":"CHINA","o":"Citiway technology Co.,ltd"},{"d":"2015-08-27","t":"change","a":"No.2 Building,Jia 32,Beiheyan Avenue,East City Peijing  CN 100006","c":"CN","o":"Citiway technology Co.,ltd"}]);

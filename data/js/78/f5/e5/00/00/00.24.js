@@ -1,0 +1,1 @@
+deepmacDetailCallback("78f5e5000000/24",[{"d":"2013-03-20","t":"add","a":"Hennenbusch\nMenden NRW 58708\n\n","c":"GERMANY","o":"BEGA Gantenbrink-Leuchten KG"},{"d":"2015-08-27","t":"change","a":"Hennenbusch Menden NRW DE 58708","c":"DE","o":"BEGA Gantenbrink-Leuchten KG"}]);

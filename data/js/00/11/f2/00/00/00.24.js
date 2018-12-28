@@ -1,0 +1,1 @@
+deepmacDetailCallback("0011f2000000/24",[{"d":"2004-07-24","t":"add","a":"17-th Line Vasilevsky Ostrov, 54-1\nSt.Petersburg  199178\n\n","c":"RUSSIAN FEDERATION","o":"Institute of Network Technologies"},{"d":"2015-08-27","t":"change","a":"17-th Line Vasilevsky Ostrov, 54-1 St.Petersburg  RU 199178","c":"RU","o":"Institute of Network Technologies"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0006f0000000/24",[{"d":"2001-10-24","t":"add","a":"8815 122nd Ave., NE\nKirkland WA 98033\n\n","c":"UNITED STATES","o":"Digeo, Inc."},{"d":"2015-08-27","t":"change","a":"8815 122nd Ave., NE Kirkland WA US 98033","c":"US","o":"Digeo, Inc."}]);

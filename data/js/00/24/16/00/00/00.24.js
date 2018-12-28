@@ -1,0 +1,1 @@
+deepmacDetailCallback("002416000000/24",[{"d":"2008-10-26","t":"add","a":"LG APT 211-1805,\nShinbong-Dong, Suji-Gu,\nYongin City Gyeong-Gi Province 448-150\n","c":"KOREA, REPUBLIC OF","o":"Any Use","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"LG APT 211-1805, Yongin City Gyeong-Gi Province KR 448-150","c":"KR","o":"Any Use"}]);

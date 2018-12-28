@@ -1,0 +1,1 @@
+deepmacDetailCallback("687924000000/24",[{"d":"2009-10-31","t":"add","a":"Dammstrasse 21\nWerther NRW 33824\n\n","c":"GERMANY","o":"ELS-GmbH & Co. KG"},{"d":"2015-08-27","t":"change","a":"Dammstrasse 21 Werther NRW DE 33824","c":"DE","o":"ELS-GmbH & Co. KG"}]);

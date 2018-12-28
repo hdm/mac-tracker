@@ -1,0 +1,1 @@
+deepmacDetailCallback("28f537700000/28",[{"a":"Room 1006,Beike building，Keyuan road,Yuehai streets,Nanshan District Shenzhen Guangdong Province CN 518200","o":"Shenzhen Modern Cowboy Technology Co.,Ltd.","d":"2017-04-30","t":"add","s":"ieee","c":"CN"}]);

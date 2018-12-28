@@ -1,0 +1,1 @@
+deepmacDetailCallback("84e0f4500000/28",[{"a":"5-6th Floor, Innovation Mansion East Software Park,90# Wensan Road Hangzhou Zhejiang CN 310012","o":"Hangzhou Nationalchip Science & Technology Co.,Ltd.","d":"2016-06-05","t":"add","s":"ieee","c":"CN"}]);

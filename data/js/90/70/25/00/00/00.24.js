@@ -1,0 +1,1 @@
+deepmacDetailCallback("907025000000/24",[{"d":"2012-05-15","t":"add","a":"4th Floor, Building 2, Software Park\n2 Keling Road, New district,\nSuzhou Jiangsu 215163\n","c":"CHINA","o":"Garea Microsys Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"4th Floor, Building 2, Software Park Suzhou Jiangsu CN 215163","c":"CN","o":"Garea Microsys Co.,Ltd."}]);

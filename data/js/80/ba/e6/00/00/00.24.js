@@ -1,0 +1,1 @@
+deepmacDetailCallback("80bae6000000/24",[{"d":"2013-10-05","t":"add","a":"Langballe 4\nHorsens Jylland 8700\n\n","c":"DENMARK","o":"Neets"},{"d":"2015-08-27","t":"change","a":"Langballe 4 Horsens Jylland DK 8700","c":"DK","o":"Neets"}]);

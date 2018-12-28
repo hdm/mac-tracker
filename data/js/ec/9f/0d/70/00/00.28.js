@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec9f0d700000/28",[{"a":"Beijing Haidian.No.2 of Yong Cheng North Road Building 1.402 Beijing  CN 100094","o":"Bei jing Lian Shan times Techonology Co.Ltd","d":"2017-08-13","t":"add","s":"ieee","c":"CN"}]);

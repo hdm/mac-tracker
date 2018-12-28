@@ -1,0 +1,1 @@
+deepmacDetailCallback("84df19000000/24",[{"d":"2015-02-14","t":"add","a":"6-17, Overseas Students Pioneer Park,\nNo. 108 Jiangbin East Road\nFuzhou Fujian 350015\n","c":"CHINA","o":"Chuango Security Technology Corporation"},{"d":"2015-08-27","t":"change","a":"6-17, Overseas Students Pioneer Park, Fuzhou Fujian CN 350015","c":"CN","o":"Chuango Security Technology Corporation"}]);

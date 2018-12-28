@@ -1,0 +1,1 @@
+deepmacDetailCallback("38262b000000/24",[{"d":"2014-05-14","t":"add","a":"No.130, Guoji Rd., Tucheng Dist.,\nNew Taipei City  23650\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"UTran Technology"},{"d":"2015-08-27","t":"change","a":"No.130, Guoji Rd., Tucheng Dist., New Taipei City  TW 23650","c":"TW","o":"UTran Technology"}]);

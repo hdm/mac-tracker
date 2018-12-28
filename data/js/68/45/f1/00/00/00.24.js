@@ -1,0 +1,1 @@
+deepmacDetailCallback("6845f1000000/24",[{"a":"Tachihi Building No.2, 6-1-3, Sakae-Cho Tachikawa-shi Tokyo JP 190-0003","o":"TOSHIBA CLIENT SOLUTIONS CO., LTD.","d":"2018-09-07","t":"add","s":"ieee","c":"JP"}]);

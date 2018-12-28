@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f6b000000/24",[{"d":"2004-02-12","t":"add","a":"Allersberger Strasse 185 F\nNuernberg Bavaria D-90461\n\n","c":"GERMANY","o":"GateWare Communications GmbH"},{"d":"2015-08-27","t":"change","a":"Allersberger Strasse 185 F Nuernberg Bavaria DE D-90461","c":"DE","o":"GateWare Communications GmbH"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0090b0000000/24",[{"d":"2000-09-08","t":"add","a":"1960 ZANKER RD\nSAN JOSE  CA  95112\n\n","c":"UNITED STATES","o":"VADEM"},{"d":"2001-10-24","t":"change","a":"1960 ZANKER RD\nSAN JOSE CA 95112\n\n","c":"UNITED STATES","o":"VADEM"},{"d":"2015-08-27","t":"change","a":"1960 ZANKER RD SAN JOSE CA US 95112","c":"US","o":"VADEM"}]);

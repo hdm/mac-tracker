@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2274000/36",[{"a":"C/ Geldo Edificio 700, Parque Tecnológico Bizkaia Derio Vizcaya ES 48160","o":"Fundación TECNALIA Research & Innovation","d":"2008-07-30","t":"add","s":"ieee","c":"ES"}]);

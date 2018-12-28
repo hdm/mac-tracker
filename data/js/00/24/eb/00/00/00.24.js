@@ -1,0 +1,1 @@
+deepmacDetailCallback("0024eb000000/24",[{"d":"2009-01-11","t":"add","a":"1940 E. Mariposa Ave.\nSuite 150\nEl Segundo CA 90245\n","c":"UNITED STATES","o":"ClearPath Networks, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1940 E. Mariposa Ave El Segundo CA US 90245","c":"US","o":"ClearPath Networks, Inc."}]);

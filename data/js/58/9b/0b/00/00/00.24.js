@@ -1,0 +1,1 @@
+deepmacDetailCallback("589b0b000000/24",[{"d":"2014-10-31","t":"add","a":"Floor 5, Huanxing Building\nNo.14 Hua Yuan North Road\nHaidian District Beijing 100191\n","c":"CHINA","o":"Shineway Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"Floor 5, Huanxing Building Beijing  CN 100191","c":"CN","o":"Shineway Technologies, Inc."}]);

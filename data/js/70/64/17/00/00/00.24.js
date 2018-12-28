@@ -1,0 +1,1 @@
+deepmacDetailCallback("706417000000/24",[{"d":"2010-05-15","t":"add","a":"Lerida, 61\nMadrid Madrid E28020\n\n","c":"SPAIN","o":"ORBIS TECNOLOGIA ELECTRICA S.A."},{"d":"2015-08-27","t":"change","a":"Lerida, 61 Madrid Madrid US E28020","c":"US","o":"ORBIS TECNOLOGIA ELECTRICA S.A."}]);

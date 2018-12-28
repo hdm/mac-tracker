@@ -1,0 +1,1 @@
+deepmacDetailCallback("c88f26000000/24",[{"d":"2017-11-22","t":"add","a":"7F,Block A,Skyworth Building,\n\n\n","c":"Shenzhen  Guangdong  518057","o":"Skyworth Digital Technology(Shenzhen) Co.,Ltd"},{"d":"2017-11-25","t":"change","a":"7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057","c":"CN","o":"Skyworth Digital Technology(Shenzhen) Co.,Ltd"}]);

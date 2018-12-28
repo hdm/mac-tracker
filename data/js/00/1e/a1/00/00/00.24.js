@@ -1,0 +1,1 @@
+deepmacDetailCallback("001ea1000000/24",[{"d":"2007-11-20","t":"add","a":"Vesterlundvej 14\nHerlev  2730\n\n","c":"DENMARK","o":"Brunata a/s","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Vesterlundvej 14 Herlev  DK 2730","c":"DK","o":"Brunata a/s"}]);

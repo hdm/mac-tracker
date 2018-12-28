@@ -1,0 +1,1 @@
+deepmacDetailCallback("002711000000/24",[{"d":"2009-07-31","t":"add","a":"1880 NW 93Av\nMiami Florida 33172\n\n","c":"UNITED STATES","o":"LanPro Inc"},{"d":"2015-08-27","t":"change","a":"1880 NW 93Av Miami Florida US 33172","c":"US","o":"LanPro Inc"}]);

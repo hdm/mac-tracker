@@ -1,0 +1,1 @@
+deepmacDetailCallback("0022b3000000/24",[{"d":"2008-07-19","t":"add","a":"Via Ruffilli, 1\nCurno Bergamo 24035\n\n","c":"ITALY","o":"Sei S.p.A."},{"d":"2015-08-27","t":"change","a":"Via Ruffilli, 1 Curno Bergamo IT 24035","c":"IT","o":"Sei S.p.A."}]);

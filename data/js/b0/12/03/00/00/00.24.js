@@ -1,0 +1,1 @@
+deepmacDetailCallback("b01203000000/24",[{"d":"2012-06-21","t":"add","a":"Room A4, 3/F, Friend's House , No.6A Carnarvon Road,\nTsim Sha Tsui, Kowloon,\n999077\n","c":"HONG KONG","o":"Dynamics Hong Kong Limited"},{"d":"2015-08-27","t":"change","a":"Room A4, 3/F, Friend's House , No.6A Carnarvon Road,   HK 999077","c":"HK","o":"Dynamics Hong Kong Limited"}]);

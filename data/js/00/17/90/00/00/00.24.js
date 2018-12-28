@@ -1,0 +1,1 @@
+deepmacDetailCallback("001790000000/24",[{"d":"2006-03-06","t":"add","a":"13th Fl, Choung-Jin Bldg, 53-5\nWonhyo-ro 3Ga, Yongsan-Gu\nSeoul  140-719\n","c":"KOREA, REPUBLIC OF","o":"HYUNDAI DIGITECH Co, Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"13th Fl, Choung-Jin Bldg, 53-5 Seoul  KR 140-719","c":"KR","o":"HYUNDAI DIGITECH Co, Ltd."}]);

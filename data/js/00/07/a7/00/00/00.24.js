@@ -1,0 +1,1 @@
+deepmacDetailCallback("0007a7000000/24",[{"d":"2001-10-24","t":"add","a":"5-5-17 Kamikoushien\nNishinomiya City, Hyogo\n\n","c":"JAPAN","o":"A-Z Inc."},{"d":"2015-08-27","t":"change","a":"5-5-17 Kamikoushien   JP","c":"JP","o":"A-Z Inc."}]);

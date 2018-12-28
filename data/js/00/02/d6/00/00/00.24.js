@@ -1,0 +1,1 @@
+deepmacDetailCallback("0002d6000000/24",[{"d":"2000-09-08","t":"add","a":"8 Hapnina St., POB 690\nRa'Anana 43107\n\n","c":"ISRAEL","o":"NICE Systems"},{"d":"2015-08-27","t":"change","a":"8 Hapnina St., POB 690   IL","c":"IL","o":"NICE Systems"}]);

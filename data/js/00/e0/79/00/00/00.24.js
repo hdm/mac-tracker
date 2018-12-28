@@ -1,0 +1,1 @@
+deepmacDetailCallback("00e079000000/24",[{"d":"1998-04-22","t":"add","a":"BP 966\n91976 COURTABOEUF\n\n","c":"FRANCE","o":"A.T.N.R."},{"d":"2015-08-27","t":"change","a":"BP 966 91976 COURTABOEUF  FR","c":"FR","o":"A.T.N.R."}]);

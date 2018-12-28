@@ -1,0 +1,1 @@
+deepmacDetailCallback("001bb2000000/24",[{"d":"2007-03-07","t":"add","a":"Kleine Kloosterstraat 23\nZaventem Vlaamse brabant 1932\n\n","c":"BELGIUM","o":"Intellect International NV","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kleine Kloosterstraat 23 Zaventem Vlaamse brabant BE 1932","c":"BE","o":"Intellect International NV"}]);

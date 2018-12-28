@@ -1,0 +1,1 @@
+deepmacDetailCallback("001890000000/24",[{"d":"2006-06-13","t":"add","a":"Misikova 22\nBratislava  811 06\n\n","c":"SLOVAKIA","o":"RadioCOM, s.r.o."},{"d":"2015-08-27","t":"change","a":"Misikova 22 Bratislava  SK 811 06","c":"SK","o":"RadioCOM, s.r.o."}]);

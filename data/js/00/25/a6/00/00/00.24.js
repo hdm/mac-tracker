@@ -1,0 +1,1 @@
+deepmacDetailCallback("0025a6000000/24",[{"d":"2009-03-29","t":"add","a":"584-1, Pajang-Dong, JangAn-Gu\nSuwon-Si, Kyunggi-Do 440-854\n\n","c":"KOREA, REPUBLIC OF","o":"Central Network Solution Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"584-1, Pajang-Dong, JangAn-Gu Suwon-Si, Kyunggi-Do KR 440-854","c":"KR","o":"Central Network Solution Co., Ltd."}]);

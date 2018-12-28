@@ -1,0 +1,1 @@
+deepmacDetailCallback("0025d2000000/24",[{"d":"2009-04-12","t":"add","a":"226-3, Bugok-dong, Geumjeong-gu,\nBusan  609-320\n\n","c":"KOREA, REPUBLIC OF","o":"InpegVision Co., Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"226-3, Bugok-dong, Geumjeong-gu, Busan  KR 609-320","c":"KR","o":"InpegVision Co., Ltd"}]);

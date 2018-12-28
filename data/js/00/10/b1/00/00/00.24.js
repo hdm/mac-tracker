@@ -1,0 +1,1 @@
+deepmacDetailCallback("0010b1000000/24",[{"d":"1998-04-22","t":"add","a":"2-3-3 OOSAKU\nSAKURA CITY,  CHIBA PREF.\n\n","c":"285 JAPAN","o":"FOR-A CO., LTD."},{"d":"2002-06-05","t":"change","a":"2-3-3 OOSAKU\nSAKURA CITY,\nCHIBA PREF. 285\n","c":"JAPAN","o":"FOR-A CO., LTD."},{"d":"2015-08-27","t":"change","a":"2-3-3 OOSAKU CHIBA PREF. 285  JP","c":"JP","o":"FOR-A CO., LTD."}]);

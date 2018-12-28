@@ -1,0 +1,1 @@
+deepmacDetailCallback("bc6641100000/28",[{"a":"Ruyi Road 1-3,Ailian, Longcheng Street, longgang Town, Shenzhen GuangDong CN 518172","o":"Global China Technology Limited","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

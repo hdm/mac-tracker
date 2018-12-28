@@ -1,0 +1,1 @@
+deepmacDetailCallback("cc7a30000000/24",[{"d":"2010-07-27","t":"add","a":"KT Bongduk B/D 9F, 627-15, Bongduk-dong\nNamgu Daegu 705710\n\n","c":"KOREA, REPUBLIC OF","o":"CMAX Wireless Co., Ltd."},{"d":"2015-08-27","t":"change","a":"KT Bongduk B/D 9F, 627-15, Bongduk-dong Namgu Daegu KR 705710","c":"KR","o":"CMAX Wireless Co., Ltd."}]);

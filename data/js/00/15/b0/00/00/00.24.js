@@ -1,0 +1,1 @@
+deepmacDetailCallback("0015b0000000/24",[{"d":"2005-09-09","t":"add","a":"2F, 898-24, Hogye2-dong, Dongan-gu\nAnyang-City Kyunggi-do 431-836\n\n","c":"KOREA, REPUBLIC OF","o":"AUTOTELENET CO.,LTD"},{"d":"2015-08-27","t":"change","a":"2F, 898-24, Hogye2-dong, Dongan-gu Anyang-City Kyunggi-do KR 431-836","c":"KR","o":"AUTOTELENET CO.,LTD"}]);

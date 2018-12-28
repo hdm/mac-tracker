@@ -1,0 +1,1 @@
+deepmacDetailCallback("000552000000/24",[{"d":"2001-04-17","t":"add","a":"Karl-Heinz-Beckurts-Str. 4\nD-52428 Julich\n\n","c":"GERMANY","o":"Xycotec Computer GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Karl-Heinz-Beckurts-Str. 4   DE","c":"DE","o":"Xycotec Computer GmbH"}]);

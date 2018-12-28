@@ -1,0 +1,1 @@
+deepmacDetailCallback("0021d9000000/24",[{"d":"2008-06-18","t":"add","a":"7-24-14\nOIZUMI-GAKUEN-CHO\nNERIMA-KU TOKYO 178-8686\n","c":"JAPAN","o":"SEKONIC CORPORATION","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"7-24-14 NERIMA-KU TOKYO JP 178-8686","c":"JP","o":"SEKONIC CORPORATION"}]);

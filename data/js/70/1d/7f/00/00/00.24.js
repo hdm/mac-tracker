@@ -1,0 +1,1 @@
+deepmacDetailCallback("701d7f000000/24",[{"d":"2013-08-20","t":"add","a":"2F, No. 42, Sec. 3 Chung Yang Rd.\nTu Cheng Dist.\nNew Taipei City  23673\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Comtech Technology Co., Ltd."},{"d":"2015-08-27","t":"change","a":"2F, No. 42, Sec. 3 Chung Yang Rd. New Taipei City  TW 23673","c":"TW","o":"Comtech Technology Co., Ltd."}]);

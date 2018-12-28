@@ -1,0 +1,1 @@
+deepmacDetailCallback("d88dc8000000/24",[{"d":"2018-11-13","t":"add","s":"ieee-oui.csv","a":"Rm. 3, 21F., No.93, Sec. 2, Roosevelt Rd., Da’an Dist., Taipei City  TW 106","c":"TW","o":"Atil Technology Co., LTD"}]);

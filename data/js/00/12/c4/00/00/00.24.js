@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012c4000000/24",[{"d":"2004-11-16","t":"add","a":"8445 Freeport Parkway\nSuite 245\nIrving Texas 75063\n","c":"UNITED STATES","o":"Viseon, Inc."},{"d":"2015-08-27","t":"change","a":"8445 Freeport Parkway Irving Texas US 75063","c":"US","o":"Viseon, Inc."}]);

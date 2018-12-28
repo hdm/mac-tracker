@@ -1,0 +1,1 @@
+deepmacDetailCallback("00a085000000/24",[{"d":"2001-10-24","t":"add","a":"445 HOES LANE\nPISCATAWAY NJ 08855\n\n","c":"UNITED STATES","o":"IEEE STANDARDS DEPARTMENT"},{"d":"2002-06-05","t":"change","a":"","c":null,"o":"PRIVATE"}]);

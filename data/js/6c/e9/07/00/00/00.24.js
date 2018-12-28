@@ -1,0 +1,1 @@
+deepmacDetailCallback("6ce907000000/24",[{"d":"2011-10-27","t":"add","a":"Yrttipellontie 6\nOulu Ou 90230\n\n","c":"FINLAND","o":"Nokia Corporation"},{"d":"2015-08-27","t":"change","a":"Elektroniikkatie 10 Oulu  FI 90570","c":"FI","o":"Nokia Corporation"}]);

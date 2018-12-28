@@ -1,0 +1,1 @@
+deepmacDetailCallback("3cc1f6000000/24",[{"d":"2011-12-16","t":"add","a":"4/1, 7th Cross, Kumarapark West\nBangalore Karnataka 560020\n\n","c":"INDIA","o":"Melange Systems Pvt. Ltd."},{"d":"2015-08-27","t":"change","a":"4/1, 7th Cross, Kumarapark West Bangalore Karnataka IN 560020","c":"IN","o":"Melange Systems Pvt. Ltd."}]);

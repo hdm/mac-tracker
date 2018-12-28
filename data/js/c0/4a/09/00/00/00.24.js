@@ -1,0 +1,1 @@
+deepmacDetailCallback("c04a09000000/24",[{"d":"2015-07-02","t":"add","a":"291# Wei 19th Rd.\nEconomic District Yuecheng Yueqinq\nWenzhou Zhejiang 325600\n","c":"CHINA","o":"Zhejiang Everbright Communication Equip. Co,. Ltd"},{"d":"2015-08-27","t":"change","a":"291# Wei 19th Rd. Wenzhou Zhejiang CN 325600","c":"CN","o":"Zhejiang Everbright Communication Equip. Co,. Ltd"}]);

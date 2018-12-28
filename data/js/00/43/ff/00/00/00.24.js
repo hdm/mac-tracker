@@ -1,0 +1,1 @@
+deepmacDetailCallback("0043ff000000/24",[{"d":"2012-01-27","t":"add","a":"Via Giuseppe Taliercio n. 7\nAncona  60131\n\n","c":"ITALY","o":"KETRON S.R.L."},{"d":"2015-08-27","t":"change","a":"Via Giuseppe Taliercio n. 7 Ancona  IT 60131","c":"IT","o":"KETRON S.R.L."}]);

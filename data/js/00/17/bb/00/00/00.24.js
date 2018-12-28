@@ -1,0 +1,1 @@
+deepmacDetailCallback("0017bb000000/24",[{"d":"2006-04-08","t":"add","a":"De Factorij 13\nZwaag Noord Holland 1689 AK\n\n","c":"NETHERLANDS","o":"Syrinx Industrial Electronics"},{"d":"2015-08-27","t":"change","a":"De Factorij 13 Zwaag Noord Holland NL 1689 AK","c":"NL","o":"Syrinx Industrial Electronics"}]);

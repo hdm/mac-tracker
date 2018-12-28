@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5828000/36",[{"a":"Tower East 28F, Umeda Sky bldg, 1-1-88, Oyodonaka, Kita-ku, Osaka  Osaka JP 5316028","o":"Xacti Corporation","d":"2017-08-06","t":"add","s":"ieee","c":"JP"}]);

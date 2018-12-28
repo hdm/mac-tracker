@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c97000000/24",[{"d":"2003-03-02","t":"add","a":"LEUVENSESTEENWEG,585\nZAVENTEM Vlaamse brabant 1930\n\n","c":"BELGIUM","o":"NV ADB TTV Technologies SA","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"LEUVENSESTEENWEG,585 ZAVENTEM Vlaamse brabant BE 1930","c":"BE","o":"NV ADB TTV Technologies SA"}]);

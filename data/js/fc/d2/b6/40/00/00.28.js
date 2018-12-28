@@ -1,0 +1,1 @@
+deepmacDetailCallback("fcd2b6400000/28",[{"d":"2018-12-28","t":"add","s":"ieee-mam.csv","a":"1,2,3 Building,XinHaoYuan Industrial Area,HeYi Community,Shajing Street,BaoAn District.Shenzhen shenzhen guangdongsheng CN 518000","c":"CN","o":"SHEN ZHEN XIN HAO YUAN PRECISION TECHNOLOGY CO.,L TD"}]);

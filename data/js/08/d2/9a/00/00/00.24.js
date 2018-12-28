@@ -1,0 +1,1 @@
+deepmacDetailCallback("08d29a000000/24",[{"d":"2010-09-01","t":"add","a":"10 bis rue Lucien Voilin\nPuteaux  92800\n\n","c":"FRANCE","o":"Proformatique"},{"d":"2015-08-27","t":"change","a":"10 bis rue Lucien Voilin Puteaux  FR 92800","c":"FR","o":"Proformatique"}]);

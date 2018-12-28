@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d57a2000/36",[{"a":"JiuHua Road 888, Nantong High-Tech Industrial Development Zone, Nantong Jiangsu CN 226300","o":"Alpha ESS Co., Ltd.","d":"2016-12-25","t":"add","s":"ieee","c":"CN"}]);

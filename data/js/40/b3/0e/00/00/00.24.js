@@ -1,0 +1,1 @@
+deepmacDetailCallback("40b30e000000/24",[{"a":"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900","o":"Integrated Device Technology (Malaysia) Sdn. Bhd.","d":"2018-08-19","t":"add","s":"ieee","c":"MY"}]);

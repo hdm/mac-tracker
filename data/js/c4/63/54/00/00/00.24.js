@@ -1,0 +1,1 @@
+deepmacDetailCallback("c46354000000/24",[{"d":"2010-05-28","t":"add","a":"401-1 Deba\nRitto-shi Shiga 520-3041\n\n","c":"JAPAN","o":"U-Raku, Inc."},{"d":"2015-08-27","t":"change","a":"401-1 Deba Ritto-shi Shiga JP 520-3041","c":"JP","o":"U-Raku, Inc."}]);

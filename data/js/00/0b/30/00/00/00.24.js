@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b30000000/24",[{"d":"2002-09-09","t":"add","a":"Unit D.17/E,Shenlanhuating mid Road No.6\nBeijing  100029\n\n","c":"CHINA","o":"Beijing Gongye Science & Technology Co.,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Unit D.17/E,Shenlanhuating mid Road No.6 Beijing  CN 100029","c":"CN","o":"Beijing Gongye Science & Technology Co.,Ltd"}]);

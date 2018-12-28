@@ -1,0 +1,1 @@
+deepmacDetailCallback("6405be000000/24",[{"d":"2013-05-16","t":"add","a":"No.50, Siyuan Rd\nXinzhuang Dist\nNew Taipei  24251\n","c":"TAIWAN, PROVINCE OF CHINA","o":"NEW LIGHT LED"},{"d":"2015-08-27","t":"change","a":"No.50, Siyuan Rd New Taipei  TW 24251","c":"TW","o":"NEW LIGHT LED"}]);

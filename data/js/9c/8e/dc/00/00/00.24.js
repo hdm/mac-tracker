@@ -1,0 +1,1 @@
+deepmacDetailCallback("9c8edc000000/24",[{"d":"2012-03-29","t":"add","a":"\nNoida Uttar Pradesh 201301\n\n","c":"INDIA","o":"Teracom Limited"},{"d":"2015-08-27","t":"change","a":"Noida Uttar Pradesh IN 201301","c":"IN","o":"Teracom Limited"}]);

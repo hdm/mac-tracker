@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c6a6f200000/28",[{"a":"Room 819,No.3 Building,XianFeng Property,No.948 HuoJu Street,GaoXin District NanChang JiangXi CN 330096","o":"NanChang LangJie Technology Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

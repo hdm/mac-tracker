@@ -1,0 +1,1 @@
+deepmacDetailCallback("e496ae000000/24",[{"d":"2012-10-11","t":"add","a":"Daegu Venture Center 13F\nShincheon-dong, Dong-gu,\nDaegu 701-020\n","c":"KOREA, REPUBLIC OF","o":"ALTOGRAPHICS Inc."},{"d":"2015-08-27","t":"change","a":"Daegu Venture Center 13F  Daegu KR 701-020","c":"KR","o":"ALTOGRAPHICS Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("f023b9200000/28",[{"a":"4th Floor, Block2 HuafengIndustrial park for Oversea Students Baolong 1st Road Longgang  Shenzhen Guangdong CN 518118","o":"Raysgem Electronics and Technology Co.Ltd","d":"2017-02-26","t":"add","s":"ieee","c":"CN"}]);

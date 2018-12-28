@@ -1,0 +1,1 @@
+deepmacDetailCallback("b4ef04000000/24",[{"d":"2015-08-12","t":"add","a":"326, Sinpyoungsukhwaro\nJijeong-myeon\nWonju-si, Gangwon-do 26358\n","c":"KOREA, REPUBLIC OF","o":"DAIHAN Scientific Co., Ltd."},{"d":"2015-08-27","t":"change","a":"326, Sinpyoungsukhwaro Wonju-si, Gangwon-do KR 26358","c":"KR","o":"DAIHAN Scientific Co., Ltd."}]);

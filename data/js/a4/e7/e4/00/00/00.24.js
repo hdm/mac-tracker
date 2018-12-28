@@ -1,0 +1,1 @@
+deepmacDetailCallback("a4e7e4000000/24",[{"d":"2009-08-18","t":"add","a":"Elbestrasse 12\nOldenburg  26135\n\n","c":"GERMANY","o":"Connex GmbH"},{"d":"2015-08-27","t":"change","a":"Elbestrasse 12 Oldenburg  DE 26135","c":"DE","o":"Connex GmbH"}]);

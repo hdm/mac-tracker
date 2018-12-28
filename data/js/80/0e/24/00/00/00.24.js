@@ -1,0 +1,1 @@
+deepmacDetailCallback("800e24000000/24",[{"d":"2014-01-29","t":"add","a":"61 rue de SÃ¨vres\nVille d'Avray IDF 92140\n\n","c":"FRANCE","o":"ForgetBox"},{"d":"2015-08-27","t":"change","a":"61 rue de Sèvres Ville d'Avray IDF FR 92140","c":"FR","o":"ForgetBox"}]);

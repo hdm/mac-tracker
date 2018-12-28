@@ -1,0 +1,1 @@
+deepmacDetailCallback("002685000000/24",[{"d":"2009-06-21","t":"add","a":"Travbaneveien 6\nTrondheim  7044\n\n","c":"NORWAY","o":"Digital Innovation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Travbaneveien 6 Trondheim  NO 7044","c":"NO","o":"Digital Innovation"}]);

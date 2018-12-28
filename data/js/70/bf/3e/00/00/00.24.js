@@ -1,0 +1,1 @@
+deepmacDetailCallback("70bf3e000000/24",[{"d":"2015-06-25","t":"add","a":"1023 Wappoo Road Suite 43B\nCharleston SC 29407\n\n","c":"UNITED STATES","o":"Charles River Laboratories"},{"d":"2015-08-27","t":"change","a":"1023 Wappoo Road Suite 43B Charleston SC US 29407","c":"US","o":"Charles River Laboratories"}]);

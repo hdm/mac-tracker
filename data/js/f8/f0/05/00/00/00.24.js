@@ -1,0 +1,1 @@
+deepmacDetailCallback("f8f005000000/24",[{"d":"2013-12-05","t":"add","a":"1 Spectrum Pointe Drive Suite 225\nNewport Media Inc.\nLake Forest CA 92630\n","c":"UNITED STATES","o":"Newport Media Inc."},{"d":"2015-08-27","t":"change","a":"1 Spectrum Pointe Drive Suite 225 Lake Forest CA US 92630","c":"US","o":"Newport Media Inc."}]);

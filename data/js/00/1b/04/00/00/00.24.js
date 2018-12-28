@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b04000000/24",[{"d":"2007-01-11","t":"add","a":"C.so Savona 51\nVillastellone Torino I10029\n\n","c":"ITALY","o":"Affinity International S.p.a"},{"d":"2015-08-27","t":"change","a":"C.so Savona 51 Villastellone  IT I10029","c":"IT","o":"Affinity International S.p.a"}]);

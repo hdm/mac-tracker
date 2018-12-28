@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c89000000/24",[{"d":"2003-03-02","t":"add","a":"Markkinakuja 3\nJokela  05400\n\n","c":"FINLAND","o":"AC Electric Vehicles, Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Markkinakuja 3 Jokela  FI 05400","c":"FI","o":"AC Electric Vehicles, Ltd."}]);

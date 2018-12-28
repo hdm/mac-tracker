@@ -1,0 +1,1 @@
+deepmacDetailCallback("dc4427200000/28",[{"a":"Beijing Chaoyang District, River Park 22-4-902 Beijing Chaoyang CN 100107","o":"Skywave Technology Co,.Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

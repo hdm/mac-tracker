@@ -1,0 +1,1 @@
+deepmacDetailCallback("9c807d000000/24",[{"d":"2010-11-27","t":"add","a":"2F KAMA Bldg 1461-15 Secho-3dong Seocho-Gu\nSeoul  137-720\n\n","c":"KOREA, REPUBLIC OF","o":"SYSCABLE Korea Inc."},{"d":"2015-08-27","t":"change","a":"2F KAMA Bldg 1461-15 Secho-3dong Seocho-Gu Seoul  KR 137-720","c":"KR","o":"SYSCABLE Korea Inc."}]);

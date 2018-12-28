@@ -1,0 +1,1 @@
+deepmacDetailCallback("e8886c000000/24",[{"d":"2016-04-13","t":"add","a":"4/FL,2Block,LianChuang Industrial Park,Bulan Road,Longgang Shenzhen  Guangdong Province CN 518112","c":"CN","o":"Shenzhen SC Technologies Co.,LTD"}]);

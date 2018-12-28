@@ -1,0 +1,1 @@
+deepmacDetailCallback("000868000000/24",[{"d":"2001-12-14","t":"add","a":"1945 Camino Vida Roble\nSuite C\nCarlsbad CA 92008\n","c":"UNITED STATES","o":"PurOptix"},{"d":"2015-08-27","t":"change","a":"1945 Camino Vida Roble Carlsbad CA US 92008","c":"US","o":"PurOptix"}]);

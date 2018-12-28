@@ -1,0 +1,1 @@
+deepmacDetailCallback("0c1dc2000000/24",[{"d":"2010-02-19","t":"add","a":"9F, IT Venture Tower East Wing 78 Garak-Dong,\nSeoul Songpa-gu 138-950\n\n","c":"KOREA, REPUBLIC OF","o":"SeAH Networks"},{"d":"2015-08-27","t":"change","a":"9F, IT Venture Tower East Wing 78 Garak-Dong, Seoul Songpa-gu KR 138-950","c":"KR","o":"SeAH Networks"}]);

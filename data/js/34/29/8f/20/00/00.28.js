@@ -1,0 +1,1 @@
+deepmacDetailCallback("34298f200000/28",[{"a":"6/F South Factory,2nd Jinxiang Building,Xinzhou South Road,Futian District, Shenzhen Guangdong CN 518048","o":"Shenzhen Advance River System Technology Co., Ltd","d":"2017-05-14","t":"add","s":"ieee","c":"CN"}]);

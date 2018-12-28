@@ -1,0 +1,1 @@
+deepmacDetailCallback("f8c120000000/24",[{"d":"2017-10-24","t":"add","a":"1/F，Block F,Building zhichao Weilai,No.999,10#Caotan Road,Xi'an xi'an  CN 710016","c":"CN","o":"Xi'an Link-Science Technology Co.,Ltd"}]);

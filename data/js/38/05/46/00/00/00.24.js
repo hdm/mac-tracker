@@ -1,0 +1,1 @@
+deepmacDetailCallback("380546000000/24",[{"d":"2015-06-13","t":"add","a":"No. 8, the 7th Road Phase II of Minhou Tieling Industrial District\nFuzhou Fujian 350100\n\n","c":"CHINA","o":"Foctek Photonics, Inc."},{"d":"2015-08-27","t":"change","a":"No. 8, the 7th Road Phase II of Minhou Tieling Industrial District Fuzhou Fujian CN 350100","c":"CN","o":"Foctek Photonics, Inc."}]);

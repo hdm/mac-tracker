@@ -1,0 +1,1 @@
+deepmacDetailCallback("002677000000/24",[{"d":"2009-06-07","t":"add","a":"Frisenborgvej 33\nSkive  7800\n\n","c":"DENMARK","o":"DEIF A/S","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Frisenborgvej 33 Skive  DK 7800","c":"DK","o":"DEIF A/S"}]);

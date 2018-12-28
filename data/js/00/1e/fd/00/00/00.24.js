@@ -1,0 +1,1 @@
+deepmacDetailCallback("001efd000000/24",[{"d":"2007-12-31","t":"add","a":"Nystaden 1\nKALIX  95261\n\n","c":"SWEDEN","o":"Microbit 2.0 AB"},{"d":"2015-08-27","t":"change","a":"Nystaden 1 KALIX  SE 95261","c":"SE","o":"Microbit 2.0 AB"}]);

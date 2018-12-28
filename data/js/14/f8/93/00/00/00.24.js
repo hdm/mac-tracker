@@ -1,0 +1,1 @@
+deepmacDetailCallback("14f893000000/24",[{"d":"2014-07-08","t":"add","a":"No.88 YouKeyuan Road\nHongshan District\nWuhan Hubei 430074\n","c":"CHINA","o":"Wuhan FiberHome Digital Technology Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"No.88 YouKeyuan Road Wuhan Hubei CN 430074","c":"CN","o":"Wuhan FiberHome Digital Technology Co.,Ltd."}]);

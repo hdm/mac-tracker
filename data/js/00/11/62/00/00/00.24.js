@@ -1,0 +1,1 @@
+deepmacDetailCallback("001162000000/24",[{"d":"2004-06-03","t":"add","a":"536 Shimizunanatsushinya\nShizuoka  424-0066\n\n","c":"JAPAN","o":"STAR MICRONICS CO.,LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"536 Shimizunanatsushinya Shizuoka  JP 424-0066","c":"JP","o":"STAR MICRONICS CO.,LTD."}]);

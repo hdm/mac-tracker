@@ -1,0 +1,1 @@
+deepmacDetailCallback("0025af000000/24",[{"d":"2009-03-29","t":"add","a":"Guro 5 dong, Guro-gu\n104-5\nSeoul  152-842\n","c":"KOREA, REPUBLIC OF","o":"COMFILE Technology","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Guro 5 dong, Guro-gu Seoul  KR 152-842","c":"KR","o":"COMFILE Technology"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("e44cc7e00000/28",[{"d":"2018-12-06","t":"add","s":"ieee-mam.csv","a":"Room 1801, Yinfeng Building, No. 1505, Binsheng Road, Binjiang District Hangzhou Zhejiang CN 310051","c":"CN","o":"FLK information security technology Co,. Ltd"}]);

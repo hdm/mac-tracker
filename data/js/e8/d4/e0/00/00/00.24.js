@@ -1,0 +1,1 @@
+deepmacDetailCallback("e8d4e0000000/24",[{"d":"2013-07-02","t":"add","a":"No.55, Jiachuang Road, Taihu Town\nTongzhou District\nBeijing 101111\n","c":"CHINA","o":"Beijing BenyWave Technology Co., Ltd."},{"d":"2015-08-27","t":"change","a":"No.55, Jiachuang Road, Taihu Town  Beijing CN 101111","c":"CN","o":"Beijing BenyWave Technology Co., Ltd."}]);

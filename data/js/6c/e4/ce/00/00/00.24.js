@@ -1,0 +1,1 @@
+deepmacDetailCallback("6ce4ce000000/24",[{"d":"2012-05-23","t":"add","a":"Giessenmatt 2\nSins  5643\n\n","c":"SWITZERLAND","o":"Villiger Security Solutions AG"},{"d":"2015-08-27","t":"change","a":"Giessenmatt 2 Sins  CH 5643","c":"CH","o":"Villiger Security Solutions AG"}]);

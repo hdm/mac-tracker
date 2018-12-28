@@ -1,0 +1,1 @@
+deepmacDetailCallback("00a0f1000000/24",[{"d":"1998-04-22","t":"add","a":"4905 E. LA PALMA AVENUE\nANAHEIM  CA  92807\n\n","c":"UNITED STATES","o":"MTI"},{"d":"2001-10-24","t":"change","a":"4905 E. LA PALMA AVENUE\nANAHEIM CA 92807\n\n","c":"UNITED STATES","o":"MTI"},{"d":"2015-08-27","t":"change","a":"4905 E. LA PALMA AVENUE ANAHEIM CA US 92807","c":"US","o":"MTI"}]);

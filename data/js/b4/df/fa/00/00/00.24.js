@@ -1,0 +1,1 @@
+deepmacDetailCallback("b4dffa000000/24",[{"d":"2012-07-19","t":"add","a":"8F, No.137,Lane 235\nShin-dian-Dist New Taipei 23145\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Litemax Electronics Inc."},{"d":"2015-08-27","t":"change","a":"8F, No.137,Lane 235 Shin-dian-Dist New Taipei TW 23145","c":"TW","o":"Litemax Electronics Inc."}]);

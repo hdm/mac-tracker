@@ -1,0 +1,1 @@
+deepmacDetailCallback("001bbd000000/24",[{"d":"2007-03-07","t":"add","a":"Kirkegaardsveien 45\nKongsberg Buskerud 3601\n\n","c":"NORWAY","o":"FMC Kongsberg Subsea AS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kirkegaardsveien 45 Kongsberg Buskerud NO 3601","c":"NO","o":"FMC Kongsberg Subsea AS"}]);

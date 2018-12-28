@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d573c000/36",[{"a":"Av. Playa Pie de la cuesta No.702 Desarrollo san pablo Queretaro Queretaro MX 76125","o":"Centro de Ingenieria y Desarrollo industrial","d":"2018-09-30","t":"add","s":"ieee","c":"MX"}]);

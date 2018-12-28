@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c27f8000/36",[{"a":"SIBS Quadra 01 conjunto Núcleo Bandeirante Distrito Federal BR 71736-104","o":"Wise Industria de Telecomunicações Ldta.","d":"2008-07-30","t":"add","s":"ieee","c":"BR"}]);

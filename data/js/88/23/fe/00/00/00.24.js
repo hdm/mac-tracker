@@ -1,0 +1,1 @@
+deepmacDetailCallback("8823fe000000/24",[{"d":"2011-09-17","t":"add","a":"Schoenbrunnerstrasse 7\nVienna  1040\n\n","c":"AUSTRIA","o":"TTTech Computertechnik AG"},{"d":"2015-08-27","t":"change","a":"Schoenbrunnerstrasse 7 Vienna  AT 1040","c":"AT","o":"TTTech Computertechnik AG"}]);

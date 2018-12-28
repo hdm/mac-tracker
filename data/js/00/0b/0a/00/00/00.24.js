@@ -1,0 +1,1 @@
+deepmacDetailCallback("000b0a000000/24",[{"d":"2002-09-09","t":"add","a":"300 S. Public Road\nLafayette Colorado 80026\n\n","c":"UNITED STATES","o":"dBm Optics","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"300 S. Public Road Lafayette Colorado US 80026","c":"US","o":"dBm Optics"}]);

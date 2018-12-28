@@ -1,0 +1,1 @@
+deepmacDetailCallback("002204000000/24",[{"d":"2008-06-18","t":"add","a":"Geumjeong-dong\nGunpo-si Gyeonggi-do 435-825\n\n","c":"KOREA, REPUBLIC OF","o":"KORATEK","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Geumjeong-dong Gunpo-si Gyeonggi-do KR 435-825","c":"KR","o":"KORATEK"}]);

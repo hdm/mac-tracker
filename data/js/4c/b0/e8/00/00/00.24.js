@@ -1,0 +1,1 @@
+deepmacDetailCallback("4cb0e8000000/24",[{"d":"2015-10-21","t":"add","a":"Beijing haidian district zhongguancun east road No. 18 smartfortune international building, room 909 beijing beijing CN 100000","c":"CN","o":"Beijing RongZhi xinghua technology co., LTD"}]);

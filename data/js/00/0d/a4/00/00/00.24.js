@@ -1,0 +1,1 @@
+deepmacDetailCallback("000da4000000/24",[{"d":"2003-07-23","t":"add","a":"Scheinerstrasse 9\nMunich Bavaria 81679\n\n","c":"GERMANY","o":"DOSCH & AMAND SYSTEMS AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Scheinerstrasse 9 Munich Bavaria DE 81679","c":"DE","o":"DOSCH & AMAND SYSTEMS AG"}]);

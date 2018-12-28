@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8186f000000/24",[{"d":"2014-05-24","t":"add","a":"5-8-3 Tokodai\nTsukuba Ibaraki 300-2635\n\n","c":"JAPAN","o":"ORIENTAL MOTOR CO., LTD."},{"d":"2015-08-27","t":"change","a":"5-8-3 Tokodai Tsukuba Ibaraki JP 300-2635","c":"JP","o":"ORIENTAL MOTOR CO., LTD."}]);

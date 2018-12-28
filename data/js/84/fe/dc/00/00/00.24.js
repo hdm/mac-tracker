@@ -1,0 +1,1 @@
+deepmacDetailCallback("84fedc000000/24",[{"d":"2016-01-16","t":"add","a":"Tower A, Building B23, Universal Business Park, No.10 Jiuxianqiao Road Chaoyang District Beijing CN 100015","c":"CN","o":"Borqs Beijing Ltd."}]);

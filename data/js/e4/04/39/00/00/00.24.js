@@ -1,0 +1,1 @@
+deepmacDetailCallback("e40439000000/24",[{"d":"2013-10-02","t":"add","a":"20th Floor Euston Tower\n286 Euston Road\nLondon  NW1 3AS\n","c":"UNITED KINGDOM","o":"TomTom Software Ltd"},{"d":"2015-08-27","t":"change","a":"20th Floor Euston Tower London  GB NW1 3AS","c":"GB","o":"TomTom Software Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000853000000/24",[{"d":"2001-12-14","t":"add","a":"Pichelswerderstrasse 3-5\nD-13597 Berlin\n\n","c":"GERMANY","o":"Schleicher GmbH & Co. Relaiswerke KG"},{"d":"2015-08-27","t":"change","a":"Pichelswerderstrasse 3-5   DE","c":"DE","o":"Schleicher GmbH & Co. Relaiswerke KG"}]);

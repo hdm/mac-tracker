@@ -1,0 +1,1 @@
+deepmacDetailCallback("d069d0000000/24",[{"d":"2013-10-29","t":"add","a":"900 Spruce St., Suite 550\nSt. Louis Missouri 63012\n\n","c":"UNITED STATES","o":"Verto Medical Solutions, LLC"},{"d":"2015-08-27","t":"change","a":"900 Spruce St., Suite 550 St. Louis Missouri US 63012","c":"US","o":"Verto Medical Solutions, LLC"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009f9000000/24",[{"d":"2002-06-05","t":"add","a":"322-7, Ichinotsubo,\nNakahara-ku\nKawasaki Kanagawa 211-0016\n","c":"JAPAN","o":"ART JAPAN CO., LTD."},{"d":"2015-08-27","t":"change","a":"322-7, Ichinotsubo, Kawasaki Kanagawa JP 211-0016","c":"JP","o":"ART JAPAN CO., LTD."}]);

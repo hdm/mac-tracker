@@ -1,0 +1,1 @@
+deepmacDetailCallback("44aae8000000/24",[{"d":"2011-02-01","t":"add","a":"Gewerbestrasse 11\nLandsham Bavaria 85652\n\n","c":"GERMANY","o":"Nanotec Electronic GmbH & Co. KG"},{"d":"2015-08-27","t":"change","a":"Gewerbestrasse 11 Landsham Bavaria DE 85652","c":"DE","o":"Nanotec Electronic GmbH & Co. KG"}]);

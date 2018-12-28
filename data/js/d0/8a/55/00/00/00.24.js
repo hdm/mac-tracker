@@ -1,0 +1,1 @@
+deepmacDetailCallback("d08a55000000/24",[{"d":"2013-07-19","t":"add","a":"1441 Ute blvd.\nSuite 250\nPark City Utah 84098\n","c":"UNITED STATES","o":"Skullcandy"},{"d":"2015-08-27","t":"change","a":"1441 Ute blvd. Park City Utah US 84098","c":"US","o":"Skullcandy"}]);

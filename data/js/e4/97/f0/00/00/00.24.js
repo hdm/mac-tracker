@@ -1,0 +1,1 @@
+deepmacDetailCallback("e497f0000000/24",[{"d":"2009-12-29","t":"add","a":"Room 901, B-Zone, East Beijing Road\nHuangpu Dist.\nShanghai  200001\n","c":"CHINA","o":"Shanghai VLC Technologies Ltd. Co."},{"d":"2015-08-27","t":"change","a":"Room 901, B-Zone, East Beijing Road Shanghai  CN 200001","c":"CN","o":"Shanghai VLC Technologies Ltd. Co."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000abd000000/24",[{"d":"2002-08-03","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2004-02-12","t":"change","a":"25 Corporate Circle\nAlbany NY 12203\n\n","c":"UNITED STATES","o":"Rupprecht & Patashnick Co."},{"d":"2015-08-27","t":"change","a":"25 Corporate Circle Albany NY US 12203","c":"US","o":"Rupprecht & Patashnick Co."}]);

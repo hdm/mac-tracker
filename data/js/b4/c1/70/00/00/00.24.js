@@ -1,0 +1,1 @@
+deepmacDetailCallback("b4c170000000/24",[{"d":"2017-03-30","t":"add","a":"Suite 401, Building #13, No. 498 Guoshoujing Rd., Pudong Shanghai  CN 201210","c":"CN","o":"Yi chip Microelectronics (Hangzhou) Co., Ltd"}]);

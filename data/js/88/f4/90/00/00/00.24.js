@@ -1,0 +1,1 @@
+deepmacDetailCallback("88f490000000/24",[{"d":"2012-10-27","t":"add","a":"541 Orchard Road\nLiat Towers #09-01\nSingapore  238881\n","c":"SINGAPORE","o":"Jetmobile Pte Ltd"},{"d":"2015-08-27","t":"change","a":"541 Orchard Road Singapore  SG 238881","c":"SG","o":"Jetmobile Pte Ltd"}]);

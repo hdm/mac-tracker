@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5486000/36",[{"a":"10th, Building NO.C1, District E, Dawn industrial area, CunTan, JiangBei District, ChongQing City. China ChongQing ChongQing CN 400025","o":"ChongQing JianTao Technology Co., Ltd.","d":"2016-06-05","t":"add","s":"ieee","c":"CN"}]);

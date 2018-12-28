@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5328000/36",[{"a":"BLVD AGUA CALIENTE 12027 TIJUANA BAJA CALIFORNIA MX 22420","o":"HIPODROMO DE AGUA CALIENTE SA CV","d":"2015-07-19","t":"add","s":"ieee","c":"MX"}]);

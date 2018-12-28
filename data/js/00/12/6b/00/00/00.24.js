@@ -1,0 +1,1 @@
+deepmacDetailCallback("00126b000000/24",[{"d":"2004-09-22","t":"add","a":"Unit 10-11, 35/F, Cable TV Tower,\nNo.9 Hoi Shing Road, Tsuen Wan\n\n","c":"HONG KONG","o":"Ascalade Communications Limited"},{"d":"2015-08-27","t":"change","a":"Unit 10-11, 35/F, Cable TV Tower,   HK","c":"HK","o":"Ascalade Communications Limited"}]);

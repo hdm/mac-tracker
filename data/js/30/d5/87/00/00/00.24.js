@@ -1,0 +1,1 @@
+deepmacDetailCallback("30d587000000/24",[{"d":"2014-09-06","t":"add","a":"#416, Maetan 3-dong\nYeongtong-gu\nSuwon-si Gyeonggi-do 443-742\n","c":"KOREA, REPUBLIC OF","o":"Samsung Electronics Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"#416, Maetan 3-dong Suwon-si Gyeonggi-do KR 443-742","c":"KR","o":"Samsung Electronics Co.,Ltd"}]);

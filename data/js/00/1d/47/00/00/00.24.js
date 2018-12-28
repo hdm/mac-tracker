@@ -1,0 +1,1 @@
+deepmacDetailCallback("001d47000000/24",[{"d":"2007-08-18","t":"add","a":"Ritterhufen 30\nBerlin  14165\n\n","c":"GERMANY","o":"Covote GmbH & Co KG"},{"d":"2015-08-27","t":"change","a":"Ritterhufen 30 Berlin  DE 14165","c":"DE","o":"Covote GmbH & Co KG"}]);

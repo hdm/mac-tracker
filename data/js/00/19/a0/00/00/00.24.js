@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019a0000000/24",[{"d":"2006-09-25","t":"add","a":"6-9, Koyo-cho naka\nHigashinada-ku\nKobe-shi Hyogo 658-0032\n","c":"JAPAN","o":"NIHON DATA SYSTENS, INC."},{"d":"2015-08-27","t":"change","a":"6-9, Koyo-cho naka Kobe-shi Hyogo JP 658-0032","c":"JP","o":"NIHON DATA SYSTENS, INC."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("60ba18000000/24",[{"d":"2017-01-19","t":"add","a":"Hofmannstr. 61\n\n\n","c":"MÃ¼nchen    81379","o":"nextLAP GmbH"},{"d":"2017-01-20","t":"change","a":"Hofmannstr. 61 München  DE 81379","c":"DE","o":"nextLAP GmbH"}]);

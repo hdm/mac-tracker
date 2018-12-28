@@ -1,0 +1,1 @@
+deepmacDetailCallback("00269d000000/24",[{"d":"2009-06-23","t":"add","a":"607 Downtown Bld. 1043-1 Hogye-Dong Dongan-Gu\nAnyang-City Kyunggi-Do 431-080\n\n","c":"KOREA, REPUBLIC OF","o":"M2Mnet Co., Ltd."},{"d":"2015-08-27","t":"change","a":"607 Downtown Bld. 1043-1 Hogye-Dong Dongan-Gu Anyang-City Kyunggi-Do KR 431-080","c":"KR","o":"M2Mnet Co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001241000000/24",[{"d":"2004-09-02","t":"add","a":"1024-4  Duksan Bldg Bangbaedong Seochogu Seoul Korea\nSEOUL  137-060\n\n","c":"KOREA, REPUBLIC OF","o":"a2i marketing center"},{"d":"2015-08-27","t":"change","a":"1024-4  Duksan Bldg Bangbaedong Seochogu Seoul Korea SEOUL  KR 137-060","c":"KR","o":"a2i marketing center"}]);

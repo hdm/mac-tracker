@@ -1,0 +1,1 @@
+deepmacDetailCallback("000979000000/24",[{"d":"2002-03-29","t":"add","a":"1750 K Street NW\nSuite 1200\nWashington DC 20006\n","c":"UNITED STATES","o":"Advanced Television Systems Committee, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1750 K Street NW Washington DC US 20006","c":"US","o":"Advanced Television Systems Committee, Inc."}]);

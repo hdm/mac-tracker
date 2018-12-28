@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a3d000000/24",[{"d":"2002-06-05","t":"add","a":"Rua Edu Chaves, 547\nPorto Alegre RS 90.240-620\n\n","c":"BRAZIL","o":"Elo Sistemas Eletronicos S.A."},{"d":"2015-08-27","t":"change","a":"Rua Edu Chaves, 547 Porto Alegre RS BR 90.240-620","c":"BR","o":"Elo Sistemas Eletronicos S.A."}]);

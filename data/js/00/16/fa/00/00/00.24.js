@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016fa000000/24",[{"d":"2006-01-04","t":"add","a":"30 Hasivim St.\nPetah Tikva  49133\n\n","c":"ISRAEL","o":"ECI Telecom Ltd."},{"d":"2015-08-27","t":"change","a":"30 Hasivim St. Petah Tikva  US 49133","c":"US","o":"ECI Telecom Ltd."}]);

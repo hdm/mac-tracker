@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c8879500000/28",[{"d":"2015-10-17","t":"add","a":"3/F,Building A,Quanyongyuan industrial park,Langkou industrial area,Dalang,Bao'an District,Shenzhen,China  Shenzhen  CN 518000","c":"CN","o":"SHENZHENFREELINK ELECTRONIC CO.,LTD"}]);

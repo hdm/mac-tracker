@@ -1,0 +1,1 @@
+deepmacDetailCallback("10cc1b000000/24",[{"d":"2015-06-06","t":"add","a":"Shinjuku 5-13-10,Joshu-Bldg. 4F\nTokyo Shinjuku-ku 160-0022\n\n","c":"JAPAN","o":"Liverock technologies,INC"},{"d":"2015-08-27","t":"change","a":"Shinjuku 5-13-10,Joshu-Bldg. 4F Tokyo Shinjuku-ku JP 160-0022","c":"JP","o":"Liverock technologies,INC"}]);

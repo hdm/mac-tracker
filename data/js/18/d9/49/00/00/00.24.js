@@ -1,0 +1,1 @@
+deepmacDetailCallback("18d949000000/24",[{"d":"2012-08-24","t":"add","a":"3204 Rustic River Cove\nAustin TX 78746-2001\n\n","c":"UNITED STATES","o":"Qvis Labs, LLC"},{"d":"2015-08-27","t":"change","a":"3204 Rustic River Cove Austin TX US 78746-2001","c":"US","o":"Qvis Labs, LLC"}]);

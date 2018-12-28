@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c147de00000/28",[{"a":"Mysore Campus, KIADB Industrial Area, Hebbal, Hootagalli Mysore Karnataka IN 570020","o":"Electrical & Automation Larsen & Toubro Limited","d":"2017-03-05","t":"add","s":"ieee","c":"IN"}]);

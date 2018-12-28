@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5098000/36",[{"a":"7/719-B, PLOT 180, Mavelipuram colony, Kakkanad ernakulam Kerala IN 682030","o":"Alcodex Technologies Private Limited","d":"2018-09-07","t":"add","s":"ieee","c":"IN"}]);

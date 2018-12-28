@@ -1,0 +1,1 @@
+deepmacDetailCallback("001186000000/24",[{"d":"2004-06-05","t":"add","a":"16267-333\nSuwa-gun Hara-mura Nagano 391-0100\n\n","c":"JAPAN","o":"Prime Systems, Inc."},{"d":"2015-08-27","t":"change","a":"16267-333 Suwa-gun Hara-mura Nagano JP 391-0100","c":"JP","o":"Prime Systems, Inc."}]);

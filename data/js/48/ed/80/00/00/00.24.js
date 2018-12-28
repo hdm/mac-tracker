@@ -1,0 +1,1 @@
+deepmacDetailCallback("48ed80000000/24",[{"d":"2011-11-16","t":"add","a":"#509 SJ Technoville, 60-19, Gasan-dong\nGeumcheon-gu\nSeoul  153-769\n","c":"KOREA, REPUBLIC OF","o":"daesung eltec"},{"d":"2015-08-27","t":"change","a":"#509 SJ Technoville, 60-19, Gasan-dong Seoul  KR 153-769","c":"KR","o":"daesung eltec"}]);

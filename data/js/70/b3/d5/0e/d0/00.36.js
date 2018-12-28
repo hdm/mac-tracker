@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d50ed000/36",[{"d":"2018-12-28","t":"add","s":"ieee-oui36.csv","a":"Rua Viscondessa de Cavalcanti, 50 - Poço Rico Juiz de Fora Minas Gerais BR 36020-070","c":"BR","o":"Lupa Tecnologia e Sistemas Ltda"}]);

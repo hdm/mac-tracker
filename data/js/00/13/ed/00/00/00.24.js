@@ -1,0 +1,1 @@
+deepmacDetailCallback("0013ed000000/24",[{"d":"2005-03-06","t":"add","a":"517-13 Induspis 5th\nSangDaeWonDong JungWonGu\nSungNam KyungGi\n","c":"KOREA, REPUBLIC OF","o":"PSIA","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"517-13 Induspis 5th SungNam KyungGi KR","c":"KR","o":"PSIA"}]);

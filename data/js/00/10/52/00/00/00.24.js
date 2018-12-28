@@ -1,0 +1,1 @@
+deepmacDetailCallback("001052000000/24",[{"d":"1998-04-22","t":"add","a":"P.O. BOX 2 50\nD-72423 ALBSTADT\n\n","c":"GERMANY","o":"METTLER-TOLEDO (ALBSTADT) GMBH"},{"d":"2015-08-27","t":"change","a":"P.O. BOX 2 50 D-72423 ALBSTADT  DE","c":"DE","o":"METTLER-TOLEDO (ALBSTADT) GMBH"}]);

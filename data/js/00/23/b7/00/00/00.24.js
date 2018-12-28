@@ -1,0 +1,1 @@
+deepmacDetailCallback("0023b7000000/24",[{"d":"2008-10-08","t":"add","a":"178-1 Woogye-Ri, Sangdong-Myun,\nGimhae-Si GyungsangNam-Do 621-812\n\n","c":"KOREA, REPUBLIC OF","o":"Q-Light Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"178-1 Woogye-Ri, Sangdong-Myun, Gimhae-Si GyungsangNam-Do KR 621-812","c":"KR","o":"Q-Light Co., Ltd."}]);

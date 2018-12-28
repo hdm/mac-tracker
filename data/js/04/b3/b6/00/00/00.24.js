@@ -1,0 +1,1 @@
+deepmacDetailCallback("04b3b6000000/24",[{"d":"2009-08-19","t":"add","a":"Unit 34, The Maltings\nCharlton Estate\nShepton Mallet Somerset BA4 5QE\n","c":"UNITED KINGDOM","o":"Seamap (UK) Ltd"},{"d":"2015-08-27","t":"change","a":"Unit 34, The Maltings Shepton Mallet Somerset GB BA4 5QE","c":"GB","o":"Seamap (UK) Ltd"}]);

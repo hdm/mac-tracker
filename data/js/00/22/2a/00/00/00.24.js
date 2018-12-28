@@ -1,0 +1,1 @@
+deepmacDetailCallback("00222a000000/24",[{"d":"2008-06-18","t":"add","a":"Rentemestervej 80\nCopenhagen NV Denmark DK-2400\n\n","c":"DENMARK","o":"SoundEar A/S","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Rentemestervej 80 Copenhagen NV Denmark DK DK-2400","c":"DK","o":"SoundEar A/S"}]);

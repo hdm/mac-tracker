@@ -1,0 +1,1 @@
+deepmacDetailCallback("888279000000/24",[{"d":"2017-06-17","t":"add","a":"Second floor, No 22, Wanfeng the third industry area, Shajing , BaoAn district Shenzhen City  CN 518125","c":"CN","o":"Shenzhen RB-LINK Intelligent Technology Co.Ltd"}]);

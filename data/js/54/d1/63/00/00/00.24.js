@@ -1,0 +1,1 @@
+deepmacDetailCallback("54d163000000/24",[{"d":"2013-12-14","t":"add","a":"2F, 26, 2gil, Dujeonggongdan\nSeobukgu\nCheonan Chungnam 331957\n","c":"KOREA, REPUBLIC OF","o":"MAX-TECH,INC"},{"d":"2015-08-27","t":"change","a":"2F, 26, 2gil, Dujeonggongdan Cheonan Chungnam KR 331957","c":"KR","o":"MAX-TECH,INC"}]);

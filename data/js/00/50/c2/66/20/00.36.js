@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2662000/36",[{"a":"No 2, Jalan 1, Bandar Sultan Suleiman, Taiwanese Industrial Park Port Klang Selangor MY 42000","o":"Asia Pacific Card & System Sdn Bhd","d":"2008-07-30","t":"add","s":"ieee","c":"MY"}]);

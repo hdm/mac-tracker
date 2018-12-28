@@ -1,0 +1,1 @@
+deepmacDetailCallback("88835d000000/24",[{"d":"2017-08-09","t":"add","a":"No.8, Litong Road, Liuyang Economic & Technical Development Zone ChangSha Hu Nan CN 410300","c":"CN","o":"FN-LINK TECHNOLOGY LIMITED"}]);

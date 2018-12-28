@@ -1,0 +1,1 @@
+deepmacDetailCallback("441319000000/24",[{"d":"2012-01-11","t":"add","a":"23/F., One Kowloon, No.1, Wang Yuen Street,\nKowloon Bay,\n852\n","c":"HONG KONG","o":"WKK TECHNOLOGY LTD."},{"d":"2015-08-27","t":"change","a":"23/F., One Kowloon, No.1, Wang Yuen Street,    HK 852","c":"HK","o":"WKK TECHNOLOGY LTD."}]);

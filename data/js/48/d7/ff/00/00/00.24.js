@@ -1,0 +1,1 @@
+deepmacDetailCallback("48d7ff000000/24",[{"d":"2012-02-07","t":"add","a":"Hermann-Petersilge Str. 1\nBad Blankenburg TH 07422\n\n","c":"GERMANY","o":"BLANKOM Antennentechnik GmbH"},{"d":"2015-08-27","t":"change","a":"Hermann-Petersilge Str. 1 Bad Blankenburg TH DE 07422","c":"DE","o":"BLANKOM Antennentechnik GmbH"}]);

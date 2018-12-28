@@ -1,0 +1,1 @@
+deepmacDetailCallback("001395000000/24",[{"d":"2005-02-06","t":"add","a":"Auwiesenstrasse 5\nDeggendorf  94469\n\n","c":"GERMANY","o":"congatec AG"},{"d":"2015-08-27","t":"change","a":"Auwiesenstrasse 5 Deggendorf  DE 94469","c":"DE","o":"congatec AG"}]);

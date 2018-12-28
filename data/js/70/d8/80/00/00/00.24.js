@@ -1,0 +1,1 @@
+deepmacDetailCallback("70d880000000/24",[{"d":"2010-01-09","t":"add","a":"Sienkiewicza 13\nKnurow Slaskie 44-190\n\n","c":"POLAND","o":"Upos System sp. z o.o."},{"d":"2015-08-27","t":"change","a":"Sienkiewicza 13 Knurow Slaskie PL 44-190","c":"PL","o":"Upos System sp. z o.o."}]);

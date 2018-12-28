@@ -1,0 +1,1 @@
+deepmacDetailCallback("60ffdd000000/24",[{"d":"2013-11-02","t":"add","a":"2107 INDUSTRIAL DR\nBRYAN OHIO 43506\n\n","c":"UNITED STATES","o":"C.E. ELECTRONICS, INC"},{"d":"2015-08-27","t":"change","a":"2107 INDUSTRIAL DR BRYAN OHIO US 43506","c":"US","o":"C.E. ELECTRONICS, INC"}]);

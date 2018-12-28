@@ -1,0 +1,1 @@
+deepmacDetailCallback("100723500000/28",[{"a":"Room 1028,Block B,No.11 XinghuoRoad,Science City,Fengtai District Beijing Beijing CN 100070","o":"BEIJING SOOALL INFORMATION TECHNOLOGY CO.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

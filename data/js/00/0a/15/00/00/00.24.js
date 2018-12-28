@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a15000000/24",[{"d":"2002-06-05","t":"add","a":"4699 Old Ironsides Dr., #150\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"Silicon Data, Inc"},{"d":"2015-08-27","t":"change","a":"4699 Old Ironsides Dr., #150 Santa Clara CA US 95054","c":"US","o":"Silicon Data, Inc"}]);

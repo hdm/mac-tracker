@@ -1,0 +1,1 @@
+deepmacDetailCallback("74273c000000/24",[{"d":"2012-07-06","t":"add","a":"NO.9 KaiCheng Road,QiLinTown\nJiangNing District,NanJing\nNanJing JiangSu 211100\n","c":"CHINA","o":"ChangYang Technology (Nanjing) Co., LTD"},{"d":"2015-08-27","t":"change","a":"NO.9 KaiCheng Road,QiLinTown NanJing JiangSu CN 211100","c":"CN","o":"ChangYang Technology (Nanjing) Co., LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5503000/36",[{"a":"F2,#2,2nd Southern IND Zone of HongHualing,Nanshan District shenzhen guangdong CN 518000","o":"Itest communication Tech Co., LTD","d":"2016-09-25","t":"add","s":"ieee","c":"CN"}]);

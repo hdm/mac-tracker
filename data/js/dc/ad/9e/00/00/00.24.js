@@ -1,0 +1,1 @@
+deepmacDetailCallback("dcad9e000000/24",[{"d":"2013-08-29","t":"add","a":"549, boulevard Pierre Sauvaigo\nGreenTech BÃ¢t.1\nLa Colle sur Loup  06480\n","c":"FRANCE","o":"GreenPriz"},{"d":"2015-08-27","t":"change","a":"549, boulevard Pierre Sauvaigo La Colle sur Loup  FR 06480","c":"FR","o":"GreenPriz"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("889166000000/24",[{"d":"2013-09-10","t":"add","a":"Room 1061, A,Seven Block, No.128 Huayuan Rd\nHong Kou District\nSHANGHAI  200083\n","c":"CHINA","o":"Viewcooper Corp."},{"d":"2015-08-27","t":"change","a":"Room 1061, A,Seven Block, No.128 Huayuan Rd SHANGHAI  CN 200083","c":"CN","o":"Viewcooper Corp."}]);

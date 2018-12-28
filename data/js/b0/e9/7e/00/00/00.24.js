@@ -1,0 +1,1 @@
+deepmacDetailCallback("b0e97e000000/24",[{"d":"2009-09-22","t":"add","a":"Unit 1 Harrier House\nSedgeway Buisness Park\nWitchford Cambridgeshire CB6 2HY\n","c":"UNITED KINGDOM","o":"Advanced Micro Peripherals"},{"d":"2015-08-27","t":"change","a":"Unit 1 Harrier House Witchford Cambridgeshire GB CB6 2HY","c":"GB","o":"Advanced Micro Peripherals"}]);

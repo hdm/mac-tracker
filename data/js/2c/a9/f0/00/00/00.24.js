@@ -1,0 +1,1 @@
+deepmacDetailCallback("2ca9f0000000/24",[{"a":"NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860","o":"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","d":"2018-08-19","t":"add","s":"ieee","c":"CN"}]);

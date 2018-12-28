@@ -1,0 +1,1 @@
+deepmacDetailCallback("002144000000/24",[{"d":"2008-06-18","t":"add","a":"23 Botha Avenue\nLyttelton Manor\nCenturion Gauteng 0140\n","c":"SOUTH AFRICA","o":"SS Telecoms","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"23 Botha Avenue Centurion Gauteng ZA 0140","c":"ZA","o":"SS Telecoms"}]);

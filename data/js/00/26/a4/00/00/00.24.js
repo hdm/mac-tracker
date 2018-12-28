@@ -1,0 +1,1 @@
+deepmacDetailCallback("0026a4000000/24",[{"d":"2009-06-25","t":"add","a":"Rua Alvaro Chaves, 155\nBairro Floresta\nPorto Alegre RS 90220-040\n","c":"BRAZIL","o":"Novus Produtos Eletronicos Ltda"},{"d":"2015-08-27","t":"change","a":"Rua Alvaro Chaves, 155 Porto Alegre RS BR 90220-040","c":"BR","o":"Novus Produtos Eletronicos Ltda"}]);

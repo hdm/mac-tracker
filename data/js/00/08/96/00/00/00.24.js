@@ -1,0 +1,1 @@
+deepmacDetailCallback("000896000000/24",[{"d":"2001-12-14","t":"add","a":"14600 Myford Rd.\nP.O. Box 19559\nIrvine California 92623-9559\n","c":"UNITED STATES","o":"Printronix, Inc."},{"d":"2015-08-27","t":"change","a":"14600 Myford Rd. Irvine California US 92623-9559","c":"US","o":"Printronix, Inc."}]);

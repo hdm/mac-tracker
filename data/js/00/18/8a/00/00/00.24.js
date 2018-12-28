@@ -1,0 +1,1 @@
+deepmacDetailCallback("00188a000000/24",[{"d":"2006-06-13","t":"add","a":"51 Stouts Lane, Unit 1 & 2\nMonmouth Junction New Jersey 08852\n\n","c":"UNITED STATES","o":"Infinova LLC"},{"d":"2015-08-27","t":"change","a":"51 Stouts Lane, Unit 1 & 2 Monmouth Junction New Jersey US 08852","c":"US","o":"Infinova LLC"}]);

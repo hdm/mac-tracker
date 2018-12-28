@@ -1,0 +1,1 @@
+deepmacDetailCallback("6c5c3d700000/28",[{"a":"No.818 Chengxin RoadYinzhou Investment Business Park Ningbo Zhejiang CN 315105","o":"SOUNDKING ELECTRONICS&SOUND CO., LTD.","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);

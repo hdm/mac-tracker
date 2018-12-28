@@ -1,0 +1,1 @@
+deepmacDetailCallback("688470000000/24",[{"d":"2011-04-12","t":"add","a":"Daerung Post Tower 5 15F, 60-3\nGasan-dong\nSeoul Geumcheon-gu 153-702\n","c":"KOREA, REPUBLIC OF","o":"eSSys Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Daerung Post Tower 5 15F, 60-3 Seoul Geumcheon-gu KR 153-702","c":"KR","o":"eSSys Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0024ed000000/24",[{"d":"2009-01-11","t":"add","a":"Block B,2 Floor ,Bao Ying Industrial District,\nLong Gang LongXi,\nWu Lian Lu Shenzhen 518116\n","c":"CHINA","o":"YT Elec. Co,.Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Block B,2 Floor ,Bao Ying Industrial District, Wu Lian Lu Shenzhen CN 518116","c":"CN","o":"YT Elec. Co,.Ltd."}]);

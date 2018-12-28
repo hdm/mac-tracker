@@ -1,0 +1,1 @@
+deepmacDetailCallback("001621000000/24",[{"d":"2005-10-13","t":"add","a":"255 E. 6th St.\nLoveland CO 80537\n\n","c":"UNITED STATES","o":"Colorado Vnet"},{"d":"2015-08-27","t":"change","a":"255 E. 6th St. Loveland CO US 80537","c":"US","o":"Colorado Vnet"}]);

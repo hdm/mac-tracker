@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d53f4000/36",[{"a":"13F., No.219, Sec. 3, Beixin Rd., Xindian Dist New Taipei City  TW 231","o":"Wincode Technology Co., Ltd.","d":"2015-12-27","t":"add","s":"ieee","c":"TW"}]);

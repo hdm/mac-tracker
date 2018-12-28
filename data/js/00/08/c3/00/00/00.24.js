@@ -1,0 +1,1 @@
+deepmacDetailCallback("0008c3000000/24",[{"d":"2001-12-23","t":"add","a":"Svanevang 2\nAllerod DK 3450\n\n","c":"DENMARK","o":"Contex A/S","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Svanevang 2 Allerod DK DK 3450","c":"DK","o":"Contex A/S"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("002129000000/24",[{"d":"2008-04-14","t":"add","a":"121 Theory Drive\nIrvine California 92617\n\n","c":"UNITED STATES","o":"Cisco-Linksys, LLC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"121 Theory Drive Irvine California US 92612","c":"US","o":"Cisco-Linksys, LLC"}]);

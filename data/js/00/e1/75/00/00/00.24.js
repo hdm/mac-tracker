@@ -1,0 +1,1 @@
+deepmacDetailCallback("00e175000000/24",[{"d":"2011-07-07","t":"add","a":"off 62, 27/29 Pavlovskaya str.\nMoscow  115093\n\n","c":"RUSSIAN FEDERATION","o":"AK-Systems Ltd"},{"d":"2015-08-27","t":"change","a":"off 62, 27/29 Pavlovskaya str. Moscow  RU 115093","c":"RU","o":"AK-Systems Ltd"}]);

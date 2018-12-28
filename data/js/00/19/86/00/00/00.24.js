@@ -1,0 +1,1 @@
+deepmacDetailCallback("001986000000/24",[{"d":"2006-09-03","t":"add","a":"Rm.2305B.Sege Plaza,Huaqiang North Rd.,\nFutian\nShenzhen Guangdong 518057\n","c":"CHINA","o":"Cheng Hongjian"},{"d":"2015-08-27","t":"change","a":"Rm.2305B.Sege Plaza,Huaqiang North Rd., Shenzhen Guangdong US 518057","c":"US","o":"Cheng Hongjian"}]);

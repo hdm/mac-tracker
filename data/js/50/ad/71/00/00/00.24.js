@@ -1,0 +1,1 @@
+deepmacDetailCallback("50ad71000000/24",[{"d":"2018-12-21","t":"add","s":"ieee-oui.csv","a":"Plot No: 31, P2, Electronic City Phase II, Electronic City Bengaluru Karnataka IN 560100","c":"IN","o":"Tessolve Semiconductor Private Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("44ee30000000/24",[{"d":"2013-08-09","t":"add","a":"Von-Renesse-Weg 60\nMuenster North Rhine-Westphalia 48163\n\n","c":"GERMANY","o":"Budelmann Elektronik GmbH"},{"d":"2015-08-27","t":"change","a":"Von-Renesse-Weg 60 Muenster North Rhine-Westphalia DE 48163","c":"DE","o":"Budelmann Elektronik GmbH"}]);

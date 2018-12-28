@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c26d5000000/24",[{"d":"2011-04-16","t":"add","a":"9444 Waples Street\nSan Diego CA 92121\n\n","c":"UNITED STATES","o":"Sotera Wireless"},{"d":"2015-08-27","t":"change","a":"9444 Waples Street San Diego CA US 92121","c":"US","o":"Sotera Wireless"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001474000000/24",[{"d":"2005-05-07","t":"add","a":"600 Tollgate Rd. Unit A\nElgin IL 60123\n\n","c":"UNITED STATES","o":"K40 Electronics"},{"d":"2015-08-27","t":"change","a":"600 Tollgate Rd. Unit A Elgin IL US 60123","c":"US","o":"K40 Electronics"}]);

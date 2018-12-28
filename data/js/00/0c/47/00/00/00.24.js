@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c47000000/24",[{"d":"2003-01-21","t":"add","a":"21th FL Startower 737, Yeoksam-dong\nKangnam-Ku\nSeoul  135-984\n","c":"KOREA, REPUBLIC OF","o":"SK Teletech(R&D Planning Team)","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"21th FL Startower 737, Yeoksam-dong Seoul  KR 135-984","c":"KR","o":"SK Teletech(R&D Planning Team)"}]);

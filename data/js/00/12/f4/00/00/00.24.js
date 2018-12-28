@@ -1,0 +1,1 @@
+deepmacDetailCallback("0012f4000000/24",[{"d":"2004-11-26","t":"add","a":"212, Yeokok-Dong, Wonmi-gu\nPuchun-Si Kyongki-Do 420-100\n\n","c":"KOREA, REPUBLIC OF","o":"Belco International Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"212, Yeokok-Dong, Wonmi-gu Puchun-Si Kyongki-Do KR 420-100","c":"KR","o":"Belco International Co.,Ltd."}]);

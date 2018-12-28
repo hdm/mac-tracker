@@ -1,0 +1,1 @@
+deepmacDetailCallback("f02624000000/24",[{"d":"2015-04-04","t":"add","a":"Room302, Longtaili Building\nGao Xin Zhong four Road, Tech Park, Nanshan\nShenzhen Guangdong 518057\n","c":"CHINA","o":"WAFA TECHNOLOGIES CO., LTD."},{"d":"2015-08-27","t":"change","a":"Room302, Longtaili Building Shenzhen Guangdong CN 518057","c":"CN","o":"WAFA TECHNOLOGIES CO., LTD."}]);

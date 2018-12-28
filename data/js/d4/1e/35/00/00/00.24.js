@@ -1,0 +1,1 @@
+deepmacDetailCallback("d41e35000000/24",[{"d":"2012-05-01","t":"add","a":"1-13-21 Tanashioda, Chuo-Ku\nSagamihara-City Kanagawa 252-0245\n\n","c":"JAPAN","o":"TOHO Electronics INC."},{"d":"2015-08-27","t":"change","a":"1-13-21 Tanashioda, Chuo-Ku Sagamihara-City Kanagawa JP 252-0245","c":"JP","o":"TOHO Electronics INC."}]);

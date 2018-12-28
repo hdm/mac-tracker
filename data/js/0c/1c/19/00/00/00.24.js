@@ -1,0 +1,1 @@
+deepmacDetailCallback("0c1c19000000/24",[{"d":"2018-07-20","t":"add","a":"Building B, No. 42 Xingye Road, Phoenix First Industrial Zone, Fuyong, Baoan District Shenzhen Guangdong CN 518103","c":"CN","o":"LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD"}]);

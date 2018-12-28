@@ -1,0 +1,1 @@
+deepmacDetailCallback("f041c8800000/28",[{"a":"A208 Samsong Techno Valley, 140 Tongil-ro, Deogyang-gu Koyang-si Kyeonggi-do KR 10594","o":"POSTIUM KOREA CO., LTD.","d":"2017-12-10","t":"add","s":"ieee","c":"KR"}]);

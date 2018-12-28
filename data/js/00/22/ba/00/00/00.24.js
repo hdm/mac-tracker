@@ -1,0 +1,1 @@
+deepmacDetailCallback("0022ba000000/24",[{"d":"2008-07-19","t":"add","a":"Echternacher Str. 10\nTroisdorf-Spich NRW 53842\n\n","c":"GERMANY","o":"HUTH Elektronik Systeme GmbH"},{"d":"2015-08-27","t":"change","a":"Echternacher Str. 10 Troisdorf-Spich NRW DE 53842","c":"DE","o":"HUTH Elektronik Systeme GmbH"}]);

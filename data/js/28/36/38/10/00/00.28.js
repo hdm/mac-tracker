@@ -1,0 +1,1 @@
+deepmacDetailCallback("283638100000/28",[{"a":"Panasonic Marketing Europe GmbH, Hagenauer Str. 43 Wiesbaden  DE 65203","o":"Panasonic System Solutions Europe","d":"2016-04-24","t":"add","s":"ieee","c":"DE"}]);

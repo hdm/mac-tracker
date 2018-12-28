@@ -1,0 +1,1 @@
+deepmacDetailCallback("00181e000000/24",[{"d":"2006-06-13","t":"add","a":"61-63 Back Sneddon Street\nPaisley Renfrewshire PA3 2DD\n\n","c":"UNITED KINGDOM","o":"GDX Technologies Ltd."},{"d":"2015-08-27","t":"change","a":"61-63 Back Sneddon Street Paisley Renfrewshire GB PA3 2DD","c":"GB","o":"GDX Technologies Ltd."}]);

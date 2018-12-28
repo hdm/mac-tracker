@@ -1,0 +1,1 @@
+deepmacDetailCallback("0007fd000000/24",[{"d":"2001-10-24","t":"add","a":"Imperial House, Imperial Way\nNewport, Gwent NP10 8UH\n\n","c":"UNITED KINGDOM","o":"LANergy Ltd."},{"d":"2015-08-27","t":"change","a":"Rudloe Manor   GB","c":"GB","o":"LANergy Ltd."}]);

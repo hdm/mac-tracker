@@ -1,0 +1,1 @@
+deepmacDetailCallback("580528000000/24",[{"d":"2013-12-14","t":"add","a":"Silikon Blok 1 NK 24 Teknokent\nODTU\nANKARA AN 06540\n","c":"TURKEY","o":"LABRIS NETWORKS"},{"d":"2015-08-27","t":"change","a":"Silikon Blok 1 NK 24 Teknokent ANKARA AN TR 06540","c":"TR","o":"LABRIS NETWORKS"}]);

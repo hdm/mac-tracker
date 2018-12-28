@@ -1,0 +1,1 @@
+deepmacDetailCallback("00070a000000/24",[{"d":"2001-10-24","t":"add","a":"Silk Bldg 3-31-11\nHoncho, Nakano-ku,\nTokyo  164-0012\n","c":"JAPAN","o":"Unicom Automation Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Silk Bldg 3-31-11 Tokyo  JP 164-0012","c":"JP","o":"Unicom Automation Co., Ltd."}]);

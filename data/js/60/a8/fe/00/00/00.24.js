@@ -1,0 +1,1 @@
+deepmacDetailCallback("60a8fe000000/24",[{"d":"2014-03-26","t":"add","a":"Karaportti 3\nEspoo Finland 02610\n\n","c":"FINLAND","o":"Nokia Solutions and Networks"},{"d":"2015-08-27","t":"change","a":"Karaportti 3\nEspoo    02610\n\n","c":"FI","o":"Nokia Solutions and Networks"},{"d":"2015-11-11","t":"change","a":"Karaportti 3 Espoo  FI 02610","c":"FI","o":"Nokia"}]);

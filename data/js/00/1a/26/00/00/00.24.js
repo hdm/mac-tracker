@@ -1,0 +1,1 @@
+deepmacDetailCallback("001a26000000/24",[{"d":"2006-11-02","t":"add","a":"Box 92 184\nStockholm  120 09\n\n","c":"SWEDEN","o":"Deltanode Solutions AB"},{"d":"2015-08-27","t":"change","a":"Box 92 184 Stockholm  SE 120 09","c":"SE","o":"Deltanode Solutions AB"}]);

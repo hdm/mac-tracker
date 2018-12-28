@@ -1,0 +1,1 @@
+deepmacDetailCallback("000ddf000000/24",[{"d":"2003-07-23","t":"add","a":"5-29-12 Shiba\nMinato-ku Tokyo 108-0014\n\n","c":"JAPAN","o":"Japan Image & Network Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5-29-12 Shiba Minato-ku Tokyo JP 108-0014","c":"JP","o":"Japan Image & Network Inc."}]);

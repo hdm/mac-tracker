@@ -1,0 +1,1 @@
+deepmacDetailCallback("d4d898000000/24",[{"d":"2011-02-04","t":"add","a":"#240-1,Uigok-Ri\nYeongsun-Myeon\nMungyeong-Si Gyeongsangbuk-do 745-853\n","c":"KOREA, REPUBLIC OF","o":"Korea CNO Tech Co., Ltd"},{"d":"2015-08-27","t":"change","a":"#240-1,Uigok-Ri Mungyeong-Si Gyeongsangbuk-do KR 745-853","c":"KR","o":"Korea CNO Tech Co., Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("087695000000/24",[{"d":"2010-01-28","t":"add","a":"14Floor, #235 Hanshin IT Tower,\nGuro-dong, Guro-gu\nSeoul  152-768\n","c":"KOREA, REPUBLIC OF","o":"Auto Industrial Co., Ltd."},{"d":"2015-08-27","t":"change","a":"14Floor, #235 Hanshin IT Tower,  Seoul  KR 152-768","c":"KR","o":"Auto Industrial Co., Ltd."}]);

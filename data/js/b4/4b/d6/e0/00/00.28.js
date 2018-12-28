@@ -1,0 +1,1 @@
+deepmacDetailCallback("b44bd6e00000/28",[{"a":"618-2# Gongren West Road,Jiaojiang, Taizhou Zhejiang CN 317700","o":"CHUNGHSIN INTERNATIONAL ELECTRONICS CO.,LTD.","d":"2018-04-08","t":"add","s":"ieee","c":"CN"}]);

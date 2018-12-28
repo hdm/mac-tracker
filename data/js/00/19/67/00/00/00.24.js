@@ -1,0 +1,1 @@
+deepmacDetailCallback("001967000000/24",[{"d":"2006-08-22","t":"add","a":"Kijowska 44\nNIP 554 19 26 042\nBydgoszcz woj. kujawsko-pomorskie 85-703\n","c":"POLAND","o":"TELDAT Sp.J.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kijowska 44 Bydgoszcz woj. kujawsko-pomorskie PL 85-703","c":"PL","o":"TELDAT Sp.J."}]);

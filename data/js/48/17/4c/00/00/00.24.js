@@ -1,0 +1,1 @@
+deepmacDetailCallback("48174c000000/24",[{"d":"2010-09-14","t":"add","a":"4225 Executive Sq.\nSuite 430\nLa Jolla California 92037\n","c":"UNITED STATES","o":"MicroPower technologies"},{"d":"2015-08-27","t":"change","a":"4225 Executive Sq. La Jolla California US 92037","c":"US","o":"MicroPower technologies"}]);

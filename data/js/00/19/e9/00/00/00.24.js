@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019e9000000/24",[{"d":"2006-10-16","t":"add","a":"Sungwoo Bldg, 717-3 Suseo-dong,\nGangnam-gu,\nSeoul  135-884\n","c":"KOREA, REPUBLIC OF","o":"S-Information Technolgy, Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Sungwoo Bldg, 717-3 Suseo-dong, Seoul  KR 135-884","c":"KR","o":"S-Information Technolgy, Co., Ltd."}]);

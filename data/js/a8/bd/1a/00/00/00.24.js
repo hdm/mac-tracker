@@ -1,0 +1,1 @@
+deepmacDetailCallback("a8bd1a000000/24",[{"d":"2011-07-29","t":"add","a":"Flat L, 12/F., Phase 4, Kwun Tong Industrial Ctr.,\n436-446 Kwun Tong Road, Kwun Tong\n\n","c":"HONG KONG","o":"Honey Bee (Hong Kong) Limited"},{"d":"2015-08-27","t":"change","a":"Flat L, 12/F., Phase 4, Kwun Tong Industrial Ctr.,   HK","c":"HK","o":"Honey Bee (Hong Kong) Limited"}]);

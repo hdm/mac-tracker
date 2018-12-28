@@ -1,0 +1,1 @@
+deepmacDetailCallback("001718000000/24",[{"d":"2006-01-27","t":"add","a":"Tiilenlyojankatu 5\nFORSSA  30101\n\n","c":"FINLAND","o":"Vansco Electronics Oy"},{"d":"2015-08-27","t":"change","a":"Tiilenlyojankatu 5 FORSSA  FI 30101","c":"FI","o":"Vansco Electronics Oy"}]);

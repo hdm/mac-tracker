@@ -1,0 +1,1 @@
+deepmacDetailCallback("b0c128000000/24",[{"d":"2016-06-14","t":"add","a":"Schwetzinger Str. 103\n\n\n","c":"Hockenheim  Baden-WÃ¼rttemberg  D-68766","o":"Adler ELREHA GmbH"},{"d":"2016-06-15","t":"change","a":"Schwetzinger Str. 103 Hockenheim Baden-Württemberg DE D-68766","c":"DE","o":"Adler ELREHA GmbH"}]);

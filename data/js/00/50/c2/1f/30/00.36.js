@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c21f3000/36",[{"a":"Ingvald Ystgaards vei 23 N-7047 Trondheim NO","o":"Radionor Communications","d":"2008-07-30","t":"add","s":"ieee","c":"NO"}]);

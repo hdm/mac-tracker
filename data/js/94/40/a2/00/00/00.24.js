@@ -1,0 +1,1 @@
+deepmacDetailCallback("9440a2000000/24",[{"d":"2013-05-01","t":"add","a":"300 Knightsbridge Parkway, Suite 150\nLincolnshire IL 60069\n\n","c":"UNITED STATES","o":"Anywave Communication Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"300 Knightsbridge Parkway, Suite 150 Lincolnshire IL US 60069","c":"US","o":"Anywave Communication Technologies, Inc."}]);

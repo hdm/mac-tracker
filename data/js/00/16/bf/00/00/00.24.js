@@ -1,0 +1,1 @@
+deepmacDetailCallback("0016bf000000/24",[{"d":"2005-12-09","t":"add","a":"P.O. Box 64\nNahkelantie 160\nTuusula  04301\n","c":"FINLAND","o":"PaloDEx Group Oy","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O. Box 64 Tuusula  FI 04301","c":"FI","o":"PaloDEx Group Oy"}]);

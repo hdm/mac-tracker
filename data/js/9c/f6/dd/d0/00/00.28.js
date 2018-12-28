@@ -1,0 +1,1 @@
+deepmacDetailCallback("9cf6ddd00000/28",[{"a":"Room 501, Building 10, Leaguar Science Park, Shishan town, Nanhai FoShan Guangdong CN 528225","o":"Foshan Synwit Technology Co.,Ltd.","d":"2018-05-06","t":"add","s":"ieee","c":"CN"}]);

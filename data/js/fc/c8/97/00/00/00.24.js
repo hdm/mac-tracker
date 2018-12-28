@@ -1,0 +1,1 @@
+deepmacDetailCallback("fcc897000000/24",[{"d":"2012-02-01","t":"add","a":"12/F.,R&D Building,Kejinan Road,\nShenzhen, Guangdong 518057\n\n","c":"CHINA","o":"ZTE Corporation"},{"d":"2015-08-27","t":"change","a":"12/F.,zte R&D building,kejinan Road, shenzhen guangdong CN 518057","c":"CN","o":"zte corporation"}]);

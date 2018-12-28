@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f86000000/24",[{"d":"2008-01-14","t":"add","a":"1625 N. 1100 W.\nSpringville UT 84663\n\n","c":"UNITED STATES","o":"digEcor"},{"d":"2015-08-27","t":"change","a":"1625 N. 1100 W. Springville UT US 84663","c":"US","o":"digEcor"}]);

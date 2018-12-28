@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b265000000/24",[{"d":"2011-01-21","t":"add","a":"Strada Provinciale di Caserta, 218\nNaples  80144\n\n","c":"ITALY","o":"Hiltron s.r.l."},{"d":"2015-08-27","t":"change","a":"Strada Provinciale di Caserta, 218 Naples  IT 80144","c":"IT","o":"Hiltron s.r.l."}]);

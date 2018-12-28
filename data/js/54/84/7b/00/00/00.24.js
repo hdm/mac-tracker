@@ -1,0 +1,1 @@
+deepmacDetailCallback("54847b000000/24",[{"d":"2011-05-10","t":"add","a":"Moewestr 45 A\nMuenchen  81827\n\n","c":"GERMANY","o":"Digital Devices GmbH"},{"d":"2015-08-27","t":"change","a":"Moewestr 45 A Muenchen  DE 81827","c":"DE","o":"Digital Devices GmbH"}]);

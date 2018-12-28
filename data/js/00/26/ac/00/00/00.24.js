@@ -1,0 +1,1 @@
+deepmacDetailCallback("0026ac000000/24",[{"d":"2009-06-30","t":"add","a":"F4, No.39 ChengZhong Rd.\nJiaDing District\nShanghai  201800\n","c":"CHINA","o":"Shanghai LUSTER Teraband photonic Co., Ltd."},{"d":"2015-08-27","t":"change","a":"F4, No.39 ChengZhong Rd. Shanghai  CN 201800","c":"CN","o":"Shanghai LUSTER Teraband photonic Co., Ltd."}]);

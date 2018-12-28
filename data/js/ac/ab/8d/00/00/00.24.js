@@ -1,0 +1,1 @@
+deepmacDetailCallback("acab8d000000/24",[{"d":"2010-09-09","t":"add","a":"Lyngso Alle 2\nHorsholm  DK-2970\n\n","c":"DENMARK","o":"Lyngso Marine A/S"},{"d":"2015-08-27","t":"change","a":"Lyngso Alle 2 Horsholm  DK DK-2970","c":"DK","o":"Lyngso Marine A/S"}]);

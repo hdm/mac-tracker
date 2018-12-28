@@ -1,0 +1,1 @@
+deepmacDetailCallback("0013b0000000/24",[{"d":"2005-02-17","t":"add","a":"Pod Skalkou 33\nJablonec nad Nisou  46601\n\n","c":"CZECH REPUBLIC","o":"Jablotron"},{"d":"2015-08-27","t":"change","a":"Pod Skalkou 33 Jablonec nad Nisou  CZ 46601","c":"CZ","o":"Jablotron"}]);

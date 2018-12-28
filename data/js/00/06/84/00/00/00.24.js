@@ -1,0 +1,1 @@
+deepmacDetailCallback("000684000000/24",[{"d":"2001-06-04","t":"add","a":"Software, Electronics and Optics\nRapsgatan 7, 754 50 Uppsala\n\n","c":"SWEDEN","o":"Biacore AB"},{"d":"2015-08-27","t":"change","a":"Software, Electronics and Optics   SE","c":"SE","o":"Biacore AB"}]);

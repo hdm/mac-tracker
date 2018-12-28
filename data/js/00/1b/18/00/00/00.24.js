@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b18000000/24",[{"d":"2007-01-16","t":"add","a":"3-9 Akedouri Izumi-ku\nSendai City Miyagi 981-3206\n\n","c":"JAPAN","o":"Tsuken Electric Ind. Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"3-9 Akedouri Izumi-ku Sendai City Miyagi JP 981-3206","c":"JP","o":"Tsuken Electric Ind. Co.,Ltd"}]);

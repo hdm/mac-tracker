@@ -1,0 +1,1 @@
+deepmacDetailCallback("001551000000/24",[{"d":"2005-07-28","t":"add","a":"2nd fl. Hans B/D, 111-55\nSeongnae-dong, Gangdong-gu\nSeoul  134-883\n","c":"KOREA, REPUBLIC OF","o":"RadioPulse Inc."},{"d":"2015-08-27","t":"change","a":"2nd fl. Hans B/D, 111-55 Seoul  KR 134-883","c":"KR","o":"RadioPulse Inc."}]);

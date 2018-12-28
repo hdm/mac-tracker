@@ -1,0 +1,1 @@
+deepmacDetailCallback("4865eed00000/28",[{"a":"Winn Tech Industrial Park Xianghe Rd.Xinmin Area，Chang an，Dongguan City Guangdong Province，China. Dongguan Guangdong CN 523879","o":"Winn Technology Co.,Ltd","d":"2016-08-14","t":"add","s":"ieee","c":"CN"}]);

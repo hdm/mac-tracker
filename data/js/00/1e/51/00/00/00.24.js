@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e51000000/24",[{"d":"2007-09-29","t":"add","a":"Via Euclide, 12\nForli' FC 47100\n\n","c":"ITALY","o":"Converter Industry Srl"},{"d":"2015-08-27","t":"change","a":"Via Euclide, 12 Forli' FC IT 47100","c":"IT","o":"Converter Industry Srl"}]);

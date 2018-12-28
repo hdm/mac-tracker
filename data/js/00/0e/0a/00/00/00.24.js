@@ -1,0 +1,1 @@
+deepmacDetailCallback("000e0a000000/24",[{"d":"2003-09-08","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2005-10-29","t":"change","a":"674-11\nKUKI-SHI SAITAMA 346-0029\n\n","c":"JAPAN","o":"SAKUMA DESIGN OFFICE"},{"d":"2015-08-27","t":"change","a":"674-11 KUKI-SHI SAITAMA JP 346-0029","c":"JP","o":"SAKUMA DESIGN OFFICE"}]);

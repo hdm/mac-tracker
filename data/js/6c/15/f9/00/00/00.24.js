@@ -1,0 +1,1 @@
+deepmacDetailCallback("6c15f9000000/24",[{"d":"2013-08-17","t":"add","a":"Blackwood House\nUnion Grove Lane\nAberdeen  AB10 6XU\n","c":"UNITED KINGDOM","o":"Nautronix Limited"},{"d":"2015-08-27","t":"change","a":"Blackwood House Aberdeen  GB AB10 6XU","c":"GB","o":"Nautronix Limited"}]);

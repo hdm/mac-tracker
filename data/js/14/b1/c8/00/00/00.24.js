@@ -1,0 +1,1 @@
+deepmacDetailCallback("14b1c8000000/24",[{"d":"2011-12-07","t":"add","a":"19925 Stevens Creek Blvd\nCupertino CA 95014\n\n","c":"UNITED STATES","o":"InfiniWing, Inc."},{"d":"2015-08-27","t":"change","a":"19925 Stevens Creek Blvd Cupertino CA US 95014","c":"US","o":"InfiniWing, Inc."}]);

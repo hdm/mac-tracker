@@ -1,0 +1,1 @@
+deepmacDetailCallback("a46e79000000/24",[{"d":"2012-09-18","t":"add","a":"Room 6B XINHAOFANG Building\nNO.188 Shennan road\nSHENZHEN GUANGDONG 518052\n","c":"CHINA","o":"DFT System Co.Ltd"},{"d":"2015-08-27","t":"change","a":"Room 6B XINHAOFANG Building SHENZHEN GUANGDONG CN 518052","c":"CN","o":"DFT System Co.Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("04ba36000000/24",[{"d":"2016-06-24","t":"add","a":"Rm901, 9/F Shiu Fung Hong Building, 239-241 Wing Lok Street, Hong Kong Hong Kong  HK 0000","c":"HK","o":"Li Seng Technology Ltd"}]);

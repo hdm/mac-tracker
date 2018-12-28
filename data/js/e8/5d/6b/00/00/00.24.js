@@ -1,0 +1,1 @@
+deepmacDetailCallback("e85d6b000000/24",[{"d":"2014-04-15","t":"add","a":"20823 Stevens Creek Blvd, Suite 300\nCupertino CA 95014\n\n","c":"UNITED STATES","o":"Luminate Wireless"},{"d":"2015-08-27","t":"change","a":"20823 Stevens Creek Blvd, Suite 300 Cupertino CA US 95014","c":"US","o":"Luminate Wireless"}]);

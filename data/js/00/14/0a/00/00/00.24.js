@@ -1,0 +1,1 @@
+deepmacDetailCallback("00140a000000/24",[{"d":"2005-03-17","t":"add","a":"#1125, Opus1, Gurodongcomplex building\n611-26,Guro-dong,Guro-gu,\nSeoul  152-050\n","c":"KOREA, REPUBLIC OF","o":"WEPIO Co., Ltd."},{"d":"2015-08-27","t":"change","a":"#1125, Opus1, Gurodongcomplex building Seoul  KR 152-050","c":"KR","o":"WEPIO Co., Ltd."}]);

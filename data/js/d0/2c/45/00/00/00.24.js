@@ -1,0 +1,1 @@
+deepmacDetailCallback("d02c45000000/24",[{"d":"2013-07-17","t":"add","a":"60 E. 11th Street\nNew York NY 10003\n\n","c":"UNITED STATES","o":"littleBits Electronics, Inc."},{"d":"2015-08-27","t":"change","a":"60 E. 11th Street New York NY US 10003","c":"US","o":"littleBits Electronics, Inc."}]);

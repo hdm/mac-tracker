@@ -1,0 +1,1 @@
+deepmacDetailCallback("ccd39dc00000/28",[{"d":"2018-10-17","t":"add","s":"ieee-mam.csv","a":"Room706,707,5th,No.998,Wenyi West Raod,Wuchang Street,Yuhang District,Hangzhou HangZhou ZheJiang CN 311121","c":"CN","o":"Hangzhou Scooper Technology Co.,Ltd."}]);

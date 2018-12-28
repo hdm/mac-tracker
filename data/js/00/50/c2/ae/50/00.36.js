@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2ae5000/36",[{"a":"Erlanger Allee 103 Jena Thueringen DE 07747","o":"ABS Gesellschaft f. Automatisierung, Bildverarbeitung und Software mbH","d":"2009-06-21","t":"add","s":"ieee","c":"DE"}]);

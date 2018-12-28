@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019ad000000/24",[{"d":"2006-09-25","t":"add","a":"rte des flumeaux 50\nCase Postale 1001 Lausanne\nPRILLY VD 1008\n","c":"SWITZERLAND","o":"BOBST SA"},{"d":"2015-08-27","t":"change","a":"rte des flumeaux 50 PRILLY VD CH 1008","c":"CH","o":"BOBST SA"}]);

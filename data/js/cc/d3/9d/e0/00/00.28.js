@@ -1,0 +1,1 @@
+deepmacDetailCallback("ccd39de00000/28",[{"d":"2018-10-19","t":"add","s":"ieee-mam.csv","a":"Floor 2, building 1, liqin building, No.1885, metropolis road, minhang district Shanghai Shanghai CN 201108","c":"CN","o":"Shanghai tongli information technology co. LTD"}]);

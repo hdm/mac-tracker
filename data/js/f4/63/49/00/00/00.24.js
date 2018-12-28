@@ -1,0 +1,1 @@
+deepmacDetailCallback("f46349000000/24",[{"d":"2009-11-03","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2010-01-07","t":"change","a":"Digital Tower Aston 1505\n505-15 Gasan, Guemcheon\nSeoul  153803\n","c":"KOREA, REPUBLIC OF","o":"Diffon Corporation"},{"d":"2015-08-27","t":"change","a":"Digital Tower Aston 1505 Seoul  KR 153803","c":"KR","o":"Diffon Corporation"}]);

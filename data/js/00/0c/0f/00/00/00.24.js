@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c0f000000/24",[{"d":"2003-01-21","t":"add","a":"9-17-1 Higashi Sonoda\nAmagasaki Hyogo 661-0953\n\n","c":"JAPAN","o":"Techno-One Co., Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9-17-1 Higashi Sonoda Amagasaki Hyogo JP 661-0953","c":"JP","o":"Techno-One Co., Ltd"}]);

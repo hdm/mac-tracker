@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c3a4f000000/24",[{"d":"2010-03-10","t":"add","a":"8140 Hawthorne Drive\nErie Pennsylvania 16509\n\n","c":"UNITED STATES","o":"AccuSpec Electronics, LLC"},{"d":"2015-08-27","t":"change","a":"8140 Hawthorne Drive Erie Pennsylvania US 16509","c":"US","o":"AccuSpec Electronics, LLC"}]);

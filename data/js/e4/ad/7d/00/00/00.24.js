@@ -1,0 +1,1 @@
+deepmacDetailCallback("e4ad7d000000/24",[{"d":"2010-03-05","t":"add","a":"5800 St-Denis, #222\nMontreal Quebec H2S3l5\n\n","c":"CANADA","o":"SCL Elements"},{"d":"2015-08-27","t":"change","a":"5800 St-Denis, #222 Montreal Quebec CA H2S3l5","c":"CA","o":"SCL Elements"}]);

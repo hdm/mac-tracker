@@ -1,0 +1,1 @@
+deepmacDetailCallback("08005f000000/24",[{"d":"2000-09-08","t":"add","a":"2381 BERING DRIVE\nSAN JOSE CA 95131-1125\n\n","c":"UNITED STATES","o":"SABER TECHNOLOGY CORP."},{"d":"2015-08-27","t":"change","a":"2381 BERING DRIVE SAN JOSE CA US 95131-1125","c":"US","o":"SABER TECHNOLOGY CORP."}]);

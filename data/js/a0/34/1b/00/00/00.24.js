@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0341b000000/24",[{"d":"2017-02-23","t":"add","a":"19 W. Carrillo St. Santa Barbara CA US 93101","c":"US","o":"TrackR, Inc"},{"d":"2018-11-27","t":"change","s":"ieee-oui.csv","a":"7410 HOllister Ave Goleta CA US 93117","c":"US","o":"Adero Inc"}]);

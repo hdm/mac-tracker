@@ -1,0 +1,1 @@
+deepmacDetailCallback("f81037000000/24",[{"d":"2010-11-18","t":"add","a":"681 N. Plano Road\nSuite 119\nRichardson TX 75082\n","c":"UNITED STATES","o":"Atopia Systems, LP"},{"d":"2015-08-27","t":"change","a":"681 N. Plano Road Richardson TX US 75082","c":"US","o":"Atopia Systems, LP"}]);

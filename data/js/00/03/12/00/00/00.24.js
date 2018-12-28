@@ -1,0 +1,1 @@
+deepmacDetailCallback("000312000000/24",[{"d":"2000-09-08","t":"add","a":"Eglishalde 6\nD-78647 Trossingen\n\n","c":"GERMANY","o":"TR-Systemtechnik GmbH"},{"d":"2015-08-27","t":"change","a":"Eglishalde 6   DE","c":"DE","o":"TR-Systemtechnik GmbH"}]);

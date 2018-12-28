@@ -1,0 +1,1 @@
+deepmacDetailCallback("9c69b4200000/28",[{"a":"Room 1305, Building A Phase I Innovation and Technology Square, 4 Tairan Road, Futian  Shenzhen  Guangdong CN 518000","o":"MOZI (Shenzhen) Artificial Intelligence Technology Co., Ltd.","d":"2018-09-30","t":"add","s":"ieee","c":"CN"}]);

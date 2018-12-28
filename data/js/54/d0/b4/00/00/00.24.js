@@ -1,0 +1,1 @@
+deepmacDetailCallback("54d0b4000000/24",[{"d":"2015-12-22","t":"add","a":"3rd Floor,No,44,GuanRi Road,Software Park,XiaMen XiaMen Fujian CN 361000","c":"CN","o":"Xiamen Four-Faith Communication Technology Co.,Ltd"}]);

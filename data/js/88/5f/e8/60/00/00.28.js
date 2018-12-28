@@ -1,0 +1,1 @@
+deepmacDetailCallback("885fe8600000/28",[{"a":"KingBrand Industrial Zone, Nanpu Road,Shang Liao Lin Pikeng,Shajing Town,Baoan District Shenzhen   CN 518000","o":"Shenzhen Xin Kingbrand Enterprises Co.,Ltd","d":"2017-12-31","t":"add","s":"ieee","c":"CN"}]);

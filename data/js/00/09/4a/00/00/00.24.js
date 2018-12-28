@@ -1,0 +1,1 @@
+deepmacDetailCallback("00094a000000/24",[{"d":"2002-03-29","t":"add","a":"Innovation Centre\nNational Technological Park\nLimerick\n","c":"IRELAND","o":"Homenet Communications","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Innovation Centre Limerick  IE","c":"IE","o":"Homenet Communications"}]);

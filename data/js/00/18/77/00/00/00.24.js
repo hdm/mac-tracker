@@ -1,0 +1,1 @@
+deepmacDetailCallback("001877000000/24",[{"d":"2006-06-13","t":"add","a":"Silkeborgvej 2\nAarhus C  8000\n\n","c":"DENMARK","o":"Amplex A/S"},{"d":"2015-08-27","t":"change","a":"Silkeborgvej 2 Aarhus C  DK 8000","c":"DK","o":"Amplex A/S"}]);

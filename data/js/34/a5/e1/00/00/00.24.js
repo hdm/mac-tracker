@@ -1,0 +1,1 @@
+deepmacDetailCallback("34a5e1000000/24",[{"d":"2013-08-23","t":"add","a":"Nyhavn 16\nCopenhagen K Sjaelland 1051\n\n","c":"DENMARK","o":"Sensorist ApS"},{"d":"2015-08-27","t":"change","a":"Nyhavn 16 Copenhagen K Sjaelland DK 1051","c":"DK","o":"Sensorist ApS"}]);

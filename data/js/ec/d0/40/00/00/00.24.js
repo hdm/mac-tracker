@@ -1,0 +1,1 @@
+deepmacDetailCallback("ecd040000000/24",[{"d":"2013-02-14","t":"add","a":"Siemensstrasse 25-27\nBoenen Northrhine-Westfalia 59199\n\n","c":"GERMANY","o":"GEA Farm Technologies GmbH"},{"d":"2015-08-27","t":"change","a":"Siemensstrasse 25-27 Boenen Northrhine-Westfalia DE 59199","c":"DE","o":"GEA Farm Technologies GmbH"}]);

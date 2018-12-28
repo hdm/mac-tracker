@@ -1,0 +1,1 @@
+deepmacDetailCallback("1cc11a000000/24",[{"d":"2013-09-10","t":"add","a":"78 East 1700 South\nProvo UT 84606\n\n","c":"UNITED STATES","o":"Wavetronix"},{"d":"2015-08-27","t":"change","a":"78 East 1700 South Provo UT US 84606","c":"US","o":"Wavetronix"}]);

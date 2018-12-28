@@ -1,0 +1,1 @@
+deepmacDetailCallback("00242a000000/24",[{"d":"2008-11-02","t":"add","a":"20 Alpha Rd\nChelmsford MA 01824\n\n","c":"UNITED STATES","o":"Hittite Microwave Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"20 Alpha Rd Chelmsford MA US 01824","c":"US","o":"Hittite Microwave Corporation"}]);

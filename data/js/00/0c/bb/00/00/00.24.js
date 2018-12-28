@@ -1,0 +1,1 @@
+deepmacDetailCallback("000cbb000000/24",[{"d":"2003-04-08","t":"add","a":"Savska loka 4\nKranj Gorenjska 4000\n\n","c":"SLOVENIA","o":"ISKRAEMECO","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Savska loka 4 Kranj Gorenjska SI 4000","c":"SI","o":"ISKRAEMECO"}]);

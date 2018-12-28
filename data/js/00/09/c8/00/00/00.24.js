@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009c8000000/24",[{"d":"2002-06-05","t":"add","a":"13-5 Fuke , Sumiyoshi , Onahama\nIwaki City Fukushima Prefecture 971-8124\n\n","c":"JAPAN","o":"SINAGAWA TSUSHIN KEISOU SERVICE"},{"d":"2015-08-27","t":"change","a":"13-5 Fuke , Sumiyoshi , Onahama Iwaki City Fukushima Prefecture JP 971-8124","c":"JP","o":"SINAGAWA TSUSHIN KEISOU SERVICE"}]);

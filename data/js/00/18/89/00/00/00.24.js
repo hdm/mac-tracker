@@ -1,0 +1,1 @@
+deepmacDetailCallback("001889000000/24",[{"d":"2006-06-13","t":"add","a":"Rm804, Kornhill Metro Tower, Quarry Bay\nHK 852\n\n","c":"HONG KONG","o":"WinNet Solutions Limited"},{"d":"2015-08-27","t":"change","a":"Rm804, Kornhill Metro Tower, Quarry Bay  HK HK 852","c":"HK","o":"WinNet Solutions Limited"}]);

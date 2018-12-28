@@ -1,0 +1,1 @@
+deepmacDetailCallback("047863000000/24",[{"d":"2015-09-30","t":"add","a":"9th Floor, No. 5 Building, 2145 Jinshajiang Rd., Putuo District Shanghai  CN 200333","c":"CN","o":"Shanghai MXCHIP Information Technology Co., Ltd."}]);

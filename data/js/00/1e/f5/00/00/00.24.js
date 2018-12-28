@@ -1,0 +1,1 @@
+deepmacDetailCallback("001ef5000000/24",[{"d":"2007-12-31","t":"add","a":"Room C3-901, No.383, Huamen Shijia\nWensanlu Road,\nHangzhou  310012\n","c":"CHINA","o":"Hitek Automated Inc."},{"d":"2015-08-27","t":"change","a":"Room C3-901, No.383, Huamen Shijia Hangzhou  CN 310012","c":"CN","o":"Hitek Automated Inc."}]);

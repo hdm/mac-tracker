@@ -1,0 +1,1 @@
+deepmacDetailCallback("28a186000000/24",[{"d":"2012-07-19","t":"add","a":"Room 212 Building 105-1 SNU\nGwanak-ro 1, Gwanak-gu\nSEOUL 151-742\n","c":"KOREA, REPUBLIC OF","o":"enblink"},{"d":"2015-08-27","t":"change","a":"Room 212 Building 105-1 SNU  SEOUL KR 151-742","c":"KR","o":"enblink"}]);

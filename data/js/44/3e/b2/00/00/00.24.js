@@ -1,0 +1,1 @@
+deepmacDetailCallback("443eb2000000/24",[{"d":"2011-05-20","t":"add","a":"506, Dain Bldg\n742-3 Choji-dong\nAnsan Kyonggi-do 425-856\n","c":"KOREA, REPUBLIC OF","o":"DEOTRON Co., LTD."},{"d":"2015-08-27","t":"change","a":"506, Dain Bldg Ansan Kyonggi-do KR 425-856","c":"KR","o":"DEOTRON Co., LTD."}]);

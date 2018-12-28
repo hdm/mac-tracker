@@ -1,0 +1,1 @@
+deepmacDetailCallback("0ca06c000000/24",[{"d":"2018-12-13","t":"add","s":"ieee-oui.csv","a":"Unit 1A - 343 Montrose Street North Cambridge Ontario CA N3H 2H6","c":"CA","o":"Industrial Cyber Sensing Inc."}]);

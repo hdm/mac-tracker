@@ -1,0 +1,1 @@
+deepmacDetailCallback("001fac000000/24",[{"d":"2008-02-09","t":"add","a":"Sinikalliontie 10\nEspoo Uusimaa 02630\n\n","c":"FINLAND","o":"Goodmill Systems Ltd"},{"d":"2015-08-27","t":"change","a":"Sinikalliontie 10 Espoo Uusimaa FI 02630","c":"FI","o":"Goodmill Systems Ltd"}]);

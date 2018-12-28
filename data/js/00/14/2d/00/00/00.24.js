@@ -1,0 +1,1 @@
+deepmacDetailCallback("00142d000000/24",[{"d":"2005-03-25","t":"add","a":"Altsagenstrasse 5\nHorw LU 6048\n\n","c":"SWITZERLAND","o":"Toradex AG"},{"d":"2015-08-27","t":"change","a":"Altsagenstrasse 5 Horw LU CH 6048","c":"CH","o":"Toradex AG"}]);

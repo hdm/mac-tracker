@@ -1,0 +1,1 @@
+deepmacDetailCallback("149fb6000000/24",[{"d":"2017-07-06","t":"add","a":"#126,BBK Road,Wusha,Chang'An Dong Guan  Guang Dong CN 523860","c":"CN","o":" GUANGDONG GENIUS TECHNOLOGY CO.,LTD."},{"d":"2018-10-16","t":"change","s":"ieee-oui.csv","a":"#126,BBK Road,Wusha,Chang'An Dong Guan  Guang Dong CN 523860","c":"CN","o":"GUANGDONG GENIUS TECHNOLOGY CO., LTD."}]);

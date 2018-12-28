@@ -1,0 +1,1 @@
+deepmacDetailCallback("001e56000000/24",[{"d":"2007-10-04","t":"add","a":"Maybachufer 48-51\nBerlin  12045\n\n","c":"GERMANY","o":"Bally Wulff Entertainment GmbH"},{"d":"2015-08-27","t":"change","a":"Maybachufer 48-51 Berlin  DE 12045","c":"DE","o":"Bally Wulff Entertainment GmbH"}]);

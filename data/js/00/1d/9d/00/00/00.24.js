@@ -1,0 +1,1 @@
+deepmacDetailCallback("001d9d000000/24",[{"d":"2007-08-18","t":"add","a":"Room 1601,No.239 ZhongXing Road,LuoHu District\nShenzhen Guangdong 518001\n\n","c":"CHINA","o":"ARTJOY INTERNATIONAL LIMITED"},{"d":"2015-08-27","t":"change","a":"Room 1601,No.239 ZhongXing Road,LuoHu District Shenzhen Guangdong CN 518001","c":"CN","o":"ARTJOY INTERNATIONAL LIMITED"}]);

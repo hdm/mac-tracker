@@ -1,0 +1,1 @@
+deepmacDetailCallback("001144000000/24",[{"d":"2004-05-11","t":"add","a":"6304 Potomac Avenue\nAlexandria Virginia 22307\n\n","c":"UNITED STATES","o":"Assurance Technology Corp","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6304 Potomac Avenue Alexandria Virginia US 22307","c":"US","o":"Assurance Technology Corp"}]);

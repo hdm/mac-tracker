@@ -1,0 +1,1 @@
+deepmacDetailCallback("c438d3000000/24",[{"d":"2012-05-23","t":"add","a":"#604, Dongmoon Goodmorning Tower 2,\n1324, Baekseok-dong, Ilsandong-gu\nGoyang-si Kyunggi-do 410-704\n","c":"KOREA, REPUBLIC OF","o":"TAGATEC CO.,LTD"},{"d":"2015-08-27","t":"change","a":"#604, Dongmoon Goodmorning Tower 2,  Goyang-si Kyunggi-do KR 410-704","c":"KR","o":"TAGATEC CO.,LTD"}]);

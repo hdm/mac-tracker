@@ -1,0 +1,1 @@
+deepmacDetailCallback("28c914000000/24",[{"d":"2012-04-20","t":"add","a":"NO. 1, West 2nd St. N.E.P.Z\nKaohsiung  811\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Taimag Corporation"},{"d":"2015-08-27","t":"change","a":"NO. 1, West 2nd St. N.E.P.Z  Kaohsiung  TW 811","c":"TW","o":"Taimag Corporation"}]);

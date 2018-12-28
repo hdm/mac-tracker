@@ -1,0 +1,1 @@
+deepmacDetailCallback("000e57000000/24",[{"d":"2003-12-21","t":"add","a":"125 Hanju Bldg, Nonhyun-Dong\nKang-Nam Gu\nSeoul  135010\n","c":"KOREA, REPUBLIC OF","o":"Iworld Networking, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"125 Hanju Bldg, Nonhyun-Dong Seoul  KR 135010","c":"KR","o":"Iworld Networking, Inc."}]);

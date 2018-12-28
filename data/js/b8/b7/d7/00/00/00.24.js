@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8b7d7000000/24",[{"d":"2012-07-12","t":"add","a":"2961 West Maple Loop Drive\nLehi Utah 84043\n\n","c":"UNITED STATES","o":"2GIG Technologies"},{"d":"2015-08-27","t":"change","a":"2961 West Maple Loop Drive Lehi Utah US 84043","c":"US","o":"2GIG Technologies"}]);

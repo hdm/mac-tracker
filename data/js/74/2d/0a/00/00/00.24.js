@@ -1,0 +1,1 @@
+deepmacDetailCallback("742d0a000000/24",[{"d":"2012-08-16","t":"add","a":"Luzernstrasse 12\nEschenbach LU 6274\n\n","c":"SWITZERLAND","o":"Norfolk Elektronik AG"},{"d":"2015-08-27","t":"change","a":"Luzernstrasse 12 Eschenbach LU CH 6274","c":"CH","o":"Norfolk Elektronik AG"}]);

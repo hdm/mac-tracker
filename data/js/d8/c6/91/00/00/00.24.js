@@ -1,0 +1,1 @@
+deepmacDetailCallback("d8c691000000/24",[{"d":"2012-06-06","t":"add","a":"12F., No.2, Jian 8th Rd., Zhonghe Dist\nNew Taipei City  23511\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Hichan Technology Corp."},{"d":"2015-08-27","t":"change","a":"12F., No.2, Jian 8th Rd., Zhonghe Dist New Taipei City  TW 23511","c":"TW","o":"Hichan Technology Corp."}]);

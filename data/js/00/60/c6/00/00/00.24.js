@@ -1,0 +1,1 @@
+deepmacDetailCallback("0060c6000000/24",[{"d":"1998-04-22","t":"add","a":"SALZACHSTRASS 31\nD-14129  BERLIN\n\n","c":"GERMANY","o":"DCS AG"},{"d":"2015-08-27","t":"change","a":"SALZACHSTRASS 31 D-14129  BERLIN  DE","c":"DE","o":"DCS AG"}]);

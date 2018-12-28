@@ -1,0 +1,1 @@
+deepmacDetailCallback("a8b0ae000000/24",[{"d":"2010-08-03","t":"add","a":"3945 Freedom Circle\nSuite 550\nSanta Clara California 95054\n","c":"UNITED STATES","o":"LEONI"},{"d":"2015-08-27","t":"change","a":"3945 Freedom Circle Santa Clara California US 95054","c":"US","o":"LEONI"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("04c991000000/24",[{"d":"2014-03-20","t":"add","a":"5 Floor, No.188, Section 3, Datong Road\nXizhi District\nNew Taipei City  221\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Phistek INC."},{"d":"2015-08-27","t":"change","a":"5 Floor, No.188, Section 3, Datong Road New Taipei City  TW 221","c":"TW","o":"Phistek INC."}]);

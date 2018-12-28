@@ -1,0 +1,1 @@
+deepmacDetailCallback("001779000000/24",[{"d":"2006-03-06","t":"add","a":"Cornishe El-Nile, Maasara\nCairo  11743\n\n","c":"EGYPT","o":"QuickTel","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Cornishe El-Nile, Maasara Cairo  EG 11743","c":"EG","o":"QuickTel"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001ef1000000/24",[{"d":"2007-12-31","t":"add","a":"ZAET Les Haies\nRue Benoit Frachon\nSt Maximin Oise 60740\n","c":"FRANCE","o":"Servimat"},{"d":"2015-08-27","t":"change","a":"ZAET Les Haies St Maximin Oise FR 60740","c":"FR","o":"Servimat"}]);

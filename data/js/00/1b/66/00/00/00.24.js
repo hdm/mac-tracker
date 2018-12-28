@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b66000000/24",[{"d":"2007-02-09","t":"add","a":"Am Labor 1\nWedemark Niedersachsen 30900\n\n","c":"GERMANY","o":"Sennheiser electronic GmbH & Co. KG"},{"d":"2015-08-27","t":"change","a":"Am Labor 1 Wedemark Niedersachsen DE 30900","c":"DE","o":"Sennheiser electronic GmbH & Co. KG"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("002284000000/24",[{"d":"2008-06-18","t":"add","a":"DESAY 3rd Zone,Chenjiang,\nHuizhou Guangdong 516229\n\n","c":"CHINA","o":"DESAY A&V SCIENCE AND TECHNOLOGY CO.,LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"DESAY 3rd Zone,Chenjiang, Huizhou Guangdong CN 516229","c":"CN","o":"DESAY A&V SCIENCE AND TECHNOLOGY CO.,LTD"}]);

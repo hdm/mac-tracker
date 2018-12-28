@@ -1,0 +1,1 @@
+deepmacDetailCallback("001ff9000000/24",[{"d":"2008-02-20","t":"add","a":"3350 Scott Blvd, Suite 40\nSanta Clara CA 95054-3119\n\n","c":"UNITED STATES","o":"Advanced Knowledge Associates","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3350 Scott Blvd, Suite 40 Santa Clara CA US 95054-3119","c":"US","o":"Advanced Knowledge Associates"}]);

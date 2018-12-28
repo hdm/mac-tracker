@@ -1,0 +1,1 @@
+deepmacDetailCallback("0022b1000000/24",[{"d":"2008-07-19","t":"add","a":"POB 539\nHaifa  31053\n\n","c":"ISRAEL","o":"Elbit Systems"},{"d":"2015-08-27","t":"change","a":"p.o.b. 539\nHaifa    36925\n\n","c":"IL","o":"Elbit Systems"},{"d":"2016-01-26","t":"change","a":"p.o.b. 539 Haifa  IL 36925","c":"IL","o":"Elbit Systems Ltd."}]);

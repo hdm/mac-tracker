@@ -1,0 +1,1 @@
+deepmacDetailCallback("001423000000/24",[{"d":"2005-03-24","t":"add","a":"Energeticheskii proezd, 6\nMoscow  111250\n\n","c":"RUSSIAN FEDERATION","o":"J-S Co. NEUROCOM"},{"d":"2015-08-27","t":"change","a":"Energeticheskii proezd, 6 Moscow  RU 111250","c":"RU","o":"J-S Co. NEUROCOM"}]);

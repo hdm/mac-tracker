@@ -1,0 +1,1 @@
+deepmacDetailCallback("001f63000000/24",[{"d":"2007-12-31","t":"add","a":"20/5 Marksistskaya st.\nMoscow  109147\n\n","c":"RUSSIAN FEDERATION","o":"JSC Goodwin-Europa"},{"d":"2015-08-27","t":"change","a":"20/5 Marksistskaya st. Moscow  RU 109147","c":"RU","o":"JSC Goodwin-Europa"}]);

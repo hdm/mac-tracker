@@ -1,0 +1,1 @@
+deepmacDetailCallback("001cb5000000/24",[{"d":"2007-05-29","t":"add","a":"Plot Xinmei Road 102-Q,New District\nWuXi Jiangsu 214028\n\n","c":"CHINA","o":"Neihua Network Technology Co.,LTD.(NHN)","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Plot Xinmei Road 102-Q,New District WuXi Jiangsu CN 214028","c":"CN","o":"Neihua Network Technology Co.,LTD.(NHN)"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("f013c3000000/24",[{"d":"2011-06-30","t":"add","a":"Fenda Hi-Tech Park, Zhoushi Road, Shiyan, Baoan\nShenZhen GuangDong 518108\n\n","c":"CHINA","o":"SHENZHEN FENDA TECHNOLOGY CO., LTD"},{"d":"2015-08-27","t":"change","a":"Fenda Hi-Tech Park, Zhoushi Road, Shiyan, Baoan ShenZhen GuangDong CN 518108","c":"CN","o":"SHENZHEN FENDA TECHNOLOGY CO., LTD"}]);

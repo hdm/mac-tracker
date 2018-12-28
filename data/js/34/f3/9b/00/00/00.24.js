@@ -1,0 +1,1 @@
+deepmacDetailCallback("34f39b000000/24",[{"d":"2010-03-24","t":"add","a":"P.O.Box 7948\nHaifa  31078\n\n","c":"ISRAEL","o":"WizLAN Ltd."},{"d":"2015-08-27","t":"change","a":"P.O.Box 7948 Haifa  IL 31078","c":"IL","o":"WizLAN Ltd."}]);

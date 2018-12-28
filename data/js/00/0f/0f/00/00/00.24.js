@@ -1,0 +1,1 @@
+deepmacDetailCallback("000f0f000000/24",[{"d":"2004-01-23","t":"add","a":"9F Hanmi B/D 192-19\nNonhyeon-Dong\nGangnam-Gu Seoul 135-010\n","c":"KOREA, REPUBLIC OF","o":"Real ID Technology Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9F Hanmi B/D 192-19 Gangnam-Gu Seoul KR 135-010","c":"KR","o":"Real ID Technology Co., Ltd."}]);

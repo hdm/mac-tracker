@@ -1,0 +1,1 @@
+deepmacDetailCallback("0c2d89000000/24",[{"d":"2013-03-09","t":"add","a":"30 East Beaver Creek Road\nUnit 209\nRichmond Hill Ontario L4B 1J2\n","c":"CANADA","o":"QiiQ Communications Inc."},{"d":"2015-08-27","t":"change","a":"30 East Beaver Creek Road Richmond Hill Ontario CA L4B 1J2","c":"CA","o":"QiiQ Communications Inc."}]);

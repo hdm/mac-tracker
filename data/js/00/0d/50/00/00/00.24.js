@@ -1,0 +1,1 @@
+deepmacDetailCallback("000d50000000/24",[{"d":"2003-06-01","t":"add","a":"35 Fitzgerald Ave\nOttawa ON K2H 1E6\n\n","c":"CANADA","o":"Galazar Networks"},{"d":"2015-08-27","t":"change","a":"35 Fitzgerald Ave Ottawa ON CA K2H 1E6","c":"CA","o":"Galazar Networks"}]);

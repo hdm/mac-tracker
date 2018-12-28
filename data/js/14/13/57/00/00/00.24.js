@@ -1,0 +1,1 @@
+deepmacDetailCallback("141357000000/24",[{"d":"2015-08-19","t":"add","a":"2590 North First Street Suite 150\nSan Jose CA 95131\n\n","c":"UNITED STATES","o":"ATP Electronics, Inc."},{"d":"2015-08-27","t":"change","a":"2590 North First Street Suite 150 San Jose CA US 95131","c":"US","o":"ATP Electronics, Inc."}]);

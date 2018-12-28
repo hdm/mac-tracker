@@ -1,0 +1,1 @@
+deepmacDetailCallback("001a0b000000/24",[{"d":"2006-10-16","t":"add","a":"4F, E-Place Bldg., 719-24\nYeoksam-Dong, Gangnam-Gu,\nSeoul  135-080\n","c":"KOREA, REPUBLIC OF","o":"BONA TECHNOLOGY INC.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4F, E-Place Bldg., 719-24 Seoul  KR 135-080","c":"KR","o":"BONA TECHNOLOGY INC."}]);

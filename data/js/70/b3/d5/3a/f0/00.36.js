@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d53af000/36",[{"a":"Rm701,Building C2,Land of Innovation City of Future,No.999.Gaoxin Avenue,East Lake Hi-Tech Zone Wuhan Hubei CN 430075","o":"Turbo Technologies Corporation","d":"2017-07-16","t":"add","s":"ieee","c":"CN"}]);

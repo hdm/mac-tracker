@@ -1,0 +1,1 @@
+deepmacDetailCallback("001760000000/24",[{"d":"2006-03-06","t":"add","a":"2-17-28 Fuchinobe\nSagamihara Kanagawa 229-0006\n\n","c":"JAPAN","o":"Naito Densei Machida MFG.CO.,LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2-17-28 Fuchinobe Sagamihara Kanagawa JP 229-0006","c":"JP","o":"Naito Densei Machida MFG.CO.,LTD"}]);

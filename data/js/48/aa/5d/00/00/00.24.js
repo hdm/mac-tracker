@@ -1,0 +1,1 @@
+deepmacDetailCallback("48aa5d000000/24",[{"d":"2010-01-09","t":"add","a":"39 rue de montigny\nArgenteuil  95100\n\n","c":"FRANCE","o":"Store Electronic Systems"},{"d":"2015-08-27","t":"change","a":"39 rue de montigny Argenteuil  FR 95100","c":"FR","o":"Store Electronic Systems"}]);

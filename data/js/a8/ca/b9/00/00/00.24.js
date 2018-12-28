@@ -1,0 +1,1 @@
+deepmacDetailCallback("a8cab9000000/24",[{"d":"2018-02-10","t":"add","a":"314, Maetan3-Dong, Yeongtong-Gu\n\n\n","c":"SUWON  KYUNGGI-DO  443-743","o":"SAMSUNG ELECTRO MECHANICS CO., LTD."},{"d":"2018-02-14","t":"change","a":"314, Maetan3-Dong, Yeongtong-Gu SUWON KYUNGGI-DO KR 443-743","c":"KR","o":"SAMSUNG ELECTRO MECHANICS CO., LTD."}]);

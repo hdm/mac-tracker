@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1cda400000/28",[{"a":"F803, Shangdi Third Street, No.9,HaiDian District Beijing  CN 100080","o":"Anntec （Beijing） Technology Co.,Ltd.","d":"2018-02-04","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("088dc8000000/24",[{"d":"2010-08-05","t":"add","a":"1483-1 Takahara-machi\nYamagata-shi Yamagata-pref. 9900002\n\n","c":"JAPAN","o":"Ryowa Electronics Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"1483-1 Takahara-machi Yamagata-shi Yamagata-pref. JP 9900002","c":"JP","o":"Ryowa Electronics Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b42000000/24",[{"d":"2007-01-26","t":"add","a":"#715-3 Anyang Megavalley\n799 Gwanyang-Dong, Dongan-Gu\nAnyang-Si Gyunggi-Do 431-767\n","c":"KOREA, REPUBLIC OF","o":"Wise & Blue"},{"d":"2015-08-27","t":"change","a":"#715-3 Anyang Megavalley Anyang-Si Gyunggi-Do KR 431-767","c":"KR","o":"Wise & Blue"}]);

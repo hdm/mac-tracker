@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0b5d7000000/24",[{"a":"Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332","o":"CHONGQING FUGUI ELECTRONICS CO.,LTD.","d":"2018-09-30","t":"add","s":"ieee","c":"CN"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("94290c000000/24",[{"d":"2017-09-26","t":"add","a":"No. 262 North Main Street, Huanggu District, the Yellow River shenyang  CN 110000","c":"CN","o":"Shenyang wisdom Foundation Technology Development Co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("f4b6e5000000/24",[{"d":"2013-11-01","t":"add","a":"9,Gwahaksaneop 5-ro\nOhchang-Eup, Cheongwon-Gun\nCheongwon-Gu ChungBuk 363-885\n","c":"KOREA, REPUBLIC OF","o":"TerraSem Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"9,Gwahaksaneop 5-ro Cheongwon-Gu ChungBuk KR 363-885","c":"KR","o":"TerraSem Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0019f4000000/24",[{"d":"2006-10-16","t":"add","a":"Westendintie 99 B\nEspoo Uusimaa FIN-02160\n\n","c":"FINLAND","o":"Convergens Oy Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Westendintie 99 B Espoo Uusimaa FI FIN-02160","c":"FI","o":"Convergens Oy Ltd"}]);

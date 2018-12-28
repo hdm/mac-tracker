@@ -1,0 +1,1 @@
+deepmacDetailCallback("001aa5000000/24",[{"d":"2006-12-05","t":"add","a":"2500 Augustine Drive, Suite 200\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"BRN Phoenix"},{"d":"2015-08-27","t":"change","a":"2500 Augustine Drive, Suite 200 Santa Clara CA US 95054","c":"US","o":"BRN Phoenix"}]);

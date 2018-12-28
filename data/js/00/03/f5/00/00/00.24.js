@@ -1,0 +1,1 @@
+deepmacDetailCallback("0003f5000000/24",[{"d":"2000-11-09","t":"add","a":"2249 Zanker Rd.\nSan Jose, CA 95131\n\n","c":"UNITED STATES","o":"Chip2Chip"},{"d":"2001-10-24","t":"change","a":"2249 Zanker Rd.\nSan Jose CA 95131\n\n","c":"UNITED STATES","o":"Chip2Chip"},{"d":"2015-08-27","t":"change","a":"2249 Zanker Rd. San Jose CA US 95131","c":"US","o":"Chip2Chip"}]);

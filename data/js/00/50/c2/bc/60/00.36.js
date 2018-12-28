@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c2bc6000/36",[{"a":"dodang-dong,wonmi-gu, bucheon-si, gyeonggi-do dodang-dong,wonmi-gu bucheon-si/gyeonggi-do KP 420-806","o":"MireroTack","d":"2009-12-27","t":"add","s":"ieee","c":"KP"}]);

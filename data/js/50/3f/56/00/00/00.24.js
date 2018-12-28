@@ -1,0 +1,1 @@
+deepmacDetailCallback("503f56000000/24",[{"d":"2012-07-07","t":"add","a":"9F., No.168, Jiankang Rd., Zhonghe Dist.\nNo.168, Jiankang Rd., Zhonghe Dist.\nXinbei City  235\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Syncmold Enterprise Corp"},{"d":"2015-08-27","t":"change","a":"9F., No.168, Jiankang Rd., Zhonghe Dist. Xinbei City  US 235","c":"US","o":"Syncmold Enterprise Corp"}]);

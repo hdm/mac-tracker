@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009a4000000/24",[{"d":"2002-03-29","t":"add","a":"KOUHOKUKU SHIN-YOKOHAMA\n3-19-5\nYOKOHAMA-SHI KANAGAWA-KEN 222-0033\n","c":"JAPAN","o":"HARTEC Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"KOUHOKUKU SHIN-YOKOHAMA YOKOHAMA-SHI KANAGAWA-KEN JP 222-0033","c":"JP","o":"HARTEC Corporation"}]);

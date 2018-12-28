@@ -1,0 +1,1 @@
+deepmacDetailCallback("38b19ea00000/28",[{"d":"2018-11-01","t":"add","s":"ieee-mam.csv","a":"501 Edificio Gaode, No. 10 Huayuan East Road, Haiden DIstrict Beijing CN 100191","c":"CN","o":"Aeroespacial Guosheng Technology Co., Ltd"}]);

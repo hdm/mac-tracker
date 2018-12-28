@@ -1,0 +1,1 @@
+deepmacDetailCallback("0005a4000000/24",[{"d":"2001-06-04","t":"add","a":"5 Jabotinski Street\nRamat-Gan, 52520\n\n","c":"ISRAEL","o":"Lucid Voice Ltd."},{"d":"2015-08-27","t":"change","a":"5 Jabotinski Street   IL","c":"IL","o":"Lucid Voice Ltd."}]);

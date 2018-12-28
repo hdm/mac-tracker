@@ -1,0 +1,1 @@
+deepmacDetailCallback("0ce82f000000/24",[{"d":"2010-12-18","t":"add","a":"Europark Fichtenhain B6\nKrefeld NRW 47807\n\n","c":"GERMANY","o":"Bonfiglioli Vectron GmbH"},{"d":"2015-08-27","t":"change","a":"Europark Fichtenhain B6 Krefeld NRW DE 47807","c":"DE","o":"Bonfiglioli Vectron GmbH"}]);

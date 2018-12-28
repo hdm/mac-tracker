@@ -1,0 +1,1 @@
+deepmacDetailCallback("0003a3000000/24",[{"d":"2000-11-09","t":"add","a":"POB 217, Yokneam Illit,\n\n\n","c":"20692 Israel","o":"MAVIX, Ltd."},{"d":"2001-12-14","t":"change","a":"POB 217, Yokneam Illit,\n20692\n\n","c":"ISRAEL","o":"MAVIX, Ltd."},{"d":"2015-08-27","t":"change","a":"POB 217, Yokneam Illit,   IL 20692","c":"IL","o":"MAVIX, Ltd."}]);

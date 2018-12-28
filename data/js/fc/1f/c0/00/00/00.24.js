@@ -1,0 +1,1 @@
+deepmacDetailCallback("fc1fc0000000/24",[{"d":"2010-11-04","t":"add","a":"BAT 9 - Miniparc\n6 Avenue des Andes\nLES ULIS  91940\n","c":"FRANCE","o":"EURECAM"},{"d":"2015-08-27","t":"change","a":"BAT 9 - Miniparc LES ULIS  FR 91940","c":"FR","o":"EURECAM"}]);

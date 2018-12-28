@@ -1,0 +1,1 @@
+deepmacDetailCallback("0006d0000000/24",[{"d":"2001-10-24","t":"add","a":"9250 Brown Deer Rd.\nSan Diego CA 92121\n\n","c":"UNITED STATES","o":"Elgar Electronics Corp."},{"d":"2015-08-27","t":"change","a":"9250 Brown Deer Rd. San Diego CA US 92121","c":"US","o":"Elgar Electronics Corp."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("0009e4000000/24",[{"d":"2002-06-05","t":"add","a":"B-405, Bundang Techno-Park 148, Yatap-do\nSeongnam Kyonggi-Do 464-070\n\n","c":"KOREA, REPUBLIC OF","o":"K Tech Infosystem Inc."},{"d":"2015-08-27","t":"change","a":"B-405, Bundang Techno-Park 148, Yatap-do Seongnam Kyonggi-Do KR 464-070","c":"KR","o":"K Tech Infosystem Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("e82877000000/24",[{"d":"2010-09-10","t":"add","a":"Attic Bldg. 3F, 1-2-10 Ise-cho,\nAshikaga-shi Tochigi 326-0053\n\n","c":"JAPAN","o":"TMY Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Attic Bldg. 3F, 1-2-10 Ise-cho, Ashikaga-shi Tochigi JP 326-0053","c":"JP","o":"TMY Co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a2f000000/24",[{"d":"2002-06-05","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2004-02-12","t":"change","a":"Chungjin B/D, 475-22 Bangbae, Seocho\nSeoul  137-819\n\n","c":"KOREA, REPUBLIC OF","o":"Artnix Inc."},{"d":"2015-08-27","t":"change","a":"Chungjin B/D, 475-22 Bangbae, Seocho Seoul  KR 137-819","c":"KR","o":"Artnix Inc."}]);

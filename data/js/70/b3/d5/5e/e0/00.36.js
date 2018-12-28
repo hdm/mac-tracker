@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d55ee000/36",[{"a":"Landshuter Str. 20 - 22 Unterschleissheim Bavaria DE 85716","o":"Mikrotron Mikrocomputer, Digital- und Analogtechnik GmbH","d":"2015-07-12","t":"add","s":"ieee","c":"DE"}]);

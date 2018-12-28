@@ -1,0 +1,1 @@
+deepmacDetailCallback("a4a4d3000000/24",[{"d":"2014-04-26","t":"add","a":"No.13-2.Jiang Ying Road,\nNan An District\nChongqing 401336\n","c":"CHINA","o":"Bluebank Communication Technology Co.Ltd"},{"d":"2015-08-27","t":"change","a":"No.13-2.Jiang Ying Road,  Chongqing CN 401336","c":"CN","o":"Bluebank Communication Technology Co.Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8daf1000000/24",[{"d":"2012-08-02","t":"add","a":"Ostdamm 139\nDuelmen NRW 48249\n\n","c":"GERMANY","o":"Strahlenschutz- Entwicklungs- und Ausruestungsgesellschaft mbH"},{"d":"2015-08-27","t":"change","a":"Ostdamm 139 Duelmen NRW DE 48249","c":"DE","o":"Strahlenschutz- Entwicklungs- und Ausruestungsgesellschaft mbH"}]);

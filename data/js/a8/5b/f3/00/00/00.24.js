@@ -1,0 +1,1 @@
+deepmacDetailCallback("a85bf3000000/24",[{"d":"2011-09-24","t":"add","a":"Irrenloher Damm 17\nSchwarzenfeld  92521\n\n","c":"GERMANY","o":"Audivo GmbH"},{"d":"2015-08-27","t":"change","a":"Irrenloher Damm 17 Schwarzenfeld  DE 92521","c":"DE","o":"Audivo GmbH"}]);

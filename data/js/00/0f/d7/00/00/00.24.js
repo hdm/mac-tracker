@@ -1,0 +1,1 @@
+deepmacDetailCallback("000fd7000000/24",[{"d":"2004-04-03","t":"add","a":"8760 Sandy Parkway\nSandy Utah 84070\n\n","c":"UNITED STATES","o":"Harman Music Group"},{"d":"2015-08-27","t":"change","a":"8760 Sandy Parkway Sandy Utah US 84070","c":"US","o":"Harman Music Group"}]);

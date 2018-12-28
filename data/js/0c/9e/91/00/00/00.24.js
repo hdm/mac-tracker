@@ -1,0 +1,1 @@
+deepmacDetailCallback("0c9e91000000/24",[{"d":"2011-12-03","t":"add","a":"1-12, Miyashimo\n1-Chome, Chuo-ku\nSagamihara-shi Kanagawa-ken 252-0212\n","c":"JAPAN","o":"Sankosha Corporation"},{"d":"2015-08-27","t":"change","a":"1-12, Miyashimo Sagamihara-shi Kanagawa-ken JP 252-0212","c":"JP","o":"Sankosha Corporation"}]);

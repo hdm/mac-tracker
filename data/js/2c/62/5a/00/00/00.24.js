@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c625a000000/24",[{"d":"2012-06-29","t":"add","a":"12F, No.103, Sec3, Nan King E. RD\nTaipei  104\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Finest Security Systems Co., Ltd"},{"d":"2015-08-27","t":"change","a":"12F, No.103, Sec3, Nan King E. RD Taipei  US 104","c":"US","o":"Finest Security Systems Co., Ltd"}]);

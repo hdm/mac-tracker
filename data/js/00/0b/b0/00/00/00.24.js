@@ -1,0 +1,1 @@
+deepmacDetailCallback("000bb0000000/24",[{"d":"2002-11-19","t":"add","a":"Viale Berbera, 49\nMilan  20162\n\n","c":"ITALY","o":"Sysnet Telematica srl","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Viale Berbera, 49 Milan  IT 20162","c":"IT","o":"Sysnet Telematica srl"}]);

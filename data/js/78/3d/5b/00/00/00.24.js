@@ -1,0 +1,1 @@
+deepmacDetailCallback("783d5b000000/24",[{"d":"2013-09-10","t":"add","a":"PolÃ­gono Industrial CentrovÃ­a\nC/ Buenos Aires 18\nLa Muela Zaragoza 50198\n","c":"SPAIN","o":"TELNET Redes Inteligentes S.A."},{"d":"2015-08-27","t":"change","a":"Polígono Industrial Centrovía La Muela Zaragoza ES 50198","c":"ES","o":"TELNET Redes Inteligentes S.A."}]);

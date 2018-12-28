@@ -1,0 +1,1 @@
+deepmacDetailCallback("0050c28ae000/36",[{"a":"C/FEDANCI 8-10, 3º-3ª SANT CUGAT DEL VALLES BARCELONA ES 08174","o":"DESARROLLO DE SISTEMAS INTEGRADOS DE CONTROL S.A.","d":"2008-07-30","t":"add","s":"ieee","c":"ES"}]);

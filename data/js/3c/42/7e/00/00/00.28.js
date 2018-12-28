@@ -1,0 +1,1 @@
+deepmacDetailCallback("3c427e000000/28",[{"a":"Block 7, Zhu Keng Industrial Zone Ping Shan District Shenzhen CN 518118","o":"Grandway Technology (Shenzhen) Limited","d":"2018-04-15","t":"add","s":"ieee","c":"CN"}]);

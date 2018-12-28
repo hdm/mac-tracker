@@ -1,0 +1,1 @@
+deepmacDetailCallback("0025e3000000/24",[{"d":"2009-04-19","t":"add","a":"Dong-Won Bld 3F, 395-13, Gal-Ma 2, Seo-Gu\nDaejeon  302-809\n\n","c":"KOREA, REPUBLIC OF","o":"Hanshinit Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Dong-Won Bld 3F, 395-13, Gal-Ma 2, Seo-Gu Daejeon  KR 302-809","c":"KR","o":"Hanshinit Inc."}]);

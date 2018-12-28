@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0b6f5700000/28",[{"a":"Fl#15, Tianming Technology Building, Wushitou Road No.8, North high-tech park, Nanshan District, Shenzhen,P.R.China Shenzhen Guangdong CN 518052","o":"Shenzhen Xrinda Technology Ltd","d":"2016-02-21","t":"add","s":"ieee","c":"CN"}]);

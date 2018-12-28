@@ -1,0 +1,1 @@
+deepmacDetailCallback("503e7c000000/24",[{"d":"2018-12-01","t":"add","s":"ieee-oui.csv","a":"4th Floor,No.1 Commercial Building,Cultural Center,Tanggang Road,Tanggang Community,Shajing Street,Baoan District Shenzhen Guangdong CN 518104","c":"CN","o":"LeiShen Intelligent  System Co.Ltd"}]);

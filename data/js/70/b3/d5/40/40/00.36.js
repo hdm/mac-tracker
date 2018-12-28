@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5404000/36",[{"a":"3F, Handock Bldg., 2645 Nambusunhwan-ro, Gangnam-gu, Seoul, Korea Seoul Gangnam-gu KR 135-859","o":"RANIX,Inc.","d":"2015-06-14","t":"add","s":"ieee","c":"KR"}]);

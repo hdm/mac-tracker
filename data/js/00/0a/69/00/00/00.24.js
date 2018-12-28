@@ -1,0 +1,1 @@
+deepmacDetailCallback("000a69000000/24",[{"d":"2002-08-03","t":"add","a":"#502 BUWON B/D 107-45 BANPO-DONG\nSEOCHO-KU\nSEOUL  137-806\n","c":"KOREA, REPUBLIC OF","o":"SUNNY bell Technology Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#502 BUWON B/D 107-45 BANPO-DONG SEOUL  KR 137-806","c":"KR","o":"SUNNY bell Technology Co., Ltd."}]);

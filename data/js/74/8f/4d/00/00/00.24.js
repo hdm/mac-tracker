@@ -1,0 +1,1 @@
+deepmacDetailCallback("748f4d000000/24",[{"d":"2014-04-15","t":"add","a":"Neuwieder Str. 3 - 7\nNuernberg Bavaria 90411\n\n","c":"GERMANY","o":"MEN Mikro Elektronik GmbH"},{"d":"2015-08-27","t":"change","a":"Neuwieder Str. 3 - 7 Nuernberg Bavaria DE 90411","c":"DE","o":"MEN Mikro Elektronik GmbH"}]);

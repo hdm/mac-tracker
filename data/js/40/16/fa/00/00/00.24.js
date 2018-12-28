@@ -1,0 +1,1 @@
+deepmacDetailCallback("4016fa000000/24",[{"d":"2012-03-03","t":"add","a":"363 Berkeley Way\nSanta Cruz CA 95062\n\n","c":"UNITED STATES","o":"EKM Metering"},{"d":"2015-08-27","t":"change","a":"363 Berkeley Way Santa Cruz CA US 95062","c":"US","o":"EKM Metering"}]);

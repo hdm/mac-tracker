@@ -1,0 +1,1 @@
+deepmacDetailCallback("000759000000/24",[{"d":"2001-10-24","t":"add","a":"PO Box 601\nCastle Point NY 12511\n\n","c":"UNITED STATES","o":"Boris Manufacturing Corp."},{"d":"2015-08-27","t":"change","a":"PO Box 601 Castle Point NY US 12511","c":"US","o":"Boris Manufacturing Corp."}]);

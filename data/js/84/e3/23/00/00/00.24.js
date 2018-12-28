@@ -1,0 +1,1 @@
+deepmacDetailCallback("84e323000000/24",[{"d":"2016-01-19","t":"add","a":"8, 12, 9 - Menara Mutiara, Bangsar, Jalan Liku, Off Jalan Bangsar Kuala Lumpur  MY 59100","c":"MY","o":"Green Wave Telecommunication SDN BHD"}]);

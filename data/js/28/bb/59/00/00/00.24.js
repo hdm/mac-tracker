@@ -1,0 +1,1 @@
+deepmacDetailCallback("28bb59000000/24",[{"d":"2013-10-31","t":"add","a":"240. W. Elmwood Dr.\nSuite 2010\nDayton OHIO 45459-4248\n","c":"UNITED STATES","o":"RNET Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"240. W. Elmwood Dr. Dayton OHIO US 45459-4248","c":"US","o":"RNET Technologies, Inc."}]);

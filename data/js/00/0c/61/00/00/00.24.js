@@ -1,0 +1,1 @@
+deepmacDetailCallback("000c61000000/24",[{"d":"2003-02-07","t":"add","a":"1250-G Avenida Acaso\nCamarillo CA 93010\n\n","c":"UNITED STATES","o":"AC Tech corporation DBA Advanced Digital"},{"d":"2015-08-27","t":"change","a":"1250-G Avenida Acaso Camarillo CA US 93010","c":"US","o":"AC Tech corporation DBA Advanced Digital"}]);

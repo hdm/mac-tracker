@@ -1,0 +1,1 @@
+deepmacDetailCallback("001b6f000000/24",[{"d":"2007-02-09","t":"add","a":"214 Kepa Road\nMission Bay\nAuckland  1071\n","c":"NEW ZEALAND","o":"Teletrak Ltd"},{"d":"2015-08-27","t":"change","a":"214 Kepa Road Auckland  NZ 1071","c":"NZ","o":"Teletrak Ltd"}]);

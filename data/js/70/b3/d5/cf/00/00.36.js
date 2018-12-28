@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5cf0000/36",[{"d":"2018-11-14","t":"add","s":"ieee-oui36.csv","a":"1211 Room,Satellite building,Southern Hi-Tech Zone,Nanshan District ShenZhen Guangdong CN 518000","c":"CN","o":"SHENZHEN WITLINK CO.,LTD."}]);

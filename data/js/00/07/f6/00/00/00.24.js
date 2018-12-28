@@ -1,0 +1,1 @@
+deepmacDetailCallback("0007f6000000/24",[{"d":"2001-10-24","t":"add","a":"860 East 4500 South #200\nMurray UT 84107\n\n","c":"UNITED STATES","o":"Qqest Software Systems"},{"d":"2015-08-27","t":"change","a":"860 East 4500 South #200 Murray UT US 84107","c":"US","o":"Qqest Software Systems"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("04c880000000/24",[{"d":"2009-12-24","t":"add","a":"520 Park East Blvd\nNew Albany IN 47150\n\n","c":"UNITED STATES","o":"Samtec Inc"},{"d":"2015-08-27","t":"change","a":"520 Park East Blvd New Albany IN US 47150","c":"US","o":"Samtec Inc"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("98da92000000/24",[{"d":"2013-10-05","t":"add","a":"2166 Brighton Henrietta Town Line Road\nRochester NY 14623\n\n","c":"UNITED STATES","o":"Vuzix Corporation"},{"d":"2015-08-27","t":"change","a":"2166 Brighton Henrietta Town Line Road Rochester NY US 14623","c":"US","o":"Vuzix Corporation"}]);

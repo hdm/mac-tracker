@@ -1,0 +1,1 @@
+deepmacDetailCallback("48df1c000000/24",[{"d":"2010-10-22","t":"add","a":"3rd Road Guanshan,\nWuhan Hubei 430074\n\n","c":"CHINA","o":"Wuhan NEC Fibre Optic Communications industry Co. Ltd"},{"d":"2015-08-27","t":"change","a":"3rd Road Guanshan, Wuhan Hubei CN 430074","c":"CN","o":"Wuhan NEC Fibre Optic Communications industry Co. Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("1cf03e000000/24",[{"d":"2015-01-29","t":"add","a":"2041 Bancroft Way\nSuite 303\nBerkeley CA 94704\n","c":"UNITED STATES","o":"Wearhaus Inc."},{"d":"2015-08-27","t":"change","a":"2041 Bancroft Way Berkeley CA US 94704","c":"US","o":"Wearhaus Inc."}]);

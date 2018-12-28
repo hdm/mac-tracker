@@ -1,0 +1,1 @@
+deepmacDetailCallback("f8a03d000000/24",[{"d":"2012-04-12","t":"add","a":"Floor 6, Guoxing Building\nChangxing Road, Nanshan District\nshenzhen Guangdong 518052\n","c":"CHINA","o":"Dinstar Technologies Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Floor 6, Guoxing Building shenzhen Guangdong US 518052","c":"US","o":"Dinstar Technologies Co., Ltd."}]);

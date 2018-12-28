@@ -1,0 +1,1 @@
+deepmacDetailCallback("44cd0e000000/24",[{"d":"2017-07-29","t":"add","a":"Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC Zhuhai Guangdong CN 519180","c":"CN","o":"FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD."}]);
