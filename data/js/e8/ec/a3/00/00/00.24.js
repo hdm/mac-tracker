@@ -1,0 +1,1 @@
+deepmacDetailCallback("e8eca3000000/24",[{"d":"2019-01-01","t":"add","s":"ieee-oui.csv","a":"13th Floor South Building, Gosun Science Park, Hongtu Rd Dongguan Dongguan CN 523073","c":"CN","o":"Dongguan Liesheng Electronic Co.Ltd"}]);
