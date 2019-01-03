@@ -1,0 +1,1 @@
+deepmacDetailCallback("1cbfce000000/24",[{"d":"2019-01-03","t":"add","s":"ieee-oui.csv","a":"3F, North Building, Bantian High-tech industrial Zone, No. 2 of Bell Road Shenzhen Guangdong CN 518129","c":"CN","o":"Shenzhen Century Xinyang Technology Co., Ltd"}]);
