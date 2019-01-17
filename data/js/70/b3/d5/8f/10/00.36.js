@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d58f1000/36",[{"d":"2019-01-17","t":"add","s":"ieee-oui36.csv","a":"Hellinger Str. 1 Königsberg/Bayern  DE 97486","c":"DE","o":"Fränkische Rohrwerke Gebr. Kirchner GmbH & Co. KG"}]);

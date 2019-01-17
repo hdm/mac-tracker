@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5490000/36",[{"d":"2019-01-17","t":"add","s":"ieee-oui36.csv","a":"11F Amoy Institute of Technovation,Jimei District Xiamen Fujian CN 361021","c":"CN","o":"Xiamen Beogold Technology Co. Ltd."}]);
