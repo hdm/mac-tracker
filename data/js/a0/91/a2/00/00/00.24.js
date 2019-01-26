@@ -1,0 +1,1 @@
+deepmacDetailCallback("a091a2000000/24",[{"d":"2019-01-26","t":"add","s":"ieee-oui.csv","a":"Room 201, Block A, No.1, 1st Qian Wan Road, Qianhai Shenzhen-Hong Kong Cooperation Zone, Shenzhen, China. Shenzhen Guangdong CN 518000","c":"CN","o":"OnePlus Electronics (Shenzhen) Co., Ltd."}]);
