@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5558000/36",[{"d":"2019-02-06","t":"add","s":"ieee-oui36.csv","a":"Delta House, Southampton Science Park Southampton Hampshire GB SO16 7NS","c":"GB","o":"Multiple Access Communications Ltd"}]);
