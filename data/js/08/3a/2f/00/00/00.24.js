@@ -1,0 +1,1 @@
+deepmacDetailCallback("083a2f000000/24",[{"d":"2019-02-16","t":"add","s":"ieee-oui.csv","a":"NO.9, street 3, HengLing industrial zone, Tangdong, tianhe district Guangzhou Guangdong CN CN 510000","c":"CN","o":"Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd"}]);
