@@ -1,0 +1,1 @@
+deepmacDetailCallback("b0fd0b400000/28",[{"d":"2019-02-21","t":"add","s":"ieee-mam.csv","a":"Room 5011, Building 1, No.335 Guoding Road, Yangpu District Shanghai Shanghai CN 200433","c":"CN","o":"Fasii Information Technology (Shanghai) Ltd."}]);

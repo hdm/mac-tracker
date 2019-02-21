@@ -1,0 +1,1 @@
+deepmacDetailCallback("b0fd0be00000/28",[{"d":"2019-02-21","t":"add","s":"ieee-mam.csv","a":"5th floor,Bld. A1, Lilang Software Park Shenzhen  CN 518112","c":"CN","o":"Shenzhen FEIBIT Electronic Technology Co.,LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("b0fd0b100000/28",[{"d":"2019-02-21","t":"add","s":"ieee-mam.csv","a":"9F, No. 266, Sec. 1, Wenhua Rd., Banqiao Dist. New Taipei City  TW 22041","c":"TW","o":"IDspire Corporation Ltd."}]);
