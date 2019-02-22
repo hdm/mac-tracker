@@ -1,0 +1,1 @@
+deepmacDetailCallback("7a84f0000000/24",[{"d":"2019-02-22","t":"add","s":"ieee-cid.csv","a":"2083 Old Middlefield Way #204 Mountain View CA US 94043","c":"US","o":"McDowell Signal Processing, LLC (dba McDSP)"}]);
