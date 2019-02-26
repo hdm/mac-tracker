@@ -1,0 +1,1 @@
+deepmacDetailCallback("48e1e9000000/24",[{"d":"2019-02-26","t":"add","s":"ieee-oui.csv","a":"No. 25, Yizhou Avenue, Gaoxin Chengdu Sichuan CN 610000","c":"CN","o":"Chengdu Meross Technology Co., Ltd."}]);
