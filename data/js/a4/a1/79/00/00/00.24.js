@@ -1,0 +1,1 @@
+deepmacDetailCallback("a4a179000000/24",[{"d":"2019-02-28","t":"add","s":"ieee-oui.csv","a":"No. 29, liuzhou north road, pukou district Nanjing Jiangsu CN 210031","c":"CN","o":"Nanjing dianyan electric power automation co. LTD"}]);
