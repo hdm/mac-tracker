@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5982000/36",[{"d":"2019-03-02","t":"add","s":"ieee-oui36.csv","a":"Saar-Lor-Lux-Straße 11 Saarbrücken  DE 66115","c":"DE","o":"3S - Sensors, Signal Processing, Systems GmbH"}]);
