@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c8259000000/28",[{"d":"2019-03-07","t":"add","s":"ieee-mam.csv","a":"Shandong Jinan Hightech zone Yinhe building block B, 2008 Xinluo Street Jinan Shandong CN 250100","c":"CN","o":"Shandong Luneng Intelligence Technology CO., Ltd"}]);
