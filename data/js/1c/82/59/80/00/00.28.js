@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c8259800000/28",[{"d":"2019-03-09","t":"add","s":"ieee-mam.csv","a":"B624,C1 Building,Hengchao Industrial Park,Tangtou Road,Shiyan,Bao'an District SHENZHEN Guangdong CN 518108","c":"CN","o":"SHENZHEN AOA TECHNOLOGY CO.,LTD"}]);

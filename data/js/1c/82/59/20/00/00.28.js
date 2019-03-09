@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c8259200000/28",[{"d":"2019-03-09","t":"add","s":"ieee-mam.csv","a":"Grand Front Osaka Tower-B 28F, 3-1 ofuka-cho, kita-ku Osaka Osaka JP 530-0011","c":"JP","o":"Diatrend Corporation"}]);
