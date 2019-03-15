@@ -1,0 +1,1 @@
+deepmacDetailCallback("1449bc000000/24",[{"d":"2019-03-15","t":"add","s":"ieee-oui.csv","a":"No. 26, Fushing Rd., Hukou, Hsinchu Industrial Park, Hsinchu county  TW 30352","c":"TW","o":"DrayTek Corp."}]);
