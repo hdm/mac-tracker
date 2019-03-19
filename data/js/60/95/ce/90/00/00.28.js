@@ -1,0 +1,1 @@
+deepmacDetailCallback("6095ce900000/28",[{"d":"2019-03-19","t":"add","s":"ieee-mam.csv","a":"D-502#,Tongan logistics center,Sanwei hangkong 30#,Xiang street,Baoan, Shenzhen Guangdong CN 518000","c":"CN","o":"Jlztlink Industry(ShenZhen)Co.,Ltd."}]);
