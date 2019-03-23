@@ -1,0 +1,1 @@
+deepmacDetailCallback("d0c857200000/28",[{"d":"2019-03-23","t":"add","s":"ieee-mam.csv","a":"6F., NO.51, DONGXING RD., XINYI DIST., TAIPEI CITY 110-70, TAIWAN Taipei  TW 110","c":"TW","o":"FORGAMERS INC."}]);
