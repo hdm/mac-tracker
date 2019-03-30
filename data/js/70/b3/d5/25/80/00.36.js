@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5258000/36",[{"d":"2019-03-30","t":"add","s":"ieee-oui36.csv","a":"Kimya Sanayicileri Org. San. Bolgesi Organik Cad. No:31 Istanbul Tuzla  TR 34956","c":"TR","o":"BAYKON Endüstriyel Kontrol Sistemleri San. ve Tic. A.Ş."}]);

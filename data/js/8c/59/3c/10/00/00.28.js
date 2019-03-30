@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c593c100000/28",[{"d":"2019-03-30","t":"add","s":"ieee-mam.csv","a":"Room 406 Block A South Wind Tower, Nanshan Cloud Valley Innovation Industry Park, No 4093 Lau Sin Avenue Taoyuan Street Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Future Robot Technology Co., Limited"}]);
