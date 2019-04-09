@@ -1,0 +1,1 @@
+deepmacDetailCallback("1871d5000000/24",[{"d":"2019-04-09","t":"add","s":"ieee-oui.csv","a":"C8 Building, Building 13, Zhongxin Innovation Industry City, No.12, Ganli No.6 Road, Ganli Industrial Park, Buji Street, Longgang District  Shenzhen Guangdong CN 518100","c":"CN","o":"Hazens Automotive Electronics(SZ)Co.,Ltd."}]);

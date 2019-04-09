@@ -1,0 +1,1 @@
+deepmacDetailCallback("acb1ee000000/24",[{"d":"2019-04-09","t":"add","s":"ieee-oui.csv","a":"Fenda Hi-Tech Park, Zhoushi Road, Shiyan, Baoan ShenZhen GuangDong CN 518108","c":"CN","o":"SHENZHEN FENDA TECHNOLOGY CO., LTD"}]);
