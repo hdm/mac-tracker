@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2b66000/36",[{"a":"Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465","o":"Deuta-Werke GmbH","d":"2009-10-18","t":"add","s":"ieee","c":"DE"}]);
+deepmacDetailCallback("0050c2b66000/36",[{"a":"Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465","o":"Deuta-Werke GmbH","d":"2009-10-18","t":"add","s":"ieee","c":"DE"},{"d":"2019-04-11","t":"change","s":"ieee-iab.csv","a":"Paffrather Str. 140 Bergisch Gladbach Northrhine Westfalia DE 51465","c":"DE","o":"8185"}]);
