@@ -1,0 +1,1 @@
+deepmacDetailCallback("b4a2ebc00000/28",[{"d":"2019-04-13","t":"add","s":"ieee-mam.csv","a":"10F of JEI PLATZ Bldg., 186, Gasandigital 1-ro,  Seoul  KR 08502","c":"KR","o":"ASSA ABLOY Korea Co., Ltd. iRevo"}]);
