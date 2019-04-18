@@ -1,0 +1,1 @@
+deepmacDetailCallback("2c16bd000000/28",[{"d":"2019-04-18","t":"add","s":"ieee-mam.csv","a":"4/F,No.3 building,No.8,Haiying Road,Fengtai District Beijing Beijing CN 100070","c":"CN","o":"Beijing Jishi Huitong Technology Co., Ltd."}]);
