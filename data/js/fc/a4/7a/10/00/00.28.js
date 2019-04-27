@@ -1,0 +1,1 @@
+deepmacDetailCallback("fca47a100000/28",[{"d":"2019-04-27","t":"add","s":"ieee-mam.csv","a":"5F, Fengyun Building, No.5 Road, Hi-Tech Industrial Park (North), Nanshan District,  Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen VMAX New Energy Co., Ltd."}]);

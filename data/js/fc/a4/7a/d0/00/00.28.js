@@ -1,0 +1,1 @@
+deepmacDetailCallback("fca47ad00000/28",[{"d":"2019-04-27","t":"add","s":"ieee-mam.csv","a":"No.205,2F,17th Block,PingShan Industrial District,TaoYuan Street, NanShan ShenZhen GuangDong CN 518055","c":"CN","o":"SHENZHEN KUKU TECHNOLOGY CO.,LTD"}]);
