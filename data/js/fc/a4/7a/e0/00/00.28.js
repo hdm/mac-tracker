@@ -1,0 +1,1 @@
+deepmacDetailCallback("fca47ae00000/28",[{"d":"2019-05-04","t":"add","s":"ieee-mam.csv","a":"6 / F 1#ZhongShi Building,CSV, High-tech Zone HEFEI  CN 230000","c":"CN","o":"Hefei Feier Smart Science&Technology Co. Ltd"}]);

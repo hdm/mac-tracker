@@ -1,0 +1,1 @@
+deepmacDetailCallback("d05f64700000/28",[{"d":"2019-05-04","t":"add","s":"ieee-mam.csv","a":"2/F, Tower C, Building 4,  Zhongguancun Software Park, No.8 Dongbeiwang West Road, Haidian District, Beijing, China Beijing  CN 100085","c":"CN","o":"Beijing Core Shield Group Co., Ltd."}]);
