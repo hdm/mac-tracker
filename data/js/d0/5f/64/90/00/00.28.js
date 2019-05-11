@@ -1,0 +1,1 @@
+deepmacDetailCallback("d05f64900000/28",[{"d":"2019-05-11","t":"add","s":"ieee-mam.csv","a":"Room 1009 Block 12 No.858 South Huanzhen Road Baoshan District Shanghai City Shanghai   CN 200442","c":"CN","o":"Shanghai Luying International Trade Co.,Ltd"}]);
