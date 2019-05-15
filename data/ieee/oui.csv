@@ -2733,7 +2733,6 @@ MA-L,000388,"Fastfame Technology Co., Ltd.","7F, No. 111, Hsing De Rd., TAIWAN T
 MA-L,00037F,"Atheros Communications, Inc.",5480 Great America Parkway Santa Clara CA US 95054 
 MA-L,0004B8,"Kumahira Co., Ltd.",4-34 Ujinahigashi 2-Chome  JAPAN JP 734-8567 
 MA-L,0004B2,ESSEGI SRL,"Via Del Cavaratori, 17   IT  "
-MA-L,0004AB,"Comverse Network Systems, Inc.",29 Habarzel Street.   IL  
 MA-L,0004A4,"NetEnabled, Inc.",1275 Kinnear Rd. Columbus OH US 43212 
 MA-L,00049E,"Wirelink Co., Ltd.","11F, Geoseong B/D 541, Dowha-Dong,   KR KOREA "
 MA-L,000498,Mahi Networks,1039 N. McDowell Blvd. Petaluma CA US 94954 
@@ -5274,6 +5273,10 @@ MA-L,ACFE05,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING 
 MA-L,90BDE6,"Quectel Wireless Solutions Co., Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,500291,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,5CCAD3,CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.,"9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT SHEN ZHEN GUANG DONG CN 518000 "
+MA-L,BCBAC2,"Hangzhou Hikvision Digital Technology Co.,Ltd.","No.555 Qianmo Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,786559,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,0004AB,Mavenir Inc.,1700 International Parkway Richardson TX US 75081 
+MA-L,782A79,Integrated Device Technology (Malaysia) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -10595,6 +10598,7 @@ MA-L,5CE883,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,3C9D56,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,D46BA6,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,24526A,"Zhejiang Dahua Technology Co., Ltd.","No.1199,Waterfront Road  Hangzhou Zhejiang CN 310053 "
+MA-L,44D5F2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -16316,7 +16320,6 @@ MA-L,B0793C,Revolv Inc,2060 Broadway #380 Boulder CO US 80302
 MA-L,20CEC4,Peraso Technologies,"144 Front St. West, Suite 685 Toronto ON CA M5J 2L7 "
 MA-L,700FEC,Poindus Systems Corp.,"5F., No. 59, Lane. 77, Xing-Ai Rd., Neihu Dist.,  Taipei City  TW 114 "
 MA-L,78D5B5,NAVIELEKTRO KY,HALLIMESTARINKATU 11 KAARINA  FI FIN-20780 
-MA-L,E067B3,"C-Data Technology Co., Ltd","Floor 6th, Bldg 4th,South 2 of Honghualing Industrial Zone,Xili Rd, Shenzhen Guangdong CN 518055 "
 MA-L,B887A8,Step Ahead Innovations Inc.,20 Wintersport Ln. Williston VT US 05495 
 MA-L,140D4F,Flextronics International,Stretton Green Distribution Centre Langford Way Warrington Cheshire GB WA4 4TQ 
 MA-L,B847C6,SanJet Technology Corp.,"4F,No2,Li-Hsin Rd., 6, Hsinchu  TW 30078 "
@@ -21035,6 +21038,7 @@ MA-L,08849D,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507
 MA-L,24A52C,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,100177,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,44A191,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,E067B3,"Shenzhen C-Data Technology Co., Ltd","#601, Fl6, Bldg F, No.1008  Yangguang Community Shenzhen Guangdong CN 518055 "
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -26286,3 +26290,6 @@ MA-L,ECA5DE,ONYX WIFI Inc,"9891 Irvine Center Drive, Suite 200 Irvine  US 92618 
 MA-L,CC0577,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,446747,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,A463A1,Inventus Power Eletronica do Brasil LTDA,"Av Buriti, 4285 Distrito Industrial Manaus Amazonas BR 69075000 "
+MA-L,0CDD24,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
+MA-L,482759,Levven Electronics Ltd.,9741 54 Ave NW Edmonton Alberta CA T6E 5J4 
+MA-L,D015A6,"Aruba, a Hewlett Packard Enterprise Company",3333 Scott Blvd Santa Clara CA US 95054 

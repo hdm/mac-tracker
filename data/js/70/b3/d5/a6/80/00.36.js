@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5a68000/36",[{"d":"2019-05-15","t":"add","s":"ieee-oui36.csv","a":"Shilin Industrial Zone,Xinshi, Deqing,Zhejiang,China Deqing Zhejiang CN 313200","c":"CN","o":"Zhejiang Zhaolong Interconnect Technology Co.,Ltd"}]);
