@@ -1,0 +1,1 @@
+deepmacDetailCallback("44d5f2100000/28",[{"d":"2019-05-16","t":"add","s":"ieee-mam.csv","a":"8F., No.23, Ln. 155, Sec. 3, Beishen Rd., Shenkeng Dist. New Taipei City  TW 222","c":"TW","o":"SIMPLERED TECHNOLOGY LTD."}]);
