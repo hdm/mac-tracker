@@ -1,0 +1,1 @@
+deepmacDetailCallback("44d5f2700000/28",[{"d":"2019-05-17","t":"add","s":"ieee-mam.csv","a":"5B01 5F Wangtang Building Xingao Road Xili Nanshan District  Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Qiutian Technology Co.,Ltd"}]);

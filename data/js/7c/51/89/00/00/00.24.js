@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c5189000000/24",[{"d":"2019-05-17","t":"add","s":"ieee-oui.csv","a":"RM 504 5/F Sun Fung Industrial Building 8-12 Ma Kok Street Tsuen Wan  HK NA","c":"NA","o":"SG Wireless Limited"}]);
