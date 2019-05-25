@@ -1,0 +1,1 @@
+deepmacDetailCallback("a8c0ea000000/24",[{"d":"2019-05-25","t":"add","s":"ieee-oui.csv","a":"A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road Cheung Sha Wan Hong Kong HK 0","c":"HK","o":"Pepwave Limited"}]);
