@@ -1,0 +1,1 @@
+deepmacDetailCallback("18bf1c000000/24",[{"d":"2019-05-29","t":"add","s":"ieee-oui.csv","a":"No. 24, Block 2, Taohuawu New District Zhenjiang Jiangsu CN 212003","c":"CN","o":"Jiangsu Huitong Group Co.,Ltd."}]);
