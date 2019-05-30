@@ -1,0 +1,1 @@
+deepmacDetailCallback("980637300000/28",[{"d":"2019-05-30","t":"add","s":"ieee-mam.csv","a":"No. 195, Wen Er Road, Xihu District, Xinyuan 11-18F Hangzhou Zhejiang CN 310012","c":"CN","o":"Hangzhou Sanxin Network Technology Co.,Ltd"}]);
