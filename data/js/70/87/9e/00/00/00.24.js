@@ -1,0 +1,1 @@
+deepmacDetailCallback("70879e000000/24",[{"d":"2019-05-31","t":"add","s":"ieee-oui.csv","a":"Building 41, Capital of Tech Leaders, 1387 Zhangdong Road, Zhangjiang High-Tech Park, Pudong New District Shanghai  CN 201203","c":"CN","o":"Beken Corporation"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("6c4d51000000/24",[{"d":"2019-05-31","t":"add","s":"ieee-oui.csv","a":"#601, Fl6, Bldg F, No.1008  Yangguang Community, Xili, Nanshan Shenzhen Guangdong CN 518055","c":"CN","o":"Shenzhen Ceres Technology Co., Ltd."}]);
