@@ -1,0 +1,1 @@
+deepmacDetailCallback("e4922a000000/24",[{"d":"2019-06-05","t":"add","s":"ieee-oui.csv","a":"UNIT D, 6/F., UNISON INDUSTRIAL CENTRE, 27-31 AUPUI WAN STREET, FOTAN, N.T. Hong Kong  HK 999077","c":"HK","o":"DBG HOLDINGS LIMITED"}]);
