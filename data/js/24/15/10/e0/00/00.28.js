@@ -1,0 +1,1 @@
+deepmacDetailCallback("241510e00000/28",[{"d":"2019-06-12","t":"add","s":"ieee-mam.csv","a":"1305 ,SED science and technology Building,No.1 science and technology road,Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"Satellite Link Technology CO.,LTD"}]);

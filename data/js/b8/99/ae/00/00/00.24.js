@@ -1,0 +1,1 @@
+deepmacDetailCallback("b899ae000000/24",[{"d":"2019-06-12","t":"add","s":"ieee-oui.csv","a":"Chudong science and technology park, 111 shaxin road, tangxia town, dongguan city guangdong province CN 523710","c":"CN","o":"Shenzhen MiaoMing  Intelligent Technology Co.,Ltd"}]);
