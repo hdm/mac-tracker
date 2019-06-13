@@ -5278,10 +5278,10 @@ MA-L,545AA6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,500291,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,B03E51,BSkyB Ltd,130 Kings Road Brentwood Essex GB 08854 
 MA-L,98E8FA,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
-MA-L,34DD7E,"Umeox Innovations Co.,Ltd","Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000 "
 MA-L,38C4E8,NSS Sp. z o.o.,Modularna 11 Warszawa  PL 02-238 
-MA-L,80B07B,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,34DD7E,"Umeox Innovations Co.,Ltd","Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000 "
 MA-L,C85A9F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
+MA-L,80B07B,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,207759,"OPTICAL NETWORK VIDEO TECHNOLOGIES (SHENZHEN) CO., LTD.","The 4-6th Floor, No. 59, HuaNing Road, Xinwei Community, Dalang Street, Longhua District Shenzhen  CN 518000 "
 MA-L,5098B8,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,E0E8E6,"Shenzhen C-Data Technology Co., Ltd.","#601, Fl6, Bldg F, No.1008  Yangguang Community, Xili, Nanshan Shenzhen Guangdong CN 518055 "
@@ -5296,6 +5296,10 @@ MA-L,E4922A,DBG HOLDINGS LIMITED,"UNIT D, 6/F., UNISON INDUSTRIAL CENTRE, 27-31 
 MA-L,5C75AF,"Fitbit, Inc.","199 Fremont Street, 14th Fl San Francisco CA US 94105 "
 MA-L,38BAB0,Broadcom,1320 Ridder Park San Jose CA US 95131 
 MA-L,4C90DB,JL Audio,10369 N Commerce Pkwy Mirimar FL US 33025 
+MA-L,D82918,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,4CF19E,Groupe Atlantic,"Ideal Boilers, National Ave Hull East Yorkshire GB HU5 4JB "
+MA-L,04ED33,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
+MA-L,88517A,HMD Global Oy,Bertel Jungin aukio 9 Espoo  FI 02600 
 MA-L,0C6F9C,Shaw Communications Inc.,"Suite 900, 630 3rd Avenue S.W. CALGARY ALBERTA CA T2P 4L4 "
 MA-L,1801E3,Bittium Wireless Ltd,Tutkijantie 8 Oulu  FI 50590 
 MA-L,C0AC54,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -10640,6 +10644,9 @@ MA-L,70441C,"SHENZHEN KAIFA TECHNOLOGY CO.,LTD.","7006 Caitian Rd., Futian Dist.
 MA-L,4CB1CD,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,4C7A48,Nippon Seiki (Europe) B.V.,Antareslaan 27 Hoofddorp  NL 2132 
 MA-L,E8D0B9,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
+MA-L,684AAE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,ACB3B5,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,1CAECB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,5846E1,Baxter International Inc,One Baxter Parkway Deerfield IL US 60015 
 MA-L,00D0BD,Lattice Semiconductor Corp. (LPA),2115 O’Nel Drive San Jose CA US 95131 
 MA-L,F08261,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
@@ -15843,6 +15850,8 @@ MA-L,847637,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,083A88,"Universal Global Scientific Industrial Co., Ltd.","141, Lane 351, Taiping Road, Sec.1,Tsao Tuen Nan-Tou Taiwan TW 54261 "
 MA-L,ECFA5C,"Beijing Xiaomi Electronics Co., Ltd.","Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District Beijing Beijing CN 10085 "
 MA-L,0C20D3,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
+MA-L,5434EF,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,30FBB8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,D86CE9,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,3C81D8,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
 MA-L,2CE412,Sagemcom Broadband SAS,250 route de l'Empereur RUEIL MALMAISON CEDEX Hauts de Seine FR 92848 
@@ -21113,6 +21122,11 @@ MA-L,38FB14,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,2446C8,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,F8B46A,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
 MA-L,1802AE,"vivo Mobile Communication Co., Ltd.","#283,BBK Road Wusha,Chang'An DongGuan City,Guangdong, CN 523860 "
+MA-L,8446FE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,B00875,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,BCB0E7,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,60D755,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,208593,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,2C3996,Sagemcom Broadband SAS,250 route de l'Empereur Rueil Malmaison HAUTS DE SEINE FR 92848 
 MA-L,0054BD,Swelaser AB,Tullgårdsgatan 8 Stockholm  SE 11668 
 MA-L,0057D2,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
