@@ -1,1 +1,1 @@
-deepmacDetailCallback("441c12000000/24",[{"a":"5030 Sugarloaf Parkway Bldg 6 Lawrenceville GA US 30044","o":"Technicolor CH USA Inc.","d":"2018-09-07","t":"add","s":"ieee","c":"US"}]);
+deepmacDetailCallback("441c12000000/24",[{"a":"5030 Sugarloaf Parkway Bldg 6 Lawrenceville GA US 30044","o":"Technicolor CH USA Inc.","d":"2018-09-07","t":"add","s":"ieee","c":"US"},{"d":"2019-06-19","t":"change","s":"ieee-oui.csv","a":"5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044","c":"US","o":"Technicolor CH USA Inc."}]);
