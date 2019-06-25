@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c4bf9100000/28",[{"d":"2019-06-25","t":"add","s":"ieee-mam.csv","a":"No. 5, Dongmeng Road, Nanzha Street Jiangyin City  Jiangsu Province CN 214400","c":"CN","o":"Jiangsu acrel Co., Ltd."}]);

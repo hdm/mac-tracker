@@ -1,0 +1,1 @@
+deepmacDetailCallback("d89790000000/24",[{"d":"2019-06-25","t":"add","s":"ieee-oui.csv","a":"GPO Box 1700 Canberra ACT AU 2601","c":"AU","o":"Commonwealth Scientific and Industrial Research Organisation"}]);
