@@ -1,0 +1,1 @@
+deepmacDetailCallback("7897c3000000/24",[{"d":"2019-06-27","t":"add","s":"ieee-oui.csv","a":"No.6 huasui Road,ZhuJiang Xincheng Guangzhou Guangdong CN 510623","c":"CN","o":"DINGXIN INFORMATION TECHNOLOGY CO.,LTD"}]);
