@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2872000/36",[{"a":"Sinikalliontie 18 B 02630 Espoo  FI","o":"Oliotalo Oy","d":"2008-07-30","t":"add","s":"ieee","c":"FI"}]);
+deepmacDetailCallback("0050c2872000/36",[{"a":"Sinikalliontie 18 B 02630 Espoo  FI","o":"Oliotalo Oy","d":"2008-07-30","t":"add","s":"ieee","c":"FI"},{"d":"2019-07-01","t":"change","s":"ieee-iab.csv","a":"Sinikalliontie 18 B 02630 Espoo  FI 000","c":"FI","o":"Oliotalo Oy"}]);

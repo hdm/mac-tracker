@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5ba2000/36",[{"a":"8189 Century Blvd. Chanhassen  US 55317-8002","o":"MAMAC Systems, Inc.","d":"2017-10-22","t":"add","s":"ieee","c":"US"}]);
+deepmacDetailCallback("70b3d5ba2000/36",[{"a":"8189 Century Blvd. Chanhassen  US 55317-8002","o":"MAMAC Systems, Inc.","d":"2017-10-22","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-oui36.csv","a":"8189 Century Blvd. Chanhassen null US 55317-8002","c":"US","o":"MAMAC Systems, Inc."}]);

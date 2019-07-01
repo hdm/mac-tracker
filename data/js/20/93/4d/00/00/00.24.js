@@ -1,1 +1,1 @@
-deepmacDetailCallback("20934d000000/24",[{"d":"2014-04-23","t":"add","a":"19-22# Building,,Star-net Science Plaza Fuzhou Fujian  350002 ","c":"CHINA","o":"FUJIAN STAR-NET COMMUNICATION CO.,LTD"}]);
+deepmacDetailCallback("20934d000000/24",[{"d":"2014-04-23","t":"add","a":"19-22# Building,,Star-net Science Plaza Fuzhou Fujian  350002 ","c":"CHINA","o":"FUJIAN STAR-NET COMMUNICATION CO.,LTD"},{"d":"2019-07-01","t":"change","s":"ieee-oui.csv","a":"19-22# Building,,Star-net Science Plaza Fuzhou Fujian CN 350002","c":"CN","o":"FUJIAN STAR-NET COMMUNICATION CO.,LTD"}]);

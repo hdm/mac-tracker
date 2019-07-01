@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c917ac00000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"No. 301, 3 floor, 9 building, four district, Wangjing East Garden, Chaoyang District, Beijing Beijing CN 100102","c":"CN","o":"Alibaba (Beijing) Software Service Inc."}]);

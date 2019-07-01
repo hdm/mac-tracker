@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d57dc000/36",[{"a":"9924 N. Ash Avenue Kansas City  US 64157","o":"Software Systems Plus","d":"2018-07-29","t":"add","s":"ieee","c":"US"}]);
+deepmacDetailCallback("70b3d57dc000/36",[{"a":"9924 N. Ash Avenue Kansas City  US 64157","o":"Software Systems Plus","d":"2018-07-29","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-oui36.csv","a":"9924 N. Ash Avenue Kansas City null US 64157","c":"US","o":"Software Systems Plus"}]);

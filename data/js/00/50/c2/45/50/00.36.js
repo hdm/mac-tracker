@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2455000/36",[{"a":"1172 Century Drive Louisville Colorado US 80027","o":"Gogo BA","d":"2008-07-30","t":"add","s":"ieee","c":"US"}]);
+deepmacDetailCallback("0050c2455000/36",[{"a":"1172 Century Drive Louisville Colorado US 80027","o":"Gogo BA","d":"2008-07-30","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-iab.csv","a":"1172 Century Drive Louisville  US 80027","c":"US","o":"Gogo BA"}]);

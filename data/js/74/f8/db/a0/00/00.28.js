@@ -1,1 +1,1 @@
-deepmacDetailCallback("74f8dba00000/28",[{"a":"11400 Airport Rd Everett Wa US 98204","o":"Ballard Technology, Inc,","d":"2015-10-16","t":"add","s":"ieee","c":"US"}]);
+deepmacDetailCallback("74f8dba00000/28",[{"a":"11400 Airport Rd Everett Wa US 98204","o":"Ballard Technology, Inc,","d":"2015-10-16","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-mam.csv","a":"11400 Airport Rd Everett  US 98204","c":"US","o":"Ballard Technology, Inc,"}]);

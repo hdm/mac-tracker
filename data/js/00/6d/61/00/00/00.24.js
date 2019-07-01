@@ -1,0 +1,1 @@
+deepmacDetailCallback("006d61000000/24",[{"d":"2019-07-01","t":"add","s":"ieee-oui.csv","a":"Room 601,Originality Building B2, NO.162 Science Avenue,Science Town Guangzhou Guangdong CN 510663","c":"CN","o":"Guangzhou V-SOLUTION Electronic Technology Co., Ltd."}]);

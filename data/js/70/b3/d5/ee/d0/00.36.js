@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5eed000/36",[{"a":"Sigerslevoestervej 11 Frederikssund Graese DK DK-3600","o":"COMM-connect A/S","d":"2017-07-16","t":"add","s":"ieee","c":"DK"}]);
+deepmacDetailCallback("70b3d5eed000/36",[{"a":"Sigerslevoestervej 11 Frederikssund Graese DK DK-3600","o":"COMM-connect A/S","d":"2017-07-16","t":"add","s":"ieee","c":"DK"},{"d":"2019-07-01","t":"change","s":"ieee-oui36.csv","a":"Raasigvangen 2 Slangerup  DK DK-3550","c":"DK","o":"COMM-connect A/S"}]);

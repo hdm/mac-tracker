@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5c84000/36",[{"d":"2019-07-01","t":"add","s":"ieee-oui36.csv","a":"1125 12th Ave NW # B-2 Issaquah WA US 98027","c":"US","o":"Linc Technology Corporation dba Data-Linc Group"}]);

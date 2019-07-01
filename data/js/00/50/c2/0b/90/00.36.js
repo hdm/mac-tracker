@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c20b9000/36",[{"a":"Am Rosenhugel 1-7 42553 Velbert  DE","o":"Helmut Mauell GmbH Werk Weida","d":"2008-07-30","t":"add","s":"ieee","c":"DE"}]);
+deepmacDetailCallback("0050c20b9000/36",[{"a":"Am Rosenhugel 1-7 42553 Velbert  DE","o":"Helmut Mauell GmbH Werk Weida","d":"2008-07-30","t":"add","s":"ieee","c":"DE"},{"d":"2019-07-01","t":"change","s":"ieee-iab.csv","a":"Am Rosenhugel 1-7 42553 Velbert  DE 0000","c":"DE","o":"Helmut Mauell GmbH Werk Weida"}]);
