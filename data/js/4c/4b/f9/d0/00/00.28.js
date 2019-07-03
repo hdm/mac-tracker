@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c4bf9d00000/28",[{"d":"2019-07-03","t":"add","s":"ieee-mam.csv","a":"1208 District B,Jinhui Building, 2079 Nanhai Avenue,Dengliang Community,Nanshan Street,Nanshan District Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen Haichuan Intelligent Information Technology Co., Ltd."}]);

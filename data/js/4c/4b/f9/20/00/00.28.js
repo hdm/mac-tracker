@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c4bf9200000/28",[{"d":"2019-07-03","t":"add","s":"ieee-mam.csv","a":"5F,Building B,Zhengchangda Digital Technology Park,Jian'an Road,Tangwei community,Fuhai street,Bao'an District Shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen HommPro Technology Co.,Ltd"}]);
