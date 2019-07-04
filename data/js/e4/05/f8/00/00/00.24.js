@@ -1,0 +1,1 @@
+deepmacDetailCallback("e405f8000000/24",[{"d":"2019-07-04","t":"add","s":"ieee-oui.csv","a":"China Digital Kingdom Building, Chaoyang District Beijing Beijing CN 100102","c":"CN","o":"Delta Innovation Technology Co., Ltd."}]);

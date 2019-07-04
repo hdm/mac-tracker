@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c4bf9e00000/28",[{"d":"2019-07-04","t":"add","s":"ieee-mam.csv","a":"The building of Navinfo ,at the intersection Yongfeng road and Beiqing road,Haidian District Beijing Beijing CN 100094","c":"CN","o":"Beijing AutoAi Technology co. LTD"}]);
