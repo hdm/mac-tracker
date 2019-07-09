@@ -1,1 +1,1 @@
-deepmacDetailCallback("a0d86f000000/24",[{"a":"","o":"Private","d":"2017-06-04","t":"add","s":"ieee"}]);
+deepmacDetailCallback("a0d86f000000/24",[{"a":"","o":"Private","d":"2017-06-04","t":"add","s":"ieee"},{"d":"2019-07-09","t":"change","s":"ieee-oui.csv","a":"40, 24th Street, Second Floor Pittsburgh PA US 15222","c":"US","o":"ARGO AI, LLC"}]);

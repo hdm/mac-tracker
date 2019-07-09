@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5279000/36",[{"a":"","o":"Private","d":"2017-06-04","t":"add","s":"ieee"}]);
+deepmacDetailCallback("70b3d5279000/36",[{"a":"","o":"Private","d":"2017-06-04","t":"add","s":"ieee"},{"d":"2019-07-09","t":"change","s":"ieee-oui36.csv","a":"600 Atlantis Rd Melbourne FL US 32904","c":"US","o":"Medicomp, Inc"}]);

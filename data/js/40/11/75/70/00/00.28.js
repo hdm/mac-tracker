@@ -1,0 +1,1 @@
+deepmacDetailCallback("401175700000/28",[{"d":"2019-07-09","t":"add","s":"ieee-mam.csv","a":"ROOM 201 at 2nd floor in 2nd Building,No.602, Guangshan 2nd Road, Tianhe District Guangzhou Guangdong CN 510663","c":"CN","o":"Guangzhou RALID Information System Co.Ltd"}]);

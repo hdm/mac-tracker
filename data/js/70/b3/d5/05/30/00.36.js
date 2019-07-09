@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5053000/36",[{"d":"2019-07-09","t":"add","s":"ieee-oui36.csv","a":"1-37-23, Suenaga, Takatsu Kawasaki-City Kanagawa JP 213-0013","c":"JP","o":"YAMAKATSU ELECTRONICS INDUSTRY CO., LTD."}]);

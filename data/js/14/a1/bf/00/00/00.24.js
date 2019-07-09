@@ -1,0 +1,1 @@
+deepmacDetailCallback("14a1bf000000/24",[{"d":"2019-07-09","t":"add","s":"ieee-oui.csv","a":"10f of JEI PLATZ Bldg., 186, Gasandigital 1-ro Geumcheon-gu Seoul KR 08502","c":"KR","o":"ASSA ABLOY Korea Co., Ltd Unilock"}]);
