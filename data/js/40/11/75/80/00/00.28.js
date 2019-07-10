@@ -1,0 +1,1 @@
+deepmacDetailCallback("401175800000/28",[{"d":"2019-07-10","t":"add","s":"ieee-mam.csv","a":"NO.1 Development Road,Beijing International Information Industrial Base,Huilongguan Town,Changping District Beijing Beijing CN 102206","c":"CN","o":"Beijing Gemotech Intelligent Technology Co., Ltd."}]);
