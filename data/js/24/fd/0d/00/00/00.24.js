@@ -1,0 +1,1 @@
+deepmacDetailCallback("24fd0d000000/24",[{"d":"2019-07-12","t":"add","s":"ieee-oui.csv","a":"BR 101, KM 210 São Jose Santa Catarina BR 88104-800","c":"BR","o":"INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA"}]);
