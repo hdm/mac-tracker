@@ -1,0 +1,1 @@
+deepmacDetailCallback("64c901000000/24",[{"d":"2019-07-20","t":"add","s":"ieee-oui.csv","a":"No.66, Hougang St., Shilin Dist., Taipei City 111, Taiwan (R.O.C.) Taipei  TW 111","c":"TW","o":"INVENTEC Corporation"}]);
