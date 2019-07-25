@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d56ab000/36",[{"d":"2019-07-25","t":"add","s":"ieee-oui36.csv","a":"Floor 28, taikang financial building, building 1, yard 38, dongsanhuan north road, chaoyang district, Beijing beijing beijing CN 100033","c":"CN","o":"ARROW (CHINA) ELECTRONICS TRADING CO., LTD."}]);
