@@ -1,0 +1,1 @@
+deepmacDetailCallback("54a493d00000/28",[{"d":"2019-07-26","t":"add","s":"ieee-mam.csv","a":"No. 17, Minquan St., Tucheng Dist., New Taipei City Taiwan (R.O.C.) TW 236","c":"TW","o":"ASSEM TECHNOLOGY CO.,LTD."}]);
