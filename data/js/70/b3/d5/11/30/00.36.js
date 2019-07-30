@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5113000/36",[{"d":"2019-07-30","t":"add","s":"ieee-oui36.csv","a":"Rm 210, Sahwa-ro 210, Uichang-gu Changwon-si Gyeongsangnam-do KR 51390","c":"KR","o":"iREA System Industry"}]);

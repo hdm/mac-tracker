@@ -1,0 +1,1 @@
+deepmacDetailCallback("54a493800000/28",[{"d":"2019-07-30","t":"add","s":"ieee-mam.csv","a":"Floor 20, Building B, Xingchen International, No.555, Middle Section of Yizhou Avenue Chengdu Sichuan CN 610015","c":"CN","o":"Chengdu EVECCA Technology Co.,Ltd."}]);
