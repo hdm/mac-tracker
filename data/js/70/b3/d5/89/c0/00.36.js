@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d589c000/36",[{"d":"2019-08-02","t":"add","s":"ieee-oui36.csv","a":"1, Shin-nakahara-cho, Isogo-ku Yokohama Kanagawa JP 235-8501","c":"JP","o":"IHI Rotating Machinery Engineering Co.,Ltd."}]);
