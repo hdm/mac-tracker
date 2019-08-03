@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5e80000/36",[{"d":"2019-08-03","t":"add","s":"ieee-oui36.csv","a":"Sanjing World Tech Park,3rd Floor,Bld NO3 NO.18huashan Road  Changzhou Jiangsu CN 213001","c":"CN","o":"Changzhou Rapid Information Technology Co,Ltd"}]);
