@@ -1,1 +1,1 @@
-deepmacDetailCallback("244e7bd00000/28",[{"a":"","o":"Private","d":"2016-08-22","t":"add","s":"ieee"}]);
+deepmacDetailCallback("244e7bd00000/28",[{"a":"","o":"Private","d":"2016-08-22","t":"add","s":"ieee"},{"d":"2019-08-07","t":"change","s":"ieee-mam.csv","a":"500 Charles Ewing Blvd Ewing NJ US 08628","c":"US","o":"Church & Dwight Co., Inc."}]);
