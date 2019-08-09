@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d595f000/36",[{"d":"2019-08-09","t":"add","s":"ieee-oui36.csv","a":"Unit 53, CoWorkz Business Centre, Chester West Employment Park, Minerva Avenue, Chester Cheshire GB CH1 4QL","c":"GB","o":"WiFi Nation Ltd"}]);

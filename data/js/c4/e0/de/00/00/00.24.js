@@ -1,0 +1,1 @@
+deepmacDetailCallback("c4e0de000000/24",[{"d":"2019-08-09","t":"add","s":"ieee-oui.csv","a":"Tianli building A, wisdom park, no. 139, yangjin road, jinshui district Zhengzhou Henan CN 450003","c":"CN","o":"Zhengzhou XindaJiean Information Technology Co.,Ltd."}]);

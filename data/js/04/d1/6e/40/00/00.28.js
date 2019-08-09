@@ -1,0 +1,1 @@
+deepmacDetailCallback("04d16e400000/28",[{"d":"2019-08-09","t":"add","s":"ieee-mam.csv","a":"T2-B5 FLOOR, shenzhen software park, gaoxin south 7th road, yuehai                street, nanshan district ShenZhen GuangDong CN 518000","c":"CN","o":"ShenZhen Huafu Information technology Co.?Ltd"}]);
