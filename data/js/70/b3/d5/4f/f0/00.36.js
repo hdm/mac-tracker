@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d54ff000/36",[{"d":"2019-08-10","t":"add","s":"ieee-oui36.csv","a":"No.309 room 2445 14C?Tanggu Road?Hongkou District Shanghai  CN 200080","c":"CN","o":"Shanghai AiGentoo Information Technology Co.,Ltd."}]);
