@@ -1,0 +1,1 @@
+deepmacDetailCallback("04d16e700000/28",[{"d":"2019-08-13","t":"add","s":"ieee-mam.csv","a":"8/F, Building B, SOHO Zhongshan Plaza, 1065 West Zhongshan Road Shanghai   CN 200051","c":"CN","o":"Envision Energy"}]);

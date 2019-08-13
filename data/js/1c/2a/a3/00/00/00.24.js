@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c2aa3000000/24",[{"d":"2019-08-13","t":"add","s":"ieee-oui.csv","a":"B#2F Shuangjinhui Industrial Park, Yonghe Road, Heping Village, Fuyong Town, Bao'an Dis Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen HongRui Optical Technology Co., Ltd."}]);
