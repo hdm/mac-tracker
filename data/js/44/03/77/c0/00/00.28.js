@@ -1,0 +1,1 @@
+deepmacDetailCallback("440377c00000/28",[{"d":"2019-08-21","t":"add","s":"ieee-mam.csv","a":"Nantou Dadao, 20 Zhongshan Guangdong CN 528427","c":"CN","o":"BIG Climatic Manufacture, Co. LTD, Zhongshan Branch"}]);
