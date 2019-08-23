@@ -1,0 +1,1 @@
+deepmacDetailCallback("b4e8c9000000/24",[{"d":"2019-08-23","t":"add","s":"ieee-oui.csv","a":"No. 2-2, Xinyi Road Section 5, Lane 150, 1st Floor Taipei City Taipei City TW 110","c":"TW","o":"XADA Technologies"}]);
