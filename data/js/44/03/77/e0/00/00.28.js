@@ -1,0 +1,1 @@
+deepmacDetailCallback("440377e00000/28",[{"d":"2019-08-25","t":"add","s":"ieee-mam.csv","a":"5/F, No 4 Block, Jinruizhonghe Industry Park,Huarong Road, Da Lang, Long Hua, Shenzhen, China. shenzhen Guang Dong CN 518109","c":"CN","o":"Bolin Technology Co., Ltd"}]);
