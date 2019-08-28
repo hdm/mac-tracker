@@ -1,0 +1,1 @@
+deepmacDetailCallback("6802b8000000/24",[{"d":"2019-08-28","t":"add","s":"ieee-oui.csv","a":"13F., No.1, Taiyuan 1st St. Zhubei City Hsinchu County TW 30265","c":"TW","o":"Compal Broadband Networks, Inc."}]);
