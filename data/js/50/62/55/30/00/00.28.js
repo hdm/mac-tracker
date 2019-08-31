@@ -1,0 +1,1 @@
+deepmacDetailCallback("506255300000/28",[{"d":"2019-08-31","t":"add","s":"ieee-mam.csv","a":"1F., No. 9, Changchun 6th Rd., Zhongli Dist.,  Taoyuan City  TW 320","c":"TW","o":"Hypertech Advance Co., LTD"}]);
