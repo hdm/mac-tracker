@@ -1,0 +1,1 @@
+deepmacDetailCallback("643139000000/28",[{"d":"2019-09-08","t":"add","s":"ieee-mam.csv","a":"Unit 2C,Building A6,Guangming Science Park,Guangming Road 3009 Shenzhen Guangdong CN 518000","c":"CN","o":"SHENZHEN EMEET INTELLIGENT TECHNOLOGY CO., LTD."}]);
