@@ -1,0 +1,1 @@
+deepmacDetailCallback("643139d00000/28",[{"d":"2019-09-10","t":"add","s":"ieee-mam.csv","a":"5 / F, Building A, qinghua pioneer park?No. 318 Tianhu Road, Camel Street, Zhenhai District Ningbo  CN 315202","c":"CN","o":"ZHEJIANG MOORGEN INTELLIGENT TECHNOLOGY CO.,LTD"}]);
