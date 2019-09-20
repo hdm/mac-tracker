@@ -1,1 +1,1 @@
-deepmacDetailCallback("001bc50ab000/36",[{"a":"","o":"Private","d":"2015-08-30","t":"add","s":"ieee"}]);
+deepmacDetailCallback("001bc50ab000/36",[{"a":"","o":"Private","d":"2015-08-30","t":"add","s":"ieee"},{"d":"2019-09-20","t":"change","s":"ieee-oui36.csv","a":"Salorankatu 5-7 Salo  FI 24240","c":"FI","o":"Evondos Oy"}]);
