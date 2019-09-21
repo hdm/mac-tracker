@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5f97000/36",[{"d":"2019-09-21","t":"add","s":"ieee-oui36.csv","a":"Unit 10, Newton Gate Industrial Estate Penrith Cumbria GB CA11 0BF","c":"GB","o":"Typhon Treatment Systems Ltd"}]);
