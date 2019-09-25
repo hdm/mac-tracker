@@ -1,0 +1,1 @@
+deepmacDetailCallback("d42493000000/24",[{"d":"2019-09-25","t":"add","s":"ieee-oui.csv","a":"Building 16,No.8,Heying Road,Changping District Beijing Beijing CN 102200","c":"CN","o":"GW Technologies Co.,Ltd"}]);
