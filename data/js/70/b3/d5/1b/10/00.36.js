@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d51b1000/36",[{"d":"2019-09-28","t":"add","s":"ieee-oui36.csv","a":"12D, Building 7, 2388, Chenhang Road, Minhang District Shanghai Shanghai CN 201114","c":"CN","o":"Shanghai Danyan Information Technology Co., Ltd."}]);
