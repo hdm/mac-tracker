@@ -1,1 +1,1 @@
-deepmacDetailCallback("8ce38e000000/24",[{"d":"2017-05-25","t":"add","a":"1-1, Shibaura 1-chome Minato-ku Tokyo JP 105-8001","c":"JP","o":"Toshiba Memory Corporation"}]);
+deepmacDetailCallback("8ce38e000000/24",[{"d":"2017-05-25","t":"add","a":"1-1, Shibaura 1-chome Minato-ku Tokyo JP 105-8001","c":"JP","o":"Toshiba Memory Corporation"},{"d":"2019-10-02","t":"change","s":"ieee-oui.csv","a":"1-21, Shibaura 3-chome Minato-ku Tokyo JP 108-0023","c":"JP","o":"Kioxia Corporation"}]);
