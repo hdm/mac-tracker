@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d562c000/36",[{"d":"2019-10-04","t":"add","s":"ieee-oui36.csv","a":"Malaya Krasnoselskaya str., build. 2/8, block 7, floor 4, dep. II, room 5 Moscow Moscow RU 107140","c":"RU","o":"OOO \"NTC Rotek\""}]);
