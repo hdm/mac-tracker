@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0224eb00000/28",[{"d":"2019-10-08","t":"add","s":"ieee-mam.csv","a":"19 Morris Avenue, Building 128, Cumberland Gate Brooklyn NY US 11205","c":"US","o":"All Inspire Health Inc."}]);
