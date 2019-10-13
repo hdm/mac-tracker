@@ -1,0 +1,1 @@
+deepmacDetailCallback("200a0d600000/28",[{"d":"2019-10-13","t":"add","s":"ieee-mam.csv","a":"Unit 3608-12, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan,  Hong Kong Hong Kong Kwai Tsing New Territories HK 00000","c":"HK","o":"Austin Hughes Electronics Ltd."}]);

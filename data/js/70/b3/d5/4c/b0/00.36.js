@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d54cb000/36",[{"d":"2019-10-13","t":"add","s":"ieee-oui36.csv","a":"Upper Pendrill Ct, Ermine St N, Papworth Everard Cambridge Cambridgeshire GB CB23 3UY","c":"GB","o":"CamNtech Ltd"}]);
