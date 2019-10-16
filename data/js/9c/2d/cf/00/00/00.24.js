@@ -1,0 +1,1 @@
+deepmacDetailCallback("9c2dcf000000/24",[{"d":"2019-10-16","t":"add","s":"ieee-oui.csv","a":"No. 1268 Middle Section of Tianfu Avenue, Chengdu High-tech Zone, China (Sichuan) Pilot Free Trade Zone Chengdu Sichuan CN 610017","c":"CN","o":"Shishi Tongyun Technology(Chengdu)Co.,Ltd."}]);
