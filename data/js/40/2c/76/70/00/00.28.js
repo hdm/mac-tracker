@@ -1,0 +1,1 @@
+deepmacDetailCallback("402c76700000/28",[{"d":"2019-10-25","t":"add","s":"ieee-mam.csv","a":"Room (1-1-178), No. 150, Zhangpu Road, Jiushigang Town, Haishu District Ningbo Zhejiang CN 315000","c":"CN","o":"Zhejiang Guoli Security Technology Co., Ltd."}]);
