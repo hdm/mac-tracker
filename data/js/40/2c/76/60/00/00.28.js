@@ -1,0 +1,1 @@
+deepmacDetailCallback("402c76600000/28",[{"d":"2019-10-30","t":"add","s":"ieee-mam.csv","a":"136#, Gaopu Road, Tianhe District Guangzhou Guangdong CN 510663","c":"CN","o":"Guangzhou LANGO Electronics Technology Co., Ltd."}]);
