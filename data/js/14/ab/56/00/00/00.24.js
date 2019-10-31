@@ -1,0 +1,1 @@
+deepmacDetailCallback("14ab56000000/24",[{"d":"2019-10-31","t":"add","s":"ieee-oui.csv","a":"No. 38 East Chunhui Road, Xishan Economic & Technology Development Zone WUXI JIANGSU CN 214101","c":"CN","o":"WUXI FUNIDE DIGITAL CO.,LTD"}]);
