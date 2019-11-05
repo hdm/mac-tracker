@@ -1,1 +1,1 @@
-deepmacDetailCallback("f417b8000000/24",[{"d":"2017-08-19","t":"add","a":"Mithat Uluünlü Sokak No:23, Esentepe / Sisli Istanbul Marmara TR 34394","c":"TR","o":"AirTies Wireless Networks"}]);
+deepmacDetailCallback("f417b8000000/24",[{"d":"2017-08-19","t":"add","a":"Mithat Uluünlü Sokak No:23, Esentepe / Sisli Istanbul Marmara TR 34394","c":"TR","o":"AirTies Wireless Networks"},{"d":"2019-11-05","t":"change","s":"ieee-oui.csv","a":"Esentepe Mah., Kore Şehitleri Cad. Istanbul Şişli TR 34360","c":"TR","o":"AirTies Wireless Networks"}]);

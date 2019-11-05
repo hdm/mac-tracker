@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c6c13000000/24",[{"d":"2019-11-05","t":"add","s":"ieee-oui.csv","a":"Rua Jordao Schiavetto, 436 - Sala 6 Hortolandia Sao Paulo BR 13184-080","c":"BR","o":"IoT Company Solucoes Tecnologicas Ltda"}]);
