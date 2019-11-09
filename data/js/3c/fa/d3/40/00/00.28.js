@@ -1,0 +1,1 @@
+deepmacDetailCallback("3cfad3400000/28",[{"d":"2019-11-09","t":"add","s":"ieee-mam.csv","a":"232 Gaotang Road,Tianhe District Guangzhou Guangdong CN 510000","c":"CN","o":"GRG Banking Technology Co.,Ltd"}]);
