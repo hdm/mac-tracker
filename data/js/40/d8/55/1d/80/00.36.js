@@ -1,1 +1,1 @@
-deepmacDetailCallback("40d8551d8000/36",[{"a":"38A Grove Street Ridgefield CT US 06877","o":"Owl Computing Technologies, Inc.","d":"2013-12-15","t":"add","s":"ieee","c":"US"}]);
+deepmacDetailCallback("40d8551d8000/36",[{"a":"38A Grove Street Ridgefield CT US 06877","o":"Owl Computing Technologies, Inc.","d":"2013-12-15","t":"add","s":"ieee","c":"US"},{"d":"2019-11-13","t":"change","s":"ieee-iab.csv","a":"38A Grove Street Ridgefield CT US 06877","c":"US","o":"Owl Cyber Defense Solutions, LLC"}]);
