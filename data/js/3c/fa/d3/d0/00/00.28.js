@@ -1,0 +1,1 @@
+deepmacDetailCallback("3cfad3d00000/28",[{"d":"2019-11-15","t":"add","s":"ieee-mam.csv","a":"Room 105A, building 5#, No. 20-24 East Huoju  Road,  Huoju Park, Xiamen Torch Hi-tech zone Xiamen  CN 361006","c":"CN","o":"AMobile Solutions (Xiamen) CO. , LTD."}]);

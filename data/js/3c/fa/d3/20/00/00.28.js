@@ -1,0 +1,1 @@
+deepmacDetailCallback("3cfad3200000/28",[{"d":"2019-11-15","t":"add","s":"ieee-mam.csv","a":"2 Gangle Road,Tangjia Bay Town, High Tech Zone Zhuhai Guangdong CN 519080","c":"CN","o":"Naruida Technology Ltd."}]);
