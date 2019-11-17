@@ -1,0 +1,1 @@
+deepmacDetailCallback("3cfad3500000/28",[{"d":"2019-11-17","t":"add","s":"ieee-mam.csv","a":"80 Changjiang East Road, Economic & Technology Development Zone Qinhuangdao Hebei CN 066000","c":"CN","o":"Gulf Security Technology Co., Ltd"}]);
