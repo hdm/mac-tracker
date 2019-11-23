@@ -1,0 +1,1 @@
+deepmacDetailCallback("e4aaec000000/24",[{"d":"2019-11-23","t":"add","s":"ieee-oui.csv","a":"Overseas Chinese business building No. 10, Jinping Road, Nankai District, Tianjin TIANJIN  CN 300190","c":"CN","o":"Tianjin Hualai Technology Co., Ltd"}]);
