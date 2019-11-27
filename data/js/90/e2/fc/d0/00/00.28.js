@@ -1,0 +1,1 @@
+deepmacDetailCallback("90e2fcd00000/28",[{"d":"2019-11-27","t":"add","s":"ieee-mam.csv","a":"3A Floor,BlockB,Technology Fortune Center,No 8 Xueqing Road,Haidian District, Beijing Beijing CN 100192","c":"CN","o":"Beijing Lanxum Computer Technology CO.,LTD."}]);

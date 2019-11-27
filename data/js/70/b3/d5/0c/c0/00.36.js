@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d50cc000/36",[{"d":"2019-11-27","t":"add","s":"ieee-oui36.csv","a":"12F-3, No. 77 Xinpu 6th Street, Taoyuan District Taoyuan    TW 330","c":"TW","o":"ADMiTAS CCTV Taiwan Co. Ltd"}]);

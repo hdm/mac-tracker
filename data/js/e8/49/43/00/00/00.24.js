@@ -1,0 +1,1 @@
+deepmacDetailCallback("e84943000000/24",[{"d":"2019-11-27","t":"add","s":"ieee-oui.csv","a":"Room 303, Building No. 6, ShengRong Rd. 88, Pudong, Shanghai Shanghai  CN 201203","c":"CN","o":"YUGE Information technology Co. Ltd"}]);

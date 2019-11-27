@@ -1,0 +1,1 @@
+deepmacDetailCallback("b0b353e00000/28",[{"d":"2019-11-27","t":"add","s":"ieee-mam.csv","a":"Room 209-114, 2 / F, Building 04, No. 18 Jialingjiang East Street, Jianye District, Nanjing Nanjing Jiangsu CN 210019","c":"CN","o":"Nanjing Yining Intelligent Technology Co., Ltd."}]);
