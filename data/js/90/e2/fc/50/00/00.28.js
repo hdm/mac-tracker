@@ -1,0 +1,1 @@
+deepmacDetailCallback("90e2fc500000/28",[{"d":"2019-12-03","t":"add","s":"ieee-mam.csv","a":"3F.-1, NO.18, LN. 48, XingShan RD., Taipei Neihu dist TW 11469","c":"TW","o":"TOTALONE TECHNOLOGY CO., LTD."}]);

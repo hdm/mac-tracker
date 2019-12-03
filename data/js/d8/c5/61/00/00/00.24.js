@@ -1,0 +1,1 @@
+deepmacDetailCallback("d8c561000000/24",[{"d":"2019-12-03","t":"add","s":"ieee-oui.csv","a":"No. 1 Yishun Industrial ST 1, #05-31 A'Posh BizHub SG SG SG 768160","c":"SG","o":"CommFront Communications Pte Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("90e2fc200000/28",[{"d":"2019-12-03","t":"add","s":"ieee-mam.csv","a":"Room 1008, 10/F, Bld.B, Bantian International Centre, No. 5 South Huancheng Road, Bantian Street of Shenzhen Longgang District SHENZHEN GUANGDONG CN 518129","c":"CN","o":"ShenZhen Temwey Innovation Technology Co.,Ltd."}]);
