@@ -1,1 +1,1 @@
-deepmacDetailCallback("4ca003000000/24",[{"d":"2016-01-28","t":"add","a":"3733 University Blvd West Suite 307B Jacksonville FL US 32217","c":"US","o":"T-21 Technologies LLC"}]);
+deepmacDetailCallback("4ca003000000/24",[{"d":"2016-01-28","t":"add","a":"3733 University Blvd West Suite 307B Jacksonville FL US 32217","c":"US","o":"T-21 Technologies LLC"},{"d":"2019-12-04","t":"change","s":"ieee-oui.csv","a":"99 rue Pierre Semard Chatillon  FR 92320","c":"FR","o":"VITEC"}]);

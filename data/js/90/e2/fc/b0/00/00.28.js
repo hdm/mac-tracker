@@ -1,0 +1,1 @@
+deepmacDetailCallback("90e2fcb00000/28",[{"d":"2019-12-04","t":"add","s":"ieee-mam.csv","a":"10/F Block C, Skyworth Building, Gaoxin South 1st Rd., Hi-Tech Park, Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Dingsheng Intelligent Technology Co., Ltd"}]);
