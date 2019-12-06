@@ -1,0 +1,1 @@
+deepmacDetailCallback("688fc9000000/24",[{"d":"2019-12-06","t":"add","s":"ieee-oui.csv","a":"Shengli electromechanical Co., Ltd. 201, No.19, Xixiang section, Guangshen Road, Jingbei community, Xixiang street, Bao'an District Shenzhen Shenzhen CN 518101","c":"CN","o":"Zhuolian (Shenzhen) Communication Co., Ltd"}]);

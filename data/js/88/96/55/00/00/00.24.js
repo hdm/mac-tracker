@@ -1,0 +1,1 @@
+deepmacDetailCallback("889655000000/24",[{"d":"2019-12-06","t":"add","s":"ieee-oui.csv","a":"4F Yokohama Kusunoki-cho Building,4-7 Kusunoki-cho,Nishi-ku Yokohama Kanagawa JP 2200003","c":"JP","o":"Zitte corporation"}]);
