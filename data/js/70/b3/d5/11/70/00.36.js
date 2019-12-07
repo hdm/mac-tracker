@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5117000/36",[{"d":"2019-12-07","t":"add","s":"ieee-oui36.csv","a":"An der Lehmkaute 13 Bad Marienberg Rheinland-Pfalz DE 56470","c":"DE","o":"SysCom Automationstechnik GmbH"}]);
