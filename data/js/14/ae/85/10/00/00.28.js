@@ -1,0 +1,1 @@
+deepmacDetailCallback("14ae85100000/28",[{"d":"2019-12-12","t":"add","s":"ieee-mam.csv","a":"3F.-7, No.77, Sec. 1, Xintai 5th Rd New Taipei City Xizhi Dist TW 221","c":"TW","o":"Henfred Technology Co., Ltd."}]);
