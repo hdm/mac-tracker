@@ -1,0 +1,1 @@
+deepmacDetailCallback("14ae85700000/28",[{"d":"2019-12-13","t":"add","s":"ieee-mam.csv","a":"No. A Building, Xinghui Industrial Park, Gushu No. 2Rd, SHEN ZHEN GUANG  DONG CN 518000","c":"CN","o":"SHENZHEN HONOR ELECTRONIC CO.,LTD"}]);
