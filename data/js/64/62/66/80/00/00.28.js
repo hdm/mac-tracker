@@ -1,0 +1,1 @@
+deepmacDetailCallback("646266800000/28",[{"d":"2019-12-20","t":"add","s":"ieee-mam.csv","a":"1208 WorkingBerg Commercial Buildung, 41-47 Marble Road Hong Kong Hong Kong HK 00000","c":"HK","o":"Leontech Limited"}]);

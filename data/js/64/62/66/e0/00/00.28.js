@@ -1,0 +1,1 @@
+deepmacDetailCallback("646266e00000/28",[{"d":"2019-12-20","t":"add","s":"ieee-mam.csv","a":"6F,C Building,Jinao Industrial Park,Juling Rd,Guanlan Town,Longhua Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Jie Shi Lian Industrial Co., LTD"}]);

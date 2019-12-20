@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d502b000/36",[{"d":"2019-12-20","t":"add","s":"ieee-oui36.csv","a":"16th Floor, Excelsior Industrial Building,68-76 Sha Tsui Road, Tsuen Wan New Territories HK 999077","c":"HK","o":"Scorpion Precision Industry (HK)CO. Ltd."}]);

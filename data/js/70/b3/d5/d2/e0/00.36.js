@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5d2e000/36",[{"a":"Korkeakoulunkatu 1 Tampere  FI 33720","o":"Coheros Oy","d":"2018-04-29","t":"add","s":"ieee","c":"FI"}]);
+deepmacDetailCallback("70b3d5d2e000/36",[{"a":"Korkeakoulunkatu 1 Tampere  FI 33720","o":"Coheros Oy","d":"2018-04-29","t":"add","s":"ieee","c":"FI"},{"d":"2019-12-20","t":"change","s":"ieee-oui36.csv","a":"PL 30 Pirkkala  FI 33961","c":"FI","o":"Coheros Oy"}]);
