@@ -1,0 +1,1 @@
+deepmacDetailCallback("94cc04000000/28",[{"d":"2019-12-25","t":"add","s":"ieee-mam.csv","a":"Room 503, Building 12, Lefu Zhihui Garden, 28 Xiangyuan Road, Gongshu Distric Hangzhou Zhejiang CN 310000","c":"CN","o":"Hangzhou Yongkong Technology Co., Ltd."}]);
