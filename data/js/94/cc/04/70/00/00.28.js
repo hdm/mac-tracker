@@ -1,0 +1,1 @@
+deepmacDetailCallback("94cc04700000/28",[{"d":"2019-12-28","t":"add","s":"ieee-mam.csv","a":"Room 101, No.4 Liming Industrial District, Lucheng, Wenzhou, China Wenzhou  CN 325000","c":"CN","o":"Gowing Business And Contracting Wenzhou Co., LTD"}]);
