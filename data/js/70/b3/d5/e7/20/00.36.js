@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5e72000/36",[{"d":"2019-12-31","t":"add","s":"ieee-oui36.csv","a":"no1705-1, BLDG 3#, Lantian shixin plaza, keqiao zone shaoxing zhejiang CN 312030","c":"CN","o":"KDT Corp."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("90adfc000000/24",[{"d":"2019-12-31","t":"add","s":"ieee-oui.csv","a":"19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu, Seoul Seoul KR 05510","c":"KR","o":"Telechips, Inc."}]);
