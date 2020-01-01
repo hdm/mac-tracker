@@ -1,0 +1,1 @@
+deepmacDetailCallback("7881ce000000/24",[{"d":"2020-01-01","t":"add","s":"ieee-oui.csv","a":"No. 8 Yangliu North Road, Yubei District, Chongqing, China Chong Qing Chong Qing CN 401120","c":"CN","o":"China Mobile Iot Limited company"}]);
