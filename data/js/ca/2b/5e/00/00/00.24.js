@@ -1,0 +1,1 @@
+deepmacDetailCallback("ca2b5e000000/24",[{"d":"2020-01-03","t":"add","s":"ieee-cid.csv","a":"Rm201, Bldg#4, No.78 Keling Road, Hi-Tech New District, China Suzhou Jiangsu CN 215163","c":"CN","o":"Suzhou Motor-comm Electronic Technology Co.,Ltd"}]);
