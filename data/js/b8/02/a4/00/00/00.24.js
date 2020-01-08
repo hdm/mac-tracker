@@ -1,0 +1,1 @@
+deepmacDetailCallback("b802a4000000/24",[{"d":"2020-01-08","t":"add","s":"ieee-oui.csv","a":"Cassia Court, Suite 716, 10 Market Street Camana Bay Grand Cayman KY KY1-9006","c":"KY","o":"Aeonsemi, Inc."}]);

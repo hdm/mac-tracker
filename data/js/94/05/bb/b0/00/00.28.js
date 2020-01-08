@@ -1,0 +1,1 @@
+deepmacDetailCallback("9405bbb00000/28",[{"d":"2020-01-08","t":"add","s":"ieee-mam.csv","a":"RM201,No.2Gaoqi South 12th Road,HuliDist XIamen Fujian CN 361006","c":"CN","o":"AUSTAR HEARING SCIENCE AND TECHNILIGY(XIAMEN)CO.,LTD"}]);
