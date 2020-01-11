@@ -1,0 +1,1 @@
+deepmacDetailCallback("c432d1000000/24",[{"d":"2020-01-11","t":"add","s":"ieee-oui.csv","a":"Flat A&B,9/F,Wing Cheong Factory Building,121 King Lam Street,Cheung Sha Wan,Hong Kong. Hongkong  HK 0000","c":"HK","o":"Farlink Technology Limited"}]);

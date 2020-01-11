@@ -1,0 +1,1 @@
+deepmacDetailCallback("3cb53d000000/24",[{"d":"2020-01-11","t":"add","s":"ieee-oui.csv","a":"No.9, East 10th Road(South), Xingsha, Changsha Changsha HUNAN CN 410131","c":"CN","o":"HUNAN GOKE MICROELECTRONICS CO.,LTD"}]);

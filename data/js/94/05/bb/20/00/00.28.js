@@ -1,0 +1,1 @@
+deepmacDetailCallback("9405bb200000/28",[{"d":"2020-01-11","t":"add","s":"ieee-mam.csv","a":"Room 805, building 1, No. 16, Keji 4th Road, Songshanhu Dongguan Guangdong CN 523000","c":"CN","o":"Dongguan CXWE Technology Co.,Ltd."}]);

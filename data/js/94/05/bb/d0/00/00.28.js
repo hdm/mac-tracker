@@ -1,0 +1,1 @@
+deepmacDetailCallback("9405bbd00000/28",[{"d":"2020-01-11","t":"add","s":"ieee-mam.csv","a":"A3-f1, xinghezhong Technology Green Valley, No.14, luolei Industrial Avenue, Shiyan street, Bao'an District Shenzhen  CN 518100","c":"CN","o":"Sunthink S&T Development Co.,Ltd"}]);
