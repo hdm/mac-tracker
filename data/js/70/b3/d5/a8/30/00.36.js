@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5a83000/36",[{"d":"2020-01-12","t":"add","s":"ieee-oui36.csv","a":"Room 206, 3 Building, Hongwanchuangke Center, Gushu, Xixiang, Baoan District Shenzhen Guangdong CN 518126","c":"CN","o":"SHENZHEN HUINENGYUAN Technology Co., Ltd"}]);

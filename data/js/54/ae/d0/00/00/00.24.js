@@ -1,0 +1,1 @@
+deepmacDetailCallback("54aed0000000/24",[{"d":"2020-01-12","t":"add","s":"ieee-oui.csv","a":"DASAN Tower, 49, Daewangpangyo-ro, 644 Beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 13493","c":"KR","o":"DASAN Networks, Inc."}]);

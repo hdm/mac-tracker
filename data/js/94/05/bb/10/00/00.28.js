@@ -1,0 +1,1 @@
+deepmacDetailCallback("9405bb100000/28",[{"d":"2020-01-12","t":"add","s":"ieee-mam.csv","a":"No.3 Fumin North Rd,Shu'an Industrial Park, Humen Town Dongguan Guangdong China CN 523929","c":"CN","o":"Dongguan Kingtron Electronics Tech Co., Ltd"}]);
