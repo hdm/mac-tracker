@@ -1,0 +1,1 @@
+deepmacDetailCallback("1869d8000000/24",[{"d":"2020-01-15","t":"add","s":"ieee-oui.csv","a":"7 Floor, 3 Blvd., More Centre, 87 Gudun Rd., Xihu District Hangzhou Zhejiang CN 310012","c":"CN","o":"HANGZHOU AIXIANGJI TECHNOLOGY CO., LTD"}]);
