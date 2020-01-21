@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5d9f000/36",[{"d":"2020-01-21","t":"add","s":"ieee-oui36.csv","a":"room 4, office 1, 3rd floor, building 7, house 9a, 2nd Sinichkina Str. Moscow  RU 111020","c":"RU","o":"\"Digital Solutions\" JSC"}]);
