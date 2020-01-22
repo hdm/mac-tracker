@@ -1,0 +1,1 @@
+deepmacDetailCallback("f490cb600000/28",[{"d":"2020-01-22","t":"add","s":"ieee-mam.csv","a":"#125, 21320 Gordon Way Richmond British Columbia CA V6W 1J8","c":"CA","o":"Airbeam Wireless Technologies Inc."}]);
