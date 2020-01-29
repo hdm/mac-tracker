@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5541000/36",[{"d":"2020-01-29","t":"add","s":"ieee-oui36.csv","a":"B30/B31 4th Floor, Building#11, Shengtai Road, JiangNing District NanJing  CN 211100","c":"CN","o":"Nanjing Pingguang Electronic Technology Co., Ltd"}]);
