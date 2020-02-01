@@ -1,1 +1,1 @@
-deepmacDetailCallback("787d53000000/24",[{"d":"2018-06-23","t":"add","a":"1011 McCarthy Blvd Milpitas CA US 95035","c":"US","o":"Aerohive Networks Inc."}]);
+deepmacDetailCallback("787d53000000/24",[{"d":"2018-06-23","t":"add","a":"1011 McCarthy Blvd Milpitas CA US 95035","c":"US","o":"Aerohive Networks Inc."},{"d":"2020-02-01","t":"change","s":"ieee-oui.csv","a":"1011 McCarthy Blvd Milpitas CA US 95035","c":"US","o":"Extreme Networks, Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d54f3000/36",[{"d":"2020-02-01","t":"add","s":"ieee-oui36.csv","a":"AVENIDA JAÇANÃ, 470/474 - VILA NELSON SÃO PAULO SÃO PAULO BR 02273-001","c":"BR","o":"XPS ELETRONICA LTDA"}]);
