@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5c99000/36",[{"d":"2020-02-09","t":"add","s":"ieee-oui36.csv","a":"Pavilion C2 Ashwood Park, Ashwood Way Basingstoke Hampshire GB RG23 8BG","c":"GB","o":"Remote Diagnostic Technologies Ltd"}]);
