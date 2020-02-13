@@ -1,0 +1,1 @@
+deepmacDetailCallback("c09bf4800000/28",[{"d":"2020-02-13","t":"add","s":"ieee-mam.csv","a":"Baoan Xixiang Xinbaoji Industry Park,Building A1-2 Shenzhen Guangdong CN 518026","c":"CN","o":"SHENZHEN WINS ELECTRONIC TECHNOLOGY CO., LTD"}]);

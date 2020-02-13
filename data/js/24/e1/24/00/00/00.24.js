@@ -1,1 +1,1 @@
-deepmacDetailCallback("24e124000000/24",[{"d":"2017-07-07","t":"add","a":"3/F, No. 46 Guanri Road, 2nd Software Park Xiamen Fujian CN 361008","c":"CN","o":"Xiamen Ursaconn Technology Co. , Ltd."}]);
+deepmacDetailCallback("24e124000000/24",[{"d":"2017-07-07","t":"add","a":"3/F, No. 46 Guanri Road, 2nd Software Park Xiamen Fujian CN 361008","c":"CN","o":"Xiamen Ursaconn Technology Co. , Ltd."},{"d":"2020-02-13","t":"change","s":"ieee-oui.csv","a":"4/F, No. 63-2 Wanghai Road, 2nd Software Park Xiamen Fujian CN 361008","c":"CN","o":"Xiamen Ursalink Technology Co., Ltd."}]);
