@@ -1,0 +1,1 @@
+deepmacDetailCallback("ac3c8e000000/24",[{"d":"2020-02-27","t":"add","s":"ieee-oui.csv","a":"No.1 GuanPu Road. Guoxiang street , WuZhong District,Suzhou City, Jiangsu Province.  Suzhou      CN 215124","c":"CN","o":"Flextronics Computing(Suzhou)Co.,Ltd."}]);
