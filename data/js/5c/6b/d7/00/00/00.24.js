@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c6bd7000000/24",[{"d":"2020-03-03","t":"add","s":"ieee-oui.csv","a":"No.2 North Xinxi Fourth Road, Xiashi Village Committee,Lunjiao Sub-district Office, Shunde District Foshan Guandong CN 528308","c":"CN","o":"Foshan VIOMI Electric Appliance Technology Co. Ltd."}]);
