@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d57fc000/36",[{"d":"2020-03-04","t":"add","s":"ieee-oui36.csv","a":"205 Park Corner, 2 Bolton road, Rosebank JOHANNESBURG NORTH Gauteng ZA 2193","c":"ZA","o":"Surion (Pty) Ltd"}]);
