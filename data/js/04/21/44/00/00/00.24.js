@@ -1,0 +1,1 @@
+deepmacDetailCallback("042144000000/24",[{"d":"2020-03-05","t":"add","s":"ieee-oui.csv","a":"3F.,No.98-1,Mincyuan Rd.Sindian City Taipei County 231  CN 231141","c":"CN","o":"Sunitec Enterprise Co.,Ltd"}]);
