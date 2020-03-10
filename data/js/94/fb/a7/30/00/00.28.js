@@ -1,0 +1,1 @@
+deepmacDetailCallback("94fba7300000/28",[{"d":"2020-03-10","t":"add","s":"ieee-mam.csv","a":"Dinggang,Group 5, Xialiao Village,Longxi Town, Boluo County Huizhou City Guangdong CN 516121","c":"CN","o":"GUANG DONG TAKSTAR ELECTRONIC CO.,LTD."}]);
