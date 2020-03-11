@@ -1,0 +1,1 @@
+deepmacDetailCallback("94fba7200000/28",[{"d":"2020-03-11","t":"add","s":"ieee-mam.csv","a":"5F-Building1, Longyu center East Tower,Longyu Middle street, Changping District Beijing Beijing CN 100000","c":"CN","o":"Beijing Leja Tech co., Ltd."}]);
