@@ -1,0 +1,1 @@
+deepmacDetailCallback("706979900000/28",[{"d":"2020-03-26","t":"add","s":"ieee-mam.csv","a":"South of Dongkeng Avenue, Dongkeng Town, Dongguan City, Guangdong DONGGUAN GUANGDONG CN 523455","c":"CN","o":"Faurecia Clarion Electronics (Dongguan) Co., Ltd"}]);
