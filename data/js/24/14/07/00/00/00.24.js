@@ -1,0 +1,1 @@
+deepmacDetailCallback("241407000000/24",[{"d":"2020-03-29","t":"add","s":"ieee-oui.csv","a":"15th Floor ,Unit A,Chuangxin Building, Software Park, Xiamen Torch Hi-Tech Industrial Development Zone, Xiamen,China Xiamen Fujian CN 361005","c":"CN","o":"Xiamen Sigmastar Technology Ltd."}]);
