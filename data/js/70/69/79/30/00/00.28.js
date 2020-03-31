@@ -1,0 +1,1 @@
+deepmacDetailCallback("706979300000/28",[{"d":"2020-03-31","t":"add","s":"ieee-mam.csv","a":"Building C, e-commerce Industrial Park, Xianghe robot Town Langfang City Hebei Province CN 065400","c":"CN","o":"Hebei Baina Xinda Technology Co., Ltd."}]);

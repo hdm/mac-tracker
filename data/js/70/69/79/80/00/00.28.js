@@ -1,0 +1,1 @@
+deepmacDetailCallback("706979800000/28",[{"d":"2020-03-31","t":"add","s":"ieee-mam.csv","a":"3C Tran Phu, Ward 4, District 5 Ho Chi Minh City  VN 70000","c":"VN","o":"An Phat Information Technology Co., Ltd"}]);
