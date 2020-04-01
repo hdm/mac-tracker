@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5629000/36",[{"d":"2020-04-01","t":"add","s":"ieee-oui36.csv","a":"D-#1514, GwangMyung SK Techno park, 60, Haan-ro, GwangMyung-si, Gyeonggi-do, Korea GwangMyung-si Gyeonggi-do, Korea KR 14322","c":"KR","o":"OZRAY"}]);

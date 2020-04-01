@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d50b7000/36",[{"d":"2020-04-01","t":"add","s":"ieee-oui36.csv","a":"Room 101, 1st Floor, Xuda Industrial Park, Xiaweiyuanyixiang Xixiang, Bao'an District SHENZHEN GUANGDONG CN 518000","c":"CN","o":"HAI ROBOTICS Co., Ltd."}]);
