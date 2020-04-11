@@ -1,0 +1,1 @@
+deepmacDetailCallback("7ca96b000000/24",[{"d":"2020-04-11","t":"add","s":"ieee-oui.csv","a":"UNIT NO.-5 20F, KIN WING INDUSTERIAL BUILDING,33 KIN WING STREET TUEN MUN  HK 999077","c":"HK","o":"Syrotech Networks. Ltd."}]);

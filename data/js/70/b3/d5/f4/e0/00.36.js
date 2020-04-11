@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5f4e000/36",[{"d":"2020-04-11","t":"add","s":"ieee-oui36.csv","a":"5th Floor, Chuangye Building, Economic and Technological Development Zone, Loudi Hunan  CN 417000","c":"CN","o":"Hunan Lianzhong Technology Co.,Ltd."}]);
