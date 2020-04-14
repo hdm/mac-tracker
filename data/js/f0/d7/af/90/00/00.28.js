@@ -1,0 +1,1 @@
+deepmacDetailCallback("f0d7af900000/28",[{"d":"2020-04-14","t":"add","s":"ieee-mam.csv","a":"Nagatinskaya St. 16, bld. 9, space VII, room 15, office 5 Moscow  RU 115487","c":"RU","o":"New IT Project LLC"}]);
