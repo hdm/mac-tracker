@@ -1,0 +1,1 @@
+deepmacDetailCallback("f0d7af500000/28",[{"d":"2020-04-15","t":"add","s":"ieee-mam.csv","a":"Dalang Town, Biyun Cai Bai Cun East Second Street 66,A4 Building 501 Dongguan Guangdong CN 523770","c":"CN","o":"Dongguan Huili electroacoustic Industrial Co.,ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("8ccefd000000/24",[{"d":"2020-04-15","t":"add","s":"ieee-oui.csv","a":"401-403,415-416, Area A, Block B, West Silicon Valley, 5010 Baoan Avenue, Baoan District, Shenzhen, China Shenzhen Guangdong CN 518110","c":"CN","o":"Shenzhen zhouhai technology co.,LTD"}]);
