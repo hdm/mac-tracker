@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d51c1000/36",[{"d":"2020-04-19","t":"add","s":"ieee-oui36.csv","a":"132, 7-ya Liniya Str. Omsk Omskaya oblast RU 644021","c":"RU","o":"Sphere of economical technologies Ltd"}]);
