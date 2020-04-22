@@ -1,0 +1,1 @@
+deepmacDetailCallback("044ac6000000/24",[{"d":"2020-04-22","t":"add","s":"ieee-oui.csv","a":"#78, Qiaojiao Dong road, Qiaolong, Tangxia Town Dongguan City Guangdong Province CN 523-710","c":"CN","o":"Aipon Electronics Co., Ltd"}]);

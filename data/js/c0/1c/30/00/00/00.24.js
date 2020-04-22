@@ -1,0 +1,1 @@
+deepmacDetailCallback("c01c30000000/24",[{"d":"2020-04-22","t":"add","s":"ieee-oui.csv","a":"East 5 Floor,B Building, WeiHao Technology Park,Sunny Indusrtrial zone, Xili Town, Nanshan District Shenzhen Guangdong CN 518055","c":"CN","o":"Shenzhen WIFI-3L Technology Co.,Ltd"}]);
