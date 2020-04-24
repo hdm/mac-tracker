@@ -1,0 +1,1 @@
+deepmacDetailCallback("0063de000000/24",[{"d":"2020-04-24","t":"add","s":"ieee-oui.csv","a":"Five Floors of Block 106, West Jinkai Avenue, Yubei District Chongqing Chongqing CN 401120","c":"CN","o":"CLOUDWALK TECHNOLOGY CO.,LTD"}]);
