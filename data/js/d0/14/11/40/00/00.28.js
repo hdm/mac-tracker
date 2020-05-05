@@ -1,0 +1,1 @@
+deepmacDetailCallback("d01411400000/28",[{"d":"2020-05-05","t":"add","s":"ieee-mam.csv","a":"75,Ojeong-ro,Bucheon-si,Gyeonggi-do,Republic of korea Gyeonggi-do province  KR 14445","c":"KR","o":"powerall"}]);
