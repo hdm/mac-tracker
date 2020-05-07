@@ -1,0 +1,1 @@
+deepmacDetailCallback("00927d000000/24",[{"d":"2020-05-07","t":"add","s":"ieee-oui.csv","a":"No.518, Middle Suzhou Rd., Taicang Economy Developing Area,  Taicang, Suzhou Jiangsu CN 215400","c":"CN","o":"Ficosa Internationa(Taicang) C0.,Ltd."}]);

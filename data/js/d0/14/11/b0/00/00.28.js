@@ -1,0 +1,1 @@
+deepmacDetailCallback("d01411b00000/28",[{"d":"2020-05-07","t":"add","s":"ieee-mam.csv","a":"R603,6F.,NO.168,Sec.2,Fuxing 3rd.Rd. Zhubei City,Hsinchu County  TW 30273","c":"TW","o":"CYLTek Co.,LTD."}]);
