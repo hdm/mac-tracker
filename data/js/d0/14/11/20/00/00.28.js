@@ -1,0 +1,1 @@
+deepmacDetailCallback("d01411200000/28",[{"d":"2020-05-08","t":"add","s":"ieee-mam.csv","a":"Room 315, Building 1, No.58 Xiangke Rd, Pudong New Area Shanghai Shanghai CN 201203","c":"CN","o":"Evoco Labs CO., LTD"}]);
