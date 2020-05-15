@@ -1,0 +1,1 @@
+deepmacDetailCallback("2098d8000000/24",[{"d":"2020-05-15","t":"add","s":"ieee-oui.csv","a":"8004,Building 51,Block 2,Shangtang Songzi Park, MinZhi St., Longhua Dist Shenzhen  CN 518055","c":"CN","o":"Shenzhen Yingdakang Technology CO., LTD"}]);
