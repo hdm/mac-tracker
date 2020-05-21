@@ -1,0 +1,1 @@
+deepmacDetailCallback("e0b260000000/24",[{"d":"2020-05-21","t":"add","s":"ieee-oui.csv","a":"RM 1302, 13/F CHEONG K BLDG 84-86 DES VOEUX RD CENTRAL  HONG KONG Hong Kong  HK 999077","c":"HK","o":"TENO NETWORK TECHNOLOGIES COMPANY LIMITED"}]);

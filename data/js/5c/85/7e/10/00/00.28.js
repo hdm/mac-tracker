@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c857e100000/28",[{"d":"2020-05-21","t":"add","s":"ieee-mam.csv","a":"4F,B8,Tianfu Software Park, No. 99, Tianhua 1st Road Chengdu Si chuan CN 610000","c":"CN","o":"Sichuan C.H Control Technology Co., Ltd."}]);
