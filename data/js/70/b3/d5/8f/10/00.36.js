@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d58f1000/36",[{"d":"2019-01-17","t":"add","s":"ieee-oui36.csv","a":"Hellinger Str. 1 Königsberg/Bayern  DE 97486","c":"DE","o":"Fränkische Rohrwerke Gebr. Kirchner GmbH & Co. KG"}]);
+deepmacDetailCallback("70b3d58f1000/36",[{"d":"2019-01-17","t":"add","s":"ieee-oui36.csv","a":"Hellinger Str. 1 Königsberg/Bayern  DE 97486","c":"DE","o":"Fränkische Rohrwerke Gebr. Kirchner GmbH & Co. KG"},{"d":"2020-05-23","t":"change","s":"ieee-oui36.csv","a":"2-14-5. Higashisuna  Koto-ku Tokyo JP 136-8671","c":"JP","o":"Paramount Bed Holdings Co., Ltd."}]);
