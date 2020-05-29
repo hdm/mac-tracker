@@ -1,0 +1,1 @@
+deepmacDetailCallback("f469d5900000/28",[{"d":"2020-05-29","t":"add","s":"ieee-mam.csv","a":"17F,building 2,CES west bund center,No.277 longlan road,xuhui,district Shanghai  CN 200232","c":"CN","o":"Terminus (Shanghai) Technology Co.,Ltd."}]);

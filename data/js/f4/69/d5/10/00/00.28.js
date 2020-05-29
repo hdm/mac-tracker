@@ -1,0 +1,1 @@
+deepmacDetailCallback("f469d5100000/28",[{"d":"2020-05-29","t":"add","s":"ieee-mam.csv","a":"Room 705, building a, No. 96, Xiangxing Road, industrial zone, Xiamen Torch High tech Zone Xiamen  Fujian CN 361101","c":"CN","o":"Junchuang (Xiamen) Automation Technology Co.,Ltd"}]);
