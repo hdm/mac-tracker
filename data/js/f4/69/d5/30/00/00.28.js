@@ -1,0 +1,1 @@
+deepmacDetailCallback("f469d5300000/28",[{"d":"2020-06-04","t":"add","s":"ieee-mam.csv","a":"Wooyang building 7F, 68, Wolpyeong-ro, Nam-gu, Ulsan, Republic of Korea Ulsan  KR 44690","c":"KR","o":"ITS Co., Ltd."}]);
