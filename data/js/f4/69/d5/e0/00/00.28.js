@@ -1,0 +1,1 @@
+deepmacDetailCallback("f469d5e00000/28",[{"d":"2020-06-05","t":"add","s":"ieee-mam.csv","a":"13F, no.150, Jian-Yi Rd., ZhongHe Dist. New Taipei City Taiwan TW 23511","c":"TW","o":"ORtek Technology, Inc."}]);
