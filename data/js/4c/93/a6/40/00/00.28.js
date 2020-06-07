@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c93a6400000/28",[{"d":"2020-06-07","t":"add","s":"ieee-mam.csv","a":"Oran Mah. Turan Gunes Bul. Park Oran Ofis 180-Y No:6 Cankaya  ANKARA  TR 06550","c":"TR","o":"4D Sistem Ticaret A.S."}]);
