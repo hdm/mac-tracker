@@ -1,0 +1,1 @@
+deepmacDetailCallback("4c2219000000/24",[{"d":"2020-06-13","t":"add","s":"ieee-oui.csv","a":"Building C, global creative center, No. 10, Furong street Beijing  CN 100102","c":"CN","o":"YUANFUDAO HK LIMTED"}]);
