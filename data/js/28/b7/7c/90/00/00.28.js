@@ -1,0 +1,1 @@
+deepmacDetailCallback("28b77c900000/28",[{"d":"2020-06-20","t":"add","s":"ieee-mam.csv","a":"34F., No. 99, Sec. 1, XinTai 5th Rd., Xizhi Dist., New Taipei City  TW 221","c":"TW","o":"Anser Coding Inc."}]);
