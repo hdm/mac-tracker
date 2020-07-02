@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0619a500000/28",[{"d":"2020-07-02","t":"add","s":"ieee-mam.csv","a":"9-10/F,building 01, No.8,Bailongjiang East Street,Jianye District Nanjing Jiangsu CN 210017","c":"CN","o":"Nanjing Balance Network Technology Co., Ltd"}]);
