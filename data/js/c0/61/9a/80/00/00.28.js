@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0619a800000/28",[{"d":"2020-07-03","t":"add","s":"ieee-mam.csv","a":"No. 888 Zhengfang Middle Rd, Jiangning District Nanjing JiangSu CN 211153","c":"CN","o":"Nanjing SinoVatio Technology Co., Ltd"}]);
