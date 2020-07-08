@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5242000/36",[{"d":"2020-07-08","t":"add","s":"ieee-oui36.csv","a":"5F-2,NO.237 , Zhong-Xiao  RD., BANG-QIAO Dist., New Taipei City New Taipei CIty  TW 22064","c":"TW","o":"Comeo Technology Co.,Ltd"}]);

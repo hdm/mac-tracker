@@ -1,0 +1,1 @@
+deepmacDetailCallback("142c78000000/24",[{"d":"2020-07-08","t":"add","s":"ieee-oui.csv","a":"RM402 Building212, Tairan Technology Park, Futian District Shenzhen Guangdong CN 518000","c":"CN","o":"GooWi Wireless Technology Co., Limited"}]);
