@@ -1,0 +1,1 @@
+deepmacDetailCallback("e4842b000000/24",[{"d":"2020-07-09","t":"add","s":"ieee-oui.csv","a":"101 BINKANG ROAD, BINJIANG DISTRICT HANGZHOU ZHEJIANG CN 310052","c":"CN","o":"HANGZHOU SOFTEL OPTIC CO., LTD"}]);
