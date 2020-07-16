@@ -1,0 +1,1 @@
+deepmacDetailCallback("98fc84700000/28",[{"d":"2020-07-16","t":"add","s":"ieee-mam.csv","a":"No. 1, Area A, 3rd Floor, Building B1, Shenzhen Digital Technology Park, No. 002, Gaoxin South Seventh Road, Nanshan District, Shenzhen GuangDong CN 518057","c":"CN","o":"Broadtech Technologies Co., Ltd."}]);
