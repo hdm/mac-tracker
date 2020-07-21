@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d593f000/36",[{"d":"2020-07-21","t":"add","s":"ieee-oui36.csv","a":"Yorikimachi park bld.5F, Yorikimachi1-5, Kita-ku Osaka Osaka JP 530-0036","c":"JP","o":"Vision Sensing Co., Ltd."}]);
