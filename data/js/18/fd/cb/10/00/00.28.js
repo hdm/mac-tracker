@@ -1,0 +1,1 @@
+deepmacDetailCallback("18fdcb100000/28",[{"d":"2020-07-22","t":"add","s":"ieee-mam.csv","a":"Shanghai Jiading sichenglu1250-7 SHANGHAI SHANGHAI CN 200000","c":"CN","o":"SOTHIS CIC TEC (Shanghai) Co., Ltd"}]);

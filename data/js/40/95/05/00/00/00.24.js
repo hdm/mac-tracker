@@ -1,0 +1,1 @@
+deepmacDetailCallback("409505000000/24",[{"d":"2020-07-22","t":"add","s":"ieee-oui.csv","a":"Building No.12,Zhongguancun Cuihu Technology Park,Haidian District,Beijing,China Beijing  CN 100095","c":"CN","o":"ACOINFO TECHNOLOGY CO.,LTD"}]);
