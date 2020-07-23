@@ -1,0 +1,1 @@
+deepmacDetailCallback("d4482d000000/24",[{"d":"2020-07-23","t":"add","s":"ieee-oui.csv","a":"3rd Floor, Building B3, Xujingchang Industrial Park,Xinhe Community Fuyong Town,Baoan District Shenzhen Guangdong CN 518103","c":"CN","o":"Shenzhen Deejoy Lighting Technology Co.,Ltd."}]);
