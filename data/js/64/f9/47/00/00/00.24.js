@@ -1,0 +1,1 @@
+deepmacDetailCallback("64f947000000/24",[{"d":"2020-07-24","t":"add","s":"ieee-oui.csv","a":"Room 303-309, 3rd Floor International Building, NO.2 Suzhou Avenue West Suzhou Jiangsu CN 215000","c":"CN","o":"Senscomm Semiconductor Co., Ltd."}]);

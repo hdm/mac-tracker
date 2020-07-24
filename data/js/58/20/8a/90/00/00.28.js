@@ -1,0 +1,1 @@
+deepmacDetailCallback("58208a900000/28",[{"d":"2020-07-24","t":"add","s":"ieee-mam.csv","a":"Gaoqingchuanmei Building, Nantiancheng Road, Xiangcheng District Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou Ruilisi Technology Ltd."}]);
