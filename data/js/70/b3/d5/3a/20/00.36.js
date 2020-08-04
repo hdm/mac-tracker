@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d53a2000/36",[{"d":"2020-08-04","t":"add","s":"ieee-oui36.csv","a":"1225 Nakazaiji, Hino-cho, Gamo-gun, Shiga Gamo-gun Shiga-ken JP 529-1692","c":"JP","o":"Daifuku CO., Ltd."}]);
