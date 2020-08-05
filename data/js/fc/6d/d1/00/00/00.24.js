@@ -1,0 +1,1 @@
+deepmacDetailCallback("fc6dd1000000/24",[{"d":"2020-08-05","t":"add","s":"ieee-oui.csv","a":"Tsukuba Network Technical Center, Kidamari 3550 Tsuchiura-shi Ibaraki-ken JP 300-0026","c":"JP","o":"APRESIA Systems, Ltd."}]);
