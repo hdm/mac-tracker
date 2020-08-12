@@ -1,0 +1,1 @@
+deepmacDetailCallback("6c2d24000000/24",[{"d":"2020-08-12","t":"add","s":"ieee-oui.csv","a":"5F, Building 3?No. 401 Caobao Road, Xuhui District, Shanghai, China Shanghai Shanghai CN 200233","c":"CN","o":"Zhen Shi Information Technology (Shanghai) Co., Ltd."}]);
