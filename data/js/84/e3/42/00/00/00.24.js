@@ -1,0 +1,1 @@
+deepmacDetailCallback("84e342000000/24",[{"d":"2020-08-16","t":"add","s":"ieee-oui.csv","a":"FLAT/RM 806 BLK ? 8/F CHEUNG SHA WAN PLAZA 833 CHEUNG SHA WAN ROAD KL hongkong Hong Kong CN 999077","c":"CN","o":"Tuya?HK?Limietd"}]);

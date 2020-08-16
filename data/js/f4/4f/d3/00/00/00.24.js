@@ -1,0 +1,1 @@
+deepmacDetailCallback("f44fd3000000/24",[{"d":"2020-08-16","t":"add","s":"ieee-oui.csv","a":"220, Building C, IoT Industrial Park, Bantian Street, Longgang District shenzhen guangdong CN 518000","c":"CN","o":"shenzhen hemuwei technology co.,ltd"}]);
