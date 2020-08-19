@@ -1,1 +1,1 @@
-deepmacDetailCallback("58e876000000/28",[{"a":"","o":"Private","d":"2016-05-07","t":"add","s":"ieee"}]);
+deepmacDetailCallback("58e876000000/28",[{"a":"","o":"Private","d":"2016-05-07","t":"add","s":"ieee"},{"d":"2020-08-19","t":"change","s":"ieee-mam.csv","a":"No.100 of Keji Liu Rd.6, Hi-Tech Zone Zhuhai Guangdong CN  519080","c":"CN","o":"Zhuhai Raysharp Technology Co.,Ltd"}]);

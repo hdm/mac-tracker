@@ -1,0 +1,1 @@
+deepmacDetailCallback("fccd2f100000/28",[{"d":"2020-08-19","t":"add","s":"ieee-mam.csv","a":"Room 205, Floor 2, B Zone, Building 2, No 1899, Jiahao Rd, Jiading Shanghai  CN 201802","c":"CN","o":"Siren Care(Shanghai) information and technology company"}]);

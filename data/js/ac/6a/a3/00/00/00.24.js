@@ -1,0 +1,1 @@
+deepmacDetailCallback("ac6aa3000000/24",[{"d":"2020-08-19","t":"add","s":"ieee-oui.csv","a":"405,Fuyuan Building ,District 45 Bao’an Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen Kertong Technology Co.,Ltd"}]);
