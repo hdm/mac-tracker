@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5483000/36",[{"d":"2020-08-21","t":"add","s":"ieee-oui36.csv","a":"?evket Özçelik Sk. No:29 Kültür Mah. Litum Plaza IZMIR  TR 35220","c":"TR","o":"LITUM BILGI TEKNOLOJILERI SAN. VE TIC. A.S."}]);
