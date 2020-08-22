@@ -1,0 +1,1 @@
+deepmacDetailCallback("fccd2fa00000/28",[{"d":"2020-08-22","t":"add","s":"ieee-mam.csv","a":"Cable Centre, Raja International Building,  Andamukkam, Kollam Kerala IN 691 001","c":"IN","o":"SCOPUS INTERNATIONAL-BELGIUM"}]);

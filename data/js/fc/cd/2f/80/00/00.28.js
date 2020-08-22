@@ -1,0 +1,1 @@
+deepmacDetailCallback("fccd2f800000/28",[{"d":"2020-08-22","t":"add","s":"ieee-mam.csv","a":"Alonso de Cordova 5320, of 1403, Las condes Santiago RM CL 7550000","c":"CL","o":"Asesorias y Servicios Innovaxxion SPA"}]);
