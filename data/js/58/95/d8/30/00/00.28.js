@@ -1,0 +1,1 @@
+deepmacDetailCallback("5895d8300000/28",[{"d":"2020-08-28","t":"add","s":"ieee-mam.csv","a":"10F,No.6,Ln.609,Sec.5 Chongxin Rd., Sanchong Dist. New Taipei  TW 241","c":"TW","o":"Tonnet Telecommunication International Co., Ltd."}]);
