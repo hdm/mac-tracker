@@ -1,0 +1,1 @@
+deepmacDetailCallback("5895d8a00000/28",[{"d":"2020-08-29","t":"add","s":"ieee-mam.csv","a":"Suite 1, Commercial House One, Eden Island, Republic of Seychelles Eden Island  SC 123","c":"SC","o":"Peak Communications Limited"}]);
