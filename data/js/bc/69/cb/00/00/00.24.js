@@ -1,0 +1,1 @@
+deepmacDetailCallback("bc69cb000000/24",[{"d":"2020-09-05","t":"add","s":"ieee-oui.csv","a":"2-12-7, Higashi-Shinbashi Minato-Ku Tokyo JP 105-0021","c":"JP","o":"Panasonic Life Solutions Networks Co., Ltd."}]);
