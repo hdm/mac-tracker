@@ -1,1 +1,1 @@
-deepmacDetailCallback("f0a225000000/24",[{"d":"2011-07-02","t":"add","a":"","c":null,"o":"PRIVATE"}]);
+deepmacDetailCallback("f0a225000000/24",[{"d":"2011-07-02","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2020-09-12","t":"change","s":"ieee-oui.csv","a":"PO Box 8102 Reno NV US 89507","c":"US","o":"Amazon Technologies Inc."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("f8e43b000000/24",[{"d":"2020-09-12","t":"add","s":"ieee-oui.csv","a":"4F, No. 8, Hsin Ann Road, Hsinchu Science Park Hsinchu  TW 30078","c":"TW","o":"ASIX Electronics Corporation"}]);
