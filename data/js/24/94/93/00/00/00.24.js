@@ -1,0 +1,1 @@
+deepmacDetailCallback("249493000000/24",[{"d":"2020-09-13","t":"add","s":"ieee-oui.csv","a":"17, Deep vihar, Vikas Nagar,, Near Mayank hospital,, Uttam Nagar, New Delhi Delhi IN 110059","c":"IN","o":"FibRSol Global Network Limited"}]);
