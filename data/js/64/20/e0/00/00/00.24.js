@@ -1,0 +1,1 @@
+deepmacDetailCallback("6420e0000000/24",[{"d":"2020-09-18","t":"add","s":"ieee-oui.csv","a":"No.65/113, Chamnan Phenjati, 12A Floor, Rama9 road Bangkok Bangkok TH 10310","c":"TH","o":"T3 Technology Co., Ltd."}]);

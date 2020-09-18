@@ -1,0 +1,1 @@
+deepmacDetailCallback("7898e8000000/24",[{"d":"2020-09-18","t":"add","s":"ieee-oui.csv","a":"1 Internal Business Park, #03-12,The Synergy, Singapore Singapore Singapore SG 609917","c":"SG","o":"D-Link International"}]);

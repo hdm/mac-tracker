@@ -1,0 +1,1 @@
+deepmacDetailCallback("8411c2900000/28",[{"d":"2020-09-18","t":"add","s":"ieee-mam.csv","a":"Teknopark ?stanbul, TGB, Sanayi Mah. Teknopark Bulvar?, No:1, Blok:1 Kat:2, Kurtköy-Pendik 34912, ?STANBUL Istanbul  TR 34912","c":"TR","o":"C TECH BILISIM TEKNOLOJILERI SAN. VE TIC. A.S."}]);
