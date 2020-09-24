@@ -1,0 +1,1 @@
+deepmacDetailCallback("687912600000/28",[{"d":"2020-09-24","t":"add","s":"ieee-mam.csv","a":"4th Floor,SZICC,NO.1089,Chaguang Road,Nanshan District, Shenzhen, China Shenzhen Guangdong CN 518000","c":"CN","o":"APPOTRONICS CO., LTD"}]);
