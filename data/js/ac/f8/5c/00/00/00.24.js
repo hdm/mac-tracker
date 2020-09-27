@@ -1,1 +1,1 @@
-deepmacDetailCallback("acf85c000000/24",[{"a":"","o":"Private","d":"2016-07-31","t":"add","s":"ieee"}]);
+deepmacDetailCallback("acf85c000000/24",[{"a":"","o":"Private","d":"2016-07-31","t":"add","s":"ieee"},{"d":"2020-09-27","t":"change","s":"ieee-oui.csv","a":"Suite22-31, 11Floor, Block E5,Tianfu Software Park, Chengdu Gaoxin District Chengdu Sichuan CN 610041","c":"CN","o":"Chengdu Higon Integrated Circuit Design Co,. Ltd."}]);
