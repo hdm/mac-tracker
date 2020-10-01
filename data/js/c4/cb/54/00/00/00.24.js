@@ -1,0 +1,1 @@
+deepmacDetailCallback("c4cb54000000/24",[{"d":"2020-10-01","t":"add","s":"ieee-oui.csv","a":"5/F,Tower A,Technology Building II,1057# Nanhai Blvd Shenzhen Guangdong CN 518054","c":"CN","o":"Fibocom Auto Inc."}]);
