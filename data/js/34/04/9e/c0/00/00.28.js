@@ -1,1 +1,1 @@
-deepmacDetailCallback("34049ec00000/28",[{"a":"","o":"Private","d":"2016-10-09","t":"add","s":"ieee"}]);
+deepmacDetailCallback("34049ec00000/28",[{"a":"","o":"Private","d":"2016-10-09","t":"add","s":"ieee"},{"d":"2020-10-07","t":"change","s":"ieee-mam.csv","a":"595 Menlo Drive Rocklin  CA US 95765","c":"US","o":"ClearCaptions LLC"}]);

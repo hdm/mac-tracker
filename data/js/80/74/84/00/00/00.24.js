@@ -1,0 +1,1 @@
+deepmacDetailCallback("807484000000/24",[{"d":"2020-10-07","t":"add","s":"ieee-oui.csv","a":"Unit No.1301,13F,Sunbeam Plaza,1155 Canton Road,Mongkok,Kowloon,Hong Kong Hong Kong  CN 999077","c":"CN","o":"ALL Winner (Hong Kong) Limited"}]);

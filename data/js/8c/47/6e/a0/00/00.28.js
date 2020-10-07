@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c476ea00000/28",[{"d":"2020-10-07","t":"add","s":"ieee-mam.csv","a":"No. 1 Li-Hsin Rd. 2, Hsinchu Science Park Hsinchu 30078, Taiwan, R.O.C.  TW 802","c":"TW","o":"AU Optronics Corporation"}]);
