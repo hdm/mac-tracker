@@ -1,1 +1,1 @@
-deepmacDetailCallback("bc7536000000/24",[{"a":"nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595","o":"ALPS ELECTRIC CO., LTD.","d":"2018-09-30","t":"add","s":"ieee","c":"JP"}]);
+deepmacDetailCallback("bc7536000000/24",[{"a":"nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595","o":"ALPS ELECTRIC CO., LTD.","d":"2018-09-30","t":"add","s":"ieee","c":"JP"},{"d":"2020-10-11","t":"change","s":"ieee-oui.csv","a":"nishida  6-1  Kakuda-City Miyagi-Pref JP 981-1595","c":"JP","o":"ALPSALPINE CO,.LTD"}]);
