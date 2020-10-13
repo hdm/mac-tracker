@@ -1,0 +1,1 @@
+deepmacDetailCallback("687627000000/24",[{"d":"2020-10-13","t":"add","s":"ieee-oui.csv","a":"6th floor, No.2 Jinliang Road, Hongqi Town, Jinwan District Zhuhai GuangDong CN 519000","c":"CN","o":"Zhuhai Dingzhi Electronic Technology Co., Ltd"}]);
