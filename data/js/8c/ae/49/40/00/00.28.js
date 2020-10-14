@@ -1,0 +1,1 @@
+deepmacDetailCallback("8cae49400000/28",[{"d":"2020-10-14","t":"add","s":"ieee-mam.csv","a":"Jiangsu Sixingda Information Technology Co., Ltd. Nanjing Jiangsu CN 210000","c":"CN","o":"Jiangsu Sixingda Information Technology Co., Ltd."}]);
