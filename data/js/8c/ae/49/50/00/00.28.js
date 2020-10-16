@@ -1,0 +1,1 @@
+deepmacDetailCallback("8cae49500000/28",[{"d":"2020-10-16","t":"add","s":"ieee-mam.csv","a":"2-5 / F, room 7, No. 88, Baifu Road, Economic and Technological Development Zone Kunshan. jiangsu CN 215300","c":"CN","o":"Gati Information Technolog(Kunshan)Co.,Ltd."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d54dd000/36",[{"a":"2183 Alpine Way Bellingham WA US 98226","o":"Road-iQ, LLC","d":"2015-02-01","t":"add","s":"ieee","c":"US"}]);
+deepmacDetailCallback("70b3d54dd000/36",[{"a":"2183 Alpine Way Bellingham WA US 98226","o":"Road-iQ, LLC","d":"2015-02-01","t":"add","s":"ieee","c":"US"},{"d":"2020-10-16","t":"change","s":"ieee-oui36.csv","a":"2183 Alpine Way Bellingham WA US 98226","c":"US","o":"Velvac Incorporated"}]);
