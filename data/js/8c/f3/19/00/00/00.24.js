@@ -1,0 +1,1 @@
+deepmacDetailCallback("8cf319000000/24",[{"d":"2020-10-20","t":"add","s":"ieee-oui.csv","a":"Tianyuan Road No.99, High Tech Zone West Chengdu Sichuan Province CN 611731","c":"CN","o":"Siemens Industrial Automation Products Ltd., Chengdu"}]);
