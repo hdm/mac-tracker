@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0024aa00000/28",[{"d":"2020-11-01","t":"add","s":"ieee-mam.csv","a":"Room 504, 5 / F, Self-built A3 Building, No. 50 Science Avenue, Huangpu District Guangzhou  CN 510700","c":"CN","o":"Guangdong Jinpeng Technology Co. LTD"}]);

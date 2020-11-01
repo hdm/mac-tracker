@@ -1,0 +1,1 @@
+deepmacDetailCallback("a0024a500000/28",[{"d":"2020-11-01","t":"add","s":"ieee-mam.csv","a":"Block A, Zosun Intelligence Creation Zone, No.9 Yizhan Road, Yuanwubian Streeet Nancheng District, Dongguan Gunagdong CN 523000","c":"CN","o":"Donguan Amsamotion Automation Technology Co., Ltd"}]);
