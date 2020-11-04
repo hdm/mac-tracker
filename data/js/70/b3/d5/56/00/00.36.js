@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5560000/36",[{"d":"2020-11-04","t":"add","s":"ieee-oui36.csv","a":"DaiShin I&C Bldg., 205-28, Gasan digital 1-ro Geumcheon-gu Seoul Seoul KR 08501","c":"KR","o":"DaiShin Information & Communications Co., Ltd"}]);
