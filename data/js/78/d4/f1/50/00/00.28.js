@@ -1,0 +1,1 @@
+deepmacDetailCallback("78d4f1500000/28",[{"d":"2020-11-10","t":"add","s":"ieee-mam.csv","a":"Building 1,No.399, Keyuan Road, Pudong, Shanghai China Shanghai  CN 200120","c":"CN","o":"Huaqin Telecom Technology Co.,Ltd."}]);
