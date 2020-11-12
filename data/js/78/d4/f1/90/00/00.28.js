@@ -1,0 +1,1 @@
+deepmacDetailCallback("78d4f1900000/28",[{"d":"2020-11-12","t":"add","s":"ieee-mam.csv","a":"519A, Building A, Lianming Road 389, Minhang District shanghai shanghai CN 201101","c":"CN","o":"shanghai baudcom communication device co.,ltd"}]);
