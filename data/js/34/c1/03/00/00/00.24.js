@@ -1,0 +1,1 @@
+deepmacDetailCallback("34c103000000/24",[{"d":"2020-11-18","t":"add","s":"ieee-oui.csv","a":"Xiangnan village,Yiqiao Town,Xiaoshan District,Hangzhou City,Zhejiang Hangzhou  CN 311256","c":"CN","o":"Hangzhou Huamu Technology Co.,Ltd."}]);
