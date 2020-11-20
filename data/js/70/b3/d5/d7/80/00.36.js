@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5d78000/36",[{"d":"2020-11-20","t":"add","s":"ieee-oui36.csv","a":"2701, 27th floor, No. 7000, Hanyu Golden Valley Business Service Center, Jingshi Road, Jinan Area, Pilot Free Trade Zone,  Jinan Shandong  CN 250102","c":"CN","o":"Nxvi Microelectronics Technology (Jinan) Co., Ltd."}]);
