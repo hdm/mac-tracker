@@ -1,0 +1,1 @@
+deepmacDetailCallback("c430ca000000/24",[{"d":"2020-11-21","t":"add","s":"ieee-oui.csv","a":"C-4th & 5th Floor, Digital Empire Building, 980-3 Suwon-si Kyonggi-do KR ASI|KR|KS002|SUWON","c":"KR","o":"SD Biosensor"}]);
