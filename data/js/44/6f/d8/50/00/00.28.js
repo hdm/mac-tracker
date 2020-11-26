@@ -1,0 +1,1 @@
+deepmacDetailCallback("446fd8500000/28",[{"d":"2020-11-26","t":"add","s":"ieee-mam.csv","a":"#6 GAOYA RD NINGBO ZHEJIANG PROVINCE CN 315191","c":"CN","o":"ZHEJIANG SHIP ELECTRONICS & TECHNOLOGY CO., LTD."}]);
