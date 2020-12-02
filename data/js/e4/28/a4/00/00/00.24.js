@@ -1,0 +1,1 @@
+deepmacDetailCallback("e428a4000000/24",[{"d":"2020-12-02","t":"add","s":"ieee-oui.csv","a":"Off 103, 765 Fly Edge, TPS III Jn of S V Rd, Nr Kora Kendra Borivali West, Mumbai Maharashtra IN 400092","c":"IN","o":"Prama India Private Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d58e5000/36",[{"d":"2020-12-02","t":"add","s":"ieee-oui36.csv","a":"Room 411, building 10, 471 Guiping Road, Xuhui District  Shanghai  Shanghai CN 200233","c":"CN","o":"Shanghai Armour Technology Co., Ltd."}]);
