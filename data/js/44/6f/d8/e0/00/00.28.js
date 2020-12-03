@@ -1,0 +1,1 @@
+deepmacDetailCallback("446fd8e00000/28",[{"d":"2020-12-03","t":"add","s":"ieee-mam.csv","a":"No. 1-7, Gongjian Rd., Cidu District, Keelung City 20647, Taiwan R.O.C Keelung Taiwan TW 106","c":"TW","o":"CTE"}]);

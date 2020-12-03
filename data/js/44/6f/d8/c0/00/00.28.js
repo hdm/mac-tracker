@@ -1,0 +1,1 @@
+deepmacDetailCallback("446fd8c00000/28",[{"d":"2020-12-03","t":"add","s":"ieee-mam.csv","a":"Building 47, Hang Seng Science park, Tianning District Changzhou Jiangsu CN 213000","c":"CN","o":"Changzhou Haitu Electronic Technology Co.,Ltd"}]);
