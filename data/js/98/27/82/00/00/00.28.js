@@ -1,0 +1,1 @@
+deepmacDetailCallback("982782000000/28",[{"d":"2020-12-04","t":"add","s":"ieee-mam.csv","a":"7001B, 7th Floor, LaoBing Building, East Block 2, No. 3012 XingYe Road, BaoAn District Shenzhen  CN 518100","c":"CN","o":"SHENZHEN HEROFUN BIO-TECH CO., LTD"}]);
