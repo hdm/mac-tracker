@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d57cc000/36",[{"d":"2020-12-06","t":"add","s":"ieee-oui36.csv","a":"3-1, Asahi, Nishibiwajima-Cho Kiyosu Aichi JP 452-8561","c":"JP","o":"MITSUBISHI HEAVY INDUSTRIES THERMAL SYSTEMS, LTD."}]);
