@@ -1,0 +1,1 @@
+deepmacDetailCallback("fc584a000000/24",[{"d":"2020-12-12","t":"add","s":"ieee-oui.csv","a":"Baoyuan Road Shenzhen City Guangdong Province CN 518101","c":"CN","o":"xiamenshi c-chip technology co., ltd"}]);
