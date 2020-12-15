@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d54fb000/36",[{"d":"2020-12-15","t":"add","s":"ieee-oui36.csv","a":"Via Risorgimento 16/C Selvazzano Dentro Padova IT 35030","c":"IT","o":"MAS Elettronica sas di Mascetti Sandro e C."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("041119600000/28",[{"d":"2020-12-15","t":"add","s":"ieee-mam.csv","a":"2# Floor, 1# Gate?12# Building?5# Jiangtai Road, Chaoyang District,Beijing Beijing Beijing CN 100015","c":"CN","o":"ZPD technology Co., Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("041119b00000/28",[{"d":"2020-12-15","t":"add","s":"ieee-mam.csv","a":"Hubei Baobao Intelligent Technology Co.,LTD Wuhan Hubei CN 430000","c":"CN","o":"Hubei Baobao Intelligent Technology Co.,LTD"}]);

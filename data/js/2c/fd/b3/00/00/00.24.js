@@ -1,0 +1,1 @@
+deepmacDetailCallback("2cfdb3000000/24",[{"d":"2020-12-15","t":"add","s":"ieee-oui.csv","a":"Section 37, Zhongkai Hi-Tech Development Zone Huizhou Guangdong CN 516006","c":"CN","o":"TCL Technoly Electronics(Huizhou).,Ltd"}]);
