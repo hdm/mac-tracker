@@ -1,0 +1,1 @@
+deepmacDetailCallback("041119c00000/28",[{"d":"2020-12-19","t":"add","s":"ieee-mam.csv","a":"Room 2, Floor 1, Unit 6, Building 2,Yuanshi Street 35, Nangang District Haerbin Heilongjiang CN 150000","c":"CN","o":"Haerbin Donglin Technology Co., Ltd."}]);

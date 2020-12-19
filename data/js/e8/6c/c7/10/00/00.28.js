@@ -1,0 +1,1 @@
+deepmacDetailCallback("e86cc7100000/28",[{"d":"2020-12-19","t":"add","s":"ieee-mam.csv","a":"Plant Building 5, 106 Xieshi Highway, Shibi 1st Village Guangzhou GuangDong CN 511495","c":"CN","o":"ASSA ABLOY(GuangZhou) Smart Technology Co., Ltd"}]);
