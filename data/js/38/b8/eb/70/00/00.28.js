@@ -1,1 +1,1 @@
-deepmacDetailCallback("38b8eb700000/28",[{"a":"","o":"Private","d":"2015-11-29","t":"add","s":"ieee"}]);
+deepmacDetailCallback("38b8eb700000/28",[{"a":"","o":"Private","d":"2015-11-29","t":"add","s":"ieee"},{"d":"2020-12-23","t":"change","s":"ieee-mam.csv","a":"Muhlentalstrasse 2 Schaffhausen  CH 8200","c":"CH","o":"Sirin Mobile Technologies"}]);
