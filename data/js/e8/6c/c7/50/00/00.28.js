@@ -1,0 +1,1 @@
+deepmacDetailCallback("e86cc7500000/28",[{"d":"2020-12-24","t":"add","s":"ieee-mam.csv","a":"No.5, Guanle Road, Guanhu street, Longhua District Shenzhen Guangdong   CN 518110","c":"CN","o":"Shenzhen Rongda Computer Co.,Ltd"}]);
