@@ -1,0 +1,1 @@
+deepmacDetailCallback("e86cc7400000/28",[{"d":"2020-12-25","t":"add","s":"ieee-mam.csv","a":"Floor 6, Building 4, Lane 299, Jiangchang West Road, Jing 'an District Shanghai Shanghai CN 200436","c":"CN","o":"Koal Software Co., Ltd"}]);

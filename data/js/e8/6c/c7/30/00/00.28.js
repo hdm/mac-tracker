@@ -1,0 +1,1 @@
+deepmacDetailCallback("e86cc7300000/28",[{"d":"2020-12-25","t":"add","s":"ieee-mam.csv","a":"501/501, Building 2, Hongxiang Industrial Park, 21 Huancheng South Road, Ma'antang Community, Bantian Street, Longgang District, Shenzhen Shenzhen  CN 518000","c":"CN","o":"Shenzhen Yibaifen Industrial Co.,Ltd."}]);

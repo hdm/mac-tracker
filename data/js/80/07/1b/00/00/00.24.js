@@ -1,0 +1,1 @@
+deepmacDetailCallback("80071b000000/24",[{"d":"2020-12-25","t":"add","s":"ieee-oui.csv","a":"Room 601,Originality Building B2, NO.162 Science Avenue,Science Town Guangzhou Guangdong CN 510663","c":"CN","o":"VSOLUTION TELECOMMUNICATION TECHNOLOGY CO.,LTD."}]);
