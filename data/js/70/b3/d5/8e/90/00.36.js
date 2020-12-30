@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d58e9000/36",[{"d":"2020-12-30","t":"add","s":"ieee-oui36.csv","a":"RUA ABRAHAN LINCOLS, 464, Jardim América RIO DO SUL SANTA CATARINA BR 89160202","c":"BR","o":"COONTROL Tecnologia em Combustão LTDA EPP"}]);

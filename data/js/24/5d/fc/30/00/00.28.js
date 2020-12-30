@@ -1,0 +1,1 @@
+deepmacDetailCallback("245dfc300000/28",[{"d":"2020-12-30","t":"add","s":"ieee-mam.csv","a":"2/F, building 19, Baotian industrial zone, the Third Baotian Road, Bao'an district Shenzhen GuangDong CN 518101","c":"CN","o":"Shenzhen Hailuck Electronic Technology CO.,LTD"}]);
