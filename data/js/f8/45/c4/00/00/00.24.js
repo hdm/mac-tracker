@@ -1,0 +1,1 @@
+deepmacDetailCallback("f845c4000000/24",[{"d":"2021-01-01","t":"add","s":"ieee-oui.csv","a":"Room 611-2?6st Floor,Building 1, The Sunmax Technology Park, No 8 Keyuan Road, Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Netforward Micro-Electronic Co., Ltd."}]);
