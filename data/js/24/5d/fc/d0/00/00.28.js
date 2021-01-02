@@ -1,0 +1,1 @@
+deepmacDetailCallback("245dfcd00000/28",[{"d":"2021-01-02","t":"add","s":"ieee-mam.csv","a":"705, Building 1, Fortune Plaza, Wankuntu, Xiangzhang Road, Yuhua District, Changsha City, Changsha  CN 410007","c":"CN","o":"Hunan Honestone lntelligence Technology Co.,Ltd"}]);
