@@ -1,1 +1,1 @@
-deepmacDetailCallback("dce533a00000/28",[{"a":"","o":"Private","d":"2017-11-05","t":"add","s":"ieee"}]);
+deepmacDetailCallback("dce533a00000/28",[{"a":"","o":"Private","d":"2017-11-05","t":"add","s":"ieee"},{"d":"2021-01-07","t":"change","s":"ieee-mam.csv","a":"Room118, Building B, JinTaiHuaYun Building, WuGenLin HuTong 11 Beijing Beijing CN 100035","c":"CN","o":"Amazinglayer Network Co., Ltd."}]);
