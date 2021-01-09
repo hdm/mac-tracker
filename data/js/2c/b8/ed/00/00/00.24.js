@@ -1,1 +1,1 @@
-deepmacDetailCallback("2cb8ed000000/24",[{"d":"2017-12-23","t":"add","a":"5455 Great America Parkway Santa Clara CA US 95054","c":"US","o":"SonicWall"}]);
+deepmacDetailCallback("2cb8ed000000/24",[{"d":"2017-12-23","t":"add","a":"5455 Great America Parkway Santa Clara CA US 95054","c":"US","o":"SonicWall"},{"d":"2021-01-09","t":"change","s":"ieee-oui.csv","a":"1033 McCarthy Blvd Milpitas CA US 95035","c":"US","o":"SonicWall"}]);
