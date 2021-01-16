@@ -1,0 +1,1 @@
+deepmacDetailCallback("184859000000/24",[{"d":"2021-01-16","t":"add","s":"ieee-oui.csv","a":"5th Fl., No.159-1, Sec.3, Beishen Rd., Shenkeng Dist.,  New Taipei City  TW 222004","c":"TW","o":"Castlenet Technology Inc."}]);
