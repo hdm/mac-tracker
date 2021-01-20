@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5f1b000/36",[{"d":"2021-01-20","t":"add","s":"ieee-oui36.csv","a":"B-116, DDA Sheds, Okhla Industrial Area, Okhla Phase -I New Delhi New Delhi IN 110020","c":"IN","o":"RoyalShield Technologies India Private Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d56b4000/36",[{"d":"2021-01-20","t":"add","s":"ieee-oui36.csv","a":"10, Gitaneel Arcade, Hill Road, Bandra-W Mumbai Maharashtra IN 400050","c":"IN","o":"Nudron IoT Solutions LLP"}]);
