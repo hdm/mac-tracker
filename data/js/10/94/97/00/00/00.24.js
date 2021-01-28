@@ -1,0 +1,1 @@
+deepmacDetailCallback("109497000000/24",[{"d":"2021-01-28","t":"add","s":"ieee-oui.csv","a":"Room 1002-1003, 10/F, Tower 1, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road, Kowloon, Hong Kong Hong Kong  HK NA","c":"NA","o":"Logitech Hong Kong"}]);
