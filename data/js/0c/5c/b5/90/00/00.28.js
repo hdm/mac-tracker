@@ -1,0 +1,1 @@
+deepmacDetailCallback("0c5cb5900000/28",[{"d":"2021-01-30","t":"add","s":"ieee-mam.csv","a":"601, block B, Logistics Park, Yihong Road, Yantian village, Fenggang Town, DG, GD, China Dongguan City  CN 523702","c":"CN","o":"Colordeve International"}]);
