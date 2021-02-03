@@ -1,0 +1,1 @@
+deepmacDetailCallback("0c83cc000000/24",[{"d":"2021-02-03","t":"add","s":"ieee-oui.csv","a":"No.8 Li-shing 7th Rd., Science-based Industrial Park, Hsinchu, Taiwan, R.O.C Hsinchu Taiwan TW 300","c":"TW","o":"Alpha Networks Inc."}]);
