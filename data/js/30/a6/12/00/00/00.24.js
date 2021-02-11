@@ -1,0 +1,1 @@
+deepmacDetailCallback("30a612000000/24",[{"d":"2021-02-11","t":"add","s":"ieee-oui.csv","a":"413~415 Room, 4/F, No.6 Bldg., TongFuYu Industrial Park, Dalang Street, 518109, Longhua New District, ShengZhen GuangDong CN 518109","c":"CN","o":"ShenZhen Hugsun Technology Co.,Ltd."}]);
