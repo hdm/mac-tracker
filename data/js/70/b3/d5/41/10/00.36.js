@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5411000/36",[{"d":"2021-02-18","t":"add","s":"ieee-oui36.csv","a":"No 13 A, Kalakshetra Road , Thiruvanmiyur  Chennai Tamil Nadu IN 600041","c":"IN","o":"Mi-Fi Networks Pvt Ltd"}]);
