@@ -1,0 +1,1 @@
+deepmacDetailCallback("88c9b3d00000/28",[{"d":"2021-02-26","t":"add","s":"ieee-mam.csv","a":"18 Xinzhong St Dushiyangguang4-1106, Dongcheng Beijing  CN 100027","c":"CN","o":"Origins Technology Limited"}]);
