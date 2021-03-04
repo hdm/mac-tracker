@@ -1,0 +1,1 @@
+deepmacDetailCallback("b81332000000/24",[{"d":"2021-03-04","t":"add","s":"ieee-oui.csv","a":"3F, No.15-1 Zhonghua Road, Hsinchu Industrail Park, Hukou, Hsinchu Hsinchu,Taiwan R.O.C. TW 30352","c":"TW","o":"AMPAK Technology,Inc."}]);
