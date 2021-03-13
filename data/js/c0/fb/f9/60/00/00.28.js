@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0fbf9600000/28",[{"d":"2021-03-13","t":"add","s":"ieee-mam.csv","a":"5/F, Zhongguancun Fazhan Building, No 12, Shangdi Xinxi Road, Haidian District, Beijing, 100085, P.R. CHINA Beijing  CN 100085","c":"CN","o":"IVT corporation"}]);

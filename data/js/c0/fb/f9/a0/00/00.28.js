@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0fbf9a00000/28",[{"d":"2021-03-13","t":"add","s":"ieee-mam.csv","a":"Tiandi(Changzhou) Automation Co., Ltd. Changzhou Jiangsu CN 213015","c":"CN","o":"Tiandi(Changzhou) Automation Co., Ltd."}]);
