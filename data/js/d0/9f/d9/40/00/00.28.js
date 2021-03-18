@@ -1,0 +1,1 @@
+deepmacDetailCallback("d09fd9400000/28",[{"d":"2021-03-18","t":"add","s":"ieee-mam.csv","a":"Rm.B,6th Fl., No.5, Caoxi Rd.251 Shanghai Shanghai CN 200235","c":"CN","o":"Poten (Shanghai) Technology Co.,Ltd."}]);
