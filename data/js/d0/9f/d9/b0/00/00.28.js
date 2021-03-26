@@ -1,0 +1,1 @@
+deepmacDetailCallback("d09fd9b00000/28",[{"d":"2021-03-26","t":"add","s":"ieee-mam.csv","a":"Room 218,  Block E1, Yuanchenxin Building, 12 Yumin Road, Chaoyang District Beijing  CN 100029","c":"CN","o":"Cablewireless Laboratory Co., Ltd"}]);
