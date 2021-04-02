@@ -1,0 +1,1 @@
+deepmacDetailCallback("b8ae1d000000/24",[{"d":"2021-04-02","t":"add","s":"ieee-oui.csv","a":"Room 805-808, Room 801, Self-made Building 4, No. 1, 3 and 5, Kesheng Road, Guangzhou Private Science Park, No. 1633, Beitai Road, Baiyun District, Guangzhou Guangzhou  CN 51000","c":"CN","o":"Guangzhou Xingyi Electronic Technology Co.,Ltd"}]);
