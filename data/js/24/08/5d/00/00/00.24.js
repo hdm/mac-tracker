@@ -1,0 +1,1 @@
+deepmacDetailCallback("24085d000000/24",[{"d":"2021-04-11","t":"add","s":"ieee-oui.csv","a":"Sodener Strasse 9 Schwalbach am Taunus Hessen DE 65824","c":"DE","o":"Continental Aftermarket & Services GmbH"}]);
