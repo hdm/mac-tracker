@@ -1,0 +1,1 @@
+deepmacDetailCallback("e87829e00000/28",[{"d":"2021-04-16","t":"add","s":"ieee-mam.csv","a":"Unit 211, 2/F., Photonics Centre, No 2 Science Park East Avenue, Shatin Hong Kong Hong Kong HK 999077","c":"HK","o":"Solos Technology Limited"}]);

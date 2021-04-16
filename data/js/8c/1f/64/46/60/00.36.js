@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f64466000/36",[{"d":"2021-04-16","t":"add","s":"ieee-oui36.csv","a":"3/F, Building C9, No.3188 Xiupu Road Pudong New District,Shanghai Shanghai  CN 201315","c":"CN","o":"Intamsys Technology Co.Ltd"}]);
