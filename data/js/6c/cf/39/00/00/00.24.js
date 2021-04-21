@@ -1,0 +1,1 @@
+deepmacDetailCallback("6ccf39000000/24",[{"d":"2021-04-21","t":"add","s":"ieee-oui.csv","a":"Room S201, Zone A, No.2 Haoyang Road, Yunlu Community, Daliang Street, Shunde District, Foshan, Guangdong, 528309, China Foshan Guangdong CN 528309","c":"CN","o":"Guangdong Starfive Technology Co., Ltd."}]);
