@@ -1,0 +1,1 @@
+deepmacDetailCallback("3039a9000000/24",[{"d":"2021-04-24","t":"add","s":"ieee-oui.csv","a":"32 / F, Yuesheng International Center, Pinglan Road, Xiaoshan District, Hangzhou, Zhejiang Province Hangzhou Zhejiang Province CN 311215","c":"CN","o":"Hongshan Information Science and Technology (HangZhou) Co.,Ltd."}]);
