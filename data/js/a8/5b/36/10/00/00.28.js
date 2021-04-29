@@ -1,0 +1,1 @@
+deepmacDetailCallback("a85b36100000/28",[{"d":"2021-04-29","t":"add","s":"ieee-mam.csv","a":"Leninsky Prospekt, 140, lit A, room 15N Saint Petersburg Saint Petersburg RU 198216","c":"RU","o":"PARMA LLC"}]);
