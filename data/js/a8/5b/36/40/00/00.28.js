@@ -1,0 +1,1 @@
+deepmacDetailCallback("a85b36400000/28",[{"d":"2021-04-30","t":"add","s":"ieee-mam.csv","a":"4th floor,building 4,European Industrial Park,60 Longbao West Road,Zhangcha Town FoShan Guandong CN 528051","c":"CN","o":"Luoxian (Guandong) Technology Co., Ltd"}]);
