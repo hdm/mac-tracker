@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f64144000/36",[{"d":"2021-05-01","t":"add","s":"ieee-oui36.csv","a":"HuaxiangRoad,No.106,Langfang Economic&Technical Devevlopment Zone,Hebei P.R.China Langfang  CN 065000","c":"CN","o":"Langfang ENN lntelligent Technology Co.,Ltd."}]);
