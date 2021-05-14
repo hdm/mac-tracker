@@ -1,0 +1,1 @@
+deepmacDetailCallback("44a92c000000/28",[{"d":"2021-05-14","t":"add","s":"ieee-mam.csv","a":"Room 201 and 202,Building 5,328 Pingjiang Road,Yuecheng District,Shaoxing Shaoxing Zhejiang CN 312000","c":"CN","o":"ZHEJIANG HISING TECHNOLOGY CO.,LTD"}]);

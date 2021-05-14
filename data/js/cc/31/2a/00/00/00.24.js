@@ -1,0 +1,1 @@
+deepmacDetailCallback("cc312a000000/24",[{"d":"2021-05-14","t":"add","s":"ieee-oui.csv","a":"2nd Floor, Building 1,Dongnan Jiahao Industrial Park,NO.3 Donghe South Road, Dongxing District,Dongjiang high-tech Zone Huizhou Guangdong CN 516055","c":"CN","o":"HUIZHOU TCL COMMUNICATION ELECTRON CO.,LTD"}]);
