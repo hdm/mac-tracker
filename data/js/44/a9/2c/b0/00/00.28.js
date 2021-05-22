@@ -1,0 +1,1 @@
+deepmacDetailCallback("44a92cb00000/28",[{"d":"2021-05-22","t":"add","s":"ieee-mam.csv","a":"Guangzhou(Meizhou) Industry Transfer Zone, Meizhou Guangdong CN 514079","c":"CN","o":"Amethystum Storage Technology Co., Ltd"}]);
