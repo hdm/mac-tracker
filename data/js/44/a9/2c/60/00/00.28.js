@@ -1,0 +1,1 @@
+deepmacDetailCallback("44a92c600000/28",[{"d":"2021-05-23","t":"add","s":"ieee-mam.csv","a":"No.1266 Juxian Road, Hi-Tech Park Ningbo Zhejiang CN 315000","c":"CN","o":"Ningbo joyson new energy automotive technology Co.,Ltd"}]);
