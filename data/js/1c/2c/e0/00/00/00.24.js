@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c2ce0000000/24",[{"d":"2021-05-29","t":"add","s":"ieee-oui.csv","a":"Suite 4C, Building 3,  1238 Zhangjiang Rd., Pudong Shanghai  CN 201210","c":"CN","o":"Shanghai  Mountain View Silicon"}]);
