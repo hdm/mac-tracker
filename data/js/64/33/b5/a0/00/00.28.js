@@ -1,0 +1,1 @@
+deepmacDetailCallback("6433b5a00000/28",[{"d":"2021-06-04","t":"add","s":"ieee-mam.csv","a":"7F-2 No. 16,Lane 609, Section 5 Chung Hsin Rd. Sanchong District. New Taipei City Taiwan R.O.C. New Taipei City Taiwan TW 241","c":"TW","o":"Hometek Eletronics Co., Ltd"}]);
