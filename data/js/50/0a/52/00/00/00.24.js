@@ -1,0 +1,1 @@
+deepmacDetailCallback("500a52000000/24",[{"d":"2021-06-05","t":"add","s":"ieee-oui.csv","a":"A603,Wuhan University SZ IER Bldg., 6 Yuexing 2nd Rd., Nanshan Dist., Shenzhen Shenzhen Guang Dong CN 518108","c":"CN","o":"Huiwan Technologies Co. Ltd"}]);
