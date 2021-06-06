@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f64ce3000/36",[{"d":"2021-06-06","t":"add","s":"ieee-oui36.csv","a":"87, Jalan 20/7, Paramount Garden Petaling Jaya Selangor MY 46300","c":"MY","o":"Pixel Design & Manufacturing Sdn. Bhd."}]);
