@@ -1,0 +1,1 @@
+deepmacDetailCallback("745cfa000000/24",[{"d":"2021-06-12","t":"add","s":"ieee-oui.csv","a":"502,Building A,No.18,Gongye 2nd Road,Dakan Industrial Zone,Dakan community,Xili street,Nanshan District Shenzhen Guangdong  CN 518055","c":"CN","o":"Shenzhen Shunrui Gaojie Technology Co., Ltd."}]);
