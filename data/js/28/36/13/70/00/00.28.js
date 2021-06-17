@@ -1,0 +1,1 @@
+deepmacDetailCallback("283613700000/28",[{"d":"2021-06-17","t":"add","s":"ieee-mam.csv","a":"903,No. 1 Shifeng Building, Xinzhuang Community Villa Road, Matian Street, Guangming District, Shenzhen City Shenzhen Guangdong CN 518000","c":"CN","o":"shenzhen technology limited"}]);
