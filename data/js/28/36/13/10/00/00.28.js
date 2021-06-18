@@ -1,0 +1,1 @@
+deepmacDetailCallback("283613100000/28",[{"d":"2021-06-18","t":"add","s":"ieee-mam.csv","a":"NO.86 LiuFeng Road,WuZhong District SuZhou Jiangsu CN 215128","c":"CN","o":"Hi-p (Suzhou) Electronics Co,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("9009d0000000/24",[{"d":"2021-06-18","t":"add","s":"ieee-oui.csv","a":"9F., No.1, Yuandong Rd., Banqiao Dist., New Taipei City   TW 220632","c":"TW","o":"Synology Incorporated"}]);
