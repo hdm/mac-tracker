@@ -1,0 +1,1 @@
+deepmacDetailCallback("84a938000000/24",[{"d":"2021-06-23","t":"add","s":"ieee-oui.csv","a":"No.3188,YunGu Road?Hefei   Economic and Technological   Development Area HEFEI ANHUI CN 230601","c":"CN","o":"LCFC(HeFei) Electronics Technology co., ltd"}]);
