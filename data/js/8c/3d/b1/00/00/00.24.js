@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c3db1000000/24",[{"d":"2021-07-02","t":"add","s":"ieee-oui.csv","a":"1268, Building 2, No. 38, Kechuang Fifth Street, Beijing Economic and Technological Development Zone Beijing Beijing CN 101111","c":"CN","o":"Beijing H-IoT Technology Co., Ltd."}]);
