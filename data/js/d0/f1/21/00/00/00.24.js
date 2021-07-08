@@ -1,0 +1,1 @@
+deepmacDetailCallback("d0f121000000/24",[{"d":"2021-07-08","t":"add","s":"ieee-oui.csv","a":"C301, block C, main building, ZTE Industrial Park, No.10, Tangyan South Road, Hi-tech Zone Xi'an Shanxi CN 710076","c":"CN","o":"Xi'an LINKSCI Technology Co., Ltd"}]);
