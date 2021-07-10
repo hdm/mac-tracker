@@ -1,0 +1,1 @@
+deepmacDetailCallback("3429ef000000/24",[{"d":"2021-07-10","t":"add","s":"ieee-oui.csv","a":"A01, No.1, Haier Road, Laoshan District, Qingdao Shan dong CN 266000","c":"CN","o":"Qingdao Haier Technology Co.,Ltd"}]);
