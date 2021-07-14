@@ -1,0 +1,1 @@
+deepmacDetailCallback("ec2c11000000/24",[{"d":"2021-07-14","t":"add","s":"ieee-oui.csv","a":"101, First Floor, 439 Hasam Premji Building, Kalbadevi Mumbai Maharashtra IN 400002","c":"IN","o":"CWD INNOVATION LIMITED"}]);
