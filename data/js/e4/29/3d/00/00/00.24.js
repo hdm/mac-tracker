@@ -1,0 +1,1 @@
+deepmacDetailCallback("e4293d000000/24",[{"d":"2021-07-21","t":"add","s":"ieee-oui.csv","a":"11/F,  Manjinghua Yingshuo Commercial Building, Songgang Street, Baoan District Shenzhen City Guangdong Provicne CN 518105","c":"CN","o":"Shenzhen Sy-Fiber Optical Communication Technology.Co.,Ltd"}]);
