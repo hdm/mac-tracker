@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c8334a00000/28",[{"d":"2021-07-22","t":"add","s":"ieee-mam.csv","a":"No.6 Hechang Road, Wuqing Development Zone TIANJIN  CN 301726","c":"CN","o":"ENGINETECH (TIANJIN) COMPUTER CO.,LTD."}]);
