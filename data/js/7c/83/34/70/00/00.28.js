@@ -1,0 +1,1 @@
+deepmacDetailCallback("7c8334700000/28",[{"d":"2021-07-23","t":"add","s":"ieee-mam.csv","a":"5th floor, building 4, No. 200, Tianfu 5th Street ChengDu SiChuan CN 610000","c":"CN","o":"ChengDU Yi Gong Intelligence Technology Co., Ltd."}]);
