@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f646e3000/36",[{"d":"2021-07-24","t":"add","s":"ieee-oui36.csv","a":"9F, No. 192, Lien Chen Road, Zhonghe Dist, New Taipei City 235, , Taiwan New Taipei City Taiwan TW 235","c":"TW","o":"ViewSonic International Corporation"}]);
