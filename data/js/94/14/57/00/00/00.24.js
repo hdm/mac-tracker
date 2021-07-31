@@ -1,0 +1,1 @@
+deepmacDetailCallback("941457000000/24",[{"d":"2021-07-31","t":"add","s":"ieee-oui.csv","a":"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen Sundray Technologies Company Limited"}]);
