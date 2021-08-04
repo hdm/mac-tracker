@@ -1,0 +1,1 @@
+deepmacDetailCallback("986ee8400000/28",[{"d":"2021-08-04","t":"add","s":"ieee-mam.csv","a":"SHINAGAWA SEASIDE PARK TOWER, 12-4, Higashi-shinagawa 4-chome, Shinagawa-ku, Tokyo JP 140-8586","c":"JP","o":"Fujitsu component limited"}]);
