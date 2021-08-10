@@ -1,0 +1,1 @@
+deepmacDetailCallback("90eb48000000/24",[{"d":"2021-08-10","t":"add","s":"ieee-oui.csv","a":"Room 601,6F ,No.1399 Minsheng Road,Pudong New Area,Shanghai,China Shanghai  CN 200120","c":"CN","o":"Shanghai chipfresh Electronics Technology Co., Ltd"}]);
