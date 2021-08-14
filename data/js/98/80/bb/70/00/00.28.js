@@ -1,0 +1,1 @@
+deepmacDetailCallback("9880bb700000/28",[{"d":"2021-08-14","t":"add","s":"ieee-mam.csv","a":"Building D, 136 Kaiyuan Avenue, Guangzhou High- tech Industrial Development Zone  GuangZhou Guangdong CN 510700","c":"CN","o":"Guangdong-Hong Kong-Macao Greater Bay Area Research Innovation Institute for Nanotechnology"}]);
