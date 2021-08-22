@@ -1,0 +1,1 @@
+deepmacDetailCallback("5c46b0000000/24",[{"d":"2021-08-22","t":"add","s":"ieee-oui.csv","a":"SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China Shanghai  CN 200335","c":"CN","o":"SIMCom Wireless Solutions Limited"}]);

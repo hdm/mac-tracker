@@ -1,0 +1,1 @@
+deepmacDetailCallback("787264600000/28",[{"d":"2021-08-22","t":"add","s":"ieee-mam.csv","a":"MeishengChuanggu(Xiagu), No. 10 Longchang Rd., Xin'an, Bao'an, Shenzhen  CN 518000","c":"CN","o":"Shenzhen C-DIGI Technology Co.,Ltd."}]);

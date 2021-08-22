@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f64536000/36",[{"d":"2021-08-22","t":"add","s":"ieee-oui36.csv","a":"Floor 8, Jinlan building, No. 2, Beihuan Road, Changping District Beijing Beijing CN 102200","c":"CN","o":"BEIJING LXTV TECHNOLOGY CO.,LTD"}]);
