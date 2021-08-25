@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f6470e000/36",[{"d":"2021-08-25","t":"add","s":"ieee-oui36.csv","a":"#1003, Byucksan Digital Valley 2-cha, 184, Gasan digital 2-ro, Geumcheon-gu Seoul  KR 08501","c":"KR","o":"OvercomTech"}]);
