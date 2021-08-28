@@ -1,0 +1,1 @@
+deepmacDetailCallback("88231f000000/24",[{"d":"2021-08-28","t":"add","s":"ieee-oui.csv","a":"1101,Tower A, Building 6, Shenzhen International Innovation Valley, Dashi 1st Rd, Nanshan Shenzhen Guangdong CN 518055","c":"CN","o":"Fibocom Wireless Inc."}]);
