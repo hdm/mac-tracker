@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f641da000/36",[{"d":"2021-09-01","t":"add","s":"ieee-oui36.csv","a":"Room 1005/1006, SOHO Building, No. 28-2, Xiyong Street, Shapingba District, Chongqing Chongqing  CN 400000","c":"CN","o":"Chongqing Huaxiu Technology Co.,Ltd"}]);
