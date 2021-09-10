@@ -1,0 +1,1 @@
+deepmacDetailCallback("f4700c500000/28",[{"d":"2021-09-10","t":"add","s":"ieee-mam.csv","a":"Room 7A, Building A3, HuaFengShiJiKeJiYuan, GuShu Street, BaoAn District Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Lidaxun Digital Technology Co., LTD"}]);

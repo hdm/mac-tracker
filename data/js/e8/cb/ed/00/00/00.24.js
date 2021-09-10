@@ -1,0 +1,1 @@
+deepmacDetailCallback("e8cbed000000/24",[{"d":"2021-09-10","t":"add","s":"ieee-oui.csv","a":"9F,Block A,Garden City Digital Building,No.1079 Nanhai Road,Nanshan District,Shenzhen Shenzhen  CN 518000","c":"CN","o":"Chipsea Technologies(Shenzhen) Corp."}]);
