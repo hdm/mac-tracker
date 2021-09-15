@@ -1,0 +1,1 @@
+deepmacDetailCallback("d413f8000000/24",[{"d":"2021-09-15","t":"add","s":"ieee-oui.csv","a":"A5, 5/F, HK Spinners Industrial Building, Phase 6, 481 Castle Peak Road Cheung Sha Wan Kowloon HK 0","c":"HK","o":"Peplink International Ltd."}]);
