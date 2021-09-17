@@ -1,0 +1,1 @@
+deepmacDetailCallback("9c8566000000/24",[{"d":"2021-09-17","t":"add","s":"ieee-oui.csv","a":"1F-3F,Yinfeng Mansion,No.5097 of Luosha Road,Luohu District Shenzhen  CN 518011","c":"CN","o":"Wingtech Mobile Communications Co.,Ltd."}]);
