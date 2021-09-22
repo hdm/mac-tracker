@@ -1,0 +1,1 @@
+deepmacDetailCallback("a4ef15000000/24",[{"d":"2021-09-22","t":"add","s":"ieee-oui.csv","a":"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083","c":"CN","o":"AltoBeam (China) Inc."}]);
