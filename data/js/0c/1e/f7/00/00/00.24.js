@@ -1,0 +1,1 @@
+deepmacDetailCallback("0c1ef7000000/24",[{"d":"2021-10-09","t":"add","s":"ieee-oui.csv","a":"Omni-ID, The Enterprise Center, Coxbridge Business Park, Alton Road Farnham Surrey GB GU105EH","c":"GB","o":"Omni-ID"}]);
