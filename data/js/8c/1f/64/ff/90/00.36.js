@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f64ff9000/36",[{"d":"2021-09-22","t":"add","s":"ieee-oui36.csv","a":"12D Harrington Mansions , 8 Ho Chi Minh Sarani Kolkata West Bengal IN 700071","c":"IN","o":"Fortuna Impex Pvt ltd"}]);

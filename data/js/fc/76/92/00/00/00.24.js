@@ -1,0 +1,1 @@
+deepmacDetailCallback("fc7692000000/24",[{"d":"2021-09-05","t":"add","s":"ieee-oui.csv","a":"Floor 19, Block 1A,  Phase 1, International Innovation Valley, Xili Community, Nanshan District Shenzhen Guangdong CN 518052","c":"CN","o":"Semptian Co.,Ltd."}]);

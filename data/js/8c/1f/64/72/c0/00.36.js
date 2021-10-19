@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f6472c000/36",[{"d":"2021-06-09","t":"add","s":"ieee-oui36.csv","a":"T2-704, No.159 Shenwu Road, Minhang District Shanghai Shanghai CN 201100","c":"CN","o":"Antai technology Co.,Ltd"}]);

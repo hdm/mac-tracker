@@ -1,0 +1,1 @@
+deepmacDetailCallback("e87829000000/28",[{"d":"2021-04-09","t":"add","s":"ieee-mam.csv","a":"11F., No. 203 Zhonghua 1st. road, Gushan District Kaohsiung  TW 80455","c":"TW","o":"Tanz Security Technology Ltd."}]);

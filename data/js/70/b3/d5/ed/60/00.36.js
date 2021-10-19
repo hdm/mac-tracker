@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b3d5ed6000/36",[{"d":"2021-02-24","t":"add","s":"ieee-oui36.csv","a":"8 Beauchamp Business Centre,, Sparrowhawk Close Malvern Worcestershire GB WR14 1GL","c":"GB","o":"Metrasens Limited"}]);

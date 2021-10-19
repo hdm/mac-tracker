@@ -1,0 +1,1 @@
+deepmacDetailCallback("8a0af7000000/24",[{"d":"2021-08-27","t":"add","s":"ieee-cid.csv","a":"6/F, BlockA, Technology Building,900 Yishan Road, Shanghai  CN 200233","c":"CN","o":"Montage Technology Co,.LTD"}]);

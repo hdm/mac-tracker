@@ -1,0 +1,1 @@
+deepmacDetailCallback("2426ba000000/24",[{"d":"2021-08-24","t":"add","s":"ieee-oui.csv","a":"Floor 6th, Building C, Guancheng Low-carbon Industrial Park, Guangming District Shenzhen GuangDong CN 518107","c":"CN","o":"Shenzhen Toptel Technology Co., Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("601592600000/28",[{"d":"2021-01-17","t":"add","s":"ieee-mam.csv","a":"Room 1018,10th Floor, No.1 Zhongguancun Street, Haidian District,  Beijing Beijing CN 100086","c":"CN","o":"BEIJING KUANGSHI TECHNOLOGY CO., LTD"}]);

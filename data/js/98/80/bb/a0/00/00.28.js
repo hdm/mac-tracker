@@ -1,0 +1,1 @@
+deepmacDetailCallback("9880bba00000/28",[{"d":"2021-08-11","t":"add","s":"ieee-mam.csv","a":"Building No.7 Guangbao Road, Huangpu District Guangzhou Guangdong CN 510700","c":"CN","o":"Guangzhou Shortcut Technology Co.,Ltd."}]);

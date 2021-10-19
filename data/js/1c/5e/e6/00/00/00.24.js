@@ -1,0 +1,1 @@
+deepmacDetailCallback("1c5ee6000000/24",[{"d":"2021-07-21","t":"add","s":"ieee-oui.csv","a":"Nangang Industrial Building, Tangtou Industrial Park, Shiyan, Baoan Shenzhen Guangdong CN 518108","c":"CN","o":"SHENZHEN TWOWING TECHNOLOGIES CO.,LTD."}]);

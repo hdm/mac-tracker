@@ -1,1 +1,1 @@
-deepmacDetailCallback("8ce748000000/24",[{"d":"2012-01-07","t":"add","a":"","c":null,"o":"PRIVATE"}]);
+deepmacDetailCallback("8ce748000000/24",[{"d":"2012-01-07","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2021-02-11","t":"change","s":"ieee-oui.csv","a":"No.469,Jianghui Road Hangzhou Zhejiang CN 310052","c":"CN","o":"Hangzhou Hikvision Digital Technology Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("8cfd15000000/24",[{"d":"2021-03-04","t":"add","s":"ieee-oui.csv","a":"501B, Shri Guru Har Krishan Bhavan Charat Singh Colony Road, Chakala, Andheri East, Mumbai Maharashtra IN 400093","c":"IN","o":"Imagine Marketing Private Limited"}]);

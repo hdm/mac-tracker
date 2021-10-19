@@ -1,1 +1,1 @@
-deepmacDetailCallback("146102000000/24",[{"d":"2016-04-13","t":"add","a":"20-1, Yoshima Industrial Park Iwaki Fukushima JP 970-1192","c":"JP","o":"Alpine Electronics, Inc."}]);
+deepmacDetailCallback("146102000000/24",[{"d":"2016-04-13","t":"add","a":"20-1, Yoshima Industrial Park Iwaki Fukushima JP 970-1192","c":"JP","o":"Alpine Electronics, Inc."},{"d":"2021-08-27","t":"change","s":"ieee-oui.csv","a":"20-1, Yoshima Industrial Park Iwaki Fukushima JP 970-1192","c":"JP","o":"Alps Alpine"}]);

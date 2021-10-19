@@ -6,7 +6,6 @@ CID,4AC03F,"WUHAN HIKSTORAGE TECHNOLOGY CO.,LTD","Rm.01, 21/F, F4 Building, 5th 
 CID,6A4065,Open Connectivity Foundation,3855 SW 153rd Dr Beaverton OR US 97003 
 CID,DAA119,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 CID,AA38C7,Kaloom inc,"355 Peel street, suite 403 Montreal Quebec CA H3C 2G9 "
-CID,CA30BF,IEEE 802.1 Working Group,445 Hoes Lane Piscataway NJ US 08554 
 CID,FA1619,trendytech,"No.303 Hanzhongmen Street, 6th Floor Block  Nanjing  CN 210036 "
 CID,FA610E,"Laboratory for Computational Sensing and Robotics, Johns Hopkins University",3400 North Charles Street Baltimore MD US 21218 
 CID,FA63E1,Samsung Electronics (UK) Ltd,"Communications House, South Street Staines-Upon-Thames Middlesex GB TW18 4QE "
@@ -17,6 +16,7 @@ CID,9A564B,Cubix Corporation,2800 Lockheed Way Carson City Nevada US 89706
 CID,EA34B4,ThinkRF Inc.,"390 March Rd., Suite 110 Ottawa Ontario CA K2K 0G7 "
 CID,3A5A27,"Shenzhen Longsys Electronics Co.,Ltd.","8F, Building 1, Financial Base, No.8 Kefa Road, High-Tech Park, Shenzhen, China Shenzhen Guangdong CN 518000 "
 CID,3AF521,Single Digits,"4 Bedford Farms Drive, Suite 210 Bedford NH US 03110 "
+CID,CA30BF,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 "
 CID,BA4DEA,Environexus,50 Ricketts Road Mount Waverley VIC AU 3149 
 CID,EAB89B,"Thread Group, Inc.","2400 Camino Ramon, Ste 375 San Ramon CA US 94583 "
 CID,7A84F0,"McDowell Signal Processing, LLC (dba McDSP)",2083 Old Middlefield Way #204 Mountain View CA US 94043 
@@ -27,8 +27,6 @@ CID,DAC87D,SE Development AB,Box 2096 Karlstad  SE 650 02
 CID,0AE471,Caterpillar Inc.,P.O. Box 610 Mossville IL US 61552-0610 
 CID,5ACBD3,Simaudio Ltd,1345 rue Newton Boucherville Quebec CA J4B 5H2 
 CID,FA2EE9,"OCA Alliance, Inc.",23117 39th Ave SE Bothell WA US 98021 
-CID,3AA3F8,IEEE 802.1 Working Group,445 Hoes Lane Piscataway NJ US 08554 
-CID,FA94F1,IEEE 802.1 Working Group,445 Hoes Lane Piscataway NJ US 08554 
 CID,3A0292,Video Electronics Standards Association,"1754 Technology Dr., Suite 238 San Jose CA US 95110 "
 CID,FAE51A,RSAE Labs Inc,400 E 16th St Panama City FL US 32405 
 CID,DA28EC,HG Genuine,"HUST Science & Technology Park, East Lake High-Tech Development Zone Wuhan Hubei CN 430223 "
@@ -46,6 +44,9 @@ CID,1ABBFB,UHD Alliance,3855 SW 153rd Drive Beaverton OR US 97003
 CID,EA2ADB,Labs Network Industrie 4. 0 e.V.,Ernst-Reuter-Platz 7 Berlin  DE 10587 
 CID,0A361C,Smardii,"1221 Brickell Avenue, Suite 900 Miami FL US 33131 "
 CID,AADC47,"Cachengo, Inc.",9575 Hwy 22 Huntingdon TN US 38344 
+CID,3AA3F8,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 "
+CID,FA94F1,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 "
+CID,8AD85E,"GigaIO Networks, Inc.","5924 Balfour Ct., Suite 101 Carlsbad CA US 92008 "
 CID,BAC485,Fraunhofer IIS,Am Wolfsmantel 33 Erlangen Bayern DE 91058 
 CID,FABA85,"APAT Optoelectronics Components Co., Ltd.","2-1503, COFCO Biz Park,Liuxian 2nd Rd., Baoan District, Shenzhen Shenzhen  CN 518101 "
 CID,8ACBA4,Resideo,2 Corporate Center Dr. Melville NY US 11747 
@@ -67,12 +68,15 @@ CID,EABC04,G3-PLC Alliance,34 place des Corolles Paris PARIS LA DEFENSE CEDEX  F
 CID,5A03BA,Wireless Broadband Alliance Ltd,3 Tai Seng Dr #04-01 Singapore  SG 535216 
 CID,5A18FF,FiRa Consortium,3855 SW 153RD Drive Beaverton OR US 97003 
 CID,4AE03F,Chengdu Superxon communication Technology Co. Ltd.,"No.666, Shaojia Street, Shuangliu District Chengdu Sichuan CN 610225 "
+CID,FA0BBC,ASD-STAN,Rue de la Science 14b Brussels  BE 1040 
+CID,6A8EAF,Waoo,True Møllevej 9 Tilst Aarhus Municipallity DK 8381 
+CID,7A15EC,"Yatomi Techology(ZheJiang) Co.,Ltd","No8 FuYuan Road, YaoZhuang Town, JiaShan County YaoZhuang ZheJiang CN 314117 "
+CID,7A4BF3,DILON TECHNOLOGIES,"12050 JEFFERSON AVENUE, Suite 340 NEWPORT NEWS VA US 23606 "
 CID,8AFB16,"TeraByte, Inc.",10220 Lazy Bear St Las Vegas NV US 89131 
 CID,BA4159,ANAPASS INC.,61 Digital-ro 31-gil Guro-gu Seoul  KR 08375 
 CID,6A1F6C,"iPass, Inc.",3800 Bridge Parkway Redwood Shores CA US 94065 
 CID,3ACFC5,Quickline AG,Dr. Schneider-Strasse 16 Nidau  CH 2560 
 CID,EADD88,"IEEE PES-PSRC Working Group H3, PC37.237",445 Hoes Ln. Piscataway NJ US 08854 
-CID,4A07D6,IEEE 802.1 Working Group,445 Hoes Lane Piscataway NJ US 08554 
 CID,2AEA15,Tibit Communications,"1 Willowbrook Court, Suite 150 Petaluma CA US 94954 "
 CID,7AFD44,Rosenberger Hochfrequenztechnik GmbH & Co. KG,Hauptstrasse 1 Fridolfing  DE 83413 
 CID,5AE660,nyantec GmbH,Europaplatz 2 Berlin  DE 10557 
@@ -94,6 +98,9 @@ CID,2AA139,"POINTGUARD, LLC",134 W Malvern Ave Salt Lake City UT US 84115
 CID,0A2A33,DIGISTOR,89 Dillon Ave Campbell CA US 95008 
 CID,8A94AD,Nexgen A/S,Tvinggårdsvej 1 Skuderløse Haslev  DK 4690 
 CID,7A35EA,SHARP Corporation,"1 Takumi-cho, Sakai-ku Sakai City Osaka JP 590-8522 "
+CID,8A4F8B,Irdeto,Taurus Avenue 105 Hoofddorp Noord Holland NL 2132LS 
+CID,4AADCE,CODAN ARGUS AG,Oberneuhofstrasse 10 Baar Zug CH 6340 
+CID,4A07D6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 "
 CID,DA4162,Xperi Corporation,5220 Las Virgenes Rd Calabasas  US 91302 
 CID,4A7F74,INTEC Inc.,"1-1-25 Shin-urashima-cho, Kanagawa-ku Yokohama-shi Kanagawa-ken JP 221-0031 "
 CID,8AA5C1,Ranovus USA,465 Fairchild Dr #109 Mountain View CA US 94043 
@@ -113,3 +120,8 @@ CID,FA6673,NELLS ELECTRONIC SYSTEMS (NES),"THAPASYA, KALAPARAMBATH (H), MATHILAK
 CID,CA2B5E,"Suzhou Motor-comm Electronic Technology Co.,Ltd","Rm201, Bldg#4, No.78 Keling Road, Hi-Tech New District, China Suzhou Jiangsu CN 215163 "
 CID,CA3782,"Storbyte, Inc.",1800 Washington Blvd Suite 412 Baltimore MD US 21230 
 CID,AA34D4,CDVI Wireless SpA,via Piave 23 San Pietro di Feletto Treviso IT 31020 
+CID,6AE732,"UNIS-WDC Storage Co.,Ltd","1202 Block B, Truth Plaza, No.7 ZhiChun Road, HaiDian District Beijing Beijing CN 100191 "
+CID,BA07DA,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
+CID,7A4D2F,Open Compute Project,"13785 Research Blvd, Suite 125 Austin TX US 78750 "
+CID,8A0AF7,"Montage Technology Co,.LTD","6/F, BlockA, Technology Building,900 Yishan Road, Shanghai  CN 200233 "
+CID,CA1E45,ASMedia Technology Inc.,"6F, No.115, Minquan Rd., New Taipei City  TW 23141 "

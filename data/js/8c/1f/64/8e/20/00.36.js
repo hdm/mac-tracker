@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f648e2000/36",[{"d":"2021-08-01","t":"add","s":"ieee-oui36.csv","a":"Product Development Department, Housing Hardware Devision Yokohama Kanagawa JP 236-0004","c":"JP","o":"ALPHA Corporation"}]);

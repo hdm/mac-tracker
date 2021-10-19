@@ -1,0 +1,1 @@
+deepmacDetailCallback("f4700c800000/28",[{"d":"2021-09-04","t":"add","s":"ieee-mam.csv","a":"209, Integrated Circuit Industrial Park, Chaguang Road, Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Focuscom Communication Technology Co.,Ltd."}]);

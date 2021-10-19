@@ -1,0 +1,1 @@
+deepmacDetailCallback("a85b36c00000/28",[{"d":"2021-04-28","t":"add","s":"ieee-mam.csv","a":"Floor 5,Building 1,HongYe Industry Park,Baoan district Shenzhen Guangdong CN 518100","c":"CN","o":"ATER Technologies Co Ltd"}]);

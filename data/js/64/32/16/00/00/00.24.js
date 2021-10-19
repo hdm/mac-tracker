@@ -1,0 +1,1 @@
+deepmacDetailCallback("643216000000/24",[{"d":"2021-08-01","t":"add","s":"ieee-oui.csv","a":"1129-106, 11F, No.18 Zhongguancun Street, Haidian District, Beijing  CN 100080","c":"CN","o":"Weidu Technology (Beijing) Co., Ltd."}]);

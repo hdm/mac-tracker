@@ -1,0 +1,1 @@
+deepmacDetailCallback("a439b6000000/24",[{"d":"2021-01-13","t":"add","s":"ieee-oui.csv","a":"1110 Nanshan Street, Nanshan District, Shenzhen, China Petroleum Building 2012 Shenzhen  CN 518000","c":"CN","o":"SHENZHEN PEIZHE MICROELECTRONICS CO .LTD"}]);

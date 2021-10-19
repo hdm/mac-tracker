@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f64575000/36",[{"d":"2021-05-16","t":"add","s":"ieee-oui36.csv","a":"No 8 , Gongye 2nd Rd., Renwu Industry Park Kaohsiung Kaohsiung City TW 814","c":"TW","o":"Yu-Heng Electric Co., LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("9880bbc00000/28",[{"d":"2021-08-13","t":"add","s":"ieee-mam.csv","a":"First and Third Floor of Building B,Building A, NO. 90 Nanpu Road, Shajing Street, Baoan District Shenzhen  CN 518000","c":"CN","o":"Shenzhen Xin Kingbrand Enterprises Co., Ltd"}]);

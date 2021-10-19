@@ -1,0 +1,1 @@
+deepmacDetailCallback("1874e2e00000/28",[{"d":"2021-04-04","t":"add","s":"ieee-mam.csv","a":"3005, No.15-3, Haitian Road, Building C, N23 Excellence Times Square, Haiwang Community, Xin 'an Street, Bao 'an District Shenzhen  CN 518000","c":"CN","o":"G&O Audio Co.,LTD"}]);

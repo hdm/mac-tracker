@@ -1,0 +1,1 @@
+deepmacDetailCallback("1ca0ef100000/28",[{"d":"2021-02-09","t":"add","s":"ieee-mam.csv","a":"102/111-112  Mooban  Sinpattanatanee,, Tessabansongkroh  Road.,     Ladyao,  Jatujak, Jatujak Bangkok Metropolis TH 10900","c":"TH","o":"Wisnu and Supak Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0fbf9200000/28",[{"d":"2021-03-13","t":"add","s":"ieee-mam.csv","a":"No.43 Songshui Road,Songmushan Village, Dalang Town Dongguan Guangdong CN 523795","c":"CN","o":"Dongguan Chuan OptoElectronics Limited"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("38a8cdb00000/28",[{"d":"2021-07-09","t":"add","s":"ieee-mam.csv","a":"No.218, Qianwangang Road, Qingdao Economic Development Zone, China Qingdao  CN 266510","c":"CN","o":"Qingdao Hisense Hitachi Air-conditioning Systems Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("70b9bb000000/24",[{"d":"2021-07-10","t":"add","s":"ieee-oui.csv","a":"Huolibao Building, Gaoxin North Sixth Road, Nanshan District, Shenzhen Shenzhen  CN 518000","c":"CN","o":"Shenzhen Hankvision Technology CO.,LTD"}]);

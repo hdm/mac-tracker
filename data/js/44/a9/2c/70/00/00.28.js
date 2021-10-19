@@ -1,0 +1,1 @@
+deepmacDetailCallback("44a92c700000/28",[{"d":"2021-05-23","t":"add","s":"ieee-mam.csv","a":"Unit 1004 - 7495 132nd Street Surrey British Columbia CA V3W1J8","c":"CA","o":"Efficient Building Automation Corp."}]);

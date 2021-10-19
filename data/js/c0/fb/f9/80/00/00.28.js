@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0fbf9800000/28",[{"d":"2021-03-12","t":"add","s":"ieee-mam.csv","a":"Floor 1, pool-side building, Villa district, Jiuwei Xiange Musical Instrument Co. , Ltd. , Jiuwei community, Hangcheng Street, Bao 'an district Shenzhen Guangdong CN 518000","c":"CN","o":"Dongmengling"}]);

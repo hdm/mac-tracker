@@ -1,0 +1,1 @@
+deepmacDetailCallback("283613200000/28",[{"d":"2021-06-16","t":"add","s":"ieee-mam.csv","a":"3/F,Building 8 ,Taihua Wutong Island,Xixiang,Bao'an District China Guang Dong CN 518000","c":"CN","o":"Shenzhen HQVT TECHNOLOGY Co.,LTD"}]);

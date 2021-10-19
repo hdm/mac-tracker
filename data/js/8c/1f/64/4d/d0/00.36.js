@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f644dd000/36",[{"d":"2021-04-07","t":"add","s":"ieee-oui36.csv","a":"Shewale Center  B MIDC Pimpri Colony Pimpri Chinchwad Maharashtra IN 411019","c":"IN","o":"Griffyn Robotech Private Limited"}]);

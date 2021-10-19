@@ -1,0 +1,1 @@
+deepmacDetailCallback("c0fbf9400000/28",[{"d":"2021-03-11","t":"add","s":"ieee-mam.csv","a":"4105, Minami Yamata-cho, Tsuzuki-ku, YOKOHAMA Kanagawa JP 224-0026","c":"JP","o":"Minato Advanced Technologies inc"}]);

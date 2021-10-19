@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f64b22000/36",[{"d":"2021-10-13","t":"add","s":"ieee-oui36.csv","a":"Iceni House, London Road, Great Chesterford Saffron Walden Essex GB CB10 1NY","c":"GB","o":"BLIGHTER SURVEILLANCE SYSTEMS LTD"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("6433b5300000/28",[{"d":"2021-06-09","t":"add","s":"ieee-mam.csv","a":"No.777,Yazhong Road,Nanhu District Jiaxing Zhejiang CN 314001","c":"CN","o":"Wingtech Mobile Communications Co.,Ltd"}]);

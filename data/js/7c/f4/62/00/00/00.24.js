@@ -1,0 +1,1 @@
+deepmacDetailCallback("7cf462000000/24",[{"d":"2021-03-17","t":"add","s":"ieee-oui.csv","a":"A411-3, floor 3, block A, 9 Shangdi 3rd Street, Haidian District, Beijing beijing  CN 100094","c":"CN","o":"BEIJING HUAWOO TECHNOLOGIES CO.LTD"}]);

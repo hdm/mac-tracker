@@ -1,0 +1,1 @@
+deepmacDetailCallback("584849e00000/28",[{"d":"2021-06-04","t":"add","s":"ieee-mam.csv","a":"4F.-10, No.351, Sec. 2, Zhongshan Rd., Zhonghe Dist. New Taipei City  TW 23504","c":"TW","o":"Avadesign Technology Co. Ltd."}]);

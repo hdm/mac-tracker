@@ -1,0 +1,1 @@
+deepmacDetailCallback("48188d000000/24",[{"d":"2021-04-29","t":"add","s":"ieee-oui.csv","a":"Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China Weifang Shandong CN 261205","c":"CN","o":"WEIFANG GOERTEK ELECTRONICS CO.,LTD"}]);

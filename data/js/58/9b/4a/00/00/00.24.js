@@ -1,0 +1,1 @@
+deepmacDetailCallback("589b4a000000/24",[{"d":"2021-09-05","t":"add","s":"ieee-oui.csv","a":"No.8,Tangzhuang Road, Suzhou Industrial Park, Jiangsu, China Suzhou  CN 21500","c":"CN","o":"DWnet Technologies(Suzhou) Corporation"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("6444d5000000/24",[{"d":"2021-08-25","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"}]);

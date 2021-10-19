@@ -1,0 +1,1 @@
+deepmacDetailCallback("64dcde000000/24",[{"d":"2021-04-22","t":"add","s":"ieee-oui.csv","a":"608 Golf Road, Dongzhou Street, Fuyang District, Hangzhou City, Zhejiang Province, China Hangzhou City Zhejiang Province CN 311400","c":"CN","o":"ZheJiang FuChunJiang Information Technology Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f64d78000/36",[{"d":"2021-07-30","t":"add","s":"ieee-oui36.csv","a":"Yueliangdao street, Wangcheng District Changsha  CN 410200","c":"CN","o":"Hunan Oushi Electronic Technology Co.,Ltd"}]);

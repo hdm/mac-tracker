@@ -1,0 +1,1 @@
+deepmacDetailCallback("08f80d200000/28",[{"d":"2021-10-15","t":"add","s":"ieee-mam.csv","a":"29th,30th,31st and 32nd floors,701 Yunjin Road, Xuhui District Shanghai  CN 200232","c":"CN","o":"Shanghai Mininglamp AI Group Co.,Ltd"}]);

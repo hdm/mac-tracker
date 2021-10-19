@@ -1,0 +1,1 @@
+deepmacDetailCallback("38a8cd300000/28",[{"d":"2021-07-14","t":"add","s":"ieee-mam.csv","a":"No.1 Rongwen Road, Dongguan Changan, Guangdong, China 523842 Dongguan Guangdong CN 523842","c":"CN","o":"Dongguan Fyrnetics Co., Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("781305d00000/28",[{"d":"2021-04-16","t":"add","s":"ieee-mam.csv","a":"Room 9, Building 15, Huatai Center Jinyun Rd Shanghai  CN 201803","c":"CN","o":"Shanghai Siminics Optoelectronic Technology Co., Ltd"}]);

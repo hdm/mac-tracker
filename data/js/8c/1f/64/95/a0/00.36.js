@@ -1,0 +1,1 @@
+deepmacDetailCallback("8c1f6495a000/36",[{"d":"2021-06-04","t":"add","s":"ieee-oui36.csv","a":"Building A5 , Silicon Valley Power Industrial Park, No.334, Guiyue Road, Guanlan Shenzhen Guangdong CN 518110","c":"CN","o":"Shenzhen Longyun Lighting Electric Appliances Co., Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("9880bb100000/28",[{"d":"2021-08-21","t":"add","s":"ieee-mam.csv","a":"No.5,3rd EastRoad,ChangshaEconomic and TechnologicalDevelopment Zone,Hunan,Chian Changsha Hunan CN 410000","c":"CN","o":"GreatWall Information Co.,Ltd"}]);

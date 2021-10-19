@@ -1,0 +1,1 @@
+deepmacDetailCallback("942957000000/24",[{"d":"2021-08-03","t":"add","s":"ieee-oui.csv","a":"Room 209,Building 3, Jianda Industrial Park, Xin an San Lu, Baoan District, shenzhen GuangDong CN 518000","c":"CN","o":"Airpo Networks Technology Co.,Ltd."}]);

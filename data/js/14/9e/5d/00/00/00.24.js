@@ -1,0 +1,1 @@
+deepmacDetailCallback("149e5d000000/24",[{"d":"2021-10-07","t":"add","s":"ieee-oui.csv","a":"Varshavskoe shosse, 125, bld. 1, s. 3, fl. 6, room 10/23 Moscow  RU 117587","c":"RU","o":"JSC \"IB Reform\""}]);

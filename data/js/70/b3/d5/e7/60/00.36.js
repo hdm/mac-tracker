@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5e76000/36",[{"a":"Yadkinville NC US 27055","o":"Dorsett Technologies, Inc.","d":"2015-05-31","t":"add","s":"ieee","c":"US"}]);
+deepmacDetailCallback("70b3d5e76000/36",[{"a":"Yadkinville NC US 27055","o":"Dorsett Technologies, Inc.","d":"2015-05-31","t":"add","s":"ieee","c":"US"},{"d":"2021-08-14","t":"change","s":"ieee-oui36.csv","a":"Yadkinville NC US 27055","c":"US","o":"Dorsett Technologies Inc"}]);

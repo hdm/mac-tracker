@@ -1,0 +1,1 @@
+deepmacDetailCallback("f02a2bd00000/28",[{"d":"2021-05-13","t":"add","s":"ieee-mam.csv","a":"2F., No. 48, Da'an St., Xizhi Dist., New Taipei City Taiwan (R.O.C.) TW 221041","c":"TW","o":"Definitely Win Corp.,Ltd."}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("f4700c200000/28",[{"d":"2021-09-09","t":"add","s":"ieee-mam.csv","a":"11th Floor Block A, Beijing Normal University Science & Technology Mansion, No.12 Xueyuan South Road,Haidian District,Beijing, China Beijing  CN 100088","c":"CN","o":"Beijing ASU Tech Co., Ltd."}]);

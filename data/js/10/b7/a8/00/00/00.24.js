@@ -1,0 +1,1 @@
+deepmacDetailCallback("10b7a8000000/24",[{"d":"2021-07-08","t":"add","s":"ieee-oui.csv","a":"G6, Magdalen Centre, The Oxford Science Park, Robert Robinson Avenue Oxford --- GB OX4 4GA","c":"GB","o":"CableFree Networks Limited"}]);

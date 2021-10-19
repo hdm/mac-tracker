@@ -1,0 +1,1 @@
+deepmacDetailCallback("906a94000000/24",[{"d":"2021-06-18","t":"add","s":"ieee-oui.csv","a":"Room 412, Building 2, No.2930, Nanhuan Road, Binjiang District hangzhou zhejiang CN 310052","c":"CN","o":"hangzhou huacheng network technology co., ltd"}]);

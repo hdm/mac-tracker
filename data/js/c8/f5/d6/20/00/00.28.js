@@ -1,0 +1,1 @@
+deepmacDetailCallback("c8f5d6200000/28",[{"d":"2021-03-10","t":"add","s":"ieee-mam.csv","a":"26F.-12, No.99, Sec. 1, Xintai 5th Rd., Xizhi Dist., New Taipei   TW 22175","c":"TW","o":"Qbic Technology Co., Ltd"}]);

@@ -1,0 +1,1 @@
+deepmacDetailCallback("e87829500000/28",[{"d":"2021-04-14","t":"add","s":"ieee-mam.csv","a":"Room 1106,11th floor, National Technology Building, no. 109, Baoshen Road, Songpingshan community, Xili Street, Nanshan district, Shenzhen City SHENZHEN GUANGDONG CN 518000","c":"CN","o":"SHEN ZHEN SKYSI WISDOM TECHNOLOGY CO.,LTD."}]);
