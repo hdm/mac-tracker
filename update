@@ -9,7 +9,7 @@ require "csv"
 require 'fileutils'
 
 #
-# Deepmac Tracker
+# MAC Tracker
 #
 @data = {}
 @today = Time.now.strftime("%Y-%m-%d")
@@ -78,7 +78,7 @@ def squash_cosmetic_changes(str)
 end
 
 def load_current
-	@data = JSON.parse(File.read(File.join(@based, "data", "deepmac.json")))
+	@data = JSON.parse(File.read(File.join(@based, "data", "macs.json")))
 end
 
 def load_ieee_urls
@@ -141,7 +141,7 @@ end
 
 def write_results
 	jdata = JSON.dump(@data)
-	File.open(File.join(@based, "data", "deepmac.json"), "wb") do |fd|
+	File.open(File.join(@based, "data", "macs.json"), "wb") do |fd|
 		fd.write(jdata)
 	end
 
@@ -157,13 +157,13 @@ def write_results
 		FileUtils.mkdir_p(dname)
 		jdata = JSON.dump(v)
 		File.open(dpath, "wb") do |fd|
-			fd.puts "deepmacDetailCallback(\"#{k}\"," + jdata + ");\n"
+			fd.puts "macDetailCallback(\"#{k}\"," + jdata + ");\n"
 		end
 	end
 	
 	jdata = JSON.dump(entries)
-	File.open(File.join(@based, "data", "js", "deepmac.js"), "wb") do |fd|
-		fd.write("var deepmacData = " + jdata + ";\n")
+	File.open(File.join(@based, "data", "js", "mac.js"), "wb") do |fd|
+		fd.write("var macData = " + jdata + ";\n")
 	end
 end
 
