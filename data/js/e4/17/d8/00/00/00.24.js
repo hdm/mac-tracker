@@ -1,1 +1,1 @@
-deepmacDetailCallback("e417d8000000/24",[{"d":"2016-04-19","t":"add","a":"Rooms 1318-19, 13/F, Hollywood Plaza, 610 Nathan Road, Mongkok, Kowloon, Hong Kong Hong Kong Hong Kong CN 000000","c":"CN","o":"8BITDO TECHNOLOGY HK LIMITED"}]);
+macDetailCallback("e417d8000000/24",[{"d":"2016-04-19","t":"add","a":"Rooms 1318-19, 13/F, Hollywood Plaza, 610 Nathan Road, Mongkok, Kowloon, Hong Kong Hong Kong Hong Kong CN 000000","c":"CN","o":"8BITDO TECHNOLOGY HK LIMITED"}]);

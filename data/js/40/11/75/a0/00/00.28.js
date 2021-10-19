@@ -1,1 +1,1 @@
-deepmacDetailCallback("401175a00000/28",[{"d":"2019-07-04","t":"add","s":"ieee-mam.csv","a":"1st Floor ,C Block,NO.225,Jinger Road ,Konggang Economic District,Tianjin 300308 ,China Tianjin  CN 300000","c":"CN","o":"BWT Tianjin Ltd."}]);
+macDetailCallback("401175a00000/28",[{"d":"2019-07-04","t":"add","s":"ieee-mam.csv","a":"1st Floor ,C Block,NO.225,Jinger Road ,Konggang Economic District,Tianjin 300308 ,China Tianjin  CN 300000","c":"CN","o":"BWT Tianjin Ltd."}]);

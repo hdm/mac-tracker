@@ -1,1 +1,1 @@
-deepmacDetailCallback("0cfe5de00000/28",[{"a":"2F., No.200, Sec. 2, Gaotie N. Rd., Dayuan Dist., Taoyuan City 337, Taiwan (R.O.C.) Taoyuan City  TW 33743","o":"NEWGREEN TECH CO., LTD.","d":"2018-08-19","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("0cfe5de00000/28",[{"a":"2F., No.200, Sec. 2, Gaotie N. Rd., Dayuan Dist., Taoyuan City 337, Taiwan (R.O.C.) Taoyuan City  TW 33743","o":"NEWGREEN TECH CO., LTD.","d":"2018-08-19","t":"add","s":"ieee","c":"TW"}]);

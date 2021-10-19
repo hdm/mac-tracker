@@ -1,1 +1,1 @@
-deepmacDetailCallback("001442000000/24",[{"d":"2005-04-07","t":"add","a":"1-25-23 Hongo,\nBunkyo-ku,\nTokyo 113-8425\n","c":"JAPAN","o":"ATTO CORPORATION"},{"d":"2015-08-27","t":"change","a":"1-25-23 Hongo,  Tokyo JP 113-8425","c":"JP","o":"ATTO CORPORATION"}]);
+macDetailCallback("001442000000/24",[{"d":"2005-04-07","t":"add","a":"1-25-23 Hongo,\nBunkyo-ku,\nTokyo 113-8425\n","c":"JAPAN","o":"ATTO CORPORATION"},{"d":"2015-08-27","t":"change","a":"1-25-23 Hongo,  Tokyo JP 113-8425","c":"JP","o":"ATTO CORPORATION"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("241510a00000/28",[{"d":"2019-06-01","t":"add","s":"ieee-mam.csv","a":"7th floor,Building 7,ZhongYunTai industy Park, Tangtou 1st Road,Bao'an District. Shenzhen Guangdong CN 518108","c":"CN","o":"Unitronux(Shenzhen) Intelligence Technology Co.,Ltd"}]);
+macDetailCallback("241510a00000/28",[{"d":"2019-06-01","t":"add","s":"ieee-mam.csv","a":"7th floor,Building 7,ZhongYunTai industy Park, Tangtou 1st Road,Bao'an District. Shenzhen Guangdong CN 518108","c":"CN","o":"Unitronux(Shenzhen) Intelligence Technology Co.,Ltd"}]);

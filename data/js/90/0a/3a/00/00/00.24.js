@@ -1,1 +1,1 @@
-deepmacDetailCallback("900a3a000000/24",[{"d":"2011-11-15","t":"add","a":"Pinaer Str. 12-16\nMannheim BW 68309\n\n","c":"GERMANY","o":"PSG Plastic Service GmbH"},{"d":"2015-08-27","t":"change","a":"Pinaer Str. 12-16 Mannheim BW DE 68309","c":"DE","o":"PSG Plastic Service GmbH"}]);
+macDetailCallback("900a3a000000/24",[{"d":"2011-11-15","t":"add","a":"Pinaer Str. 12-16\nMannheim BW 68309\n\n","c":"GERMANY","o":"PSG Plastic Service GmbH"},{"d":"2015-08-27","t":"change","a":"Pinaer Str. 12-16 Mannheim BW DE 68309","c":"DE","o":"PSG Plastic Service GmbH"}]);

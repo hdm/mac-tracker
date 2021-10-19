@@ -1,1 +1,1 @@
-deepmacDetailCallback("549a4c000000/24",[{"d":"2017-08-25","t":"add","a":"8F,12#, Taihua Industrial Park, Hangkong Rd., Gushu， Baoan District Shenzhen Guangdong CN 518128","c":"CN","o":"GUANGDONG HOMECARE TECHNOLOGY CO.,LTD."}]);
+macDetailCallback("549a4c000000/24",[{"d":"2017-08-25","t":"add","a":"8F,12#, Taihua Industrial Park, Hangkong Rd., Gushu， Baoan District Shenzhen Guangdong CN 518128","c":"CN","o":"GUANGDONG HOMECARE TECHNOLOGY CO.,LTD."}]);

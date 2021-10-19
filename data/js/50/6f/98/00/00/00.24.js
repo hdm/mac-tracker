@@ -1,1 +1,1 @@
-deepmacDetailCallback("506f98000000/24",[{"d":"2017-08-30","t":"add","a":"E-112A, Kataria Colony, Ramanagar Extension, New Sanganer Road, Sodala, Jaipur-302019 Jaipur Rajasthan IN 302019","c":"IN","o":"Sehaj Synergy Technologies Private Limited"}]);
+macDetailCallback("506f98000000/24",[{"d":"2017-08-30","t":"add","a":"E-112A, Kataria Colony, Ramanagar Extension, New Sanganer Road, Sodala, Jaipur-302019 Jaipur Rajasthan IN 302019","c":"IN","o":"Sehaj Synergy Technologies Private Limited"}]);

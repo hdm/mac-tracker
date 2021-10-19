@@ -1,1 +1,1 @@
-deepmacDetailCallback("b8208e000000/24",[{"d":"2021-08-04","t":"add","s":"ieee-oui.csv","a":"4-1-62 Minoshima, Hakata-ku Fukuoka-shi Fukuoka JP 812-8531","c":"JP","o":"Panasonic Corporation  Connected Solutions Company"}]);
+macDetailCallback("b8208e000000/24",[{"d":"2021-08-04","t":"add","s":"ieee-oui.csv","a":"4-1-62 Minoshima, Hakata-ku Fukuoka-shi Fukuoka JP 812-8531","c":"JP","o":"Panasonic Corporation  Connected Solutions Company"}]);

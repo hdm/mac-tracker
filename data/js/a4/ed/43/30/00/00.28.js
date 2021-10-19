@@ -1,1 +1,1 @@
-deepmacDetailCallback("a4ed43300000/28",[{"a":"NO.93,188 Industrial Road, Pingshan Village,Tangxia Town, Dongguan city, Guangdong Province , China. DONGGUAN GUANGDONG CN 523710","o":"Dongguan Mingji Electronics technology Group Co., Ltd.","d":"2018-06-17","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("a4ed43300000/28",[{"a":"NO.93,188 Industrial Road, Pingshan Village,Tangxia Town, Dongguan city, Guangdong Province , China. DONGGUAN GUANGDONG CN 523710","o":"Dongguan Mingji Electronics technology Group Co., Ltd.","d":"2018-06-17","t":"add","s":"ieee","c":"CN"}]);

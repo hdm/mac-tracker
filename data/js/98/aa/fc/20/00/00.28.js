@@ -1,1 +1,1 @@
-deepmacDetailCallback("98aafc200000/28",[{"a":"B，4-4Factory,Zhengcheng Road, Fuyong Baoan District, Shenzhen  CN 518103","o":"Shenzhen UniStrong Science & Technology Co., Ltd","d":"2016-12-25","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("98aafc200000/28",[{"a":"B，4-4Factory,Zhengcheng Road, Fuyong Baoan District, Shenzhen  CN 518103","o":"Shenzhen UniStrong Science & Technology Co., Ltd","d":"2016-12-25","t":"add","s":"ieee","c":"CN"}]);

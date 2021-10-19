@@ -1,1 +1,1 @@
-deepmacDetailCallback("98c3d2000000/24",[{"d":"2020-12-31","t":"add","s":"ieee-oui.csv","a":"No.26 FengWan Road,Cicheng Town,Jiangbei District,Ningbo,China  Ningbo  CN 315029","c":"CN","o":"Ningbo Sanxing Medical Electric Co.,Ltd"}]);
+macDetailCallback("98c3d2000000/24",[{"d":"2020-12-31","t":"add","s":"ieee-oui.csv","a":"No.26 FengWan Road,Cicheng Town,Jiangbei District,Ningbo,China  Ningbo  CN 315029","c":"CN","o":"Ningbo Sanxing Medical Electric Co.,Ltd"}]);

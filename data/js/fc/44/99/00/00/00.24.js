@@ -1,1 +1,1 @@
-deepmacDetailCallback("fc4499000000/24",[{"d":"2013-02-14","t":"add","a":"Finzgarjeva 1A\nLesce  4248\n\n","c":"SLOVENIA","o":"Swarco LEA d.o.o."},{"d":"2015-08-27","t":"change","a":"Finzgarjeva 1A Lesce  SI 4248","c":"SI","o":"Swarco LEA d.o.o."}]);
+macDetailCallback("fc4499000000/24",[{"d":"2013-02-14","t":"add","a":"Finzgarjeva 1A\nLesce  4248\n\n","c":"SLOVENIA","o":"Swarco LEA d.o.o."},{"d":"2015-08-27","t":"change","a":"Finzgarjeva 1A Lesce  SI 4248","c":"SI","o":"Swarco LEA d.o.o."}]);

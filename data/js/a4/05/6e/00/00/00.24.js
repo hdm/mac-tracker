@@ -1,1 +1,1 @@
-deepmacDetailCallback("a4056e000000/24",[{"d":"2021-02-04","t":"add","s":"ieee-oui.csv","a":"35F,Tower A,Tanglang City,3333 Liuxian Avenue,Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Tiinlab Corporation"}]);
+macDetailCallback("a4056e000000/24",[{"d":"2021-02-04","t":"add","s":"ieee-oui.csv","a":"35F,Tower A,Tanglang City,3333 Liuxian Avenue,Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Tiinlab Corporation"}]);

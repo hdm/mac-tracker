@@ -1,1 +1,1 @@
-deepmacDetailCallback("0021b3000000/24",[{"d":"2008-06-18","t":"add","a":"One Ross Way\nLavonia GA 30553\n\n","c":"UNITED STATES","o":"Ross Controls","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"One Ross Way Lavonia GA US 30553","c":"US","o":"Ross Controls"}]);
+macDetailCallback("0021b3000000/24",[{"d":"2008-06-18","t":"add","a":"One Ross Way\nLavonia GA 30553\n\n","c":"UNITED STATES","o":"Ross Controls","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"One Ross Way Lavonia GA US 30553","c":"US","o":"Ross Controls"}]);

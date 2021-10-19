@@ -1,1 +1,1 @@
-deepmacDetailCallback("e4db6d000000/24",[{"d":"2018-05-18","t":"add","a":"Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District Beijing Beijing CN 10085","c":"CN","o":"Beijing Xiaomi Electronics Co., Ltd."}]);
+macDetailCallback("e4db6d000000/24",[{"d":"2018-05-18","t":"add","a":"Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District Beijing Beijing CN 10085","c":"CN","o":"Beijing Xiaomi Electronics Co., Ltd."}]);

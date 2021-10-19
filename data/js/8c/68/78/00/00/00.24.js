@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c6878000000/24",[{"d":"2011-12-07","t":"add","a":"Vangkroken 2\nAkreshus 1351 RUD\n\n","c":"NORWAY","o":"Nortek-AS"},{"d":"2015-08-27","t":"change","a":"Vangkroken 2  Akreshus NO 1351 RUD","c":"NO","o":"Nortek-AS"}]);
+macDetailCallback("8c6878000000/24",[{"d":"2011-12-07","t":"add","a":"Vangkroken 2\nAkreshus 1351 RUD\n\n","c":"NORWAY","o":"Nortek-AS"},{"d":"2015-08-27","t":"change","a":"Vangkroken 2  Akreshus NO 1351 RUD","c":"NO","o":"Nortek-AS"}]);

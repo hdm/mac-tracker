@@ -1,1 +1,1 @@
-deepmacDetailCallback("fc6dc0000000/24",[{"d":"2014-05-20","t":"add","a":"147-2\nKawagoe-shi Saitama 350-0845\n\n","c":"JAPAN","o":"BME CORPORATION"},{"d":"2015-08-27","t":"change","a":"147-2 Kawagoe-shi Saitama JP 350-0845","c":"JP","o":"BME CORPORATION"}]);
+macDetailCallback("fc6dc0000000/24",[{"d":"2014-05-20","t":"add","a":"147-2\nKawagoe-shi Saitama 350-0845\n\n","c":"JAPAN","o":"BME CORPORATION"},{"d":"2015-08-27","t":"change","a":"147-2 Kawagoe-shi Saitama JP 350-0845","c":"JP","o":"BME CORPORATION"}]);

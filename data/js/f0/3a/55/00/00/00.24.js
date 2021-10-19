@@ -1,1 +1,1 @@
-deepmacDetailCallback("f03a55000000/24",[{"d":"2011-10-20","t":"add","a":"Ege Serbest Bolgesi\nIzmir  35410\n\n","c":"TURKEY","o":"Omega Elektronik AS"},{"d":"2015-08-27","t":"change","a":"Ege Serbest Bolgesi Izmir  TR 35410","c":"TR","o":"Omega Elektronik AS"}]);
+macDetailCallback("f03a55000000/24",[{"d":"2011-10-20","t":"add","a":"Ege Serbest Bolgesi\nIzmir  35410\n\n","c":"TURKEY","o":"Omega Elektronik AS"},{"d":"2015-08-27","t":"change","a":"Ege Serbest Bolgesi Izmir  TR 35410","c":"TR","o":"Omega Elektronik AS"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("b44bd6600000/28",[{"a":"4F, 1326#, West YanAn road, Shanghai, P.R.China ShangHai ShangHai CN 200052","o":"Perspicace Intellegince Technology","d":"2018-04-08","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("b44bd6600000/28",[{"a":"4F, 1326#, West YanAn road, Shanghai, P.R.China ShangHai ShangHai CN 200052","o":"Perspicace Intellegince Technology","d":"2018-04-08","t":"add","s":"ieee","c":"CN"}]);

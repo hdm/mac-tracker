@@ -1,1 +1,1 @@
-deepmacDetailCallback("001b16000000/24",[{"d":"2007-01-16","t":"add","a":"Azorim Business Park\n94 Em Hmoshavot Road.\nPetach Tikva  49527\n","c":"ISRAEL","o":"Celtro Ltd."},{"d":"2015-08-27","t":"change","a":"Azorim Business Park Petach Tikva  IL 49527","c":"IL","o":"Celtro Ltd."}]);
+macDetailCallback("001b16000000/24",[{"d":"2007-01-16","t":"add","a":"Azorim Business Park\n94 Em Hmoshavot Road.\nPetach Tikva  49527\n","c":"ISRAEL","o":"Celtro Ltd."},{"d":"2015-08-27","t":"change","a":"Azorim Business Park Petach Tikva  IL 49527","c":"IL","o":"Celtro Ltd."}]);

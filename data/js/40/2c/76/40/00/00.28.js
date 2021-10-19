@@ -1,1 +1,1 @@
-deepmacDetailCallback("402c76400000/28",[{"d":"2019-10-25","t":"add","s":"ieee-mam.csv","a":"Room 505, unit 2, 5th floor, 12th building, 3rd yard , Kangze road, Fangshan district Beijing Beijing CN 102488","c":"CN","o":"Beijing Smarot Technology Co., Ltd."}]);
+macDetailCallback("402c76400000/28",[{"d":"2019-10-25","t":"add","s":"ieee-mam.csv","a":"Room 505, unit 2, 5th floor, 12th building, 3rd yard , Kangze road, Fangshan district Beijing Beijing CN 102488","c":"CN","o":"Beijing Smarot Technology Co., Ltd."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5bb2000/36",[{"a":"5 Barr Rd Ithaca NY US 14850","o":"Mettler Toledo Hi Speed","d":"2014-03-02","t":"add","s":"ieee","c":"US"},{"d":"2019-10-03","t":"change","s":"ieee-oui36.csv","a":"1571 Northpointe Parkway Lutz FL US 33558","c":"US","o":"Mettler Toledo"}]);
+macDetailCallback("70b3d5bb2000/36",[{"a":"5 Barr Rd Ithaca NY US 14850","o":"Mettler Toledo Hi Speed","d":"2014-03-02","t":"add","s":"ieee","c":"US"},{"d":"2019-10-03","t":"change","s":"ieee-oui36.csv","a":"1571 Northpointe Parkway Lutz FL US 33558","c":"US","o":"Mettler Toledo"}]);

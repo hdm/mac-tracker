@@ -1,1 +1,1 @@
-deepmacDetailCallback("70886bb00000/28",[{"d":"2015-09-02","t":"add","a":"No. 12 Yard, Zhong Guan Cun South St.  Beijing Beijing CN 100081","c":"CN","o":"Beijing Strongleader Science & Technology Co., Ltd."}]);
+macDetailCallback("70886bb00000/28",[{"d":"2015-09-02","t":"add","a":"No. 12 Yard, Zhong Guan Cun South St.  Beijing Beijing CN 100081","c":"CN","o":"Beijing Strongleader Science & Technology Co., Ltd."}]);

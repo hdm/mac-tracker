@@ -1,1 +1,1 @@
-deepmacDetailCallback("7c96d2000000/24",[{"d":"2018-03-02","t":"add","a":"The Frist Building ,ShangKeng Industrial Zone,  Changping Town Dongguan Guangdong CN 523560","c":"CN","o":"Fihonest communication co.,Ltd"}]);
+macDetailCallback("7c96d2000000/24",[{"d":"2018-03-02","t":"add","a":"The Frist Building ,ShangKeng Industrial Zone,  Changping Town Dongguan Guangdong CN 523560","c":"CN","o":"Fihonest communication co.,Ltd"}]);

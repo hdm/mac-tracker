@@ -1,1 +1,1 @@
-deepmacDetailCallback("90027a000000/24",[{"d":"2020-11-11","t":"add","s":"ieee-oui.csv","a":"Room202, 2nd floor, Jianghao commercial center, Jianghao Industrial area,Jihua road 430, Bantian, Longgang Shenzhen  CN 518129","c":"CN","o":"Shenzhen Sworix Techonlogy Co., Ltd"}]);
+macDetailCallback("90027a000000/24",[{"d":"2020-11-11","t":"add","s":"ieee-oui.csv","a":"Room202, 2nd floor, Jianghao commercial center, Jianghao Industrial area,Jihua road 430, Bantian, Longgang Shenzhen  CN 518129","c":"CN","o":"Shenzhen Sworix Techonlogy Co., Ltd"}]);

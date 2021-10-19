@@ -1,1 +1,1 @@
-deepmacDetailCallback("000a5b000000/24",[{"d":"2002-08-03","t":"add","a":"P.O. Box 1543\nDrammen  3007\n\n","c":"NORWAY","o":"Power-One as","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O. Box 1543 Drammen  NO 3007","c":"NO","o":"Power-One as"}]);
+macDetailCallback("000a5b000000/24",[{"d":"2002-08-03","t":"add","a":"P.O. Box 1543\nDrammen  3007\n\n","c":"NORWAY","o":"Power-One as","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O. Box 1543 Drammen  NO 3007","c":"NO","o":"Power-One as"}]);

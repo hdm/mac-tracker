@@ -1,1 +1,1 @@
-deepmacDetailCallback("300ac5000000/24",[{"d":"2018-01-17","t":"add","a":"Room 2501, Broadegate Software Building, No,1003 Keyuan Road, Shenzhen guangdong CN 518000","c":"CN","o":"Ruio telecommunication technologies Co., Limited"}]);
+macDetailCallback("300ac5000000/24",[{"d":"2018-01-17","t":"add","a":"Room 2501, Broadegate Software Building, No,1003 Keyuan Road, Shenzhen guangdong CN 518000","c":"CN","o":"Ruio telecommunication technologies Co., Limited"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("1cc0e1700000/28",[{"a":"5F, A2 Building ,XinJianXing Tech Industrial Park,Fengxin Road ,Lou Cun , Gongming Street,Guangming New Dist.,  Shenzhen Guangdong CN 518000","o":"SHENZHEN KINSTONE D&T DEVELOP CO.,LTD","d":"2016-07-31","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("1cc0e1700000/28",[{"a":"5F, A2 Building ,XinJianXing Tech Industrial Park,Fengxin Road ,Lou Cun , Gongming Street,Guangming New Dist.,  Shenzhen Guangdong CN 518000","o":"SHENZHEN KINSTONE D&T DEVELOP CO.,LTD","d":"2016-07-31","t":"add","s":"ieee","c":"CN"}]);

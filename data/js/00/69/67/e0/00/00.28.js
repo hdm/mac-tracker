@@ -1,1 +1,1 @@
-deepmacDetailCallback("006967e00000/28",[{"d":"2019-09-28","t":"add","s":"ieee-mam.csv","a":"Room 201, 2nd floor, Building 8, No.35, Caizhi Street, Xuefu Industrial Zone, Xiqing District Tianjin Tianjin CN 300380","c":"CN","o":"Tianjin Lianwu Technology Co., Ltd."}]);
+macDetailCallback("006967e00000/28",[{"d":"2019-09-28","t":"add","s":"ieee-mam.csv","a":"Room 201, 2nd floor, Building 8, No.35, Caizhi Street, Xuefu Industrial Zone, Xiqing District Tianjin Tianjin CN 300380","c":"CN","o":"Tianjin Lianwu Technology Co., Ltd."}]);

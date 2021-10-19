@@ -1,1 +1,1 @@
-deepmacDetailCallback("0026e9000000/24",[{"d":"2009-07-22","t":"add","a":"Guro 3-dong ,Guro-gu\nAce Techno 8 Cha 1305\nSeoul  152-780\n","c":"KOREA, REPUBLIC OF","o":"SP Corp"},{"d":"2015-08-27","t":"change","a":"Guro 3-dong ,Guro-gu Seoul  KR 152-780","c":"KR","o":"SP Corp"}]);
+macDetailCallback("0026e9000000/24",[{"d":"2009-07-22","t":"add","a":"Guro 3-dong ,Guro-gu\nAce Techno 8 Cha 1305\nSeoul  152-780\n","c":"KOREA, REPUBLIC OF","o":"SP Corp"},{"d":"2015-08-27","t":"change","a":"Guro 3-dong ,Guro-gu Seoul  KR 152-780","c":"KR","o":"SP Corp"}]);

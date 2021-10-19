@@ -1,1 +1,1 @@
-deepmacDetailCallback("b0b353900000/28",[{"d":"2019-11-26","t":"add","s":"ieee-mam.csv","a":"17, Alphacity 1-ro 31-gil, Suseong-gu, Daegu, Republic of Korea TAEGU TAEGU/053 KR ASIKRKS002TAEGU","c":"KR","o":"HANMECIPS CO."}]);
+macDetailCallback("b0b353900000/28",[{"d":"2019-11-26","t":"add","s":"ieee-mam.csv","a":"17, Alphacity 1-ro 31-gil, Suseong-gu, Daegu, Republic of Korea TAEGU TAEGU/053 KR ASIKRKS002TAEGU","c":"KR","o":"HANMECIPS CO."}]);

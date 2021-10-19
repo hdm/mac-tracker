@@ -1,1 +1,1 @@
-deepmacDetailCallback("000a32000000/24",[{"d":"2002-06-05","t":"add","a":"3F,2-8-13,Shiba-Daimon,\nMinato-ku\nTokyo  105-0012\n","c":"JAPAN","o":"Xsido Corporation"},{"d":"2015-08-27","t":"change","a":"3F,2-8-13,Shiba-Daimon, Tokyo  JP 105-0012","c":"JP","o":"Xsido Corporation"}]);
+macDetailCallback("000a32000000/24",[{"d":"2002-06-05","t":"add","a":"3F,2-8-13,Shiba-Daimon,\nMinato-ku\nTokyo  105-0012\n","c":"JAPAN","o":"Xsido Corporation"},{"d":"2015-08-27","t":"change","a":"3F,2-8-13,Shiba-Daimon, Tokyo  JP 105-0012","c":"JP","o":"Xsido Corporation"}]);

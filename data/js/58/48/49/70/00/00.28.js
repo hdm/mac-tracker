@@ -1,1 +1,1 @@
-deepmacDetailCallback("584849700000/28",[{"d":"2021-06-02","t":"add","s":"ieee-mam.csv","a":"282 Bole Avenue, High-tech Development Zone Shandong P.R. China Jinan Shandong CN 250101","c":"CN","o":"Shandong Aotai Electric Co., LTD."}]);
+macDetailCallback("584849700000/28",[{"d":"2021-06-02","t":"add","s":"ieee-mam.csv","a":"282 Bole Avenue, High-tech Development Zone Shandong P.R. China Jinan Shandong CN 250101","c":"CN","o":"Shandong Aotai Electric Co., LTD."}]);

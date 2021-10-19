@@ -1,1 +1,1 @@
-deepmacDetailCallback("d4354a000000/24",[{"d":"2021-10-02","t":"add","s":"ieee-oui.csv","a":"Shinkawasaki Mitsui Bldg. West Tower.13F, 1-1-2 Kashimada, Saiwai-ku Kawasaki-shi Kanagawa-ken JP 212-0058","c":"JP","o":"ALAXALA Networks Corporation"}]);
+macDetailCallback("d4354a000000/24",[{"d":"2021-10-02","t":"add","s":"ieee-oui.csv","a":"Shinkawasaki Mitsui Bldg. West Tower.13F, 1-1-2 Kashimada, Saiwai-ku Kawasaki-shi Kanagawa-ken JP 212-0058","c":"JP","o":"ALAXALA Networks Corporation"}]);

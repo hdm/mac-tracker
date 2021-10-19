@@ -1,1 +1,1 @@
-deepmacDetailCallback("a02833600000/28",[{"a":"#2 of 302 Unit, 23# Wanghai Road, Xiamen Software Park II Xiamen Fujian CN 361009","o":"Xiamen Caimore Communication Technology Co.,Ltd.","d":"2018-06-03","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("a02833600000/28",[{"a":"#2 of 302 Unit, 23# Wanghai Road, Xiamen Software Park II Xiamen Fujian CN 361009","o":"Xiamen Caimore Communication Technology Co.,Ltd.","d":"2018-06-03","t":"add","s":"ieee","c":"CN"}]);

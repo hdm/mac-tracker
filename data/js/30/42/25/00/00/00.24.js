@@ -1,1 +1,1 @@
-deepmacDetailCallback("304225000000/24",[{"d":"2014-05-24","t":"add","a":"Altenhofer Weg 15\nWetter NRW 58300\n\n","c":"GERMANY","o":"BURG-WÃCHTER KG"},{"d":"2015-08-27","t":"change","a":"Altenhofer Weg 15 Wetter NRW DE 58300 ","c":"DE","o":"BURG-WÄCHTER KG"}]);
+macDetailCallback("304225000000/24",[{"d":"2014-05-24","t":"add","a":"Altenhofer Weg 15\nWetter NRW 58300\n\n","c":"GERMANY","o":"BURG-WÃCHTER KG"},{"d":"2015-08-27","t":"change","a":"Altenhofer Weg 15 Wetter NRW DE 58300 ","c":"DE","o":"BURG-WÄCHTER KG"}]);

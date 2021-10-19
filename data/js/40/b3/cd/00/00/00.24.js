@@ -1,1 +1,1 @@
-deepmacDetailCallback("40b3cd000000/24",[{"d":"2014-02-12","t":"add","a":"1-3-11 Nishiki-cho\nWarabi Saitama 335-0005\n\n","c":"JAPAN","o":"Chiyoda Electronics Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"1-3-11 Nishiki-cho Warabi Saitama JP","c":"JP","o":"Chiyoda Electronics Co.,Ltd."}]);
+macDetailCallback("40b3cd000000/24",[{"d":"2014-02-12","t":"add","a":"1-3-11 Nishiki-cho\nWarabi Saitama 335-0005\n\n","c":"JAPAN","o":"Chiyoda Electronics Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"1-3-11 Nishiki-cho Warabi Saitama JP","c":"JP","o":"Chiyoda Electronics Co.,Ltd."}]);

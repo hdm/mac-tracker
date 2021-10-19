@@ -1,1 +1,1 @@
-deepmacDetailCallback("84d4c8000000/24",[{"d":"2015-05-01","t":"add","a":"Nymoellevej 6\nLynge Alleroed DK3540\n\n","c":"DENMARK","o":"Widex A/S"},{"d":"2015-08-27","t":"change","a":"Nymoellevej 6 Lynge Alleroed DK DK3540","c":"DK","o":"Widex A/S"}]);
+macDetailCallback("84d4c8000000/24",[{"d":"2015-05-01","t":"add","a":"Nymoellevej 6\nLynge Alleroed DK3540\n\n","c":"DENMARK","o":"Widex A/S"},{"d":"2015-08-27","t":"change","a":"Nymoellevej 6 Lynge Alleroed DK DK3540","c":"DK","o":"Widex A/S"}]);

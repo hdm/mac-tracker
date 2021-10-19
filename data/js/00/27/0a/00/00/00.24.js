@@ -1,1 +1,1 @@
-deepmacDetailCallback("00270a000000/24",[{"d":"2009-07-31","t":"add","a":"ZAE Weiergewan\n11, rue Edmond Reuter\nContern  L-5326\n","c":"LUXEMBOURG","o":"IEE S.A."},{"d":"2015-08-27","t":"change","a":"ZAE Weiergewan Contern  LU L-5326","c":"LU","o":"IEE S.A."}]);
+macDetailCallback("00270a000000/24",[{"d":"2009-07-31","t":"add","a":"ZAE Weiergewan\n11, rue Edmond Reuter\nContern  L-5326\n","c":"LUXEMBOURG","o":"IEE S.A."},{"d":"2015-08-27","t":"change","a":"ZAE Weiergewan Contern  LU L-5326","c":"LU","o":"IEE S.A."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("b4a2eb800000/28",[{"d":"2019-04-13","t":"add","s":"ieee-mam.csv","a":"2 FLOOR WEST WING BLOCK 3  NO.28 LANGSHAN ROAD, NANSHAN DISTRICT  SHENZHEN Guangdong CN 518040","c":"CN","o":"SHENZHEN ZHUIFENGMA TECHNOLOGY CO., LTD"}]);
+macDetailCallback("b4a2eb800000/28",[{"d":"2019-04-13","t":"add","s":"ieee-mam.csv","a":"2 FLOOR WEST WING BLOCK 3  NO.28 LANGSHAN ROAD, NANSHAN DISTRICT  SHENZHEN Guangdong CN 518040","c":"CN","o":"SHENZHEN ZHUIFENGMA TECHNOLOGY CO., LTD"}]);

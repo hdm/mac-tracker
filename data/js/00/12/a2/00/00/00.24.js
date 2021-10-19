@@ -1,1 +1,1 @@
-deepmacDetailCallback("0012a2000000/24",[{"d":"2004-10-21","t":"add","a":"PO Box 19658\nFountain Hills AZ 85269\n\n","c":"UNITED STATES","o":"VITA"},{"d":"2015-08-27","t":"change","a":"PO Box 19658 Fountain Hills AZ US 85269","c":"US","o":"VITA"}]);
+macDetailCallback("0012a2000000/24",[{"d":"2004-10-21","t":"add","a":"PO Box 19658\nFountain Hills AZ 85269\n\n","c":"UNITED STATES","o":"VITA"},{"d":"2015-08-27","t":"change","a":"PO Box 19658 Fountain Hills AZ US 85269","c":"US","o":"VITA"}]);

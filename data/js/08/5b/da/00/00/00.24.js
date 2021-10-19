@@ -1,1 +1,1 @@
-deepmacDetailCallback("085bda000000/24",[{"d":"2015-12-10","t":"add","a":"HaSadna 11 Suite 207\n\n\n","c":"Ra'anana    4365006","o":"CliniCare LTD"},{"d":"2015-12-15","t":"change","a":"HaSadna 11 Suite 207 Ra'anana  IL 4365006","c":"IL","o":"CliniCare LTD"}]);
+macDetailCallback("085bda000000/24",[{"d":"2015-12-10","t":"add","a":"HaSadna 11 Suite 207\n\n\n","c":"Ra'anana    4365006","o":"CliniCare LTD"},{"d":"2015-12-15","t":"change","a":"HaSadna 11 Suite 207 Ra'anana  IL 4365006","c":"IL","o":"CliniCare LTD"}]);

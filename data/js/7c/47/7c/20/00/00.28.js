@@ -1,1 +1,1 @@
-deepmacDetailCallback("7c477c200000/28",[{"a":"7F, Buiding A2, ZhongTai Information Industry Park, DeZheng Road, ShiYan Street. ShenZhen GuangDong CN 518108","o":"POWERLAND LIMITED","d":"2015-12-20","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("7c477c200000/28",[{"a":"7F, Buiding A2, ZhongTai Information Industry Park, DeZheng Road, ShiYan Street. ShenZhen GuangDong CN 518108","o":"POWERLAND LIMITED","d":"2015-12-20","t":"add","s":"ieee","c":"CN"}]);

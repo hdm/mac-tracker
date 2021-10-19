@@ -1,1 +1,1 @@
-deepmacDetailCallback("f4a80d000000/24",[{"d":"2021-01-06","t":"add","s":"ieee-oui.csv","a":"168# First Avenue,Kunshan Integrated Free Trade Zone,Kunshan,Jiangsu,China Kunshan Jiangsu CN 215300","c":"CN","o":"Wistron InfoComm(Kunshan)Co.,Ltd."}]);
+macDetailCallback("f4a80d000000/24",[{"d":"2021-01-06","t":"add","s":"ieee-oui.csv","a":"168# First Avenue,Kunshan Integrated Free Trade Zone,Kunshan,Jiangsu,China Kunshan Jiangsu CN 215300","c":"CN","o":"Wistron InfoComm(Kunshan)Co.,Ltd."}]);

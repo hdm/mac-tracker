@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f647a1000/36",[{"d":"2021-07-21","t":"add","s":"ieee-oui36.csv","a":"The Dairy, Spring Bank Farm Arclid Cheshire GB CW11 2UD","c":"GB","o":"Guardian Controls International Ltd"}]);
+macDetailCallback("8c1f647a1000/36",[{"d":"2021-07-21","t":"add","s":"ieee-oui36.csv","a":"The Dairy, Spring Bank Farm Arclid Cheshire GB CW11 2UD","c":"GB","o":"Guardian Controls International Ltd"}]);

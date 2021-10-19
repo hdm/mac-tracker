@@ -1,1 +1,1 @@
-deepmacDetailCallback("4c917ad00000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"Room 802, Tower A, Yuanzheng Venture Building, No. 19 Langshan Road, Nanshan District Shenzhen   CN 518000","c":"CN","o":"Shenzhen bankledger Technology Co, Ltd"}]);
+macDetailCallback("4c917ad00000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"Room 802, Tower A, Yuanzheng Venture Building, No. 19 Langshan Road, Nanshan District Shenzhen   CN 518000","c":"CN","o":"Shenzhen bankledger Technology Co, Ltd"}]);

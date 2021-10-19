@@ -1,1 +1,1 @@
-deepmacDetailCallback("1cae3e800000/28",[{"d":"2021-07-28","t":"add","s":"ieee-mam.csv","a":"Building E88, No.1 Sizhidao Rd., Xiqing University Industrial Zone Tianjin  CN 300382","c":"CN","o":"JingQi(tianjin) technology Co., Ltd"}]);
+macDetailCallback("1cae3e800000/28",[{"d":"2021-07-28","t":"add","s":"ieee-mam.csv","a":"Building E88, No.1 Sizhidao Rd., Xiqing University Industrial Zone Tianjin  CN 300382","c":"CN","o":"JingQi(tianjin) technology Co., Ltd"}]);

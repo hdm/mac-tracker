@@ -1,1 +1,1 @@
-deepmacDetailCallback("3009f9100000/28",[{"a":"5th Floor, Building F, Hongzhu Yongqi Technology Park, Lezhujiao Village, Xixiang Town, Bao’ an District, Shenzhen GuangDong CN 518000","o":"Shenzhen Sunvell Electronics Co., Ltd.","d":"2018-05-13","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("3009f9100000/28",[{"a":"5th Floor, Building F, Hongzhu Yongqi Technology Park, Lezhujiao Village, Xixiang Town, Bao’ an District, Shenzhen GuangDong CN 518000","o":"Shenzhen Sunvell Electronics Co., Ltd.","d":"2018-05-13","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("c0619a200000/28",[{"d":"2020-07-03","t":"add","s":"ieee-mam.csv","a":"?kitelli OSB Mah. YTÜ ?kitelli Teknopark Sok. No:1 / 2B01-2B07-2B08-2B09 ?stanbul ?STANBUL TR 34490","c":"TR","o":"Grup Arge Enerji ve Kontrol Sistemleri"}]);
+macDetailCallback("c0619a200000/28",[{"d":"2020-07-03","t":"add","s":"ieee-mam.csv","a":"?kitelli OSB Mah. YTÜ ?kitelli Teknopark Sok. No:1 / 2B01-2B07-2B08-2B09 ?stanbul ?STANBUL TR 34490","c":"TR","o":"Grup Arge Enerji ve Kontrol Sistemleri"}]);

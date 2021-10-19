@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d58da000/36",[{"a":"29 uchihata-cho Nishinokyo Nakagyoku Kyoto City Kyoto-fu JP 604-8411","o":"MicroElectronics System Co.Ltd","d":"2018-07-22","t":"add","s":"ieee","c":"JP"}]);
+macDetailCallback("70b3d58da000/36",[{"a":"29 uchihata-cho Nishinokyo Nakagyoku Kyoto City Kyoto-fu JP 604-8411","o":"MicroElectronics System Co.Ltd","d":"2018-07-22","t":"add","s":"ieee","c":"JP"}]);

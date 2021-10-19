@@ -1,1 +1,1 @@
-deepmacDetailCallback("709e86000000/24",[{"d":"2012-03-02","t":"add","a":"199, Arch. Makariou III\nNeocleous House\nLimassol  3030\n","c":"CYPRUS","o":"X6D Limited"},{"d":"2015-08-27","t":"change","a":"199, Arch. Makariou III Limassol  CY 3030","c":"CY","o":"X6D Limited"}]);
+macDetailCallback("709e86000000/24",[{"d":"2012-03-02","t":"add","a":"199, Arch. Makariou III\nNeocleous House\nLimassol  3030\n","c":"CYPRUS","o":"X6D Limited"},{"d":"2015-08-27","t":"change","a":"199, Arch. Makariou III Limassol  CY 3030","c":"CY","o":"X6D Limited"}]);

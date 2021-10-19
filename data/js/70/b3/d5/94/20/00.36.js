@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5942000/36",[{"a":"Ameton House, 1028 Clifton Avenue Lyttelton Manor X3, Centurion Gauteng ZA 0157","o":"TruTeq Devices (Pty) Ltd","d":"2015-11-15","t":"add","s":"ieee","c":"ZA"}]);
+macDetailCallback("70b3d5942000/36",[{"a":"Ameton House, 1028 Clifton Avenue Lyttelton Manor X3, Centurion Gauteng ZA 0157","o":"TruTeq Devices (Pty) Ltd","d":"2015-11-15","t":"add","s":"ieee","c":"ZA"}]);

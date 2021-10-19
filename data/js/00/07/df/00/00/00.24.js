@@ -1,1 +1,1 @@
-deepmacDetailCallback("0007df000000/24",[{"d":"2001-10-24","t":"add","a":"12 Beaumont Road\nWallingford CT 06492\n\n","c":"UNITED STATES","o":"Vbrick Systems Inc."},{"d":"2015-08-27","t":"change","a":"12 Beaumont Road Wallingford CT US 06492","c":"US","o":"Vbrick Systems Inc."}]);
+macDetailCallback("0007df000000/24",[{"d":"2001-10-24","t":"add","a":"12 Beaumont Road\nWallingford CT 06492\n\n","c":"UNITED STATES","o":"Vbrick Systems Inc."},{"d":"2015-08-27","t":"change","a":"12 Beaumont Road Wallingford CT US 06492","c":"US","o":"Vbrick Systems Inc."}]);

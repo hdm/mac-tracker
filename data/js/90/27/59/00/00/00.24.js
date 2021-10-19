@@ -1,1 +1,1 @@
-deepmacDetailCallback("902759000000/24",[{"d":"2021-09-10","t":"add","s":"ieee-oui.csv","a":"Moling Industrial Park, Development Zone, Jiangning, Nanjing Nanjing Jiangsu CN 211111","c":"CN","o":"Nanjing Jiahao Technology Co., Ltd."}]);
+macDetailCallback("902759000000/24",[{"d":"2021-09-10","t":"add","s":"ieee-oui.csv","a":"Moling Industrial Park, Development Zone, Jiangning, Nanjing Nanjing Jiangsu CN 211111","c":"CN","o":"Nanjing Jiahao Technology Co., Ltd."}]);

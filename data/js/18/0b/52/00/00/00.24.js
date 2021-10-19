@@ -1,1 +1,1 @@
-deepmacDetailCallback("180b52000000/24",[{"d":"2010-11-24","t":"add","a":"Alt-Moabit 60\nBerlin  10555\n\n","c":"GERMANY","o":"Nanotron Technologies GmbH"},{"d":"2015-08-27","t":"change","a":"Alt-Moabit 60 Berlin  DE 10555","c":"DE","o":"Nanotron Technologies GmbH"}]);
+macDetailCallback("180b52000000/24",[{"d":"2010-11-24","t":"add","a":"Alt-Moabit 60\nBerlin  10555\n\n","c":"GERMANY","o":"Nanotron Technologies GmbH"},{"d":"2015-08-27","t":"change","a":"Alt-Moabit 60 Berlin  DE 10555","c":"DE","o":"Nanotron Technologies GmbH"}]);

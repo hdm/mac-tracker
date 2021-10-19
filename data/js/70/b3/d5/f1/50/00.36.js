@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5f15000/36",[{"d":"2020-06-26","t":"add","s":"ieee-oui36.csv","a":"Plot No.5B, Survey No.184-185, P-V, Cherlapally HYDERABAD TELANGANA IN 500051","c":"IN","o":"ARECA EMBEDDED SYSTEMS PVT LTD"}]);
+macDetailCallback("70b3d5f15000/36",[{"d":"2020-06-26","t":"add","s":"ieee-oui36.csv","a":"Plot No.5B, Survey No.184-185, P-V, Cherlapally HYDERABAD TELANGANA IN 500051","c":"IN","o":"ARECA EMBEDDED SYSTEMS PVT LTD"}]);

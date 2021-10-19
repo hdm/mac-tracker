@@ -1,1 +1,1 @@
-deepmacDetailCallback("bc6d05000000/24",[{"d":"2020-11-01","t":"add","s":"ieee-oui.csv","a":"NO.640 FengQing str.,DeQing, ZheJiang, China huzhou zhejiang CN 313200","c":"CN","o":"Dusun Electron Co.,Ltd."}]);
+macDetailCallback("bc6d05000000/24",[{"d":"2020-11-01","t":"add","s":"ieee-oui.csv","a":"NO.640 FengQing str.,DeQing, ZheJiang, China huzhou zhejiang CN 313200","c":"CN","o":"Dusun Electron Co.,Ltd."}]);

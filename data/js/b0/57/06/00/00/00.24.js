@@ -1,1 +1,1 @@
-deepmacDetailCallback("b05706000000/24",[{"d":"2013-12-21","t":"add","a":"Myllykylantie 9-11\nLoimaa  32200\n\n","c":"FINLAND","o":"Vallox Oy"},{"d":"2015-08-27","t":"change","a":"Myllykylantie 9-11 Loimaa  FI 32200","c":"FI","o":"Vallox Oy"}]);
+macDetailCallback("b05706000000/24",[{"d":"2013-12-21","t":"add","a":"Myllykylantie 9-11\nLoimaa  32200\n\n","c":"FINLAND","o":"Vallox Oy"},{"d":"2015-08-27","t":"change","a":"Myllykylantie 9-11 Loimaa  FI 32200","c":"FI","o":"Vallox Oy"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("b0c5ca400000/28",[{"a":"No.9 Lane3,CaoDong Feeder Rd, Xuhui Area,shanghai,China shanghai shanghai CN 200235","o":"shanghai University Ding-Tech software Corp.,ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("b0c5ca400000/28",[{"a":"No.9 Lane3,CaoDong Feeder Rd, Xuhui Area,shanghai,China shanghai shanghai CN 200235","o":"shanghai University Ding-Tech software Corp.,ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5bc2000/36",[{"a":"10, Hwanggeum-ro 127beon-gil Yangchon-eup Gimpo-si Gyeonggi-do KR 10048","o":"DWEWOONG ELECTRIC Co., Ltd.","d":"2016-09-04","t":"add","s":"ieee","c":"KR"}]);
+macDetailCallback("70b3d5bc2000/36",[{"a":"10, Hwanggeum-ro 127beon-gil Yangchon-eup Gimpo-si Gyeonggi-do KR 10048","o":"DWEWOONG ELECTRIC Co., Ltd.","d":"2016-09-04","t":"add","s":"ieee","c":"KR"}]);

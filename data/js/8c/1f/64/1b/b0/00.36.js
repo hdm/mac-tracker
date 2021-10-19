@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f641bb000/36",[{"d":"2021-09-25","t":"add","s":"ieee-oui36.csv","a":"Rm 1-704 Tongjian Bldg. Shennan Middle Road Shenzhen GUANG DONG CN 518028","c":"CN","o":"Renwei Electronics Technology (Shenzhen) Co.,LTD."}]);
+macDetailCallback("8c1f641bb000/36",[{"d":"2021-09-25","t":"add","s":"ieee-oui36.csv","a":"Rm 1-704 Tongjian Bldg. Shennan Middle Road Shenzhen GUANG DONG CN 518028","c":"CN","o":"Renwei Electronics Technology (Shenzhen) Co.,LTD."}]);

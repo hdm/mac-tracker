@@ -1,1 +1,1 @@
-deepmacDetailCallback("38ff13000000/24",[{"d":"2021-04-24","t":"add","s":"ieee-oui.csv","a":"5A, Kantemirovskaya st. Saint-Petersburg  RU 194100","c":"RU","o":"Joint Stock Company \"Research Instinite \"Masshtab\""}]);
+macDetailCallback("38ff13000000/24",[{"d":"2021-04-24","t":"add","s":"ieee-oui.csv","a":"5A, Kantemirovskaya st. Saint-Petersburg  RU 194100","c":"RU","o":"Joint Stock Company \"Research Instinite \"Masshtab\""}]);

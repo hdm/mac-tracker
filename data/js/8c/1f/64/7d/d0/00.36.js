@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f647dd000/36",[{"d":"2021-09-05","t":"add","s":"ieee-oui36.csv","a":"936-20,Shimonojo-Machi Takasaki-City Gunma JP 370-0854","c":"JP","o":"TAKASAKI KYODO COMPUTING CENTER Co.,LTD."}]);
+macDetailCallback("8c1f647dd000/36",[{"d":"2021-09-05","t":"add","s":"ieee-oui36.csv","a":"936-20,Shimonojo-Machi Takasaki-City Gunma JP 370-0854","c":"JP","o":"TAKASAKI KYODO COMPUTING CENTER Co.,LTD."}]);

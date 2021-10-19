@@ -1,1 +1,1 @@
-deepmacDetailCallback("0c73ebc00000/28",[{"a":"Xixiang Street 4016 Bao'an Avenue  Yong Kai Business Building A, Bao'an District of Shenzhen City Guangdong CN 528470","o":"Shenzhen Samchung Video Technology Co., Ltd.","d":"2018-01-21","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("0c73ebc00000/28",[{"a":"Xixiang Street 4016 Bao'an Avenue  Yong Kai Business Building A, Bao'an District of Shenzhen City Guangdong CN 528470","o":"Shenzhen Samchung Video Technology Co., Ltd.","d":"2018-01-21","t":"add","s":"ieee","c":"CN"}]);

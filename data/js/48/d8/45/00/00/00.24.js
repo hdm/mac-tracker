@@ -1,1 +1,1 @@
-deepmacDetailCallback("48d845000000/24",[{"d":"2018-11-15","t":"add","s":"ieee-oui.csv","a":"9th Floor, Hengtemei Building, Buji Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Mainuoke Electronics Co., Ltd"}]);
+macDetailCallback("48d845000000/24",[{"d":"2018-11-15","t":"add","s":"ieee-oui.csv","a":"9th Floor, Hengtemei Building, Buji Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Mainuoke Electronics Co., Ltd"}]);

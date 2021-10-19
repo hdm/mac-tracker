@@ -1,1 +1,1 @@
-deepmacDetailCallback("787264100000/28",[{"d":"2021-08-31","t":"add","s":"ieee-mam.csv","a":"Kangqiao Business Plaza, Chengdong Road, Zhengbian Road, Guancheng District 2122 Zhengzhou City Henan Province CN 450000","c":"CN","o":"Zhengzhou Reform Intelligent Device Co., Ltd"}]);
+macDetailCallback("787264100000/28",[{"d":"2021-08-31","t":"add","s":"ieee-mam.csv","a":"Kangqiao Business Plaza, Chengdong Road, Zhengbian Road, Guancheng District 2122 Zhengzhou City Henan Province CN 450000","c":"CN","o":"Zhengzhou Reform Intelligent Device Co., Ltd"}]);

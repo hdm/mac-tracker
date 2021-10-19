@@ -1,1 +1,1 @@
-deepmacDetailCallback("60bd91000000/24",[{"d":"2012-08-24","t":"add","a":"Generatorvej 8B,st\nHerlev DK 2730\n\n","c":"DENMARK","o":"Move Innovation"},{"d":"2015-08-27","t":"change","a":"Generatorvej 8B,st Herlev DK DK 2730","c":"DK","o":"Move Innovation"}]);
+macDetailCallback("60bd91000000/24",[{"d":"2012-08-24","t":"add","a":"Generatorvej 8B,st\nHerlev DK 2730\n\n","c":"DENMARK","o":"Move Innovation"},{"d":"2015-08-27","t":"change","a":"Generatorvej 8B,st Herlev DK DK 2730","c":"DK","o":"Move Innovation"}]);

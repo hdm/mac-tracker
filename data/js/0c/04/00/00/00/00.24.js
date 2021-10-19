@@ -1,1 +1,1 @@
-deepmacDetailCallback("0c0400000000/24",[{"d":"2013-02-15","t":"add","a":"Kranjska cesta 24\nNaklo Slovenia 4202\n\n","c":"SLOVENIA","o":"Jantar d.o.o."},{"d":"2015-08-27","t":"change","a":"Kranjska cesta 24 Naklo Slovenia SI 4202","c":"SI","o":"Jantar d.o.o."}]);
+macDetailCallback("0c0400000000/24",[{"d":"2013-02-15","t":"add","a":"Kranjska cesta 24\nNaklo Slovenia 4202\n\n","c":"SLOVENIA","o":"Jantar d.o.o."},{"d":"2015-08-27","t":"change","a":"Kranjska cesta 24 Naklo Slovenia SI 4202","c":"SI","o":"Jantar d.o.o."}]);

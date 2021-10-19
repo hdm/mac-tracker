@@ -1,1 +1,1 @@
-deepmacDetailCallback("ccc261000000/28",[{"d":"2020-04-10","t":"add","s":"ieee-mam.csv","a":"9F., No.33, Ln. 3, Sec. 1, Zhongzheng E. Rd., Tamsui Dist., New Taipei City 251, Taiwan (R.O.C.) New Taipei City  TW 251","c":"TW","o":"Ebiologic Technology Co., Ltd."}]);
+macDetailCallback("ccc261000000/28",[{"d":"2020-04-10","t":"add","s":"ieee-mam.csv","a":"9F., No.33, Ln. 3, Sec. 1, Zhongzheng E. Rd., Tamsui Dist., New Taipei City 251, Taiwan (R.O.C.) New Taipei City  TW 251","c":"TW","o":"Ebiologic Technology Co., Ltd."}]);

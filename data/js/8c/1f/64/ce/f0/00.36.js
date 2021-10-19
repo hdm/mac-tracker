@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f64cef000/36",[{"d":"2021-08-24","t":"add","s":"ieee-oui36.csv","a":"Unit 18, E Link World Business Park, 1777 Hualong Road, Qingpu District Shanghai Shanghai CN 201708","c":"CN","o":"Goertek Robotics Co.,Ltd."}]);
+macDetailCallback("8c1f64cef000/36",[{"d":"2021-08-24","t":"add","s":"ieee-oui36.csv","a":"Unit 18, E Link World Business Park, 1777 Hualong Road, Qingpu District Shanghai Shanghai CN 201708","c":"CN","o":"Goertek Robotics Co.,Ltd."}]);

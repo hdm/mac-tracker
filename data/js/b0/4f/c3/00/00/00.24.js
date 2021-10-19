@@ -1,1 +1,1 @@
-deepmacDetailCallback("b04fc3000000/24",[{"d":"2019-07-03","t":"add","s":"ieee-oui.csv","a":"Rm. 1406, Bld. 11A, Shenzhen Bay Eco-Technology Park, Nanshan Dist., Shenzhen Guangdong CN 518063","c":"CN","o":"Shenzhen NVC Cloud Technology Co., Ltd."}]);
+macDetailCallback("b04fc3000000/24",[{"d":"2019-07-03","t":"add","s":"ieee-oui.csv","a":"Rm. 1406, Bld. 11A, Shenzhen Bay Eco-Technology Park, Nanshan Dist., Shenzhen Guangdong CN 518063","c":"CN","o":"Shenzhen NVC Cloud Technology Co., Ltd."}]);

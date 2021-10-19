@@ -1,1 +1,1 @@
-deepmacDetailCallback("ac6f4f000000/24",[{"d":"2010-09-10","t":"add","a":"2F., Daehwa B/D,\n169 Samsung-dong, Gangnam-gu\nSeoul  135090\n","c":"KOREA, REPUBLIC OF","o":"Enspert Inc"},{"d":"2015-08-27","t":"change","a":"2F., Daehwa B/D,  Seoul  KR 135090","c":"KR","o":"Enspert Inc"}]);
+macDetailCallback("ac6f4f000000/24",[{"d":"2010-09-10","t":"add","a":"2F., Daehwa B/D,\n169 Samsung-dong, Gangnam-gu\nSeoul  135090\n","c":"KOREA, REPUBLIC OF","o":"Enspert Inc"},{"d":"2015-08-27","t":"change","a":"2F., Daehwa B/D,  Seoul  KR 135090","c":"KR","o":"Enspert Inc"}]);

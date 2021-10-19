@@ -1,1 +1,1 @@
-deepmacDetailCallback("8cab8e000000/24",[{"d":"2015-09-02","t":"add","a":"No.3666,Sixian Rd.,Songjiang District,Shanghai,P.R.China Shanghai Shanghai CN 201616","c":"CN","o":"Shanghai Feixun Communication Co.,Ltd."}]);
+macDetailCallback("8cab8e000000/24",[{"d":"2015-09-02","t":"add","a":"No.3666,Sixian Rd.,Songjiang District,Shanghai,P.R.China Shanghai Shanghai CN 201616","c":"CN","o":"Shanghai Feixun Communication Co.,Ltd."}]);

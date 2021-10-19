@@ -1,1 +1,1 @@
-deepmacDetailCallback("00066d000000/24",[{"d":"2001-06-04","t":"add","a":"Via Martiri D'Italia 26\n10014 Caluso (Turin)\n\n","c":"ITALY","o":"Compuprint S.P.A."},{"d":"2015-08-27","t":"change","a":"Via Martiri D'Italia 26   IT","c":"IT","o":"Compuprint S.P.A."}]);
+macDetailCallback("00066d000000/24",[{"d":"2001-06-04","t":"add","a":"Via Martiri D'Italia 26\n10014 Caluso (Turin)\n\n","c":"ITALY","o":"Compuprint S.P.A."},{"d":"2015-08-27","t":"change","a":"Via Martiri D'Italia 26   IT","c":"IT","o":"Compuprint S.P.A."}]);

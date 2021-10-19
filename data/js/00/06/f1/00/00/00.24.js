@@ -1,1 +1,1 @@
-deepmacDetailCallback("0006f1000000/24",[{"d":"2001-10-24","t":"add","a":"Kronborgsgr.9\nSE-16487 Kista\n\n","c":"SWEDEN","o":"Optillion"},{"d":"2015-08-27","t":"change","a":"Kronborgsgr.9   SE","c":"SE","o":"Optillion"}]);
+macDetailCallback("0006f1000000/24",[{"d":"2001-10-24","t":"add","a":"Kronborgsgr.9\nSE-16487 Kista\n\n","c":"SWEDEN","o":"Optillion"},{"d":"2015-08-27","t":"change","a":"Kronborgsgr.9   SE","c":"SE","o":"Optillion"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("30f33a000000/24",[{"d":"2012-05-23","t":"add","a":"via giovanni ventura, 5\nMilano MI 20134\n\n","c":"ITALY","o":"+plugg srl"},{"d":"2015-08-27","t":"change","a":"via giovanni ventura, 5 Milano MI IT 20134","c":"IT","o":"+plugg srl"}]);
+macDetailCallback("30f33a000000/24",[{"d":"2012-05-23","t":"add","a":"via giovanni ventura, 5\nMilano MI 20134\n\n","c":"ITALY","o":"+plugg srl"},{"d":"2015-08-27","t":"change","a":"via giovanni ventura, 5 Milano MI IT 20134","c":"IT","o":"+plugg srl"}]);

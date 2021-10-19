@@ -1,1 +1,1 @@
-deepmacDetailCallback("1ca0ef600000/28",[{"d":"2021-02-04","t":"add","s":"ieee-mam.csv","a":"Fl.2 No. 101  Jian 1st Rd., Zhonghe Dist.,  NEW TAIPEI CITY TAIWAN TW 235","c":"TW","o":"HANJEN.CHIN  CO., LTD."}]);
+macDetailCallback("1ca0ef600000/28",[{"d":"2021-02-04","t":"add","s":"ieee-mam.csv","a":"Fl.2 No. 101  Jian 1st Rd., Zhonghe Dist.,  NEW TAIPEI CITY TAIWAN TW 235","c":"TW","o":"HANJEN.CHIN  CO., LTD."}]);

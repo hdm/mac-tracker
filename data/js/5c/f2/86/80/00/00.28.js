@@ -1,1 +1,1 @@
-deepmacDetailCallback("5cf286800000/28",[{"a":"7 F,3rd Zone,B Block,Mingyou purchasing Center,Baoyuan RD,Xixiang,Bao'an District,Shenzhen,China Shenzhen Guangdong CN 518100","o":"SHENZHEN HIVT TECHNOLOGY CO.,LTD","d":"2015-12-13","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("5cf286800000/28",[{"a":"7 F,3rd Zone,B Block,Mingyou purchasing Center,Baoyuan RD,Xixiang,Bao'an District,Shenzhen,China Shenzhen Guangdong CN 518100","o":"SHENZHEN HIVT TECHNOLOGY CO.,LTD","d":"2015-12-13","t":"add","s":"ieee","c":"CN"}]);

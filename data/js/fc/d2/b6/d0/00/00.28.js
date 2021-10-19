@@ -1,1 +1,1 @@
-deepmacDetailCallback("fcd2b6d00000/28",[{"d":"2018-12-21","t":"add","s":"ieee-mam.csv","a":"Changwu Middle Road Changzhou Jiangsu CN 213100","c":"CN","o":"Bee Smart(Changzhou) Information Technology Co., Ltd"}]);
+macDetailCallback("fcd2b6d00000/28",[{"d":"2018-12-21","t":"add","s":"ieee-mam.csv","a":"Changwu Middle Road Changzhou Jiangsu CN 213100","c":"CN","o":"Bee Smart(Changzhou) Information Technology Co., Ltd"}]);

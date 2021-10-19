@@ -1,1 +1,1 @@
-deepmacDetailCallback("8489ece00000/28",[{"a":"Suite701, Science Museum, Shenzhen City Shenzhen Guangdong CN 518000","o":"Shenzhen Intellifusion Technologies Co., Ltd.","d":"2018-05-27","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("8489ece00000/28",[{"a":"Suite701, Science Museum, Shenzhen City Shenzhen Guangdong CN 518000","o":"Shenzhen Intellifusion Technologies Co., Ltd.","d":"2018-05-27","t":"add","s":"ieee","c":"CN"}]);

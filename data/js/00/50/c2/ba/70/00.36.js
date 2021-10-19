@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2ba7000/36",[{"a":"Augartenstraße 1 Karlsruhe Baden-Württemberg DE 76137","o":"RaumComputer Entwicklungs- und Vertriebs GmbH","d":"2009-12-06","t":"add","s":"ieee","c":"DE"}]);
+macDetailCallback("0050c2ba7000/36",[{"a":"Augartenstraße 1 Karlsruhe Baden-Württemberg DE 76137","o":"RaumComputer Entwicklungs- und Vertriebs GmbH","d":"2009-12-06","t":"add","s":"ieee","c":"DE"}]);

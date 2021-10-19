@@ -1,1 +1,1 @@
-deepmacDetailCallback("6c5c3d000000/28",[{"a":"413~415 Room, 4/F, No.6 Bldg., TongFuYu Industrial Park, Dalang Street, 518109, Longhua New District, ShengZhen GuangDong CN 518109","o":"ShenZhen Hugsun Technology Co.,Ltd.","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("6c5c3d000000/28",[{"a":"413~415 Room, 4/F, No.6 Bldg., TongFuYu Industrial Park, Dalang Street, 518109, Longhua New District, ShengZhen GuangDong CN 518109","o":"ShenZhen Hugsun Technology Co.,Ltd.","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);

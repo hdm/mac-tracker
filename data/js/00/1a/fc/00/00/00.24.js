@@ -1,1 +1,1 @@
-deepmacDetailCallback("001afc000000/24",[{"d":"2007-01-06","t":"add","a":"2905 Prestonwood Drive\nPlano Texas 75093\n\n","c":"UNITED STATES","o":"ModusLink Corporation"},{"d":"2015-08-27","t":"change","a":"2905 Prestonwood Drive Plano Texas US 75093","c":"US","o":"ModusLink Corporation"}]);
+macDetailCallback("001afc000000/24",[{"d":"2007-01-06","t":"add","a":"2905 Prestonwood Drive\nPlano Texas 75093\n\n","c":"UNITED STATES","o":"ModusLink Corporation"},{"d":"2015-08-27","t":"change","a":"2905 Prestonwood Drive Plano Texas US 75093","c":"US","o":"ModusLink Corporation"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("002258000000/24",[{"d":"2008-06-18","t":"add","a":"8-1, Sakae-cho\nTakasaki-shi Gunma-ken 370-8522\n\n","c":"JAPAN","o":"Taiyo Yuden Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"8-1 Sakae-Cho   JP","c":"JP","o":"Taiyo Yuden Co., Ltd."}]);
+macDetailCallback("002258000000/24",[{"d":"2008-06-18","t":"add","a":"8-1, Sakae-cho\nTakasaki-shi Gunma-ken 370-8522\n\n","c":"JAPAN","o":"Taiyo Yuden Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"8-1 Sakae-Cho   JP","c":"JP","o":"Taiyo Yuden Co., Ltd."}]);

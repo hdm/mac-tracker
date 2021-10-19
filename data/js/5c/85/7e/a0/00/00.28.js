@@ -1,1 +1,1 @@
-deepmacDetailCallback("5c857ea00000/28",[{"d":"2020-05-22","t":"add","s":"ieee-mam.csv","a":"Room 12-9, building B (Hongmao building), No. 338, Juxing West Road, Jiangbei District, Ningbo, ZheJiang, China Ningbo  CN 315000","c":"CN","o":"Zhejiang Jetron Ark Digital Technology Co., Ltd"}]);
+macDetailCallback("5c857ea00000/28",[{"d":"2020-05-22","t":"add","s":"ieee-mam.csv","a":"Room 12-9, building B (Hongmao building), No. 338, Juxing West Road, Jiangbei District, Ningbo, ZheJiang, China Ningbo  CN 315000","c":"CN","o":"Zhejiang Jetron Ark Digital Technology Co., Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("38f7cd100000/28",[{"d":"2020-03-21","t":"add","s":"ieee-mam.csv","a":"1109 ho, Bupyeong tech city Bld, 293 Bupyeong-daero, Bupyeong-gu Incheon  KR 21315","c":"KR","o":"NZIA Connect Inc"}]);
+macDetailCallback("38f7cd100000/28",[{"d":"2020-03-21","t":"add","s":"ieee-mam.csv","a":"1109 ho, Bupyeong tech city Bld, 293 Bupyeong-daero, Bupyeong-gu Incheon  KR 21315","c":"KR","o":"NZIA Connect Inc"}]);

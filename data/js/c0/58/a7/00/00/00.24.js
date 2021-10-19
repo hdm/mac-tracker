@@ -1,1 +1,1 @@
-deepmacDetailCallback("c058a7000000/24",[{"d":"2011-07-09","t":"add","a":"332-7 Kouya\nMatsudo Chiba pref. 270-0017\n\n","c":"JAPAN","o":"Pico Systems Co., Ltd."},{"d":"2015-08-27","t":"change","a":"332-7 Kouya Matsudo Chiba pref. JP 270-0017","c":"JP","o":"Pico Systems Co., Ltd."}]);
+macDetailCallback("c058a7000000/24",[{"d":"2011-07-09","t":"add","a":"332-7 Kouya\nMatsudo Chiba pref. 270-0017\n\n","c":"JAPAN","o":"Pico Systems Co., Ltd."},{"d":"2015-08-27","t":"change","a":"332-7 Kouya Matsudo Chiba pref. JP 270-0017","c":"JP","o":"Pico Systems Co., Ltd."}]);

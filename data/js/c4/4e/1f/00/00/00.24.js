@@ -1,1 +1,1 @@
-deepmacDetailCallback("c44e1f000000/24",[{"d":"2013-12-14","t":"add","a":"121-122 3F\nDaebong dong, Jung-gu\nDaegu Korea 700-809\n","c":"KOREA, REPUBLIC OF","o":"BlueN"},{"d":"2015-08-27","t":"change","a":"121-122 3F Daegu Korea KR 700-809","c":"KR","o":"BlueN"}]);
+macDetailCallback("c44e1f000000/24",[{"d":"2013-12-14","t":"add","a":"121-122 3F\nDaebong dong, Jung-gu\nDaegu Korea 700-809\n","c":"KOREA, REPUBLIC OF","o":"BlueN"},{"d":"2015-08-27","t":"change","a":"121-122 3F Daegu Korea KR 700-809","c":"KR","o":"BlueN"}]);

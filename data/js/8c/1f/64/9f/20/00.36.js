@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f649f2000/36",[{"d":"2021-08-27","t":"add","s":"ieee-oui36.csv","a":"Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550","c":"DE","o":"MB connect line GmbH Fernwartungssysteme"}]);
+macDetailCallback("8c1f649f2000/36",[{"d":"2021-08-27","t":"add","s":"ieee-oui36.csv","a":"Winnettener Straße 6 Dinkelsbuehl Bavaria DE 91550","c":"DE","o":"MB connect line GmbH Fernwartungssysteme"}]);

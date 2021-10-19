@@ -1,1 +1,1 @@
-deepmacDetailCallback("446fd8000000/28",[{"d":"2020-11-25","t":"add","s":"ieee-mam.csv","a":"No. 704 Room ,  No. 599 South Century Town Road, High technology district, Chengdu  chengdu sichuan Province CN 610094","c":"CN","o":"Sichuan subao network technology ltd.co."}]);
+macDetailCallback("446fd8000000/28",[{"d":"2020-11-25","t":"add","s":"ieee-mam.csv","a":"No. 704 Room ,  No. 599 South Century Town Road, High technology district, Chengdu  chengdu sichuan Province CN 610094","c":"CN","o":"Sichuan subao network technology ltd.co."}]);

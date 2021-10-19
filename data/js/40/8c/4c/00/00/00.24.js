@@ -1,1 +1,1 @@
-deepmacDetailCallback("408c4c000000/24",[{"d":"2020-07-25","t":"add","s":"ieee-oui.csv","a":"Chudong science and technology park, 111 shaxin road, tangxia town, dongguan city guangdong province CN 523710","c":"CN","o":"Shenzhen MiaoMing  Intelligent Technology Co.,Ltd"}]);
+macDetailCallback("408c4c000000/24",[{"d":"2020-07-25","t":"add","s":"ieee-oui.csv","a":"Chudong science and technology park, 111 shaxin road, tangxia town, dongguan city guangdong province CN 523710","c":"CN","o":"Shenzhen MiaoMing  Intelligent Technology Co.,Ltd"}]);

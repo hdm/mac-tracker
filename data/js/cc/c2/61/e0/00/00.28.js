@@ -1,1 +1,1 @@
-deepmacDetailCallback("ccc261e00000/28",[{"d":"2020-04-14","t":"add","s":"ieee-mam.csv","a":"10F-8, No.738, Chung Cheng Road, Chung Ho Dist,. New Taipei City Taiwan TW 235","c":"TW","o":"Toong In Electronic Corp."}]);
+macDetailCallback("ccc261e00000/28",[{"d":"2020-04-14","t":"add","s":"ieee-mam.csv","a":"10F-8, No.738, Chung Cheng Road, Chung Ho Dist,. New Taipei City Taiwan TW 235","c":"TW","o":"Toong In Electronic Corp."}]);

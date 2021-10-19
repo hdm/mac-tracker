@@ -1,1 +1,1 @@
-deepmacDetailCallback("e4c1f1000000/24",[{"d":"2016-05-21","t":"add","a":"10F, Block D, 5th Building, Shenzhen Software Industrial Base, Haitian 2nd Rd,Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd"}]);
+macDetailCallback("e4c1f1000000/24",[{"d":"2016-05-21","t":"add","a":"10F, Block D, 5th Building, Shenzhen Software Industrial Base, Haitian 2nd Rd,Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd"}]);

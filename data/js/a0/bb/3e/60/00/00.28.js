@@ -1,1 +1,1 @@
-deepmacDetailCallback("a0bb3e600000/28",[{"a":"No.457,Malong Road,Torch High-tech Industrial Zone Xiamen Fujian CN 361000","o":"Xiamen Kehua Hengsheng Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("a0bb3e600000/28",[{"a":"No.457,Malong Road,Torch High-tech Industrial Zone Xiamen Fujian CN 361000","o":"Xiamen Kehua Hengsheng Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("a0024a800000/28",[{"d":"2020-11-07","t":"add","s":"ieee-mam.csv","a":"1st floor, Caigang building, No.40 Beiyuan Road Beijing  CN 100020","c":"CN","o":"Beijing Lyratone Technology Co., Ltd"}]);
+macDetailCallback("a0024a800000/28",[{"d":"2020-11-07","t":"add","s":"ieee-mam.csv","a":"1st floor, Caigang building, No.40 Beiyuan Road Beijing  CN 100020","c":"CN","o":"Beijing Lyratone Technology Co., Ltd"}]);

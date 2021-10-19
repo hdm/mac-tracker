@@ -1,1 +1,1 @@
-deepmacDetailCallback("cc1be0900000/28",[{"a":"Rm. 209, 2F., No. 99-1, Anzhong Rd., Xindian Dist. New Taipei City Taiwn TW 23154","o":"MobiStor Technology Inc.","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("cc1be0900000/28",[{"a":"Rm. 209, 2F., No. 99-1, Anzhong Rd., Xindian Dist. New Taipei City Taiwn TW 23154","o":"MobiStor Technology Inc.","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);

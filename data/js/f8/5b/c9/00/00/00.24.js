@@ -1,1 +1,1 @@
-deepmacDetailCallback("f85bc9000000/24",[{"d":"2013-05-23","t":"add","a":"Corso Cavour 2/2d\nTrieste 34132\n\n","c":"ITALY","o":"M-Cube Spa"},{"d":"2015-08-27","t":"change","a":"Corso Cavour 2/2d  Trieste IT 34132","c":"IT","o":"M-Cube Spa"}]);
+macDetailCallback("f85bc9000000/24",[{"d":"2013-05-23","t":"add","a":"Corso Cavour 2/2d\nTrieste 34132\n\n","c":"ITALY","o":"M-Cube Spa"},{"d":"2015-08-27","t":"change","a":"Corso Cavour 2/2d  Trieste IT 34132","c":"IT","o":"M-Cube Spa"}]);

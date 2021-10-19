@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2c44000/36",[{"a":"Rm.605 Astronautic Exactitude Plaza No.30 South Haidian Rd. Beijing  CN 100080","o":"Beijing Zhongherongzhi Elec.&Tech.Co.,Ltd.","d":"2010-03-21","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("0050c2c44000/36",[{"a":"Rm.605 Astronautic Exactitude Plaza No.30 South Haidian Rd. Beijing  CN 100080","o":"Beijing Zhongherongzhi Elec.&Tech.Co.,Ltd.","d":"2010-03-21","t":"add","s":"ieee","c":"CN"}]);

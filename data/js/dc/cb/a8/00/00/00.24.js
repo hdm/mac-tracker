@@ -1,1 +1,1 @@
-deepmacDetailCallback("dccba8000000/24",[{"d":"2010-12-11","t":"add","a":"360, Franquet Street\nSuite 20\nQuebec  G1P 4N3\n","c":"CANADA","o":"Explora Technologies Inc"},{"d":"2015-08-27","t":"change","a":"360, Franquet Street Quebec  CA G1P 4N3","c":"CA","o":"Explora Technologies Inc"}]);
+macDetailCallback("dccba8000000/24",[{"d":"2010-12-11","t":"add","a":"360, Franquet Street\nSuite 20\nQuebec  G1P 4N3\n","c":"CANADA","o":"Explora Technologies Inc"},{"d":"2015-08-27","t":"change","a":"360, Franquet Street Quebec  CA G1P 4N3","c":"CA","o":"Explora Technologies Inc"}]);

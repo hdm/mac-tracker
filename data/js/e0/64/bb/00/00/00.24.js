@@ -1,1 +1,1 @@
-deepmacDetailCallback("e064bb000000/24",[{"d":"2009-08-26","t":"add","a":"Via Senigallia 18/2\nMilano  20161\n\n","c":"ITALY","o":"DigiView S.r.l."},{"d":"2015-08-27","t":"change","a":"Via Senigallia 18/2 Milano  IT 20161","c":"IT","o":"DigiView S.r.l."}]);
+macDetailCallback("e064bb000000/24",[{"d":"2009-08-26","t":"add","a":"Via Senigallia 18/2\nMilano  20161\n\n","c":"ITALY","o":"DigiView S.r.l."},{"d":"2015-08-27","t":"change","a":"Via Senigallia 18/2 Milano  IT 20161","c":"IT","o":"DigiView S.r.l."}]);

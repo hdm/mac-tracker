@@ -1,1 +1,1 @@
-deepmacDetailCallback("38b19e700000/28",[{"d":"2018-10-24","t":"add","s":"ieee-mam.csv","a":"Building B2,Dongsheng Park, 66 Xixiaokou Road, Haidian Beijing Beijing CN 100192","c":"CN","o":"Beijing Memblaze Technology Co Ltd"}]);
+macDetailCallback("38b19e700000/28",[{"d":"2018-10-24","t":"add","s":"ieee-mam.csv","a":"Building B2,Dongsheng Park, 66 Xixiaokou Road, Haidian Beijing Beijing CN 100192","c":"CN","o":"Beijing Memblaze Technology Co Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("f8abe5000000/24",[{"d":"2021-01-16","t":"add","s":"ieee-oui.csv","a":"Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist Shenzhen Guangdong CN 51800","c":"CN","o":"shenzhen worldelite electronics co., LTD"}]);
+macDetailCallback("f8abe5000000/24",[{"d":"2021-01-16","t":"add","s":"ieee-oui.csv","a":"Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist Shenzhen Guangdong CN 51800","c":"CN","o":"shenzhen worldelite electronics co., LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("a0024a600000/28",[{"d":"2020-11-01","t":"add","s":"ieee-mam.csv","a":"801#, Block B1,Kexing Secience Park, Hi-Tech Industrial Park, Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Xiaojie Technology (Shenzhen) Co., Ltd"}]);
+macDetailCallback("a0024a600000/28",[{"d":"2020-11-01","t":"add","s":"ieee-mam.csv","a":"801#, Block B1,Kexing Secience Park, Hi-Tech Industrial Park, Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Xiaojie Technology (Shenzhen) Co., Ltd"}]);

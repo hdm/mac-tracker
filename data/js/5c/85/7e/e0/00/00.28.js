@@ -1,1 +1,1 @@
-deepmacDetailCallback("5c857ee00000/28",[{"d":"2020-05-28","t":"add","s":"ieee-mam.csv","a":"1-4th Floor, Building No.E2, Chuangxin Industrial Park, No.2800, Chuangxin Road Gaoxin District Hefei  Anhui CN Hefei","c":"CN","o":"Guoyi Liangzi (Hefei) Technology Co., Ltd(CIQTEK)"}]);
+macDetailCallback("5c857ee00000/28",[{"d":"2020-05-28","t":"add","s":"ieee-mam.csv","a":"1-4th Floor, Building No.E2, Chuangxin Industrial Park, No.2800, Chuangxin Road Gaoxin District Hefei  Anhui CN Hefei","c":"CN","o":"Guoyi Liangzi (Hefei) Technology Co., Ltd(CIQTEK)"}]);

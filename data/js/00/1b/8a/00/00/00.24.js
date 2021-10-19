@@ -1,1 +1,1 @@
-deepmacDetailCallback("001b8a000000/24",[{"d":"2007-03-01","t":"add","a":"Malervej 10\nTaastrup  2630\n\n","c":"DENMARK","o":"2M Electronic A/S"},{"d":"2015-08-27","t":"change","a":"Malervej 10 Taastrup  DK 2630","c":"DK","o":"2M Electronic A/S"}]);
+macDetailCallback("001b8a000000/24",[{"d":"2007-03-01","t":"add","a":"Malervej 10\nTaastrup  2630\n\n","c":"DENMARK","o":"2M Electronic A/S"},{"d":"2015-08-27","t":"change","a":"Malervej 10 Taastrup  DK 2630","c":"DK","o":"2M Electronic A/S"}]);

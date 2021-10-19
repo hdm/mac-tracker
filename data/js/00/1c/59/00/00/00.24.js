@@ -1,1 +1,1 @@
-deepmacDetailCallback("001c59000000/24",[{"d":"2007-05-13","t":"add","a":"1100 FIRST AVENUE\nSUITE 100\nKING OF PRUSSIA PA 19406\n","c":"UNITED STATES","o":"DEVON IT"},{"d":"2015-08-27","t":"change","a":"1100 FIRST AVENUE KING OF PRUSSIA PA US 19406","c":"US","o":"DEVON IT"}]);
+macDetailCallback("001c59000000/24",[{"d":"2007-05-13","t":"add","a":"1100 FIRST AVENUE\nSUITE 100\nKING OF PRUSSIA PA 19406\n","c":"UNITED STATES","o":"DEVON IT"},{"d":"2015-08-27","t":"change","a":"1100 FIRST AVENUE KING OF PRUSSIA PA US 19406","c":"US","o":"DEVON IT"}]);

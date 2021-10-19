@@ -1,1 +1,1 @@
-deepmacDetailCallback("0026c0000000/24",[{"d":"2009-07-08","t":"add","a":"232 3rd St C201\nBrooklyn NY 11215\n\n","c":"UNITED STATES","o":"EnergyHub"},{"d":"2015-08-27","t":"change","a":"232 3rd St C201 Brooklyn NY US 11215","c":"US","o":"EnergyHub"}]);
+macDetailCallback("0026c0000000/24",[{"d":"2009-07-08","t":"add","a":"232 3rd St C201\nBrooklyn NY 11215\n\n","c":"UNITED STATES","o":"EnergyHub"},{"d":"2015-08-27","t":"change","a":"232 3rd St C201 Brooklyn NY US 11215","c":"US","o":"EnergyHub"}]);

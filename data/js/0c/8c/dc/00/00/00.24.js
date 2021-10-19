@@ -1,1 +1,1 @@
-deepmacDetailCallback("0c8cdc000000/24",[{"d":"2012-09-26","t":"add","a":"Valimotie 7\nVantaa Uusimaa 02710\n\n","c":"FINLAND","o":"Suunto Oy"},{"d":"2015-08-27","t":"change","a":"Valimotie 7 Vantaa Uusimaa FI 02710","c":"FI","o":"Suunto Oy"}]);
+macDetailCallback("0c8cdc000000/24",[{"d":"2012-09-26","t":"add","a":"Valimotie 7\nVantaa Uusimaa 02710\n\n","c":"FINLAND","o":"Suunto Oy"},{"d":"2015-08-27","t":"change","a":"Valimotie 7 Vantaa Uusimaa FI 02710","c":"FI","o":"Suunto Oy"}]);

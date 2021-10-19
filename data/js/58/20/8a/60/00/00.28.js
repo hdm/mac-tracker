@@ -1,1 +1,1 @@
-deepmacDetailCallback("58208a600000/28",[{"d":"2020-08-01","t":"add","s":"ieee-mam.csv","a":"2205,Building 2,Sanqingqisheng Square,No.1666,Xinluo Street Jinan Shandong CN 250014","c":"CN","o":"Shangyin Intelligence Technology Shandong Co.,Ltd"}]);
+macDetailCallback("58208a600000/28",[{"d":"2020-08-01","t":"add","s":"ieee-mam.csv","a":"2205,Building 2,Sanqingqisheng Square,No.1666,Xinluo Street Jinan Shandong CN 250014","c":"CN","o":"Shangyin Intelligence Technology Shandong Co.,Ltd"}]);

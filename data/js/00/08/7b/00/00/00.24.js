@@ -1,1 +1,1 @@
-deepmacDetailCallback("00087b000000/24",[{"d":"2001-12-14","t":"add","a":"Stroemmen 6\nDK 9400 Noerresundby\n\n","c":"DENMARK","o":"RTX Telecom A/S"},{"d":"2015-08-27","t":"change","a":"Stroemmen 6   DK","c":"DK","o":"RTX Telecom A/S"}]);
+macDetailCallback("00087b000000/24",[{"d":"2001-12-14","t":"add","a":"Stroemmen 6\nDK 9400 Noerresundby\n\n","c":"DENMARK","o":"RTX Telecom A/S"},{"d":"2015-08-27","t":"change","a":"Stroemmen 6   DK","c":"DK","o":"RTX Telecom A/S"}]);

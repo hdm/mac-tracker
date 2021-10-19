@@ -1,1 +1,1 @@
-deepmacDetailCallback("d8da52000000/24",[{"d":"2013-04-20","t":"add","a":"ul Gdanska 4A lok. C4\nTorun Kujawsko-Pomorskie 87-100\n\n","c":"POLAND","o":"APATOR S.A."},{"d":"2015-08-27","t":"change","a":"ul Gdanska 4A lok. C4 Torun Kujawsko-Pomorskie PL 87-100","c":"PL","o":"APATOR S.A."}]);
+macDetailCallback("d8da52000000/24",[{"d":"2013-04-20","t":"add","a":"ul Gdanska 4A lok. C4\nTorun Kujawsko-Pomorskie 87-100\n\n","c":"POLAND","o":"APATOR S.A."},{"d":"2015-08-27","t":"change","a":"ul Gdanska 4A lok. C4 Torun Kujawsko-Pomorskie PL 87-100","c":"PL","o":"APATOR S.A."}]);

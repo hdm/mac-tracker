@@ -1,1 +1,1 @@
-deepmacDetailCallback("9cf6dd300000/28",[{"a":"RM106,Joinin Hub,Builing J District 71,Construction Industrial Park,Xin'an Street,Bao'an, Shenzhen,China SHENZHEN GUANGDONG CN 518101","o":"RYEEX Technology Co.,Ltd.","d":"2018-05-06","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("9cf6dd300000/28",[{"a":"RM106,Joinin Hub,Builing J District 71,Construction Industrial Park,Xin'an Street,Bao'an, Shenzhen,China SHENZHEN GUANGDONG CN 518101","o":"RYEEX Technology Co.,Ltd.","d":"2018-05-06","t":"add","s":"ieee","c":"CN"}]);

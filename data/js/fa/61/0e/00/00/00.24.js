@@ -1,1 +1,1 @@
-deepmacDetailCallback("fa610e000000/24",[{"a":"3400 North Charles Street Baltimore MD US 21218","o":"Laboratory for Computational Sensing and Robotics, Johns Hopkins University","d":"2017-05-28","t":"add","s":"ieee","c":"US"}]);
+macDetailCallback("fa610e000000/24",[{"a":"3400 North Charles Street Baltimore MD US 21218","o":"Laboratory for Computational Sensing and Robotics, Johns Hopkins University","d":"2017-05-28","t":"add","s":"ieee","c":"US"}]);

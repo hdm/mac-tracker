@@ -1,1 +1,1 @@
-deepmacDetailCallback("001406000000/24",[{"d":"2005-03-22","t":"add","a":"126 Yigal Alon st.\nTel Aviv  67443\n\n","c":"ISRAEL","o":"Go Networks"},{"d":"2015-08-27","t":"change","a":"126 Yigal Alon st. Tel Aviv  IL 67443","c":"IL","o":"Go Networks"}]);
+macDetailCallback("001406000000/24",[{"d":"2005-03-22","t":"add","a":"126 Yigal Alon st.\nTel Aviv  67443\n\n","c":"ISRAEL","o":"Go Networks"},{"d":"2015-08-27","t":"change","a":"126 Yigal Alon st. Tel Aviv  IL 67443","c":"IL","o":"Go Networks"}]);

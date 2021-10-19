@@ -1,1 +1,1 @@
-deepmacDetailCallback("48b253000000/24",[{"d":"2012-06-15","t":"add","a":"299 Park Avenue\n10th Floor\nNew York NY 10171\n","c":"UNITED STATES","o":"Marketaxess Corporation"},{"d":"2015-08-27","t":"change","a":"299 Park Avenue New York NY US 10171","c":"US","o":"Marketaxess Corporation"}]);
+macDetailCallback("48b253000000/24",[{"d":"2012-06-15","t":"add","a":"299 Park Avenue\n10th Floor\nNew York NY 10171\n","c":"UNITED STATES","o":"Marketaxess Corporation"},{"d":"2015-08-27","t":"change","a":"299 Park Avenue New York NY US 10171","c":"US","o":"Marketaxess Corporation"}]);

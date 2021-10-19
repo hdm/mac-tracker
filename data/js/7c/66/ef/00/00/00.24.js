@@ -1,1 +1,1 @@
-deepmacDetailCallback("7c66ef000000/24",[{"d":"2021-05-30","t":"add","s":"ieee-oui.csv","a":"No. 66 Chung Shan Road TU-Cheng Industrial district TAIPEI TAIWAN  TAIPEI TAIWAN CN 33859","c":"CN","o":"Hon Hai Precision IND.CO.,LTD"}]);
+macDetailCallback("7c66ef000000/24",[{"d":"2021-05-30","t":"add","s":"ieee-oui.csv","a":"No. 66 Chung Shan Road TU-Cheng Industrial district TAIPEI TAIWAN  TAIPEI TAIWAN CN 33859","c":"CN","o":"Hon Hai Precision IND.CO.,LTD"}]);

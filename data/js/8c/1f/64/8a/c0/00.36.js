@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f648ac000/36",[{"d":"2021-08-11","t":"add","s":"ieee-oui36.csv","a":"No.666 Huxin west Road, Wujiang District, Suzhou city Suzhou  CN 215200","c":"CN","o":"BOZHON Precision Industry Technology Co.,Ltd"}]);
+macDetailCallback("8c1f648ac000/36",[{"d":"2021-08-11","t":"add","s":"ieee-oui36.csv","a":"No.666 Huxin west Road, Wujiang District, Suzhou city Suzhou  CN 215200","c":"CN","o":"BOZHON Precision Industry Technology Co.,Ltd"}]);

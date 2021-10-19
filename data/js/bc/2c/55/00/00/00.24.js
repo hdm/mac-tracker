@@ -1,1 +1,1 @@
-deepmacDetailCallback("bc2c55000000/24",[{"d":"2011-11-23","t":"add","a":"1 Thayer Road\nSanta Cruz CA 95060\n\n","c":"UNITED STATES","o":"Bear Flag Design, Inc."},{"d":"2015-08-27","t":"change","a":"1 Thayer Road Santa Cruz CA US 95060","c":"US","o":"Bear Flag Design, Inc."}]);
+macDetailCallback("bc2c55000000/24",[{"d":"2011-11-23","t":"add","a":"1 Thayer Road\nSanta Cruz CA 95060\n\n","c":"UNITED STATES","o":"Bear Flag Design, Inc."},{"d":"2015-08-27","t":"change","a":"1 Thayer Road Santa Cruz CA US 95060","c":"US","o":"Bear Flag Design, Inc."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("00145f000000/24",[{"d":"2005-04-14","t":"add","a":"4F Hyowon B/D, 99-5,\nKarak-dong,Songpa-gu\nSeoul 138-805\n","c":"KOREA, REPUBLIC OF","o":"ADITEC CO. LTD"},{"d":"2015-08-27","t":"change","a":"4F Hyowon B/D, 99-5,  Seoul KR 138-805","c":"KR","o":"ADITEC CO. LTD"}]);
+macDetailCallback("00145f000000/24",[{"d":"2005-04-14","t":"add","a":"4F Hyowon B/D, 99-5,\nKarak-dong,Songpa-gu\nSeoul 138-805\n","c":"KOREA, REPUBLIC OF","o":"ADITEC CO. LTD"},{"d":"2015-08-27","t":"change","a":"4F Hyowon B/D, 99-5,  Seoul KR 138-805","c":"KR","o":"ADITEC CO. LTD"}]);

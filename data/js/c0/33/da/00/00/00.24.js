@@ -1,1 +1,1 @@
-deepmacDetailCallback("c033da000000/24",[{"d":"2020-08-27","t":"add","s":"ieee-oui.csv","a":"A Zone,9F,Huilongda Industrial Park,Shuitian Private Industrial Park,Shiyan Street,Bao,an District. Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen JRUN Technologies CO., LTD"}]);
+macDetailCallback("c033da000000/24",[{"d":"2020-08-27","t":"add","s":"ieee-oui.csv","a":"A Zone,9F,Huilongda Industrial Park,Shuitian Private Industrial Park,Shiyan Street,Bao,an District. Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen JRUN Technologies CO., LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("001bc5068000/36",[{"a":"Turgutreis Mah. Barbaros Cad.  Esenler / ISTANBUL  TR 34235","o":"HCS KABLOLAMA SISTEMLERI SAN. ve TIC.A.S.","d":"2013-03-31","t":"add","s":"ieee","c":"TR"}]);
+macDetailCallback("001bc5068000/36",[{"a":"Turgutreis Mah. Barbaros Cad.  Esenler / ISTANBUL  TR 34235","o":"HCS KABLOLAMA SISTEMLERI SAN. ve TIC.A.S.","d":"2013-03-31","t":"add","s":"ieee","c":"TR"}]);

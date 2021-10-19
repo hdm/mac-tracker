@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5a19000/36",[{"a":"No112, Tiny Sector, Guindy Industrial Estate,  Chennai TamilNadu IN 600032","o":"Qualitronix Madrass Pvt Ltd","d":"2016-08-07","t":"add","s":"ieee","c":"IN"}]);
+macDetailCallback("70b3d5a19000/36",[{"a":"No112, Tiny Sector, Guindy Industrial Estate,  Chennai TamilNadu IN 600032","o":"Qualitronix Madrass Pvt Ltd","d":"2016-08-07","t":"add","s":"ieee","c":"IN"}]);

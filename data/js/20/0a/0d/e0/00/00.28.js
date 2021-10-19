@@ -1,1 +1,1 @@
-deepmacDetailCallback("200a0de00000/28",[{"d":"2019-10-19","t":"add","s":"ieee-mam.csv","a":"Build C,Wanfu Center,Binkang Road No.228,Binjiang Area China  CN 210051","c":"CN","o":"HANGZHOU DANGBEI NETWORK TECH.Co.,Ltd"}]);
+macDetailCallback("200a0de00000/28",[{"d":"2019-10-19","t":"add","s":"ieee-mam.csv","a":"Build C,Wanfu Center,Binkang Road No.228,Binjiang Area China  CN 210051","c":"CN","o":"HANGZHOU DANGBEI NETWORK TECH.Co.,Ltd"}]);

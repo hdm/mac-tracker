@@ -1,1 +1,1 @@
-deepmacDetailCallback("70886b500000/28",[{"d":"2015-09-02","t":"add","a":"3F,Bldg3,No.333,Yunhua Road,Hig-tech Zone Chengdu Sichuan CN 610041","c":"CN","o":"Chengdu Ophylink Communication Technology Ltd."}]);
+macDetailCallback("70886b500000/28",[{"d":"2015-09-02","t":"add","a":"3F,Bldg3,No.333,Yunhua Road,Hig-tech Zone Chengdu Sichuan CN 610041","c":"CN","o":"Chengdu Ophylink Communication Technology Ltd."}]);

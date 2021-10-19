@@ -1,1 +1,1 @@
-deepmacDetailCallback("78da07000000/24",[{"d":"2018-03-27","t":"add","a":"Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000","c":"CN","o":"Zhejiang Tmall Technology Co., Ltd."}]);
+macDetailCallback("78da07000000/24",[{"d":"2018-03-27","t":"add","a":"Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District,  Shenzhen Guangdong CN 518000","c":"CN","o":"Zhejiang Tmall Technology Co., Ltd."}]);

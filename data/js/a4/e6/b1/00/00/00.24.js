@@ -1,1 +1,1 @@
-deepmacDetailCallback("a4e6b1000000/24",[{"d":"2016-08-10","t":"add","a":"26F,Building1,No428,South Yanggao Road,Pudong District Shanghai Shanghai CN 200127","c":"CN","o":"Shanghai Joindata Technology Co.,Ltd."}]);
+macDetailCallback("a4e6b1000000/24",[{"d":"2016-08-10","t":"add","a":"26F,Building1,No428,South Yanggao Road,Pudong District Shanghai Shanghai CN 200127","c":"CN","o":"Shanghai Joindata Technology Co.,Ltd."}]);

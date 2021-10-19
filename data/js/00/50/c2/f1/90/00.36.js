@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2f19000/36",[{"a":"Caferaða mah. Sakiz sk. no:8/10 Kadikoy Istanbul  TR 34710","o":"Netlink Bilisim Sistemleri San. ve Tic. Ltd. Sti.","d":"2012-01-15","t":"add","s":"ieee","c":"TR"}]);
+macDetailCallback("0050c2f19000/36",[{"a":"Caferaða mah. Sakiz sk. no:8/10 Kadikoy Istanbul  TR 34710","o":"Netlink Bilisim Sistemleri San. ve Tic. Ltd. Sti.","d":"2012-01-15","t":"add","s":"ieee","c":"TR"}]);

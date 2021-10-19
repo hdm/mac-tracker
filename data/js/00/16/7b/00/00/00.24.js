@@ -1,1 +1,1 @@
-deepmacDetailCallback("00167b000000/24",[{"d":"2005-11-24","t":"add","a":"Carl-Haver-Platz 3\nOelde NRW 59302\n\n","c":"GERMANY","o":"Haver&Boecker"},{"d":"2015-08-27","t":"change","a":"Carl-Haver-Platz 3 Oelde NRW DE 59302","c":"DE","o":"Haver&Boecker"}]);
+macDetailCallback("00167b000000/24",[{"d":"2005-11-24","t":"add","a":"Carl-Haver-Platz 3\nOelde NRW 59302\n\n","c":"GERMANY","o":"Haver&Boecker"},{"d":"2015-08-27","t":"change","a":"Carl-Haver-Platz 3 Oelde NRW DE 59302","c":"DE","o":"Haver&Boecker"}]);

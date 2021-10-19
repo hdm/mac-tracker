@@ -1,1 +1,1 @@
-deepmacDetailCallback("24d76b000000/24",[{"d":"2018-03-30","t":"add","a":"UtmarksvÃ¤gen 33c\n\n\n","c":"GÃ¤vle    80291","o":"Syntronic AB"},{"d":"2018-04-03","t":"change","a":"Utmarksvägen 33c Gävle  SE 80291","c":"SE","o":"Syntronic AB"}]);
+macDetailCallback("24d76b000000/24",[{"d":"2018-03-30","t":"add","a":"UtmarksvÃ¤gen 33c\n\n\n","c":"GÃ¤vle    80291","o":"Syntronic AB"},{"d":"2018-04-03","t":"change","a":"Utmarksvägen 33c Gävle  SE 80291","c":"SE","o":"Syntronic AB"}]);

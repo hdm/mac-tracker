@@ -1,1 +1,1 @@
-deepmacDetailCallback("686350000000/24",[{"d":"2019-08-07","t":"add","s":"ieee-oui.csv","a":"Unit no 201A to 201B  Nano Space Surveyno.5/1B/2 BanerBaner Pashan Link road Pune Maharastra IN 411045","c":"IN","o":"Hella India Automotive Pvt Ltd"}]);
+macDetailCallback("686350000000/24",[{"d":"2019-08-07","t":"add","s":"ieee-oui.csv","a":"Unit no 201A to 201B  Nano Space Surveyno.5/1B/2 BanerBaner Pashan Link road Pune Maharastra IN 411045","c":"IN","o":"Hella India Automotive Pvt Ltd"}]);

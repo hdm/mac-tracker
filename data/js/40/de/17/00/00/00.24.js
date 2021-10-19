@@ -1,1 +1,1 @@
-deepmacDetailCallback("40de17000000/24",[{"d":"2020-11-24","t":"add","s":"ieee-oui.csv","a":"Introduction Building 6F,71 Xin’an Street, Baoan District Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen Lanfeng Times Industrial Co.,Ltd."}]);
+macDetailCallback("40de17000000/24",[{"d":"2020-11-24","t":"add","s":"ieee-oui.csv","a":"Introduction Building 6F,71 Xin’an Street, Baoan District Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen Lanfeng Times Industrial Co.,Ltd."}]);

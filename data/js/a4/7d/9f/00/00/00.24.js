@@ -1,1 +1,1 @@
-deepmacDetailCallback("a47d9f000000/24",[{"d":"2020-08-02","t":"add","s":"ieee-oui.csv","a":"Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067","c":"CN","o":"Shenzhen iComm Semiconductor CO.,LTD"}]);
+macDetailCallback("a47d9f000000/24",[{"d":"2020-08-02","t":"add","s":"ieee-oui.csv","a":"Room 504A,Block B,Digital Building,Gargen City,No.1079,Nanhai Road,Nanshan District,Shenzhen. Shenzhen  CN 518067","c":"CN","o":"Shenzhen iComm Semiconductor CO.,LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("f8501c000000/24",[{"d":"2018-07-12","t":"add","a":"Technology Avenue South JingHai Economic Development Area,Tianjin China Tianjin  CN 301609","c":"CN","o":"Tianjin Geneuo Technology Co.,Ltd"}]);
+macDetailCallback("f8501c000000/24",[{"d":"2018-07-12","t":"add","a":"Technology Avenue South JingHai Economic Development Area,Tianjin China Tianjin  CN 301609","c":"CN","o":"Tianjin Geneuo Technology Co.,Ltd"}]);

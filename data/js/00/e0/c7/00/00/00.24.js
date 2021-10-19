@@ -1,1 +1,1 @@
-deepmacDetailCallback("00e0c7000000/24",[{"d":"1998-04-22","t":"add","a":"VIA JACOPO LINUSSIO 1\n33030 AMAROO (UD)\n\n","c":"ITALY","o":"EUROTECH SRL"},{"d":"2015-08-27","t":"change","a":"VIA JACOPO LINUSSIO 1 33030 AMAROO (UD)  IT","c":"IT","o":"EUROTECH SRL"}]);
+macDetailCallback("00e0c7000000/24",[{"d":"1998-04-22","t":"add","a":"VIA JACOPO LINUSSIO 1\n33030 AMAROO (UD)\n\n","c":"ITALY","o":"EUROTECH SRL"},{"d":"2015-08-27","t":"change","a":"VIA JACOPO LINUSSIO 1 33030 AMAROO (UD)  IT","c":"IT","o":"EUROTECH SRL"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("701d08000000/24",[{"d":"2018-01-16","t":"add","a":"609C north block, Cangsong Building, Tairan Seven Road, Futian District Shenzhen Guangdong CN 518000","c":"CN","o":"99IOT Shenzhen co.,ltd"}]);
+macDetailCallback("701d08000000/24",[{"d":"2018-01-16","t":"add","a":"609C north block, Cangsong Building, Tairan Seven Road, Futian District Shenzhen Guangdong CN 518000","c":"CN","o":"99IOT Shenzhen co.,ltd"}]);

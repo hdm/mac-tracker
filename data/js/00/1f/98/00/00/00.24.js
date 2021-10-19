@@ -1,1 +1,1 @@
-deepmacDetailCallback("001f98000000/24",[{"d":"2008-01-14","t":"add","a":"OOMORI 690-1\nKANI GIFU 509-0238\n\n","c":"JAPAN","o":"DAIICHI-DENTSU LTD."},{"d":"2015-08-27","t":"change","a":"OOMORI 690-1 KANI GIFU JP 509-0238","c":"JP","o":"DAIICHI-DENTSU LTD."}]);
+macDetailCallback("001f98000000/24",[{"d":"2008-01-14","t":"add","a":"OOMORI 690-1\nKANI GIFU 509-0238\n\n","c":"JAPAN","o":"DAIICHI-DENTSU LTD."},{"d":"2015-08-27","t":"change","a":"OOMORI 690-1 KANI GIFU JP 509-0238","c":"JP","o":"DAIICHI-DENTSU LTD."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("c84d44000000/24",[{"d":"2021-05-12","t":"add","s":"ieee-oui.csv","a":"2nd floor, building 5, taihemei Industrial Zone, 128 Chunfeng Road, longbeiling community, Tangxia Town Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen Jiapeng Huaxiang Technology Co.,Ltd"}]);
+macDetailCallback("c84d44000000/24",[{"d":"2021-05-12","t":"add","s":"ieee-oui.csv","a":"2nd floor, building 5, taihemei Industrial Zone, 128 Chunfeng Road, longbeiling community, Tangxia Town Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen Jiapeng Huaxiang Technology Co.,Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("98f9c7500000/28",[{"a":"2/F,Building A,Dingxin Technology Park,Honglang North 2nd Road,Xin’an Street,Bao’an District, Shenzhen Guangdong CN 518000","o":"Tonycore Technology Co.,Ltd.","d":"2018-08-19","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("98f9c7500000/28",[{"a":"2/F,Building A,Dingxin Technology Park,Honglang North 2nd Road,Xin’an Street,Bao’an District, Shenzhen Guangdong CN 518000","o":"Tonycore Technology Co.,Ltd.","d":"2018-08-19","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("7a15ec000000/24",[{"d":"2021-06-06","t":"add","s":"ieee-cid.csv","a":"No8 FuYuan Road, YaoZhuang Town, JiaShan County YaoZhuang ZheJiang CN 314117","c":"CN","o":"Yatomi Techology(ZheJiang) Co.,Ltd"}]);
+macDetailCallback("7a15ec000000/24",[{"d":"2021-06-06","t":"add","s":"ieee-cid.csv","a":"No8 FuYuan Road, YaoZhuang Town, JiaShan County YaoZhuang ZheJiang CN 314117","c":"CN","o":"Yatomi Techology(ZheJiang) Co.,Ltd"}]);

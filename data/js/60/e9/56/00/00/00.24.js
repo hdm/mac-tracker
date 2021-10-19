@@ -1,1 +1,1 @@
-deepmacDetailCallback("60e956000000/24",[{"d":"2011-12-14","t":"add","a":"218 Morgan Lane\nMenlo Park CA 94025\n\n","c":"UNITED STATES","o":"Ayla Networks, Inc"},{"d":"2015-08-27","t":"change","a":"218 Morgan Lane Menlo Park CA US 94025","c":"US","o":"Ayla Networks, Inc"}]);
+macDetailCallback("60e956000000/24",[{"d":"2011-12-14","t":"add","a":"218 Morgan Lane\nMenlo Park CA 94025\n\n","c":"UNITED STATES","o":"Ayla Networks, Inc"},{"d":"2015-08-27","t":"change","a":"218 Morgan Lane Menlo Park CA US 94025","c":"US","o":"Ayla Networks, Inc"}]);

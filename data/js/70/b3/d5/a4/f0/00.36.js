@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5a4f000/36",[{"a":"Flat A-B, 12/F, Block 1, Wah Fung Ind. Centre, 33-39 Kwai Fung Crescent, Kwai Chung, N.T. HK  HK 852","o":"Weltek Technologies Co. Ltd.","d":"2016-05-01","t":"add","s":"ieee","c":"HK"}]);
+macDetailCallback("70b3d5a4f000/36",[{"a":"Flat A-B, 12/F, Block 1, Wah Fung Ind. Centre, 33-39 Kwai Fung Crescent, Kwai Chung, N.T. HK  HK 852","o":"Weltek Technologies Co. Ltd.","d":"2016-05-01","t":"add","s":"ieee","c":"HK"}]);

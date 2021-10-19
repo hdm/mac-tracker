@@ -1,1 +1,1 @@
-deepmacDetailCallback("38f601000000/24",[{"d":"2020-01-01","t":"add","s":"ieee-oui.csv","a":"21F, 392, Ruey Kuang Road, Neihu  Taipei  TW 11492","c":"TW","o":"SOLID STATE STORAGE TECHNOLOGY CORPORATION"}]);
+macDetailCallback("38f601000000/24",[{"d":"2020-01-01","t":"add","s":"ieee-oui.csv","a":"21F, 392, Ruey Kuang Road, Neihu  Taipei  TW 11492","c":"TW","o":"SOLID STATE STORAGE TECHNOLOGY CORPORATION"}]);

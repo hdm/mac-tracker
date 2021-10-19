@@ -1,1 +1,1 @@
-deepmacDetailCallback("f469d5600000/28",[{"d":"2020-06-03","t":"add","s":"ieee-mam.csv","a":"1704 Huicheng Technology Building, No. 65 Pioneer Road, Dongli District Tianjin  CN 300000","c":"CN","o":"TianJin KCHT Information Technology Co., Ltd."}]);
+macDetailCallback("f469d5600000/28",[{"d":"2020-06-03","t":"add","s":"ieee-mam.csv","a":"1704 Huicheng Technology Building, No. 65 Pioneer Road, Dongli District Tianjin  CN 300000","c":"CN","o":"TianJin KCHT Information Technology Co., Ltd."}]);

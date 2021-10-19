@@ -1,1 +1,1 @@
-deepmacDetailCallback("c4954d800000/28",[{"d":"2019-09-19","t":"add","s":"ieee-mam.csv","a":"A02 office building of Cloud Computing Industrial Park, Karamay District Karamay Xinjiang CN 834000","c":"CN","o":"Xinjiang Golden Calf Energy IOT Technology Co., Ltd"}]);
+macDetailCallback("c4954d800000/28",[{"d":"2019-09-19","t":"add","s":"ieee-mam.csv","a":"A02 office building of Cloud Computing Industrial Park, Karamay District Karamay Xinjiang CN 834000","c":"CN","o":"Xinjiang Golden Calf Energy IOT Technology Co., Ltd"}]);

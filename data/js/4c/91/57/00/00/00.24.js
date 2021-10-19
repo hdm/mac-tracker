@@ -1,1 +1,1 @@
-deepmacDetailCallback("4c9157000000/24",[{"d":"2019-01-30","t":"add","s":"ieee-oui.csv","a":"Building 17,the 1st Section ,Fuzhou Software Park No.89 Software Road  Fuzhou ,Fujian CN 350003","c":"CN","o":"Fujian LANDI Commercial Equipment Co.,Ltd"}]);
+macDetailCallback("4c9157000000/24",[{"d":"2019-01-30","t":"add","s":"ieee-oui.csv","a":"Building 17,the 1st Section ,Fuzhou Software Park No.89 Software Road  Fuzhou ,Fujian CN 350003","c":"CN","o":"Fujian LANDI Commercial Equipment Co.,Ltd"}]);

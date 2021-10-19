@@ -1,1 +1,1 @@
-deepmacDetailCallback("001e5e000000/24",[{"d":"2007-10-04","t":"add","a":"17/F Great Eagle Centre\n23 Harbour Road\nWanchai\n","c":"HONG KONG","o":"COmputime Ltd."},{"d":"2015-08-27","t":"change","a":"17/F Great Eagle Centre Wanchai  HK","c":"HK","o":"COmputime Ltd."}]);
+macDetailCallback("001e5e000000/24",[{"d":"2007-10-04","t":"add","a":"17/F Great Eagle Centre\n23 Harbour Road\nWanchai\n","c":"HONG KONG","o":"COmputime Ltd."},{"d":"2015-08-27","t":"change","a":"17/F Great Eagle Centre Wanchai  HK","c":"HK","o":"COmputime Ltd."}]);

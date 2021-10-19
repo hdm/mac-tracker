@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5e65000/36",[{"d":"2020-09-18","t":"add","s":"ieee-oui36.csv","a":"Ak is Business Center, Tuzla, Istanbul / Turkey Istanbul Tuzla TR 34944","c":"TR","o":"BIRTECH TECHNOLOGY"}]);
+macDetailCallback("70b3d5e65000/36",[{"d":"2020-09-18","t":"add","s":"ieee-oui36.csv","a":"Ak is Business Center, Tuzla, Istanbul / Turkey Istanbul Tuzla TR 34944","c":"TR","o":"BIRTECH TECHNOLOGY"}]);

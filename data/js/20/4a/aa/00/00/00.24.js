@@ -1,1 +1,1 @@
-deepmacDetailCallback("204aaa000000/24",[{"d":"2010-09-30","t":"add","a":"Avda. de la Vega, 1\nAlcobendas Madrid 28108\n\n","c":"SPAIN","o":"Hanscan Spain S.A."},{"d":"2015-08-27","t":"change","a":"Avda. de la Vega, 1 Alcobendas Madrid ES 28108","c":"ES","o":"Hanscan Spain S.A."}]);
+macDetailCallback("204aaa000000/24",[{"d":"2010-09-30","t":"add","a":"Avda. de la Vega, 1\nAlcobendas Madrid 28108\n\n","c":"SPAIN","o":"Hanscan Spain S.A."},{"d":"2015-08-27","t":"change","a":"Avda. de la Vega, 1 Alcobendas Madrid ES 28108","c":"ES","o":"Hanscan Spain S.A."}]);

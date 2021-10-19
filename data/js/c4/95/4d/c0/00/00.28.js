@@ -1,1 +1,1 @@
-deepmacDetailCallback("c4954dc00000/28",[{"d":"2019-09-21","t":"add","s":"ieee-mam.csv","a":"Shinyokohama Kaneko Bldg 8F, 2-3-9 ShinYokohama Kohoku-ku Yokohama Knanagawa JP 222-0033","c":"JP","o":"SolidGear Corporation"}]);
+macDetailCallback("c4954dc00000/28",[{"d":"2019-09-21","t":"add","s":"ieee-mam.csv","a":"Shinyokohama Kaneko Bldg 8F, 2-3-9 ShinYokohama Kohoku-ku Yokohama Knanagawa JP 222-0033","c":"JP","o":"SolidGear Corporation"}]);

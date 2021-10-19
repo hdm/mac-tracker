@@ -1,1 +1,1 @@
-deepmacDetailCallback("6852d6000000/24",[{"d":"2020-06-23","t":"add","s":"ieee-oui.csv","a":"3F, Bld.7, F518 Idea Land, No. 1065 Baoyuan Road, Xixiang Street, Baoan District Shenzhen  CN 518102","c":"CN","o":"UGame Technology Co.,Ltd"}]);
+macDetailCallback("6852d6000000/24",[{"d":"2020-06-23","t":"add","s":"ieee-oui.csv","a":"3F, Bld.7, F518 Idea Land, No. 1065 Baoyuan Road, Xixiang Street, Baoan District Shenzhen  CN 518102","c":"CN","o":"UGame Technology Co.,Ltd"}]);

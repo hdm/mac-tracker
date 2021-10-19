@@ -1,1 +1,1 @@
-deepmacDetailCallback("785ee8e00000/28",[{"d":"2021-07-09","t":"add","s":"ieee-mam.csv","a":"Room304,Building 4,No.209.ZhuyuanRoad,Gaoxin District Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou Tianping Advanced Digital Technologies Co.Ltd"}]);
+macDetailCallback("785ee8e00000/28",[{"d":"2021-07-09","t":"add","s":"ieee-mam.csv","a":"Room304,Building 4,No.209.ZhuyuanRoad,Gaoxin District Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou Tianping Advanced Digital Technologies Co.Ltd"}]);

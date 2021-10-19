@@ -1,1 +1,1 @@
-deepmacDetailCallback("001c38000000/24",[{"d":"2007-05-13","t":"add","a":"245 Winter St.\nSuite 100\nWaltham MA 02451\n","c":"UNITED STATES","o":"Bio-Rad Laboratories, Inc."},{"d":"2015-08-27","t":"change","a":"245 Winter St. Waltham MA US 02451","c":"US","o":"Bio-Rad Laboratories, Inc."}]);
+macDetailCallback("001c38000000/24",[{"d":"2007-05-13","t":"add","a":"245 Winter St.\nSuite 100\nWaltham MA 02451\n","c":"UNITED STATES","o":"Bio-Rad Laboratories, Inc."},{"d":"2015-08-27","t":"change","a":"245 Winter St. Waltham MA US 02451","c":"US","o":"Bio-Rad Laboratories, Inc."}]);

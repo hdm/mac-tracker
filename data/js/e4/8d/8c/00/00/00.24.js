@@ -1,1 +1,1 @@
-deepmacDetailCallback("e48d8c000000/24",[{"d":"2015-01-29","t":"add","a":"Mikrotikls SIA\nPernavas 46\nRiga Riga LV1009\n","c":"LATVIA","o":"Routerboard.com"},{"d":"2015-08-27","t":"change","a":"Mikrotikls SIA Riga Riga LV LV1009","c":"LV","o":"Routerboard.com"}]);
+macDetailCallback("e48d8c000000/24",[{"d":"2015-01-29","t":"add","a":"Mikrotikls SIA\nPernavas 46\nRiga Riga LV1009\n","c":"LATVIA","o":"Routerboard.com"},{"d":"2015-08-27","t":"change","a":"Mikrotikls SIA Riga Riga LV LV1009","c":"LV","o":"Routerboard.com"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("f469d5d00000/28",[{"d":"2020-05-28","t":"add","s":"ieee-mam.csv","a":"# F, High-Tech business Incubator, No.86 East Waihuan Road, Nantong Jiangsu CN 226300","c":"CN","o":"Nantong ZYDZ Electronic.,Co.Ltd"}]);
+macDetailCallback("f469d5d00000/28",[{"d":"2020-05-28","t":"add","s":"ieee-mam.csv","a":"# F, High-Tech business Incubator, No.86 East Waihuan Road, Nantong Jiangsu CN 226300","c":"CN","o":"Nantong ZYDZ Electronic.,Co.Ltd"}]);

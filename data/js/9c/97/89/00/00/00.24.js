@@ -1,1 +1,1 @@
-deepmacDetailCallback("9c9789000000/24",[{"d":"2019-11-21","t":"add","s":"ieee-oui.csv","a":"TianliaoBuilding F14, New Materials Industrial Park, Xueyuan Blvd?Nanshan Shenzhen Guangdong CN 518055","c":"CN","o":"1MORE"}]);
+macDetailCallback("9c9789000000/24",[{"d":"2019-11-21","t":"add","s":"ieee-oui.csv","a":"TianliaoBuilding F14, New Materials Industrial Park, Xueyuan Blvd?Nanshan Shenzhen Guangdong CN 518055","c":"CN","o":"1MORE"}]);

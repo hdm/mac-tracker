@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5b5d000/36",[{"d":"2019-10-11","t":"add","s":"ieee-oui36.csv","a":"Real Power Innovation Center tower NO.2,7Floor,No.51 Zhengxue Road,Yangpu District SHANGHAI SHANGHAI CN 200433","c":"CN","o":"SHANDHAI LANDLEAF ARCHITECTURE TECHNOLOGY CO.,LTD"}]);
+macDetailCallback("70b3d5b5d000/36",[{"d":"2019-10-11","t":"add","s":"ieee-oui36.csv","a":"Real Power Innovation Center tower NO.2,7Floor,No.51 Zhengxue Road,Yangpu District SHANGHAI SHANGHAI CN 200433","c":"CN","o":"SHANDHAI LANDLEAF ARCHITECTURE TECHNOLOGY CO.,LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("f44955000000/24",[{"d":"2019-10-26","t":"add","s":"ieee-oui.csv","a":"21F.-6, No. 7, Sec. 3, New Taipei Blvd., Xinzhuang Dist., New Taipei City Taiwan TW 24250","c":"TW","o":"MIMO TECH Co., Ltd."}]);
+macDetailCallback("f44955000000/24",[{"d":"2019-10-26","t":"add","s":"ieee-oui.csv","a":"21F.-6, No. 7, Sec. 3, New Taipei Blvd., Xinzhuang Dist., New Taipei City Taiwan TW 24250","c":"TW","o":"MIMO TECH Co., Ltd."}]);

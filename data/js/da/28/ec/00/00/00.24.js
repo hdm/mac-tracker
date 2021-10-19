@@ -1,1 +1,1 @@
-deepmacDetailCallback("da28ec000000/24",[{"a":"HUST Science & Technology Park, East Lake High-Tech Development Zone Wuhan Hubei CN 430223","o":"HG Genuine","d":"2017-05-28","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("da28ec000000/24",[{"a":"HUST Science & Technology Park, East Lake High-Tech Development Zone Wuhan Hubei CN 430223","o":"HG Genuine","d":"2017-05-28","t":"add","s":"ieee","c":"CN"}]);

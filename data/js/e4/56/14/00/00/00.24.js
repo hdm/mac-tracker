@@ -1,1 +1,1 @@
-deepmacDetailCallback("e45614000000/24",[{"d":"2012-07-25","t":"add","a":"1001 East Highway 212\nHector MN 55342\n\n","c":"UNITED STATES","o":"Suttle Apparatus"},{"d":"2015-08-27","t":"change","a":"1001 East Highway 212 Hector MN US 55342","c":"US","o":"Suttle Apparatus"}]);
+macDetailCallback("e45614000000/24",[{"d":"2012-07-25","t":"add","a":"1001 East Highway 212\nHector MN 55342\n\n","c":"UNITED STATES","o":"Suttle Apparatus"},{"d":"2015-08-27","t":"change","a":"1001 East Highway 212 Hector MN US 55342","c":"US","o":"Suttle Apparatus"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("7c8334800000/28",[{"d":"2021-07-24","t":"add","s":"ieee-mam.csv","a":"8F., No.437, Ruiguang Rd., Neihu Dist. Taipei City 11492  TW 11492","c":"TW","o":"Silicon Xpandas Electronics Co., Ltd."}]);
+macDetailCallback("7c8334800000/28",[{"d":"2021-07-24","t":"add","s":"ieee-mam.csv","a":"8F., No.437, Ruiguang Rd., Neihu Dist. Taipei City 11492  TW 11492","c":"TW","o":"Silicon Xpandas Electronics Co., Ltd."}]);

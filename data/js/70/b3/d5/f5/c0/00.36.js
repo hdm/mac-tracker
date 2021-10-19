@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5f5c000/36",[{"a":"A-dong 702-ho, 660, Daewangpangyo-ro, Bundang-gu Seongnam-si Gyeonggi-do KR 13494","o":"Nable Communications, Inc.","d":"2016-08-07","t":"add","s":"ieee","c":"KR"}]);
+macDetailCallback("70b3d5f5c000/36",[{"a":"A-dong 702-ho, 660, Daewangpangyo-ro, Bundang-gu Seongnam-si Gyeonggi-do KR 13494","o":"Nable Communications, Inc.","d":"2016-08-07","t":"add","s":"ieee","c":"KR"}]);

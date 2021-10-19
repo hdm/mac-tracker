@@ -1,1 +1,1 @@
-deepmacDetailCallback("5876c5000000/24",[{"d":"2014-06-20","t":"add","a":"31, Takahata, Maesawa\nOshu Iwate 029-4204\n\n","c":"JAPAN","o":"DIGI I'S LTD"},{"d":"2015-08-27","t":"change","a":"31, Takahata, Maesawa Oshu Iwate JP 029-4204","c":"JP","o":"DIGI I'S LTD"}]);
+macDetailCallback("5876c5000000/24",[{"d":"2014-06-20","t":"add","a":"31, Takahata, Maesawa\nOshu Iwate 029-4204\n\n","c":"JAPAN","o":"DIGI I'S LTD"},{"d":"2015-08-27","t":"change","a":"31, Takahata, Maesawa Oshu Iwate JP 029-4204","c":"JP","o":"DIGI I'S LTD"}]);

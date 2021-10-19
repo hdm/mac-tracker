@@ -1,1 +1,1 @@
-deepmacDetailCallback("98aafc300000/28",[{"a":"No 1438,Jiachuang Road,Xiuzhou Industrial Park, Jiaxing Zhejiang CN 314031","o":"Nexus Electrical(Jiaxing) Limited","d":"2017-01-08","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("98aafc300000/28",[{"a":"No 1438,Jiachuang Road,Xiuzhou Industrial Park, Jiaxing Zhejiang CN 314031","o":"Nexus Electrical(Jiaxing) Limited","d":"2017-01-08","t":"add","s":"ieee","c":"CN"}]);

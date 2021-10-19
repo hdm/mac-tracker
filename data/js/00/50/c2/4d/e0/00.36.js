@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c24de000/36",[{"a":"8220 E. Roosevelt St. Scottsdale AZ US 85257","o":"GD Mission Systems","d":"2008-07-30","t":"add","s":"ieee","c":"US"}]);
+macDetailCallback("0050c24de000/36",[{"a":"8220 E. Roosevelt St. Scottsdale AZ US 85257","o":"GD Mission Systems","d":"2008-07-30","t":"add","s":"ieee","c":"US"}]);

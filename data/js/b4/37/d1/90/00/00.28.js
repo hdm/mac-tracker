@@ -1,1 +1,1 @@
-deepmacDetailCallback("b437d1900000/28",[{"a":"Room 923, No.2 Building, Deying International Square, No.222, Changhon Nanjing Jiangsu CN 210012","o":"Nanjing yuekong Intelligent Technology","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("b437d1900000/28",[{"a":"Room 923, No.2 Building, Deying International Square, No.222, Changhon Nanjing Jiangsu CN 210012","o":"Nanjing yuekong Intelligent Technology","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

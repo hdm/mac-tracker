@@ -1,1 +1,1 @@
-deepmacDetailCallback("846b48000000/24",[{"d":"2020-06-02","t":"add","s":"ieee-oui.csv","a":"4th Floor, Building 3, Nangang 1st industrial zone, Xili street, Nanshan district, ShenZhen Guangdong CN 518000","c":"CN","o":"ShenZhen EepuLink Co., Ltd."}]);
+macDetailCallback("846b48000000/24",[{"d":"2020-06-02","t":"add","s":"ieee-oui.csv","a":"4th Floor, Building 3, Nangang 1st industrial zone, Xili street, Nanshan district, ShenZhen Guangdong CN 518000","c":"CN","o":"ShenZhen EepuLink Co., Ltd."}]);

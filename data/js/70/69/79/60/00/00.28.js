@@ -1,1 +1,1 @@
-deepmacDetailCallback("706979600000/28",[{"d":"2020-04-02","t":"add","s":"ieee-mam.csv","a":"Beijing Security Union Information Technology Co.,Ltd  Beijing Beijing CN 100085","c":"CN","o":"Beijing Security Union Information Technology Co.,Ltd"}]);
+macDetailCallback("706979600000/28",[{"d":"2020-04-02","t":"add","s":"ieee-mam.csv","a":"Beijing Security Union Information Technology Co.,Ltd  Beijing Beijing CN 100085","c":"CN","o":"Beijing Security Union Information Technology Co.,Ltd"}]);

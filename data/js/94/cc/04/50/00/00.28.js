@@ -1,1 +1,1 @@
-deepmacDetailCallback("94cc04500000/28",[{"d":"2019-12-25","t":"add","s":"ieee-mam.csv","a":"1B08 2/F Folk Culture Industrial Park,Qunli Second Road, Baoan District Shenzhen GuangDong CN 518101","c":"CN","o":"SHENZHEN SANRAY TECHNOLOGY CO.,LTD"}]);
+macDetailCallback("94cc04500000/28",[{"d":"2019-12-25","t":"add","s":"ieee-mam.csv","a":"1B08 2/F Folk Culture Industrial Park,Qunli Second Road, Baoan District Shenzhen GuangDong CN 518101","c":"CN","o":"SHENZHEN SANRAY TECHNOLOGY CO.,LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("1874e2700000/28",[{"d":"2021-03-31","t":"add","s":"ieee-mam.csv","a":"Bejing Chaoyang District Guangshun North Street Hostpital No.16 No.2 building 14 room 1406 Bejing  Bejing  CN 100102","c":"CN","o":"Sansec Technology Co.,Ltd"}]);
+macDetailCallback("1874e2700000/28",[{"d":"2021-03-31","t":"add","s":"ieee-mam.csv","a":"Bejing Chaoyang District Guangshun North Street Hostpital No.16 No.2 building 14 room 1406 Bejing  Bejing  CN 100102","c":"CN","o":"Sansec Technology Co.,Ltd"}]);

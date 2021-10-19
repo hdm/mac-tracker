@@ -1,1 +1,1 @@
-deepmacDetailCallback("980637e00000/28",[{"d":"2019-05-31","t":"add","s":"ieee-mam.csv","a":"Room 102-105 ,block 1 , No.33 leshan Road Shanghai Shanghai CN 200030","c":"CN","o":"Shanghai Jinnian information technology Co. Ltd"}]);
+macDetailCallback("980637e00000/28",[{"d":"2019-05-31","t":"add","s":"ieee-mam.csv","a":"Room 102-105 ,block 1 , No.33 leshan Road Shanghai Shanghai CN 200030","c":"CN","o":"Shanghai Jinnian information technology Co. Ltd"}]);

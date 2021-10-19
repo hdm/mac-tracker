@@ -1,1 +1,1 @@
-deepmacDetailCallback("b0c5cae00000/28",[{"a":"Esenkent Mah. Barajyolu cad. No:26 İstanbul Ümraniye TR 34776","o":"Audio Elektronik İthalat İhracat San ve Tic A.Ş.","d":"2015-10-16","t":"add","s":"ieee","c":"TR"}]);
+macDetailCallback("b0c5cae00000/28",[{"a":"Esenkent Mah. Barajyolu cad. No:26 İstanbul Ümraniye TR 34776","o":"Audio Elektronik İthalat İhracat San ve Tic A.Ş.","d":"2015-10-16","t":"add","s":"ieee","c":"TR"}]);

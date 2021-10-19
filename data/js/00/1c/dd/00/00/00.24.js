@@ -1,1 +1,1 @@
-deepmacDetailCallback("001cdd000000/24",[{"d":"2007-06-16","t":"add","a":"1739-1 Nagatoro\nSAKU Nagano 385-0021\n\n","c":"JAPAN","o":"COWBELL ENGINEERING CO., LTD."},{"d":"2015-08-27","t":"change","a":"1739-1 Nagatoro SAKU Nagano JP 385-0021","c":"JP","o":"COWBELL ENGINEERING CO., LTD."}]);
+macDetailCallback("001cdd000000/24",[{"d":"2007-06-16","t":"add","a":"1739-1 Nagatoro\nSAKU Nagano 385-0021\n\n","c":"JAPAN","o":"COWBELL ENGINEERING CO., LTD."},{"d":"2015-08-27","t":"change","a":"1739-1 Nagatoro SAKU Nagano JP 385-0021","c":"JP","o":"COWBELL ENGINEERING CO., LTD."}]);

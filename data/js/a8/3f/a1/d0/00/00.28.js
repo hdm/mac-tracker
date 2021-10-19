@@ -1,1 +1,1 @@
-deepmacDetailCallback("a83fa1d00000/28",[{"a":"Huafan Industrial Park,Building #12, Henggang JianLong Village Industrial Zone, Longgang District Shenzhen GuangDong province CN 518115","o":"Shenzhen BIO I/E Co.,Ltd","d":"2018-07-15","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("a83fa1d00000/28",[{"a":"Huafan Industrial Park,Building #12, Henggang JianLong Village Industrial Zone, Longgang District Shenzhen GuangDong province CN 518115","o":"Shenzhen BIO I/E Co.,Ltd","d":"2018-07-15","t":"add","s":"ieee","c":"CN"}]);

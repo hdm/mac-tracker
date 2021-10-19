@@ -1,1 +1,1 @@
-deepmacDetailCallback("402c76800000/28",[{"d":"2019-10-25","t":"add","s":"ieee-mam.csv","a":"10-11/F, Block 3, Chongwen Garden, Nanshan IPark, 3370 Liuxian Avenue, Nanshan District Shenzhen  CN 518000","c":"CN","o":"Suteng Innovation Technology Co., Ltd."}]);
+macDetailCallback("402c76800000/28",[{"d":"2019-10-25","t":"add","s":"ieee-mam.csv","a":"10-11/F, Block 3, Chongwen Garden, Nanshan IPark, 3370 Liuxian Avenue, Nanshan District Shenzhen  CN 518000","c":"CN","o":"Suteng Innovation Technology Co., Ltd."}]);

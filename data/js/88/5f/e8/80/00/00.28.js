@@ -1,1 +1,1 @@
-deepmacDetailCallback("885fe8800000/28",[{"a":"NO.5 Dongsan Rd, Changsha Economic & Technical Zone Changsha HuNan CN 410100","o":"Changsha Xiangji-Haidun Technology Co., Ltd","d":"2017-12-31","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("885fe8800000/28",[{"a":"NO.5 Dongsan Rd, Changsha Economic & Technical Zone Changsha HuNan CN 410100","o":"Changsha Xiangji-Haidun Technology Co., Ltd","d":"2017-12-31","t":"add","s":"ieee","c":"CN"}]);

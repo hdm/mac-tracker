@@ -1,1 +1,1 @@
-deepmacDetailCallback("0015c8000000/24",[{"d":"2005-09-09","t":"add","a":"7 bis rue Lalo\nParis 75016\n\n","c":"FRANCE","o":"FlexiPanel Ltd"},{"d":"2015-08-27","t":"change","a":"7 bis rue Lalo  Paris FR 75016","c":"FR","o":"FlexiPanel Ltd"}]);
+macDetailCallback("0015c8000000/24",[{"d":"2005-09-09","t":"add","a":"7 bis rue Lalo\nParis 75016\n\n","c":"FRANCE","o":"FlexiPanel Ltd"},{"d":"2015-08-27","t":"change","a":"7 bis rue Lalo  Paris FR 75016","c":"FR","o":"FlexiPanel Ltd"}]);

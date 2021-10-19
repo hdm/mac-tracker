@@ -1,1 +1,1 @@
-deepmacDetailCallback("802e14000000/24",[{"d":"2011-04-15","t":"add","a":"Am Brambusch 1a\nLuenen NRW 44536\n\n","c":"GERMANY","o":"azeti Networks AG"},{"d":"2015-08-27","t":"change","a":"Am Brambusch 1a Luenen NRW DE 44536","c":"DE","o":"azeti Networks AG"}]);
+macDetailCallback("802e14000000/24",[{"d":"2011-04-15","t":"add","a":"Am Brambusch 1a\nLuenen NRW 44536\n\n","c":"GERMANY","o":"azeti Networks AG"},{"d":"2015-08-27","t":"change","a":"Am Brambusch 1a Luenen NRW DE 44536","c":"DE","o":"azeti Networks AG"}]);

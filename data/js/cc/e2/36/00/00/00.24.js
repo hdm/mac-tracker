@@ -1,1 +1,1 @@
-deepmacDetailCallback("cce236000000/24",[{"d":"2021-05-21","t":"add","s":"ieee-oui.csv","a":"33rd Floor, T4 US Center, European and American Financial City, Yuhang District, Hangzhou, Zhejiang Hangzhou Zhejiang CN 311100","c":"CN","o":"Hangzhou Yaguan Technology Co. LTD"}]);
+macDetailCallback("cce236000000/24",[{"d":"2021-05-21","t":"add","s":"ieee-oui.csv","a":"33rd Floor, T4 US Center, European and American Financial City, Yuhang District, Hangzhou, Zhejiang Hangzhou Zhejiang CN 311100","c":"CN","o":"Hangzhou Yaguan Technology Co. LTD"}]);

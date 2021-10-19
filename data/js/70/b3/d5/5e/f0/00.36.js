@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d55ef000/36",[{"a":"Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road Kwai Chung  HK 852","o":"Star Systems International","d":"2018-01-14","t":"add","s":"ieee","c":"HK"}]);
+macDetailCallback("70b3d55ef000/36",[{"a":"Unit 04, 12/F Vanta Industrial Centre, 21-33 Tai Lin Pai Road Kwai Chung  HK 852","o":"Star Systems International","d":"2018-01-14","t":"add","s":"ieee","c":"HK"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("a45e5a000000/24",[{"d":"2020-11-25","t":"add","s":"ieee-oui.csv","a":"Takeuchi Lorie Bldg. Room 503, 1-34-12, Takadanobaba Shinjuku-ku Tokyo JP 1690075","c":"JP","o":"ACTIVIO Inc."}]);
+macDetailCallback("a45e5a000000/24",[{"d":"2020-11-25","t":"add","s":"ieee-oui.csv","a":"Takeuchi Lorie Bldg. Room 503, 1-34-12, Takadanobaba Shinjuku-ku Tokyo JP 1690075","c":"JP","o":"ACTIVIO Inc."}]);

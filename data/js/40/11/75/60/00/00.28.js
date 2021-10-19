@@ -1,1 +1,1 @@
-deepmacDetailCallback("401175600000/28",[{"d":"2019-07-11","t":"add","s":"ieee-mam.csv","a":"NO.12,YUMIN ROAD,SHAJING TOWN,BAO’AN DISTRICT SHENZHEN  CN 518104","c":"CN","o":"ShenZhen LanShuo Communication Equipment CO.,LTD."}]);
+macDetailCallback("401175600000/28",[{"d":"2019-07-11","t":"add","s":"ieee-mam.csv","a":"NO.12,YUMIN ROAD,SHAJING TOWN,BAO’AN DISTRICT SHENZHEN  CN 518104","c":"CN","o":"ShenZhen LanShuo Communication Equipment CO.,LTD."}]);

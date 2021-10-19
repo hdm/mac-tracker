@@ -1,1 +1,1 @@
-deepmacDetailCallback("d8aed0000000/24",[{"d":"2019-09-29","t":"add","s":"ieee-oui.csv","a":"No.1588, Rd Zixing Shanghai Shanghai CN 200241","c":"CN","o":"Shanghai Engineering Science & Technology Co.,LTD CGNPC"}]);
+macDetailCallback("d8aed0000000/24",[{"d":"2019-09-29","t":"add","s":"ieee-oui.csv","a":"No.1588, Rd Zixing Shanghai Shanghai CN 200241","c":"CN","o":"Shanghai Engineering Science & Technology Co.,LTD CGNPC"}]);

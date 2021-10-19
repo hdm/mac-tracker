@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f64000000/36",[{"d":"2021-04-07","t":"add","s":"ieee-oui36.csv","a":"Building 2, no.6, Lane 1, Wupu Road, Suzhou Industrial Park Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou Xingxiangyi Precision Manufacturing Co.,Ltd."}]);
+macDetailCallback("8c1f64000000/36",[{"d":"2021-04-07","t":"add","s":"ieee-oui36.csv","a":"Building 2, no.6, Lane 1, Wupu Road, Suzhou Industrial Park Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou Xingxiangyi Precision Manufacturing Co.,Ltd."}]);

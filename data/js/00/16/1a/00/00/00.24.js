@@ -1,1 +1,1 @@
-deepmacDetailCallback("00161a000000/24",[{"d":"2005-10-13","t":"add","a":"Box 120\nSkarholmen Stockholm SE-12723\n\n","c":"SWEDEN","o":"Dametric AB"},{"d":"2015-08-27","t":"change","a":"Box 120 Skarholmen Stockholm SE SE-12723","c":"SE","o":"Dametric AB"}]);
+macDetailCallback("00161a000000/24",[{"d":"2005-10-13","t":"add","a":"Box 120\nSkarholmen Stockholm SE-12723\n\n","c":"SWEDEN","o":"Dametric AB"},{"d":"2015-08-27","t":"change","a":"Box 120 Skarholmen Stockholm SE SE-12723","c":"SE","o":"Dametric AB"}]);

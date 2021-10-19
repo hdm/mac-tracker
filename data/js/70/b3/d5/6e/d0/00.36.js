@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d56ed000/36",[{"a":"2F., No. 51, LN. 174, Chungshiao Rd. New Taipei City Taiwan TW 220","o":"Wiingtech International Co. LTD.","d":"2014-11-23","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("70b3d56ed000/36",[{"a":"2F., No. 51, LN. 174, Chungshiao Rd. New Taipei City Taiwan TW 220","o":"Wiingtech International Co. LTD.","d":"2014-11-23","t":"add","s":"ieee","c":"TW"}]);

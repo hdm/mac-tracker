@@ -1,1 +1,1 @@
-deepmacDetailCallback("a492cb000000/24",[{"d":"2018-02-07","t":"add","a":"600 March Road Kanata Ontario CA K2K 2E6","c":"CA","o":"Nokia"}]);
+macDetailCallback("a492cb000000/24",[{"d":"2018-02-07","t":"add","a":"600 March Road Kanata Ontario CA K2K 2E6","c":"CA","o":"Nokia"}]);

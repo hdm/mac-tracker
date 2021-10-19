@@ -1,1 +1,1 @@
-deepmacDetailCallback("50de19400000/28",[{"d":"2019-11-05","t":"add","s":"ieee-mam.csv","a":"2/F, Boxun Building, Keyuan North Road, Nanshan District Shenzhen Guangdong CN 518103","c":"CN","o":"Langogo Technology Co., Ltd."}]);
+macDetailCallback("50de19400000/28",[{"d":"2019-11-05","t":"add","s":"ieee-mam.csv","a":"2/F, Boxun Building, Keyuan North Road, Nanshan District Shenzhen Guangdong CN 518103","c":"CN","o":"Langogo Technology Co., Ltd."}]);

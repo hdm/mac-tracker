@@ -1,1 +1,1 @@
-deepmacDetailCallback("00213b000000/24",[{"d":"2008-06-18","t":"add","a":"PO Box 2819\nCumming GA 30028\n\n","c":"UNITED STATES","o":"Berkshire Products, Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"PO Box 2819 Cumming GA US 30028","c":"US","o":"Berkshire Products, Inc"}]);
+macDetailCallback("00213b000000/24",[{"d":"2008-06-18","t":"add","a":"PO Box 2819\nCumming GA 30028\n\n","c":"UNITED STATES","o":"Berkshire Products, Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"PO Box 2819 Cumming GA US 30028","c":"US","o":"Berkshire Products, Inc"}]);

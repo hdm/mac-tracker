@@ -1,1 +1,1 @@
-deepmacDetailCallback("78c2c0c00000/28",[{"a":"Room 2008, Feidiao International Building Shanghai Shanghai CN 200030","o":"Shanghai Hanyi Technologies Co,.Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("78c2c0c00000/28",[{"a":"Room 2008, Feidiao International Building Shanghai Shanghai CN 200030","o":"Shanghai Hanyi Technologies Co,.Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

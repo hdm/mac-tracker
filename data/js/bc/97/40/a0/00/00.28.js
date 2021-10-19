@@ -1,1 +1,1 @@
-deepmacDetailCallback("bc9740a00000/28",[{"d":"2019-03-21","t":"add","s":"ieee-mam.csv","a":"A051, No.01, 3/F, No.55 Suzhou Street, Haidian District Beijing Beijing CN 100080","c":"CN","o":"Amap Information Technology Co., Ltd"}]);
+macDetailCallback("bc9740a00000/28",[{"d":"2019-03-21","t":"add","s":"ieee-mam.csv","a":"A051, No.01, 3/F, No.55 Suzhou Street, Haidian District Beijing Beijing CN 100080","c":"CN","o":"Amap Information Technology Co., Ltd"}]);

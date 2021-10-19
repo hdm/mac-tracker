@@ -1,1 +1,1 @@
-deepmacDetailCallback("480bb2c00000/28",[{"a":"5th Floor, Building 10 Changyuan New Material  Port,No.2,Middle Road 1, High Tech Park, Nanshan District,Shenzhen CN 518001","o":"SHENZHEN TOPWELL TECHNOLOGY CO..LTD","d":"2018-01-14","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("480bb2c00000/28",[{"a":"5th Floor, Building 10 Changyuan New Material  Port,No.2,Middle Road 1, High Tech Park, Nanshan District,Shenzhen CN 518001","o":"SHENZHEN TOPWELL TECHNOLOGY CO..LTD","d":"2018-01-14","t":"add","s":"ieee","c":"CN"}]);

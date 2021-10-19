@@ -1,1 +1,1 @@
-deepmacDetailCallback("001bc506d000/36",[{"a":"#65, 35th Main, 100 feet Ring Road, Bangalore Karnataka IN 560068","o":"TES Electronic Solutions (I) Pvt. Ltd.","d":"2013-03-31","t":"add","s":"ieee","c":"IN"}]);
+macDetailCallback("001bc506d000/36",[{"a":"#65, 35th Main, 100 feet Ring Road, Bangalore Karnataka IN 560068","o":"TES Electronic Solutions (I) Pvt. Ltd.","d":"2013-03-31","t":"add","s":"ieee","c":"IN"}]);

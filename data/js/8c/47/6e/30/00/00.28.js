@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c476e300000/28",[{"d":"2020-09-29","t":"add","s":"ieee-mam.csv","a":"Shanghai Satellite Communication Technology Co.,Ltd Shanghai Shanghai CN 201800","c":"CN","o":"Shanghai Satellite Communication Technology Co.,Ltd"}]);
+macDetailCallback("8c476e300000/28",[{"d":"2020-09-29","t":"add","s":"ieee-mam.csv","a":"Shanghai Satellite Communication Technology Co.,Ltd Shanghai Shanghai CN 201800","c":"CN","o":"Shanghai Satellite Communication Technology Co.,Ltd"}]);

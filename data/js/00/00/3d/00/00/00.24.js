@@ -1,1 +1,1 @@
-deepmacDetailCallback("00003d000000/24",[{"d":"1998-09-25","t":"add","a":"MS8-010\nP.O. BOX 6685\nSAN JOSE CA 95150-6685\n","c":"UNITED STATES","o":"UNISYS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"MS8-010 SAN JOSE CA US 95150-6685","c":"US","o":"UNISYS"}]);
+macDetailCallback("00003d000000/24",[{"d":"1998-09-25","t":"add","a":"MS8-010\nP.O. BOX 6685\nSAN JOSE CA 95150-6685\n","c":"UNITED STATES","o":"UNISYS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"MS8-010 SAN JOSE CA US 95150-6685","c":"US","o":"UNISYS"}]);

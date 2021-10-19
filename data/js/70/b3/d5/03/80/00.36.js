@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5038000/36",[{"d":"2019-12-12","t":"add","s":"ieee-oui36.csv","a":"#9 Ftrek tower, 11-25, Simindaero 327 beongil,Dongan-gu Anyangi-Si Gyeonggi-Do KR 14055","c":"KR","o":"DONG IL VISION Co., Ltd."}]);
+macDetailCallback("70b3d5038000/36",[{"d":"2019-12-12","t":"add","s":"ieee-oui36.csv","a":"#9 Ftrek tower, 11-25, Simindaero 327 beongil,Dongan-gu Anyangi-Si Gyeonggi-Do KR 14055","c":"KR","o":"DONG IL VISION Co., Ltd."}]);

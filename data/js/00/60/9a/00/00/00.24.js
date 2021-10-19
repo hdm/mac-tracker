@@ -1,1 +1,1 @@
-deepmacDetailCallback("00609a000000/24",[{"d":"1998-04-22","t":"add","a":"N1-25 KAMIYASATO\nKOMATSU  #923\n\n","c":"JAPAN","o":"NJK TECHNO CO."},{"d":"2015-08-27","t":"change","a":"N1-25 KAMIYASATO KOMATSU  #923  JP","c":"JP","o":"NJK TECHNO CO."}]);
+macDetailCallback("00609a000000/24",[{"d":"1998-04-22","t":"add","a":"N1-25 KAMIYASATO\nKOMATSU  #923\n\n","c":"JAPAN","o":"NJK TECHNO CO."},{"d":"2015-08-27","t":"change","a":"N1-25 KAMIYASATO KOMATSU  #923  JP","c":"JP","o":"NJK TECHNO CO."}]);

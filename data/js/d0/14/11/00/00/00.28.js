@@ -1,1 +1,1 @@
-deepmacDetailCallback("d01411000000/28",[{"d":"2020-05-08","t":"add","s":"ieee-mam.csv","a":"Sir Colin Campbell Building, UNIP Triumph Road, Nottingham UK Mainland GB NG7 2TU","c":"GB","o":"EkkoSense Ltd"}]);
+macDetailCallback("d01411000000/28",[{"d":"2020-05-08","t":"add","s":"ieee-mam.csv","a":"Sir Colin Campbell Building, UNIP Triumph Road, Nottingham UK Mainland GB NG7 2TU","c":"GB","o":"EkkoSense Ltd"}]);

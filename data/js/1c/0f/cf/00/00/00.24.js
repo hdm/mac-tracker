@@ -1,1 +1,1 @@
-deepmacDetailCallback("1c0fcf000000/24",[{"d":"2009-10-13","t":"add","a":"Carl-Zeiss-Promenade 10\nJena Thuringia 07745\n\n","c":"GERMANY","o":"Sypro Optics GmbH"},{"d":"2015-08-27","t":"change","a":"Carl-Zeiss-Promenade 10 Jena Thuringia DE 07745","c":"DE","o":"Sypro Optics GmbH"}]);
+macDetailCallback("1c0fcf000000/24",[{"d":"2009-10-13","t":"add","a":"Carl-Zeiss-Promenade 10\nJena Thuringia 07745\n\n","c":"GERMANY","o":"Sypro Optics GmbH"},{"d":"2015-08-27","t":"change","a":"Carl-Zeiss-Promenade 10 Jena Thuringia DE 07745","c":"DE","o":"Sypro Optics GmbH"}]);

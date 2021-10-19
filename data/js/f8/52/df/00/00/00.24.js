@@ -1,1 +1,1 @@
-deepmacDetailCallback("f852df000000/24",[{"d":"2009-09-19","t":"add","a":"Finlandsgatan 10\nSE\nKista  164 74\n","c":"SWEDEN","o":"VNL Europe AB"},{"d":"2015-08-27","t":"change","a":"Finlandsgatan 10 Kista  SE 164 74","c":"SE","o":"VNL Europe AB"}]);
+macDetailCallback("f852df000000/24",[{"d":"2009-09-19","t":"add","a":"Finlandsgatan 10\nSE\nKista  164 74\n","c":"SWEDEN","o":"VNL Europe AB"},{"d":"2015-08-27","t":"change","a":"Finlandsgatan 10 Kista  SE 164 74","c":"SE","o":"VNL Europe AB"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d591a000/36",[{"a":"Room 305, third floor，NO.550,Western suburbs Industrial Road,Hongshan Town,Gulou District,Fuzhou,P.R.China Fuzhou Fujian CN 350001","o":"Fujian Landfone Information Technology Co.,Ltd","d":"2016-05-22","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d591a000/36",[{"a":"Room 305, third floor，NO.550,Western suburbs Industrial Road,Hongshan Town,Gulou District,Fuzhou,P.R.China Fuzhou Fujian CN 350001","o":"Fujian Landfone Information Technology Co.,Ltd","d":"2016-05-22","t":"add","s":"ieee","c":"CN"}]);

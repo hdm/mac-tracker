@@ -1,1 +1,1 @@
-deepmacDetailCallback("e89e0c000000/24",[{"a":"","o":"Private","d":"2016-11-27","t":"add","s":"ieee"},{"d":"2021-01-08","t":"change","s":"ieee-oui.csv","a":"4757 NW 72ND AVENUE MIAMI FL US 33166","c":"US","o":"MAX8USA DISTRIBUTORS INC."}]);
+macDetailCallback("e89e0c000000/24",[{"a":"","o":"Private","d":"2016-11-27","t":"add","s":"ieee"},{"d":"2021-01-08","t":"change","s":"ieee-oui.csv","a":"4757 NW 72ND AVENUE MIAMI FL US 33166","c":"US","o":"MAX8USA DISTRIBUTORS INC."}]);

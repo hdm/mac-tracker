@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d51ce000/36",[{"d":"2019-10-23","t":"add","s":"ieee-oui36.csv","a":"Fradley Distribution Park, Wood End Lane Lichfield Staffordshire GB WS13 8NE","c":"GB","o":"Clear Flow by Antiference"}]);
+macDetailCallback("70b3d51ce000/36",[{"d":"2019-10-23","t":"add","s":"ieee-oui36.csv","a":"Fradley Distribution Park, Wood End Lane Lichfield Staffordshire GB WS13 8NE","c":"GB","o":"Clear Flow by Antiference"}]);

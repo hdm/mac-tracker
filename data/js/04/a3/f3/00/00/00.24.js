@@ -1,1 +1,1 @@
-deepmacDetailCallback("04a3f3000000/24",[{"d":"2010-04-01","t":"add","a":"shelkovskoe shosse, 77\nMoscow  107241\n\n","c":"RUSSIAN FEDERATION","o":"Emicon"},{"d":"2015-08-27","t":"change","a":"shelkovskoe shosse, 77 Moscow  RU 107241","c":"RU","o":"Emicon"}]);
+macDetailCallback("04a3f3000000/24",[{"d":"2010-04-01","t":"add","a":"shelkovskoe shosse, 77\nMoscow  107241\n\n","c":"RUSSIAN FEDERATION","o":"Emicon"},{"d":"2015-08-27","t":"change","a":"shelkovskoe shosse, 77 Moscow  RU 107241","c":"RU","o":"Emicon"}]);

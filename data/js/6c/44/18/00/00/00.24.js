@@ -1,1 +1,1 @@
-deepmacDetailCallback("6c4418000000/24",[{"d":"2015-01-22","t":"add","a":"Ilgatlaan 19\nHasselt Limburg 3500\n\n","c":"BELGIUM","o":"Zappware"},{"d":"2015-08-27","t":"change","a":"Ilgatlaan 19 Hasselt Limburg BE 3500","c":"BE","o":"Zappware"}]);
+macDetailCallback("6c4418000000/24",[{"d":"2015-01-22","t":"add","a":"Ilgatlaan 19\nHasselt Limburg 3500\n\n","c":"BELGIUM","o":"Zappware"},{"d":"2015-08-27","t":"change","a":"Ilgatlaan 19 Hasselt Limburg BE 3500","c":"BE","o":"Zappware"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c593c300000/28",[{"d":"2019-04-04","t":"add","s":"ieee-mam.csv","a":"97-2 keyuan 2nd street, jiulongpo district, Chongqing Chongqing CN 400039","c":"CN","o":"Chongqing beimoting technology co.ltd"}]);
+macDetailCallback("8c593c300000/28",[{"d":"2019-04-04","t":"add","s":"ieee-mam.csv","a":"97-2 keyuan 2nd street, jiulongpo district, Chongqing Chongqing CN 400039","c":"CN","o":"Chongqing beimoting technology co.ltd"}]);

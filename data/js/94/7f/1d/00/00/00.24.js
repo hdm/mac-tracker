@@ -1,1 +1,1 @@
-deepmacDetailCallback("947f1d000000/24",[{"d":"2021-07-21","t":"add","s":"ieee-oui.csv","a":"No.3 Baolong 4th Rd., Baolong Industrial Area, Longgang District, Shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen Fastrain Technology Co., Ltd."}]);
+macDetailCallback("947f1d000000/24",[{"d":"2021-07-21","t":"add","s":"ieee-oui.csv","a":"No.3 Baolong 4th Rd., Baolong Industrial Area, Longgang District, Shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen Fastrain Technology Co., Ltd."}]);

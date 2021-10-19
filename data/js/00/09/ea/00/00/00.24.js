@@ -1,1 +1,1 @@
-deepmacDetailCallback("0009ea000000/24",[{"d":"2002-06-05","t":"add","a":"1-3-33\nOkata\nAtsugi-shi Kanagawa 243-0021\n","c":"JAPAN","o":"YEM Inc."},{"d":"2015-08-27","t":"change","a":"1-3-33 Atsugi-shi Kanagawa JP 243-0021","c":"JP","o":"YEM Inc."}]);
+macDetailCallback("0009ea000000/24",[{"d":"2002-06-05","t":"add","a":"1-3-33\nOkata\nAtsugi-shi Kanagawa 243-0021\n","c":"JAPAN","o":"YEM Inc."},{"d":"2015-08-27","t":"change","a":"1-3-33 Atsugi-shi Kanagawa JP 243-0021","c":"JP","o":"YEM Inc."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("58d391000000/24",[{"d":"2020-12-24","t":"add","s":"ieee-oui.csv","a":"7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233","c":"CN","o":"Quectel Wireless Solutions Co., Ltd."}]);
+macDetailCallback("58d391000000/24",[{"d":"2020-12-24","t":"add","s":"ieee-oui.csv","a":"7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233","c":"CN","o":"Quectel Wireless Solutions Co., Ltd."}]);

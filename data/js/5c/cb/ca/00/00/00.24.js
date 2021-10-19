@@ -1,1 +1,1 @@
-deepmacDetailCallback("5ccbca000000/24",[{"a":"19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002","o":"FUJIAN STAR-NET COMMUNICATION CO.,LTD","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("5ccbca000000/24",[{"a":"19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002","o":"FUJIAN STAR-NET COMMUNICATION CO.,LTD","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

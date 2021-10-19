@@ -1,1 +1,1 @@
-deepmacDetailCallback("344ac3000000/24",[{"d":"2020-12-23","t":"add","s":"ieee-oui.csv","a":"101-8, 1st Floor, Juxing Venture Base, No. 8 Lujing Road, GaoXin Development District Changsha City Hunan Province CN 410000","c":"CN","o":"HuNan ZiKun Information Technology CO., Ltd"}]);
+macDetailCallback("344ac3000000/24",[{"d":"2020-12-23","t":"add","s":"ieee-oui.csv","a":"101-8, 1st Floor, Juxing Venture Base, No. 8 Lujing Road, GaoXin Development District Changsha City Hunan Province CN 410000","c":"CN","o":"HuNan ZiKun Information Technology CO., Ltd"}]);

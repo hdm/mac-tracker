@@ -1,1 +1,1 @@
-deepmacDetailCallback("84e0f4000000/28",[{"a":"room 1321 qinghai building,beihuan rd,futian district shenzhen  CN 518034","o":"ShenZhen Panrich Technology Limited","d":"2016-05-29","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("84e0f4000000/28",[{"a":"room 1321 qinghai building,beihuan rd,futian district shenzhen  CN 518034","o":"ShenZhen Panrich Technology Limited","d":"2016-05-29","t":"add","s":"ieee","c":"CN"}]);

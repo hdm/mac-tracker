@@ -1,1 +1,1 @@
-deepmacDetailCallback("acc2ec000000/24",[{"d":"2012-04-11","t":"add","a":"11F-2, NO.1, ZHANQIAN\nMIAOLI  36043\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"CLT INT'L IND. CORP."},{"d":"2015-08-27","t":"change","a":"11F-2, NO.1, ZHANQIAN MIAOLI  TW 36043","c":"TW","o":"CLT INT'L IND. CORP."}]);
+macDetailCallback("acc2ec000000/24",[{"d":"2012-04-11","t":"add","a":"11F-2, NO.1, ZHANQIAN\nMIAOLI  36043\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"CLT INT'L IND. CORP."},{"d":"2015-08-27","t":"change","a":"11F-2, NO.1, ZHANQIAN MIAOLI  TW 36043","c":"TW","o":"CLT INT'L IND. CORP."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("001f31000000/24",[{"d":"2007-12-31","t":"add","a":"Krakesvej 17\nHilleroed Copenhagen 3400\n\n","c":"DENMARK","o":"Radiocomp"},{"d":"2015-08-27","t":"change","a":"Krakesvej 17 Hilleroed Copenhagen DK 3400","c":"DK","o":"Radiocomp"}]);
+macDetailCallback("001f31000000/24",[{"d":"2007-12-31","t":"add","a":"Krakesvej 17\nHilleroed Copenhagen 3400\n\n","c":"DENMARK","o":"Radiocomp"},{"d":"2015-08-27","t":"change","a":"Krakesvej 17 Hilleroed Copenhagen DK 3400","c":"DK","o":"Radiocomp"}]);

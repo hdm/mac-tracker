@@ -1,1 +1,1 @@
-deepmacDetailCallback("1cae3e200000/28",[{"d":"2021-07-30","t":"add","s":"ieee-mam.csv","a":"LINKWISE TECHNOLOGIES CO., LIMITED Shanghai Shanghai CN 200072","c":"CN","o":"LINKWISE TECHNOLOGIES CO., LIMITED"}]);
+macDetailCallback("1cae3e200000/28",[{"d":"2021-07-30","t":"add","s":"ieee-mam.csv","a":"LINKWISE TECHNOLOGIES CO., LIMITED Shanghai Shanghai CN 200072","c":"CN","o":"LINKWISE TECHNOLOGIES CO., LIMITED"}]);

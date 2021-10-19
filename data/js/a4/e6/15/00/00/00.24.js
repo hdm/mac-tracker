@@ -1,1 +1,1 @@
-deepmacDetailCallback("a4e615000000/24",[{"d":"2018-04-17","t":"add","a":"Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China SHENZHEN GUANGDONG CN 518057","c":"CN","o":"SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD"}]);
+macDetailCallback("a4e615000000/24",[{"d":"2018-04-17","t":"add","a":"Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China SHENZHEN GUANGDONG CN 518057","c":"CN","o":"SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD"}]);

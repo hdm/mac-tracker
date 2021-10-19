@@ -1,1 +1,1 @@
-deepmacDetailCallback("e84f4b000000/24",[{"d":"2020-08-16","t":"add","s":"ieee-oui.csv","a":"Rm 603, Tower B, Galaxy World Building, No.1 Yabao Road,Longgang District,Shenzhen,P.R.China. shenzhen guangdong CN 518000","c":"CN","o":"Shenzhen Delos Electronic Co., Ltd"}]);
+macDetailCallback("e84f4b000000/24",[{"d":"2020-08-16","t":"add","s":"ieee-oui.csv","a":"Rm 603, Tower B, Galaxy World Building, No.1 Yabao Road,Longgang District,Shenzhen,P.R.China. shenzhen guangdong CN 518000","c":"CN","o":"Shenzhen Delos Electronic Co., Ltd"}]);

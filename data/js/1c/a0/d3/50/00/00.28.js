@@ -1,1 +1,1 @@
-deepmacDetailCallback("1ca0d3500000/28",[{"a":"Unit C&D, No.201 WuXiang, Export Processing Zone A No.200Suhong Road SIP Suzhou JiangSu CN 215021","o":"Dynamic Connect (Suzhou) Hi-Tech Electronic Co.,Ltd.","d":"2016-11-20","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("1ca0d3500000/28",[{"a":"Unit C&D, No.201 WuXiang, Export Processing Zone A No.200Suhong Road SIP Suzhou JiangSu CN 215021","o":"Dynamic Connect (Suzhou) Hi-Tech Electronic Co.,Ltd.","d":"2016-11-20","t":"add","s":"ieee","c":"CN"}]);

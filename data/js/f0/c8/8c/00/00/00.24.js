@@ -1,1 +1,1 @@
-deepmacDetailCallback("f0c88c000000/24",[{"d":"2010-09-10","t":"add","a":"2740 Einstein Street\nQuebec City  G1P 4S4\n\n","c":"CANADA","o":"LeddarTech Inc."},{"d":"2015-08-27","t":"change","a":"2740 Einstein Street Quebec City  CA G1P 4S4","c":"CA","o":"LeddarTech Inc."}]);
+macDetailCallback("f0c88c000000/24",[{"d":"2010-09-10","t":"add","a":"2740 Einstein Street\nQuebec City  G1P 4S4\n\n","c":"CANADA","o":"LeddarTech Inc."},{"d":"2015-08-27","t":"change","a":"2740 Einstein Street Quebec City  CA G1P 4S4","c":"CA","o":"LeddarTech Inc."}]);

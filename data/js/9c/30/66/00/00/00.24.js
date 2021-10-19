@@ -1,1 +1,1 @@
-deepmacDetailCallback("9c3066000000/24",[{"d":"2014-12-17","t":"add","a":"Flamingoweg 1\nDortmund NRW 44139\n\n","c":"GERMANY","o":"RWE Effizienz GmbH"},{"d":"2015-08-27","t":"change","a":"Flamingoweg 1 Dortmund NRW DE 44139","c":"DE","o":"RWE Effizienz GmbH"}]);
+macDetailCallback("9c3066000000/24",[{"d":"2014-12-17","t":"add","a":"Flamingoweg 1\nDortmund NRW 44139\n\n","c":"GERMANY","o":"RWE Effizienz GmbH"},{"d":"2015-08-27","t":"change","a":"Flamingoweg 1 Dortmund NRW DE 44139","c":"DE","o":"RWE Effizienz GmbH"}]);

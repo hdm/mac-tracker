@@ -1,1 +1,1 @@
-deepmacDetailCallback("208593100000/28",[{"d":"2019-06-13","t":"add","s":"ieee-mam.csv","a":"Bella Vista, Obarrio, Edificio Magna Corp, Mezanine Panama Panama PA 33131","c":"PA","o":"Networking Services Corp"}]);
+macDetailCallback("208593100000/28",[{"d":"2019-06-13","t":"add","s":"ieee-mam.csv","a":"Bella Vista, Obarrio, Edificio Magna Corp, Mezanine Panama Panama PA 33131","c":"PA","o":"Networking Services Corp"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("0007ad000000/24",[{"d":"2001-10-24","t":"add","a":"Enderstrabe 94\n01277 Dresden\n\n","c":"GERMANY","o":"Pentacon GmbH Foto-und Feinwerktechnik"},{"d":"2015-08-27","t":"change","a":"Enderstrabe 94   DE","c":"DE","o":"Pentacon GmbH Foto-und Feinwerktechnik"}]);
+macDetailCallback("0007ad000000/24",[{"d":"2001-10-24","t":"add","a":"Enderstrabe 94\n01277 Dresden\n\n","c":"GERMANY","o":"Pentacon GmbH Foto-und Feinwerktechnik"},{"d":"2015-08-27","t":"change","a":"Enderstrabe 94   DE","c":"DE","o":"Pentacon GmbH Foto-und Feinwerktechnik"}]);

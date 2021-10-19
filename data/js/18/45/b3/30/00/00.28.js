@@ -1,1 +1,1 @@
-deepmacDetailCallback("1845b3300000/28",[{"d":"2021-09-30","t":"add","s":"ieee-mam.csv","a":"No.644, No.117 yunhan Avenue, Beibei District, Chongqing, China chongqing  CN 4000000","c":"CN","o":"Ancsonic (chongqing) Electronic Science& Technology Co.,Ltd"}]);
+macDetailCallback("1845b3300000/28",[{"d":"2021-09-30","t":"add","s":"ieee-mam.csv","a":"No.644, No.117 yunhan Avenue, Beibei District, Chongqing, China chongqing  CN 4000000","c":"CN","o":"Ancsonic (chongqing) Electronic Science& Technology Co.,Ltd"}]);

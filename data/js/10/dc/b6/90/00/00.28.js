@@ -1,1 +1,1 @@
-deepmacDetailCallback("10dcb6900000/28",[{"d":"2019-07-24","t":"add","s":"ieee-mam.csv","a":"No. 18 Building, A District, No.89,software Boulevard Fuzhou,Fujian,PRC Fuzhou FuJian CN 350003","c":"CN","o":"Fuzhou Rockchip Electronics Co.,Ltd"}]);
+macDetailCallback("10dcb6900000/28",[{"d":"2019-07-24","t":"add","s":"ieee-mam.csv","a":"No. 18 Building, A District, No.89,software Boulevard Fuzhou,Fujian,PRC Fuzhou FuJian CN 350003","c":"CN","o":"Fuzhou Rockchip Electronics Co.,Ltd"}]);

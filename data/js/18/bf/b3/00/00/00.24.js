@@ -1,1 +1,1 @@
-deepmacDetailCallback("18bfb3000000/24",[{"d":"2021-02-05","t":"add","s":"ieee-oui.csv","a":"1, Samsungjeonja-ro Hwaseong-si Gyeonggi-do KR 18448","c":"KR","o":"Samsung Electronics Co., Ltd., Memory Division"}]);
+macDetailCallback("18bfb3000000/24",[{"d":"2021-02-05","t":"add","s":"ieee-oui.csv","a":"1, Samsungjeonja-ro Hwaseong-si Gyeonggi-do KR 18448","c":"KR","o":"Samsung Electronics Co., Ltd., Memory Division"}]);

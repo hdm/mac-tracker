@@ -1,1 +1,1 @@
-deepmacDetailCallback("3c28a6000000/24",[{"d":"2019-11-06","t":"add","s":"ieee-oui.csv","a":"2/F, Building 1, No.60 Naxian Road,Pudong Shanghai Shanghai CN 201210","c":"CN","o":"Alcatel-Lucent Enterprise (China)"}]);
+macDetailCallback("3c28a6000000/24",[{"d":"2019-11-06","t":"add","s":"ieee-oui.csv","a":"2/F, Building 1, No.60 Naxian Road,Pudong Shanghai Shanghai CN 201210","c":"CN","o":"Alcatel-Lucent Enterprise (China)"}]);

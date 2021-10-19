@@ -1,1 +1,1 @@
-deepmacDetailCallback("00131c000000/24",[{"d":"2004-12-15","t":"add","a":"3400 South West Temple\nSalt Lake City UT 84115\n\n","c":"UNITED STATES","o":"LiteTouch, Inc."},{"d":"2015-08-27","t":"change","a":"3400 South West Temple Salt Lake City UT US 84115","c":"US","o":"LiteTouch, Inc."}]);
+macDetailCallback("00131c000000/24",[{"d":"2004-12-15","t":"add","a":"3400 South West Temple\nSalt Lake City UT 84115\n\n","c":"UNITED STATES","o":"LiteTouch, Inc."},{"d":"2015-08-27","t":"change","a":"3400 South West Temple Salt Lake City UT US 84115","c":"US","o":"LiteTouch, Inc."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("102c83000000/24",[{"d":"2014-12-17","t":"add","a":"Lesna 52\nMarianka SK 90033\n\n","c":"SLOVAKIA","o":"XIMEA"},{"d":"2015-08-27","t":"change","a":"Lesna 52 Marianka SK SK 90033","c":"SK","o":"XIMEA"}]);
+macDetailCallback("102c83000000/24",[{"d":"2014-12-17","t":"add","a":"Lesna 52\nMarianka SK 90033\n\n","c":"SLOVAKIA","o":"XIMEA"},{"d":"2015-08-27","t":"change","a":"Lesna 52 Marianka SK SK 90033","c":"SK","o":"XIMEA"}]);

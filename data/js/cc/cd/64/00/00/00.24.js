@@ -1,1 +1,1 @@
-deepmacDetailCallback("cccd64000000/24",[{"d":"2010-09-10","t":"add","a":"Waldweg 2\nStapelfeld / Braak  22145\n\n","c":"GERMANY","o":"SM-Electronic GmbH"},{"d":"2015-08-27","t":"change","a":"Waldweg 2 Stapelfeld / Braak  DE 22145","c":"DE","o":"SM-Electronic GmbH"}]);
+macDetailCallback("cccd64000000/24",[{"d":"2010-09-10","t":"add","a":"Waldweg 2\nStapelfeld / Braak  22145\n\n","c":"GERMANY","o":"SM-Electronic GmbH"},{"d":"2015-08-27","t":"change","a":"Waldweg 2 Stapelfeld / Braak  DE 22145","c":"DE","o":"SM-Electronic GmbH"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d51a6000/36",[{"a":"N3-4-1-1914, Global Center, No. 1700, Tianfu Road North, High-rech Zone Chengdu City Sichuan CN 610041","o":"Robotelf Technologies (Chengdu) Co., Ltd.","d":"2018-01-21","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d51a6000/36",[{"a":"N3-4-1-1914, Global Center, No. 1700, Tianfu Road North, High-rech Zone Chengdu City Sichuan CN 610041","o":"Robotelf Technologies (Chengdu) Co., Ltd.","d":"2018-01-21","t":"add","s":"ieee","c":"CN"}]);

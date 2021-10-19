@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5032000/36",[{"a":"D401, NO.16 Langshan Road, Nanshan District Shenzhen Guangdong CN 518057","o":"iFreecomm Technology Co., Ltd","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d5032000/36",[{"a":"D401, NO.16 Langshan Road, Nanshan District Shenzhen Guangdong CN 518057","o":"iFreecomm Technology Co., Ltd","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);

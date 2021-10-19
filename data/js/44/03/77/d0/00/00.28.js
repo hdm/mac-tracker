@@ -1,1 +1,1 @@
-deepmacDetailCallback("440377d00000/28",[{"d":"2019-08-22","t":"add","s":"ieee-mam.csv","a":"7th Floor, No. 10, Lane 30, Lane 358, Ruiguang Road, Neihu District, Taipei, Taiwan Taipei  TW 114","c":"TW","o":"OMNISENSE SYSTEMS PRIVATE LIMITED TAIWAN BRANCH"}]);
+macDetailCallback("440377d00000/28",[{"d":"2019-08-22","t":"add","s":"ieee-mam.csv","a":"7th Floor, No. 10, Lane 30, Lane 358, Ruiguang Road, Neihu District, Taipei, Taiwan Taipei  TW 114","c":"TW","o":"OMNISENSE SYSTEMS PRIVATE LIMITED TAIWAN BRANCH"}]);

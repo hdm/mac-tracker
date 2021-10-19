@@ -1,1 +1,1 @@
-deepmacDetailCallback("d8e952000000/24",[{"d":"2011-11-29","t":"add","a":"21 RUE LOUIS DE BROGLIE\nLANNION BRITANY 22300\n\n","c":"FRANCE","o":"KEOPSYS"},{"d":"2015-08-27","t":"change","a":"21 RUE LOUIS DE BROGLIE LANNION BRITANY FR 22300","c":"FR","o":"KEOPSYS"}]);
+macDetailCallback("d8e952000000/24",[{"d":"2011-11-29","t":"add","a":"21 RUE LOUIS DE BROGLIE\nLANNION BRITANY 22300\n\n","c":"FRANCE","o":"KEOPSYS"},{"d":"2015-08-27","t":"change","a":"21 RUE LOUIS DE BROGLIE LANNION BRITANY FR 22300","c":"FR","o":"KEOPSYS"}]);

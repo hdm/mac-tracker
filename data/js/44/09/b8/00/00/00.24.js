@@ -1,1 +1,1 @@
-deepmacDetailCallback("4409b8000000/24",[{"d":"2016-06-25","t":"add","a":"Salcomp Road, Furong Industrial Area, Xinqiao, Shajing, Baoan District Shenzhen Guangdong CN 518125","c":"CN","o":"Salcomp (Shenzhen) CO., LTD."}]);
+macDetailCallback("4409b8000000/24",[{"d":"2016-06-25","t":"add","a":"Salcomp Road, Furong Industrial Area, Xinqiao, Shajing, Baoan District Shenzhen Guangdong CN 518125","c":"CN","o":"Salcomp (Shenzhen) CO., LTD."}]);

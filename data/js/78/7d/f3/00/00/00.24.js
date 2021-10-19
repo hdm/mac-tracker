@@ -1,1 +1,1 @@
-deepmacDetailCallback("787df3000000/24",[{"d":"2020-08-29","t":"add","s":"ieee-oui.csv","a":"IFFCO Tower, 3rd Floor, Plot No.3, Sector 29,CH Baktawar Singh Rd, Institutional Area, Gurugram Haryana IN 122002","c":"IN","o":"Sterlite Technologies Limited"}]);
+macDetailCallback("787df3000000/24",[{"d":"2020-08-29","t":"add","s":"ieee-oui.csv","a":"IFFCO Tower, 3rd Floor, Plot No.3, Sector 29,CH Baktawar Singh Rd, Institutional Area, Gurugram Haryana IN 122002","c":"IN","o":"Sterlite Technologies Limited"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("185869000000/24",[{"d":"2020-01-01","t":"add","s":"ieee-oui.csv","a":"No. 6, Sanxi Road, Ximagou Industrial Park, Jianxi District Luoyang Henan CN 471000","c":"CN","o":"Sailer Electronic Co., Ltd"}]);
+macDetailCallback("185869000000/24",[{"d":"2020-01-01","t":"add","s":"ieee-oui.csv","a":"No. 6, Sanxi Road, Ximagou Industrial Park, Jianxi District Luoyang Henan CN 471000","c":"CN","o":"Sailer Electronic Co., Ltd"}]);

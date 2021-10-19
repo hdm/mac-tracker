@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5d62000/36",[{"a":"Teknopark İstanbul,  Sanayi Mah, Teknopark Bulvarı, No:1/1C 1206 Pendik/İstanbul İstanbul  TR 34906","o":"Andasis Elektronik San. ve Tic. A.Ş.","d":"2018-01-28","t":"add","s":"ieee","c":"TR"}]);
+macDetailCallback("70b3d5d62000/36",[{"a":"Teknopark İstanbul,  Sanayi Mah, Teknopark Bulvarı, No:1/1C 1206 Pendik/İstanbul İstanbul  TR 34906","o":"Andasis Elektronik San. ve Tic. A.Ş.","d":"2018-01-28","t":"add","s":"ieee","c":"TR"}]);

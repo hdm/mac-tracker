@@ -1,1 +1,1 @@
-deepmacDetailCallback("d02212700000/28",[{"a":"ROD VICE PREF HERMENEGILDO TONOLI, 2285 ITUPEVA SAO PAULO BR 13295000","o":"Cliptech Industria e Comercio Ltda","d":"2015-10-16","t":"add","s":"ieee","c":"BR"}]);
+macDetailCallback("d02212700000/28",[{"a":"ROD VICE PREF HERMENEGILDO TONOLI, 2285 ITUPEVA SAO PAULO BR 13295000","o":"Cliptech Industria e Comercio Ltda","d":"2015-10-16","t":"add","s":"ieee","c":"BR"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("3c24f0000000/28",[{"a":"411,4/F,Building A,Pengnian Science Park,Honghua IV Road,Xili,Nanshan District Shenzhen Guangdong CN 518000","o":"SHENZHEN PINSIDA TECHNOLOGY CO.,LTD.","d":"2018-01-21","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("3c24f0000000/28",[{"a":"411,4/F,Building A,Pengnian Science Park,Honghua IV Road,Xili,Nanshan District Shenzhen Guangdong CN 518000","o":"SHENZHEN PINSIDA TECHNOLOGY CO.,LTD.","d":"2018-01-21","t":"add","s":"ieee","c":"CN"}]);

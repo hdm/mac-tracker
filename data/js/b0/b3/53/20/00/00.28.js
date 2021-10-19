@@ -1,1 +1,1 @@
-deepmacDetailCallback("b0b353200000/28",[{"d":"2019-11-24","t":"add","s":"ieee-mam.csv","a":"No.001-00-114, Ruiyuan Mingcheng, Haiqu Zhong Road Rizhao Shandong CN 276800","c":"CN","o":"Rizhao SUNWAM International Co., Ltd."}]);
+macDetailCallback("b0b353200000/28",[{"d":"2019-11-24","t":"add","s":"ieee-mam.csv","a":"No.001-00-114, Ruiyuan Mingcheng, Haiqu Zhong Road Rizhao Shandong CN 276800","c":"CN","o":"Rizhao SUNWAM International Co., Ltd."}]);

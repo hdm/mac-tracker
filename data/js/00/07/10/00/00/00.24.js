@@ -1,1 +1,1 @@
-deepmacDetailCallback("000710000000/24",[{"d":"2001-10-24","t":"add","a":"614 Bancroft Way\nBerkeley CA 94556\n\n","c":"UNITED STATES","o":"Adax, Inc."},{"d":"2015-08-27","t":"change","a":"614 Bancroft Way Berkeley CA US 94556","c":"US","o":"Adax, Inc."}]);
+macDetailCallback("000710000000/24",[{"d":"2001-10-24","t":"add","a":"614 Bancroft Way\nBerkeley CA 94556\n\n","c":"UNITED STATES","o":"Adax, Inc."},{"d":"2015-08-27","t":"change","a":"614 Bancroft Way Berkeley CA US 94556","c":"US","o":"Adax, Inc."}]);

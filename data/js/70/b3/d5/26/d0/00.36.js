@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d526d000/36",[{"d":"2019-06-13","t":"add","s":"ieee-oui36.csv","a":"Unit 12 Magreal ind. est Ladywood, Birmingham West Midlands GB B16 0QZ","c":"GB","o":"Sorion Electronics ltd"}]);
+macDetailCallback("70b3d526d000/36",[{"d":"2019-06-13","t":"add","s":"ieee-oui36.csv","a":"Unit 12 Magreal ind. est Ladywood, Birmingham West Midlands GB B16 0QZ","c":"GB","o":"Sorion Electronics ltd"}]);

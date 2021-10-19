@@ -1,1 +1,1 @@
-deepmacDetailCallback("c4954da00000/28",[{"d":"2019-09-21","t":"add","s":"ieee-mam.csv","a":"Istanbul Trakya Serbest Bolgesi Ataturk Bulvari No:20 Istanbul Catalca TR 34500","c":"TR","o":"KAT Mekatronik Urunleri AS"}]);
+macDetailCallback("c4954da00000/28",[{"d":"2019-09-21","t":"add","s":"ieee-mam.csv","a":"Istanbul Trakya Serbest Bolgesi Ataturk Bulvari No:20 Istanbul Catalca TR 34500","c":"TR","o":"KAT Mekatronik Urunleri AS"}]);

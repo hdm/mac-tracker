@@ -1,1 +1,1 @@
-deepmacDetailCallback("44efbf000000/24",[{"d":"2019-06-26","t":"add","s":"ieee-oui.csv","a":"B4 Bldg.Haoshan 1st Industry Park, Shenzhen Guangdong CN 518104","c":"CN","o":"China Dragon Technology Limited"}]);
+macDetailCallback("44efbf000000/24",[{"d":"2019-06-26","t":"add","s":"ieee-oui.csv","a":"B4 Bldg.Haoshan 1st Industry Park, Shenzhen Guangdong CN 518104","c":"CN","o":"China Dragon Technology Limited"}]);

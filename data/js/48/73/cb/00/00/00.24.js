@@ -1,1 +1,1 @@
-deepmacDetailCallback("4873cb000000/24",[{"d":"2021-09-12","t":"add","s":"ieee-oui.csv","a":"No. 3333, Liuxian Avenue, Tower A, 32th Floor, Tanglang City, Nanshan District Shenzhen Guangdong CN 518055","c":"CN","o":"Tiinlab Corporation"}]);
+macDetailCallback("4873cb000000/24",[{"d":"2021-09-12","t":"add","s":"ieee-oui.csv","a":"No. 3333, Liuxian Avenue, Tower A, 32th Floor, Tanglang City, Nanshan District Shenzhen Guangdong CN 518055","c":"CN","o":"Tiinlab Corporation"}]);

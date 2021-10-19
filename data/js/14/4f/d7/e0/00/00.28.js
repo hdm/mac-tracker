@@ -1,1 +1,1 @@
-deepmacDetailCallback("144fd7e00000/28",[{"a":"No.15, Jinhui Rd., Jinsha Community, Kengzi Subdistrict, Pingshan District, Shenzhen Guangdong CN 518122","o":"Edan Instruments, Inc.","d":"2016-12-25","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("144fd7e00000/28",[{"a":"No.15, Jinhui Rd., Jinsha Community, Kengzi Subdistrict, Pingshan District, Shenzhen Guangdong CN 518122","o":"Edan Instruments, Inc.","d":"2016-12-25","t":"add","s":"ieee","c":"CN"}]);

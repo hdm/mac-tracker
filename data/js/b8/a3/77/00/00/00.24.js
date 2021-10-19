@@ -1,1 +1,1 @@
-deepmacDetailCallback("b8a377000000/24",[{"d":"2021-02-10","t":"add","s":"ieee-oui.csv","a":"80 West Tasman Drive San Jose CA US 94568","c":"US","o":"Cisco Systems, Inc"}]);
+macDetailCallback("b8a377000000/24",[{"d":"2021-02-10","t":"add","s":"ieee-oui.csv","a":"80 West Tasman Drive San Jose CA US 94568","c":"US","o":"Cisco Systems, Inc"}]);

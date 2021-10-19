@@ -1,1 +1,1 @@
-deepmacDetailCallback("40984c000000/24",[{"d":"2011-09-27","t":"add","a":"Badenerstarsse 551\nZuerich  8046\n\n","c":"SWITZERLAND","o":"Casacom Solutions AG"},{"d":"2015-08-27","t":"change","a":"Badenerstarsse 551 Zuerich  CH 8046","c":"CH","o":"Casacom Solutions AG"}]);
+macDetailCallback("40984c000000/24",[{"d":"2011-09-27","t":"add","a":"Badenerstarsse 551\nZuerich  8046\n\n","c":"SWITZERLAND","o":"Casacom Solutions AG"},{"d":"2015-08-27","t":"change","a":"Badenerstarsse 551 Zuerich  CH 8046","c":"CH","o":"Casacom Solutions AG"}]);

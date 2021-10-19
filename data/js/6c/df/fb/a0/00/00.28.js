@@ -1,1 +1,1 @@
-deepmacDetailCallback("6cdffba00000/28",[{"a":"Creative Industrial Park,GuiMo Rd.,Qi Xing Guilin Guangxi CN 541004","o":"Guilin Zhishen Information TechonlogyCO.,Ltd","d":"2018-09-10","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("6cdffba00000/28",[{"a":"Creative Industrial Park,GuiMo Rd.,Qi Xing Guilin Guangxi CN 541004","o":"Guilin Zhishen Information TechonlogyCO.,Ltd","d":"2018-09-10","t":"add","s":"ieee","c":"CN"}]);

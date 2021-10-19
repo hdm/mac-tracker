@@ -1,1 +1,1 @@
-deepmacDetailCallback("ac3cb4000000/24",[{"d":"2012-09-18","t":"add","a":"Nilanvej 2\nHedensted  8722\n\n","c":"DENMARK","o":"Nilan A/S"},{"d":"2015-08-27","t":"change","a":"Nilanvej 2 Hedensted Vejle amt DK 8722","c":"DK","o":"Nilan A/S"}]);
+macDetailCallback("ac3cb4000000/24",[{"d":"2012-09-18","t":"add","a":"Nilanvej 2\nHedensted  8722\n\n","c":"DENMARK","o":"Nilan A/S"},{"d":"2015-08-27","t":"change","a":"Nilanvej 2 Hedensted Vejle amt DK 8722","c":"DK","o":"Nilan A/S"}]);

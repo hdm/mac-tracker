@@ -1,1 +1,1 @@
-deepmacDetailCallback("584849500000/28",[{"d":"2021-05-28","t":"add","s":"ieee-mam.csv","a":"11 Lane 2, shuichan street, Huangmei County Huanggang Hubei CN 435500","c":"CN","o":"Hubei Shudi Communication Technology Co., Ltd"}]);
+macDetailCallback("584849500000/28",[{"d":"2021-05-28","t":"add","s":"ieee-mam.csv","a":"11 Lane 2, shuichan street, Huangmei County Huanggang Hubei CN 435500","c":"CN","o":"Hubei Shudi Communication Technology Co., Ltd"}]);

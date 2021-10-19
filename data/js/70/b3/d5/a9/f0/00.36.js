@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5a9f000/36",[{"a":"","o":"Private","d":"2016-02-21","t":"add","s":"ieee"},{"d":"2021-01-14","t":"change","s":"ieee-oui36.csv","a":"101 Regency Pkwy Mansfield TX US 76063","c":"US","o":"Master Meter Inc."}]);
+macDetailCallback("70b3d5a9f000/36",[{"a":"","o":"Private","d":"2016-02-21","t":"add","s":"ieee"},{"d":"2021-01-14","t":"change","s":"ieee-oui36.csv","a":"101 Regency Pkwy Mansfield TX US 76063","c":"US","o":"Master Meter Inc."}]);

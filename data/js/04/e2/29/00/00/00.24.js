@@ -1,1 +1,1 @@
-deepmacDetailCallback("04e229000000/24",[{"d":"2018-01-03","t":"add","a":"Building A01,Haier Information Park, No.1 Haier Road, Qingdao Shandong CN 266101","c":"CN","o":"Qingdao Haier Technology Co.,Ltd"}]);
+macDetailCallback("04e229000000/24",[{"d":"2018-01-03","t":"add","a":"Building A01,Haier Information Park, No.1 Haier Road, Qingdao Shandong CN 266101","c":"CN","o":"Qingdao Haier Technology Co.,Ltd"}]);

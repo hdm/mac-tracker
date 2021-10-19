@@ -1,1 +1,1 @@
-deepmacDetailCallback("c8f5d6d00000/28",[{"d":"2021-03-07","t":"add","s":"ieee-mam.csv","a":"Block A-7th Floor, Safal Profitaire, Corporate Road, Prahaladnagar Ahmedabad Gujarat IN 380015","c":"IN","o":"Volansys technologies pvt ltd"}]);
+macDetailCallback("c8f5d6d00000/28",[{"d":"2021-03-07","t":"add","s":"ieee-mam.csv","a":"Block A-7th Floor, Safal Profitaire, Corporate Road, Prahaladnagar Ahmedabad Gujarat IN 380015","c":"IN","o":"Volansys technologies pvt ltd"}]);

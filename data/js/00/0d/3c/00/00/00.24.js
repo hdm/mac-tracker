@@ -1,1 +1,1 @@
-deepmacDetailCallback("000d3c000000/24",[{"d":"2003-06-01","t":"add","a":"Room 1112, Metroplaza Tower 2, 223 Hing\n852\n\n","c":"HONG KONG","o":"i.Tech Dynamic Ltd"},{"d":"2015-08-27","t":"change","a":"Room 1112, Metroplaza Tower 2, 223 Hing   HK 852","c":"HK","o":"i.Tech Dynamic Ltd"}]);
+macDetailCallback("000d3c000000/24",[{"d":"2003-06-01","t":"add","a":"Room 1112, Metroplaza Tower 2, 223 Hing\n852\n\n","c":"HONG KONG","o":"i.Tech Dynamic Ltd"},{"d":"2015-08-27","t":"change","a":"Room 1112, Metroplaza Tower 2, 223 Hing   HK 852","c":"HK","o":"i.Tech Dynamic Ltd"}]);

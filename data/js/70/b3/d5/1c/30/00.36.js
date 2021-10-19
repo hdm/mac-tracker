@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d51c3000/36",[{"d":"2019-12-06","t":"add","s":"ieee-oui36.csv","a":"No.618,Guangxing Rd.,Songjiang  shanghai  CN 200090","c":"CN","o":"Shanghai Tiancheng Communication Technology Corporation"}]);
+macDetailCallback("70b3d51c3000/36",[{"d":"2019-12-06","t":"add","s":"ieee-oui36.csv","a":"No.618,Guangxing Rd.,Songjiang  shanghai  CN 200090","c":"CN","o":"Shanghai Tiancheng Communication Technology Corporation"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("9880bb400000/28",[{"d":"2021-08-21","t":"add","s":"ieee-mam.csv","a":"Room 1308-1309, Building B, Huihai Square, Chuangye Road, Longhua District, Shenzhen Shenzhen Guangdong CN 570100","c":"CN","o":"Shenzhen Ginto E-commerce CO.,LTD"}]);
+macDetailCallback("9880bb400000/28",[{"d":"2021-08-21","t":"add","s":"ieee-mam.csv","a":"Room 1308-1309, Building B, Huihai Square, Chuangye Road, Longhua District, Shenzhen Shenzhen Guangdong CN 570100","c":"CN","o":"Shenzhen Ginto E-commerce CO.,LTD"}]);

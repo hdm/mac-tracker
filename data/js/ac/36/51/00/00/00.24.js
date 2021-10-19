@@ -1,1 +1,1 @@
-deepmacDetailCallback("ac3651000000/24",[{"d":"2019-12-08","t":"add","s":"ieee-oui.csv","a":"Room 1312, Beiyou Technology Building, Haidian District Beijing Beijing CN 100876","c":"CN","o":"Jiangsu Hengtong Terahertz Technology Co., Ltd."}]);
+macDetailCallback("ac3651000000/24",[{"d":"2019-12-08","t":"add","s":"ieee-oui.csv","a":"Room 1312, Beiyou Technology Building, Haidian District Beijing Beijing CN 100876","c":"CN","o":"Jiangsu Hengtong Terahertz Technology Co., Ltd."}]);

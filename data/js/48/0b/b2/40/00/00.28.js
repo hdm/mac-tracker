@@ -1,1 +1,1 @@
-deepmacDetailCallback("480bb2400000/28",[{"a":"No. 90 Wensan, Hangzhou, Zhejiang Hangzhou  Zhejiang CN 310012","o":"Hangzhou Freely Communication Co., Ltd.","d":"2018-01-14","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("480bb2400000/28",[{"a":"No. 90 Wensan, Hangzhou, Zhejiang Hangzhou  Zhejiang CN 310012","o":"Hangzhou Freely Communication Co., Ltd.","d":"2018-01-14","t":"add","s":"ieee","c":"CN"}]);

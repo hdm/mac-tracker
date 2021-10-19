@@ -1,1 +1,1 @@
-deepmacDetailCallback("b0b353c00000/28",[{"d":"2019-11-24","t":"add","s":"ieee-mam.csv","a":"1st Floor, Building 1, Chaolai High-Tech industrial Part, Chaoyang District Beijing  Beijing  CN 100012","c":"CN","o":"Beijing Geekplus Technology Co.,Ltd."}]);
+macDetailCallback("b0b353c00000/28",[{"d":"2019-11-24","t":"add","s":"ieee-mam.csv","a":"1st Floor, Building 1, Chaolai High-Tech industrial Part, Chaoyang District Beijing  Beijing  CN 100012","c":"CN","o":"Beijing Geekplus Technology Co.,Ltd."}]);

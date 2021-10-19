@@ -1,1 +1,1 @@
-deepmacDetailCallback("4c218c000000/24",[{"a":"12th floor, Ambience tower, Ambience Island Gurgaon Haryana IN 122002","o":"Panasonic India Private limited","d":"2018-09-23","t":"add","s":"ieee","c":"IN"}]);
+macDetailCallback("4c218c000000/24",[{"a":"12th floor, Ambience tower, Ambience Island Gurgaon Haryana IN 122002","o":"Panasonic India Private limited","d":"2018-09-23","t":"add","s":"ieee","c":"IN"}]);

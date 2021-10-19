@@ -1,1 +1,1 @@
-deepmacDetailCallback("bc62ce000000/24",[{"d":"2020-09-26","t":"add","s":"ieee-oui.csv","a":"8 Floor, Bd B, information port, Langshan RD, Nanshan district,  Shenzhen Guangdong CN 518057","c":"CN","o":"SHENZHEN NETIS TECHNOLOGY CO.,LTD"}]);
+macDetailCallback("bc62ce000000/24",[{"d":"2020-09-26","t":"add","s":"ieee-oui.csv","a":"8 Floor, Bd B, information port, Langshan RD, Nanshan district,  Shenzhen Guangdong CN 518057","c":"CN","o":"SHENZHEN NETIS TECHNOLOGY CO.,LTD"}]);

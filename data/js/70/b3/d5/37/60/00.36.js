@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5376000/36",[{"a":"","o":"Private","d":"2016-09-04","t":"add","s":"ieee"},{"d":"2020-08-04","t":"change","s":"ieee-oui36.csv","a":"164 Townsend Street Unit 1 San Francisco CA US 94107","c":"US","o":"Magenta Labs, Inc."}]);
+macDetailCallback("70b3d5376000/36",[{"a":"","o":"Private","d":"2016-09-04","t":"add","s":"ieee"},{"d":"2020-08-04","t":"change","s":"ieee-oui36.csv","a":"164 Townsend Street Unit 1 San Francisco CA US 94107","c":"US","o":"Magenta Labs, Inc."}]);

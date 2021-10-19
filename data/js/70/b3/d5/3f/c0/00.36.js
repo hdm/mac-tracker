@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d53fc000/36",[{"d":"2020-01-21","t":"add","s":"ieee-oui36.csv","a":"3a-5d, Tingwei Daxia, Tingwei Industrial Park, No. 6, Liufang Road, Bao'an District Shenzhen Guangdong CN 518052","c":"CN","o":"TangRen C&S CO., Ltd"}]);
+macDetailCallback("70b3d53fc000/36",[{"d":"2020-01-21","t":"add","s":"ieee-oui36.csv","a":"3a-5d, Tingwei Daxia, Tingwei Industrial Park, No. 6, Liufang Road, Bao'an District Shenzhen Guangdong CN 518052","c":"CN","o":"TangRen C&S CO., Ltd"}]);

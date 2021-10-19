@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d56e3000/36",[{"d":"2019-07-04","t":"add","s":"ieee-oui36.csv","a":"Room A1502, NiuLanQian Building, MinZhi Road, LongHua Town ShenZhen GuangDong CN 518109","c":"CN","o":"SHEN ZHEN QLS ELECTRONIC TECHNOLOGY CO.,LTD."}]);
+macDetailCallback("70b3d56e3000/36",[{"d":"2019-07-04","t":"add","s":"ieee-oui36.csv","a":"Room A1502, NiuLanQian Building, MinZhi Road, LongHua Town ShenZhen GuangDong CN 518109","c":"CN","o":"SHEN ZHEN QLS ELECTRONIC TECHNOLOGY CO.,LTD."}]);

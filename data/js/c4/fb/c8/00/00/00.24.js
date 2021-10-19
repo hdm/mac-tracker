@@ -1,1 +1,1 @@
-deepmacDetailCallback("c4fbc8000000/24",[{"d":"2021-07-09","t":"add","s":"ieee-oui.csv","a":"Room 1501,East Building,Skyworth Semiconductor Building ,No.18,Gaoxin South 4th Road,Nanshan District SHENZHEN GUANGDONG CN 518000","c":"CN","o":"Shenzhen Candour Co., Ltd."}]);
+macDetailCallback("c4fbc8000000/24",[{"d":"2021-07-09","t":"add","s":"ieee-oui.csv","a":"Room 1501,East Building,Skyworth Semiconductor Building ,No.18,Gaoxin South 4th Road,Nanshan District SHENZHEN GUANGDONG CN 518000","c":"CN","o":"Shenzhen Candour Co., Ltd."}]);

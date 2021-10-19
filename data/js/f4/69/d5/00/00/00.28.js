@@ -1,1 +1,1 @@
-deepmacDetailCallback("f469d5000000/28",[{"d":"2020-05-28","t":"add","s":"ieee-mam.csv","a":"1014, 10/F, Leader Industrial Building, 57-59 Au Pui Wan Street, Fotan, Shatin Hong Kong HK NT","c":"NT","o":"Mossman Limited"}]);
+macDetailCallback("f469d5000000/28",[{"d":"2020-05-28","t":"add","s":"ieee-mam.csv","a":"1014, 10/F, Leader Industrial Building, 57-59 Au Pui Wan Street, Fotan, Shatin Hong Kong HK NT","c":"NT","o":"Mossman Limited"}]);

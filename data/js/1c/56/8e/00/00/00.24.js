@@ -1,1 +1,1 @@
-deepmacDetailCallback("1c568e000000/24",[{"d":"2021-08-12","t":"add","s":"ieee-oui.csv","a":"A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District Shenzhen Guangdong CN 518000","c":"CN","o":"Zioncom Electronics (Shenzhen) Ltd."}]);
+macDetailCallback("1c568e000000/24",[{"d":"2021-08-12","t":"add","s":"ieee-oui.csv","a":"A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District Shenzhen Guangdong CN 518000","c":"CN","o":"Zioncom Electronics (Shenzhen) Ltd."}]);

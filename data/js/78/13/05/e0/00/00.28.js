@@ -1,1 +1,1 @@
-deepmacDetailCallback("781305e00000/28",[{"d":"2021-04-24","t":"add","s":"ieee-mam.csv","a":"GuangMingGang JinJun road 8# DonggUAN  CN 523768","c":"CN","o":"Dongguan zhenxing electronic technology co.,limited"}]);
+macDetailCallback("781305e00000/28",[{"d":"2021-04-24","t":"add","s":"ieee-mam.csv","a":"GuangMingGang JinJun road 8# DonggUAN  CN 523768","c":"CN","o":"Dongguan zhenxing electronic technology co.,limited"}]);

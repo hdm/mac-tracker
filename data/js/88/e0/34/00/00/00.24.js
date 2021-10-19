@@ -1,1 +1,1 @@
-deepmacDetailCallback("88e034000000/24",[{"d":"2018-11-13","t":"add","s":"ieee-oui.csv","a":"No.26,Huifeng West 2 Road,Zhongkai High-tech Zone Huizhou Guangdong CN 516006","c":"CN","o":"Shinwa industries(China) ltd."}]);
+macDetailCallback("88e034000000/24",[{"d":"2018-11-13","t":"add","s":"ieee-oui.csv","a":"No.26,Huifeng West 2 Road,Zhongkai High-tech Zone Huizhou Guangdong CN 516006","c":"CN","o":"Shinwa industries(China) ltd."}]);

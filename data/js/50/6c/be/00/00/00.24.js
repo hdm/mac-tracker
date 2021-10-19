@@ -1,1 +1,1 @@
-deepmacDetailCallback("506cbe000000/24",[{"d":"2017-10-20","t":"add","a":"WuHan East Lake Wuhan New Technology Development Zone  Wuhan Hubei Province CN 430223","c":"CN","o":"InnosiliconTechnology Ltd"}]);
+macDetailCallback("506cbe000000/24",[{"d":"2017-10-20","t":"add","a":"WuHan East Lake Wuhan New Technology Development Zone  Wuhan Hubei Province CN 430223","c":"CN","o":"InnosiliconTechnology Ltd"}]);

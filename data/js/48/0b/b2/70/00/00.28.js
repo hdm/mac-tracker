@@ -1,1 +1,1 @@
-deepmacDetailCallback("480bb2700000/28",[{"a":"Tongjunzhuangxinlukou (500meters east) Shilipu Town, MiyunCountry, Beijing101500, China BeiJing  CN 101500","o":"Beijing Dragon Resources Limited.","d":"2017-12-31","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("480bb2700000/28",[{"a":"Tongjunzhuangxinlukou (500meters east) Shilipu Town, MiyunCountry, Beijing101500, China BeiJing  CN 101500","o":"Beijing Dragon Resources Limited.","d":"2017-12-31","t":"add","s":"ieee","c":"CN"}]);

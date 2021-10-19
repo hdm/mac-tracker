@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d593b000/36",[{"d":"2019-08-31","t":"add","s":"ieee-oui36.csv","a":"No.2338 Guanggu Street Changchun City chang chun ji lin CN 130000","c":"CN","o":"Changchun FAW Yanfeng Visteon Automotive Electronics.,Ltd."}]);
+macDetailCallback("70b3d593b000/36",[{"d":"2019-08-31","t":"add","s":"ieee-oui36.csv","a":"No.2338 Guanggu Street Changchun City chang chun ji lin CN 130000","c":"CN","o":"Changchun FAW Yanfeng Visteon Automotive Electronics.,Ltd."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("64bc11000000/24",[{"d":"2009-08-27","t":"add","a":"Science Park\nGjuterigatan 9\nJonkoping  553 18\n","c":"SWEDEN","o":"CombiQ AB"},{"d":"2015-08-27","t":"change","a":"Science Park Jonkoping  SE 553 18","c":"SE","o":"CombiQ AB"}]);
+macDetailCallback("64bc11000000/24",[{"d":"2009-08-27","t":"add","a":"Science Park\nGjuterigatan 9\nJonkoping  553 18\n","c":"SWEDEN","o":"CombiQ AB"},{"d":"2015-08-27","t":"change","a":"Science Park Jonkoping  SE 553 18","c":"SE","o":"CombiQ AB"}]);

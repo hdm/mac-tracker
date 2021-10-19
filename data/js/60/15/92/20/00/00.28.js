@@ -1,1 +1,1 @@
-deepmacDetailCallback("601592200000/28",[{"d":"2021-01-16","t":"add","s":"ieee-mam.csv","a":"Room 301, Building 24, Shengchuang Enterprise Park,No.1661 Jialuo Road, Jiading District Shanghai Shanghai CN 201822","c":"CN","o":"EDA Technology Co.,LTD"}]);
+macDetailCallback("601592200000/28",[{"d":"2021-01-16","t":"add","s":"ieee-mam.csv","a":"Room 301, Building 24, Shengchuang Enterprise Park,No.1661 Jialuo Road, Jiading District Shanghai Shanghai CN 201822","c":"CN","o":"EDA Technology Co.,LTD"}]);

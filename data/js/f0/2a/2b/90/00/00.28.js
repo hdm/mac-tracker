@@ -1,1 +1,1 @@
-deepmacDetailCallback("f02a2b900000/28",[{"d":"2021-05-12","t":"add","s":"ieee-mam.csv","a":"80?Longxiang Road?Yantan District ZiGong SiChuan  CN 643221","c":"CN","o":"ZiGong Pengcheng Technology Co.,Ltd"}]);
+macDetailCallback("f02a2b900000/28",[{"d":"2021-05-12","t":"add","s":"ieee-mam.csv","a":"80?Longxiang Road?Yantan District ZiGong SiChuan  CN 643221","c":"CN","o":"ZiGong Pengcheng Technology Co.,Ltd"}]);

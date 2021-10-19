@@ -1,1 +1,1 @@
-deepmacDetailCallback("0007be000000/24",[{"d":"2001-10-24","t":"add","a":"Via Candini, 2\n40012 Lippo di Calderara di Reno\nBologna\n","c":"ITALY","o":"DataLogic SpA"},{"d":"2015-08-27","t":"change","a":"Via Candini, 2 Bologna  IT","c":"IT","o":"DataLogic SpA"}]);
+macDetailCallback("0007be000000/24",[{"d":"2001-10-24","t":"add","a":"Via Candini, 2\n40012 Lippo di Calderara di Reno\nBologna\n","c":"ITALY","o":"DataLogic SpA"},{"d":"2015-08-27","t":"change","a":"Via Candini, 2 Bologna  IT","c":"IT","o":"DataLogic SpA"}]);

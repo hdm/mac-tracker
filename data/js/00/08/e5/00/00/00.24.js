@@ -1,1 +1,1 @@
-deepmacDetailCallback("0008e5000000/24",[{"d":"2002-01-30","t":"add","a":"6-7-10\nChuo-Rinkan\nYamato Kanagawa 242-0007\n","c":"JAPAN","o":"IDK Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6-7-10 Yamato Kanagawa JP 242-0007","c":"JP","o":"IDK Corporation"}]);
+macDetailCallback("0008e5000000/24",[{"d":"2002-01-30","t":"add","a":"6-7-10\nChuo-Rinkan\nYamato Kanagawa 242-0007\n","c":"JAPAN","o":"IDK Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6-7-10 Yamato Kanagawa JP 242-0007","c":"JP","o":"IDK Corporation"}]);

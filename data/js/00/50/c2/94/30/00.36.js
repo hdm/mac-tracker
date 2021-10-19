@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2943000/36",[{"a":"Hi-tech Park, Quanzhou Economic and Tech Development Zone, QuanZhou FuJian CN 362000","o":"QuanZhou TDX Electronics Co., Ltd.","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("0050c2943000/36",[{"a":"Hi-tech Park, Quanzhou Economic and Tech Development Zone, QuanZhou FuJian CN 362000","o":"QuanZhou TDX Electronics Co., Ltd.","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

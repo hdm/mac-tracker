@@ -1,1 +1,1 @@
-deepmacDetailCallback("2435cc000000/24",[{"d":"2015-09-30","t":"add","a":"15/F Bldg 1·Dezhong Plaza Torch Development Zone Zhongshan·Guangdong ZhongShan GuangDong CN 528437","c":"CN","o":"Zhongshan Scinan Internet of Things Co.,Ltd."}]);
+macDetailCallback("2435cc000000/24",[{"d":"2015-09-30","t":"add","a":"15/F Bldg 1·Dezhong Plaza Torch Development Zone Zhongshan·Guangdong ZhongShan GuangDong CN 528437","c":"CN","o":"Zhongshan Scinan Internet of Things Co.,Ltd."}]);

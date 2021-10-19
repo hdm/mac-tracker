@@ -1,1 +1,1 @@
-deepmacDetailCallback("00b069000000/24",[{"d":"2000-09-08","t":"add","a":"P.O. Box 168, FIN-78201\nVarkaus\n\n","c":"FINLAND","o":"Honewell Oy"},{"d":"2015-08-27","t":"change","a":"P.O. Box 168, FIN-78201   FI","c":"FI","o":"Honewell Oy"}]);
+macDetailCallback("00b069000000/24",[{"d":"2000-09-08","t":"add","a":"P.O. Box 168, FIN-78201\nVarkaus\n\n","c":"FINLAND","o":"Honewell Oy"},{"d":"2015-08-27","t":"change","a":"P.O. Box 168, FIN-78201   FI","c":"FI","o":"Honewell Oy"}]);

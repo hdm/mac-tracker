@@ -1,1 +1,1 @@
-deepmacDetailCallback("383a21400000/28",[{"a":"Building B, No.3 Desheng Road, Longbeiling, Tangxia  Dongguan City Guangdong Province CN 523715","o":"Dongguan Innovation Technology Co Ltd","d":"2016-06-26","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("383a21400000/28",[{"a":"Building B, No.3 Desheng Road, Longbeiling, Tangxia  Dongguan City Guangdong Province CN 523715","o":"Dongguan Innovation Technology Co Ltd","d":"2016-06-26","t":"add","s":"ieee","c":"CN"}]);

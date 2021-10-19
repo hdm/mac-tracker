@@ -1,1 +1,1 @@
-deepmacDetailCallback("a4fc77000000/24",[{"d":"2018-07-10","t":"add","a":"Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332","c":"CN","o":"Mega Well Limited"}]);
+macDetailCallback("a4fc77000000/24",[{"d":"2018-07-10","t":"add","a":"Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332","c":"CN","o":"Mega Well Limited"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5534000/36",[{"d":"2020-07-03","t":"add","s":"ieee-oui36.csv","a":"No. 566-1, Qishan Road, Lingang Economic and Technological Development Zone Weihai Shandong CN 264210","c":"CN","o":"Weihai Weigao Medical Imaging Technology Co., Ltd"}]);
+macDetailCallback("70b3d5534000/36",[{"d":"2020-07-03","t":"add","s":"ieee-oui36.csv","a":"No. 566-1, Qishan Road, Lingang Economic and Technological Development Zone Weihai Shandong CN 264210","c":"CN","o":"Weihai Weigao Medical Imaging Technology Co., Ltd"}]);

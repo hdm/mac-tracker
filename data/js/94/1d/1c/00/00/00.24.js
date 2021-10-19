@@ -1,1 +1,1 @@
-deepmacDetailCallback("941d1c000000/24",[{"d":"2011-08-06","t":"add","a":"Ebbe Lieberathsgatan 23B\nGothenburg  41265\n\n","c":"SWEDEN","o":"TLab West Systems AB"},{"d":"2015-08-27","t":"change","a":"Ebbe Lieberathsgatan 23B Gothenburg  SE 41265","c":"SE","o":"TLab West Systems AB"}]);
+macDetailCallback("941d1c000000/24",[{"d":"2011-08-06","t":"add","a":"Ebbe Lieberathsgatan 23B\nGothenburg  41265\n\n","c":"SWEDEN","o":"TLab West Systems AB"},{"d":"2015-08-27","t":"change","a":"Ebbe Lieberathsgatan 23B Gothenburg  SE 41265","c":"SE","o":"TLab West Systems AB"}]);

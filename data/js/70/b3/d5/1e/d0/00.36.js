@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d51ed000/36",[{"d":"2021-03-25","t":"add","s":"ieee-oui36.csv","a":"6F, S-patio Bldg. 14-25 Minami-cho, Suruga-ku, Shizuoka city, Shizuoka JP 422-8067","c":"JP","o":"SUS Corporation"}]);
+macDetailCallback("70b3d51ed000/36",[{"d":"2021-03-25","t":"add","s":"ieee-oui36.csv","a":"6F, S-patio Bldg. 14-25 Minami-cho, Suruga-ku, Shizuoka city, Shizuoka JP 422-8067","c":"JP","o":"SUS Corporation"}]);

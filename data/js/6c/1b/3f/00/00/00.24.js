@@ -1,1 +1,1 @@
-deepmacDetailCallback("6c1b3f000000/24",[{"d":"2021-01-21","t":"add","s":"ieee-oui.csv","a":"#701,C-dong Bundang Techno Park Pangyoro 744 Bundang-gu Sungnam-si Kyungkido KR 13510","c":"KR","o":"MiraeSignal Co., Ltd"}]);
+macDetailCallback("6c1b3f000000/24",[{"d":"2021-01-21","t":"add","s":"ieee-oui.csv","a":"#701,C-dong Bundang Techno Park Pangyoro 744 Bundang-gu Sungnam-si Kyungkido KR 13510","c":"KR","o":"MiraeSignal Co., Ltd"}]);

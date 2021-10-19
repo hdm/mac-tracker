@@ -1,1 +1,1 @@
-deepmacDetailCallback("ac0a61000000/24",[{"d":"2012-05-17","t":"add","a":"Via della Scrofa 117\nRome 00186\n\n","c":"ITALY","o":"Labor S.r.L."},{"d":"2015-08-27","t":"change","a":"Via della Scrofa 117  Rome IT 00186","c":"IT","o":"Labor S.r.L."}]);
+macDetailCallback("ac0a61000000/24",[{"d":"2012-05-17","t":"add","a":"Via della Scrofa 117\nRome 00186\n\n","c":"ITALY","o":"Labor S.r.L."},{"d":"2015-08-27","t":"change","a":"Via della Scrofa 117  Rome IT 00186","c":"IT","o":"Labor S.r.L."}]);

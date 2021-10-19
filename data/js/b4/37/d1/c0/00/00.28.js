@@ -1,1 +1,1 @@
-deepmacDetailCallback("b437d1c00000/28",[{"a":"No.1 Putian Road,Yuhuamenwai,Nanjing Nan Jing Jiang Su CN 210022","o":"NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("b437d1c00000/28",[{"a":"No.1 Putian Road,Yuhuamenwai,Nanjing Nan Jing Jiang Su CN 210022","o":"NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

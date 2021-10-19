@@ -1,1 +1,1 @@
-deepmacDetailCallback("04d16e300000/28",[{"d":"2019-08-07","t":"add","s":"ieee-mam.csv","a":"7th Floor, Building 1, No. 18, Yangfangdian Road, Haidian District, Beijing 705  Beijing Beijing CN 100038","c":"CN","o":"Beijing Huaxia Qixin Technology Co., Ltd."}]);
+macDetailCallback("04d16e300000/28",[{"d":"2019-08-07","t":"add","s":"ieee-mam.csv","a":"7th Floor, Building 1, No. 18, Yangfangdian Road, Haidian District, Beijing 705  Beijing Beijing CN 100038","c":"CN","o":"Beijing Huaxia Qixin Technology Co., Ltd."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("3ceafb000000/24",[{"d":"2012-04-03","t":"add","a":"Bremgarterstrasse 54\nWohlen AG 5610\n\n","c":"SWITZERLAND","o":"NSE AG"},{"d":"2015-08-27","t":"change","a":"Bremgarterstrasse 54 Wohlen AG CH 5610","c":"CH","o":"NSE AG"}]);
+macDetailCallback("3ceafb000000/24",[{"d":"2012-04-03","t":"add","a":"Bremgarterstrasse 54\nWohlen AG 5610\n\n","c":"SWITZERLAND","o":"NSE AG"},{"d":"2015-08-27","t":"change","a":"Bremgarterstrasse 54 Wohlen AG CH 5610","c":"CH","o":"NSE AG"}]);

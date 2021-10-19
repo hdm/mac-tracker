@@ -1,1 +1,1 @@
-deepmacDetailCallback("00e058000000/24",[{"d":"1998-04-22","t":"add","a":"ROSKILDEVEJ 39\nDK-2000 FREDERIKSBERG\n\n","c":"DENMARK","o":"PHASE ONE DENMARK A/S"},{"d":"2015-08-27","t":"change","a":"ROSKILDEVEJ 39 DK-2000 FREDERIKSBERG  DK","c":"DK","o":"PHASE ONE DENMARK A/S"}]);
+macDetailCallback("00e058000000/24",[{"d":"1998-04-22","t":"add","a":"ROSKILDEVEJ 39\nDK-2000 FREDERIKSBERG\n\n","c":"DENMARK","o":"PHASE ONE DENMARK A/S"},{"d":"2015-08-27","t":"change","a":"ROSKILDEVEJ 39 DK-2000 FREDERIKSBERG  DK","c":"DK","o":"PHASE ONE DENMARK A/S"}]);

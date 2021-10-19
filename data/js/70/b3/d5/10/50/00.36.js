@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5105000/36",[{"a":"1912B, Zhongguancunkemao Building, Zhongguancun Da Jie Beijing  CN 100080","o":"Beijing Nacao Technology Co., Ltd.","d":"2018-04-15","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d5105000/36",[{"a":"1912B, Zhongguancunkemao Building, Zhongguancun Da Jie Beijing  CN 100080","o":"Beijing Nacao Technology Co., Ltd.","d":"2018-04-15","t":"add","s":"ieee","c":"CN"}]);

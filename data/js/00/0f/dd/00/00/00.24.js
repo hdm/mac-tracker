@@ -1,1 +1,1 @@
-deepmacDetailCallback("000fdd000000/24",[{"d":"2004-04-03","t":"add","a":"Rorlaggarvagen 8\nVarnamo Smaland S-331 34\n\n","c":"SWEDEN","o":"SORDIN AB"},{"d":"2015-08-27","t":"change","a":"Rorlaggarvagen 8 Varnamo Smaland SE S-331 34","c":"SE","o":"SORDIN AB"}]);
+macDetailCallback("000fdd000000/24",[{"d":"2004-04-03","t":"add","a":"Rorlaggarvagen 8\nVarnamo Smaland S-331 34\n\n","c":"SWEDEN","o":"SORDIN AB"},{"d":"2015-08-27","t":"change","a":"Rorlaggarvagen 8 Varnamo Smaland SE S-331 34","c":"SE","o":"SORDIN AB"}]);

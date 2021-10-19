@@ -1,1 +1,1 @@
-deepmacDetailCallback("cc7314000000/24",[{"d":"2016-05-27","t":"add","a":"Building 20，No.2277, ZuChongZhi Road, PuDong District, Shanghai shanghai  CN 201203","c":"CN","o":"HONG KONG WHEATEK TECHNOLOGY LIMITED"}]);
+macDetailCallback("cc7314000000/24",[{"d":"2016-05-27","t":"add","a":"Building 20，No.2277, ZuChongZhi Road, PuDong District, Shanghai shanghai  CN 201203","c":"CN","o":"HONG KONG WHEATEK TECHNOLOGY LIMITED"}]);

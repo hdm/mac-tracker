@@ -1,1 +1,1 @@
-deepmacDetailCallback("ccc8d7000000/24",[{"d":"2011-07-02","t":"add","a":"Via Giovanni Durando 38\nMilan  20158\n\n","c":"ITALY","o":"CIAS Elettronica srl"},{"d":"2015-08-27","t":"change","a":"Via Giovanni Durando 38 Milan  IT 20158","c":"IT","o":"CIAS Elettronica srl"}]);
+macDetailCallback("ccc8d7000000/24",[{"d":"2011-07-02","t":"add","a":"Via Giovanni Durando 38\nMilan  20158\n\n","c":"ITALY","o":"CIAS Elettronica srl"},{"d":"2015-08-27","t":"change","a":"Via Giovanni Durando 38 Milan  IT 20158","c":"IT","o":"CIAS Elettronica srl"}]);

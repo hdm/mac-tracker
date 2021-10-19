@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f64534000/36",[{"d":"2021-08-04","t":"add","s":"ieee-oui36.csv","a":"Plot no115 ALEAP Industrial Estate Gajularamaram village, Quthubullapur Mandal HYDERABAD Telangana IN 500055","c":"IN","o":"SURYA ELECTRONICS"}]);
+macDetailCallback("8c1f64534000/36",[{"d":"2021-08-04","t":"add","s":"ieee-oui36.csv","a":"Plot no115 ALEAP Industrial Estate Gajularamaram village, Quthubullapur Mandal HYDERABAD Telangana IN 500055","c":"IN","o":"SURYA ELECTRONICS"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("00a0a0000000/24",[{"d":"1998-04-22","t":"add","a":"58 DITTON WALK\nCAMBRIDGE CB5 8QE\n\n","c":"UNITED KINGDOM","o":"COMPACT DATA, LTD."},{"d":"2015-08-27","t":"change","a":"58 DITTON WALK CAMBRIDGE CB5 8QE  GB","c":"GB","o":"COMPACT DATA, LTD."}]);
+macDetailCallback("00a0a0000000/24",[{"d":"1998-04-22","t":"add","a":"58 DITTON WALK\nCAMBRIDGE CB5 8QE\n\n","c":"UNITED KINGDOM","o":"COMPACT DATA, LTD."},{"d":"2015-08-27","t":"change","a":"58 DITTON WALK CAMBRIDGE CB5 8QE  GB","c":"GB","o":"COMPACT DATA, LTD."}]);

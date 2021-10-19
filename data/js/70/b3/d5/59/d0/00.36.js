@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d559d000/36",[{"a":"c/doctor apolinario macias 22. of.2 las palmas de gran canaria Las Palmas ES 35011","o":"servicios de consultoria independiente S.L.","d":"2015-06-14","t":"add","s":"ieee","c":"ES"}]);
+macDetailCallback("70b3d559d000/36",[{"a":"c/doctor apolinario macias 22. of.2 las palmas de gran canaria Las Palmas ES 35011","o":"servicios de consultoria independiente S.L.","d":"2015-06-14","t":"add","s":"ieee","c":"ES"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("6cf17e000000/24",[{"d":"2019-03-09","t":"add","s":"ieee-oui.csv","a":"No.88,Jiangling Road Hangzhou Zhejiang,P.R.China CN 310051","c":"CN","o":"Zhejiang Uniview Technologies Co.,Ltd."}]);
+macDetailCallback("6cf17e000000/24",[{"d":"2019-03-09","t":"add","s":"ieee-oui.csv","a":"No.88,Jiangling Road Hangzhou Zhejiang,P.R.China CN 310051","c":"CN","o":"Zhejiang Uniview Technologies Co.,Ltd."}]);

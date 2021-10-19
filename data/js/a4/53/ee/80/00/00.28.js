@@ -1,1 +1,1 @@
-deepmacDetailCallback("a453ee800000/28",[{"d":"2020-10-30","t":"add","s":"ieee-mam.csv","a":"28B, No. 4, Science and Technology 10th Road Dongguan GuangDong CN 52300","c":"CN","o":"T-Touching Co., Ltd."}]);
+macDetailCallback("a453ee800000/28",[{"d":"2020-10-30","t":"add","s":"ieee-mam.csv","a":"28B, No. 4, Science and Technology 10th Road Dongguan GuangDong CN 52300","c":"CN","o":"T-Touching Co., Ltd."}]);

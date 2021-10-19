@@ -1,1 +1,1 @@
-deepmacDetailCallback("f4a454800000/28",[{"d":"2021-09-17","t":"add","s":"ieee-mam.csv","a":"Room A606, Gaoxinqi Industrial Park, Baoan 67 Dist Baoan 67 District, Shenzhen  CN 518101","c":"CN","o":"Shenzhen Cudy Technology Co., Ltd."}]);
+macDetailCallback("f4a454800000/28",[{"d":"2021-09-17","t":"add","s":"ieee-mam.csv","a":"Room A606, Gaoxinqi Industrial Park, Baoan 67 Dist Baoan 67 District, Shenzhen  CN 518101","c":"CN","o":"Shenzhen Cudy Technology Co., Ltd."}]);

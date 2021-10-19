@@ -1,1 +1,1 @@
-deepmacDetailCallback("5895d8b00000/28",[{"d":"2020-08-27","t":"add","s":"ieee-mam.csv","a":"Room 507?Building 1?ZhongXuXin Science Park?NO.91?Weixin Road?Suzhou Industrial Park SuZhou JiangSu CN 215021","c":"CN","o":"SuZhou Ruishengwei Intelligent Technology Co.,Ltd"}]);
+macDetailCallback("5895d8b00000/28",[{"d":"2020-08-27","t":"add","s":"ieee-mam.csv","a":"Room 507?Building 1?ZhongXuXin Science Park?NO.91?Weixin Road?Suzhou Industrial Park SuZhou JiangSu CN 215021","c":"CN","o":"SuZhou Ruishengwei Intelligent Technology Co.,Ltd"}]);

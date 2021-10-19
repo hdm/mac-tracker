@@ -1,1 +1,1 @@
-deepmacDetailCallback("c86314b00000/28",[{"d":"2019-01-17","t":"add","s":"ieee-mam.csv","a":"Room 501,Room 502,Building 2,Xinggong Technology Park,No.100 Luyun Road, High-tech Development Zone Changsha Hunan CN 410000","c":"CN","o":"Shenzhen Lihewei Electronics Co.,Ltd.Hunan Branch"}]);
+macDetailCallback("c86314b00000/28",[{"d":"2019-01-17","t":"add","s":"ieee-mam.csv","a":"Room 501,Room 502,Building 2,Xinggong Technology Park,No.100 Luyun Road, High-tech Development Zone Changsha Hunan CN 410000","c":"CN","o":"Shenzhen Lihewei Electronics Co.,Ltd.Hunan Branch"}]);

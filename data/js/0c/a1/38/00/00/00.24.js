@@ -1,1 +1,1 @@
-deepmacDetailCallback("0ca138000000/24",[{"d":"2012-01-07","t":"add","a":"400 MARCH RD UNIT 240\nKANATA ON K2K3H4\n\n","c":"CANADA","o":"Blinq Wireless Inc."},{"d":"2015-08-27","t":"change","a":"400 MARCH RD UNIT 240 KANATA ON CA K2K3H4","c":"CA","o":"Blinq Wireless Inc."}]);
+macDetailCallback("0ca138000000/24",[{"d":"2012-01-07","t":"add","a":"400 MARCH RD UNIT 240\nKANATA ON K2K3H4\n\n","c":"CANADA","o":"Blinq Wireless Inc."},{"d":"2015-08-27","t":"change","a":"400 MARCH RD UNIT 240 KANATA ON CA K2K3H4","c":"CA","o":"Blinq Wireless Inc."}]);

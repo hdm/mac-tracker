@@ -1,1 +1,1 @@
-deepmacDetailCallback("604762000000/24",[{"d":"2017-03-17","t":"add","a":"Room 2807, Building 1B, Wangjing SOHO, No10 Wangjing Street, Chaoyang District, Beijing, China Beijing Beijing CN 100102 PRC","c":"CN","o":"Beijing Sensoro Technology Co.,Ltd."}]);
+macDetailCallback("604762000000/24",[{"d":"2017-03-17","t":"add","a":"Room 2807, Building 1B, Wangjing SOHO, No10 Wangjing Street, Chaoyang District, Beijing, China Beijing Beijing CN 100102 PRC","c":"CN","o":"Beijing Sensoro Technology Co.,Ltd."}]);

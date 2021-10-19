@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c252f000/36",[{"a":"Ob der Eck 4 Gütenbach Baden-Württemberg DE 78148","o":"Gesellschaft für  Rationalisierung und Rechentechnik mbH","d":"2008-07-30","t":"add","s":"ieee","c":"DE"}]);
+macDetailCallback("0050c252f000/36",[{"a":"Ob der Eck 4 Gütenbach Baden-Württemberg DE 78148","o":"Gesellschaft für  Rationalisierung und Rechentechnik mbH","d":"2008-07-30","t":"add","s":"ieee","c":"DE"}]);

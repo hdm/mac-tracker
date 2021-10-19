@@ -1,1 +1,1 @@
-deepmacDetailCallback("301f9a200000/28",[{"a":"No.9, Xinhuihuan Road, Xinwu District, Wuxi, Jiangsu, China 214028 WUXI JIANGSU CN 214028","o":"CHISON Medical Technologies Co., Ltd.","d":"2017-12-10","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("301f9a200000/28",[{"a":"No.9, Xinhuihuan Road, Xinwu District, Wuxi, Jiangsu, China 214028 WUXI JIANGSU CN 214028","o":"CHISON Medical Technologies Co., Ltd.","d":"2017-12-10","t":"add","s":"ieee","c":"CN"}]);

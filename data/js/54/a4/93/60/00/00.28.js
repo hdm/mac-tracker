@@ -1,1 +1,1 @@
-deepmacDetailCallback("54a493600000/28",[{"d":"2019-07-25","t":"add","s":"ieee-mam.csv","a":"Rm 704,No.1,Lane 88,Shengrong Road, Free Trade Pilot Area, Shanghai Shanghai CN 200120","c":"CN","o":"Hannto Technology Co., Ltd"}]);
+macDetailCallback("54a493600000/28",[{"d":"2019-07-25","t":"add","s":"ieee-mam.csv","a":"Rm 704,No.1,Lane 88,Shengrong Road, Free Trade Pilot Area, Shanghai Shanghai CN 200120","c":"CN","o":"Hannto Technology Co., Ltd"}]);

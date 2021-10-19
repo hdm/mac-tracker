@@ -1,1 +1,1 @@
-deepmacDetailCallback("00300f000000/24",[{"d":"2000-09-08","t":"add","a":"Gewerbestrasse 8\nCH-9470 Buchs\n\n","c":"SWITZERLAND","o":"IMT - Information Management T"},{"d":"2015-08-27","t":"change","a":"Gewerbestrasse 8 CH-9470 Buchs  CH","c":"CH","o":"IMT - Information Management T"}]);
+macDetailCallback("00300f000000/24",[{"d":"2000-09-08","t":"add","a":"Gewerbestrasse 8\nCH-9470 Buchs\n\n","c":"SWITZERLAND","o":"IMT - Information Management T"},{"d":"2015-08-27","t":"change","a":"Gewerbestrasse 8 CH-9470 Buchs  CH","c":"CH","o":"IMT - Information Management T"}]);

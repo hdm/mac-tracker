@@ -1,1 +1,1 @@
-deepmacDetailCallback("f41c95000000/24",[{"d":"2019-11-24","t":"add","s":"ieee-oui.csv","a":"Room 2005, 2f, building B, No.1 Kaituo Road, Shangdi Information Industry base, Haidian District BEIJING  CN 100085","c":"CN","o":"BEIJING YUNYI TIMES TECHNOLOGY CO,.LTD"}]);
+macDetailCallback("f41c95000000/24",[{"d":"2019-11-24","t":"add","s":"ieee-oui.csv","a":"Room 2005, 2f, building B, No.1 Kaituo Road, Shangdi Information Industry base, Haidian District BEIJING  CN 100085","c":"CN","o":"BEIJING YUNYI TIMES TECHNOLOGY CO,.LTD"}]);

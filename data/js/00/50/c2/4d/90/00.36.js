@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c24d9000/36",[{"a":"2F, No.8,Lane 97,Wugong Rd.,Wu-Ku Ind. Park Hsin-Chuang City Taipei County TW 248","o":"GE Security Kampro","d":"2008-07-30","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("0050c24d9000/36",[{"a":"2F, No.8,Lane 97,Wugong Rd.,Wu-Ku Ind. Park Hsin-Chuang City Taipei County TW 248","o":"GE Security Kampro","d":"2008-07-30","t":"add","s":"ieee","c":"TW"}]);

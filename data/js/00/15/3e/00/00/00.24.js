@@ -1,1 +1,1 @@
-deepmacDetailCallback("00153e000000/24",[{"d":"2005-07-21","t":"add","a":"Neongatan 8\nMolndal  431 53\n\n","c":"SWEDEN","o":"Q-Matic Sweden AB"},{"d":"2015-08-27","t":"change","a":"Neongatan 8 Molndal  SE 431 53","c":"SE","o":"Q-Matic Sweden AB"}]);
+macDetailCallback("00153e000000/24",[{"d":"2005-07-21","t":"add","a":"Neongatan 8\nMolndal  431 53\n\n","c":"SWEDEN","o":"Q-Matic Sweden AB"},{"d":"2015-08-27","t":"change","a":"Neongatan 8 Molndal  SE 431 53","c":"SE","o":"Q-Matic Sweden AB"}]);

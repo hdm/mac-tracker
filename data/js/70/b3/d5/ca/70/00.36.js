@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5ca7000/36",[{"d":"2019-08-22","t":"add","s":"ieee-oui36.csv","a":"2F, No.70, Min De Rd, Chutung, 310-48 Hsinchu, Taiwan Hsinchu County Chutung TW 310148","c":"TW","o":"i-View Communication Inc."}]);
+macDetailCallback("70b3d5ca7000/36",[{"d":"2019-08-22","t":"add","s":"ieee-oui36.csv","a":"2F, No.70, Min De Rd, Chutung, 310-48 Hsinchu, Taiwan Hsinchu County Chutung TW 310148","c":"TW","o":"i-View Communication Inc."}]);

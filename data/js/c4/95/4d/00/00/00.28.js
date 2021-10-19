@@ -1,1 +1,1 @@
-deepmacDetailCallback("c4954d000000/28",[{"d":"2019-09-18","t":"add","s":"ieee-mam.csv","a":"8F., No. 140, Nanhua 1st St., Luzhu Dist., Taoyuan City  TW 338","c":"TW","o":"BA International Electronics Co. Ltd."}]);
+macDetailCallback("c4954d000000/28",[{"d":"2019-09-18","t":"add","s":"ieee-mam.csv","a":"8F., No. 140, Nanhua 1st St., Luzhu Dist., Taoyuan City  TW 338","c":"TW","o":"BA International Electronics Co. Ltd."}]);

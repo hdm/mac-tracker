@@ -1,1 +1,1 @@
-deepmacDetailCallback("b4ecff000000/24",[{"d":"2021-05-12","t":"add","s":"ieee-oui.csv","a":"Room 01, Floor 18, Building 15, No.18 Jinronggang 4th Road,Putian IOT R&D Base (2nd Phase), East Lak Wuhan HUBEI CN 430070","c":"CN","o":"Wuhan IPG Technologies Co., Ltd."}]);
+macDetailCallback("b4ecff000000/24",[{"d":"2021-05-12","t":"add","s":"ieee-oui.csv","a":"Room 01, Floor 18, Building 15, No.18 Jinronggang 4th Road,Putian IOT R&D Base (2nd Phase), East Lak Wuhan HUBEI CN 430070","c":"CN","o":"Wuhan IPG Technologies Co., Ltd."}]);

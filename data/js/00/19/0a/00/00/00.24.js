@@ -1,1 +1,1 @@
-deepmacDetailCallback("00190a000000/24",[{"d":"2006-07-18","t":"add","a":"4-12-3 HIGASHI\nKUNITACHI TOKYO 186-0002\n\n","c":"JAPAN","o":"HASWARE INC."},{"d":"2015-08-27","t":"change","a":"4-12-3 HIGASHI KUNITACHI TOKYO JP 186-0002","c":"JP","o":"HASWARE INC."}]);
+macDetailCallback("00190a000000/24",[{"d":"2006-07-18","t":"add","a":"4-12-3 HIGASHI\nKUNITACHI TOKYO 186-0002\n\n","c":"JAPAN","o":"HASWARE INC."},{"d":"2015-08-27","t":"change","a":"4-12-3 HIGASHI KUNITACHI TOKYO JP 186-0002","c":"JP","o":"HASWARE INC."}]);

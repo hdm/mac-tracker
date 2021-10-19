@@ -1,1 +1,1 @@
-deepmacDetailCallback("f085c1000000/24",[{"d":"2017-08-17","t":"add","a":"Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District, Shenzhen Guangdong CN 518000","c":"CN","o":"SHENZHEN RF-LINK TECHNOLOGY CO.,LTD."}]);
+macDetailCallback("f085c1000000/24",[{"d":"2017-08-17","t":"add","a":"Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District, Shenzhen Guangdong CN 518000","c":"CN","o":"SHENZHEN RF-LINK TECHNOLOGY CO.,LTD."}]);

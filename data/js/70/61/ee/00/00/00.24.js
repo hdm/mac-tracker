@@ -1,1 +1,1 @@
-deepmacDetailCallback("7061ee000000/24",[{"d":"2020-07-02","t":"add","s":"ieee-oui.csv","a":"No 2,Yihe Road, shiyan Street?shilong Community ,Baoan District Shenzhen  CN 518105","c":"CN","o":"Sunwoda Electronic Co.,Ltd"}]);
+macDetailCallback("7061ee000000/24",[{"d":"2020-07-02","t":"add","s":"ieee-oui.csv","a":"No 2,Yihe Road, shiyan Street?shilong Community ,Baoan District Shenzhen  CN 518105","c":"CN","o":"Sunwoda Electronic Co.,Ltd"}]);

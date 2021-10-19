@@ -1,1 +1,1 @@
-deepmacDetailCallback("d47350000000/24",[{"d":"2021-04-30","t":"add","s":"ieee-oui.csv","a":"Building A, No. 5 (DBG Factory), Yongda Road, Xiangshui River,West District of Daya Bay Huizhou Guangdong CN 516083","c":"CN","o":"DBG Commnunications Technology  Co., Ltd."}]);
+macDetailCallback("d47350000000/24",[{"d":"2021-04-30","t":"add","s":"ieee-oui.csv","a":"Building A, No. 5 (DBG Factory), Yongda Road, Xiangshui River,West District of Daya Bay Huizhou Guangdong CN 516083","c":"CN","o":"DBG Commnunications Technology  Co., Ltd."}]);

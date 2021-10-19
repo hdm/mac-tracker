@@ -1,1 +1,1 @@
-deepmacDetailCallback("0015c2000000/24",[{"d":"2005-09-09","t":"add","a":"Carl Schurz Str. 1\nNeuss NRW 41453\n\n","c":"GERMANY","o":"3M Germany"},{"d":"2015-08-27","t":"change","a":"Carl Schurz Str. 1 Neuss NRW US 41453","c":"US","o":"3M Germany"}]);
+macDetailCallback("0015c2000000/24",[{"d":"2005-09-09","t":"add","a":"Carl Schurz Str. 1\nNeuss NRW 41453\n\n","c":"GERMANY","o":"3M Germany"},{"d":"2015-08-27","t":"change","a":"Carl Schurz Str. 1 Neuss NRW US 41453","c":"US","o":"3M Germany"}]);

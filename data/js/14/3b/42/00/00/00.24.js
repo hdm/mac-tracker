@@ -1,1 +1,1 @@
-deepmacDetailCallback("143b42000000/24",[{"d":"2021-01-15","t":"add","s":"ieee-oui.csv","a":"Room 201, building a, No.1 Qianwan 1st Road, Shenzhen Hong Kong cooperation zone, Qianhai Shenzhen Guangdong CN 518000","c":"CN","o":"Realfit(Shenzhen) Intelligent Technology Co., Ltd"}]);
+macDetailCallback("143b42000000/24",[{"d":"2021-01-15","t":"add","s":"ieee-oui.csv","a":"Room 201, building a, No.1 Qianwan 1st Road, Shenzhen Hong Kong cooperation zone, Qianhai Shenzhen Guangdong CN 518000","c":"CN","o":"Realfit(Shenzhen) Intelligent Technology Co., Ltd"}]);

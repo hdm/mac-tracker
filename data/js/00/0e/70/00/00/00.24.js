@@ -1,1 +1,1 @@
-deepmacDetailCallback("000e70000000/24",[{"d":"2003-12-21","t":"add","a":"320 W  200 S\nSuite #380\nSLC UT 84101\n","c":"UNITED STATES","o":"in2 Networks","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"320 W  200 S SLC UT US 84101","c":"US","o":"in2 Networks"}]);
+macDetailCallback("000e70000000/24",[{"d":"2003-12-21","t":"add","a":"320 W  200 S\nSuite #380\nSLC UT 84101\n","c":"UNITED STATES","o":"in2 Networks","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"320 W  200 S SLC UT US 84101","c":"US","o":"in2 Networks"}]);

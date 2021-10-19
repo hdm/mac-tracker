@@ -1,1 +1,1 @@
-deepmacDetailCallback("9492bc000000/24",[{"d":"2015-10-30","t":"add","a":"Unit No.1,12/F.,Perfect Industrial Building,31 Tai Yau Street, San Po Kong, Kowloon, Hong Kong 999077 Kowloon  HK 999077","c":"HK","o":"SYNTECH(HK) TECHNOLOGY LIMITED"}]);
+macDetailCallback("9492bc000000/24",[{"d":"2015-10-30","t":"add","a":"Unit No.1,12/F.,Perfect Industrial Building,31 Tai Yau Street, San Po Kong, Kowloon, Hong Kong 999077 Kowloon  HK 999077","c":"HK","o":"SYNTECH(HK) TECHNOLOGY LIMITED"}]);

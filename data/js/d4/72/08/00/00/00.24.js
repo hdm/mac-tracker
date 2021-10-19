@@ -1,1 +1,1 @@
-deepmacDetailCallback("d47208000000/24",[{"d":"2015-07-17","t":"add","a":"Herzog-Heinrich-Strasse 20\n80336 MÃ¼nchen\nMunich Bavaria 80336\n","c":"GERMANY","o":"Bragi GmbH"},{"d":"2015-08-27","t":"change","a":"Herzog-Heinrich-Strasse 20 Munich Bavaria DE 80336","c":"DE","o":"Bragi GmbH"}]);
+macDetailCallback("d47208000000/24",[{"d":"2015-07-17","t":"add","a":"Herzog-Heinrich-Strasse 20\n80336 MÃ¼nchen\nMunich Bavaria 80336\n","c":"GERMANY","o":"Bragi GmbH"},{"d":"2015-08-27","t":"change","a":"Herzog-Heinrich-Strasse 20 Munich Bavaria DE 80336","c":"DE","o":"Bragi GmbH"}]);

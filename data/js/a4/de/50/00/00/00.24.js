@@ -1,1 +1,1 @@
-deepmacDetailCallback("a4de50000000/24",[{"d":"2009-08-25","t":"add","a":"Frankfurter Ring 17\nMunich  80807\n\n","c":"GERMANY","o":"Total Walther GmbH"},{"d":"2015-08-27","t":"change","a":"Frankfurter Ring 17 Munich  DE 80807","c":"DE","o":"Total Walther GmbH"}]);
+macDetailCallback("a4de50000000/24",[{"d":"2009-08-25","t":"add","a":"Frankfurter Ring 17\nMunich  80807\n\n","c":"GERMANY","o":"Total Walther GmbH"},{"d":"2015-08-27","t":"change","a":"Frankfurter Ring 17 Munich  DE 80807","c":"DE","o":"Total Walther GmbH"}]);

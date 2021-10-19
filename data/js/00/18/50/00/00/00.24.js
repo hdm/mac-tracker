@@ -1,1 +1,1 @@
-deepmacDetailCallback("001850000000/24",[{"d":"2006-06-13","t":"add","a":"51 Bercsenyi str\nJaszbereny  5100\n\n","c":"HUNGARY","o":"Secfone Kft"},{"d":"2015-08-27","t":"change","a":"51 Bercsenyi str Jaszbereny  HU 5100","c":"HU","o":"Secfone Kft"}]);
+macDetailCallback("001850000000/24",[{"d":"2006-06-13","t":"add","a":"51 Bercsenyi str\nJaszbereny  5100\n\n","c":"HUNGARY","o":"Secfone Kft"},{"d":"2015-08-27","t":"change","a":"51 Bercsenyi str Jaszbereny  HU 5100","c":"HU","o":"Secfone Kft"}]);

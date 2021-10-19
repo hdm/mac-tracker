@@ -1,1 +1,1 @@
-deepmacDetailCallback("00071f000000/24",[{"d":"2001-10-24","t":"add","a":"455 Promenade Des Anglas\nF-06200 Nice\n\n","c":"FRANCE","o":"European Systems Integration"},{"d":"2015-08-27","t":"change","a":"455 Promenade Des Anglas   FR","c":"FR","o":"European Systems Integration"}]);
+macDetailCallback("00071f000000/24",[{"d":"2001-10-24","t":"add","a":"455 Promenade Des Anglas\nF-06200 Nice\n\n","c":"FRANCE","o":"European Systems Integration"},{"d":"2015-08-27","t":"change","a":"455 Promenade Des Anglas   FR","c":"FR","o":"European Systems Integration"}]);

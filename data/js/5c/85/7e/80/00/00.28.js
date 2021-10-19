@@ -1,1 +1,1 @@
-deepmacDetailCallback("5c857e800000/28",[{"d":"2020-05-19","t":"add","s":"ieee-mam.csv","a":"1-1827, East (LIANHANG building), chaichangtun village, Yongledian Town, Tongzhou District BeiJing BeiJing CN 250100","c":"CN","o":"BeiJing Xinsheng Technology Co.,Ltd"}]);
+macDetailCallback("5c857e800000/28",[{"d":"2020-05-19","t":"add","s":"ieee-mam.csv","a":"1-1827, East (LIANHANG building), chaichangtun village, Yongledian Town, Tongzhou District BeiJing BeiJing CN 250100","c":"CN","o":"BeiJing Xinsheng Technology Co.,Ltd"}]);

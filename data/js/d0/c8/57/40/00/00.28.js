@@ -1,1 +1,1 @@
-deepmacDetailCallback("d0c857400000/28",[{"d":"2019-03-27","t":"add","s":"ieee-mam.csv","a":"77 Sciene park Drive #03-10 Cintech III  Singapore Singapore SG 118256","c":"SG","o":"Imin Technology Pte Ltd"}]);
+macDetailCallback("d0c857400000/28",[{"d":"2019-03-27","t":"add","s":"ieee-mam.csv","a":"77 Sciene park Drive #03-10 Cintech III  Singapore Singapore SG 118256","c":"SG","o":"Imin Technology Pte Ltd"}]);

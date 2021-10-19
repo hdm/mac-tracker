@@ -1,1 +1,1 @@
-deepmacDetailCallback("d4b169000000/24",[{"d":"2016-10-04","t":"add","a":",Le Shi Building, No.105 Yaojiayuan Road,Chaoyang District,Beijing,China beijing beijing CN 100025","c":"CN","o":"Le Shi Zhi Xin Electronic Technology (Tianjin) Limited"}]);
+macDetailCallback("d4b169000000/24",[{"d":"2016-10-04","t":"add","a":",Le Shi Building, No.105 Yaojiayuan Road,Chaoyang District,Beijing,China beijing beijing CN 100025","c":"CN","o":"Le Shi Zhi Xin Electronic Technology (Tianjin) Limited"}]);

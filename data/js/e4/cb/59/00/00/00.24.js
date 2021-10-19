@@ -1,1 +1,1 @@
-deepmacDetailCallback("e4cb59000000/24",[{"d":"2017-09-29","t":"add","a":"103,Block B, Kelin Building, No.107, Dongsi North Street, Dongcheng District,  Beijing  CN 100000","c":"CN","o":"Beijing Loveair Science and Technology Co. Ltd."}]);
+macDetailCallback("e4cb59000000/24",[{"d":"2017-09-29","t":"add","a":"103,Block B, Kelin Building, No.107, Dongsi North Street, Dongcheng District,  Beijing  CN 100000","c":"CN","o":"Beijing Loveair Science and Technology Co. Ltd."}]);

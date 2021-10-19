@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c2f39000000/24",[{"d":"2013-06-25","t":"add","a":"Bahnhofstrasse 5\nSchwarzenbruck  90592\n\n","c":"GERMANY","o":"IBA Dosimetry GmbH"},{"d":"2015-08-27","t":"change","a":"Bahnhofstrasse 5 Schwarzenbruck  DE 90592","c":"DE","o":"IBA Dosimetry GmbH"}]);
+macDetailCallback("8c2f39000000/24",[{"d":"2013-06-25","t":"add","a":"Bahnhofstrasse 5\nSchwarzenbruck  90592\n\n","c":"GERMANY","o":"IBA Dosimetry GmbH"},{"d":"2015-08-27","t":"change","a":"Bahnhofstrasse 5 Schwarzenbruck  DE 90592","c":"DE","o":"IBA Dosimetry GmbH"}]);

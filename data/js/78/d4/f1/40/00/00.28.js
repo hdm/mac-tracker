@@ -1,1 +1,1 @@
-deepmacDetailCallback("78d4f1400000/28",[{"d":"2020-11-24","t":"add","s":"ieee-mam.csv","a":"No.3009 BYD Road, Building D23, BYD EPRI, PingShan District,  ShenZhen GuangDong CN 518118","c":"CN","o":"BYD Auto lndustry Co.,Ltd"}]);
+macDetailCallback("78d4f1400000/28",[{"d":"2020-11-24","t":"add","s":"ieee-mam.csv","a":"No.3009 BYD Road, Building D23, BYD EPRI, PingShan District,  ShenZhen GuangDong CN 518118","c":"CN","o":"BYD Auto lndustry Co.,Ltd"}]);

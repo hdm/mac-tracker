@@ -1,1 +1,1 @@
-deepmacDetailCallback("f023b9700000/28",[{"a":"15F. No.145 Ren’ai Rd. Xizhi Dist. New Taipei City Taiwan TW 22164","o":"Transcend Building Automation control network corporation","d":"2017-02-19","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("f023b9700000/28",[{"a":"15F. No.145 Ren’ai Rd. Xizhi Dist. New Taipei City Taiwan TW 22164","o":"Transcend Building Automation control network corporation","d":"2017-02-19","t":"add","s":"ieee","c":"TW"}]);

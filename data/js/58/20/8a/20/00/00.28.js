@@ -1,1 +1,1 @@
-deepmacDetailCallback("58208a200000/28",[{"d":"2020-07-30","t":"add","s":"ieee-mam.csv","a":"RM 2314,Build No.B2,GuiMiao Road,NanShan District ShenZhen Guangdong CN 518054","c":"CN","o":"MARS DIGI TECH CO .,LTD"}]);
+macDetailCallback("58208a200000/28",[{"d":"2020-07-30","t":"add","s":"ieee-mam.csv","a":"RM 2314,Build No.B2,GuiMiao Road,NanShan District ShenZhen Guangdong CN 518054","c":"CN","o":"MARS DIGI TECH CO .,LTD"}]);

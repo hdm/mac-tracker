@@ -1,1 +1,1 @@
-deepmacDetailCallback("501ac5000000/24",[{"d":"2013-09-25","t":"add","a":"One Microsoft Way\nREDMOND WA 98052\n\n","c":"UNITED STATES","o":"Microsoft"},{"d":"2015-08-27","t":"change","a":"1 Microsoft Way Redmond Washington US 98052","c":"US","o":"Microsoft"}]);
+macDetailCallback("501ac5000000/24",[{"d":"2013-09-25","t":"add","a":"One Microsoft Way\nREDMOND WA 98052\n\n","c":"UNITED STATES","o":"Microsoft"},{"d":"2015-08-27","t":"change","a":"1 Microsoft Way Redmond Washington US 98052","c":"US","o":"Microsoft"}]);

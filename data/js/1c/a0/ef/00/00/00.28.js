@@ -1,1 +1,1 @@
-deepmacDetailCallback("1ca0ef000000/28",[{"d":"2021-02-04","t":"add","s":"ieee-mam.csv","a":"Building 110-3, No.410 Huoju Road, High-tech Zone Tangshan City Hebei Province CN 063000","c":"CN","o":"Tangshan Liulin Automation Equipment Co., Ltd."}]);
+macDetailCallback("1ca0ef000000/28",[{"d":"2021-02-04","t":"add","s":"ieee-mam.csv","a":"Building 110-3, No.410 Huoju Road, High-tech Zone Tangshan City Hebei Province CN 063000","c":"CN","o":"Tangshan Liulin Automation Equipment Co., Ltd."}]);

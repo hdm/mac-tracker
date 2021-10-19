@@ -1,1 +1,1 @@
-deepmacDetailCallback("e81863b00000/28",[{"a":"Homecare Technology Park,5/F,No.30,Langdong Shenzhen Guangdong CN 518105","o":"Protek Electronics Group Co.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("e81863b00000/28",[{"a":"Homecare Technology Park,5/F,No.30,Langdong Shenzhen Guangdong CN 518105","o":"Protek Electronics Group Co.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

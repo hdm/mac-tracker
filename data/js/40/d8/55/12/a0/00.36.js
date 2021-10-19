@@ -1,1 +1,1 @@
-deepmacDetailCallback("40d85512a000/36",[{"a":"Buidling B2, Xujingchang Industrial Park, Haoye Road Shenzhen Guangdong CN 518000","o":"Jadpod Communication Company Limited","d":"2013-06-30","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("40d85512a000/36",[{"a":"Buidling B2, Xujingchang Industrial Park, Haoye Road Shenzhen Guangdong CN 518000","o":"Jadpod Communication Company Limited","d":"2013-06-30","t":"add","s":"ieee","c":"CN"}]);

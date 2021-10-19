@@ -1,1 +1,1 @@
-deepmacDetailCallback("cc43e3000000/24",[{"d":"2010-04-01","t":"add","a":"rue de la Maitrise 9\nNivelles  1400\n\n","c":"BELGIUM","o":"Trump s.a."},{"d":"2015-08-27","t":"change","a":"rue de la Maitrise 9 Nivelles  BE 1400","c":"BE","o":"Trump s.a."}]);
+macDetailCallback("cc43e3000000/24",[{"d":"2010-04-01","t":"add","a":"rue de la Maitrise 9\nNivelles  1400\n\n","c":"BELGIUM","o":"Trump s.a."},{"d":"2015-08-27","t":"change","a":"rue de la Maitrise 9 Nivelles  BE 1400","c":"BE","o":"Trump s.a."}]);

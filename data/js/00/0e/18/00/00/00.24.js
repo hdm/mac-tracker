@@ -1,1 +1,1 @@
-deepmacDetailCallback("000e18000000/24",[{"d":"2003-09-08","t":"add","a":"2100 Muirwood Way\nSan Jose CA 95132\n\n","c":"UNITED STATES","o":"MyA Technology","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2100 Muirwood Way San Jose CA US 95132","c":"US","o":"MyA Technology"}]);
+macDetailCallback("000e18000000/24",[{"d":"2003-09-08","t":"add","a":"2100 Muirwood Way\nSan Jose CA 95132\n\n","c":"UNITED STATES","o":"MyA Technology","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2100 Muirwood Way San Jose CA US 95132","c":"US","o":"MyA Technology"}]);

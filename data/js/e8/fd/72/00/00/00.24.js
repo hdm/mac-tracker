@@ -1,1 +1,1 @@
-deepmacDetailCallback("e8fd72000000/24",[{"d":"2015-12-09","t":"add","a":"No.2,277 Lane,Yongdeng Road,Putuo District,Shanghai,China Shanghai Shanghai CN 200000","c":"CN","o":"SHANGHAI LINGUO TECHNOLOGY CO., LTD."}]);
+macDetailCallback("e8fd72000000/24",[{"d":"2015-12-09","t":"add","a":"No.2,277 Lane,Yongdeng Road,Putuo District,Shanghai,China Shanghai Shanghai CN 200000","c":"CN","o":"SHANGHAI LINGUO TECHNOLOGY CO., LTD."}]);

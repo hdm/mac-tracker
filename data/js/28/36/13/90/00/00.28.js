@@ -1,1 +1,1 @@
-deepmacDetailCallback("283613900000/28",[{"d":"2021-06-17","t":"add","s":"ieee-mam.csv","a":"Yuhuangling industrial Park, Xiazhuang-Rd, Chengyang-Qu QingDao City ShanDong Province CN 266109","c":"CN","o":"Qingdao Airpoint Electronics Co.,Ltd."}]);
+macDetailCallback("283613900000/28",[{"d":"2021-06-17","t":"add","s":"ieee-mam.csv","a":"Yuhuangling industrial Park, Xiazhuang-Rd, Chengyang-Qu QingDao City ShanDong Province CN 266109","c":"CN","o":"Qingdao Airpoint Electronics Co.,Ltd."}]);

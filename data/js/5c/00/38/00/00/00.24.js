@@ -1,1 +1,1 @@
-deepmacDetailCallback("5c0038000000/24",[{"d":"2017-09-28","t":"add","a":"Via Aosta 23\n\n\n","c":"Venaria Reale   Torino  10078","o":"Viasat Group S.p.A."},{"d":"2017-09-29","t":"change","a":"Via Aosta 23 Venaria Reale  Torino IT 10078","c":"IT","o":"Viasat Group S.p.A."}]);
+macDetailCallback("5c0038000000/24",[{"d":"2017-09-28","t":"add","a":"Via Aosta 23\n\n\n","c":"Venaria Reale   Torino  10078","o":"Viasat Group S.p.A."},{"d":"2017-09-29","t":"change","a":"Via Aosta 23 Venaria Reale  Torino IT 10078","c":"IT","o":"Viasat Group S.p.A."}]);

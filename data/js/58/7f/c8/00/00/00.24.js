@@ -1,1 +1,1 @@
-deepmacDetailCallback("587fc8000000/24",[{"d":"2011-12-30","t":"add","a":"2 rue des champs\nSaint Marcel  27950\n\n","c":"FRANCE","o":"S2M"},{"d":"2015-08-27","t":"change","a":"2 rue des champs Saint Marcel  FR 27950","c":"FR","o":"S2M"}]);
+macDetailCallback("587fc8000000/24",[{"d":"2011-12-30","t":"add","a":"2 rue des champs\nSaint Marcel  27950\n\n","c":"FRANCE","o":"S2M"},{"d":"2015-08-27","t":"change","a":"2 rue des champs Saint Marcel  FR 27950","c":"FR","o":"S2M"}]);

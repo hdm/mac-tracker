@@ -1,1 +1,1 @@
-deepmacDetailCallback("000c01000000/24",[{"d":"2002-12-12","t":"add","a":"Lettenstrasse 9\nRotkreuz  CH-6343\n\n","c":"SWITZERLAND","o":"Abatron AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Lettenstrasse 9 Rotkreuz  CH CH-6343","c":"CH","o":"Abatron AG"}]);
+macDetailCallback("000c01000000/24",[{"d":"2002-12-12","t":"add","a":"Lettenstrasse 9\nRotkreuz  CH-6343\n\n","c":"SWITZERLAND","o":"Abatron AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Lettenstrasse 9 Rotkreuz  CH CH-6343","c":"CH","o":"Abatron AG"}]);

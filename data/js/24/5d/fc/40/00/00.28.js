@@ -1,1 +1,1 @@
-deepmacDetailCallback("245dfc400000/28",[{"d":"2021-01-15","t":"add","s":"ieee-mam.csv","a":"Room 303, Building 2, No.88 Baifu Road, Kunshan Development Zone Kunshan Jiangsu CN 215300","c":"CN","o":"Suzhou Jiangzhi electronic technology co., Ltd"}]);
+macDetailCallback("245dfc400000/28",[{"d":"2021-01-15","t":"add","s":"ieee-mam.csv","a":"Room 303, Building 2, No.88 Baifu Road, Kunshan Development Zone Kunshan Jiangsu CN 215300","c":"CN","o":"Suzhou Jiangzhi electronic technology co., Ltd"}]);

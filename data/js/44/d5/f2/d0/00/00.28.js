@@ -1,1 +1,1 @@
-deepmacDetailCallback("44d5f2d00000/28",[{"d":"2019-05-16","t":"add","s":"ieee-mam.csv","a":"Room 816, Building A, Yuanzheng Venture Building, No. 19 Langshan Road, Xili Street, Nanshan District ShenZhen Guangdong CN 518000","c":"CN","o":"Shenzhen Nation RFID Technology Co.,Ltd."}]);
+macDetailCallback("44d5f2d00000/28",[{"d":"2019-05-16","t":"add","s":"ieee-mam.csv","a":"Room 816, Building A, Yuanzheng Venture Building, No. 19 Langshan Road, Xili Street, Nanshan District ShenZhen Guangdong CN 518000","c":"CN","o":"Shenzhen Nation RFID Technology Co.,Ltd."}]);

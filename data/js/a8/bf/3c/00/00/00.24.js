@@ -1,1 +1,1 @@
-deepmacDetailCallback("a8bf3c000000/24",[{"d":"2018-12-20","t":"add","s":"ieee-oui.csv","a":"Room 1103, Hang Seng Mongkok Building, 677 Nathan Road,Mongkok Kowloon Hong Kong CN 518103","c":"CN","o":"HDV Phoelectron Technology Limited"}]);
+macDetailCallback("a8bf3c000000/24",[{"d":"2018-12-20","t":"add","s":"ieee-oui.csv","a":"Room 1103, Hang Seng Mongkok Building, 677 Nathan Road,Mongkok Kowloon Hong Kong CN 518103","c":"CN","o":"HDV Phoelectron Technology Limited"}]);

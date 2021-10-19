@@ -1,1 +1,1 @@
-deepmacDetailCallback("4007c0000000/24",[{"d":"2013-03-19","t":"add","a":"Sonnenbergstr. 19\nHergiswil Nidwalden 6052\n\n","c":"SWITZERLAND","o":"Railtec Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Sonnenbergstr. 19 Hergiswil Nidwalden CH 6052","c":"CH","o":"Railtec Systems GmbH"}]);
+macDetailCallback("4007c0000000/24",[{"d":"2013-03-19","t":"add","a":"Sonnenbergstr. 19\nHergiswil Nidwalden 6052\n\n","c":"SWITZERLAND","o":"Railtec Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Sonnenbergstr. 19 Hergiswil Nidwalden CH 6052","c":"CH","o":"Railtec Systems GmbH"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("c88ed1c00000/28",[{"a":"6F,Building12,399 Keyuan Road, Zhangjiang Hi-Tech Park,shanghai,china Shanghai Shanghai CN 201203","o":"Shanghai Bwave Technology Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("c88ed1c00000/28",[{"a":"6F,Building12,399 Keyuan Road, Zhangjiang Hi-Tech Park,shanghai,china Shanghai Shanghai CN 201203","o":"Shanghai Bwave Technology Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

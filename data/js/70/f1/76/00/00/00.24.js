@@ -1,1 +1,1 @@
-deepmacDetailCallback("70f176000000/24",[{"d":"2013-05-14","t":"add","a":"Landsberger Str. 322\nMunich Bavaria 80687\n\n","c":"GERMANY","o":"Data Modul AG"},{"d":"2015-08-27","t":"change","a":"Landsberger Str. 322 Munich Bavaria DE 80687","c":"DE","o":"Data Modul AG"}]);
+macDetailCallback("70f176000000/24",[{"d":"2013-05-14","t":"add","a":"Landsberger Str. 322\nMunich Bavaria 80687\n\n","c":"GERMANY","o":"Data Modul AG"},{"d":"2015-08-27","t":"change","a":"Landsberger Str. 322 Munich Bavaria DE 80687","c":"DE","o":"Data Modul AG"}]);

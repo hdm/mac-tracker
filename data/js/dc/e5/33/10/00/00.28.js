@@ -1,1 +1,1 @@
-deepmacDetailCallback("dce533100000/28",[{"a":"1903, 19/F, Loon Lee Building, 267-275 Des Voeux Road Central., Sheung Wan, Hong Kong Hong Kong Hong Kong HK 00000","o":"Ambi Labs Limited","d":"2017-11-05","t":"add","s":"ieee","c":"HK"}]);
+macDetailCallback("dce533100000/28",[{"a":"1903, 19/F, Loon Lee Building, 267-275 Des Voeux Road Central., Sheung Wan, Hong Kong Hong Kong Hong Kong HK 00000","o":"Ambi Labs Limited","d":"2017-11-05","t":"add","s":"ieee","c":"HK"}]);

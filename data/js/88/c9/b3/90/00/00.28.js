@@ -1,1 +1,1 @@
-deepmacDetailCallback("88c9b3900000/28",[{"d":"2021-02-26","t":"add","s":"ieee-mam.csv","a":"2608, Tower A, Tianzuo International, No.12, Zhongguancun South Street, Haidian District Beijing Beijing CN 100081","c":"CN","o":"Richbeam (Beijing) Technology Co., Ltd."}]);
+macDetailCallback("88c9b3900000/28",[{"d":"2021-02-26","t":"add","s":"ieee-mam.csv","a":"2608, Tower A, Tianzuo International, No.12, Zhongguancun South Street, Haidian District Beijing Beijing CN 100081","c":"CN","o":"Richbeam (Beijing) Technology Co., Ltd."}]);

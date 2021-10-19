@@ -1,1 +1,1 @@
-deepmacDetailCallback("cc4f5cd00000/28",[{"d":"2020-09-05","t":"add","s":"ieee-mam.csv","a":"Beijing Neutron Technology CO.,LTD.  Beijing Beijing CN 100193","c":"CN","o":"Beijing Neutron Technology CO.,LTD."}]);
+macDetailCallback("cc4f5cd00000/28",[{"d":"2020-09-05","t":"add","s":"ieee-mam.csv","a":"Beijing Neutron Technology CO.,LTD.  Beijing Beijing CN 100193","c":"CN","o":"Beijing Neutron Technology CO.,LTD."}]);

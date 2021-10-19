@@ -1,1 +1,1 @@
-deepmacDetailCallback("8411c2100000/28",[{"d":"2020-09-18","t":"add","s":"ieee-mam.csv","a":"11B-660, Building 13, Wangjing Xiyuan, Chaoyang Beijing  CN 100000","c":"CN","o":"Beijing Dayu Technology Co., Ltd."}]);
+macDetailCallback("8411c2100000/28",[{"d":"2020-09-18","t":"add","s":"ieee-mam.csv","a":"11B-660, Building 13, Wangjing Xiyuan, Chaoyang Beijing  CN 100000","c":"CN","o":"Beijing Dayu Technology Co., Ltd."}]);

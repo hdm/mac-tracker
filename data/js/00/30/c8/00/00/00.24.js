@@ -1,1 +1,1 @@
-deepmacDetailCallback("0030c8000000/24",[{"d":"2000-09-08","t":"add","a":"BEIT ROKAR HAR HOTZVIM\nJERUSALEM\n\n","c":"ISRAEL","o":"GAD LINE, LTD."},{"d":"2015-08-27","t":"change","a":"BEIT ROKAR HAR HOTZVIM   IL","c":"IL","o":"GAD LINE, LTD."}]);
+macDetailCallback("0030c8000000/24",[{"d":"2000-09-08","t":"add","a":"BEIT ROKAR HAR HOTZVIM\nJERUSALEM\n\n","c":"ISRAEL","o":"GAD LINE, LTD."},{"d":"2015-08-27","t":"change","a":"BEIT ROKAR HAR HOTZVIM   IL","c":"IL","o":"GAD LINE, LTD."}]);

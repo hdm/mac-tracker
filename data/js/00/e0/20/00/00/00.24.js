@@ -1,1 +1,1 @@
-deepmacDetailCallback("00e020000000/24",[{"d":"1998-04-22","t":"add","a":"P.O. BOX 93\nFIN-02271 ESPOO\n\n","c":"FINLAND","o":"TECNOMEN OY"},{"d":"2015-08-27","t":"change","a":"P.O. BOX 93 FIN-02271 ESPOO  FI","c":"FI","o":"TECNOMEN OY"}]);
+macDetailCallback("00e020000000/24",[{"d":"1998-04-22","t":"add","a":"P.O. BOX 93\nFIN-02271 ESPOO\n\n","c":"FINLAND","o":"TECNOMEN OY"},{"d":"2015-08-27","t":"change","a":"P.O. BOX 93 FIN-02271 ESPOO  FI","c":"FI","o":"TECNOMEN OY"}]);

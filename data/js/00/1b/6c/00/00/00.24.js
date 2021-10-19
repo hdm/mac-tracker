@@ -1,1 +1,1 @@
-deepmacDetailCallback("001b6c000000/24",[{"d":"2007-02-09","t":"add","a":"Roekenveldweg 1\nBrunssum Limburg 6446DK\n\n","c":"NETHERLANDS","o":"LookX Digital Media BV"},{"d":"2015-08-27","t":"change","a":"Roekenveldweg 1 Brunssum Limburg NL 6446DK","c":"NL","o":"LookX Digital Media BV"}]);
+macDetailCallback("001b6c000000/24",[{"d":"2007-02-09","t":"add","a":"Roekenveldweg 1\nBrunssum Limburg 6446DK\n\n","c":"NETHERLANDS","o":"LookX Digital Media BV"},{"d":"2015-08-27","t":"change","a":"Roekenveldweg 1 Brunssum Limburg NL 6446DK","c":"NL","o":"LookX Digital Media BV"}]);

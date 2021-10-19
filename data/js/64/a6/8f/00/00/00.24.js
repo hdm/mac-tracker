@@ -1,1 +1,1 @@
-deepmacDetailCallback("64a68f000000/24",[{"d":"2016-08-23","t":"add","a":"Changmingshui Industrial Park Wuguishan Zhongshan City,Guangdong Province Zhongshan Guangdong CN 528400","c":"CN","o":"Zhongshan Readboy Electronics Co.,Ltd"}]);
+macDetailCallback("64a68f000000/24",[{"d":"2016-08-23","t":"add","a":"Changmingshui Industrial Park Wuguishan Zhongshan City,Guangdong Province Zhongshan Guangdong CN 528400","c":"CN","o":"Zhongshan Readboy Electronics Co.,Ltd"}]);

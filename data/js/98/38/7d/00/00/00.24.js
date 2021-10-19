@@ -1,1 +1,1 @@
-deepmacDetailCallback("98387d000000/24",[{"d":"2020-12-06","t":"add","s":"ieee-oui.csv","a":"2F C Building Fu Xin Lin lndustrial Park Hangcheng lndustrial Zone Xixiang Street Baoan District Shenzhen CN 518100","c":"CN","o":"ITRONIC  TECHNOLOGY CO . , LTD ."}]);
+macDetailCallback("98387d000000/24",[{"d":"2020-12-06","t":"add","s":"ieee-oui.csv","a":"2F C Building Fu Xin Lin lndustrial Park Hangcheng lndustrial Zone Xixiang Street Baoan District Shenzhen CN 518100","c":"CN","o":"ITRONIC  TECHNOLOGY CO . , LTD ."}]);

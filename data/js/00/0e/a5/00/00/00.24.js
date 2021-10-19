@@ -1,1 +1,1 @@
-deepmacDetailCallback("000ea5000000/24",[{"d":"2003-12-21","t":"add","a":"Haekken 2\nVodskov Vester Hassing 9310\n\n","c":"DENMARK","o":"BLIP Systems","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Haekken 2 Vodskov Vester Hassing DK 9310","c":"DK","o":"BLIP Systems"}]);
+macDetailCallback("000ea5000000/24",[{"d":"2003-12-21","t":"add","a":"Haekken 2\nVodskov Vester Hassing 9310\n\n","c":"DENMARK","o":"BLIP Systems","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Haekken 2 Vodskov Vester Hassing DK 9310","c":"DK","o":"BLIP Systems"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5ed5000/36",[{"a":"xipu road no. 1503 binke building, room 1606 hangzhou binjiang zhejiang CN 310052","o":"hangzhou battle link technology Co.,Ltd","d":"2014-10-19","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d5ed5000/36",[{"a":"xipu road no. 1503 binke building, room 1606 hangzhou binjiang zhejiang CN 310052","o":"hangzhou battle link technology Co.,Ltd","d":"2014-10-19","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("043855000000/24",[{"d":"2021-07-14","t":"add","s":"ieee-oui.csv","a":"A-46, Ground floor, Pandav Nagar, Ganesh ngr complex,  New Delhi Delhi IN 110092","c":"IN","o":"SCOPUS INTERNATIONAL-BELGIUM"}]);
+macDetailCallback("043855000000/24",[{"d":"2021-07-14","t":"add","s":"ieee-oui.csv","a":"A-46, Ground floor, Pandav Nagar, Ganesh ngr complex,  New Delhi Delhi IN 110092","c":"IN","o":"SCOPUS INTERNATIONAL-BELGIUM"}]);

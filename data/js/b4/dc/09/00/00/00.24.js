@@ -1,1 +1,1 @@
-deepmacDetailCallback("b4dc09000000/24",[{"d":"2019-03-26","t":"add","s":"ieee-oui.csv","a":"Zone A 906#, International Business Incubator, No.3 Juquan Road, Huangpu District Guangzhou Guangdong CN 510660","c":"CN","o":"Guangzhou Dawei Communication Co.,Ltd"}]);
+macDetailCallback("b4dc09000000/24",[{"d":"2019-03-26","t":"add","s":"ieee-oui.csv","a":"Zone A 906#, International Business Incubator, No.3 Juquan Road, Huangpu District Guangzhou Guangdong CN 510660","c":"CN","o":"Guangzhou Dawei Communication Co.,Ltd"}]);

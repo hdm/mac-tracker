@@ -1,1 +1,1 @@
-deepmacDetailCallback("1cf4ca000000/24",[{"d":"2012-03-29","t":"add","a":"6 rue du Patis Tatelin\nRennes -- 35700\n\n","c":"FRANCE","o":"Aviwest"},{"d":"2012-06-26","t":"change","a":"","c":null,"o":"PRIVATE"}]);
+macDetailCallback("1cf4ca000000/24",[{"d":"2012-03-29","t":"add","a":"6 rue du Patis Tatelin\nRennes -- 35700\n\n","c":"FRANCE","o":"Aviwest"},{"d":"2012-06-26","t":"change","a":"","c":null,"o":"PRIVATE"}]);

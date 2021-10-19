@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5051000/36",[{"d":"2020-05-22","t":"add","s":"ieee-oui36.csv","a":"203, Business Incubator Center,  Korea Polytechnic University, 237, Sangidaehak-ro, Siheung-si Gyeonggi-do KR 15073","c":"KR","o":"JT"}]);
+macDetailCallback("70b3d5051000/36",[{"d":"2020-05-22","t":"add","s":"ieee-oui36.csv","a":"203, Business Incubator Center,  Korea Polytechnic University, 237, Sangidaehak-ro, Siheung-si Gyeonggi-do KR 15073","c":"KR","o":"JT"}]);

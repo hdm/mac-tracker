@@ -1,1 +1,1 @@
-deepmacDetailCallback("0019a7000000/24",[{"d":"2006-09-25","t":"add","a":"Place des Nations\nGeneva 20  CH-1211\n\n","c":"SWITZERLAND","o":"ITU-T"},{"d":"2015-08-27","t":"change","a":"Place des Nations Geneva 20  CH CH-1211","c":"CH","o":"ITU-T"}]);
+macDetailCallback("0019a7000000/24",[{"d":"2006-09-25","t":"add","a":"Place des Nations\nGeneva 20  CH-1211\n\n","c":"SWITZERLAND","o":"ITU-T"},{"d":"2015-08-27","t":"change","a":"Place des Nations Geneva 20  CH CH-1211","c":"CH","o":"ITU-T"}]);

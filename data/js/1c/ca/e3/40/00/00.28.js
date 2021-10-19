@@ -1,1 +1,1 @@
-deepmacDetailCallback("1ccae3400000/28",[{"a":"4/F No.242 Tianhe Dong Road ,510620 Guangzhou,  PEOPLE’S REPUBLICA OF CHINA Guangzhou Guangdong CN 510620","o":"Sunray Medical Apparatus Co.,Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("1ccae3400000/28",[{"a":"4/F No.242 Tianhe Dong Road ,510620 Guangzhou,  PEOPLE’S REPUBLICA OF CHINA Guangzhou Guangdong CN 510620","o":"Sunray Medical Apparatus Co.,Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

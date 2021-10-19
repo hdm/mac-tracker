@@ -1,1 +1,1 @@
-deepmacDetailCallback("741f79000000/24",[{"d":"2018-04-14","t":"add","a":"#810, Daewoo Frontier Valley 1,16-25, Dongbaekjungang-ro 16beon-gil, Giheung-gu YONGIN Gyeonggi-do KR 17015","c":"KR","o":"YOUNGKOOK ELECTRONICS CO.,LTD"}]);
+macDetailCallback("741f79000000/24",[{"d":"2018-04-14","t":"add","a":"#810, Daewoo Frontier Valley 1,16-25, Dongbaekjungang-ro 16beon-gil, Giheung-gu YONGIN Gyeonggi-do KR 17015","c":"KR","o":"YOUNGKOOK ELECTRONICS CO.,LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("e0b6f5200000/28",[{"a":"No.1 Building, No.433 Guoshoujing Road, Pudong District, Shanghai shanghai  CN 201203","o":"Shanghai- British Information Technology Co., Ltd","d":"2016-02-21","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("e0b6f5200000/28",[{"a":"No.1 Building, No.433 Guoshoujing Road, Pudong District, Shanghai shanghai  CN 201203","o":"Shanghai- British Information Technology Co., Ltd","d":"2016-02-21","t":"add","s":"ieee","c":"CN"}]);

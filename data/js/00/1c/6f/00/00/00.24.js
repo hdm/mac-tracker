@@ -1,1 +1,1 @@
-deepmacDetailCallback("001c6f000000/24",[{"d":"2007-05-13","t":"add","a":"Konttisentie 8 B\nVaajakoski  40800\n\n","c":"FINLAND","o":"Emfit Ltd"},{"d":"2015-08-27","t":"change","a":"Konttisentie 8 B Vaajakoski  FI 40800","c":"FI","o":"Emfit Ltd"}]);
+macDetailCallback("001c6f000000/24",[{"d":"2007-05-13","t":"add","a":"Konttisentie 8 B\nVaajakoski  40800\n\n","c":"FINLAND","o":"Emfit Ltd"},{"d":"2015-08-27","t":"change","a":"Konttisentie 8 B Vaajakoski  FI 40800","c":"FI","o":"Emfit Ltd"}]);

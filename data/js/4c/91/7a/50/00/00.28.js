@@ -1,1 +1,1 @@
-deepmacDetailCallback("4c917a500000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"6F, C's Tower, 58, Pangyo-ro 255veon-gil, Bundang-gu seongnam-si Gyeonggi-do KR 13486","c":"KR","o":"mtekvision"}]);
+macDetailCallback("4c917a500000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"6F, C's Tower, 58, Pangyo-ro 255veon-gil, Bundang-gu seongnam-si Gyeonggi-do KR 13486","c":"KR","o":"mtekvision"}]);

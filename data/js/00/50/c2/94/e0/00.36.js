@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c294e000/36",[{"a":"43-1, Jalan 1/149J, Sri Petaling, Kuala Lumpur Wilayah Persekutuan MY 57000","o":"Zynix Original Sdn. Bhd.","d":"2008-07-30","t":"add","s":"ieee","c":"MY"}]);
+macDetailCallback("0050c294e000/36",[{"a":"43-1, Jalan 1/149J, Sri Petaling, Kuala Lumpur Wilayah Persekutuan MY 57000","o":"Zynix Original Sdn. Bhd.","d":"2008-07-30","t":"add","s":"ieee","c":"MY"}]);

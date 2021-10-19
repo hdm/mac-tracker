@@ -1,1 +1,1 @@
-deepmacDetailCallback("fc9afa000000/24",[{"d":"2015-02-14","t":"add","a":"5394 Merrick Road\n2nd Floor\nMassapequa NY 11758\n","c":"UNITED STATES","o":"Motus Global Inc."},{"d":"2015-08-27","t":"change","a":"5394 Merrick Road Massapequa NY US 11758","c":"US","o":"Motus Global Inc."}]);
+macDetailCallback("fc9afa000000/24",[{"d":"2015-02-14","t":"add","a":"5394 Merrick Road\n2nd Floor\nMassapequa NY 11758\n","c":"UNITED STATES","o":"Motus Global Inc."},{"d":"2015-08-27","t":"change","a":"5394 Merrick Road Massapequa NY US 11758","c":"US","o":"Motus Global Inc."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d561b000/36",[{"a":"1242, Ground Floor, 4th Main, 4th Cross, BTM 4th stage, 1st Block, Deverachikkanahalli Bangalore Karnataka IN 560076","o":"Nubewell Networks Pvt Ltd","d":"2017-07-16","t":"add","s":"ieee","c":"IN"}]);
+macDetailCallback("70b3d561b000/36",[{"a":"1242, Ground Floor, 4th Main, 4th Cross, BTM 4th stage, 1st Block, Deverachikkanahalli Bangalore Karnataka IN 560076","o":"Nubewell Networks Pvt Ltd","d":"2017-07-16","t":"add","s":"ieee","c":"IN"}]);

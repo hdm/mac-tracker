@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c873b000000/24",[{"d":"2014-10-16","t":"add","a":"Am Leitz-Park 5\nWetzlar Hessen 35578\n\n","c":"GERMANY","o":"Leica Camera AG"},{"d":"2015-08-27","t":"change","a":"Am Leitz-Park 5 Wetzlar Hessen DE 35578","c":"DE","o":"Leica Camera AG"}]);
+macDetailCallback("8c873b000000/24",[{"d":"2014-10-16","t":"add","a":"Am Leitz-Park 5\nWetzlar Hessen 35578\n\n","c":"GERMANY","o":"Leica Camera AG"},{"d":"2015-08-27","t":"change","a":"Am Leitz-Park 5 Wetzlar Hessen DE 35578","c":"DE","o":"Leica Camera AG"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("2894af000000/24",[{"d":"2013-07-20","t":"add","a":"293-7, Doksan-dong\nKumchun-gu\nSeoul 153-813\n","c":"KOREA, REPUBLIC OF","o":"Samhwa Telecom"},{"d":"2015-08-27","t":"change","a":"293-7, Doksan-dong Seoul Seoul KR 153-813","c":"KR","o":"Samhwa Telecom"}]);
+macDetailCallback("2894af000000/24",[{"d":"2013-07-20","t":"add","a":"293-7, Doksan-dong\nKumchun-gu\nSeoul 153-813\n","c":"KOREA, REPUBLIC OF","o":"Samhwa Telecom"},{"d":"2015-08-27","t":"change","a":"293-7, Doksan-dong Seoul Seoul KR 153-813","c":"KR","o":"Samhwa Telecom"}]);

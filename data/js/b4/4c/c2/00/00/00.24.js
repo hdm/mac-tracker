@@ -1,1 +1,1 @@
-deepmacDetailCallback("b44cc2000000/24",[{"d":"2010-09-28","t":"add","a":"69,Suyuan Avenue\nJiangning\nNanjing Jiangsu 211102\n","c":"CHINA","o":"NR ELECTRIC CO., LTD"},{"d":"2015-08-27","t":"change","a":"69,Suyuan Avenue Nanjing Jiangsu CN 211102","c":"CN","o":"NR ELECTRIC CO., LTD"}]);
+macDetailCallback("b44cc2000000/24",[{"d":"2010-09-28","t":"add","a":"69,Suyuan Avenue\nJiangning\nNanjing Jiangsu 211102\n","c":"CHINA","o":"NR ELECTRIC CO., LTD"},{"d":"2015-08-27","t":"change","a":"69,Suyuan Avenue Nanjing Jiangsu CN 211102","c":"CN","o":"NR ELECTRIC CO., LTD"}]);

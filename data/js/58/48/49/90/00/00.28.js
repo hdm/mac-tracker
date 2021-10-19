@@ -1,1 +1,1 @@
-deepmacDetailCallback("584849900000/28",[{"d":"2021-05-26","t":"add","s":"ieee-mam.csv","a":"Meitai Industry Zone, Guanguang Road, Guihua zone, Guanlan street, Longhua District, Shenzhen Shenzhen  CN 518000","c":"CN","o":"Shenzhen Tongye Technology Co.,Ltd"}]);
+macDetailCallback("584849900000/28",[{"d":"2021-05-26","t":"add","s":"ieee-mam.csv","a":"Meitai Industry Zone, Guanguang Road, Guihua zone, Guanlan street, Longhua District, Shenzhen Shenzhen  CN 518000","c":"CN","o":"Shenzhen Tongye Technology Co.,Ltd"}]);

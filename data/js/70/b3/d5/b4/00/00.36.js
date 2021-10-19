@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5b40000/36",[{"a":"NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China Wuhan Hubei CN 430074","o":"Wuhan Xingtuxinke ELectronic Co.,Ltd","d":"2015-11-01","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d5b40000/36",[{"a":"NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China Wuhan Hubei CN 430074","o":"Wuhan Xingtuxinke ELectronic Co.,Ltd","d":"2015-11-01","t":"add","s":"ieee","c":"CN"}]);

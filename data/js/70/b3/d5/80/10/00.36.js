@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5801000/36",[{"d":"2020-02-20","t":"add","s":"ieee-oui36.csv","a":"3F., No.43-1, Ln. 11, Sec. 6, Minquan E. Rd Taipei City  Neihu Dist TW 114","c":"TW","o":"Glory Technology Service Inc."}]);
+macDetailCallback("70b3d5801000/36",[{"d":"2020-02-20","t":"add","s":"ieee-oui36.csv","a":"3F., No.43-1, Ln. 11, Sec. 6, Minquan E. Rd Taipei City  Neihu Dist TW 114","c":"TW","o":"Glory Technology Service Inc."}]);

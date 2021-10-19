@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5a61000/36",[{"d":"2020-10-07","t":"add","s":"ieee-oui36.csv","a":"10 Let Oktyabrya str, 195 Omsk  RU 644009","c":"RU","o":"Omsk Manufacturing Association named after A.S. Popov"}]);
+macDetailCallback("70b3d5a61000/36",[{"d":"2020-10-07","t":"add","s":"ieee-oui36.csv","a":"10 Let Oktyabrya str, 195 Omsk  RU 644009","c":"RU","o":"Omsk Manufacturing Association named after A.S. Popov"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("dc2919000000/24",[{"d":"2017-12-30","t":"add","a":"South Building 203-38,Huoju Square ,No.56-58,Huoju Road, Huoju Park, Huoju High-tech District Xiamen  CN 361000","c":"CN","o":"AltoBeam (Xiamen) Technology Ltd, Co."}]);
+macDetailCallback("dc2919000000/24",[{"d":"2017-12-30","t":"add","a":"South Building 203-38,Huoju Square ,No.56-58,Huoju Road, Huoju Park, Huoju High-tech District Xiamen  CN 361000","c":"CN","o":"AltoBeam (Xiamen) Technology Ltd, Co."}]);

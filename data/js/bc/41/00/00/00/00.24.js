@@ -1,1 +1,1 @@
-deepmacDetailCallback("bc4100000000/24",[{"d":"2013-07-25","t":"add","a":"Hemy 825\nValasske Mezirici Vsetin 75701\n\n","c":"CZECH REPUBLIC","o":"Codaco Electronic s.r.o."},{"d":"2015-08-27","t":"change","a":"Hemy 825 Valasske Mezirici  CZ 75701","c":"CZ","o":"CODACO ELECTRONIC s.r.o."}]);
+macDetailCallback("bc4100000000/24",[{"d":"2013-07-25","t":"add","a":"Hemy 825\nValasske Mezirici Vsetin 75701\n\n","c":"CZECH REPUBLIC","o":"Codaco Electronic s.r.o."},{"d":"2015-08-27","t":"change","a":"Hemy 825 Valasske Mezirici  CZ 75701","c":"CZ","o":"CODACO ELECTRONIC s.r.o."}]);

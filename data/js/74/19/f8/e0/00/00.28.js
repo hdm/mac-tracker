@@ -1,1 +1,1 @@
-deepmacDetailCallback("7419f8e00000/28",[{"a":"15F-6., No.7, Sec.3, New Taipei Blvd., Xinzhuang Dist., New Taipei City 242., Taiwan (R.O.C) Xinzhuang Dist. New Taipei City TW 242","o":"Volacomm Co., Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("7419f8e00000/28",[{"a":"15F-6., No.7, Sec.3, New Taipei Blvd., Xinzhuang Dist., New Taipei City 242., Taiwan (R.O.C) Xinzhuang Dist. New Taipei City TW 242","o":"Volacomm Co., Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);

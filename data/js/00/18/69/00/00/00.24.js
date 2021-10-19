@@ -1,1 +1,1 @@
-deepmacDetailCallback("001869000000/24",[{"d":"2006-06-13","t":"add","a":"No.10-18,2-Chome\nHigashi-Kanda\nChiyoda-ku Tokyo 101-0031\n","c":"JAPAN","o":"KINGJIM"},{"d":"2015-08-27","t":"change","a":"No.10-18,2-Chome Chiyoda-ku Tokyo JP 101-0031","c":"JP","o":"KINGJIM"}]);
+macDetailCallback("001869000000/24",[{"d":"2006-06-13","t":"add","a":"No.10-18,2-Chome\nHigashi-Kanda\nChiyoda-ku Tokyo 101-0031\n","c":"JAPAN","o":"KINGJIM"},{"d":"2015-08-27","t":"change","a":"No.10-18,2-Chome Chiyoda-ku Tokyo JP 101-0031","c":"JP","o":"KINGJIM"}]);

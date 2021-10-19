@@ -1,1 +1,1 @@
-deepmacDetailCallback("e44cc7800000/28",[{"d":"2018-12-05","t":"add","s":"ieee-mam.csv","a":"IAG Industrial Park, Jiuwei, Xixiang Town, Baoan, Shenzhen, China. shenzhen  CN 518000","c":"CN","o":"IAG GROUP LTD"}]);
+macDetailCallback("e44cc7800000/28",[{"d":"2018-12-05","t":"add","s":"ieee-mam.csv","a":"IAG Industrial Park, Jiuwei, Xixiang Town, Baoan, Shenzhen, China. shenzhen  CN 518000","c":"CN","o":"IAG GROUP LTD"}]);

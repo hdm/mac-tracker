@@ -1,1 +1,1 @@
-deepmacDetailCallback("f0d7af300000/28",[{"d":"2020-04-15","t":"add","s":"ieee-mam.csv","a":"Room 9001, D Building, Kangjianbaosheng Plaza, No.8 Heiquan Road, Haidian District, Beijing bei jing  CN 100085","c":"CN","o":"720?bei jing?Health iTech Co.,Ltd"}]);
+macDetailCallback("f0d7af300000/28",[{"d":"2020-04-15","t":"add","s":"ieee-mam.csv","a":"Room 9001, D Building, Kangjianbaosheng Plaza, No.8 Heiquan Road, Haidian District, Beijing bei jing  CN 100085","c":"CN","o":"720?bei jing?Health iTech Co.,Ltd"}]);

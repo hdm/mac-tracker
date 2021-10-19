@@ -1,1 +1,1 @@
-deepmacDetailCallback("2c5731000000/24",[{"d":"2017-03-14","t":"add","a":" FLAT/RM 1903 19/F PODIUM PLAZA 5HANOI ROAD TSIM SHA TSUI Hong Kong Hong Kong HK 999077 ","c":"HK","o":" Wingtech Group (HongKong）Limited"}]);
+macDetailCallback("2c5731000000/24",[{"d":"2017-03-14","t":"add","a":" FLAT/RM 1903 19/F PODIUM PLAZA 5HANOI ROAD TSIM SHA TSUI Hong Kong Hong Kong HK 999077 ","c":"HK","o":" Wingtech Group (HongKong）Limited"}]);

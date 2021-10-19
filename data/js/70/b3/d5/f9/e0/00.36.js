@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5f9e000/36",[{"a":"7-3-1 Hongo, Bunkyo-ku Tokyo  JP 113-0033","o":"International Center for Elementary Particle Physics, The University of Tokyo","d":"2017-01-29","t":"add","s":"ieee","c":"JP"}]);
+macDetailCallback("70b3d5f9e000/36",[{"a":"7-3-1 Hongo, Bunkyo-ku Tokyo  JP 113-0033","o":"International Center for Elementary Particle Physics, The University of Tokyo","d":"2017-01-29","t":"add","s":"ieee","c":"JP"}]);

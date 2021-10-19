@@ -1,1 +1,1 @@
-deepmacDetailCallback("5c85f8000000/24",[{"d":"2020-11-01","t":"add","s":"ieee-oui.csv","a":"7006 Caitian Rd., Futian Dist.  Shen Zhen Guang Dong CN 518035","c":"CN","o":"SHENZHEN KAIFA TECHNOLOGY CO.,LTD."}]);
+macDetailCallback("5c85f8000000/24",[{"d":"2020-11-01","t":"add","s":"ieee-oui.csv","a":"7006 Caitian Rd., Futian Dist.  Shen Zhen Guang Dong CN 518035","c":"CN","o":"SHENZHEN KAIFA TECHNOLOGY CO.,LTD."}]);

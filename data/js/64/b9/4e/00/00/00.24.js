@@ -1,1 +1,1 @@
-deepmacDetailCallback("64b94e000000/24",[{"d":"2021-08-03","t":"add","s":"ieee-oui.csv","a":"Matam Park, Bld 8B, PO Box 15046 3190500 HAIFA ISRAEL  HAIFA  HAIFA  IL 15046","c":"IL","o":"Dell Technologies"}]);
+macDetailCallback("64b94e000000/24",[{"d":"2021-08-03","t":"add","s":"ieee-oui.csv","a":"Matam Park, Bld 8B, PO Box 15046 3190500 HAIFA ISRAEL  HAIFA  HAIFA  IL 15046","c":"IL","o":"Dell Technologies"}]);

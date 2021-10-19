@@ -1,1 +1,1 @@
-deepmacDetailCallback("b8ae1c000000/24",[{"d":"2020-08-12","t":"add","s":"ieee-oui.csv","a":"13F.-3, No. 78, Sec. 2, Anhe Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.) Taipei  TW 106","c":"TW","o":"Smart Cube., Ltd"}]);
+macDetailCallback("b8ae1c000000/24",[{"d":"2020-08-12","t":"add","s":"ieee-oui.csv","a":"13F.-3, No. 78, Sec. 2, Anhe Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.) Taipei  TW 106","c":"TW","o":"Smart Cube., Ltd"}]);

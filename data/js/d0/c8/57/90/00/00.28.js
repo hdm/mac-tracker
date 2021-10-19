@@ -1,1 +1,1 @@
-deepmacDetailCallback("d0c857900000/28",[{"d":"2019-03-28","t":"add","s":"ieee-mam.csv","a":"Poly Building, 2702 Nanhai Avenue, Nanshan District Shenzhen Guangdong CN 518054","c":"CN","o":"Shenzhen xiaosha  Intelligence  Technology Co. Ltd"}]);
+macDetailCallback("d0c857900000/28",[{"d":"2019-03-28","t":"add","s":"ieee-mam.csv","a":"Poly Building, 2702 Nanhai Avenue, Nanshan District Shenzhen Guangdong CN 518054","c":"CN","o":"Shenzhen xiaosha  Intelligence  Technology Co. Ltd"}]);

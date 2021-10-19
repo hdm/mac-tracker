@@ -1,1 +1,1 @@
-deepmacDetailCallback("f45b73000000/24",[{"d":"2016-03-17","t":"add","a":"2nd Floor,Incubation Building, Science Development Institute of China, High-tech South 1st Street, Nanshan District Shenzhen Guangdong CN 518040","c":"CN","o":"Wanjiaan Interconnected Technology Co., Ltd"}]);
+macDetailCallback("f45b73000000/24",[{"d":"2016-03-17","t":"add","a":"2nd Floor,Incubation Building, Science Development Institute of China, High-tech South 1st Street, Nanshan District Shenzhen Guangdong CN 518040","c":"CN","o":"Wanjiaan Interconnected Technology Co., Ltd"}]);

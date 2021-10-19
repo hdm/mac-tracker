@@ -1,1 +1,1 @@
-deepmacDetailCallback("6c4b7f000000/24",[{"d":"2013-08-08","t":"add","a":"Wasenstrasse 25\nUrbach  73660\n\n","c":"GERMANY","o":"Vossloh-Schwabe Deutschland GmbH"},{"d":"2015-08-27","t":"change","a":"Wasenstrasse 25 Urbach  DE 73660","c":"DE","o":"Vossloh-Schwabe Deutschland GmbH"}]);
+macDetailCallback("6c4b7f000000/24",[{"d":"2013-08-08","t":"add","a":"Wasenstrasse 25\nUrbach  73660\n\n","c":"GERMANY","o":"Vossloh-Schwabe Deutschland GmbH"},{"d":"2015-08-27","t":"change","a":"Wasenstrasse 25 Urbach  DE 73660","c":"DE","o":"Vossloh-Schwabe Deutschland GmbH"}]);

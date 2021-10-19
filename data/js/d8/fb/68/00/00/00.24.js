@@ -1,1 +1,1 @@
-deepmacDetailCallback("d8fb68000000/24",[{"d":"2016-04-26","t":"add","a":"Cloud Corner Smart Bldg, Mei Ju Center NO.39 Dongcheng South Road Dong Guan Guang Dong CN 523129","c":"CN","o":"Cloud Corner Ltd."}]);
+macDetailCallback("d8fb68000000/24",[{"d":"2016-04-26","t":"add","a":"Cloud Corner Smart Bldg, Mei Ju Center NO.39 Dongcheng South Road Dong Guan Guang Dong CN 523129","c":"CN","o":"Cloud Corner Ltd."}]);

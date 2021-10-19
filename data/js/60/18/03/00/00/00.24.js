@@ -1,1 +1,1 @@
-deepmacDetailCallback("601803000000/24",[{"d":"2017-06-10","t":"add","a":"318 Shen Fu Road, Xin Zhuang Industry Zone, Shanghai, 201108, China Shanghai  CN 201108","c":"CN","o":"Daikin Air-conditioning (Shanghai) Co., Ltd."}]);
+macDetailCallback("601803000000/24",[{"d":"2017-06-10","t":"add","a":"318 Shen Fu Road, Xin Zhuang Industry Zone, Shanghai, 201108, China Shanghai  CN 201108","c":"CN","o":"Daikin Air-conditioning (Shanghai) Co., Ltd."}]);

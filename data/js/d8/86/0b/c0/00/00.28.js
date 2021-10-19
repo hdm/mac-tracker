@@ -1,1 +1,1 @@
-deepmacDetailCallback("d8860bc00000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"UNIT 8-9, 8/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN HongKong  HK 999077","c":"HK","o":"YUSAN INDUSTRIES LIMITED  "}]);
+macDetailCallback("d8860bc00000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"UNIT 8-9, 8/F., HONOUR INDUSTRIAL CENTRE, 6 SUN YIP STREET, CHAI WAN HongKong  HK 999077","c":"HK","o":"YUSAN INDUSTRIES LIMITED  "}]);

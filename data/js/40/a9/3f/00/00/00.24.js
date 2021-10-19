@@ -1,1 +1,1 @@
-deepmacDetailCallback("40a93f000000/24",[{"a":"","o":"Private","d":"2017-08-20","t":"add","s":"ieee"},{"d":"2018-11-28","t":"change","s":"ieee-oui.csv","a":"1555 132nd Ave. NE Bellevue WA US 98005","c":"US","o":"Pivotal Commware, Inc."}]);
+macDetailCallback("40a93f000000/24",[{"a":"","o":"Private","d":"2017-08-20","t":"add","s":"ieee"},{"d":"2018-11-28","t":"change","s":"ieee-oui.csv","a":"1555 132nd Ave. NE Bellevue WA US 98005","c":"US","o":"Pivotal Commware, Inc."}]);

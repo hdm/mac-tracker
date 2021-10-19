@@ -1,1 +1,1 @@
-deepmacDetailCallback("001b40000000/24",[{"d":"2007-01-26","t":"add","a":"Box 7294\nStockholm  10390\n\n","c":"SWEDEN","o":"Network Automation mxc AB"},{"d":"2015-08-27","t":"change","a":"Box 7294 Stockholm  SE 10390","c":"SE","o":"Network Automation mxc AB"}]);
+macDetailCallback("001b40000000/24",[{"d":"2007-01-26","t":"add","a":"Box 7294\nStockholm  10390\n\n","c":"SWEDEN","o":"Network Automation mxc AB"},{"d":"2015-08-27","t":"change","a":"Box 7294 Stockholm  SE 10390","c":"SE","o":"Network Automation mxc AB"}]);

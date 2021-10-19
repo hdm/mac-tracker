@@ -1,1 +1,1 @@
-deepmacDetailCallback("48b977000000/24",[{"d":"2013-10-18","t":"add","a":"Tekniikantie 12\nESPOO Uusimaa 02150\n\n","c":"FINLAND","o":"PulseOn Oy"},{"d":"2015-08-27","t":"change","a":"Tekniikantie 12 ESPOO Uusimaa FI 02150","c":"FI","o":"PulseOn Oy"}]);
+macDetailCallback("48b977000000/24",[{"d":"2013-10-18","t":"add","a":"Tekniikantie 12\nESPOO Uusimaa 02150\n\n","c":"FINLAND","o":"PulseOn Oy"},{"d":"2015-08-27","t":"change","a":"Tekniikantie 12 ESPOO Uusimaa FI 02150","c":"FI","o":"PulseOn Oy"}]);

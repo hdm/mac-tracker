@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c59dc000000/24",[{"d":"2020-01-16","t":"add","s":"ieee-oui.csv","a":"Building 2, NO.399 Keyuan Road,Pudong District Shanghai Shanghai CN 201210","c":"CN","o":"ASR Microelectronics (Shanghai) Co., Ltd."}]);
+macDetailCallback("8c59dc000000/24",[{"d":"2020-01-16","t":"add","s":"ieee-oui.csv","a":"Building 2, NO.399 Keyuan Road,Pudong District Shanghai Shanghai CN 201210","c":"CN","o":"ASR Microelectronics (Shanghai) Co., Ltd."}]);

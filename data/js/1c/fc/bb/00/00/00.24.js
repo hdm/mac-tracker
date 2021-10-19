@@ -1,1 +1,1 @@
-deepmacDetailCallback("1cfcbb000000/24",[{"d":"2013-12-05","t":"add","a":"Oester Alle 42, 5\nCopenhagen OE 2100\n\n","c":"DENMARK","o":"Realfiction ApS"},{"d":"2015-08-27","t":"change","a":"Oester Alle 42, 5 Copenhagen OE DK 2100","c":"DK","o":"Realfiction ApS"}]);
+macDetailCallback("1cfcbb000000/24",[{"d":"2013-12-05","t":"add","a":"Oester Alle 42, 5\nCopenhagen OE 2100\n\n","c":"DENMARK","o":"Realfiction ApS"},{"d":"2015-08-27","t":"change","a":"Oester Alle 42, 5 Copenhagen OE DK 2100","c":"DK","o":"Realfiction ApS"}]);

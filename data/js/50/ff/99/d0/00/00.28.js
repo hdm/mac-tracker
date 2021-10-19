@@ -1,1 +1,1 @@
-deepmacDetailCallback("50ff99d00000/28",[{"a":"Block C3,Mingzhuo Xingye Technology Park,Guangming Avenue Shenzhen Guangdong CN 518107","o":"Shenzhen Haipengxin Electronic Co., Ltd.","d":"2016-02-21","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("50ff99d00000/28",[{"a":"Block C3,Mingzhuo Xingye Technology Park,Guangming Avenue Shenzhen Guangdong CN 518107","o":"Shenzhen Haipengxin Electronic Co., Ltd.","d":"2016-02-21","t":"add","s":"ieee","c":"CN"}]);

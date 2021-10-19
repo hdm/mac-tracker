@@ -1,1 +1,1 @@
-deepmacDetailCallback("f88a3c800000/28",[{"a":"4F.-3, No.872, Jhongjheng Rd., Jhonghe Dist.,  New Taipei City Taiwan (R.O.C.) TW  23586","o":"Cadmus Electronic Co.,Ltd.","d":"2017-04-02","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("f88a3c800000/28",[{"a":"4F.-3, No.872, Jhongjheng Rd., Jhonghe Dist.,  New Taipei City Taiwan (R.O.C.) TW  23586","o":"Cadmus Electronic Co.,Ltd.","d":"2017-04-02","t":"add","s":"ieee","c":"TW"}]);

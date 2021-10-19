@@ -1,1 +1,1 @@
-deepmacDetailCallback("ecb4e8000000/24",[{"d":"2021-02-10","t":"add","s":"ieee-oui.csv","a":"Baudelio Perez Mucharras #420 Col Paseos de Zaragoza  ciudad Juarez Chihuahua MX 32550","c":"MX","o":"Wistron Mexico SA de CV"}]);
+macDetailCallback("ecb4e8000000/24",[{"d":"2021-02-10","t":"add","s":"ieee-oui.csv","a":"Baudelio Perez Mucharras #420 Col Paseos de Zaragoza  ciudad Juarez Chihuahua MX 32550","c":"MX","o":"Wistron Mexico SA de CV"}]);

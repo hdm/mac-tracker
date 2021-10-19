@@ -1,1 +1,1 @@
-deepmacDetailCallback("080050000000/24",[{"d":"2000-09-08","t":"add","a":"139 KIFER COURT\nSUNNYVALE CA 94086\n\n","c":"UNITED STATES","o":"DAISY SYSTEMS CORP."},{"d":"2015-08-27","t":"change","a":"139 KIFER COURT SUNNYVALE CA US 94086","c":"US","o":"DAISY SYSTEMS CORP."}]);
+macDetailCallback("080050000000/24",[{"d":"2000-09-08","t":"add","a":"139 KIFER COURT\nSUNNYVALE CA 94086\n\n","c":"UNITED STATES","o":"DAISY SYSTEMS CORP."},{"d":"2015-08-27","t":"change","a":"139 KIFER COURT SUNNYVALE CA US 94086","c":"US","o":"DAISY SYSTEMS CORP."}]);

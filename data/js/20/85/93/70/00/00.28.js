@@ -1,1 +1,1 @@
-deepmacDetailCallback("208593700000/28",[{"d":"2019-06-14","t":"add","s":"ieee-mam.csv","a":"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143","c":"TW","o":"Great Lite International"}]);
+macDetailCallback("208593700000/28",[{"d":"2019-06-14","t":"add","s":"ieee-mam.csv","a":"11F., No.207-2, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City Taiwan TW 23143","c":"TW","o":"Great Lite International"}]);

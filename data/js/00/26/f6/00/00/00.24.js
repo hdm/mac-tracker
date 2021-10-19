@@ -1,1 +1,1 @@
-deepmacDetailCallback("0026f6000000/24",[{"d":"2009-07-24","t":"add","a":"ul. Warszawska 22A\nZegrze  05-130\n\n","c":"POLAND","o":"Military Communication Institute"},{"d":"2015-08-27","t":"change","a":"ul. Warszawska 22A Zegrze  PL 05-130","c":"PL","o":"Military Communication Institute"}]);
+macDetailCallback("0026f6000000/24",[{"d":"2009-07-24","t":"add","a":"ul. Warszawska 22A\nZegrze  05-130\n\n","c":"POLAND","o":"Military Communication Institute"},{"d":"2015-08-27","t":"change","a":"ul. Warszawska 22A Zegrze  PL 05-130","c":"PL","o":"Military Communication Institute"}]);

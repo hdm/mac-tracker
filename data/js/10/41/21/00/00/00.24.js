@@ -1,1 +1,1 @@
-deepmacDetailCallback("104121000000/24",[{"d":"2021-05-29","t":"add","s":"ieee-oui.csv","a":"Av. Buriti, 1900 – Setor B – Distrito Industrial Manaus Amazonas BR 69075-000","c":"BR","o":"TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO"}]);
+macDetailCallback("104121000000/24",[{"d":"2021-05-29","t":"add","s":"ieee-oui.csv","a":"Av. Buriti, 1900 – Setor B – Distrito Industrial Manaus Amazonas BR 69075-000","c":"BR","o":"TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO"}]);

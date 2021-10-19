@@ -1,1 +1,1 @@
-deepmacDetailCallback("f041c8c00000/28",[{"a":"North ZhongShan Road, No. 3000, Room 2608 Shanghai  CN 200000","o":"Shanghai Think-Force Electronic Technology Co. Ltd","d":"2017-12-03","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("f041c8c00000/28",[{"a":"North ZhongShan Road, No. 3000, Room 2608 Shanghai  CN 200000","o":"Shanghai Think-Force Electronic Technology Co. Ltd","d":"2017-12-03","t":"add","s":"ieee","c":"CN"}]);

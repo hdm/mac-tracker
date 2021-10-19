@@ -1,1 +1,1 @@
-deepmacDetailCallback("241510800000/28",[{"d":"2019-06-06","t":"add","s":"ieee-mam.csv","a":"","c":"","o":"Private"},{"d":"2020-06-09","t":"change","s":"ieee-mam.csv","a":"","c":"","o":"Medicomp, Inc"},{"d":"2020-10-02","t":"change","s":"ieee-mam.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("241510800000/28",[{"d":"2019-06-06","t":"add","s":"ieee-mam.csv","a":"","c":"","o":"Private"},{"d":"2020-06-09","t":"change","s":"ieee-mam.csv","a":"","c":"","o":"Medicomp, Inc"},{"d":"2020-10-02","t":"change","s":"ieee-mam.csv","a":"","c":"","o":"Private"}]);

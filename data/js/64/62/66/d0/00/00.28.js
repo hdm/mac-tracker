@@ -1,1 +1,1 @@
-deepmacDetailCallback("646266d00000/28",[{"d":"2019-12-20","t":"add","s":"ieee-mam.csv","a":"101 Cecil Street, #26-01/07 Tong Eng Building Singapore  SG 069533","c":"SG","o":"Kobol Innovations Pte. Ltd."}]);
+macDetailCallback("646266d00000/28",[{"d":"2019-12-20","t":"add","s":"ieee-mam.csv","a":"101 Cecil Street, #26-01/07 Tong Eng Building Singapore  SG 069533","c":"SG","o":"Kobol Innovations Pte. Ltd."}]);

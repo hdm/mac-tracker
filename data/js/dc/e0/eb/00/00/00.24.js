@@ -1,1 +1,1 @@
-deepmacDetailCallback("dce0eb000000/24",[{"d":"2018-02-21","t":"add","a":"#E1-453, Zidong Road #1,Qixia District Nanjing jiangsu CN 210000","c":"CN","o":"Nanjing Aozheng Information Technology Co.Ltd"}]);
+macDetailCallback("dce0eb000000/24",[{"d":"2018-02-21","t":"add","a":"#E1-453, Zidong Road #1,Qixia District Nanjing jiangsu CN 210000","c":"CN","o":"Nanjing Aozheng Information Technology Co.Ltd"}]);

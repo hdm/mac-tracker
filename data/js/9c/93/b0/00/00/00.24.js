@@ -1,1 +1,1 @@
-deepmacDetailCallback("9c93b0000000/24",[{"d":"2019-07-04","t":"add","s":"ieee-oui.csv","a":"Floor11,Building C, Rongxin Center Chungyuan Road 34#, chaoyang distric, Beijing, P.R.China Beijing Beijing CN 100012","c":"CN","o":"Megatronix (Beijing) Technology Co., Ltd."}]);
+macDetailCallback("9c93b0000000/24",[{"d":"2019-07-04","t":"add","s":"ieee-oui.csv","a":"Floor11,Building C, Rongxin Center Chungyuan Road 34#, chaoyang distric, Beijing, P.R.China Beijing Beijing CN 100012","c":"CN","o":"Megatronix (Beijing) Technology Co., Ltd."}]);

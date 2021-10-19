@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d572c000/36",[{"a":"#66-33, Elevator road, Geochang Industrial Complex Geochang-gun Gyeongsangnam-do KR 50148","o":"NuRi&G Engineering co,.Ltd.","d":"2016-10-16","t":"add","s":"ieee","c":"KR"}]);
+macDetailCallback("70b3d572c000/36",[{"a":"#66-33, Elevator road, Geochang Industrial Complex Geochang-gun Gyeongsangnam-do KR 50148","o":"NuRi&G Engineering co,.Ltd.","d":"2016-10-16","t":"add","s":"ieee","c":"KR"}]);

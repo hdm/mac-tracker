@@ -1,1 +1,1 @@
-deepmacDetailCallback("2864ef000000/24",[{"d":"2021-04-24","t":"add","s":"ieee-oui.csv","a":"Building 14C, Zhonghaixin Innovation Industry City, Ganli Road, Jihua street, SHENZHEN GUANGDONG CN 518000","c":"CN","o":"Shenzhen Fsan Intelligent Technology Co.,Ltd"}]);
+macDetailCallback("2864ef000000/24",[{"d":"2021-04-24","t":"add","s":"ieee-oui.csv","a":"Building 14C, Zhonghaixin Innovation Industry City, Ganli Road, Jihua street, SHENZHEN GUANGDONG CN 518000","c":"CN","o":"Shenzhen Fsan Intelligent Technology Co.,Ltd"}]);

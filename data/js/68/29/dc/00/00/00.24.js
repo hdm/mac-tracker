@@ -1,1 +1,1 @@
-deepmacDetailCallback("6829dc000000/24",[{"a":"Pol.Ind Can Mitjans s/n Viladecavalls Barcelona Viladecavalls Barcelona ES ES08232","o":"Ficosa Electronics S.L.U.","d":"2018-09-07","t":"add","s":"ieee","c":"ES"}]);
+macDetailCallback("6829dc000000/24",[{"a":"Pol.Ind Can Mitjans s/n Viladecavalls Barcelona Viladecavalls Barcelona ES ES08232","o":"Ficosa Electronics S.L.U.","d":"2018-09-07","t":"add","s":"ieee","c":"ES"}]);

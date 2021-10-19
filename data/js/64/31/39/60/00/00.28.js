@@ -1,1 +1,1 @@
-deepmacDetailCallback("643139600000/28",[{"d":"2019-09-07","t":"add","s":"ieee-mam.csv","a":"State Industrialpark, Jiulong Development Zone, Yanling County Zhuzhou Hunan CN 412500","c":"CN","o":"Hunan Voc Acoustics Technology Co., Ltd."}]);
+macDetailCallback("643139600000/28",[{"d":"2019-09-07","t":"add","s":"ieee-mam.csv","a":"State Industrialpark, Jiulong Development Zone, Yanling County Zhuzhou Hunan CN 412500","c":"CN","o":"Hunan Voc Acoustics Technology Co., Ltd."}]);

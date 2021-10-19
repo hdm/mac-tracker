@@ -1,1 +1,1 @@
-deepmacDetailCallback("90c682000000/28",[{"a":"LongGang,Buji Xia Shuijing,Hubei Shenzhen Guangdong CN 518112","o":"Shenzhen Lencotion Technology Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("90c682000000/28",[{"a":"LongGang,Buji Xia Shuijing,Hubei Shenzhen Guangdong CN 518112","o":"Shenzhen Lencotion Technology Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

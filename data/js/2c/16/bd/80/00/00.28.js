@@ -1,1 +1,1 @@
-deepmacDetailCallback("2c16bd800000/28",[{"d":"2019-04-25","t":"add","s":"ieee-mam.csv","a":"Floor 2,Building A , Hongtian Xinfengze Industrial   Park Huang Pu Community , Xin Qiao District ,Baoan Area shenzhen Guangdong Province CN 518101","c":"CN","o":"Shenzhen elink smart Co., ltd"}]);
+macDetailCallback("2c16bd800000/28",[{"d":"2019-04-25","t":"add","s":"ieee-mam.csv","a":"Floor 2,Building A , Hongtian Xinfengze Industrial   Park Huang Pu Community , Xin Qiao District ,Baoan Area shenzhen Guangdong Province CN 518101","c":"CN","o":"Shenzhen elink smart Co., ltd"}]);

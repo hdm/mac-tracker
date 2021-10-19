@@ -1,1 +1,1 @@
-deepmacDetailCallback("90c682a00000/28",[{"a":"1A-601，Wang Jing Street, Chao Yang Qu, Beijing, China Beijing Beijing CN 100102","o":"Beijing Acorn Networks Corporation","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("90c682a00000/28",[{"a":"1A-601，Wang Jing Street, Chao Yang Qu, Beijing, China Beijing Beijing CN 100102","o":"Beijing Acorn Networks Corporation","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

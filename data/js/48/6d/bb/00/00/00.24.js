@@ -1,1 +1,1 @@
-deepmacDetailCallback("486dbb000000/24",[{"d":"2016-05-21","t":"add","a":"Organize san Manisa Turket TR 45030 ","c":"TR","o":"Vestel Elektronik San ve Tic. A.Ş."}]);
+macDetailCallback("486dbb000000/24",[{"d":"2016-05-21","t":"add","a":"Organize san Manisa Turket TR 45030 ","c":"TR","o":"Vestel Elektronik San ve Tic. A.Ş."}]);

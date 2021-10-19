@@ -1,1 +1,1 @@
-deepmacDetailCallback("00121d000000/24",[{"d":"2004-08-14","t":"add","a":"67 Federal Road\nSuite 300\nBrookfield CT 06804\n","c":"UNITED STATES","o":"Netfabric Corporation"},{"d":"2015-08-27","t":"change","a":"67 Federal Road Brookfield CT US 06804","c":"US","o":"Netfabric Corporation"}]);
+macDetailCallback("00121d000000/24",[{"d":"2004-08-14","t":"add","a":"67 Federal Road\nSuite 300\nBrookfield CT 06804\n","c":"UNITED STATES","o":"Netfabric Corporation"},{"d":"2015-08-27","t":"change","a":"67 Federal Road Brookfield CT US 06804","c":"US","o":"Netfabric Corporation"}]);

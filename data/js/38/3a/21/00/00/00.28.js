@@ -1,1 +1,1 @@
-deepmacDetailCallback("383a21000000/28",[{"a":"2F,JinHuiQiou Building,Langshan2 Road,Hi-Tech Ind.Park, Nanshan District Shenzhen GuangDong CN 86","o":"R3C Information(Shenzhen) Co.，Ltd.","d":"2016-06-26","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("383a21000000/28",[{"a":"2F,JinHuiQiou Building,Langshan2 Road,Hi-Tech Ind.Park, Nanshan District Shenzhen GuangDong CN 86","o":"R3C Information(Shenzhen) Co.，Ltd.","d":"2016-06-26","t":"add","s":"ieee","c":"CN"}]);

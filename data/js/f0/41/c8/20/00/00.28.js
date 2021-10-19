@@ -1,1 +1,1 @@
-deepmacDetailCallback("f041c8200000/28",[{"a":"2F Building A, Tongfang Information Harbor, No.11, East Langshan Road, Nanshan District Shenzhen  CN 518000","o":"Shenzhen Medica Technology Development Co., Ltd.","d":"2017-12-03","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("f041c8200000/28",[{"a":"2F Building A, Tongfang Information Harbor, No.11, East Langshan Road, Nanshan District Shenzhen  CN 518000","o":"Shenzhen Medica Technology Development Co., Ltd.","d":"2017-12-03","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("4048fda00000/28",[{"a":"Building NO. 23, Fifth Region, Baiwangxin  Industrial Park, Songbai Rd. Nanshan, Shenzhen  Shenzhen   CN 518108","o":"Shenzhen Yifang Digital Technology Co., LTD.","d":"2017-09-11","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("4048fda00000/28",[{"a":"Building NO. 23, Fifth Region, Baiwangxin  Industrial Park, Songbai Rd. Nanshan, Shenzhen  Shenzhen   CN 518108","o":"Shenzhen Yifang Digital Technology Co., LTD.","d":"2017-09-11","t":"add","s":"ieee","c":"CN"}]);

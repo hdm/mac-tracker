@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c02fa000000/24",[{"d":"2019-07-24","t":"add","s":"ieee-oui.csv","a":"Rm407, 4th floor, 3-2 HuaYuan Rd., DaLang Subdistrict, LongHua District Shenzhen Guangdong CN 518109","c":"CN","o":"COMMANDO Networks Limited"}]);
+macDetailCallback("8c02fa000000/24",[{"d":"2019-07-24","t":"add","s":"ieee-oui.csv","a":"Rm407, 4th floor, 3-2 HuaYuan Rd., DaLang Subdistrict, LongHua District Shenzhen Guangdong CN 518109","c":"CN","o":"COMMANDO Networks Limited"}]);

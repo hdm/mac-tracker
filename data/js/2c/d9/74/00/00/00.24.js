@@ -1,1 +1,1 @@
-deepmacDetailCallback("2cd974000000/24",[{"d":"2017-11-23","t":"add","a":"No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006","c":"CN","o":"Hui Zhou Gaoshengda Technology Co.,LTD"}]);
+macDetailCallback("2cd974000000/24",[{"d":"2017-11-23","t":"add","a":"No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006","c":"CN","o":"Hui Zhou Gaoshengda Technology Co.,LTD"}]);

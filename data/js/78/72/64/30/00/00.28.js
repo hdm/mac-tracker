@@ -1,1 +1,1 @@
-deepmacDetailCallback("787264300000/28",[{"d":"2021-08-21","t":"add","s":"ieee-mam.csv","a":"10 Keyuan Road, Songshan Lake Dongguan  Guangdong  CN 523429","c":"CN","o":"Guangdong Hongqin Telecom Technology Co.,Ltd."}]);
+macDetailCallback("787264300000/28",[{"d":"2021-08-21","t":"add","s":"ieee-mam.csv","a":"10 Keyuan Road, Songshan Lake Dongguan  Guangdong  CN 523429","c":"CN","o":"Guangdong Hongqin Telecom Technology Co.,Ltd."}]);

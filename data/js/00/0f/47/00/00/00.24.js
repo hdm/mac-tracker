@@ -1,1 +1,1 @@
-deepmacDetailCallback("000f47000000/24",[{"d":"2004-01-23","t":"add","a":"via Sempione 82\nCastelletto S.Ticino NO 28053\n\n","c":"ITALY","o":"ROBOX SPA","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"via Sempione 82 Castelletto S.Ticino NO IT 28053","c":"IT","o":"ROBOX SPA"}]);
+macDetailCallback("000f47000000/24",[{"d":"2004-01-23","t":"add","a":"via Sempione 82\nCastelletto S.Ticino NO 28053\n\n","c":"ITALY","o":"ROBOX SPA","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"via Sempione 82 Castelletto S.Ticino NO IT 28053","c":"IT","o":"ROBOX SPA"}]);

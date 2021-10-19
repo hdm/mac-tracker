@@ -1,1 +1,1 @@
-deepmacDetailCallback("54a493a00000/28",[{"d":"2019-07-27","t":"add","s":"ieee-mam.csv","a":"4/F,Tower A,3rd Building,Tian'an Cloud Park,Bantian Avenue,Longgang District Shenzhen  CN 518129","c":"CN","o":"Wonders Technology Co., Ltd."}]);
+macDetailCallback("54a493a00000/28",[{"d":"2019-07-27","t":"add","s":"ieee-mam.csv","a":"4/F,Tower A,3rd Building,Tian'an Cloud Park,Bantian Avenue,Longgang District Shenzhen  CN 518129","c":"CN","o":"Wonders Technology Co., Ltd."}]);

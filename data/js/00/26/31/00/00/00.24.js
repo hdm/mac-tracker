@@ -1,1 +1,1 @@
-deepmacDetailCallback("002631000000/24",[{"d":"2009-05-17","t":"add","a":"Nahal Snir 10\nPO Box 169\nYazne  81101\n","c":"ISRAEL","o":"COMMTACT LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Nahal Snir 10 Yazne  IL 81101","c":"IL","o":"COMMTACT LTD"}]);
+macDetailCallback("002631000000/24",[{"d":"2009-05-17","t":"add","a":"Nahal Snir 10\nPO Box 169\nYazne  81101\n","c":"ISRAEL","o":"COMMTACT LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Nahal Snir 10 Yazne  IL 81101","c":"IL","o":"COMMTACT LTD"}]);

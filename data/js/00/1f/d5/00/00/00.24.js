@@ -1,1 +1,1 @@
-deepmacDetailCallback("001fd5000000/24",[{"d":"2008-02-09","t":"add","a":"Delnicka 222\nJicin kralovehradecky kraj 50601\n\n","c":"CZECH REPUBLIC","o":"MICRORISC s.r.o."},{"d":"2015-08-27","t":"change","a":"Delnicka 222 Jicin kralovehradecky kraj CZ 50601","c":"CZ","o":"MICRORISC s.r.o."}]);
+macDetailCallback("001fd5000000/24",[{"d":"2008-02-09","t":"add","a":"Delnicka 222\nJicin kralovehradecky kraj 50601\n\n","c":"CZECH REPUBLIC","o":"MICRORISC s.r.o."},{"d":"2015-08-27","t":"change","a":"Delnicka 222 Jicin kralovehradecky kraj CZ 50601","c":"CZ","o":"MICRORISC s.r.o."}]);

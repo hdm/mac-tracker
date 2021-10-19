@@ -1,1 +1,1 @@
-deepmacDetailCallback("44bfe3000000/24",[{"d":"2016-05-04","t":"add","a":"No.148 Zhengfeng Industrial Area Donghuan RD Huangpu Village Shaijing Town Baoan District Shenzhen Guangdong CN 518125","c":"CN","o":"Shenzhen Longtech Electronics Co.,Ltd"}]);
+macDetailCallback("44bfe3000000/24",[{"d":"2016-05-04","t":"add","a":"No.148 Zhengfeng Industrial Area Donghuan RD Huangpu Village Shaijing Town Baoan District Shenzhen Guangdong CN 518125","c":"CN","o":"Shenzhen Longtech Electronics Co.,Ltd"}]);

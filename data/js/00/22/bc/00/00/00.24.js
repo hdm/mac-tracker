@@ -1,1 +1,1 @@
-deepmacDetailCallback("0022bc000000/24",[{"d":"2008-07-19","t":"add","a":"34 rue Necker\nSAINT ETIENNE LOIRE 42000\n\n","c":"FRANCE","o":"JDSU France SAS"},{"d":"2015-08-27","t":"change","a":"34 rue Necker SAINT ETIENNE LOIRE FR 42000","c":"FR","o":"JDSU France SAS"}]);
+macDetailCallback("0022bc000000/24",[{"d":"2008-07-19","t":"add","a":"34 rue Necker\nSAINT ETIENNE LOIRE 42000\n\n","c":"FRANCE","o":"JDSU France SAS"},{"d":"2015-08-27","t":"change","a":"34 rue Necker SAINT ETIENNE LOIRE FR 42000","c":"FR","o":"JDSU France SAS"}]);

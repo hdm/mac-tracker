@@ -1,1 +1,1 @@
-deepmacDetailCallback("5058b0000000/24",[{"d":"2021-09-21","t":"add","s":"ieee-oui.csv","a":"Hunan GreatWall Industrial Park, Tianyi Science and Technology City, Xiangyun Middle Road, Tianyuan District Zhuzhou Hunan CN 412000","c":"CN","o":"Hunan Greatwall Computer System Co., Ltd."}]);
+macDetailCallback("5058b0000000/24",[{"d":"2021-09-21","t":"add","s":"ieee-oui.csv","a":"Hunan GreatWall Industrial Park, Tianyi Science and Technology City, Xiangyun Middle Road, Tianyuan District Zhuzhou Hunan CN 412000","c":"CN","o":"Hunan Greatwall Computer System Co., Ltd."}]);

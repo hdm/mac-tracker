@@ -1,1 +1,1 @@
-deepmacDetailCallback("b06cbf000000/24",[{"d":"2011-10-14","t":"add","a":"Gut Mergenthau 1\nKissing Bayern 86438\n\n","c":"GERMANY","o":"3ality Digital Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Gut Mergenthau 1 Kissing Bayern DE 86438","c":"DE","o":"3ality Digital Systems GmbH"}]);
+macDetailCallback("b06cbf000000/24",[{"d":"2011-10-14","t":"add","a":"Gut Mergenthau 1\nKissing Bayern 86438\n\n","c":"GERMANY","o":"3ality Digital Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Gut Mergenthau 1 Kissing Bayern DE 86438","c":"DE","o":"3ality Digital Systems GmbH"}]);

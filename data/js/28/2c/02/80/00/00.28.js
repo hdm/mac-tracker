@@ -1,1 +1,1 @@
-deepmacDetailCallback("282c02800000/28",[{"a":"4F-2#,Lian Jian Science & Industry Park,Huarong Road,Dalang Street,Longhua District Shenzhen Guangdong CN 518000","o":"Shenzhen Neoway Technology Co.,Ltd.","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("282c02800000/28",[{"a":"4F-2#,Lian Jian Science & Industry Park,Huarong Road,Dalang Street,Longhua District Shenzhen Guangdong CN 518000","o":"Shenzhen Neoway Technology Co.,Ltd.","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);

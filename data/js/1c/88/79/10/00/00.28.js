@@ -1,1 +1,1 @@
-deepmacDetailCallback("1c8879100000/28",[{"d":"2015-10-31","t":"add","a":"Pryzmaty 6/8 Warszawa  PL 02-226","c":"PL","o":"ANDRA Sp. z o.o."},{"d":"2020-05-07","t":"change","s":"ieee-mam.csv","a":"Pryzmaty 6/8 Warszawa  PL 02-226","c":"PL","o":"ANDRA Sp. z o. o."}]);
+macDetailCallback("1c8879100000/28",[{"d":"2015-10-31","t":"add","a":"Pryzmaty 6/8 Warszawa  PL 02-226","c":"PL","o":"ANDRA Sp. z o.o."},{"d":"2020-05-07","t":"change","s":"ieee-mam.csv","a":"Pryzmaty 6/8 Warszawa  PL 02-226","c":"PL","o":"ANDRA Sp. z o. o."}]);

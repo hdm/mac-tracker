@@ -1,1 +1,1 @@
-deepmacDetailCallback("001ce7000000/24",[{"d":"2007-06-16","t":"add","a":"21 Vek 56A str.\nSofia  1700\n\n","c":"BULGARIA","o":"Rocon PLC Research Centre"},{"d":"2015-08-27","t":"change","a":"21 Vek 56A str. Sofia  US 1700","c":"US","o":"Rocon PLC Research Centre"}]);
+macDetailCallback("001ce7000000/24",[{"d":"2007-06-16","t":"add","a":"21 Vek 56A str.\nSofia  1700\n\n","c":"BULGARIA","o":"Rocon PLC Research Centre"},{"d":"2015-08-27","t":"change","a":"21 Vek 56A str. Sofia  US 1700","c":"US","o":"Rocon PLC Research Centre"}]);

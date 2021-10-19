@@ -1,1 +1,1 @@
-deepmacDetailCallback("6cdffb300000/28",[{"a":"Building K1,  NO. 86 Beiyuan North road, Chaoyang district, Beijing China Beijing  Beijing CN 100012","o":"Beijing Ainemo Co Ltd","d":"2018-09-10","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("6cdffb300000/28",[{"a":"Building K1,  NO. 86 Beiyuan North road, Chaoyang district, Beijing China Beijing  Beijing CN 100012","o":"Beijing Ainemo Co Ltd","d":"2018-09-10","t":"add","s":"ieee","c":"CN"}]);

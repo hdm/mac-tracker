@@ -1,1 +1,1 @@
-deepmacDetailCallback("005006000000/24",[{"d":"2000-09-08","t":"add","a":"JAGERSHILLGATON 18\n21375 MALMO\n\n","c":"SWEDEN","o":"TAC AB"},{"d":"2015-08-27","t":"change","a":"JAGERSHILLGATON 18 21375 MALMO  SE","c":"SE","o":"TAC AB"}]);
+macDetailCallback("005006000000/24",[{"d":"2000-09-08","t":"add","a":"JAGERSHILLGATON 18\n21375 MALMO\n\n","c":"SWEDEN","o":"TAC AB"},{"d":"2015-08-27","t":"change","a":"JAGERSHILLGATON 18 21375 MALMO  SE","c":"SE","o":"TAC AB"}]);

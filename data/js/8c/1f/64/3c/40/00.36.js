@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f643c4000/36",[{"d":"2021-04-10","t":"add","s":"ieee-oui36.csv","a":"IT Mirea Tower #2003-1, 33, Digital-ro 9-gil Geumcheon-gu Seoul, Republic of Korea KR 08511","c":"KR","o":"NavSys Technology Inc."}]);
+macDetailCallback("8c1f643c4000/36",[{"d":"2021-04-10","t":"add","s":"ieee-oui36.csv","a":"IT Mirea Tower #2003-1, 33, Digital-ro 9-gil Geumcheon-gu Seoul, Republic of Korea KR 08511","c":"KR","o":"NavSys Technology Inc."}]);

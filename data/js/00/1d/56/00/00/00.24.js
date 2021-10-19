@@ -1,1 +1,1 @@
-deepmacDetailCallback("001d56000000/24",[{"d":"2007-08-18","t":"add","a":"3 Am VeOlamo Street\nJerusalem  95463\n\n","c":"ISRAEL","o":"Kramer Electronics Ltd."},{"d":"2015-08-27","t":"change","a":"3 Am VeOlamo Street Jerusalem  IL 95463","c":"IL","o":"Kramer Electronics Ltd."}]);
+macDetailCallback("001d56000000/24",[{"d":"2007-08-18","t":"add","a":"3 Am VeOlamo Street\nJerusalem  95463\n\n","c":"ISRAEL","o":"Kramer Electronics Ltd."},{"d":"2015-08-27","t":"change","a":"3 Am VeOlamo Street Jerusalem  IL 95463","c":"IL","o":"Kramer Electronics Ltd."}]);

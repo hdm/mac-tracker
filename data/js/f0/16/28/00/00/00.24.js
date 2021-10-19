@@ -1,1 +1,1 @@
-deepmacDetailCallback("f01628000000/24",[{"d":"2020-11-19","t":"add","s":"ieee-oui.csv","a":"No.A2181,2F,Zhongguancun Dongsheng Science and Technology Park, Jia No.18, Xueqing Rd., Haidian District Beijing  CN 100083","c":"CN","o":"Technicolor (China) Technology Co., Ltd."}]);
+macDetailCallback("f01628000000/24",[{"d":"2020-11-19","t":"add","s":"ieee-oui.csv","a":"No.A2181,2F,Zhongguancun Dongsheng Science and Technology Park, Jia No.18, Xueqing Rd., Haidian District Beijing  CN 100083","c":"CN","o":"Technicolor (China) Technology Co., Ltd."}]);

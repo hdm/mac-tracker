@@ -1,1 +1,1 @@
-deepmacDetailCallback("7006ac000000/24",[{"d":"2017-10-26","t":"add","a":"Number 8 Pinggong Zhong Road,Nanping S&T Industry Community,Zhuhai,Guangdong,519060 China  Zhuhai Guangdong CN 519060","c":"CN","o":"Eastcompeace Technology Co., Ltd"}]);
+macDetailCallback("7006ac000000/24",[{"d":"2017-10-26","t":"add","a":"Number 8 Pinggong Zhong Road,Nanping S&T Industry Community,Zhuhai,Guangdong,519060 China  Zhuhai Guangdong CN 519060","c":"CN","o":"Eastcompeace Technology Co., Ltd"}]);

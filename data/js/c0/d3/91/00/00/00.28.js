@@ -1,1 +1,1 @@
-deepmacDetailCallback("c0d391000000/28",[{"a":"Block A, Building 39#，District D, Software Park Fuzhou Fujian Province CN 350003","o":"Fuzhou Jinshi Technology Co.,Ltd.","d":"2016-05-22","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("c0d391000000/28",[{"a":"Block A, Building 39#，District D, Software Park Fuzhou Fujian Province CN 350003","o":"Fuzhou Jinshi Technology Co.,Ltd.","d":"2016-05-22","t":"add","s":"ieee","c":"CN"}]);

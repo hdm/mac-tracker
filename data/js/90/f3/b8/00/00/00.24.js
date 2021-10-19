@@ -1,1 +1,1 @@
-deepmacDetailCallback("90f3b8000000/24",[{"d":"2021-07-28","t":"add","s":"ieee-oui.csv","a":"32 Xuanwumen West Street,Xicheng District Beijing  CN 100053","c":"CN","o":"China Mobile Group Device Co.,Ltd."}]);
+macDetailCallback("90f3b8000000/24",[{"d":"2021-07-28","t":"add","s":"ieee-oui.csv","a":"32 Xuanwumen West Street,Xicheng District Beijing  CN 100053","c":"CN","o":"China Mobile Group Device Co.,Ltd."}]);

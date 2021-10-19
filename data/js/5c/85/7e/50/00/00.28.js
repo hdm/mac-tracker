@@ -1,1 +1,1 @@
-deepmacDetailCallback("5c857e500000/28",[{"d":"2020-05-22","t":"add","s":"ieee-mam.csv","a":"Room E2204, Building 1, 5500 Yuan Jiang Road, MinHang District ShangHai  CN 201100","c":"CN","o":"Shanghai Yanhe automation technology co.,LTD"}]);
+macDetailCallback("5c857e500000/28",[{"d":"2020-05-22","t":"add","s":"ieee-mam.csv","a":"Room E2204, Building 1, 5500 Yuan Jiang Road, MinHang District ShangHai  CN 201100","c":"CN","o":"Shanghai Yanhe automation technology co.,LTD"}]);

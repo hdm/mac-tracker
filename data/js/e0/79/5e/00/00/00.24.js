@@ -1,1 +1,1 @@
-deepmacDetailCallback("e0795e000000/24",[{"d":"2018-07-20","t":"add","a":"FL.2, Building A10, 777 West Jianzhu Road, Binhu District Wuxi Jiangsu Province CN 214000","c":"CN","o":"Wuxi Xiaohu Technology Co.,Ltd."}]);
+macDetailCallback("e0795e000000/24",[{"d":"2018-07-20","t":"add","a":"FL.2, Building A10, 777 West Jianzhu Road, Binhu District Wuxi Jiangsu Province CN 214000","c":"CN","o":"Wuxi Xiaohu Technology Co.,Ltd."}]);

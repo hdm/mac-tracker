@@ -1,1 +1,1 @@
-deepmacDetailCallback("105fd4000000/24",[{"d":"2019-10-01","t":"add","s":"ieee-oui.csv","a":"Tendyron Building,Zhongguancun NO.1 Park,Beiqing Road,Haidian District,Beijing,China Beijing  CN 100000","c":"CN","o":"Tendyron Corporation"}]);
+macDetailCallback("105fd4000000/24",[{"d":"2019-10-01","t":"add","s":"ieee-oui.csv","a":"Tendyron Building,Zhongguancun NO.1 Park,Beiqing Road,Haidian District,Beijing,China Beijing  CN 100000","c":"CN","o":"Tendyron Corporation"}]);

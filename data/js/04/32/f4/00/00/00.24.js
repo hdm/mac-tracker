@@ -1,1 +1,1 @@
-deepmacDetailCallback("0432f4000000/24",[{"d":"2011-03-10","t":"add","a":"22-6, Seokwoo-dong\nHwaseong-si Gyeonggi-do 445-170\n\n","c":"KOREA, REPUBLIC OF","o":"Partron"},{"d":"2015-08-27","t":"change","a":"22-6, Seokwoo-dong Hwaseong-si Gyeonggi-do KR 445-170","c":"KR","o":"Partron"}]);
+macDetailCallback("0432f4000000/24",[{"d":"2011-03-10","t":"add","a":"22-6, Seokwoo-dong\nHwaseong-si Gyeonggi-do 445-170\n\n","c":"KOREA, REPUBLIC OF","o":"Partron"},{"d":"2015-08-27","t":"change","a":"22-6, Seokwoo-dong Hwaseong-si Gyeonggi-do KR 445-170","c":"KR","o":"Partron"}]);

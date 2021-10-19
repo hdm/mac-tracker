@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d56c5000/36",[{"a":"Zvenigorodskaya 2-nd  street 13/15 Moscow  RU 123022","o":"CJSC «Russian telecom equipment company» (CJSC RTEC)","d":"2016-05-15","t":"add","s":"ieee","c":"RU"}]);
+macDetailCallback("70b3d56c5000/36",[{"a":"Zvenigorodskaya 2-nd  street 13/15 Moscow  RU 123022","o":"CJSC «Russian telecom equipment company» (CJSC RTEC)","d":"2016-05-15","t":"add","s":"ieee","c":"RU"}]);

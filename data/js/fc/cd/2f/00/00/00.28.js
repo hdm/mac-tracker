@@ -1,1 +1,1 @@
-deepmacDetailCallback("fccd2f000000/28",[{"d":"2020-08-18","t":"add","s":"ieee-mam.csv","a":"No.32 Sanhai Road, East Guanhaiwei Industrial zone Cixi City Zhejiang  CN 315314","c":"CN","o":"Ningbo Bull Digital Technology Co., LTD"}]);
+macDetailCallback("fccd2f000000/28",[{"d":"2020-08-18","t":"add","s":"ieee-mam.csv","a":"No.32 Sanhai Road, East Guanhaiwei Industrial zone Cixi City Zhejiang  CN 315314","c":"CN","o":"Ningbo Bull Digital Technology Co., LTD"}]);

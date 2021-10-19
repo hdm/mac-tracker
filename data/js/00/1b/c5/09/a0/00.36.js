@@ -1,1 +1,1 @@
-deepmacDetailCallback("001bc509a000/36",[{"a":"Room 2411, Block E, Xi hai ming zhu Shenzhen Guangdong CN 518000","o":"Shenzhen Guang Lian Zhi Tong Limited","d":"2013-04-15","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("001bc509a000/36",[{"a":"Room 2411, Block E, Xi hai ming zhu Shenzhen Guangdong CN 518000","o":"Shenzhen Guang Lian Zhi Tong Limited","d":"2013-04-15","t":"add","s":"ieee","c":"CN"}]);

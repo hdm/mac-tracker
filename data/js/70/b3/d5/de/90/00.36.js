@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5de9000/36",[{"a":"","o":"Private","d":"2017-12-03","t":"add","s":"ieee"},{"d":"2020-10-08","t":"change","s":"ieee-oui36.csv","a":"office 400, str.61, d.2/4, Luzhnetskaya nab. Moscow Moscow RU 119270","c":"RU","o":"EkspertStroyProekt LLC"}]);
+macDetailCallback("70b3d5de9000/36",[{"a":"","o":"Private","d":"2017-12-03","t":"add","s":"ieee"},{"d":"2020-10-08","t":"change","s":"ieee-oui36.csv","a":"office 400, str.61, d.2/4, Luzhnetskaya nab. Moscow Moscow RU 119270","c":"RU","o":"EkspertStroyProekt LLC"}]);

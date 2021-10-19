@@ -1,1 +1,1 @@
-deepmacDetailCallback("647366000000/24",[{"d":"2018-11-28","t":"add","s":"ieee-oui.csv","a":"Room 2039, Shenhai Building, Wanzhong Village, Bulong Road, Minzhi, Longhua district,  City: Shenzhen Shenzhen Guangdong CN 518131","c":"CN","o":"Shenzhen Siera Technology Ltd"}]);
+macDetailCallback("647366000000/24",[{"d":"2018-11-28","t":"add","s":"ieee-oui.csv","a":"Room 2039, Shenhai Building, Wanzhong Village, Bulong Road, Minzhi, Longhua district,  City: Shenzhen Shenzhen Guangdong CN 518131","c":"CN","o":"Shenzhen Siera Technology Ltd"}]);

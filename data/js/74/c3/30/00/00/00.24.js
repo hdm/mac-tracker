@@ -1,1 +1,1 @@
-deepmacDetailCallback("74c330000000/24",[{"d":"2015-11-17","t":"add","a":"Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District,Shenzhen,P.R.China Shenzhen Guangdong CN 518057","c":"CN","o":"SHENZHEN FAST TECHNOLOGIES CO.,LTD"}]);
+macDetailCallback("74c330000000/24",[{"d":"2015-11-17","t":"add","a":"Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District,Shenzhen,P.R.China Shenzhen Guangdong CN 518057","c":"CN","o":"SHENZHEN FAST TECHNOLOGIES CO.,LTD"}]);

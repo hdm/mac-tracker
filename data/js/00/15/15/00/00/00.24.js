@@ -1,1 +1,1 @@
-deepmacDetailCallback("001515000000/24",[{"d":"2005-06-30","t":"add","a":"Kreuzwiese 12\nRockenhausen RLP D-67806\n\n","c":"GERMANY","o":"Leipold+Co.GmbH"},{"d":"2015-08-27","t":"change","a":"Kreuzwiese 12 Rockenhausen RLP DE D-67806","c":"DE","o":"Leipold+Co.GmbH"}]);
+macDetailCallback("001515000000/24",[{"d":"2005-06-30","t":"add","a":"Kreuzwiese 12\nRockenhausen RLP D-67806\n\n","c":"GERMANY","o":"Leipold+Co.GmbH"},{"d":"2015-08-27","t":"change","a":"Kreuzwiese 12 Rockenhausen RLP DE D-67806","c":"DE","o":"Leipold+Co.GmbH"}]);

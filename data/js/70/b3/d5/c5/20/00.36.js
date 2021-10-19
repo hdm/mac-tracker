@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5c52000/36",[{"d":"2019-12-28","t":"add","s":"ieee-oui36.csv","a":"A-339 samsong techno valley, 140 tongilro, deockyanggu goyangsi gyeonggido KR 10594","c":"KR","o":"sensorway"}]);
+macDetailCallback("70b3d5c52000/36",[{"d":"2019-12-28","t":"add","s":"ieee-oui36.csv","a":"A-339 samsong techno valley, 140 tongilro, deockyanggu goyangsi gyeonggido KR 10594","c":"KR","o":"sensorway"}]);

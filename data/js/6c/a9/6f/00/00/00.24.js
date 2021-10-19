@@ -1,1 +1,1 @@
-deepmacDetailCallback("6ca96f000000/24",[{"d":"2012-02-16","t":"add","a":"Drammensveien 134\nBuilding 4\nOslo  0277\n","c":"NORWAY","o":"TransPacket AS"},{"d":"2015-08-27","t":"change","a":"Drammensveien 134 Oslo  NO 0277","c":"NO","o":"TransPacket AS"}]);
+macDetailCallback("6ca96f000000/24",[{"d":"2012-02-16","t":"add","a":"Drammensveien 134\nBuilding 4\nOslo  0277\n","c":"NORWAY","o":"TransPacket AS"},{"d":"2015-08-27","t":"change","a":"Drammensveien 134 Oslo  NO 0277","c":"NO","o":"TransPacket AS"}]);

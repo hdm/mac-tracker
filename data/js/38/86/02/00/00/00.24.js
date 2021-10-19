@@ -1,1 +1,1 @@
-deepmacDetailCallback("388602000000/24",[{"d":"2015-10-14","t":"add","a":"Waldstr.92 Dietzenbach  DE 63128","c":"DE","o":"Flexoptix GmbH"},{"d":"2018-10-04","t":"change","s":"ieee-oui.csv","a":"Muehltalstr. 153 Darmstadt  DE 64297 ","c":"DE","o":"Flexoptix GmbH"}]);
+macDetailCallback("388602000000/24",[{"d":"2015-10-14","t":"add","a":"Waldstr.92 Dietzenbach  DE 63128","c":"DE","o":"Flexoptix GmbH"},{"d":"2018-10-04","t":"change","s":"ieee-oui.csv","a":"Muehltalstr. 153 Darmstadt  DE 64297 ","c":"DE","o":"Flexoptix GmbH"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c0e60000000/24",[{"d":"2020-04-29","t":"add","s":"ieee-oui.csv","a":"No. 757 Dixiu Road, Binjiang Economic Development Zone, Jiangning District Nanjing Jiangsu CN 211100","c":"CN","o":"Nanjing Juplink Intelligent Technologies Co., Ltd."}]);
+macDetailCallback("8c0e60000000/24",[{"d":"2020-04-29","t":"add","s":"ieee-oui.csv","a":"No. 757 Dixiu Road, Binjiang Economic Development Zone, Jiangning District Nanjing Jiangsu CN 211100","c":"CN","o":"Nanjing Juplink Intelligent Technologies Co., Ltd."}]);

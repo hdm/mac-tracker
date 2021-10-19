@@ -1,1 +1,1 @@
-deepmacDetailCallback("24b6b8000000/24",[{"d":"2010-03-11","t":"add","a":"Via Edison 1\nSegrate Milano 20090\n\n","c":"ITALY","o":"FRIEM SPA"},{"d":"2015-08-27","t":"change","a":"Via Edison 1 Segrate Milano IT 20090","c":"IT","o":"FRIEM SPA"}]);
+macDetailCallback("24b6b8000000/24",[{"d":"2010-03-11","t":"add","a":"Via Edison 1\nSegrate Milano 20090\n\n","c":"ITALY","o":"FRIEM SPA"},{"d":"2015-08-27","t":"change","a":"Via Edison 1 Segrate Milano IT 20090","c":"IT","o":"FRIEM SPA"}]);

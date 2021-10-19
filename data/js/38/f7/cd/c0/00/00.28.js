@@ -1,1 +1,1 @@
-deepmacDetailCallback("38f7cdc00000/28",[{"d":"2020-03-24","t":"add","s":"ieee-mam.csv","a":"Room 111,1A Floor,Kanghesheng Blgg,No.1.Chuangsheng Rd.Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen MADIGI Electronic Technology Co., Ltd"}]);
+macDetailCallback("38f7cdc00000/28",[{"d":"2020-03-24","t":"add","s":"ieee-mam.csv","a":"Room 111,1A Floor,Kanghesheng Blgg,No.1.Chuangsheng Rd.Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen MADIGI Electronic Technology Co., Ltd"}]);

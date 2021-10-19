@@ -1,1 +1,1 @@
-deepmacDetailCallback("3cda6d000000/24",[{"d":"2019-11-12","t":"add","s":"ieee-oui.csv","a":"NO.8,haitai huake rd2 (outside ring road),huayuan new technology industrial park Tianjin Tianjin CN 300384","c":"CN","o":"Tiandy Technologies CO.,LTD"}]);
+macDetailCallback("3cda6d000000/24",[{"d":"2019-11-12","t":"add","s":"ieee-oui.csv","a":"NO.8,haitai huake rd2 (outside ring road),huayuan new technology industrial park Tianjin Tianjin CN 300384","c":"CN","o":"Tiandy Technologies CO.,LTD"}]);

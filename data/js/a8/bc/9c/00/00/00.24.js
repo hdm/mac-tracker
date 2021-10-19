@@ -1,1 +1,1 @@
-deepmacDetailCallback("a8bc9c000000/24",[{"a":"3/F, 6 Science Park East Avenue Hong Kong Science Park Shatin, N.T., Hong Kong Hong Kong  HK 00000","o":"Cloud Light Technology Limited","d":"2018-07-29","t":"add","s":"ieee","c":"HK"}]);
+macDetailCallback("a8bc9c000000/24",[{"a":"3/F, 6 Science Park East Avenue Hong Kong Science Park Shatin, N.T., Hong Kong Hong Kong  HK 00000","o":"Cloud Light Technology Limited","d":"2018-07-29","t":"add","s":"ieee","c":"HK"}]);

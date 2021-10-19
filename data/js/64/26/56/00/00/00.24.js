@@ -1,1 +1,1 @@
-deepmacDetailCallback("642656000000/24",[{"d":"2020-11-19","t":"add","s":"ieee-oui.csv","a":"Room 408, 4 / F, Jinqi Zhigu Building, 1 Tangling Road, Nanshan District, Shenzhen  Shenzhen  CN 518000","c":"CN","o":"Shenzhen Fanweitai Technology Service Co.,Ltd"}]);
+macDetailCallback("642656000000/24",[{"d":"2020-11-19","t":"add","s":"ieee-oui.csv","a":"Room 408, 4 / F, Jinqi Zhigu Building, 1 Tangling Road, Nanshan District, Shenzhen  Shenzhen  CN 518000","c":"CN","o":"Shenzhen Fanweitai Technology Service Co.,Ltd"}]);

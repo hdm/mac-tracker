@@ -1,1 +1,1 @@
-deepmacDetailCallback("986ee8e00000/28",[{"d":"2021-08-10","t":"add","s":"ieee-mam.csv","a":"Tachibana Shinjuku Bldg. 3F, 3-2-26 Nishi-Shinjuku Tokyo Shinjuku-ku JP 160-0023","c":"JP","o":"First Design System Inc."}]);
+macDetailCallback("986ee8e00000/28",[{"d":"2021-08-10","t":"add","s":"ieee-mam.csv","a":"Tachibana Shinjuku Bldg. 3F, 3-2-26 Nishi-Shinjuku Tokyo Shinjuku-ku JP 160-0023","c":"JP","o":"First Design System Inc."}]);

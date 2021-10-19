@@ -1,1 +1,1 @@
-deepmacDetailCallback("e092a7000000/24",[{"d":"2020-04-22","t":"add","s":"ieee-oui.csv","a":"Floor 17, Tower B, Huizhi Mansion, No.9 Xueqing Rd, Haidian District Beijing  CN 100085","c":"CN","o":"Feitian Technologies Co., Ltd"}]);
+macDetailCallback("e092a7000000/24",[{"d":"2020-04-22","t":"add","s":"ieee-oui.csv","a":"Floor 17, Tower B, Huizhi Mansion, No.9 Xueqing Rd, Haidian District Beijing  CN 100085","c":"CN","o":"Feitian Technologies Co., Ltd"}]);

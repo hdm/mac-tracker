@@ -1,1 +1,1 @@
-deepmacDetailCallback("60699b000000/24",[{"d":"2013-05-03","t":"add","a":"Wannweiler Str. 12\nKirchentellinsfurt  72138\n\n","c":"GERMANY","o":"isepos GmbH"},{"d":"2015-08-27","t":"change","a":"Wannweiler Str. 12 Kirchentellinsfurt  US 72138","c":"US","o":"isepos GmbH"}]);
+macDetailCallback("60699b000000/24",[{"d":"2013-05-03","t":"add","a":"Wannweiler Str. 12\nKirchentellinsfurt  72138\n\n","c":"GERMANY","o":"isepos GmbH"},{"d":"2015-08-27","t":"change","a":"Wannweiler Str. 12 Kirchentellinsfurt  US 72138","c":"US","o":"isepos GmbH"}]);

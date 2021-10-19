@@ -1,1 +1,1 @@
-deepmacDetailCallback("745bc5200000/28",[{"d":"2018-12-13","t":"add","s":"ieee-mam.csv","a":"Blog No.4 & No.5, Antongda Industrial Zone, 3rd Liuxian Road, Bao’an District, Shenzhen, 518101, China. Shenzhen Guangdong CN 518101","c":"CN","o":"SIGLENT TECHNOLOGIES CO., LTD."}]);
+macDetailCallback("745bc5200000/28",[{"d":"2018-12-13","t":"add","s":"ieee-mam.csv","a":"Blog No.4 & No.5, Antongda Industrial Zone, 3rd Liuxian Road, Bao’an District, Shenzhen, 518101, China. Shenzhen Guangdong CN 518101","c":"CN","o":"SIGLENT TECHNOLOGIES CO., LTD."}]);

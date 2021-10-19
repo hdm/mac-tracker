@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5f28000/36",[{"d":"2020-02-02","t":"add","s":"ieee-oui36.csv","a":"5F.-2, No. 81, Sec. 1, Xintai 5th Rd., Xizhi Dist  New Taipei City  TW 22101","c":"TW","o":"Yi An Electronics Co., Ltd"}]);
+macDetailCallback("70b3d5f28000/36",[{"d":"2020-02-02","t":"add","s":"ieee-oui36.csv","a":"5F.-2, No. 81, Sec. 1, Xintai 5th Rd., Xizhi Dist  New Taipei City  TW 22101","c":"TW","o":"Yi An Electronics Co., Ltd"}]);

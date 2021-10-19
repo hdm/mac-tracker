@@ -1,1 +1,1 @@
-deepmacDetailCallback("b89919000000/24",[{"d":"2014-04-23","t":"add","a":"526 S. Main Street\nSuite 601G\nAkron OH 44311\n","c":"UNITED STATES","o":"7signal Solutions, Inc"},{"d":"2015-08-27","t":"change","a":"526 S. Main Street Akron OH US 44311","c":"US","o":"7signal Solutions, Inc"}]);
+macDetailCallback("b89919000000/24",[{"d":"2014-04-23","t":"add","a":"526 S. Main Street\nSuite 601G\nAkron OH 44311\n","c":"UNITED STATES","o":"7signal Solutions, Inc"},{"d":"2015-08-27","t":"change","a":"526 S. Main Street Akron OH US 44311","c":"US","o":"7signal Solutions, Inc"}]);

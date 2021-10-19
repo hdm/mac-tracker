@@ -1,1 +1,1 @@
-deepmacDetailCallback("f81d78e00000/28",[{"a":"No.139 Lixiang road, Songmushan Dalang town, Dongguan,Guangdong ,China DongGuan GuanDong CN 523795","o":"GUANGDONG ENOK COMMUNICATION CO., LTD.","d":"2016-06-26","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("f81d78e00000/28",[{"a":"No.139 Lixiang road, Songmushan Dalang town, Dongguan,Guangdong ,China DongGuan GuanDong CN 523795","o":"GUANGDONG ENOK COMMUNICATION CO., LTD.","d":"2016-06-26","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("c08359900000/28",[{"a":"Room 502,Peng’s Building,Fanshen Road,43# Baoan District Shenzhen Guangdong CN 518101","o":"Shenzhen Pay Device Technology Co., Ltd.","d":"2018-05-06","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("c08359900000/28",[{"a":"Room 502,Peng’s Building,Fanshen Road,43# Baoan District Shenzhen Guangdong CN 518101","o":"Shenzhen Pay Device Technology Co., Ltd.","d":"2018-05-06","t":"add","s":"ieee","c":"CN"}]);

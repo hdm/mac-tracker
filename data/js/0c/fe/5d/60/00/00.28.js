@@ -1,1 +1,1 @@
-deepmacDetailCallback("0cfe5d600000/28",[{"a":"7/F,Zhengjiyuan Buiding,2 Road,Qianjing, Xixiang, Baoan District,Shenzhen SHEN ZHEN GUANGDONG CN 518000","o":"Antailiye Technology Co.,Ltd","d":"2018-08-12","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("0cfe5d600000/28",[{"a":"7/F,Zhengjiyuan Buiding,2 Road,Qianjing, Xixiang, Baoan District,Shenzhen SHEN ZHEN GUANGDONG CN 518000","o":"Antailiye Technology Co.,Ltd","d":"2018-08-12","t":"add","s":"ieee","c":"CN"}]);

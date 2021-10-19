@@ -1,1 +1,1 @@
-deepmacDetailCallback("7cdde9000000/24",[{"d":"2020-03-18","t":"add","s":"ieee-oui.csv","a":"Sky Menor Yokohama 422, 2-11-2 Takashima, Nishi-ku  Yokohama-shi Kanagawa JP 220-0011","c":"JP","o":"ATOM tech Inc."}]);
+macDetailCallback("7cdde9000000/24",[{"d":"2020-03-18","t":"add","s":"ieee-oui.csv","a":"Sky Menor Yokohama 422, 2-11-2 Takashima, Nishi-ku  Yokohama-shi Kanagawa JP 220-0011","c":"JP","o":"ATOM tech Inc."}]);

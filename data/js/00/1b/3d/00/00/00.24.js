@@ -1,1 +1,1 @@
-deepmacDetailCallback("001b3d000000/24",[{"d":"2007-01-26","t":"add","a":"viale Martiri della Liberta,4\nLissone Milan 20035\n\n","c":"ITALY","o":"EuroTel Spa"},{"d":"2015-08-27","t":"change","a":"viale Martiri della Liberta,4 Lissone Milan IT 20035","c":"IT","o":"EuroTel Spa"}]);
+macDetailCallback("001b3d000000/24",[{"d":"2007-01-26","t":"add","a":"viale Martiri della Liberta,4\nLissone Milan 20035\n\n","c":"ITALY","o":"EuroTel Spa"},{"d":"2015-08-27","t":"change","a":"viale Martiri della Liberta,4 Lissone Milan IT 20035","c":"IT","o":"EuroTel Spa"}]);

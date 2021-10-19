@@ -1,1 +1,1 @@
-deepmacDetailCallback("1c63bf000000/24",[{"d":"2019-12-08","t":"add","s":"ieee-oui.csv","a":"No.14-1, Tongqing Road, Baolong street, Longgang District ShenZhen GuangDong CN 518116","c":"CN","o":"SHENZHEN BROADTEL  TELECOM CO.,LTD"}]);
+macDetailCallback("1c63bf000000/24",[{"d":"2019-12-08","t":"add","s":"ieee-oui.csv","a":"No.14-1, Tongqing Road, Baolong street, Longgang District ShenZhen GuangDong CN 518116","c":"CN","o":"SHENZHEN BROADTEL  TELECOM CO.,LTD"}]);

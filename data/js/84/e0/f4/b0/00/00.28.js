@@ -1,1 +1,1 @@
-deepmacDetailCallback("84e0f4b00000/28",[{"a":"8F,No.2,Lane 235,Bao-Chiao Rd., Hsin-Tien District, New Taipei City  TW 23145","o":"Orchard Electronics Co., Ltd.","d":"2016-05-29","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("84e0f4b00000/28",[{"a":"8F,No.2,Lane 235,Bao-Chiao Rd., Hsin-Tien District, New Taipei City  TW 23145","o":"Orchard Electronics Co., Ltd.","d":"2016-05-29","t":"add","s":"ieee","c":"TW"}]);

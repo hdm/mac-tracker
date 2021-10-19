@@ -1,1 +1,1 @@
-deepmacDetailCallback("a4da3f000000/24",[{"d":"2009-10-09","t":"add","a":"1406 Masters Tower\n553 Dowha-dong Mapo-gu\nSeoul  121-748\n","c":"KOREA, REPUBLIC OF","o":"Bionics Corp."},{"d":"2015-08-27","t":"change","a":"1406 Masters Tower Seoul  KR 121-748","c":"KR","o":"Bionics Corp."}]);
+macDetailCallback("a4da3f000000/24",[{"d":"2009-10-09","t":"add","a":"1406 Masters Tower\n553 Dowha-dong Mapo-gu\nSeoul  121-748\n","c":"KOREA, REPUBLIC OF","o":"Bionics Corp."},{"d":"2015-08-27","t":"change","a":"1406 Masters Tower Seoul  KR 121-748","c":"KR","o":"Bionics Corp."}]);

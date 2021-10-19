@@ -1,1 +1,1 @@
-deepmacDetailCallback("480bb2100000/28",[{"a":"403, Unit 3, Building 3, Zhongdian Hi-Tech Park, No.1 Kejiqi Rd. Zhuhai Guangdong CN 519080","o":"BAJA ELECTRONICS TECHNOLOGY LIMITED","d":"2018-01-14","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("480bb2100000/28",[{"a":"403, Unit 3, Building 3, Zhongdian Hi-Tech Park, No.1 Kejiqi Rd. Zhuhai Guangdong CN 519080","o":"BAJA ELECTRONICS TECHNOLOGY LIMITED","d":"2018-01-14","t":"add","s":"ieee","c":"CN"}]);

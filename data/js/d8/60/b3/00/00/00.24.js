@@ -1,1 +1,1 @@
-deepmacDetailCallback("d860b3000000/24",[{"d":"2017-01-14","t":"add","a":" Floor4 East side,build#6,Huangzhou industry Park, chebei Road, Tianhe District GuangZhou GuangDong CN 510660 ","c":"CN","o":"Guangdong Global Electronic Technology CO.，LTD"}]);
+macDetailCallback("d860b3000000/24",[{"d":"2017-01-14","t":"add","a":" Floor4 East side,build#6,Huangzhou industry Park, chebei Road, Tianhe District GuangZhou GuangDong CN 510660 ","c":"CN","o":"Guangdong Global Electronic Technology CO.，LTD"}]);

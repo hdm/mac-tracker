@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c593c200000/28",[{"d":"2019-04-06","t":"add","s":"ieee-mam.csv","a":"Jade Bird Building C, 207 Chengfu RD, Haidian District Beijing Beijing CN 100871","c":"CN","o":"Beida Jade Bird Universal Fire Alarm Device CO.,LTD."}]);
+macDetailCallback("8c593c200000/28",[{"d":"2019-04-06","t":"add","s":"ieee-mam.csv","a":"Jade Bird Building C, 207 Chengfu RD, Haidian District Beijing Beijing CN 100871","c":"CN","o":"Beida Jade Bird Universal Fire Alarm Device CO.,LTD."}]);

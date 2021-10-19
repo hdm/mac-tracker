@@ -1,1 +1,1 @@
-deepmacDetailCallback("64e161000000/24",[{"d":"2011-09-01","t":"add","a":"Nishi-shinjuku 6-12-7\nStork Shinjuku 1F A-11\nShinjuku Tokyo 160-0023\n","c":"JAPAN","o":"DEP Corp."},{"d":"2015-08-27","t":"change","a":"Nishi-shinjuku 6-12-7 Shinjuku Tokyo JP 160-0023","c":"JP","o":"DEP Corp."}]);
+macDetailCallback("64e161000000/24",[{"d":"2011-09-01","t":"add","a":"Nishi-shinjuku 6-12-7\nStork Shinjuku 1F A-11\nShinjuku Tokyo 160-0023\n","c":"JAPAN","o":"DEP Corp."},{"d":"2015-08-27","t":"change","a":"Nishi-shinjuku 6-12-7 Shinjuku Tokyo JP 160-0023","c":"JP","o":"DEP Corp."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d52c7000/36",[{"d":"2019-03-30","t":"add","s":"ieee-oui36.csv","a":"Carrer Viriat 47, Edificio Numancia 1 7th floor Barcelona - Please Choose - ES 08014","c":"ES","o":"Worldsensing"}]);
+macDetailCallback("70b3d52c7000/36",[{"d":"2019-03-30","t":"add","s":"ieee-oui36.csv","a":"Carrer Viriat 47, Edificio Numancia 1 7th floor Barcelona - Please Choose - ES 08014","c":"ES","o":"Worldsensing"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("0019d4000000/24",[{"d":"2006-09-25","t":"add","a":"3440 Francis-Hughes\nSuite 120\nLaval Quebec H7L 5A9\n","c":"CANADA","o":"ICX Technologies"},{"d":"2015-08-27","t":"change","a":"3440 Francis-Hughes Laval Quebec CA H7L 5A9","c":"CA","o":"ICX Technologies"}]);
+macDetailCallback("0019d4000000/24",[{"d":"2006-09-25","t":"add","a":"3440 Francis-Hughes\nSuite 120\nLaval Quebec H7L 5A9\n","c":"CANADA","o":"ICX Technologies"},{"d":"2015-08-27","t":"change","a":"3440 Francis-Hughes Laval Quebec CA H7L 5A9","c":"CA","o":"ICX Technologies"}]);

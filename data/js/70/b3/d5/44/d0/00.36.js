@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d544d000/36",[{"d":"2020-01-03","t":"add","s":"ieee-oui36.csv","a":"Banchory Business Centre, Burn O'Bennie Road Banchory Aberdeenshire GB AB31 5ZU","c":"GB","o":"Vessel Technology Ltd"}]);
+macDetailCallback("70b3d544d000/36",[{"d":"2020-01-03","t":"add","s":"ieee-oui36.csv","a":"Banchory Business Centre, Burn O'Bennie Road Banchory Aberdeenshire GB AB31 5ZU","c":"GB","o":"Vessel Technology Ltd"}]);

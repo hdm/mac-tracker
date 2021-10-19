@@ -1,1 +1,1 @@
-deepmacDetailCallback("4cb008000000/24",[{"d":"2017-03-28","t":"add","a":"A4 building 15floor Zhongying Jewelry Industrial Park Bulan Road No.31 Nanwan Street Longgang District Shenzhen City China Shenzhen  CN 518112","c":"CN","o":"Shenzhen Gwelltimes Technology Co.,Ltd"}]);
+macDetailCallback("4cb008000000/24",[{"d":"2017-03-28","t":"add","a":"A4 building 15floor Zhongying Jewelry Industrial Park Bulan Road No.31 Nanwan Street Longgang District Shenzhen City China Shenzhen  CN 518112","c":"CN","o":"Shenzhen Gwelltimes Technology Co.,Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d567b000/36",[{"a":"Stesalit Towers, Block GP, Sector 5, Salt Lake Electronics Complex,  Kolkata West Bengal IN 700091","o":"Stesalit Systems Ltd","d":"2016-07-17","t":"add","s":"ieee","c":"IN"}]);
+macDetailCallback("70b3d567b000/36",[{"a":"Stesalit Towers, Block GP, Sector 5, Salt Lake Electronics Complex,  Kolkata West Bengal IN 700091","o":"Stesalit Systems Ltd","d":"2016-07-17","t":"add","s":"ieee","c":"IN"}]);

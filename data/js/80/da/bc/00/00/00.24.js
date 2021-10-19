@@ -1,1 +1,1 @@
-deepmacDetailCallback("80dabc000000/24",[{"d":"2019-01-26","t":"add","s":"ieee-oui.csv","a":"Unit 702,7/F,Bankok Bank Building,NO.18 Bonham Strand West Hong Kong  HK 999077","c":"HK","o":"Megafone Limited"}]);
+macDetailCallback("80dabc000000/24",[{"d":"2019-01-26","t":"add","s":"ieee-oui.csv","a":"Unit 702,7/F,Bankok Bank Building,NO.18 Bonham Strand West Hong Kong  HK 999077","c":"HK","o":"Megafone Limited"}]);

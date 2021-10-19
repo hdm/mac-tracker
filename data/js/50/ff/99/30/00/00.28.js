@@ -1,1 +1,1 @@
-deepmacDetailCallback("50ff99300000/28",[{"a":"Room 202,Building 2,No.65,Lane1398,Xin Zhu Road,  Minhang District Shanghai. shanghai shanghai CN 201100","o":"Yongjing Shanghai Electronic Science and Technology","d":"2016-02-21","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("50ff99300000/28",[{"a":"Room 202,Building 2,No.65,Lane1398,Xin Zhu Road,  Minhang District Shanghai. shanghai shanghai CN 201100","o":"Yongjing Shanghai Electronic Science and Technology","d":"2016-02-21","t":"add","s":"ieee","c":"CN"}]);

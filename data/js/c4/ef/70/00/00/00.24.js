@@ -1,1 +1,1 @@
-deepmacDetailCallback("c4ef70000000/24",[{"d":"2015-07-28","t":"add","a":"Tavor building POB 533\nYokneam Israel 2069206\n\n","c":"ISRAEL","o":"Home Skinovations"},{"d":"2015-08-27","t":"change","a":"Tavor building POB 533 Yokneam Israel IL 2069206","c":"IL","o":"Home Skinovations"}]);
+macDetailCallback("c4ef70000000/24",[{"d":"2015-07-28","t":"add","a":"Tavor building POB 533\nYokneam Israel 2069206\n\n","c":"ISRAEL","o":"Home Skinovations"},{"d":"2015-08-27","t":"change","a":"Tavor building POB 533 Yokneam Israel IL 2069206","c":"IL","o":"Home Skinovations"}]);

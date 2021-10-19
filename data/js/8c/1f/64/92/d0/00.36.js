@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f6492d000/36",[{"d":"2021-08-15","t":"add","s":"ieee-oui36.csv","a":"Floor 3, Building 67, Shidongxia Road, Chancheng Foshan Guangdong CN 528000","c":"CN","o":"IVOR Intelligent Electrical Appliance Co., Ltd"}]);
+macDetailCallback("8c1f6492d000/36",[{"d":"2021-08-15","t":"add","s":"ieee-oui36.csv","a":"Floor 3, Building 67, Shidongxia Road, Chancheng Foshan Guangdong CN 528000","c":"CN","o":"IVOR Intelligent Electrical Appliance Co., Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d566c000/36",[{"d":"2019-06-11","t":"add","s":"ieee-oui36.csv","a":"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450","c":"PL","o":"KRISTECH Krzysztof Kajstura"}]);
+macDetailCallback("70b3d566c000/36",[{"d":"2019-06-11","t":"add","s":"ieee-oui36.csv","a":"Porzeczkowa 12 Ustroń Please select region, state or province PL 43-450","c":"PL","o":"KRISTECH Krzysztof Kajstura"}]);

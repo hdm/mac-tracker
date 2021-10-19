@@ -1,1 +1,1 @@
-deepmacDetailCallback("745798000000/24",[{"d":"2012-01-26","t":"add","a":"Aichhalder Str. 39\nSchramberg BW 78713\n\n","c":"GERMANY","o":"TRUMPF Laser GmbH + Co. KG"},{"d":"2015-08-27","t":"change","a":"Aichhalder Str. 39 Schramberg BW DE 78713","c":"DE","o":"TRUMPF Laser GmbH + Co. KG"}]);
+macDetailCallback("745798000000/24",[{"d":"2012-01-26","t":"add","a":"Aichhalder Str. 39\nSchramberg BW 78713\n\n","c":"GERMANY","o":"TRUMPF Laser GmbH + Co. KG"},{"d":"2015-08-27","t":"change","a":"Aichhalder Str. 39 Schramberg BW DE 78713","c":"DE","o":"TRUMPF Laser GmbH + Co. KG"}]);

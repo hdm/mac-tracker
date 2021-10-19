@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5137000/36",[{"d":"2021-02-21","t":"add","s":"ieee-oui36.csv","a":"9F-1, No. 77, Sec 4. Nanjing E. Rd., SongShan Dist. Taipei City Taiwan TW 105406","c":"TW","o":"Subject Link Inc"}]);
+macDetailCallback("70b3d5137000/36",[{"d":"2021-02-21","t":"add","s":"ieee-oui36.csv","a":"9F-1, No. 77, Sec 4. Nanjing E. Rd., SongShan Dist. Taipei City Taiwan TW 105406","c":"TW","o":"Subject Link Inc"}]);

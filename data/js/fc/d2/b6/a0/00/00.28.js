@@ -1,1 +1,1 @@
-deepmacDetailCallback("fcd2b6a00000/28",[{"d":"2018-12-21","t":"add","s":"ieee-mam.csv","a":"RM 1901，19/F LEE GARDEN ONE 33 HYSAN AVENUE CAUSEWAY BAY HONG KONG  HK 999077","c":"HK","o":"NREAL TECHNOLOGY LIMITED"}]);
+macDetailCallback("fcd2b6a00000/28",[{"d":"2018-12-21","t":"add","s":"ieee-mam.csv","a":"RM 1901，19/F LEE GARDEN ONE 33 HYSAN AVENUE CAUSEWAY BAY HONG KONG  HK 999077","c":"HK","o":"NREAL TECHNOLOGY LIMITED"}]);

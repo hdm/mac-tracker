@@ -1,1 +1,1 @@
-deepmacDetailCallback("0009ff000000/24",[{"d":"2002-06-05","t":"add","a":"Koenigsberger Str. 2c\nReinheim  64354\n\n","c":"GERMANY","o":"X.net 2000 GmbH"},{"d":"2015-08-27","t":"change","a":"Koenigsberger Str. 2c Reinheim  DE 64354","c":"DE","o":"X.net 2000 GmbH"}]);
+macDetailCallback("0009ff000000/24",[{"d":"2002-06-05","t":"add","a":"Koenigsberger Str. 2c\nReinheim  64354\n\n","c":"GERMANY","o":"X.net 2000 GmbH"},{"d":"2015-08-27","t":"change","a":"Koenigsberger Str. 2c Reinheim  DE 64354","c":"DE","o":"X.net 2000 GmbH"}]);

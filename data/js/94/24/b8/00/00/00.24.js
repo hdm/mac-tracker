@@ -1,1 +1,1 @@
-deepmacDetailCallback("9424b8000000/24",[{"d":"2019-10-16","t":"add","s":"ieee-oui.csv","a":"Jinji West Road, Qianshan, Zhuhai Guangdong CN 519070","c":"CN","o":"GREE ELECTRIC APPLIANCES, INC. OF ZHUHAI"}]);
+macDetailCallback("9424b8000000/24",[{"d":"2019-10-16","t":"add","s":"ieee-oui.csv","a":"Jinji West Road, Qianshan, Zhuhai Guangdong CN 519070","c":"CN","o":"GREE ELECTRIC APPLIANCES, INC. OF ZHUHAI"}]);

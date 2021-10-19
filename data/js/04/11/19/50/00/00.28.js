@@ -1,1 +1,1 @@
-deepmacDetailCallback("041119500000/28",[{"d":"2020-12-13","t":"add","s":"ieee-mam.csv","a":"611, Renbao Building, 32 Baolong Road, Changlong Community, Buji Street, Longgang District Shenzhen Guangdong CN 518000","c":"CN","o":"CEITA COMMUNICATION TECHNOLOGY CO.,LTD"}]);
+macDetailCallback("041119500000/28",[{"d":"2020-12-13","t":"add","s":"ieee-mam.csv","a":"611, Renbao Building, 32 Baolong Road, Changlong Community, Buji Street, Longgang District Shenzhen Guangdong CN 518000","c":"CN","o":"CEITA COMMUNICATION TECHNOLOGY CO.,LTD"}]);

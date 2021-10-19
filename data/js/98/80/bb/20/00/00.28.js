@@ -1,1 +1,1 @@
-deepmacDetailCallback("9880bb200000/28",[{"d":"2021-08-12","t":"add","s":"ieee-mam.csv","a":"Room1418,Floor5Building9,YangmingRoad,Xinghu,Development Zone, Fengxian,District,Shanghai Shanghai  CN 200000","c":"CN","o":"Shanghai ECone Technology Co.,Ltd."}]);
+macDetailCallback("9880bb200000/28",[{"d":"2021-08-12","t":"add","s":"ieee-mam.csv","a":"Room1418,Floor5Building9,YangmingRoad,Xinghu,Development Zone, Fengxian,District,Shanghai Shanghai  CN 200000","c":"CN","o":"Shanghai ECone Technology Co.,Ltd."}]);

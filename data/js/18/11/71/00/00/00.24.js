@@ -1,1 +1,1 @@
-deepmacDetailCallback("181171000000/24",[{"d":"2020-10-01","t":"add","s":"ieee-oui.csv","a":"Floor 5, Building C1, Greenland Central Plaza Huangpu District, Guangzhou Guangdong Province CN 510700","c":"CN","o":"Guangzhou Doctorpai Education & Technology Co.,Ltd"}]);
+macDetailCallback("181171000000/24",[{"d":"2020-10-01","t":"add","s":"ieee-oui.csv","a":"Floor 5, Building C1, Greenland Central Plaza Huangpu District, Guangzhou Guangdong Province CN 510700","c":"CN","o":"Guangzhou Doctorpai Education & Technology Co.,Ltd"}]);

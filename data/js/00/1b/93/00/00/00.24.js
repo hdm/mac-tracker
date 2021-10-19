@@ -1,1 +1,1 @@
-deepmacDetailCallback("001b93000000/24",[{"d":"2007-03-01","t":"add","a":"21 rue claude Bernard\nMAUREPAS  78310\n\n","c":"FRANCE","o":"JC Decaux SA DNT"},{"d":"2015-08-27","t":"change","a":"21 rue claude Bernard MAUREPAS  FR 78310","c":"FR","o":"JC Decaux SA DNT"}]);
+macDetailCallback("001b93000000/24",[{"d":"2007-03-01","t":"add","a":"21 rue claude Bernard\nMAUREPAS  78310\n\n","c":"FRANCE","o":"JC Decaux SA DNT"},{"d":"2015-08-27","t":"change","a":"21 rue claude Bernard MAUREPAS  FR 78310","c":"FR","o":"JC Decaux SA DNT"}]);

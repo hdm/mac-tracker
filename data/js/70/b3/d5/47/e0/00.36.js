@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d547e000/36",[{"d":"2018-12-13","t":"add","s":"ieee-oui36.csv","a":"#38, 22nd Main, 14th Cross, Padmanabhanagar Bangalore Karnataka IN 560070","c":"IN","o":"Fiber Optika Technologies Pvt. Ltd."}]);
+macDetailCallback("70b3d547e000/36",[{"d":"2018-12-13","t":"add","s":"ieee-oui36.csv","a":"#38, 22nd Main, 14th Cross, Padmanabhanagar Bangalore Karnataka IN 560070","c":"IN","o":"Fiber Optika Technologies Pvt. Ltd."}]);

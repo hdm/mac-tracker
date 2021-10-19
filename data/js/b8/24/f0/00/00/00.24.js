@@ -1,1 +1,1 @@
-deepmacDetailCallback("b824f0000000/24",[{"d":"2016-03-17","t":"add","a":"4F, 9Bldg, Longbi Industry Zone, Longgang Dist, Shenzhen City, Guangdong Pro, China Shenzhen City  Guangdong Pro CN 518129","c":"CN","o":"SOYO Technology Development Co., Ltd."}]);
+macDetailCallback("b824f0000000/24",[{"d":"2016-03-17","t":"add","a":"4F, 9Bldg, Longbi Industry Zone, Longgang Dist, Shenzhen City, Guangdong Pro, China Shenzhen City  Guangdong Pro CN 518129","c":"CN","o":"SOYO Technology Development Co., Ltd."}]);

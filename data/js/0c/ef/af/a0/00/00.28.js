@@ -1,1 +1,1 @@
-deepmacDetailCallback("0cefafa00000/28",[{"a":"room 503, B7 , tianfu software park chengdu sichuan CN 610000","o":"chengdu joyotime Technology Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("0cefafa00000/28",[{"a":"room 503, B7 , tianfu software park chengdu sichuan CN 610000","o":"chengdu joyotime Technology Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

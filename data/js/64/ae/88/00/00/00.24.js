@@ -1,1 +1,1 @@
-deepmacDetailCallback("64ae88000000/24",[{"d":"2012-03-03","t":"add","a":"Polytec Platz 1-7\nWaldbronn BW 76337\n\n","c":"GERMANY","o":"Polytec GmbH"},{"d":"2015-08-27","t":"change","a":"Polytec Platz 1-7 Waldbronn BW DE 76337","c":"DE","o":"Polytec GmbH"}]);
+macDetailCallback("64ae88000000/24",[{"d":"2012-03-03","t":"add","a":"Polytec Platz 1-7\nWaldbronn BW 76337\n\n","c":"GERMANY","o":"Polytec GmbH"},{"d":"2015-08-27","t":"change","a":"Polytec Platz 1-7 Waldbronn BW DE 76337","c":"DE","o":"Polytec GmbH"}]);

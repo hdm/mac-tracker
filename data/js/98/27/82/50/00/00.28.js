@@ -1,1 +1,1 @@
-deepmacDetailCallback("982782500000/28",[{"d":"2020-12-03","t":"add","s":"ieee-mam.csv","a":"4th Floor, Building C2, Hi-Tech Enterprise Accelerator, Kaiyuan Avenue #11, Huangpu District Guangzhou Guangdong CN 510530","c":"CN","o":"Guangzhou Wuzhou Technology Co, Ltd."}]);
+macDetailCallback("982782500000/28",[{"d":"2020-12-03","t":"add","s":"ieee-mam.csv","a":"4th Floor, Building C2, Hi-Tech Enterprise Accelerator, Kaiyuan Avenue #11, Huangpu District Guangzhou Guangdong CN 510530","c":"CN","o":"Guangzhou Wuzhou Technology Co, Ltd."}]);

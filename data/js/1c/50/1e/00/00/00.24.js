@@ -1,1 +1,1 @@
-deepmacDetailCallback("1c501e000000/24",[{"d":"2020-07-22","t":"add","s":"ieee-oui.csv","a":"19, Innovation First Road, Hsinchu Science Park Hsinchu  TW 300","c":"TW","o":"Sunplus Technology Co., Ltd."}]);
+macDetailCallback("1c501e000000/24",[{"d":"2020-07-22","t":"add","s":"ieee-oui.csv","a":"19, Innovation First Road, Hsinchu Science Park Hsinchu  TW 300","c":"TW","o":"Sunplus Technology Co., Ltd."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("00089a000000/24",[{"d":"2001-12-14","t":"add","a":"Excelsiorlaan 44-46\nB-1930 Zavantem\n\n","c":"BELGIUM","o":"Alcatel Microelectronics"},{"d":"2015-08-27","t":"change","a":"Excelsiorlaan 44-46 B-1930 Zavantem  BE","c":"BE","o":"Alcatel Microelectronics"}]);
+macDetailCallback("00089a000000/24",[{"d":"2001-12-14","t":"add","a":"Excelsiorlaan 44-46\nB-1930 Zavantem\n\n","c":"BELGIUM","o":"Alcatel Microelectronics"},{"d":"2015-08-27","t":"change","a":"Excelsiorlaan 44-46 B-1930 Zavantem  BE","c":"BE","o":"Alcatel Microelectronics"}]);

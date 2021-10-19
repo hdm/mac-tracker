@@ -1,1 +1,1 @@
-deepmacDetailCallback("a4d795000000/24",[{"d":"2021-01-28","t":"add","s":"ieee-oui.csv","a":"No.777,Yazhong Road,Nanhu District Jiaxing Zhejiang CN 314001","c":"CN","o":"Wingtech Mobile Communications Co.,Ltd"}]);
+macDetailCallback("a4d795000000/24",[{"d":"2021-01-28","t":"add","s":"ieee-oui.csv","a":"No.777,Yazhong Road,Nanhu District Jiaxing Zhejiang CN 314001","c":"CN","o":"Wingtech Mobile Communications Co.,Ltd"}]);

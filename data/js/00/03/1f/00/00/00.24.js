@@ -1,1 +1,1 @@
-deepmacDetailCallback("00031f000000/24",[{"d":"2000-09-08","t":"add","a":"200-1626 West 2nd Ave.\nVancouver, B.C. V6J 1H4\n\n","c":"CANADA","o":"Condev Ltd."},{"d":"2015-08-27","t":"change","a":"200-1626 West 2nd Ave.   CA","c":"CA","o":"Condev Ltd."}]);
+macDetailCallback("00031f000000/24",[{"d":"2000-09-08","t":"add","a":"200-1626 West 2nd Ave.\nVancouver, B.C. V6J 1H4\n\n","c":"CANADA","o":"Condev Ltd."},{"d":"2015-08-27","t":"change","a":"200-1626 West 2nd Ave.   CA","c":"CA","o":"Condev Ltd."}]);

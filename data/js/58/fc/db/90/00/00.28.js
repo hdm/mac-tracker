@@ -1,1 +1,1 @@
-deepmacDetailCallback("58fcdb900000/28",[{"a":"Plant 202, BLDG 13, Tian'An HQ Center, No.555 North Panyu RD. Donghuan Block, Guangzhou Guangdong CN 511400","o":"Hi-Target Surveying Instrument Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("58fcdb900000/28",[{"a":"Plant 202, BLDG 13, Tian'An HQ Center, No.555 North Panyu RD. Donghuan Block, Guangzhou Guangdong CN 511400","o":"Hi-Target Surveying Instrument Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("28ed58000000/24",[{"d":"2010-08-25","t":"add","a":"Industriestrasse 20\nBRUEGG BE 2555\n\n","c":"SWITZERLAND","o":"JAG Jakob AG"},{"d":"2015-08-27","t":"change","a":"Industriestrasse 20 BRUEGG BE CH 2555","c":"CH","o":"JAG Jakob AG"}]);
+macDetailCallback("28ed58000000/24",[{"d":"2010-08-25","t":"add","a":"Industriestrasse 20\nBRUEGG BE 2555\n\n","c":"SWITZERLAND","o":"JAG Jakob AG"},{"d":"2015-08-27","t":"change","a":"Industriestrasse 20 BRUEGG BE CH 2555","c":"CH","o":"JAG Jakob AG"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("00a046000000/24",[{"d":"1998-04-22","t":"add","a":"P.O.BOX 330\nHERZLIA B 46103\n\n","c":"ISRAEL","o":"SCITEX CORP. LTD."},{"d":"2015-08-27","t":"change","a":"P.O.BOX 330   IL","c":"IL","o":"SCITEX CORP. LTD."}]);
+macDetailCallback("00a046000000/24",[{"d":"1998-04-22","t":"add","a":"P.O.BOX 330\nHERZLIA B 46103\n\n","c":"ISRAEL","o":"SCITEX CORP. LTD."},{"d":"2015-08-27","t":"change","a":"P.O.BOX 330   IL","c":"IL","o":"SCITEX CORP. LTD."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("00067d000000/24",[{"d":"2001-06-04","t":"add","a":"1-24-16 Mizonokuchi Takatsu-ku\nKawasaki Kanagawa\n\n","c":"JAPAN","o":"Takasago Ltd."},{"d":"2015-08-27","t":"change","a":"1-24-16 Mizonokuchi Takatsu-ku   JP","c":"JP","o":"Takasago Ltd."}]);
+macDetailCallback("00067d000000/24",[{"d":"2001-06-04","t":"add","a":"1-24-16 Mizonokuchi Takatsu-ku\nKawasaki Kanagawa\n\n","c":"JAPAN","o":"Takasago Ltd."},{"d":"2015-08-27","t":"change","a":"1-24-16 Mizonokuchi Takatsu-ku   JP","c":"JP","o":"Takasago Ltd."}]);

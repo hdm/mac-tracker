@@ -1,1 +1,1 @@
-deepmacDetailCallback("8cae49600000/28",[{"d":"2020-10-11","t":"add","s":"ieee-mam.csv","a":"Chengdu BiiDTE Technology Co.,Ltd Chengdu Sichuan CN 610041","c":"CN","o":"Chengdu BillDTE Technology Co., Ltd"}]);
+macDetailCallback("8cae49600000/28",[{"d":"2020-10-11","t":"add","s":"ieee-mam.csv","a":"Chengdu BiiDTE Technology Co.,Ltd Chengdu Sichuan CN 610041","c":"CN","o":"Chengdu BillDTE Technology Co., Ltd"}]);

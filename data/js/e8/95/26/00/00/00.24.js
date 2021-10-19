@@ -1,1 +1,1 @@
-deepmacDetailCallback("e89526000000/24",[{"d":"2021-05-30","t":"add","s":"ieee-oui.csv","a":"East Jinshang Road, Jinxi Town, Kunshan City Jiangsu  CN 215324","c":"CN","o":"Luxshare Precision Industry CO., LTD."}]);
+macDetailCallback("e89526000000/24",[{"d":"2021-05-30","t":"add","s":"ieee-oui.csv","a":"East Jinshang Road, Jinxi Town, Kunshan City Jiangsu  CN 215324","c":"CN","o":"Luxshare Precision Industry CO., LTD."}]);

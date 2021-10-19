@@ -1,1 +1,1 @@
-deepmacDetailCallback("f469d5500000/28",[{"d":"2020-06-05","t":"add","s":"ieee-mam.csv","a":"406, 4th Floor, Quality Control Building, Saipu Science Park, No. 6 Yunfei Road, High-tech Zone hefei anhui CN 230000","c":"CN","o":"Hefei STAROT Technology Co.,Ltd"}]);
+macDetailCallback("f469d5500000/28",[{"d":"2020-06-05","t":"add","s":"ieee-mam.csv","a":"406, 4th Floor, Quality Control Building, Saipu Science Park, No. 6 Yunfei Road, High-tech Zone hefei anhui CN 230000","c":"CN","o":"Hefei STAROT Technology Co.,Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("000d3a000000/24",[{"d":"2003-06-01","t":"add","a":"One Microsoft Way\nRedmond Wa. 98052\n\n","c":"UNITED STATES","o":"Microsoft Corp."},{"d":"2015-08-27","t":"change","a":"One Microsoft Way Redmond Wa. US 98052","c":"US","o":"Microsoft Corp."}]);
+macDetailCallback("000d3a000000/24",[{"d":"2003-06-01","t":"add","a":"One Microsoft Way\nRedmond Wa. 98052\n\n","c":"UNITED STATES","o":"Microsoft Corp."},{"d":"2015-08-27","t":"change","a":"One Microsoft Way Redmond Wa. US 98052","c":"US","o":"Microsoft Corp."}]);

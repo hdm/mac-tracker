@@ -1,1 +1,1 @@
-deepmacDetailCallback("78daa2000000/24",[{"d":"2018-10-20","t":"add","s":"ieee-oui.csv","a":"Room 2708/2710, Building No.9A, Shenzhen Bay Science and Technology Ecological Park，Nanshan  Shenzhen city Guangdong Province CN 518057","c":"CN","o":"Cynosure Technologies Co.,Ltd"}]);
+macDetailCallback("78daa2000000/24",[{"d":"2018-10-20","t":"add","s":"ieee-oui.csv","a":"Room 2708/2710, Building No.9A, Shenzhen Bay Science and Technology Ecological Park，Nanshan  Shenzhen city Guangdong Province CN 518057","c":"CN","o":"Cynosure Technologies Co.,Ltd"}]);

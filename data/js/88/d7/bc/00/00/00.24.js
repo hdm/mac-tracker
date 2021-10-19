@@ -1,1 +1,1 @@
-deepmacDetailCallback("88d7bc000000/24",[{"d":"2012-08-31","t":"add","a":"Poryadkovy pereulok,21\nMoscow  127055\n\n","c":"RUSSIAN FEDERATION","o":"DEP Company"},{"d":"2015-08-27","t":"change","a":"Poryadkovy pereulok,21 Moscow  RU 127055","c":"RU","o":"DEP Company"}]);
+macDetailCallback("88d7bc000000/24",[{"d":"2012-08-31","t":"add","a":"Poryadkovy pereulok,21\nMoscow  127055\n\n","c":"RUSSIAN FEDERATION","o":"DEP Company"},{"d":"2015-08-27","t":"change","a":"Poryadkovy pereulok,21 Moscow  RU 127055","c":"RU","o":"DEP Company"}]);

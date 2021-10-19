@@ -1,1 +1,1 @@
-deepmacDetailCallback("982782a00000/28",[{"d":"2020-12-05","t":"add","s":"ieee-mam.csv","a":"Longyu Middle Street Beijing Beijing CN 100085","c":"CN","o":"Nanjing BianYu Future Home Technology Co.Ltd"}]);
+macDetailCallback("982782a00000/28",[{"d":"2020-12-05","t":"add","s":"ieee-mam.csv","a":"Longyu Middle Street Beijing Beijing CN 100085","c":"CN","o":"Nanjing BianYu Future Home Technology Co.Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("bc6641800000/28",[{"a":"7 Floor,3 building,Guangqian community ,Bagua Load Shenzhen Guangdong CN 518029","o":"Shenzhen Yaguang communication CO.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("bc6641800000/28",[{"a":"7 Floor,3 building,Guangqian community ,Bagua Load Shenzhen Guangdong CN 518029","o":"Shenzhen Yaguang communication CO.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

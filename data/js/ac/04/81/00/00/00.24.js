@@ -1,1 +1,1 @@
-deepmacDetailCallback("ac0481000000/24",[{"d":"2016-03-22","t":"add","a":"the Industrial concentration zone, Zhiqian town,Jintan distric Changzhou City Jiangsu Province CN 213234","c":"CN","o":"Jiangsu Huaxing Electronics Co., Ltd."}]);
+macDetailCallback("ac0481000000/24",[{"d":"2016-03-22","t":"add","a":"the Industrial concentration zone, Zhiqian town,Jintan distric Changzhou City Jiangsu Province CN 213234","c":"CN","o":"Jiangsu Huaxing Electronics Co., Ltd."}]);

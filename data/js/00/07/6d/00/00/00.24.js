@@ -1,1 +1,1 @@
-deepmacDetailCallback("00076d000000/24",[{"d":"2001-10-24","t":"add","a":"15 Atir Yeda St.\nKfar Saba 44643\n\n","c":"ISRAEL","o":"Flexlight Networks"},{"d":"2015-08-27","t":"change","a":"15 Atir Yeda St.   IL","c":"IL","o":"Flexlight Networks"}]);
+macDetailCallback("00076d000000/24",[{"d":"2001-10-24","t":"add","a":"15 Atir Yeda St.\nKfar Saba 44643\n\n","c":"ISRAEL","o":"Flexlight Networks"},{"d":"2015-08-27","t":"change","a":"15 Atir Yeda St.   IL","c":"IL","o":"Flexlight Networks"}]);

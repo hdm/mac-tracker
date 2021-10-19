@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d50c2000/36",[{"a":"4th Floor, No. 551, Guang-Fu South Road Taipei Xinyi District TW 11074","o":"LOOK EASY INTERNATIONAL LIMITED","d":"2017-01-08","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("70b3d50c2000/36",[{"a":"4th Floor, No. 551, Guang-Fu South Road Taipei Xinyi District TW 11074","o":"LOOK EASY INTERNATIONAL LIMITED","d":"2017-01-08","t":"add","s":"ieee","c":"TW"}]);

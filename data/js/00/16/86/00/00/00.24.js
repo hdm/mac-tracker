@@ -1,1 +1,1 @@
-deepmacDetailCallback("001686000000/24",[{"d":"2005-11-24","t":"add","a":"175 Cremona Dr.\nGoleta CA 93117\n\n","c":"UNITED STATES","o":"Karl Storz Imaging"},{"d":"2015-08-27","t":"change","a":"175 Cremona Dr. Goleta CA US 93117","c":"US","o":"Karl Storz Imaging"}]);
+macDetailCallback("001686000000/24",[{"d":"2005-11-24","t":"add","a":"175 Cremona Dr.\nGoleta CA 93117\n\n","c":"UNITED STATES","o":"Karl Storz Imaging"},{"d":"2015-08-27","t":"change","a":"175 Cremona Dr. Goleta CA US 93117","c":"US","o":"Karl Storz Imaging"}]);

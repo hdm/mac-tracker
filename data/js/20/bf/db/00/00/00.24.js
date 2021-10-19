@@ -1,1 +1,1 @@
-deepmacDetailCallback("20bfdb000000/24",[{"d":"2009-10-17","t":"add","a":"21 Gradinilor Str\nChisinau  MD2001\n\n","c":"MOLDOVA, REPUBLIC OF","o":"DVL"},{"d":"2015-08-27","t":"change","a":"21 Gradinilor Str Chisinau  MD MD2001","c":"MD","o":"DVL"}]);
+macDetailCallback("20bfdb000000/24",[{"d":"2009-10-17","t":"add","a":"21 Gradinilor Str\nChisinau  MD2001\n\n","c":"MOLDOVA, REPUBLIC OF","o":"DVL"},{"d":"2015-08-27","t":"change","a":"21 Gradinilor Str Chisinau  MD MD2001","c":"MD","o":"DVL"}]);

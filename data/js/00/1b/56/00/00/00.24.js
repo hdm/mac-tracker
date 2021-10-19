@@ -1,1 +1,1 @@
-deepmacDetailCallback("001b56000000/24",[{"d":"2007-02-09","t":"add","a":"1, Shenkar St.\nHertzliya  46105\n\n","c":"ISRAEL","o":"Tehuti Networks Ltd."},{"d":"2015-08-27","t":"change","a":"1, Shenkar St. Hertzliya  IL 46105","c":"IL","o":"Tehuti Networks Ltd."}]);
+macDetailCallback("001b56000000/24",[{"d":"2007-02-09","t":"add","a":"1, Shenkar St.\nHertzliya  46105\n\n","c":"ISRAEL","o":"Tehuti Networks Ltd."},{"d":"2015-08-27","t":"change","a":"1, Shenkar St. Hertzliya  IL 46105","c":"IL","o":"Tehuti Networks Ltd."}]);

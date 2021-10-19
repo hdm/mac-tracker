@@ -1,1 +1,1 @@
-deepmacDetailCallback("0405dd000000/24",[{"d":"2020-08-02","t":"add","s":"ieee-oui.csv","a":"F6,M6,Maqueling, High-tech park, Nanshan district Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen Cultraview Digital Technology Co., Ltd"}]);
+macDetailCallback("0405dd000000/24",[{"d":"2020-08-02","t":"add","s":"ieee-oui.csv","a":"F6,M6,Maqueling, High-tech park, Nanshan district Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen Cultraview Digital Technology Co., Ltd"}]);

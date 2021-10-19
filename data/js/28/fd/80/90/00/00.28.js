@@ -1,1 +1,1 @@
-deepmacDetailCallback("28fd80900000/28",[{"a":"KangMai Industrial Zone ,B building, F/3, Shenzhen guangdong CN 518110","o":"JINLITONG INTERNATIONAL CO.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("28fd80900000/28",[{"a":"KangMai Industrial Zone ,B building, F/3, Shenzhen guangdong CN 518110","o":"JINLITONG INTERNATIONAL CO.,LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("c0132b000000/24",[{"a":"No.35,East MianXin Road,MianYang,Sichaun,China. MianYang SiChuan CN PRC 621000","o":"Sichuan Changhong Electric Ltd.","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("c0132b000000/24",[{"a":"No.35,East MianXin Road,MianYang,Sichaun,China. MianYang SiChuan CN PRC 621000","o":"Sichuan Changhong Electric Ltd.","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);

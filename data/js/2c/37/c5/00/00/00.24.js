@@ -1,1 +1,1 @@
-deepmacDetailCallback("2c37c5000000/24",[{"d":"2017-09-16","t":"add","a":"ingdao high-tech park haier road 1 Qingdao Shandong CN 266101","c":"CN","o":"Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd"}]);
+macDetailCallback("2c37c5000000/24",[{"d":"2017-09-16","t":"add","a":"ingdao high-tech park haier road 1 Qingdao Shandong CN 266101","c":"CN","o":"Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd"}]);

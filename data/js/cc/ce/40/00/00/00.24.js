@@ -1,1 +1,1 @@
-deepmacDetailCallback("ccce40000000/24",[{"d":"2010-08-11","t":"add","a":"9272 Jeronimo Road\nSuite 124\nIrvine CA 92618\n","c":"UNITED STATES","o":"Janteq Corp"},{"d":"2015-08-27","t":"change","a":"9272 Jeronimo Road Irvine CA US 92618","c":"US","o":"Janteq Corp"}]);
+macDetailCallback("ccce40000000/24",[{"d":"2010-08-11","t":"add","a":"9272 Jeronimo Road\nSuite 124\nIrvine CA 92618\n","c":"UNITED STATES","o":"Janteq Corp"},{"d":"2015-08-27","t":"change","a":"9272 Jeronimo Road Irvine CA US 92618","c":"US","o":"Janteq Corp"}]);

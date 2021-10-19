@@ -1,1 +1,1 @@
-deepmacDetailCallback("003d41000000/24",[{"d":"2009-10-08","t":"add","a":"Aamsosen\nNedre Vats Rogaland 5578\n\n","c":"NORWAY","o":"Hatteland Computer AS"},{"d":"2015-08-27","t":"change","a":"Aamsosen Nedre Vats Rogaland NO 5578","c":"NO","o":"Hatteland Computer AS"}]);
+macDetailCallback("003d41000000/24",[{"d":"2009-10-08","t":"add","a":"Aamsosen\nNedre Vats Rogaland 5578\n\n","c":"NORWAY","o":"Hatteland Computer AS"},{"d":"2015-08-27","t":"change","a":"Aamsosen Nedre Vats Rogaland NO 5578","c":"NO","o":"Hatteland Computer AS"}]);

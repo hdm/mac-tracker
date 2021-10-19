@@ -1,1 +1,1 @@
-deepmacDetailCallback("b0fd0b000000/28",[{"d":"2019-02-16","t":"add","s":"ieee-mam.csv","a":"301-404, Bucheon Technopark, 345, Seokcheon-ro Bucheon-si Gyeonggi-do KR 14501","c":"KR","o":"TAE HYUNG Industrial Electronics Co., Ltd."}]);
+macDetailCallback("b0fd0b000000/28",[{"d":"2019-02-16","t":"add","s":"ieee-mam.csv","a":"301-404, Bucheon Technopark, 345, Seokcheon-ro Bucheon-si Gyeonggi-do KR 14501","c":"KR","o":"TAE HYUNG Industrial Electronics Co., Ltd."}]);

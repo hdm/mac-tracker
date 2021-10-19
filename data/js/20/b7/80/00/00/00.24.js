@@ -1,1 +1,1 @@
-deepmacDetailCallback("20b780000000/24",[{"d":"2018-11-08","t":"add","s":"ieee-oui.csv","a":"Shinkawasaki Mitsui Builing West Tower 19F, 1-1-2 Kashimada Saiwai-ku, Kawasaki-shi Kanagawa JP 212-0058","c":"JP","o":"Toshiba Visual Solutions Corporation Co.,Ltd"}]);
+macDetailCallback("20b780000000/24",[{"d":"2018-11-08","t":"add","s":"ieee-oui.csv","a":"Shinkawasaki Mitsui Builing West Tower 19F, 1-1-2 Kashimada Saiwai-ku, Kawasaki-shi Kanagawa JP 212-0058","c":"JP","o":"Toshiba Visual Solutions Corporation Co.,Ltd"}]);

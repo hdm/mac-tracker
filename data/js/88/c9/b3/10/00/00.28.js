@@ -1,1 +1,1 @@
-deepmacDetailCallback("88c9b3100000/28",[{"d":"2021-02-28","t":"add","s":"ieee-mam.csv","a":"8F; No.10, Aly6, Ln.235, Baociao Rd;  Sindian Dist. New Taipei City TW 23145","c":"TW","o":"Cervoz Technology Co; Ltd."}]);
+macDetailCallback("88c9b3100000/28",[{"d":"2021-02-28","t":"add","s":"ieee-mam.csv","a":"8F; No.10, Aly6, Ln.235, Baociao Rd;  Sindian Dist. New Taipei City TW 23145","c":"TW","o":"Cervoz Technology Co; Ltd."}]);

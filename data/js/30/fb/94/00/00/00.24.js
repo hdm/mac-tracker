@@ -1,1 +1,1 @@
-deepmacDetailCallback("30fb94000000/24",[{"d":"2017-08-08","t":"add","a":"The 17th  Building A Unit,No. 1688 Lianhang Road,Minhang District,Shanghai City Shanghai  CN 201100","c":"CN","o":"Shanghai Fangzhiwei Information Technology CO.,Ltd."}]);
+macDetailCallback("30fb94000000/24",[{"d":"2017-08-08","t":"add","a":"The 17th  Building A Unit,No. 1688 Lianhang Road,Minhang District,Shanghai City Shanghai  CN 201100","c":"CN","o":"Shanghai Fangzhiwei Information Technology CO.,Ltd."}]);

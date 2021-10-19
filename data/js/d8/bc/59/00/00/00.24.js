@@ -1,1 +1,1 @@
-deepmacDetailCallback("d8bc59000000/24",[{"d":"2018-12-28","t":"add","s":"ieee-oui.csv","a":"Room B 503, No.2 Building, Tian’an Digital New Town, Huangge Middle Road, Longgang District Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen DAPU Microelectronics Co., Ltd"}]);
+macDetailCallback("d8bc59000000/24",[{"d":"2018-12-28","t":"add","s":"ieee-oui.csv","a":"Room B 503, No.2 Building, Tian’an Digital New Town, Huangge Middle Road, Longgang District Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen DAPU Microelectronics Co., Ltd"}]);

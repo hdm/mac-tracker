@@ -1,1 +1,1 @@
-deepmacDetailCallback("00050a000000/24",[{"d":"2001-02-02","t":"add","a":"Via Romano AL\n10010 Scarmagno (TO)\n\n","c":"ITALY","o":"ICS Spa"},{"d":"2015-08-27","t":"change","a":"Via Romano AL   IT","c":"IT","o":"ICS Spa"}]);
+macDetailCallback("00050a000000/24",[{"d":"2001-02-02","t":"add","a":"Via Romano AL\n10010 Scarmagno (TO)\n\n","c":"ITALY","o":"ICS Spa"},{"d":"2015-08-27","t":"change","a":"Via Romano AL   IT","c":"IT","o":"ICS Spa"}]);

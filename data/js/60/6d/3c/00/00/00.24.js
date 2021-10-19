@@ -1,1 +1,1 @@
-deepmacDetailCallback("606d3c000000/24",[{"d":"2017-09-19","t":"add","a":"Floor 2, Block A, Sanyo New Industrial Area West Haoyi Community, Shajing Subdistrict Office Bao'an District, Shenzhen, Guangdong CN 523000","c":"CN","o":"Luxshare Precision Industry Company Limited"}]);
+macDetailCallback("606d3c000000/24",[{"d":"2017-09-19","t":"add","a":"Floor 2, Block A, Sanyo New Industrial Area West Haoyi Community, Shajing Subdistrict Office Bao'an District, Shenzhen, Guangdong CN 523000","c":"CN","o":"Luxshare Precision Industry Company Limited"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("4050b5000000/24",[{"d":"2018-01-09","t":"add","a":"Room 1827,Building R&D,EVOC intelligence valley,No 11,Gao xin west road,Guangming New District Shenzhen  CN 518107","c":"CN","o":"Shenzhen New Species Technology Co., Ltd."}]);
+macDetailCallback("4050b5000000/24",[{"d":"2018-01-09","t":"add","a":"Room 1827,Building R&D,EVOC intelligence valley,No 11,Gao xin west road,Guangming New District Shenzhen  CN 518107","c":"CN","o":"Shenzhen New Species Technology Co., Ltd."}]);

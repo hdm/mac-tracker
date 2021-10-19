@@ -1,1 +1,1 @@
-deepmacDetailCallback("8cae49b00000/28",[{"d":"2020-10-21","t":"add","s":"ieee-mam.csv","a":"No. 99, Changli Road, 703, Wuzhong science and technology entrepreneurship Park Suzhou  CN 215168","c":"CN","o":"Suzhou Guowang Electronics Technology Co., Ltd."}]);
+macDetailCallback("8cae49b00000/28",[{"d":"2020-10-21","t":"add","s":"ieee-mam.csv","a":"No. 99, Changli Road, 703, Wuzhong science and technology entrepreneurship Park Suzhou  CN 215168","c":"CN","o":"Suzhou Guowang Electronics Technology Co., Ltd."}]);

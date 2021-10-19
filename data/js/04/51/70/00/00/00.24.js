@@ -1,1 +1,1 @@
-deepmacDetailCallback("045170000000/24",[{"d":"2021-07-22","t":"add","s":"ieee-oui.csv","a":"NO.2 ,5th Xinsheng Street,East Mu He Jing Road, Gangkou Town Zhongshan Guangdong CN 528447","c":"CN","o":"Zhongshan K-mate General Electronics Co.,Ltd"}]);
+macDetailCallback("045170000000/24",[{"d":"2021-07-22","t":"add","s":"ieee-oui.csv","a":"NO.2 ,5th Xinsheng Street,East Mu He Jing Road, Gangkou Town Zhongshan Guangdong CN 528447","c":"CN","o":"Zhongshan K-mate General Electronics Co.,Ltd"}]);

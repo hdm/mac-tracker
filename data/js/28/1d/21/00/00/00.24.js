@@ -1,1 +1,1 @@
-deepmacDetailCallback("281d21000000/24",[{"d":"2021-09-01","t":"add","s":"ieee-oui.csv","a":"UNIT I 1/F MAU LAM COMM BLDG 16-18 MAU LAM ST JORDAN KL HK HONGKONG  HK 999077","c":"HK","o":"IN ONE SMART TECHNOLOGY(H,K,)LIMITED"}]);
+macDetailCallback("281d21000000/24",[{"d":"2021-09-01","t":"add","s":"ieee-oui.csv","a":"UNIT I 1/F MAU LAM COMM BLDG 16-18 MAU LAM ST JORDAN KL HK HONGKONG  HK 999077","c":"HK","o":"IN ONE SMART TECHNOLOGY(H,K,)LIMITED"}]);

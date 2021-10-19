@@ -1,1 +1,1 @@
-deepmacDetailCallback("fc6c31000000/24",[{"d":"2011-05-07","t":"add","a":"Herrenberger Str. 130\nBoeblingen  71034\n\n","c":"GERMANY","o":"LXinstruments GmbH"},{"d":"2015-08-27","t":"change","a":"Herrenberger Str. 130 Boeblingen  DE 71034","c":"DE","o":"LXinstruments GmbH"}]);
+macDetailCallback("fc6c31000000/24",[{"d":"2011-05-07","t":"add","a":"Herrenberger Str. 130\nBoeblingen  71034\n\n","c":"GERMANY","o":"LXinstruments GmbH"},{"d":"2015-08-27","t":"change","a":"Herrenberger Str. 130 Boeblingen  DE 71034","c":"DE","o":"LXinstruments GmbH"}]);

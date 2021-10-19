@@ -1,1 +1,1 @@
-deepmacDetailCallback("000777000000/24",[{"d":"2001-10-24","t":"add","a":"4-4-5 Koishikawa\nBunkyo, Tokyo\n112-0002\n","c":"JAPAN","o":"Motah Ltd."},{"d":"2015-08-27","t":"change","a":"4-4-5 Koishikawa   JP 112-0002","c":"JP","o":"Motah Ltd."}]);
+macDetailCallback("000777000000/24",[{"d":"2001-10-24","t":"add","a":"4-4-5 Koishikawa\nBunkyo, Tokyo\n112-0002\n","c":"JAPAN","o":"Motah Ltd."},{"d":"2015-08-27","t":"change","a":"4-4-5 Koishikawa   JP 112-0002","c":"JP","o":"Motah Ltd."}]);

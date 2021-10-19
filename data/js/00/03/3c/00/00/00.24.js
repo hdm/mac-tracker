@@ -1,1 +1,1 @@
-deepmacDetailCallback("00033c000000/24",[{"d":"2000-09-08","t":"add","a":"2100-19 Tutumi, Kamimine-machi\nMiyaki-gun, Saga-ken\n\n","c":"JAPAN","o":"Daiden Co., Ltd."},{"d":"2015-08-27","t":"change","a":"2100-19 Tutumi, Kamimine-machi   JP","c":"JP","o":"Daiden Co., Ltd."}]);
+macDetailCallback("00033c000000/24",[{"d":"2000-09-08","t":"add","a":"2100-19 Tutumi, Kamimine-machi\nMiyaki-gun, Saga-ken\n\n","c":"JAPAN","o":"Daiden Co., Ltd."},{"d":"2015-08-27","t":"change","a":"2100-19 Tutumi, Kamimine-machi   JP","c":"JP","o":"Daiden Co., Ltd."}]);

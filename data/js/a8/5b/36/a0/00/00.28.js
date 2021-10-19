@@ -1,1 +1,1 @@
-deepmacDetailCallback("a85b36a00000/28",[{"d":"2021-04-25","t":"add","s":"ieee-mam.csv","a":"6/F, Block B, Future Plaza, 6060 Qiaoxiang Rd, Nanshan District Shenzhen Guangdong  CN 518053","c":"CN","o":"TAIDEN INDUSTRIAL CO.,LTD"}]);
+macDetailCallback("a85b36a00000/28",[{"d":"2021-04-25","t":"add","s":"ieee-mam.csv","a":"6/F, Block B, Future Plaza, 6060 Qiaoxiang Rd, Nanshan District Shenzhen Guangdong  CN 518053","c":"CN","o":"TAIDEN INDUSTRIAL CO.,LTD"}]);

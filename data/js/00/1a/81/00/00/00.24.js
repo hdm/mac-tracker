@@ -1,1 +1,1 @@
-deepmacDetailCallback("001a81000000/24",[{"d":"2006-11-29","t":"add","a":"2nd buid., 1B, Zavodskaya st.,\nMoscow  124681\n\n","c":"RUSSIAN FEDERATION","o":"Zelax"},{"d":"2015-08-27","t":"change","a":"2nd buid., 1B, Zavodskaya st., Moscow  RU 124681","c":"RU","o":"Zelax"}]);
+macDetailCallback("001a81000000/24",[{"d":"2006-11-29","t":"add","a":"2nd buid., 1B, Zavodskaya st.,\nMoscow  124681\n\n","c":"RUSSIAN FEDERATION","o":"Zelax"},{"d":"2015-08-27","t":"change","a":"2nd buid., 1B, Zavodskaya st., Moscow  RU 124681","c":"RU","o":"Zelax"}]);

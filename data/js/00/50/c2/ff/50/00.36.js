@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2ff5000/36",[{"a":"Aþkan Mh. Atakent Sk. No:15 Meram Konya  TR 42090","o":"Flexkom Internet Pazarlama Bilipim ve Eoitim Hiz.Inp.Mim.Muh.Oto.Enerji San. Tic. A.p.","d":"2012-09-02","t":"add","s":"ieee","c":"TR"}]);
+macDetailCallback("0050c2ff5000/36",[{"a":"Aþkan Mh. Atakent Sk. No:15 Meram Konya  TR 42090","o":"Flexkom Internet Pazarlama Bilipim ve Eoitim Hiz.Inp.Mim.Muh.Oto.Enerji San. Tic. A.p.","d":"2012-09-02","t":"add","s":"ieee","c":"TR"}]);

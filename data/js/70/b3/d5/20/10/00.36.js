@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5201000/36",[{"d":"2019-11-27","t":"add","s":"ieee-oui36.csv","a":"1208 WorkingBerg Commercial Buildung, 41-47 Marble Road Hong Kong Hong Kong HK 00000","c":"HK","o":"Leontech Limited"}]);
+macDetailCallback("70b3d5201000/36",[{"d":"2019-11-27","t":"add","s":"ieee-oui36.csv","a":"1208 WorkingBerg Commercial Buildung, 41-47 Marble Road Hong Kong Hong Kong HK 00000","c":"HK","o":"Leontech Limited"}]);

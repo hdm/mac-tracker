@@ -1,1 +1,1 @@
-deepmacDetailCallback("90c682600000/28",[{"a":"2ND FLOOR,BUILDING 9,JIANGSU SOFTWARE Nanjing Jiangsu CN 210023","o":"Nanjing Jiexi Technologies Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("90c682600000/28",[{"a":"2ND FLOOR,BUILDING 9,JIANGSU SOFTWARE Nanjing Jiangsu CN 210023","o":"Nanjing Jiexi Technologies Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

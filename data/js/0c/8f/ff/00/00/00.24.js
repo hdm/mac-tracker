@@ -1,1 +1,1 @@
-deepmacDetailCallback("0c8fff000000/24",[{"d":"2017-04-11","t":"add","a":"No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808","c":"CN","o":"HUAWEI TECHNOLOGIES CO.,LTD"}]);
+macDetailCallback("0c8fff000000/24",[{"d":"2017-04-11","t":"add","a":"No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808","c":"CN","o":"HUAWEI TECHNOLOGIES CO.,LTD"}]);

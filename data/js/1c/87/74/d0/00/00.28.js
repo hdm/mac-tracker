@@ -1,1 +1,1 @@
-deepmacDetailCallback("1c8774d00000/28",[{"d":"2015-10-17","t":"add","a":"VIA PONTEBBANA 22\n\n\n","c":"FIUME VENETO  PORDENONE  33080","o":"CLABER SPA"},{"d":"2015-10-31","t":"change","a":"VIA PONTEBBANA 22 FIUME VENETO PORDENONE IT 33080","c":"IT","o":"CLABER SPA"}]);
+macDetailCallback("1c8774d00000/28",[{"d":"2015-10-17","t":"add","a":"VIA PONTEBBANA 22\n\n\n","c":"FIUME VENETO  PORDENONE  33080","o":"CLABER SPA"},{"d":"2015-10-31","t":"change","a":"VIA PONTEBBANA 22 FIUME VENETO PORDENONE IT 33080","c":"IT","o":"CLABER SPA"}]);

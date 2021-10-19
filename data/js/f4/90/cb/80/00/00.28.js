@@ -1,1 +1,1 @@
-deepmacDetailCallback("f490cb800000/28",[{"d":"2020-02-12","t":"add","s":"ieee-mam.csv","a":"502,12rd floor,no.2,Fangheng International Center Beijing, Chaoyang district 100102 Beijing Beijing CN 100102","c":"CN","o":"Beijing Penslink Co., Ltd."}]);
+macDetailCallback("f490cb800000/28",[{"d":"2020-02-12","t":"add","s":"ieee-mam.csv","a":"502,12rd floor,no.2,Fangheng International Center Beijing, Chaoyang district 100102 Beijing Beijing CN 100102","c":"CN","o":"Beijing Penslink Co., Ltd."}]);

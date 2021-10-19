@@ -1,1 +1,1 @@
-deepmacDetailCallback("34d0b8e00000/28",[{"a":"Room 1201,Block A，Building of Fesco，Xidawang Road，Chaoyang district Beijing Beijing CN 100022","o":"Kongqiguanjia (Beijing)Technology co.，ltd","d":"2017-08-06","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("34d0b8e00000/28",[{"a":"Room 1201,Block A，Building of Fesco，Xidawang Road，Chaoyang district Beijing Beijing CN 100022","o":"Kongqiguanjia (Beijing)Technology co.，ltd","d":"2017-08-06","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("28d436000000/24",[{"d":"2017-04-12","t":"add","a":"Dantu district fengjingchengbang  xibanya 503, building 6 Zhenjiang Jiangsu CN 212028","c":"CN","o":"Jiangsu dewosi electric co., LTD"}]);
+macDetailCallback("28d436000000/24",[{"d":"2017-04-12","t":"add","a":"Dantu district fengjingchengbang  xibanya 503, building 6 Zhenjiang Jiangsu CN 212028","c":"CN","o":"Jiangsu dewosi electric co., LTD"}]);

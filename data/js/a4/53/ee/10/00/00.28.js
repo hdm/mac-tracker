@@ -1,1 +1,1 @@
-deepmacDetailCallback("a453ee100000/28",[{"d":"2020-10-22","t":"add","s":"ieee-mam.csv","a":"Room 1519, 15th Floor, Block A, Economic Building, Baoyuan Huafeng Headquarters, No. 288, Xixiang Avenue, Bao'an District Shenzhen Guangdong CN 518100","c":"CN","o":"Stellamore"}]);
+macDetailCallback("a453ee100000/28",[{"d":"2020-10-22","t":"add","s":"ieee-mam.csv","a":"Room 1519, 15th Floor, Block A, Economic Building, Baoyuan Huafeng Headquarters, No. 288, Xixiang Avenue, Bao'an District Shenzhen Guangdong CN 518100","c":"CN","o":"Stellamore"}]);

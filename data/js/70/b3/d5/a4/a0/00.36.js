@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5a4a000/36",[{"a":"28/F, Taikang Financial Tower, 38 North Street of East 3rd Ring, Chaoyang District beijing beijing CN 100033","o":"Beijing Arrow SEED Technology Co,.Ltd.","d":"2016-06-05","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d5a4a000/36",[{"a":"28/F, Taikang Financial Tower, 38 North Street of East 3rd Ring, Chaoyang District beijing beijing CN 100033","o":"Beijing Arrow SEED Technology Co,.Ltd.","d":"2016-06-05","t":"add","s":"ieee","c":"CN"}]);

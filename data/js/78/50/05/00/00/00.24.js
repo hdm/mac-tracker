@@ -1,1 +1,1 @@
-deepmacDetailCallback("785005000000/24",[{"d":"2021-05-23","t":"add","s":"ieee-oui.csv","a":"2F, Building1,No.37 Xiaxintang Xintang village,Fucheng Street,Longhua Distric Shenzhen Guangdong CN 518110","c":"CN","o":"MOKO TECHNOLOGY Ltd"}]);
+macDetailCallback("785005000000/24",[{"d":"2021-05-23","t":"add","s":"ieee-oui.csv","a":"2F, Building1,No.37 Xiaxintang Xintang village,Fucheng Street,Longhua Distric Shenzhen Guangdong CN 518110","c":"CN","o":"MOKO TECHNOLOGY Ltd"}]);

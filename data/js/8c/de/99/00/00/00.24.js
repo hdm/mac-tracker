@@ -1,1 +1,1 @@
-deepmacDetailCallback("8cde99000000/24",[{"d":"2013-10-12","t":"add","a":"2300 Leon-Harmel, suite 220\nQuebec G1N 4L2\n\n","c":"CANADA","o":"Comlab Inc."},{"d":"2015-08-27","t":"change","a":"2300 Leon-Harmel, suite 220 Quebec Quebec CA G1N 4L2","c":"CA","o":"Comlab Inc."}]);
+macDetailCallback("8cde99000000/24",[{"d":"2013-10-12","t":"add","a":"2300 Leon-Harmel, suite 220\nQuebec G1N 4L2\n\n","c":"CANADA","o":"Comlab Inc."},{"d":"2015-08-27","t":"change","a":"2300 Leon-Harmel, suite 220 Quebec Quebec CA G1N 4L2","c":"CA","o":"Comlab Inc."}]);

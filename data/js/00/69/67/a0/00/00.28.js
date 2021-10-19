@@ -1,1 +1,1 @@
-deepmacDetailCallback("006967a00000/28",[{"d":"2019-09-26","t":"add","s":"ieee-mam.csv","a":"NO.339 XINQIAO NORTH ROAD Haiyan Zhejiang CN 314300","c":"CN","o":"Zhejiang Holip Electronic Technology Co.,Ltd"}]);
+macDetailCallback("006967a00000/28",[{"d":"2019-09-26","t":"add","s":"ieee-mam.csv","a":"NO.339 XINQIAO NORTH ROAD Haiyan Zhejiang CN 314300","c":"CN","o":"Zhejiang Holip Electronic Technology Co.,Ltd"}]);

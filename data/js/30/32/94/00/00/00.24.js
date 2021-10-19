@@ -1,1 +1,1 @@
-deepmacDetailCallback("303294000000/24",[{"d":"2012-08-18","t":"add","a":"Muellersbaum 20\nBurscheid NRW 51399\n\n","c":"GERMANY","o":"W-IE-NE-R Plein & Baus GmbH"},{"d":"2015-08-27","t":"change","a":"Muellersbaum 20 Burscheid NRW US 51399","c":"US","o":"W-IE-NE-R Plein & Baus GmbH"}]);
+macDetailCallback("303294000000/24",[{"d":"2012-08-18","t":"add","a":"Muellersbaum 20\nBurscheid NRW 51399\n\n","c":"GERMANY","o":"W-IE-NE-R Plein & Baus GmbH"},{"d":"2015-08-27","t":"change","a":"Muellersbaum 20 Burscheid NRW US 51399","c":"US","o":"W-IE-NE-R Plein & Baus GmbH"}]);

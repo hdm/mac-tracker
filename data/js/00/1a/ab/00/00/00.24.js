@@ -1,1 +1,1 @@
-deepmacDetailCallback("001aab000000/24",[{"d":"2006-12-12","t":"add","a":"via S. Quasimodo 46\nCastel Maggiore Bologna 40013\n\n","c":"ITALY","o":"eWings s.r.l."},{"d":"2015-08-27","t":"change","a":"via S. Quasimodo 46 Castel Maggiore Bologna IT 40013","c":"IT","o":"eWings s.r.l."}]);
+macDetailCallback("001aab000000/24",[{"d":"2006-12-12","t":"add","a":"via S. Quasimodo 46\nCastel Maggiore Bologna 40013\n\n","c":"ITALY","o":"eWings s.r.l."},{"d":"2015-08-27","t":"change","a":"via S. Quasimodo 46 Castel Maggiore Bologna IT 40013","c":"IT","o":"eWings s.r.l."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("148430000000/24",[{"d":"2019-03-07","t":"add","s":"ieee-oui.csv","a":"3F., NO.1, R&D ROAD 2, HSINCHU SCIENCE PARK HSINCHU  TW 30076","c":"TW","o":"MITAC COMPUTING TECHNOLOGY CORPORATION"}]);
+macDetailCallback("148430000000/24",[{"d":"2019-03-07","t":"add","s":"ieee-oui.csv","a":"3F., NO.1, R&D ROAD 2, HSINCHU SCIENCE PARK HSINCHU  TW 30076","c":"TW","o":"MITAC COMPUTING TECHNOLOGY CORPORATION"}]);

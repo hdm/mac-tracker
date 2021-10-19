@@ -1,1 +1,1 @@
-deepmacDetailCallback("fd64ba000000/24",[{"d":"2015-09-01","t":"add","a":"Qinghe Middle street\nBeijing    100085\n\n","c":"CN","o":"Xiaomi Communications Co Ltd"},{"d":"2015-09-02","t":"delete","a":"Qinghe Middle street\nBeijing    100085\n\n","c":"CN","o":"Xiaomi Communications Co Ltd"}]);
+macDetailCallback("fd64ba000000/24",[{"d":"2015-09-01","t":"add","a":"Qinghe Middle street\nBeijing    100085\n\n","c":"CN","o":"Xiaomi Communications Co Ltd"},{"d":"2015-09-02","t":"delete","a":"Qinghe Middle street\nBeijing    100085\n\n","c":"CN","o":"Xiaomi Communications Co Ltd"}]);

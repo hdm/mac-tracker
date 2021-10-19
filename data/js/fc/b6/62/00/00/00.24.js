@@ -1,1 +1,1 @@
-deepmacDetailCallback("fcb662000000/24",[{"d":"2018-12-06","t":"add","s":"ieee-oui.csv","a":"9066 S 300 W Sandy UT US 84070","c":"US","o":"IC Holdings LLC"},{"d":"2020-11-18","t":"change","s":"ieee-oui.csv","a":"1277 Windmill Ln. Midway UT US 84049","c":"US","o":"IC Holdings LLC"}]);
+macDetailCallback("fcb662000000/24",[{"d":"2018-12-06","t":"add","s":"ieee-oui.csv","a":"9066 S 300 W Sandy UT US 84070","c":"US","o":"IC Holdings LLC"},{"d":"2020-11-18","t":"change","s":"ieee-oui.csv","a":"1277 Windmill Ln. Midway UT US 84049","c":"US","o":"IC Holdings LLC"}]);

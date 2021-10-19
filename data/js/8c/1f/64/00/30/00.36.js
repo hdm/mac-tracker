@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f64003000/36",[{"d":"2021-09-10","t":"add","s":"ieee-oui36.csv","a":"#306B, ARATT ROYAL MANOR, SECTOR 2, SOMASUNDARPALAYA MAIN ROAD, HSR LAYOUT BANGALORE Karnataka IN 560102","c":"IN","o":"Brighten Controls LLP"}]);
+macDetailCallback("8c1f64003000/36",[{"d":"2021-09-10","t":"add","s":"ieee-oui36.csv","a":"#306B, ARATT ROYAL MANOR, SECTOR 2, SOMASUNDARPALAYA MAIN ROAD, HSR LAYOUT BANGALORE Karnataka IN 560102","c":"IN","o":"Brighten Controls LLP"}]);

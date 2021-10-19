@@ -1,1 +1,1 @@
-deepmacDetailCallback("88d039000000/24",[{"d":"2017-09-08","t":"add","a":"Section 37, Zhongkai Hi-Tech Development Zone Huizhou Guangdong CN 516006","c":"CN","o":"TCL Technoly Electronics(Huizhou).,Ltd"}]);
+macDetailCallback("88d039000000/24",[{"d":"2017-09-08","t":"add","a":"Section 37, Zhongkai Hi-Tech Development Zone Huizhou Guangdong CN 516006","c":"CN","o":"TCL Technoly Electronics(Huizhou).,Ltd"}]);

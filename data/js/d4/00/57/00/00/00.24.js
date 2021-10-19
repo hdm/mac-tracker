@@ -1,1 +1,1 @@
-deepmacDetailCallback("d40057000000/24",[{"d":"2012-10-02","t":"add","a":"Kabelkamp 2\nHannover  30179\n\n","c":"GERMANY","o":"MC Technologies GmbH"},{"d":"2015-08-27","t":"change","a":"Kabelkamp 2 Hannover Germany DE 30179","c":"DE","o":"MC Technologies GmbH"}]);
+macDetailCallback("d40057000000/24",[{"d":"2012-10-02","t":"add","a":"Kabelkamp 2\nHannover  30179\n\n","c":"GERMANY","o":"MC Technologies GmbH"},{"d":"2015-08-27","t":"change","a":"Kabelkamp 2 Hannover Germany DE 30179","c":"DE","o":"MC Technologies GmbH"}]);

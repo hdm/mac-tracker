@@ -1,1 +1,1 @@
-deepmacDetailCallback("6405e9000000/24",[{"d":"2017-06-22","t":"add","a":"F18, Yousong Business Building, Longhua New District, Shenzhen, China Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen WayOS Technology Crop., Ltd."}]);
+macDetailCallback("6405e9000000/24",[{"d":"2017-06-22","t":"add","a":"F18, Yousong Business Building, Longhua New District, Shenzhen, China Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen WayOS Technology Crop., Ltd."}]);

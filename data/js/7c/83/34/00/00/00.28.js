@@ -1,1 +1,1 @@
-deepmacDetailCallback("7c8334000000/28",[{"d":"2021-07-22","t":"add","s":"ieee-mam.csv","a":"Unit 4 Airside, Boeing Avenue, Waterford Airport Business Park Waterford Munster IE X91RTA4","c":"IE","o":"Thermalimage"}]);
+macDetailCallback("7c8334000000/28",[{"d":"2021-07-22","t":"add","s":"ieee-mam.csv","a":"Unit 4 Airside, Boeing Avenue, Waterford Airport Business Park Waterford Munster IE X91RTA4","c":"IE","o":"Thermalimage"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5dcb000/36",[{"d":"2020-10-18","t":"add","s":"ieee-oui36.csv","a":"402, Ilshin Techno Valley,555, Dalseo-daero Dalseo-gu Daegu  KR 42709","c":"KR","o":"MIJIENETRTECH CO.,LTD"}]);
+macDetailCallback("70b3d5dcb000/36",[{"d":"2020-10-18","t":"add","s":"ieee-oui36.csv","a":"402, Ilshin Techno Valley,555, Dalseo-daero Dalseo-gu Daegu  KR 42709","c":"KR","o":"MIJIENETRTECH CO.,LTD"}]);

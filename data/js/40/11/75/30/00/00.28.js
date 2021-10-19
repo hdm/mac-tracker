@@ -1,1 +1,1 @@
-deepmacDetailCallback("401175300000/28",[{"d":"2019-07-09","t":"add","s":"ieee-mam.csv","a":"Room 306, 3F, No.16, Shangdi 5 Street, Haidian District Beijing Beijing CN 100085","c":"CN","o":"Beijing Hexinruitong Electric Power Technology Co., Ltd."}]);
+macDetailCallback("401175300000/28",[{"d":"2019-07-09","t":"add","s":"ieee-mam.csv","a":"Room 306, 3F, No.16, Shangdi 5 Street, Haidian District Beijing Beijing CN 100085","c":"CN","o":"Beijing Hexinruitong Electric Power Technology Co., Ltd."}]);

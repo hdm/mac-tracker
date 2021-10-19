@@ -1,1 +1,1 @@
-deepmacDetailCallback("50ec50000000/24",[{"d":"2018-12-21","t":"add","s":"ieee-oui.csv","a":"The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085","c":"CN","o":"Beijing Xiaomi Mobile Software Co., Ltd"}]);
+macDetailCallback("50ec50000000/24",[{"d":"2018-12-21","t":"add","s":"ieee-oui.csv","a":"The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085","c":"CN","o":"Beijing Xiaomi Mobile Software Co., Ltd"}]);

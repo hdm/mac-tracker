@@ -1,1 +1,1 @@
-deepmacDetailCallback("a41115000000/24",[{"d":"2017-05-09","t":"add","a":"123, Industrial Layout, Hosur Road, Koramangala, Bangalore Karnataka IN 560095","c":"IN","o":"Robert Bosch Engineering and Business Solutions pvt. Ltd."}]);
+macDetailCallback("a41115000000/24",[{"d":"2017-05-09","t":"add","a":"123, Industrial Layout, Hosur Road, Koramangala, Bangalore Karnataka IN 560095","c":"IN","o":"Robert Bosch Engineering and Business Solutions pvt. Ltd."}]);

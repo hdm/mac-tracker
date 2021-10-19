@@ -1,1 +1,1 @@
-deepmacDetailCallback("60a11e000000/24",[{"d":"2019-07-01","t":"add","s":"ieee-oui.csv","a":"Building A6, Hangyu Building, No 7, Wuhan University Science Park Road, East Lake Development District,Wuhan,China. Wuhan Hubei CN 430000","c":"CN","o":"Wuhan Maxsine Electric Co.,Ltd."}]);
+macDetailCallback("60a11e000000/24",[{"d":"2019-07-01","t":"add","s":"ieee-oui.csv","a":"Building A6, Hangyu Building, No 7, Wuhan University Science Park Road, East Lake Development District,Wuhan,China. Wuhan Hubei CN 430000","c":"CN","o":"Wuhan Maxsine Electric Co.,Ltd."}]);

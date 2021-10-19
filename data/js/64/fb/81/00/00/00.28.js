@@ -1,1 +1,1 @@
-deepmacDetailCallback("64fb81000000/28",[{"a":"Building A, SIM technology Building, N0.633 JinZhong Road, Shanghai / CN 200335","o":"SHANGHAI   SIMCOM   LIMITED","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("64fb81000000/28",[{"a":"Building A, SIM technology Building, N0.633 JinZhong Road, Shanghai / CN 200335","o":"SHANGHAI   SIMCOM   LIMITED","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

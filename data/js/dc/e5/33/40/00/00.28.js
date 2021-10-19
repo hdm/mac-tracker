@@ -1,1 +1,1 @@
-deepmacDetailCallback("dce533400000/28",[{"a":"3/F Building 16,Hongfa industrialPark,Tangtou Shiyan Town shenzhen guangdong CN 518000","o":"shenzhen bangying electronics co,.ltd","d":"2017-11-12","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("dce533400000/28",[{"a":"3/F Building 16,Hongfa industrialPark,Tangtou Shiyan Town shenzhen guangdong CN 518000","o":"shenzhen bangying electronics co,.ltd","d":"2017-11-12","t":"add","s":"ieee","c":"CN"}]);

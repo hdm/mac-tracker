@@ -1,1 +1,1 @@
-deepmacDetailCallback("7ccbe2300000/28",[{"a":"Unit 49, Sandton View Office Park, 1 Conduit Str, Lyme Park Johannesburg Gauteng ZA 2060","o":"Astrum Technologies CC","d":"2016-08-28","t":"add","s":"ieee","c":"ZA"}]);
+macDetailCallback("7ccbe2300000/28",[{"a":"Unit 49, Sandton View Office Park, 1 Conduit Str, Lyme Park Johannesburg Gauteng ZA 2060","o":"Astrum Technologies CC","d":"2016-08-28","t":"add","s":"ieee","c":"ZA"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("6c5c3db00000/28",[{"a":"B103,Shenzhen Institute of Nanjing University,Keyuan Road,Hi-Tech Park,Nanshan District Shenzhen Guangdong CN 518000","o":"Reconova Technologies","d":"2018-08-05","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("6c5c3db00000/28",[{"a":"B103,Shenzhen Institute of Nanjing University,Keyuan Road,Hi-Tech Park,Nanshan District Shenzhen Guangdong CN 518000","o":"Reconova Technologies","d":"2018-08-05","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("5c857e700000/28",[{"d":"2020-05-22","t":"add","s":"ieee-mam.csv","a":"Room 502, Tower A, Fangyuan Building, No. 56, South Zhongguancun Street, Haidian District Beijing Beiijng CN 100044","c":"CN","o":"Beijing HZFD Technology Co., Ltd"}]);
+macDetailCallback("5c857e700000/28",[{"d":"2020-05-22","t":"add","s":"ieee-mam.csv","a":"Room 502, Tower A, Fangyuan Building, No. 56, South Zhongguancun Street, Haidian District Beijing Beiijng CN 100044","c":"CN","o":"Beijing HZFD Technology Co., Ltd"}]);

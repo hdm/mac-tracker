@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c476e200000/28",[{"d":"2020-10-06","t":"add","s":"ieee-mam.csv","a":"NO.39,GuangTai Road HuiNan HI-techindustrial Park.Zhongkai Hi-tech Zone Huizhou  CN 516000","c":"CN","o":"HuiZhou MIKI Communication Equipment Co.,LTD"}]);
+macDetailCallback("8c476e200000/28",[{"d":"2020-10-06","t":"add","s":"ieee-mam.csv","a":"NO.39,GuangTai Road HuiNan HI-techindustrial Park.Zhongkai Hi-tech Zone Huizhou  CN 516000","c":"CN","o":"HuiZhou MIKI Communication Equipment Co.,LTD"}]);

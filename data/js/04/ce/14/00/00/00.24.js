@@ -1,1 +1,1 @@
-deepmacDetailCallback("04ce14000000/24",[{"d":"2012-04-24","t":"add","a":"21 Bareket St.\nNorth Industrial Park\nCaesarea Israel 38900\n","c":"UNITED STATES","o":"Wilocity LTD."},{"d":"2015-08-27","t":"change","a":"21 Bareket St. Caesarea Israel US 38900","c":"US","o":"Wilocity LTD."}]);
+macDetailCallback("04ce14000000/24",[{"d":"2012-04-24","t":"add","a":"21 Bareket St.\nNorth Industrial Park\nCaesarea Israel 38900\n","c":"UNITED STATES","o":"Wilocity LTD."},{"d":"2015-08-27","t":"change","a":"21 Bareket St. Caesarea Israel US 38900","c":"US","o":"Wilocity LTD."}]);

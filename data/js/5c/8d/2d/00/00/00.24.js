@@ -1,1 +1,1 @@
-deepmacDetailCallback("5c8d2d000000/24",[{"d":"2017-06-22","t":"add","a":"Loushanguan Road 523, Jin Hongqiao International Center Building, 1501 Shanghai  CN 200000","c":"CN","o":"Shanghai Wellpay Information Technology Co., Ltd"}]);
+macDetailCallback("5c8d2d000000/24",[{"d":"2017-06-22","t":"add","a":"Loushanguan Road 523, Jin Hongqiao International Center Building, 1501 Shanghai  CN 200000","c":"CN","o":"Shanghai Wellpay Information Technology Co., Ltd"}]);

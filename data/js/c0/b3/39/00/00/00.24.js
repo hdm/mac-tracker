@@ -1,1 +1,1 @@
-deepmacDetailCallback("c0b339000000/24",[{"d":"2012-10-30","t":"add","a":"15 HaPardes St.\nYarkona 45915\n\n","c":"ISRAEL","o":"Comigo Ltd."},{"d":"2015-08-27","t":"change","a":"15 HaPardes St.  Yarkona IL 45915","c":"IL","o":"Comigo Ltd."}]);
+macDetailCallback("c0b339000000/24",[{"d":"2012-10-30","t":"add","a":"15 HaPardes St.\nYarkona 45915\n\n","c":"ISRAEL","o":"Comigo Ltd."},{"d":"2015-08-27","t":"change","a":"15 HaPardes St.  Yarkona IL 45915","c":"IL","o":"Comigo Ltd."}]);

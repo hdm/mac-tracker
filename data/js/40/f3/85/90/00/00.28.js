@@ -1,1 +1,1 @@
-deepmacDetailCallback("40f385900000/28",[{"a":"4th Floor, Yang Tian Bldg., Chuang Ye Er Road & Yang Tian Road, Bao An District Shenzhen Guangdong CN 518101","o":"Fast Precision Technologies Co. Ltd.","d":"2016-11-13","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("40f385900000/28",[{"a":"4th Floor, Yang Tian Bldg., Chuang Ye Er Road & Yang Tian Road, Bao An District Shenzhen Guangdong CN 518101","o":"Fast Precision Technologies Co. Ltd.","d":"2016-11-13","t":"add","s":"ieee","c":"CN"}]);

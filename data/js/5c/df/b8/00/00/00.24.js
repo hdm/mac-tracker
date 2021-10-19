@@ -1,1 +1,1 @@
-deepmacDetailCallback("5cdfb8000000/24",[{"d":"2021-05-18","t":"add","s":"ieee-oui.csv","a":"Factory Flat D24/F-02, Dong Jiao Tou, Houhai Road, Shekou, Nan Shan District Shenzhen Guangdong CN 518067","c":"CN","o":"Shenzhen Unionmemory Information System Limited"}]);
+macDetailCallback("5cdfb8000000/24",[{"d":"2021-05-18","t":"add","s":"ieee-oui.csv","a":"Factory Flat D24/F-02, Dong Jiao Tou, Houhai Road, Shekou, Nan Shan District Shenzhen Guangdong CN 518067","c":"CN","o":"Shenzhen Unionmemory Information System Limited"}]);

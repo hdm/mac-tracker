@@ -1,1 +1,1 @@
-deepmacDetailCallback("0006d5000000/24",[{"d":"2001-10-24","t":"add","a":"8430-D Central Ave.\nNewark CA 94560\n\n","c":"UNITED STATES","o":"Diamond Systems Corp."},{"d":"2015-08-27","t":"change","a":"8430-D Central Ave. Newark CA US 94560","c":"US","o":"Diamond Systems Corp."}]);
+macDetailCallback("0006d5000000/24",[{"d":"2001-10-24","t":"add","a":"8430-D Central Ave.\nNewark CA 94560\n\n","c":"UNITED STATES","o":"Diamond Systems Corp."},{"d":"2015-08-27","t":"change","a":"8430-D Central Ave. Newark CA US 94560","c":"US","o":"Diamond Systems Corp."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("00256f000000/24",[{"d":"2009-03-08","t":"add","a":"Marienlystvej 65\nSkive  7800\n\n","c":"DENMARK","o":"Dantherm Power","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Marienlystvej 65 Skive  DK 7800","c":"DK","o":"Dantherm Power"}]);
+macDetailCallback("00256f000000/24",[{"d":"2009-03-08","t":"add","a":"Marienlystvej 65\nSkive  7800\n\n","c":"DENMARK","o":"Dantherm Power","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Marienlystvej 65 Skive  DK 7800","c":"DK","o":"Dantherm Power"}]);

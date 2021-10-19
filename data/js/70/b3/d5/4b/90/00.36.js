@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d54b9000/36",[{"a":"8/F, Nan Yuan commerical Bldg,Minzhi,Long Hua town,Baoan,district,Shenzhen SHEN ZHEN  GuangDong CN 51813","o":"SHEN ZHEN TTK TECHNOLOGY CO,LTD","d":"2015-09-13","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d54b9000/36",[{"a":"8/F, Nan Yuan commerical Bldg,Minzhi,Long Hua town,Baoan,district,Shenzhen SHEN ZHEN  GuangDong CN 51813","o":"SHEN ZHEN TTK TECHNOLOGY CO,LTD","d":"2015-09-13","t":"add","s":"ieee","c":"CN"}]);

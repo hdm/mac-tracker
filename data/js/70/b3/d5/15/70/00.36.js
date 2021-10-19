@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5157000/36",[{"d":"2020-06-30","t":"add","s":"ieee-oui36.csv","a":"Room511,building D10, Lane 3188, Xiupu road, Pudong New District Shanghai  CN 201315","c":"CN","o":"Shanghai Jupper Technology Co.Ltd"}]);
+macDetailCallback("70b3d5157000/36",[{"d":"2020-06-30","t":"add","s":"ieee-oui36.csv","a":"Room511,building D10, Lane 3188, Xiupu road, Pudong New District Shanghai  CN 201315","c":"CN","o":"Shanghai Jupper Technology Co.Ltd"}]);

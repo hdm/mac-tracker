@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1850000000/24",[{"a":"No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District Hangzhou Hangzhou CN 310000","o":"China Mobile (Hangzhou) Information Technology Co., Ltd.","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("8c1850000000/24",[{"a":"No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District Hangzhou Hangzhou CN 310000","o":"China Mobile (Hangzhou) Information Technology Co., Ltd.","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

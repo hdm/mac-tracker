@@ -1,1 +1,1 @@
-deepmacDetailCallback("248894000000/24",[{"d":"2016-06-30","t":"add","a":"RM 201, Block 19, Zhiheng industry Park, Nantou Check point Shenzhen  Guangdong CN 518000","c":"CN","o":"shenzhen lensun Communication Technology LTD"}]);
+macDetailCallback("248894000000/24",[{"d":"2016-06-30","t":"add","a":"RM 201, Block 19, Zhiheng industry Park, Nantou Check point Shenzhen  Guangdong CN 518000","c":"CN","o":"shenzhen lensun Communication Technology LTD"}]);

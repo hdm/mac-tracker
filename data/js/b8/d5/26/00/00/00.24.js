@@ -1,1 +1,1 @@
-deepmacDetailCallback("b8d526000000/24",[{"d":"2019-01-12","t":"add","s":"ieee-oui.csv","a":"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300","c":"TW","o":"Zyxel Communications Corporation"}]);
+macDetailCallback("b8d526000000/24",[{"d":"2019-01-12","t":"add","s":"ieee-oui.csv","a":"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300","c":"TW","o":"Zyxel Communications Corporation"}]);

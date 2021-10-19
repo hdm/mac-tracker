@@ -1,1 +1,1 @@
-deepmacDetailCallback("2c3f3e000000/24",[{"d":"2010-02-10","t":"add","a":"Rotkreuzstrasse 39\nLustenau  6890\n\n","c":"AUSTRIA","o":"Alge-Timing GmbH"},{"d":"2015-08-27","t":"change","a":"Rotkreuzstrasse 39 Lustenau  AT 6890","c":"AT","o":"Alge-Timing GmbH"}]);
+macDetailCallback("2c3f3e000000/24",[{"d":"2010-02-10","t":"add","a":"Rotkreuzstrasse 39\nLustenau  6890\n\n","c":"AUSTRIA","o":"Alge-Timing GmbH"},{"d":"2015-08-27","t":"change","a":"Rotkreuzstrasse 39 Lustenau  AT 6890","c":"AT","o":"Alge-Timing GmbH"}]);

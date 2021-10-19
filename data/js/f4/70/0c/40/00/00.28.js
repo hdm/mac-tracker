@@ -1,1 +1,1 @@
-deepmacDetailCallback("f4700c400000/28",[{"d":"2021-09-12","t":"add","s":"ieee-mam.csv","a":"1109,11th floor, Tower E, Galaxy world, Minle community, Minzhi, Longhua district Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Anycon Electronics Technology Co.,Ltd"}]);
+macDetailCallback("f4700c400000/28",[{"d":"2021-09-12","t":"add","s":"ieee-mam.csv","a":"1109,11th floor, Tower E, Galaxy world, Minle community, Minzhi, Longhua district Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Anycon Electronics Technology Co.,Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d510d000/36",[{"d":"2020-03-11","t":"add","s":"ieee-oui36.csv","a":"#21, 7th Main, 1st Block ,Koramangala,  Bangalore Karnataka IN 560034","c":"IN","o":"CoreEL Technologies Pvt Ltd"}]);
+macDetailCallback("70b3d510d000/36",[{"d":"2020-03-11","t":"add","s":"ieee-oui36.csv","a":"#21, 7th Main, 1st Block ,Koramangala,  Bangalore Karnataka IN 560034","c":"IN","o":"CoreEL Technologies Pvt Ltd"}]);

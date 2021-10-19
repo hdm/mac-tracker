@@ -1,1 +1,1 @@
-deepmacDetailCallback("fc4b57000000/24",[{"d":"2020-09-11","t":"add","s":"ieee-oui.csv","a":"1966D Broadhollow Road East Farmingdale NY US 11735","c":"US","o":"Peerless Instrument Division of Curtiss-Wright"}]);
+macDetailCallback("fc4b57000000/24",[{"d":"2020-09-11","t":"add","s":"ieee-oui.csv","a":"1966D Broadhollow Road East Farmingdale NY US 11735","c":"US","o":"Peerless Instrument Division of Curtiss-Wright"}]);

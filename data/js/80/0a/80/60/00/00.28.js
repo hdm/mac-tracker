@@ -1,1 +1,1 @@
-deepmacDetailCallback("800a80600000/28",[{"a":"Room 402A,Block E,Wangjing Technology Park,Lize Road Beijing Beijing CN 100102","o":"Beijing Gooagoo Technical Service Co.,Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("800a80600000/28",[{"a":"Room 402A,Block E,Wangjing Technology Park,Lize Road Beijing Beijing CN 100102","o":"Beijing Gooagoo Technical Service Co.,Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

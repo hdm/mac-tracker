@@ -1,1 +1,1 @@
-deepmacDetailCallback("78d4f1600000/28",[{"d":"2020-11-20","t":"add","s":"ieee-mam.csv","a":"No.8, Jinghu Road, Huadu Reg Guangzhou  CN 510800","c":"CN","o":"Guangzhou Kingray information technology Co.,Ltd."}]);
+macDetailCallback("78d4f1600000/28",[{"d":"2020-11-20","t":"add","s":"ieee-mam.csv","a":"No.8, Jinghu Road, Huadu Reg Guangzhou  CN 510800","c":"CN","o":"Guangzhou Kingray information technology Co.,Ltd."}]);

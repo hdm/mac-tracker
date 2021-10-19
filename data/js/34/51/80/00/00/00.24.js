@@ -1,1 +1,1 @@
-deepmacDetailCallback("345180000000/24",[{"d":"2020-01-08","t":"add","s":"ieee-oui.csv","a":"10F, TCL Multimedia Building, TCL International E City, No.1001 Zhongshanyuan Rd., Nanshan District Shenzhen Guangdong CN 518052","c":"CN","o":"TCL King Electrical Appliances (Huizhou) Co., Ltd"}]);
+macDetailCallback("345180000000/24",[{"d":"2020-01-08","t":"add","s":"ieee-oui.csv","a":"10F, TCL Multimedia Building, TCL International E City, No.1001 Zhongshanyuan Rd., Nanshan District Shenzhen Guangdong CN 518052","c":"CN","o":"TCL King Electrical Appliances (Huizhou) Co., Ltd"}]);

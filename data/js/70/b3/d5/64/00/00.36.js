@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5640000/36",[{"a":"146/2, Old China Bazar Street, Kolkata West Bengal IN 700001","o":"Electronic Equipment Company Pvt. Ltd.","d":"2016-02-21","t":"add","s":"ieee","c":"IN"}]);
+macDetailCallback("70b3d5640000/36",[{"a":"146/2, Old China Bazar Street, Kolkata West Bengal IN 700001","o":"Electronic Equipment Company Pvt. Ltd.","d":"2016-02-21","t":"add","s":"ieee","c":"IN"}]);

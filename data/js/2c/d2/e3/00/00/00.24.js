@@ -1,1 +1,1 @@
-deepmacDetailCallback("2cd2e3000000/24",[{"d":"2019-07-04","t":"add","s":"ieee-oui.csv","a":"B1,Huachuang industrial park,Jinshan Avenue,Panyu District Guangzhou Guangdong CN 511450","c":"CN","o":"Guangzhou Aoshi Electronic Co.,Ltd"}]);
+macDetailCallback("2cd2e3000000/24",[{"d":"2019-07-04","t":"add","s":"ieee-oui.csv","a":"B1,Huachuang industrial park,Jinshan Avenue,Panyu District Guangzhou Guangdong CN 511450","c":"CN","o":"Guangzhou Aoshi Electronic Co.,Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5330000/36",[{"d":"2018-12-13","t":"add","s":"ieee-oui36.csv","a":"8F-2, #75, sec 1, Hsin Tai Wu Rd., Hsi Chih District New Taipei City, Taiwan  TW 22101","c":"TW","o":"iOne"}]);
+macDetailCallback("70b3d5330000/36",[{"d":"2018-12-13","t":"add","s":"ieee-oui36.csv","a":"8F-2, #75, sec 1, Hsin Tai Wu Rd., Hsi Chih District New Taipei City, Taiwan  TW 22101","c":"TW","o":"iOne"}]);

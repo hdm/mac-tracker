@@ -1,1 +1,1 @@
-deepmacDetailCallback("3c24f0a00000/28",[{"a":"2nd Floor, Building 9, Jingxuan Industrial Park, East Ring Road, Longhua District, Shenzhen GuangDong CN 518109","o":"Shenzhen Bestway Technology Co., Ltd","d":"2018-01-21","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("3c24f0a00000/28",[{"a":"2nd Floor, Building 9, Jingxuan Industrial Park, East Ring Road, Longhua District, Shenzhen GuangDong CN 518109","o":"Shenzhen Bestway Technology Co., Ltd","d":"2018-01-21","t":"add","s":"ieee","c":"CN"}]);

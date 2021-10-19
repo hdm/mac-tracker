@@ -1,1 +1,1 @@
-deepmacDetailCallback("000f01000000/24",[{"d":"2003-12-21","t":"add","a":"14 MARSHALL LANE\nWESTON CT 06883\n\n","c":"UNITED STATES","o":"DIGITALKS INC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"14 MARSHALL LANE WESTON CT US 06883","c":"US","o":"DIGITALKS INC"}]);
+macDetailCallback("000f01000000/24",[{"d":"2003-12-21","t":"add","a":"14 MARSHALL LANE\nWESTON CT 06883\n\n","c":"UNITED STATES","o":"DIGITALKS INC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"14 MARSHALL LANE WESTON CT US 06883","c":"US","o":"DIGITALKS INC"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("a44f29500000/28",[{"a":"15/F,No.3003,Baoyang Road, Baoshan District,  Shanghai CN 201901","o":"Shanghai KuanYu Industrial Network Equipment Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("a44f29500000/28",[{"a":"15/F,No.3003,Baoyang Road, Baoshan District,  Shanghai CN 201901","o":"Shanghai KuanYu Industrial Network Equipment Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

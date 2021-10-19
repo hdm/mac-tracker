@@ -1,1 +1,1 @@
-deepmacDetailCallback("0007ac000000/24",[{"d":"2001-10-24","t":"add","a":"10 Rue Alfred Kastler\n14000 Caen\n\n","c":"FRANCE","o":"Eolring"},{"d":"2015-08-27","t":"change","a":"10 Rue Alfred Kastler   FR","c":"FR","o":"Eolring"}]);
+macDetailCallback("0007ac000000/24",[{"d":"2001-10-24","t":"add","a":"10 Rue Alfred Kastler\n14000 Caen\n\n","c":"FRANCE","o":"Eolring"},{"d":"2015-08-27","t":"change","a":"10 Rue Alfred Kastler   FR","c":"FR","o":"Eolring"}]);

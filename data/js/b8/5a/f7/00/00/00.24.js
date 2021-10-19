@@ -1,1 +1,1 @@
-deepmacDetailCallback("b85af7000000/24",[{"d":"2012-11-17","t":"add","a":"11693 San Vicente Blvd\nSuite 551\nLos Angeles CA 90049\n","c":"UNITED STATES","o":"Ouya, Inc"},{"d":"2015-08-27","t":"change","a":"11693 San Vicente Blvd Los Angeles CA US 90049","c":"US","o":"Ouya, Inc"}]);
+macDetailCallback("b85af7000000/24",[{"d":"2012-11-17","t":"add","a":"11693 San Vicente Blvd\nSuite 551\nLos Angeles CA 90049\n","c":"UNITED STATES","o":"Ouya, Inc"},{"d":"2015-08-27","t":"change","a":"11693 San Vicente Blvd Los Angeles CA US 90049","c":"US","o":"Ouya, Inc"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("9c431e300000/28",[{"a":"Route de Niederpallen, 30H Redange-sur-Attert Luxembourg LU 8506","o":"Advanced Logic Technology (ALT) sa","d":"2017-10-22","t":"add","s":"ieee","c":"LU"}]);
+macDetailCallback("9c431e300000/28",[{"a":"Route de Niederpallen, 30H Redange-sur-Attert Luxembourg LU 8506","o":"Advanced Logic Technology (ALT) sa","d":"2017-10-22","t":"add","s":"ieee","c":"LU"}]);

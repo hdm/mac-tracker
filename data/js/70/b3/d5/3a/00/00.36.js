@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d53a0000/36",[{"a":"23F, No.69, Sec. 2, Guangfu Rd., Sanchong Dist., New Taipei City 241, Taiwan (R.O.C.) New Taipei Taiwan TW 241","o":"chiconypower","d":"2018-09-07","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("70b3d53a0000/36",[{"a":"23F, No.69, Sec. 2, Guangfu Rd., Sanchong Dist., New Taipei City 241, Taiwan (R.O.C.) New Taipei Taiwan TW 241","o":"chiconypower","d":"2018-09-07","t":"add","s":"ieee","c":"TW"}]);

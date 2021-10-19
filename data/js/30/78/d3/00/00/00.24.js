@@ -1,1 +1,1 @@
-deepmacDetailCallback("3078d3000000/24",[{"d":"2021-01-15","t":"add","s":"ieee-oui.csv","a":"2F., No.3, Aly. 19, Lane 8, Tianmu E. Rd.,Shilin Dist.,  Taipei City Taiwan TW 11153","c":"TW","o":"Virgilant Technologies Ltd."}]);
+macDetailCallback("3078d3000000/24",[{"d":"2021-01-15","t":"add","s":"ieee-oui.csv","a":"2F., No.3, Aly. 19, Lane 8, Tianmu E. Rd.,Shilin Dist.,  Taipei City Taiwan TW 11153","c":"TW","o":"Virgilant Technologies Ltd."}]);

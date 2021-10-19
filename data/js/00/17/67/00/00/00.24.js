@@ -1,1 +1,1 @@
-deepmacDetailCallback("001767000000/24",[{"d":"2006-03-06","t":"add","a":"P.O.Box 4\nBryne  4349\n\n","c":"NORWAY","o":"Earforce AS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O.Box 4 Bryne  NO 4349","c":"NO","o":"Earforce AS"}]);
+macDetailCallback("001767000000/24",[{"d":"2006-03-06","t":"add","a":"P.O.Box 4\nBryne  4349\n\n","c":"NORWAY","o":"Earforce AS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O.Box 4 Bryne  NO 4349","c":"NO","o":"Earforce AS"}]);

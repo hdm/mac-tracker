@@ -1,1 +1,1 @@
-deepmacDetailCallback("a01842000000/24",[{"d":"2021-04-30","t":"add","s":"ieee-oui.csv","a":"3F-1, 10 Lane 609, Chongxin Road, Section 5,  New Taipei City, Taiwan TW 24159","c":"TW","o":"Comtrend Corporation"}]);
+macDetailCallback("a01842000000/24",[{"d":"2021-04-30","t":"add","s":"ieee-oui.csv","a":"3F-1, 10 Lane 609, Chongxin Road, Section 5,  New Taipei City, Taiwan TW 24159","c":"TW","o":"Comtrend Corporation"}]);

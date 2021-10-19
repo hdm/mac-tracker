@@ -1,1 +1,1 @@
-deepmacDetailCallback("607072000000/24",[{"d":"2020-09-01","t":"add","s":"ieee-oui.csv","a":"Fu Qian Road, Longhua district ShenZhen GuangDong province  CN 518000","c":"CN","o":"SHENZHEN HONGDE SMART LINK TECHNOLOGY CO., LTD"}]);
+macDetailCallback("607072000000/24",[{"d":"2020-09-01","t":"add","s":"ieee-oui.csv","a":"Fu Qian Road, Longhua district ShenZhen GuangDong province  CN 518000","c":"CN","o":"SHENZHEN HONGDE SMART LINK TECHNOLOGY CO., LTD"}]);

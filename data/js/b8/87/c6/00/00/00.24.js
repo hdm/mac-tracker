@@ -1,1 +1,1 @@
-deepmacDetailCallback("b887c6000000/24",[{"d":"2019-08-14","t":"add","s":"ieee-oui.csv","a":"UNIT 4,7/F BRIGHT WAY TOWER, NO33 MONG KOK RD,  Hong Kong  CN 999077","c":"CN","o":"Prudential Technology co.,LTD"}]);
+macDetailCallback("b887c6000000/24",[{"d":"2019-08-14","t":"add","s":"ieee-oui.csv","a":"UNIT 4,7/F BRIGHT WAY TOWER, NO33 MONG KOK RD,  Hong Kong  CN 999077","c":"CN","o":"Prudential Technology co.,LTD"}]);

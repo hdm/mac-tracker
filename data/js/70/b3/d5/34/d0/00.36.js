@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d534d000/36",[{"d":"2019-04-19","t":"add","s":"ieee-oui36.csv","a":"Akihabara Daibiru 7F, 1-18-13 Sotokanda Chiyoda-ku Tokyo JP 101-0021","c":"JP","o":"Equos Research Co., Ltd"}]);
+macDetailCallback("70b3d534d000/36",[{"d":"2019-04-19","t":"add","s":"ieee-oui36.csv","a":"Akihabara Daibiru 7F, 1-18-13 Sotokanda Chiyoda-ku Tokyo JP 101-0021","c":"JP","o":"Equos Research Co., Ltd"}]);

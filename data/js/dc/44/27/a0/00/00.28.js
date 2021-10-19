@@ -1,1 +1,1 @@
-deepmacDetailCallback("dc4427a00000/28",[{"a":"No.39,Lane572,Bi Bo Road,Zhangjiang High-Tech Park,Shanghai Shanghai Shanghai CN 201203","o":"Shanghai Huahong Integrated Circuit Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("dc4427a00000/28",[{"a":"No.39,Lane572,Bi Bo Road,Zhangjiang High-Tech Park,Shanghai Shanghai Shanghai CN 201203","o":"Shanghai Huahong Integrated Circuit Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

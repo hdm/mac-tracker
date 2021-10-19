@@ -1,1 +1,1 @@
-deepmacDetailCallback("6433b5500000/28",[{"d":"2021-06-05","t":"add","s":"ieee-mam.csv","a":"RM 1902 EASEY COMM BLDG 253-261 HENNESSY ROAD WANCHAI  HK Hong Kong  CN 999077","c":"CN","o":"Revo Smart Technologies co.,limited"}]);
+macDetailCallback("6433b5500000/28",[{"d":"2021-06-05","t":"add","s":"ieee-mam.csv","a":"RM 1902 EASEY COMM BLDG 253-261 HENNESSY ROAD WANCHAI  HK Hong Kong  CN 999077","c":"CN","o":"Revo Smart Technologies co.,limited"}]);

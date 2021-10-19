@@ -1,1 +1,1 @@
-deepmacDetailCallback("34e1d1700000/28",[{"d":"2019-01-11","t":"add","s":"ieee-mam.csv","a":"Floor 13,  Building B, NO. 859 West Shixiang Road, Xihu District, Hangzhou City Hangzhou  CN 310012","c":"CN","o":"Genius Pros"}]);
+macDetailCallback("34e1d1700000/28",[{"d":"2019-01-11","t":"add","s":"ieee-mam.csv","a":"Floor 13,  Building B, NO. 859 West Shixiang Road, Xihu District, Hangzhou City Hangzhou  CN 310012","c":"CN","o":"Genius Pros"}]);

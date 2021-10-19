@@ -1,1 +1,1 @@
-deepmacDetailCallback("001f13000000/24",[{"d":"2007-12-31","t":"add","a":"Boutros Bldg. 1st bsmt\nGhabi Street\nBeirut  2067 7808\n","c":"LEBANON","o":"S.& A.S. Ltd."},{"d":"2015-08-27","t":"change","a":"Boutros Bldg. 1st bsmt Beirut  LB 2067 7808","c":"LB","o":"S.& A.S. Ltd."}]);
+macDetailCallback("001f13000000/24",[{"d":"2007-12-31","t":"add","a":"Boutros Bldg. 1st bsmt\nGhabi Street\nBeirut  2067 7808\n","c":"LEBANON","o":"S.& A.S. Ltd."},{"d":"2015-08-27","t":"change","a":"Boutros Bldg. 1st bsmt Beirut  LB 2067 7808","c":"LB","o":"S.& A.S. Ltd."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("1842d4000000/24",[{"d":"2021-01-22","t":"add","s":"ieee-oui.csv","a":"Fourth Floor,Building N,Quannengtong Shuangchuang Yuan,Gold-silver Lake Street,East West Lake District, Wuhan Hubei CN 430043","c":"CN","o":"Wuhan Hosan Telecommunication Technology Co.,Ltd"}]);
+macDetailCallback("1842d4000000/24",[{"d":"2021-01-22","t":"add","s":"ieee-oui.csv","a":"Fourth Floor,Building N,Quannengtong Shuangchuang Yuan,Gold-silver Lake Street,East West Lake District, Wuhan Hubei CN 430043","c":"CN","o":"Wuhan Hosan Telecommunication Technology Co.,Ltd"}]);

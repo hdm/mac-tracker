@@ -1,1 +1,1 @@
-deepmacDetailCallback("1cfd08d00000/28",[{"a":"No.15 HaitaiFazhanErlu Road, Binhai Hi-tech Industrial Huayuan Development Area(Outer Ring) Tianjin Tianjin CN 300392","o":"Tianjin Keyvia Electric Co.,Ltd","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("1cfd08d00000/28",[{"a":"No.15 HaitaiFazhanErlu Road, Binhai Hi-tech Industrial Huayuan Development Area(Outer Ring) Tianjin Tianjin CN 300392","o":"Tianjin Keyvia Electric Co.,Ltd","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);

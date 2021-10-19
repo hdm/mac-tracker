@@ -1,1 +1,1 @@
-deepmacDetailCallback("002453000000/24",[{"d":"2008-11-16","t":"add","a":"Slomskova 33\nLjubljana  1000\n\n","c":"SLOVENIA","o":"Initra d.o.o.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Slomskova 33 Ljubljana  SI 1000","c":"SI","o":"Initra d.o.o."}]);
+macDetailCallback("002453000000/24",[{"d":"2008-11-16","t":"add","a":"Slomskova 33\nLjubljana  1000\n\n","c":"SLOVENIA","o":"Initra d.o.o.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Slomskova 33 Ljubljana  SI 1000","c":"SI","o":"Initra d.o.o."}]);

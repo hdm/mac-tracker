@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5de4000/36",[{"a":"Serifali Mah. Kutup Sk. No: 27/1-2-4 Istanbul Umraniye TR 34775","o":"MAVILI ELEKTRONIK TIC. VE SAN. A.S.","d":"2016-03-20","t":"add","s":"ieee","c":"TR"}]);
+macDetailCallback("70b3d5de4000/36",[{"a":"Serifali Mah. Kutup Sk. No: 27/1-2-4 Istanbul Umraniye TR 34775","o":"MAVILI ELEKTRONIK TIC. VE SAN. A.S.","d":"2016-03-20","t":"add","s":"ieee","c":"TR"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("00507d000000/24",[{"d":"2000-09-08","t":"add","a":"LESSINGSTR. 4\nD-78315 RADOLFZELL\n\n","c":"GERMANY","o":"IFP"},{"d":"2015-08-27","t":"change","a":"LESSINGSTR. 4 D-78315 RADOLFZELL  DE","c":"DE","o":"IFP"}]);
+macDetailCallback("00507d000000/24",[{"d":"2000-09-08","t":"add","a":"LESSINGSTR. 4\nD-78315 RADOLFZELL\n\n","c":"GERMANY","o":"IFP"},{"d":"2015-08-27","t":"change","a":"LESSINGSTR. 4 D-78315 RADOLFZELL  DE","c":"DE","o":"IFP"}]);

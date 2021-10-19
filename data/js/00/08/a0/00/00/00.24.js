@@ -1,1 +1,1 @@
-deepmacDetailCallback("0008a0000000/24",[{"d":"2001-12-14","t":"add","a":"Hermann-Dreher Str. 6\nGerlingen  70839\n\n","c":"GERMANY","o":"Stotz Feinmesstechnik GmbH"},{"d":"2015-08-27","t":"change","a":"Hermann-Dreher Str. 6 Gerlingen  DE 70839","c":"DE","o":"Stotz Feinmesstechnik GmbH"}]);
+macDetailCallback("0008a0000000/24",[{"d":"2001-12-14","t":"add","a":"Hermann-Dreher Str. 6\nGerlingen  70839\n\n","c":"GERMANY","o":"Stotz Feinmesstechnik GmbH"},{"d":"2015-08-27","t":"change","a":"Hermann-Dreher Str. 6 Gerlingen  DE 70839","c":"DE","o":"Stotz Feinmesstechnik GmbH"}]);

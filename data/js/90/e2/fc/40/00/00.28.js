@@ -1,1 +1,1 @@
-deepmacDetailCallback("90e2fc400000/28",[{"d":"2019-12-03","t":"add","s":"ieee-mam.csv","a":"No 9,Yincheng 1st Road, Xiabian Village, Chang’an Town Dongguan GuangDong CN 523877","c":"CN","o":"Dongguan Kangyong electronics technology Co. Ltd"}]);
+macDetailCallback("90e2fc400000/28",[{"d":"2019-12-03","t":"add","s":"ieee-mam.csv","a":"No 9,Yincheng 1st Road, Xiabian Village, Chang’an Town Dongguan GuangDong CN 523877","c":"CN","o":"Dongguan Kangyong electronics technology Co. Ltd"}]);

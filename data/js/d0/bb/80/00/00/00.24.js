@@ -1,1 +1,1 @@
-deepmacDetailCallback("d0bb80000000/24",[{"d":"2010-07-22","t":"add","a":"90 Yigal Alon\nTel Aviv  67891\n\n","c":"ISRAEL","o":"SHL Telemedicine International Ltd."},{"d":"2015-08-27","t":"change","a":"90 Yigal Alon Tel Aviv  IL 67891","c":"IL","o":"SHL Telemedicine International Ltd."}]);
+macDetailCallback("d0bb80000000/24",[{"d":"2010-07-22","t":"add","a":"90 Yigal Alon\nTel Aviv  67891\n\n","c":"ISRAEL","o":"SHL Telemedicine International Ltd."},{"d":"2015-08-27","t":"change","a":"90 Yigal Alon Tel Aviv  IL 67891","c":"IL","o":"SHL Telemedicine International Ltd."}]);

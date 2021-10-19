@@ -1,1 +1,1 @@
-deepmacDetailCallback("7086ce000000/24",[{"d":"2021-04-14","t":"add","s":"ieee-oui.csv","a":"Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311","c":"CN","o":"GD Midea Air-Conditioning Equipment Co.,Ltd."}]);
+macDetailCallback("7086ce000000/24",[{"d":"2021-04-14","t":"add","s":"ieee-oui.csv","a":"Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311","c":"CN","o":"GD Midea Air-Conditioning Equipment Co.,Ltd."}]);

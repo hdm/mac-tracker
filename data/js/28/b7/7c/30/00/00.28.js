@@ -1,1 +1,1 @@
-deepmacDetailCallback("28b77c300000/28",[{"d":"2020-06-18","t":"add","s":"ieee-mam.csv","a":"Room Q-101? Floor 2?Q Area, Anningzhuang Back Street?Haidian District Beijing  CN 100096","c":"CN","o":"Beijing Kitten&Puppy Technology Co.,Ltd."}]);
+macDetailCallback("28b77c300000/28",[{"d":"2020-06-18","t":"add","s":"ieee-mam.csv","a":"Room Q-101? Floor 2?Q Area, Anningzhuang Back Street?Haidian District Beijing  CN 100096","c":"CN","o":"Beijing Kitten&Puppy Technology Co.,Ltd."}]);

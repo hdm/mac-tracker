@@ -1,1 +1,1 @@
-deepmacDetailCallback("9a1b22000000/24",[{"a":"12th Floor,   No.1038 International Entrepreneurship Center Hangzhou Zhejiang CN 311202","o":"InfoCore Co.,Ltd.","d":"2017-05-28","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("9a1b22000000/24",[{"a":"12th Floor,   No.1038 International Entrepreneurship Center Hangzhou Zhejiang CN 311202","o":"InfoCore Co.,Ltd.","d":"2017-05-28","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("6095ce100000/28",[{"d":"2019-03-13","t":"add","s":"ieee-mam.csv","a":"Higashi-shinagawa 1-33-10, Terrada Art Complex 216 Shinagawa-ku Tokyo JP 1400002","c":"JP","o":"Ponoor Experiments Inc."}]);
+macDetailCallback("6095ce100000/28",[{"d":"2019-03-13","t":"add","s":"ieee-mam.csv","a":"Higashi-shinagawa 1-33-10, Terrada Art Complex 216 Shinagawa-ku Tokyo JP 1400002","c":"JP","o":"Ponoor Experiments Inc."}]);

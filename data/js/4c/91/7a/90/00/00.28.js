@@ -1,1 +1,1 @@
-deepmacDetailCallback("4c917a900000/28",[{"a":"Room A301, no.11, xiyuan eighth road, xihu district Hangzhou Zhejiang CN 310000","o":"Hangzhou Hangtu Technology Co.,Ltd.","d":"2018-09-23","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("4c917a900000/28",[{"a":"Room A301, no.11, xiyuan eighth road, xihu district Hangzhou Zhejiang CN 310000","o":"Hangzhou Hangtu Technology Co.,Ltd.","d":"2018-09-23","t":"add","s":"ieee","c":"CN"}]);

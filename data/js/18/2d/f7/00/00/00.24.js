@@ -1,1 +1,1 @@
-deepmacDetailCallback("182df7000000/24",[{"d":"2021-07-14","t":"add","s":"ieee-oui.csv","a":"A-1811 Ho, SamboTechno Tower,122, Jomaru-ro 385 Beon-gil, Buchenon-si Gyenggi-do KR 14556","c":"KR","o":"JY COMPANY"}]);
+macDetailCallback("182df7000000/24",[{"d":"2021-07-14","t":"add","s":"ieee-oui.csv","a":"A-1811 Ho, SamboTechno Tower,122, Jomaru-ro 385 Beon-gil, Buchenon-si Gyenggi-do KR 14556","c":"KR","o":"JY COMPANY"}]);

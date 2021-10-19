@@ -1,1 +1,1 @@
-deepmacDetailCallback("0018cf000000/24",[{"d":"2006-07-01","t":"add","a":"600 S. Zero St.\nFort Smith AR 72901\n\n","c":"UNITED STATES","o":"Baldor Electric Company"},{"d":"2015-08-27","t":"change","a":"600 S. Zero St. Fort Smith AR US 72901","c":"US","o":"Baldor Electric Company"}]);
+macDetailCallback("0018cf000000/24",[{"d":"2006-07-01","t":"add","a":"600 S. Zero St.\nFort Smith AR 72901\n\n","c":"UNITED STATES","o":"Baldor Electric Company"},{"d":"2015-08-27","t":"change","a":"600 S. Zero St. Fort Smith AR US 72901","c":"US","o":"Baldor Electric Company"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("649ff7000000/24",[{"d":"2012-05-01","t":"add","a":"Myllykatu 3\nHyvinkaa Hyvinkaa 05830\n\n","c":"FINLAND","o":"Kone OYj"},{"d":"2015-08-27","t":"change","a":"Myllykatu 3 Hyvinkaa Hyvinkaa FI 05830","c":"FI","o":"Kone OYj"}]);
+macDetailCallback("649ff7000000/24",[{"d":"2012-05-01","t":"add","a":"Myllykatu 3\nHyvinkaa Hyvinkaa 05830\n\n","c":"FINLAND","o":"Kone OYj"},{"d":"2015-08-27","t":"change","a":"Myllykatu 3 Hyvinkaa Hyvinkaa FI 05830","c":"FI","o":"Kone OYj"}]);

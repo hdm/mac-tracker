@@ -1,1 +1,1 @@
-deepmacDetailCallback("504c7e000000/24",[{"d":"2018-03-16","t":"add","a":"No.98 Xiangjiang Road,Huangdao District,Qingdao,Shandong Qingdao Shangdong CN 266555","c":"CN","o":"THE 41ST INSTITUTE OF CETC"}]);
+macDetailCallback("504c7e000000/24",[{"d":"2018-03-16","t":"add","a":"No.98 Xiangjiang Road,Huangdao District,Qingdao,Shandong Qingdao Shangdong CN 266555","c":"CN","o":"THE 41ST INSTITUTE OF CETC"}]);

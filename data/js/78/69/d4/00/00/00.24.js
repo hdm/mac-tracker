@@ -1,1 +1,1 @@
-deepmacDetailCallback("7869d4000000/24",[{"d":"2019-05-24","t":"add","s":"ieee-oui.csv","a":"No 23-2 Yunfeng St. Tiexi Dist.  Shenyang  Liaoning CN 110021","c":"CN","o":"Shenyang Vibrotech Instruments Inc."}]);
+macDetailCallback("7869d4000000/24",[{"d":"2019-05-24","t":"add","s":"ieee-oui.csv","a":"No 23-2 Yunfeng St. Tiexi Dist.  Shenyang  Liaoning CN 110021","c":"CN","o":"Shenyang Vibrotech Instruments Inc."}]);

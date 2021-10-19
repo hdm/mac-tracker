@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d56c9000/36",[{"d":"2020-03-22","t":"add","s":"ieee-oui36.csv","a":"Floor 2,Block B,Fu Xing Office Building,He Tao Yuan NO.30,Guan Dong Dian Bei Jie,Chao Yang District Beijing  CN 100020","c":"CN","o":"Redstone Sunshine(Beijing)Technology Co.,Ltd."}]);
+macDetailCallback("70b3d56c9000/36",[{"d":"2020-03-22","t":"add","s":"ieee-oui36.csv","a":"Floor 2,Block B,Fu Xing Office Building,He Tao Yuan NO.30,Guan Dong Dian Bei Jie,Chao Yang District Beijing  CN 100020","c":"CN","o":"Redstone Sunshine(Beijing)Technology Co.,Ltd."}]);

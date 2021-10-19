@@ -1,1 +1,1 @@
-deepmacDetailCallback("245dfc100000/28",[{"d":"2021-01-01","t":"add","s":"ieee-mam.csv","a":"Bechtle Platz 1 Neckarsulm Baden-Württemberg DE 74172","c":"DE","o":"ARTICONA - Bechtle Logistik & Service GmbH"}]);
+macDetailCallback("245dfc100000/28",[{"d":"2021-01-01","t":"add","s":"ieee-mam.csv","a":"Bechtle Platz 1 Neckarsulm Baden-Württemberg DE 74172","c":"DE","o":"ARTICONA - Bechtle Logistik & Service GmbH"}]);

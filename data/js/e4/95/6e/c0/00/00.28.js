@@ -1,1 +1,1 @@
-deepmacDetailCallback("e4956ec00000/28",[{"a":"4F, Block 1, No 17-2, Pingxi South Rd Shenzhen Guangdong CN 518117","o":"Shenzhen Arronna Telecom Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("e4956ec00000/28",[{"a":"4F, Block 1, No 17-2, Pingxi South Rd Shenzhen Guangdong CN 518117","o":"Shenzhen Arronna Telecom Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("001224000000/24",[{"d":"2004-08-19","t":"add","a":"12250 Inwood Road #6\nDallas TX 75244\n\n","c":"UNITED STATES","o":"NexQL Corporation"},{"d":"2015-08-27","t":"change","a":"12250 Inwood Road #6 Dallas TX US 75244","c":"US","o":"NexQL Corporation"}]);
+macDetailCallback("001224000000/24",[{"d":"2004-08-19","t":"add","a":"12250 Inwood Road #6\nDallas TX 75244\n\n","c":"UNITED STATES","o":"NexQL Corporation"},{"d":"2015-08-27","t":"change","a":"12250 Inwood Road #6 Dallas TX US 75244","c":"US","o":"NexQL Corporation"}]);

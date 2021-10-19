@@ -1,1 +1,1 @@
-deepmacDetailCallback("102fa3000000/24",[{"d":"2019-07-10","t":"add","s":"ieee-oui.csv","a":"shenzhen longhua Street shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen Uvision-tech Technology Co.Ltd"}]);
+macDetailCallback("102fa3000000/24",[{"d":"2019-07-10","t":"add","s":"ieee-oui.csv","a":"shenzhen longhua Street shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen Uvision-tech Technology Co.Ltd"}]);

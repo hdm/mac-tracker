@@ -1,1 +1,1 @@
-deepmacDetailCallback("2c16bd700000/28",[{"d":"2019-04-19","t":"add","s":"ieee-mam.csv","a":"Floor 9, Block B, Building 7, Shenzhen Bay Technology Ecological Park, Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"SCT OPTRONICS CO., LTD"}]);
+macDetailCallback("2c16bd700000/28",[{"d":"2019-04-19","t":"add","s":"ieee-mam.csv","a":"Floor 9, Block B, Building 7, Shenzhen Bay Technology Ecological Park, Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"SCT OPTRONICS CO., LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("841826000000/24",[{"d":"2014-07-11","t":"add","a":"Marcel Breuer Str. 6\nMunich Bavaria 80807\n\n","c":"GERMANY","o":"Osram GmbH"},{"d":"2015-08-27","t":"change","a":"Marcel Breuer Str. 6 Munich Bavaria DE 80807","c":"DE","o":"Osram GmbH"}]);
+macDetailCallback("841826000000/24",[{"d":"2014-07-11","t":"add","a":"Marcel Breuer Str. 6\nMunich Bavaria 80807\n\n","c":"GERMANY","o":"Osram GmbH"},{"d":"2015-08-27","t":"change","a":"Marcel Breuer Str. 6 Munich Bavaria DE 80807","c":"DE","o":"Osram GmbH"}]);

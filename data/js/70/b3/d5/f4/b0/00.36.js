@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5f4b000/36",[{"d":"2019-06-27","t":"add","s":"ieee-oui36.csv","a":"8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037","c":"CN","o":"Chengdu Lingya Technology Co., Ltd."}]);
+macDetailCallback("70b3d5f4b000/36",[{"d":"2019-06-27","t":"add","s":"ieee-oui36.csv","a":"8 Floor, Block A, West City International Phase II, 48 Shuxi Road, Jinniu District Chengdu Sichuan CN 610037","c":"CN","o":"Chengdu Lingya Technology Co., Ltd."}]);

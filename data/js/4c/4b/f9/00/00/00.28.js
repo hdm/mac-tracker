@@ -1,1 +1,1 @@
-deepmacDetailCallback("4c4bf9000000/28",[{"d":"2019-06-26","t":"add","s":"ieee-mam.csv","a":"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785","c":"TR","o":"Multitek Elektronik Sanayi ve Ticaret A.S."}]);
+macDetailCallback("4c4bf9000000/28",[{"d":"2019-06-26","t":"add","s":"ieee-mam.csv","a":"Meclis Mah. Ataturk Cad. No:47, sancaktepe istanbul  TR 34785","c":"TR","o":"Multitek Elektronik Sanayi ve Ticaret A.S."}]);

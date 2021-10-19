@@ -1,1 +1,1 @@
-deepmacDetailCallback("00243b000000/24",[{"d":"2008-11-09","t":"add","a":"70 Bendemeer Road Unit 04-04\n339940\n\n","c":"SINGAPORE","o":"CSSI (S) Pte Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"70 Bendemeer Road Unit 04-04   SG 339940","c":"SG","o":"CSSI (S) Pte Ltd"}]);
+macDetailCallback("00243b000000/24",[{"d":"2008-11-09","t":"add","a":"70 Bendemeer Road Unit 04-04\n339940\n\n","c":"SINGAPORE","o":"CSSI (S) Pte Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"70 Bendemeer Road Unit 04-04   SG 339940","c":"SG","o":"CSSI (S) Pte Ltd"}]);

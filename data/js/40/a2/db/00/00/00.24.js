@@ -1,1 +1,1 @@
-deepmacDetailCallback("40a2db000000/24",[{"d":"2019-10-27","t":"add","s":"ieee-oui.csv","a":"P.O Box 8102 Reno NV US 89507","c":"US","o":"Amazon Technologies Inc."}]);
+macDetailCallback("40a2db000000/24",[{"d":"2019-10-27","t":"add","s":"ieee-oui.csv","a":"P.O Box 8102 Reno NV US 89507","c":"US","o":"Amazon Technologies Inc."}]);

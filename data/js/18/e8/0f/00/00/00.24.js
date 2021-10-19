@@ -1,1 +1,1 @@
-deepmacDetailCallback("18e80f000000/24",[{"d":"2011-08-10","t":"add","a":"1531 Industrial St\nHudson WI 54016\n\n","c":"UNITED STATES","o":"Viking Electronics Inc."},{"d":"2015-08-27","t":"change","a":"1531 Industrial St Hudson WI US 54016","c":"US","o":"Viking Electronics Inc."}]);
+macDetailCallback("18e80f000000/24",[{"d":"2011-08-10","t":"add","a":"1531 Industrial St\nHudson WI 54016\n\n","c":"UNITED STATES","o":"Viking Electronics Inc."},{"d":"2015-08-27","t":"change","a":"1531 Industrial St Hudson WI US 54016","c":"US","o":"Viking Electronics Inc."}]);

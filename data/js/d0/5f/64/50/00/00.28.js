@@ -1,1 +1,1 @@
-deepmacDetailCallback("d05f64500000/28",[{"d":"2019-05-11","t":"add","s":"ieee-mam.csv","a":"#229, 2nd Floor, 2A Main, 5th Cross, New Thippasandra Bangalore Karnataka IN 560075","c":"IN","o":"Atoll Solutions Private Limited"}]);
+macDetailCallback("d05f64500000/28",[{"d":"2019-05-11","t":"add","s":"ieee-mam.csv","a":"#229, 2nd Floor, 2A Main, 5th Cross, New Thippasandra Bangalore Karnataka IN 560075","c":"IN","o":"Atoll Solutions Private Limited"}]);

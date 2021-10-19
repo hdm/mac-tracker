@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5da0000/36",[{"d":"2020-12-31","t":"add","s":"ieee-oui36.csv","a":"No. 1788 fenhu Guo Dao Road, Foho New&High-tech Industrial Development Zone, Wujiang Suzhou Jiangsu CN 215211","c":"CN","o":"Jiangsu Etern Compamy Limited"}]);
+macDetailCallback("70b3d5da0000/36",[{"d":"2020-12-31","t":"add","s":"ieee-oui36.csv","a":"No. 1788 fenhu Guo Dao Road, Foho New&High-tech Industrial Development Zone, Wujiang Suzhou Jiangsu CN 215211","c":"CN","o":"Jiangsu Etern Compamy Limited"}]);

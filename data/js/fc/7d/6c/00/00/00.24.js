@@ -1,1 +1,1 @@
-deepmacDetailCallback("fc7d6c000000/24",[{"d":"2019-04-23","t":"add","s":"ieee-oui.csv","a":"#1509,545,Dunchon-daero, Jungwon-gu Seongnam  Gyeonggi-do KR 13215","c":"KR","o":"HYESUNG TECHWIN Co., Ltd"}]);
+macDetailCallback("fc7d6c000000/24",[{"d":"2019-04-23","t":"add","s":"ieee-oui.csv","a":"#1509,545,Dunchon-daero, Jungwon-gu Seongnam  Gyeonggi-do KR 13215","c":"KR","o":"HYESUNG TECHWIN Co., Ltd"}]);

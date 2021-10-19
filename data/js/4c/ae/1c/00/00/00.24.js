@@ -1,1 +1,1 @@
-deepmacDetailCallback("4cae1c000000/24",[{"d":"2017-08-29","t":"add","a":"Shop No. 7, Sonawala Building, 1st Floor, Proctor Road, Grant Road (E) Mumbai Maharashtra IN 400007","c":"IN","o":"SaiNXT Technologies LLP"}]);
+macDetailCallback("4cae1c000000/24",[{"d":"2017-08-29","t":"add","a":"Shop No. 7, Sonawala Building, 1st Floor, Proctor Road, Grant Road (E) Mumbai Maharashtra IN 400007","c":"IN","o":"SaiNXT Technologies LLP"}]);

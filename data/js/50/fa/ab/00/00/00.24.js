@@ -1,1 +1,1 @@
-deepmacDetailCallback("50faab000000/24",[{"d":"2011-02-02","t":"add","a":"Obrtna cesta 18\nSentjernej  8310\n\n","c":"SLOVENIA","o":"L-tek d.o.o."},{"d":"2015-08-27","t":"change","a":"Obrtna cesta 18 Sentjernej  SI 8310","c":"SI","o":"L-tek d.o.o."}]);
+macDetailCallback("50faab000000/24",[{"d":"2011-02-02","t":"add","a":"Obrtna cesta 18\nSentjernej  8310\n\n","c":"SLOVENIA","o":"L-tek d.o.o."},{"d":"2015-08-27","t":"change","a":"Obrtna cesta 18 Sentjernej  SI 8310","c":"SI","o":"L-tek d.o.o."}]);

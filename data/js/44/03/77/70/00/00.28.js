@@ -1,1 +1,1 @@
-deepmacDetailCallback("440377700000/28",[{"d":"2019-08-15","t":"add","s":"ieee-mam.csv","a":"Avenida Stara 519 Não-Me-Toque Rio Grande do Sul BR 99470000","c":"BR","o":"Stara S/A Indústria de Implementos Agrícolas"}]);
+macDetailCallback("440377700000/28",[{"d":"2019-08-15","t":"add","s":"ieee-mam.csv","a":"Avenida Stara 519 Não-Me-Toque Rio Grande do Sul BR 99470000","c":"BR","o":"Stara S/A Indústria de Implementos Agrícolas"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("98fc84200000/28",[{"d":"2020-07-10","t":"add","s":"ieee-mam.csv","a":"18F-6, No. 75, Sec. 1, Xintai 5th Rd., Xizhi Dist.,  New Taipei City  TW 221","c":"TW","o":"Juketek Co., Ltd."}]);
+macDetailCallback("98fc84200000/28",[{"d":"2020-07-10","t":"add","s":"ieee-mam.csv","a":"18F-6, No. 75, Sec. 1, Xintai 5th Rd., Xizhi Dist.,  New Taipei City  TW 221","c":"TW","o":"Juketek Co., Ltd."}]);

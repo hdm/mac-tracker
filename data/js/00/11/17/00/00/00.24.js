@@ -1,1 +1,1 @@
-deepmacDetailCallback("001117000000/24",[{"d":"2004-04-15","t":"add","a":"Zikova 4\nPraha 6  160 00\n\n","c":"CZECH REPUBLIC","o":"CESNET"},{"d":"2015-08-27","t":"change","a":"Zikova 4 Praha 6  CZ 160 00","c":"CZ","o":"CESNET"}]);
+macDetailCallback("001117000000/24",[{"d":"2004-04-15","t":"add","a":"Zikova 4\nPraha 6  160 00\n\n","c":"CZECH REPUBLIC","o":"CESNET"},{"d":"2015-08-27","t":"change","a":"Zikova 4 Praha 6  CZ 160 00","c":"CZ","o":"CESNET"}]);

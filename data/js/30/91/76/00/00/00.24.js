@@ -1,1 +1,1 @@
-deepmacDetailCallback("309176000000/24",[{"d":"2019-07-18","t":"add","s":"ieee-oui.csv","a":"7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057","c":"CN","o":"Skyworth Digital Technology(Shenzhen) Co.,Ltd"}]);
+macDetailCallback("309176000000/24",[{"d":"2019-07-18","t":"add","s":"ieee-oui.csv","a":"7F,Block A,Skyworth Building, Shenzhen Guangdong CN 518057","c":"CN","o":"Skyworth Digital Technology(Shenzhen) Co.,Ltd"}]);

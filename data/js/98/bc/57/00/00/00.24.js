@@ -1,1 +1,1 @@
-deepmacDetailCallback("98bc57000000/24",[{"d":"2011-10-19","t":"add","a":"5F No.192 Tinglin Road,\nSHANGHAI  200233\n\n","c":"CHINA","o":"SVA TECHNOLOGIES CO.LTD"},{"d":"2015-08-27","t":"change","a":"5F No.192 Tinglin Road, SHANGHAI  CN 200233","c":"CN","o":"SVA TECHNOLOGIES CO.LTD"}]);
+macDetailCallback("98bc57000000/24",[{"d":"2011-10-19","t":"add","a":"5F No.192 Tinglin Road,\nSHANGHAI  200233\n\n","c":"CHINA","o":"SVA TECHNOLOGIES CO.LTD"},{"d":"2015-08-27","t":"change","a":"5F No.192 Tinglin Road, SHANGHAI  CN 200233","c":"CN","o":"SVA TECHNOLOGIES CO.LTD"}]);

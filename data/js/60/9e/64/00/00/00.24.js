@@ -1,1 +1,1 @@
-deepmacDetailCallback("609e64000000/24",[{"d":"2010-12-08","t":"add","a":"Kurfuerst-Eppstein-Ring 4\nSailauf Bayern 63877\n\n","c":"GERMANY","o":"Vivonic GmbH"},{"d":"2015-08-27","t":"change","a":"Kurfuerst-Eppstein-Ring 4 Sailauf Bayern DE 63877","c":"DE","o":"Vivonic GmbH"}]);
+macDetailCallback("609e64000000/24",[{"d":"2010-12-08","t":"add","a":"Kurfuerst-Eppstein-Ring 4\nSailauf Bayern 63877\n\n","c":"GERMANY","o":"Vivonic GmbH"},{"d":"2015-08-27","t":"change","a":"Kurfuerst-Eppstein-Ring 4 Sailauf Bayern DE 63877","c":"DE","o":"Vivonic GmbH"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("e00db9000000/24",[{"d":"2014-05-20","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2016-07-02","t":"change","a":"4600 Silicon Drive Durham NC US 27703","c":"US","o":"Cree, Inc."}]);
+macDetailCallback("e00db9000000/24",[{"d":"2014-05-20","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2016-07-02","t":"change","a":"4600 Silicon Drive Durham NC US 27703","c":"US","o":"Cree, Inc."}]);

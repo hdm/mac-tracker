@@ -1,1 +1,1 @@
-deepmacDetailCallback("e06c4e000000/24",[{"d":"2020-11-18","t":"add","s":"ieee-oui.csv","a":"4/F, H-3 Building, Qiao Cheng Eastern Industrial Park, Overseas Chinese Town, Shenzhen  Shenzhen  guangdong CN 518053","c":"CN","o":"Shenzhen TINNO Mobile Technology Corp."}]);
+macDetailCallback("e06c4e000000/24",[{"d":"2020-11-18","t":"add","s":"ieee-oui.csv","a":"4/F, H-3 Building, Qiao Cheng Eastern Industrial Park, Overseas Chinese Town, Shenzhen  Shenzhen  guangdong CN 518053","c":"CN","o":"Shenzhen TINNO Mobile Technology Corp."}]);

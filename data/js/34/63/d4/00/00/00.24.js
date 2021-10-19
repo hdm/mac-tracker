@@ -1,1 +1,1 @@
-deepmacDetailCallback("3463d4000000/24",[{"d":"2019-08-28","t":"add","s":"ieee-oui.csv","a":"Poligono Pocomaco Avenida Primera Parcela B3 Nave F La Coruña La Coruña ES 15190","c":"ES","o":"BIONIX SUPPLYCHAIN TECHNOLOGIES SLU"}]);
+macDetailCallback("3463d4000000/24",[{"d":"2019-08-28","t":"add","s":"ieee-oui.csv","a":"Poligono Pocomaco Avenida Primera Parcela B3 Nave F La Coruña La Coruña ES 15190","c":"ES","o":"BIONIX SUPPLYCHAIN TECHNOLOGIES SLU"}]);

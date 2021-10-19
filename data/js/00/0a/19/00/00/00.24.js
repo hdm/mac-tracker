@@ -1,1 +1,1 @@
-deepmacDetailCallback("000a19000000/24",[{"d":"2002-06-05","t":"add","a":"661 N. Plano Rd.\nRichardson Texas 75081\n\n","c":"UNITED STATES","o":"Valere Power, Inc."},{"d":"2015-08-27","t":"change","a":"661 N. Plano Rd. Richardson Texas US 75081","c":"US","o":"Valere Power, Inc."}]);
+macDetailCallback("000a19000000/24",[{"d":"2002-06-05","t":"add","a":"661 N. Plano Rd.\nRichardson Texas 75081\n\n","c":"UNITED STATES","o":"Valere Power, Inc."},{"d":"2015-08-27","t":"change","a":"661 N. Plano Rd. Richardson Texas US 75081","c":"US","o":"Valere Power, Inc."}]);

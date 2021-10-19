@@ -1,1 +1,1 @@
-deepmacDetailCallback("1845b3a00000/28",[{"d":"2021-09-30","t":"add","s":"ieee-mam.csv","a":"Room 401-410,A Building ,23# Nanxiang Road, Huangpu District Guangzhou Guangdong CN 510663","c":"CN","o":"Guangzhou Aoshi Internet Information & Technology Co.,Ltd."}]);
+macDetailCallback("1845b3a00000/28",[{"d":"2021-09-30","t":"add","s":"ieee-mam.csv","a":"Room 401-410,A Building ,23# Nanxiang Road, Huangpu District Guangzhou Guangdong CN 510663","c":"CN","o":"Guangzhou Aoshi Internet Information & Technology Co.,Ltd."}]);

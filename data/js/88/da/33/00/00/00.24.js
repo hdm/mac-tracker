@@ -1,1 +1,1 @@
-deepmacDetailCallback("88da33000000/24",[{"d":"2019-02-02","t":"add","s":"ieee-oui.csv","a":"Block K1, North American International Business Centre, 86 Beiyuan Road, Chaoyang District Beijing Beijing CN 100012","c":"CN","o":"Beijing Xiaoyuer Network Technology Co., Ltd"}]);
+macDetailCallback("88da33000000/24",[{"d":"2019-02-02","t":"add","s":"ieee-oui.csv","a":"Block K1, North American International Business Centre, 86 Beiyuan Road, Chaoyang District Beijing Beijing CN 100012","c":"CN","o":"Beijing Xiaoyuer Network Technology Co., Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("483e5e000000/24",[{"d":"2021-09-05","t":"add","s":"ieee-oui.csv","a":"NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China Suzhou  CN 215021","c":"CN","o":"SERNET (SUZHOU) TECHNOLOGIES CORPORATION"}]);
+macDetailCallback("483e5e000000/24",[{"d":"2021-09-05","t":"add","s":"ieee-oui.csv","a":"NO.8 Tangzhuang Road,Suzhou Industrial Park,Su ZhouCity,JiangSu Province,China Suzhou  CN 215021","c":"CN","o":"SERNET (SUZHOU) TECHNOLOGIES CORPORATION"}]);

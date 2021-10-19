@@ -1,1 +1,1 @@
-deepmacDetailCallback("304950000000/28",[{"d":"2020-04-30","t":"add","s":"ieee-mam.csv","a":"Room 501, Building G1,No. 31 Kefeng Road, Huangpu district Guangzhou  CN 510670","c":"CN","o":"Guangzhou Lian-med Technology Co.,Ltd."}]);
+macDetailCallback("304950000000/28",[{"d":"2020-04-30","t":"add","s":"ieee-mam.csv","a":"Room 501, Building G1,No. 31 Kefeng Road, Huangpu district Guangzhou  CN 510670","c":"CN","o":"Guangzhou Lian-med Technology Co.,Ltd."}]);

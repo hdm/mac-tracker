@@ -1,1 +1,1 @@
-deepmacDetailCallback("345b11000000/24",[{"d":"2011-08-27","t":"add","a":"Box 55\nKungsaengen  196 22\n\n","c":"SWEDEN","o":"EVI HEAT AB"},{"d":"2015-08-27","t":"change","a":"Box 55 Kungsaengen  SE 196 22","c":"SE","o":"EVI HEAT AB"}]);
+macDetailCallback("345b11000000/24",[{"d":"2011-08-27","t":"add","a":"Box 55\nKungsaengen  196 22\n\n","c":"SWEDEN","o":"EVI HEAT AB"},{"d":"2015-08-27","t":"change","a":"Box 55 Kungsaengen  SE 196 22","c":"SE","o":"EVI HEAT AB"}]);

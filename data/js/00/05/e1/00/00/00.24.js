@@ -1,1 +1,1 @@
-deepmacDetailCallback("0005e1000000/24",[{"d":"2001-06-04","t":"add","a":"P.O.B. 36\nYogneam Elite, 20692\n\n","c":"ISRAEL","o":"Trellis Photonics, Ltd."},{"d":"2015-08-27","t":"change","a":"P.O.B. 36   IL","c":"IL","o":"Trellis Photonics, Ltd."}]);
+macDetailCallback("0005e1000000/24",[{"d":"2001-06-04","t":"add","a":"P.O.B. 36\nYogneam Elite, 20692\n\n","c":"ISRAEL","o":"Trellis Photonics, Ltd."},{"d":"2015-08-27","t":"change","a":"P.O.B. 36   IL","c":"IL","o":"Trellis Photonics, Ltd."}]);

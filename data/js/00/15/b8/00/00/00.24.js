@@ -1,1 +1,1 @@
-deepmacDetailCallback("0015b8000000/24",[{"d":"2005-09-09","t":"add","a":"ul. Uniwersytecka 1\nWroclaw  50951\n\n","c":"POLAND","o":"Tahoe"},{"d":"2015-08-27","t":"change","a":"ul. Uniwersytecka 1 Wroclaw  PL 50951","c":"PL","o":"Tahoe"}]);
+macDetailCallback("0015b8000000/24",[{"d":"2005-09-09","t":"add","a":"ul. Uniwersytecka 1\nWroclaw  50951\n\n","c":"POLAND","o":"Tahoe"},{"d":"2015-08-27","t":"change","a":"ul. Uniwersytecka 1 Wroclaw  PL 50951","c":"PL","o":"Tahoe"}]);

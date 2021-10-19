@@ -1,1 +1,1 @@
-deepmacDetailCallback("64de1c000000/24",[{"d":"2010-11-23","t":"add","a":"47 Kaki Bukit Place\n#02-00 Eunos Techpark\n416225\n","c":"SINGAPORE","o":"Kingnetic Pte Ltd"},{"d":"2015-08-27","t":"change","a":"47 Kaki Bukit Place   SG 416225","c":"SG","o":"Kingnetic Pte Ltd"}]);
+macDetailCallback("64de1c000000/24",[{"d":"2010-11-23","t":"add","a":"47 Kaki Bukit Place\n#02-00 Eunos Techpark\n416225\n","c":"SINGAPORE","o":"Kingnetic Pte Ltd"},{"d":"2015-08-27","t":"change","a":"47 Kaki Bukit Place   SG 416225","c":"SG","o":"Kingnetic Pte Ltd"}]);

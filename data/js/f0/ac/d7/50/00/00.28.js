@@ -1,1 +1,1 @@
-deepmacDetailCallback("f0acd7500000/28",[{"a":"Teknopark Istanbul Ar-Ge Binalari 1.Blok Pendik Istanbul Select State TR 34349","o":"PAVO TASARIM URETIM TICARET A.S.","d":"2016-05-01","t":"add","s":"ieee","c":"TR"}]);
+macDetailCallback("f0acd7500000/28",[{"a":"Teknopark Istanbul Ar-Ge Binalari 1.Blok Pendik Istanbul Select State TR 34349","o":"PAVO TASARIM URETIM TICARET A.S.","d":"2016-05-01","t":"add","s":"ieee","c":"TR"}]);

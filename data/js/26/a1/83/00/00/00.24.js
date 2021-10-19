@@ -1,1 +1,1 @@
-deepmacDetailCallback("26a183000000/24",[{"d":"2015-08-27","t":"add","a":"6-1\nKakuda  Miyagi-Pref  981-1595\n\n","c":"JP","o":"ALPS ELECTRIC CO.,LTD."},{"d":"2015-09-01","t":"delete","a":"6-1\nKakuda  Miyagi-Pref  981-1595\n\n","c":"JP","o":"ALPS ELECTRIC CO.,LTD."}]);
+macDetailCallback("26a183000000/24",[{"d":"2015-08-27","t":"add","a":"6-1\nKakuda  Miyagi-Pref  981-1595\n\n","c":"JP","o":"ALPS ELECTRIC CO.,LTD."},{"d":"2015-09-01","t":"delete","a":"6-1\nKakuda  Miyagi-Pref  981-1595\n\n","c":"JP","o":"ALPS ELECTRIC CO.,LTD."}]);

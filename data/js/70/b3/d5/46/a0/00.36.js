@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d546a000/36",[{"d":"2020-03-20","t":"add","s":"ieee-oui36.csv","a":"Floor 3, building 2, tiantong industrial park, gaofeng community, dalang street, longhua district Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen Vikings Technology Co., Ltd."}]);
+macDetailCallback("70b3d546a000/36",[{"d":"2020-03-20","t":"add","s":"ieee-oui36.csv","a":"Floor 3, building 2, tiantong industrial park, gaofeng community, dalang street, longhua district Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen Vikings Technology Co., Ltd."}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("a43bfa000000/28",[{"a":"Flat 23, #4, Senhua Gargden Shaoling Road Chengdu Sichuan CN 610000","o":"Chengdu Territory Technology Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("a43bfa000000/28",[{"a":"Flat 23, #4, Senhua Gargden Shaoling Road Chengdu Sichuan CN 610000","o":"Chengdu Territory Technology Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

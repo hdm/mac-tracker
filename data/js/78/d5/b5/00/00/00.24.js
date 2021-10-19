@@ -1,1 +1,1 @@
-deepmacDetailCallback("78d5b5000000/24",[{"d":"2013-04-09","t":"add","a":"HALLIMESTARINKATU 11\nKAARINA  FIN-20780\n\n","c":"FINLAND","o":"NAVIELEKTRO KY"},{"d":"2015-08-27","t":"change","a":"HALLIMESTARINKATU 11 KAARINA  FI FIN-20780","c":"FI","o":"NAVIELEKTRO KY"}]);
+macDetailCallback("78d5b5000000/24",[{"d":"2013-04-09","t":"add","a":"HALLIMESTARINKATU 11\nKAARINA  FIN-20780\n\n","c":"FINLAND","o":"NAVIELEKTRO KY"},{"d":"2015-08-27","t":"change","a":"HALLIMESTARINKATU 11 KAARINA  FI FIN-20780","c":"FI","o":"NAVIELEKTRO KY"}]);

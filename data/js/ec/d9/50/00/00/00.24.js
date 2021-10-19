@@ -1,1 +1,1 @@
-deepmacDetailCallback("ecd950000000/24",[{"d":"2012-07-06","t":"add","a":"Puits-Godet 16\nNEUCHATEL NE 2000\n\n","c":"SWITZERLAND","o":"IRT SA"},{"d":"2015-08-27","t":"change","a":"Puits-Godet 16 NEUCHATEL NE CH 2000","c":"CH","o":"IRT SA"}]);
+macDetailCallback("ecd950000000/24",[{"d":"2012-07-06","t":"add","a":"Puits-Godet 16\nNEUCHATEL NE 2000\n\n","c":"SWITZERLAND","o":"IRT SA"},{"d":"2015-08-27","t":"change","a":"Puits-Godet 16 NEUCHATEL NE CH 2000","c":"CH","o":"IRT SA"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("7cbc84300000/28",[{"a":"23/F, Tower 1, No.523 Loushanguan Road, Changning District Shanghai  CN 200051","o":"Shanghai Yitu Technology Co. Ltd","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("7cbc84300000/28",[{"a":"23/F, Tower 1, No.523 Loushanguan Road, Changning District Shanghai  CN 200051","o":"Shanghai Yitu Technology Co. Ltd","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

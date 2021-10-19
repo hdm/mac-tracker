@@ -1,1 +1,1 @@
-deepmacDetailCallback("cc3adf000000/24",[{"d":"2016-05-01","t":"add","a":"","c":"US","o":"Private","s":"wireshark.org"},{"d":"2021-03-26","t":"change","s":"ieee-oui.csv","a":"1600 AL Highway 229 S Tallassee AL US 36078","c":"US","o":"Neptune Technology Group Inc."}]);
+macDetailCallback("cc3adf000000/24",[{"d":"2016-05-01","t":"add","a":"","c":"US","o":"Private","s":"wireshark.org"},{"d":"2021-03-26","t":"change","s":"ieee-oui.csv","a":"1600 AL Highway 229 S Tallassee AL US 36078","c":"US","o":"Neptune Technology Group Inc."}]);

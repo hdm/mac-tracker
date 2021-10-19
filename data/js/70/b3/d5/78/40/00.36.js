@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5784000/36",[{"a":"B301, second phase of China merchants street technology building, nanshan district ShenZhen  CN 518000","o":"Shenzhen bayue software co. LTD","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d5784000/36",[{"a":"B301, second phase of China merchants street technology building, nanshan district ShenZhen  CN 518000","o":"Shenzhen bayue software co. LTD","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("c025a2000000/24",[{"d":"2015-06-23","t":"add","a":"2-3 Kandatsukasamachi\nChiyodaku Tokyo 101-8532\n\n","c":"JAPAN","o":"NEC Platforms, Ltd."},{"d":"2015-08-27","t":"change","a":"2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532","c":"JP","o":"NEC Platforms, Ltd."}]);
+macDetailCallback("c025a2000000/24",[{"d":"2015-06-23","t":"add","a":"2-3 Kandatsukasamachi\nChiyodaku Tokyo 101-8532\n\n","c":"JAPAN","o":"NEC Platforms, Ltd."},{"d":"2015-08-27","t":"change","a":"2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532","c":"JP","o":"NEC Platforms, Ltd."}]);

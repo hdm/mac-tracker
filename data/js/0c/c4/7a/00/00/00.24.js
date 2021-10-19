@@ -1,1 +1,1 @@
-deepmacDetailCallback("0cc47a000000/24",[{"d":"2013-10-24","t":"add","a":"980 Rock Ave\nSan Jose CA 95131\n\n","c":"UNITED STATES","o":"Super Micro Computer, Inc."},{"d":"2015-08-27","t":"change","a":"980 Rock Avenue San Jose California US 95131","c":"US","o":"Super Micro Computer, Inc."}]);
+macDetailCallback("0cc47a000000/24",[{"d":"2013-10-24","t":"add","a":"980 Rock Ave\nSan Jose CA 95131\n\n","c":"UNITED STATES","o":"Super Micro Computer, Inc."},{"d":"2015-08-27","t":"change","a":"980 Rock Avenue San Jose California US 95131","c":"US","o":"Super Micro Computer, Inc."}]);

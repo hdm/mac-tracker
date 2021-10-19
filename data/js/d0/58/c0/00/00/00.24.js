@@ -1,1 +1,1 @@
-deepmacDetailCallback("d058c0000000/24",[{"d":"2018-10-26","t":"add","s":"ieee-oui.csv","a":"Pingban Building, Haier Industry Park, Laoshan District, Qingdao Shandong CN 266103","c":"CN","o":"Qingdao Haier Multimedia Limited."}]);
+macDetailCallback("d058c0000000/24",[{"d":"2018-10-26","t":"add","s":"ieee-oui.csv","a":"Pingban Building, Haier Industry Park, Laoshan District, Qingdao Shandong CN 266103","c":"CN","o":"Qingdao Haier Multimedia Limited."}]);

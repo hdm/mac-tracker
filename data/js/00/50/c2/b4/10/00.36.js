@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c2b41000/36",[{"a":"42/43, Electronics City,  Bangalore Karnataka IN 560100","o":"Tata Power Company, Strategic Electronics Division","d":"2009-09-20","t":"add","s":"ieee","c":"IN"}]);
+macDetailCallback("0050c2b41000/36",[{"a":"42/43, Electronics City,  Bangalore Karnataka IN 560100","o":"Tata Power Company, Strategic Electronics Division","d":"2009-09-20","t":"add","s":"ieee","c":"IN"}]);

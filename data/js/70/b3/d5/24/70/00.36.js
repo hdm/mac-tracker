@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5247000/36",[{"d":"2020-08-21","t":"add","s":"ieee-oui36.csv","a":"6/F., 710 building, Liantang Pengji Industrial Zone,Luohu District Shenzhen Guangdong CN 518000","c":"CN","o":"Satsky Communication Equipment Co.,Ltd."}]);
+macDetailCallback("70b3d5247000/36",[{"d":"2020-08-21","t":"add","s":"ieee-oui36.csv","a":"6/F., 710 building, Liantang Pengji Industrial Zone,Luohu District Shenzhen Guangdong CN 518000","c":"CN","o":"Satsky Communication Equipment Co.,Ltd."}]);

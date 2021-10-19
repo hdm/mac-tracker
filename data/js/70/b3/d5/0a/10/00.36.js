@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d50a1000/36",[{"a":"G2, JinXiongDa Technology Park, HuanGuan Road South 105th  GuanLan Block, LongHua New District  ShenZhen City guangdong CN 518000","o":"PTN Electronics Limited","d":"2016-12-18","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("70b3d50a1000/36",[{"a":"G2, JinXiongDa Technology Park, HuanGuan Road South 105th  GuanLan Block, LongHua New District  ShenZhen City guangdong CN 518000","o":"PTN Electronics Limited","d":"2016-12-18","t":"add","s":"ieee","c":"CN"}]);

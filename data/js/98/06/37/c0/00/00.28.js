@@ -1,1 +1,1 @@
-deepmacDetailCallback("980637c00000/28",[{"d":"2019-05-25","t":"add","s":"ieee-mam.csv","a":"11Fl., No.108, Sec. 1, Hsin-Tai-Wu Rd., Hsi-Chih District New Taipei New Taipei TW 221","c":"TW","o":"HwaCom Systems Inc."}]);
+macDetailCallback("980637c00000/28",[{"d":"2019-05-25","t":"add","s":"ieee-mam.csv","a":"11Fl., No.108, Sec. 1, Hsin-Tai-Wu Rd., Hsi-Chih District New Taipei New Taipei TW 221","c":"TW","o":"HwaCom Systems Inc."}]);

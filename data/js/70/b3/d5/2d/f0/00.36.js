@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d52df000/36",[{"d":"2020-09-03","t":"add","s":"ieee-oui36.csv","a":"6F.,No.963, Zhongzheng Rd, Zhonghe Dist. New Taipei City  TW 235","c":"TW","o":"EASTERN SCIENCE & TECHNOLOGY CO., LTD"}]);
+macDetailCallback("70b3d52df000/36",[{"d":"2020-09-03","t":"add","s":"ieee-oui36.csv","a":"6F.,No.963, Zhongzheng Rd, Zhonghe Dist. New Taipei City  TW 235","c":"TW","o":"EASTERN SCIENCE & TECHNOLOGY CO., LTD"}]);

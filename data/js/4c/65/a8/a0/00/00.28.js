@@ -1,1 +1,1 @@
-deepmacDetailCallback("4c65a8a00000/28",[{"a":"Room 15A05, KeJi GuangChang,QianJinDong Road Kunshan Jiangsu CN 215300","o":"Suzhou Embedded Electronic Technology Co., Ltd.","d":"2017-03-26","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("4c65a8a00000/28",[{"a":"Room 15A05, KeJi GuangChang,QianJinDong Road Kunshan Jiangsu CN 215300","o":"Suzhou Embedded Electronic Technology Co., Ltd.","d":"2017-03-26","t":"add","s":"ieee","c":"CN"}]);

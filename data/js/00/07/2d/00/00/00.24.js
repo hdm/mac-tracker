@@ -1,1 +1,1 @@
-deepmacDetailCallback("00072d000000/24",[{"d":"2001-10-24","t":"add","a":"Baumkircherstrasse 1\nA-8020 Graz\n\n","c":"AUSTRIA","o":"CNSystems"},{"d":"2015-08-27","t":"change","a":"Baumkircherstrasse 1   AT","c":"AT","o":"CNSystems"}]);
+macDetailCallback("00072d000000/24",[{"d":"2001-10-24","t":"add","a":"Baumkircherstrasse 1\nA-8020 Graz\n\n","c":"AUSTRIA","o":"CNSystems"},{"d":"2015-08-27","t":"change","a":"Baumkircherstrasse 1   AT","c":"AT","o":"CNSystems"}]);

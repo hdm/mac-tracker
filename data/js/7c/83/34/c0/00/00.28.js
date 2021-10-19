@@ -1,1 +1,1 @@
-deepmacDetailCallback("7c8334c00000/28",[{"d":"2021-07-22","t":"add","s":"ieee-mam.csv","a":"No.568 QueYuan Road Chuanggu Park Flat 1001-1061 Changsha  CN 410000","c":"CN","o":"Hunan Datang Xianyi Technology Co.,Ltd"}]);
+macDetailCallback("7c8334c00000/28",[{"d":"2021-07-22","t":"add","s":"ieee-mam.csv","a":"No.568 QueYuan Road Chuanggu Park Flat 1001-1061 Changsha  CN 410000","c":"CN","o":"Hunan Datang Xianyi Technology Co.,Ltd"}]);

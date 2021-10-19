@@ -1,1 +1,1 @@
-deepmacDetailCallback("60d9a0000000/24",[{"d":"2014-10-25","t":"add","a":"No.999, Qishan North 2nd Road, Information & Optoelectronics Park, Xiamen Fujian  361006","c":"CHINA","o":"Lenovo Mobile Communication Technology Ltd."}]);
+macDetailCallback("60d9a0000000/24",[{"d":"2014-10-25","t":"add","a":"No.999, Qishan North 2nd Road, Information & Optoelectronics Park, Xiamen Fujian  361006","c":"CHINA","o":"Lenovo Mobile Communication Technology Ltd."}]);

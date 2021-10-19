@@ -1,1 +1,1 @@
-deepmacDetailCallback("a453ee900000/28",[{"d":"2020-10-24","t":"add","s":"ieee-mam.csv","a":"Huafuu technology park,jinggangzhong Road,shatian Dongguan Guangdong CN 523841","c":"CN","o":"Dongguan HuaFuu industrial co., LTD"}]);
+macDetailCallback("a453ee900000/28",[{"d":"2020-10-24","t":"add","s":"ieee-mam.csv","a":"Huafuu technology park,jinggangzhong Road,shatian Dongguan Guangdong CN 523841","c":"CN","o":"Dongguan HuaFuu industrial co., LTD"}]);

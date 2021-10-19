@@ -1,1 +1,1 @@
-deepmacDetailCallback("001f07000000/24",[{"d":"2007-12-31","t":"add","a":"Suite 210, 525 University Ave\nPalo Alto CA 94301\n\n","c":"UNITED STATES","o":"AZTEQ Mobile"},{"d":"2015-08-27","t":"change","a":"Suite 210, 525 University Ave Palo Alto CA US 94301","c":"US","o":"AZTEQ Mobile"}]);
+macDetailCallback("001f07000000/24",[{"d":"2007-12-31","t":"add","a":"Suite 210, 525 University Ave\nPalo Alto CA 94301\n\n","c":"UNITED STATES","o":"AZTEQ Mobile"},{"d":"2015-08-27","t":"change","a":"Suite 210, 525 University Ave Palo Alto CA US 94301","c":"US","o":"AZTEQ Mobile"}]);

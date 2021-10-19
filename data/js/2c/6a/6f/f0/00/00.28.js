@@ -1,1 +1,1 @@
-deepmacDetailCallback("2c6a6ff00000/28",[{"a":"","o":"Private","d":"2015-10-16","t":"add","s":"ieee"}]);
+macDetailCallback("2c6a6ff00000/28",[{"a":"","o":"Private","d":"2015-10-16","t":"add","s":"ieee"}]);

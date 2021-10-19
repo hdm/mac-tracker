@@ -1,1 +1,1 @@
-deepmacDetailCallback("c0619ae00000/28",[{"d":"2020-07-07","t":"add","s":"ieee-mam.csv","a":"No.797 Binkang Rd, Binjiang District Hangzhou  CN 310053","c":"CN","o":"Zhejiang Haikang Science And Technology Co.,Ltd"}]);
+macDetailCallback("c0619ae00000/28",[{"d":"2020-07-07","t":"add","s":"ieee-mam.csv","a":"No.797 Binkang Rd, Binjiang District Hangzhou  CN 310053","c":"CN","o":"Zhejiang Haikang Science And Technology Co.,Ltd"}]);

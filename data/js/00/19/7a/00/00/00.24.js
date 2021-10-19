@@ -1,1 +1,1 @@
-deepmacDetailCallback("00197a000000/24",[{"d":"2006-08-27","t":"add","a":"Goeschwitzer Str. 32\nJena  D-07745\n\n","c":"GERMANY","o":"MAZeT GmbH"},{"d":"2015-08-27","t":"change","a":"Goeschwitzer Str. 32 Jena  DE D-07745","c":"DE","o":"MAZeT GmbH"}]);
+macDetailCallback("00197a000000/24",[{"d":"2006-08-27","t":"add","a":"Goeschwitzer Str. 32\nJena  D-07745\n\n","c":"GERMANY","o":"MAZeT GmbH"},{"d":"2015-08-27","t":"change","a":"Goeschwitzer Str. 32 Jena  DE D-07745","c":"DE","o":"MAZeT GmbH"}]);

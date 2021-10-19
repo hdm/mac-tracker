@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d59ee000/36",[{"d":"2018-11-28","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"},{"d":"2020-12-03","t":"change","s":"ieee-oui36.csv","a":"4800 Bradford Drive Huntsville AL US 35805","c":"US","o":"Lockheed Martin - THAAD"}]);
+macDetailCallback("70b3d59ee000/36",[{"d":"2018-11-28","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"},{"d":"2020-12-03","t":"change","s":"ieee-oui36.csv","a":"4800 Bradford Drive Huntsville AL US 35805","c":"US","o":"Lockheed Martin - THAAD"}]);

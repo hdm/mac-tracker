@@ -1,1 +1,1 @@
-deepmacDetailCallback("981bb5000000/24",[{"d":"2019-08-28","t":"add","s":"ieee-oui.csv","a":"10F of JEI PLATZ Bldg., 186, Gasandigital-ro, Geumcheon-gu Seoul  KR 08502","c":"KR","o":"ASSA ABLOY Korea Co., Ltd iRevo"}]);
+macDetailCallback("981bb5000000/24",[{"d":"2019-08-28","t":"add","s":"ieee-oui.csv","a":"10F of JEI PLATZ Bldg., 186, Gasandigital-ro, Geumcheon-gu Seoul  KR 08502","c":"KR","o":"ASSA ABLOY Korea Co., Ltd iRevo"}]);

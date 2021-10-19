@@ -1,1 +1,1 @@
-deepmacDetailCallback("6c4760000000/24",[{"d":"2020-12-06","t":"add","s":"ieee-oui.csv","a":"3F.,No.98-1,Mincyuan Rd.Sindian City Taipei County 231  CN 231141","c":"CN","o":"Sunitec Enterprise Co.,Ltd"}]);
+macDetailCallback("6c4760000000/24",[{"d":"2020-12-06","t":"add","s":"ieee-oui.csv","a":"3F.,No.98-1,Mincyuan Rd.Sindian City Taipei County 231  CN 231141","c":"CN","o":"Sunitec Enterprise Co.,Ltd"}]);

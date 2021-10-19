@@ -1,1 +1,1 @@
-deepmacDetailCallback("001927000000/24",[{"d":"2006-08-14","t":"add","a":"Bundesstrasse 5\nZug ZG 6300\n\n","c":"SWITZERLAND","o":"ImCoSys Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Bundesstrasse 5 Zug ZG CH 6300","c":"CH","o":"ImCoSys Ltd"}]);
+macDetailCallback("001927000000/24",[{"d":"2006-08-14","t":"add","a":"Bundesstrasse 5\nZug ZG 6300\n\n","c":"SWITZERLAND","o":"ImCoSys Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Bundesstrasse 5 Zug ZG CH 6300","c":"CH","o":"ImCoSys Ltd"}]);

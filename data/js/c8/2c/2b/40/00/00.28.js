@@ -1,1 +1,1 @@
-deepmacDetailCallback("c82c2b400000/28",[{"d":"2019-02-05","t":"add","s":"ieee-mam.csv","a":"7/B 29th Main, BTM Layout 2nd Stage Bengalore Kamataka IN 560076","c":"IN","o":"iWave Systems Tech Pvt Ltd"}]);
+macDetailCallback("c82c2b400000/28",[{"d":"2019-02-05","t":"add","s":"ieee-mam.csv","a":"7/B 29th Main, BTM Layout 2nd Stage Bengalore Kamataka IN 560076","c":"IN","o":"iWave Systems Tech Pvt Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("001535000000/24",[{"d":"2005-07-21","t":"add","a":"via Barsanti 8\nFlorence FI 50127\n\n","c":"ITALY","o":"OTE Spa"},{"d":"2015-08-27","t":"change","a":"via Barsanti 8 Florence FI IT 50127","c":"IT","o":"OTE Spa"}]);
+macDetailCallback("001535000000/24",[{"d":"2005-07-21","t":"add","a":"via Barsanti 8\nFlorence FI 50127\n\n","c":"ITALY","o":"OTE Spa"},{"d":"2015-08-27","t":"change","a":"via Barsanti 8 Florence FI IT 50127","c":"IT","o":"OTE Spa"}]);

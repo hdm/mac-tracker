@@ -1,1 +1,1 @@
-deepmacDetailCallback("440377800000/28",[{"d":"2019-08-21","t":"add","s":"ieee-mam.csv","a":"Datianyang Ind. Estate, Dongfang Road, Dangfang Road, Songgang Town, Bao'an District Shenzhen Guangdong CN 518105","c":"CN","o":"Gemmy Electronics (Shenzhen) Co, Ltd"}]);
+macDetailCallback("440377800000/28",[{"d":"2019-08-21","t":"add","s":"ieee-mam.csv","a":"Datianyang Ind. Estate, Dongfang Road, Dangfang Road, Songgang Town, Bao'an District Shenzhen Guangdong CN 518105","c":"CN","o":"Gemmy Electronics (Shenzhen) Co, Ltd"}]);

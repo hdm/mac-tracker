@@ -1,1 +1,1 @@
-deepmacDetailCallback("34db9c000000/24",[{"d":"2018-12-15","t":"add","s":"ieee-oui.csv","a":"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848","c":"FR","o":"Sagemcom Broadband SAS"}]);
+macDetailCallback("34db9c000000/24",[{"d":"2018-12-15","t":"add","s":"ieee-oui.csv","a":"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848","c":"FR","o":"Sagemcom Broadband SAS"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("cc4f5c300000/28",[{"d":"2020-08-12","t":"add","s":"ieee-mam.csv","a":"Room 1202, building a, Noble international, 908 Xiuwen Road, Minhang District ShangHai ShangHai CN 201199","c":"CN","o":"Shanghai Zenchant Electornics Co.,LTD"}]);
+macDetailCallback("cc4f5c300000/28",[{"d":"2020-08-12","t":"add","s":"ieee-mam.csv","a":"Room 1202, building a, Noble international, 908 Xiuwen Road, Minhang District ShangHai ShangHai CN 201199","c":"CN","o":"Shanghai Zenchant Electornics Co.,LTD"}]);

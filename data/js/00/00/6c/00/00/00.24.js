@@ -1,1 +1,1 @@
-deepmacDetailCallback("00006c000000/24",[{"d":"2001-10-24","t":"add","a":"38 NEPONSET AVENUE\nFOXBOROUGH MA 02035\n\n","c":"UNITED STATES","o":"THE FOXBORO COMPANY"},{"d":"2001-12-14","t":"change","a":"","c":null,"o":"PRIVATE"}]);
+macDetailCallback("00006c000000/24",[{"d":"2001-10-24","t":"add","a":"38 NEPONSET AVENUE\nFOXBOROUGH MA 02035\n\n","c":"UNITED STATES","o":"THE FOXBORO COMPANY"},{"d":"2001-12-14","t":"change","a":"","c":null,"o":"PRIVATE"}]);

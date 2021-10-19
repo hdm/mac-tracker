@@ -1,1 +1,1 @@
-deepmacDetailCallback("0005fe000000/24",[{"d":"2001-06-04","t":"add","a":"Bissegemsestraat 45\nB-8501 Heule\n\n","c":"BELGIUM","o":"Traficon N.V."},{"d":"2015-08-27","t":"change","a":"Bissegemsestraat 45   BE","c":"BE","o":"Traficon N.V."}]);
+macDetailCallback("0005fe000000/24",[{"d":"2001-06-04","t":"add","a":"Bissegemsestraat 45\nB-8501 Heule\n\n","c":"BELGIUM","o":"Traficon N.V."},{"d":"2015-08-27","t":"change","a":"Bissegemsestraat 45   BE","c":"BE","o":"Traficon N.V."}]);

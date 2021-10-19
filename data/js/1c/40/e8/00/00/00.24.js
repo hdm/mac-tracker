@@ -1,1 +1,1 @@
-deepmacDetailCallback("1c40e8000000/24",[{"d":"2016-07-23","t":"add","a":"9F, K1 Mall, Xinsha street, Shajing District, Baoan Shenzhen Guangdong CN 518000","c":"CN","o":"SHENZHEN PROGRESS&WIN TECHNOLOGY CO.,LTD"}]);
+macDetailCallback("1c40e8000000/24",[{"d":"2016-07-23","t":"add","a":"9F, K1 Mall, Xinsha street, Shajing District, Baoan Shenzhen Guangdong CN 518000","c":"CN","o":"SHENZHEN PROGRESS&WIN TECHNOLOGY CO.,LTD"}]);

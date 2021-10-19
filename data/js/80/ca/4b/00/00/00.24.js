@@ -1,1 +1,1 @@
-deepmacDetailCallback("80ca4b000000/24",[{"d":"2020-07-15","t":"add","s":"ieee-oui.csv","a":"No.2, Danzi North Road, Kengzi Street,Pingshan District, SHENZHEN GUANGDONG CN 518122","c":"CN","o":"SHENZHEN GONGJIN ELECTRONICS CO.,LTD"}]);
+macDetailCallback("80ca4b000000/24",[{"d":"2020-07-15","t":"add","s":"ieee-oui.csv","a":"No.2, Danzi North Road, Kengzi Street,Pingshan District, SHENZHEN GUANGDONG CN 518122","c":"CN","o":"SHENZHEN GONGJIN ELECTRONICS CO.,LTD"}]);

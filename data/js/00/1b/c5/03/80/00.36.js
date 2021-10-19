@@ -1,1 +1,1 @@
-deepmacDetailCallback("001bc5038000/36",[{"a":"Unit 1201, Pan-pacific Plaza, No.12A, South Street Zhongguancun,  Beijing  CN 100081","o":"SEED International Ltd.","d":"2013-03-31","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("001bc5038000/36",[{"a":"Unit 1201, Pan-pacific Plaza, No.12A, South Street Zhongguancun,  Beijing  CN 100081","o":"SEED International Ltd.","d":"2013-03-31","t":"add","s":"ieee","c":"CN"}]);

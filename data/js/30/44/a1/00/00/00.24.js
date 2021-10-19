@@ -1,1 +1,1 @@
-deepmacDetailCallback("3044a1000000/24",[{"d":"2016-04-01","t":"add","a":"Floor 1th, building 13, No.368 Zhangjiang Road, Pudong New District, Shanghai shanghai  CN 200000","c":"CN","o":"Shanghai Nanchao Information Technology"}]);
+macDetailCallback("3044a1000000/24",[{"d":"2016-04-01","t":"add","a":"Floor 1th, building 13, No.368 Zhangjiang Road, Pudong New District, Shanghai shanghai  CN 200000","c":"CN","o":"Shanghai Nanchao Information Technology"}]);

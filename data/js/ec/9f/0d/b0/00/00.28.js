@@ -1,1 +1,1 @@
-deepmacDetailCallback("ec9f0db00000/28",[{"a":"No.231 Ruichang Road Qingdao City Qingdao Shandong CN 266000","o":"CRRC QINGDAO SIFANG ROLLING STOCK RESEARCH INSTITUTE CO.,LTD","d":"2017-08-20","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("ec9f0db00000/28",[{"a":"No.231 Ruichang Road Qingdao City Qingdao Shandong CN 266000","o":"CRRC QINGDAO SIFANG ROLLING STOCK RESEARCH INSTITUTE CO.,LTD","d":"2017-08-20","t":"add","s":"ieee","c":"CN"}]);

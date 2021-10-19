@@ -1,1 +1,1 @@
-deepmacDetailCallback("28f537c00000/28",[{"a":"2nd Flr. 2 Bldg., Detai Technology Industrial Park, Huarong Road No. 460, Dalang, Longhua district, Shenzhen Guangdong CN 518000","o":"Matricx Singapore Pte Ltd","d":"2017-04-30","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("28f537c00000/28",[{"a":"2nd Flr. 2 Bldg., Detai Technology Industrial Park, Huarong Road No. 460, Dalang, Longhua district, Shenzhen Guangdong CN 518000","o":"Matricx Singapore Pte Ltd","d":"2017-04-30","t":"add","s":"ieee","c":"CN"}]);

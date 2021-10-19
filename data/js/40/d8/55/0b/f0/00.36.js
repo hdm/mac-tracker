@@ -1,1 +1,1 @@
-deepmacDetailCallback("40d8550bf000/36",[{"a":"#199, Setec Industrial Park Nanshan District, Shenzhen Guangdong CN 518055","o":"Shenzhen SETEC Power Co.,Ltd","d":"2013-03-17","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("40d8550bf000/36",[{"a":"#199, Setec Industrial Park Nanshan District, Shenzhen Guangdong CN 518055","o":"Shenzhen SETEC Power Co.,Ltd","d":"2013-03-17","t":"add","s":"ieee","c":"CN"}]);

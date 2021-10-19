@@ -1,1 +1,1 @@
-deepmacDetailCallback("7c477c000000/28",[{"a":"15F., No.19-11, Sanchong Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.) Taipei  TW 100","o":"BungBungame Inc","d":"2015-12-27","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("7c477c000000/28",[{"a":"15F., No.19-11, Sanchong Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.) Taipei  TW 100","o":"BungBungame Inc","d":"2015-12-27","t":"add","s":"ieee","c":"TW"}]);

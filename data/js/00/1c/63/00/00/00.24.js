@@ -1,1 +1,1 @@
-deepmacDetailCallback("001c63000000/24",[{"d":"2007-05-13","t":"add","a":"4F SAMWON BLDG., 451-7\nBANGBAE-DONG, SEOCHO-GU\nSEOUL  137-818\n","c":"KOREA, REPUBLIC OF","o":"TRUEN"},{"d":"2015-08-27","t":"change","a":"4F SAMWON BLDG., 451-7 SEOUL  KR 137-818","c":"KR","o":"TRUEN"}]);
+macDetailCallback("001c63000000/24",[{"d":"2007-05-13","t":"add","a":"4F SAMWON BLDG., 451-7\nBANGBAE-DONG, SEOCHO-GU\nSEOUL  137-818\n","c":"KOREA, REPUBLIC OF","o":"TRUEN"},{"d":"2015-08-27","t":"change","a":"4F SAMWON BLDG., 451-7 SEOUL  KR 137-818","c":"KR","o":"TRUEN"}]);

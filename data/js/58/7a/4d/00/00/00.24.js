@@ -1,1 +1,1 @@
-deepmacDetailCallback("587a4d000000/24",[{"d":"2013-04-20","t":"add","a":"Italahdenkatu 22A\nHelsinki  00210\n\n","c":"FINLAND","o":"Stonesoft Corporation"},{"d":"2015-08-27","t":"change","a":"Italahdenkatu 22A Helsinki  FI 00210","c":"FI","o":"Stonesoft Corporation"}]);
+macDetailCallback("587a4d000000/24",[{"d":"2013-04-20","t":"add","a":"Italahdenkatu 22A\nHelsinki  00210\n\n","c":"FINLAND","o":"Stonesoft Corporation"},{"d":"2015-08-27","t":"change","a":"Italahdenkatu 22A Helsinki  FI 00210","c":"FI","o":"Stonesoft Corporation"}]);

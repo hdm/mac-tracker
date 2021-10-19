@@ -1,1 +1,1 @@
-deepmacDetailCallback("00218c000000/24",[{"d":"2008-06-18","t":"add","a":"Enzenbergweg 24/A\nTerlan (BZ)  39018\n\n","c":"ITALY","o":"TopControl GMBH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Enzenbergweg 24/A Terlan (BZ)  IT 39018","c":"IT","o":"TopControl GMBH"}]);
+macDetailCallback("00218c000000/24",[{"d":"2008-06-18","t":"add","a":"Enzenbergweg 24/A\nTerlan (BZ)  39018\n\n","c":"ITALY","o":"TopControl GMBH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Enzenbergweg 24/A Terlan (BZ)  IT 39018","c":"IT","o":"TopControl GMBH"}]);

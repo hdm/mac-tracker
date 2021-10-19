@@ -1,1 +1,1 @@
-deepmacDetailCallback("a8fb70000000/24",[{"d":"2013-04-04","t":"add","a":"145 yaffo ST.\nHaifa Israel 37503\n\n","c":"ISRAEL","o":"WiseSec L.t.d"},{"d":"2015-08-27","t":"change","a":"145 yaffo ST. Haifa Israel IL 37503","c":"IL","o":"WiseSec L.t.d"}]);
+macDetailCallback("a8fb70000000/24",[{"d":"2013-04-04","t":"add","a":"145 yaffo ST.\nHaifa Israel 37503\n\n","c":"ISRAEL","o":"WiseSec L.t.d"},{"d":"2015-08-27","t":"change","a":"145 yaffo ST. Haifa Israel IL 37503","c":"IL","o":"WiseSec L.t.d"}]);

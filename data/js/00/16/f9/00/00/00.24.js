@@ -1,1 +1,1 @@
-deepmacDetailCallback("0016f9000000/24",[{"d":"2006-01-04","t":"add","a":"Planina 3\nKranj SI 4000\n\n","c":"SLOVENIA","o":"CETRTA POT, d.o.o., Kranj"},{"d":"2015-08-27","t":"change","a":"Planina 3 Kranj SI SI 4000","c":"SI","o":"CETRTA POT, d.o.o., Kranj"}]);
+macDetailCallback("0016f9000000/24",[{"d":"2006-01-04","t":"add","a":"Planina 3\nKranj SI 4000\n\n","c":"SLOVENIA","o":"CETRTA POT, d.o.o., Kranj"},{"d":"2015-08-27","t":"change","a":"Planina 3 Kranj SI SI 4000","c":"SI","o":"CETRTA POT, d.o.o., Kranj"}]);

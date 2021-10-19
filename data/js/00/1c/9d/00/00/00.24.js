@@ -1,1 +1,1 @@
-deepmacDetailCallback("001c9d000000/24",[{"d":"2007-05-16","t":"add","a":"10 Unterholz Street\nKriegstetten Solothurn 4566\n\n","c":"SWITZERLAND","o":"Liecthi AG"},{"d":"2015-08-27","t":"change","a":"10 Unterholz Street Kriegstetten Solothurn CH 4566","c":"CH","o":"Liecthi AG"}]);
+macDetailCallback("001c9d000000/24",[{"d":"2007-05-16","t":"add","a":"10 Unterholz Street\nKriegstetten Solothurn 4566\n\n","c":"SWITZERLAND","o":"Liecthi AG"},{"d":"2015-08-27","t":"change","a":"10 Unterholz Street Kriegstetten Solothurn CH 4566","c":"CH","o":"Liecthi AG"}]);

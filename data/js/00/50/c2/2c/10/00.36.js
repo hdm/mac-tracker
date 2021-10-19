@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c22c1000/36",[{"a":"Tabbertstraße 10 Berlin Berlin DE 12459","o":"Stage Tec Entwicklungsgesellschaft für professionelle Audio","d":"2008-07-30","t":"add","s":"ieee","c":"DE"}]);
+macDetailCallback("0050c22c1000/36",[{"a":"Tabbertstraße 10 Berlin Berlin DE 12459","o":"Stage Tec Entwicklungsgesellschaft für professionelle Audio","d":"2008-07-30","t":"add","s":"ieee","c":"DE"}]);

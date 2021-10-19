@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5adb000/36",[{"a":"2600 Longhorn Blvd. ste 111 Austin  US 78758","o":"RF Code","d":"2016-10-02","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-oui36.csv","a":"2600 Longhorn Blvd. ste 111 Austin null US 78758","c":"US","o":"RF Code"}]);
+macDetailCallback("70b3d5adb000/36",[{"a":"2600 Longhorn Blvd. ste 111 Austin  US 78758","o":"RF Code","d":"2016-10-02","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-oui36.csv","a":"2600 Longhorn Blvd. ste 111 Austin null US 78758","c":"US","o":"RF Code"}]);

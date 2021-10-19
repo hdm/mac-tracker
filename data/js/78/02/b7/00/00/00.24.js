@@ -1,1 +1,1 @@
-deepmacDetailCallback("7802b7000000/24",[{"d":"2016-06-14","t":"add","a":"608,Building 2,Guangxingyuan Industrial Park A District, Baoyuan Rd ShenZhen,Guangdong CN 518102","c":"CN","o":"ShenZhen Ultra Easy Technology CO.,LTD"}]);
+macDetailCallback("7802b7000000/24",[{"d":"2016-06-14","t":"add","a":"608,Building 2,Guangxingyuan Industrial Park A District, Baoyuan Rd ShenZhen,Guangdong CN 518102","c":"CN","o":"ShenZhen Ultra Easy Technology CO.,LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("ac0142000000/24",[{"d":"2012-02-16","t":"add","a":"Dzerbenes iela 14\nRiga  LV-1006\n\n","c":"LATVIA","o":"Uriel Technologies SIA"},{"d":"2015-08-27","t":"change","a":"Dzerbenes iela 14 Riga  LV LV-1006","c":"LV","o":"Uriel Technologies SIA"}]);
+macDetailCallback("ac0142000000/24",[{"d":"2012-02-16","t":"add","a":"Dzerbenes iela 14\nRiga  LV-1006\n\n","c":"LATVIA","o":"Uriel Technologies SIA"},{"d":"2015-08-27","t":"change","a":"Dzerbenes iela 14 Riga  LV LV-1006","c":"LV","o":"Uriel Technologies SIA"}]);

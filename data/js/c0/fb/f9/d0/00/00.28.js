@@ -1,1 +1,1 @@
-deepmacDetailCallback("c0fbf9d00000/28",[{"d":"2021-03-11","t":"add","s":"ieee-mam.csv","a":"Room 304, Building 4?Juli Road ? Pudong New District Shanghai Shanghai CN 201203","c":"CN","o":"Dropbeats Technology Co., Ltd."}]);
+macDetailCallback("c0fbf9d00000/28",[{"d":"2021-03-11","t":"add","s":"ieee-mam.csv","a":"Room 304, Building 4?Juli Road ? Pudong New District Shanghai Shanghai CN 201203","c":"CN","o":"Dropbeats Technology Co., Ltd."}]);

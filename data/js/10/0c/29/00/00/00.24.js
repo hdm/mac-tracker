@@ -1,1 +1,1 @@
-deepmacDetailCallback("100c29000000/24",[{"d":"2021-06-18","t":"add","s":"ieee-oui.csv","a":"6th Fl., Bldg. B, Shum Yip U Centre, Hangcheng Sub-district, Baoan District, Shenzhen Shenzhen  CN 518126","c":"CN","o":"Shenzhen NORCO lntelligent Technology Co.,Ltd"}]);
+macDetailCallback("100c29000000/24",[{"d":"2021-06-18","t":"add","s":"ieee-oui.csv","a":"6th Fl., Bldg. B, Shum Yip U Centre, Hangcheng Sub-district, Baoan District, Shenzhen Shenzhen  CN 518126","c":"CN","o":"Shenzhen NORCO lntelligent Technology Co.,Ltd"}]);

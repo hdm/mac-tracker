@@ -1,1 +1,1 @@
-deepmacDetailCallback("087572000000/24",[{"d":"2011-10-01","t":"add","a":"Kutomotie 6 B\nHelsinki  00380\n\n","c":"FINLAND","o":"Obelux Oy"},{"d":"2015-08-27","t":"change","a":"Kutomotie 6 B Helsinki  FI 00380","c":"FI","o":"Obelux Oy"}]);
+macDetailCallback("087572000000/24",[{"d":"2011-10-01","t":"add","a":"Kutomotie 6 B\nHelsinki  00380\n\n","c":"FINLAND","o":"Obelux Oy"},{"d":"2015-08-27","t":"change","a":"Kutomotie 6 B Helsinki  FI 00380","c":"FI","o":"Obelux Oy"}]);

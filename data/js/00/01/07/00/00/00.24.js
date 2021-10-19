@@ -1,1 +1,1 @@
-deepmacDetailCallback("000107000000/24",[{"d":"2000-09-08","t":"add","a":"Ilmstr. 7\n85579 Neubiberg\n\n","c":"GERMANY","o":"Leiser GmbH"},{"d":"2015-08-27","t":"change","a":"Ilmstr. 7 85579 Neubiberg  DE","c":"DE","o":"Leiser GmbH"}]);
+macDetailCallback("000107000000/24",[{"d":"2000-09-08","t":"add","a":"Ilmstr. 7\n85579 Neubiberg\n\n","c":"GERMANY","o":"Leiser GmbH"},{"d":"2015-08-27","t":"change","a":"Ilmstr. 7 85579 Neubiberg  DE","c":"DE","o":"Leiser GmbH"}]);

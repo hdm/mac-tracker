@@ -1,1 +1,1 @@
-deepmacDetailCallback("00ce30000000/24",[{"d":"2021-06-12","t":"add","s":"ieee-oui.csv","a":"No. 88, Baotongnan Road, Xikeng, Yuanshan Street, Longgang District Shenzhen Guangdong CN 518100","c":"CN","o":"Express LUCK Industrial Ltd."}]);
+macDetailCallback("00ce30000000/24",[{"d":"2021-06-12","t":"add","s":"ieee-oui.csv","a":"No. 88, Baotongnan Road, Xikeng, Yuanshan Street, Longgang District Shenzhen Guangdong CN 518100","c":"CN","o":"Express LUCK Industrial Ltd."}]);

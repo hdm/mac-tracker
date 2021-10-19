@@ -1,1 +1,1 @@
-deepmacDetailCallback("c048fb000000/24",[{"d":"2018-04-25","t":"add","a":"5th Floor,No 4 ,Road 1,ShangXue Technology industrial Park,LongGang district,ShenZhen,GuangDong,China ShenZhen GuangDong CN 518129","c":"CN","o":"Shenzhen JingHanDa Electronics Co.Ltd"}]);
+macDetailCallback("c048fb000000/24",[{"d":"2018-04-25","t":"add","a":"5th Floor,No 4 ,Road 1,ShangXue Technology industrial Park,LongGang district,ShenZhen,GuangDong,China ShenZhen GuangDong CN 518129","c":"CN","o":"Shenzhen JingHanDa Electronics Co.Ltd"}]);

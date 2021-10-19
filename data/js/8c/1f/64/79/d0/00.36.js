@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f6479d000/36",[{"d":"2021-06-09","t":"add","s":"ieee-oui36.csv","a":"2288, Oaza-Ohshinohara, Yasu-cho, Yasu-gun Shiga JP 520-2393","c":"JP","o":"Murata Manufacturing Co., Ltd."}]);
+macDetailCallback("8c1f6479d000/36",[{"d":"2021-06-09","t":"add","s":"ieee-oui36.csv","a":"2288, Oaza-Ohshinohara, Yasu-cho, Yasu-gun Shiga JP 520-2393","c":"JP","o":"Murata Manufacturing Co., Ltd."}]);

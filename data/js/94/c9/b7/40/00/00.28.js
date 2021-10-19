@@ -1,0 +1,1 @@
+macDetailCallback("94c9b7400000/28",[{"d":"2021-10-19","t":"add","s":"ieee-mam.csv","a":"East 3F 23Building, Wenzhou National University Science Park, NO. 89 FengFang road, Ouhai econmic development Zone, Wenzhou Zhejiang CN 325000","c":"CN","o":"Zhejiang Hengjie Communication Technology Co,. Ltd."}]);

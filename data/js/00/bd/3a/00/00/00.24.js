@@ -1,1 +1,1 @@
-deepmacDetailCallback("00bd3a000000/24",[{"d":"2009-11-21","t":"add","a":"Elektroniikkatie 10\nOulu  90570\n\n","c":"FINLAND","o":"Nokia Corporation"},{"d":"2015-08-27","t":"change","a":"Joensuunkatu 7 Salo Varsinais-Suomi FI 24101","c":"FI","o":"Nokia Corporation"}]);
+macDetailCallback("00bd3a000000/24",[{"d":"2009-11-21","t":"add","a":"Elektroniikkatie 10\nOulu  90570\n\n","c":"FINLAND","o":"Nokia Corporation"},{"d":"2015-08-27","t":"change","a":"Joensuunkatu 7 Salo Varsinais-Suomi FI 24101","c":"FI","o":"Nokia Corporation"}]);

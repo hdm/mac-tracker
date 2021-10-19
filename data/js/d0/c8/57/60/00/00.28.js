@@ -1,1 +1,1 @@
-deepmacDetailCallback("d0c857600000/28",[{"d":"2019-03-27","t":"add","s":"ieee-mam.csv","a":"OFFICE 3A,12/F,KAISER CENTRE,NO.18CENTRE STREET SAI YING PUN  HK 999077","c":"HK","o":"Innovative Industrial(HK)Co., Limited"}]);
+macDetailCallback("d0c857600000/28",[{"d":"2019-03-27","t":"add","s":"ieee-mam.csv","a":"OFFICE 3A,12/F,KAISER CENTRE,NO.18CENTRE STREET SAI YING PUN  HK 999077","c":"HK","o":"Innovative Industrial(HK)Co., Limited"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("18396e000000/24",[{"d":"2017-07-12","t":"add","a":"High tech Industrial Park,Longhua District of Shenzhen City,South central concept Shenzhen  CN 518110","c":"CN","o":"SUNSEA TELECOMMUNICATIONS CO.,LTD."}]);
+macDetailCallback("18396e000000/24",[{"d":"2017-07-12","t":"add","a":"High tech Industrial Park,Longhua District of Shenzhen City,South central concept Shenzhen  CN 518110","c":"CN","o":"SUNSEA TELECOMMUNICATIONS CO.,LTD."}]);

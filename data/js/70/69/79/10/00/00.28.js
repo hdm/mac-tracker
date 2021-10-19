@@ -1,1 +1,1 @@
-deepmacDetailCallback("706979100000/28",[{"d":"2020-03-28","t":"add","s":"ieee-mam.csv","a":"RoomC303-A, Number 2223 road Banxuegang Xinweizai Gangtou Community Bantian street Longgang Township Guangdong CN 514349","c":"CN","o":"Linksys Telecom Shenzhen CO., LTD"}]);
+macDetailCallback("706979100000/28",[{"d":"2020-03-28","t":"add","s":"ieee-mam.csv","a":"RoomC303-A, Number 2223 road Banxuegang Xinweizai Gangtou Community Bantian street Longgang Township Guangdong CN 514349","c":"CN","o":"Linksys Telecom Shenzhen CO., LTD"}]);

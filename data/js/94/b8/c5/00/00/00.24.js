@@ -1,1 +1,1 @@
-deepmacDetailCallback("94b8c5000000/24",[{"d":"2013-03-15","t":"add","a":"300 Applewood Crescent\nConcord Ontario L4K 5C7\n\n","c":"CANADA","o":"RuggedCom Inc."},{"d":"2015-08-27","t":"change","a":"300 Applewood Crescent Concord Ontario CA L4K 5C7","c":"CA","o":"RuggedCom Inc."}]);
+macDetailCallback("94b8c5000000/24",[{"d":"2013-03-15","t":"add","a":"300 Applewood Crescent\nConcord Ontario L4K 5C7\n\n","c":"CANADA","o":"RuggedCom Inc."},{"d":"2015-08-27","t":"change","a":"300 Applewood Crescent Concord Ontario CA L4K 5C7","c":"CA","o":"RuggedCom Inc."}]);

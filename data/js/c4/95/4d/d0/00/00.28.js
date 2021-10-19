@@ -1,1 +1,1 @@
-deepmacDetailCallback("c4954dd00000/28",[{"d":"2019-09-18","t":"add","s":"ieee-mam.csv","a":"No. 1, Linkong 2 Road,North Wenhuaying Village, Gaoliying Town, Shunyi District, Beijing Beijing  CN 101303","c":"CN","o":"Newland Era Edu Hi-Tech(BeiJing)Co.,Ltd"}]);
+macDetailCallback("c4954dd00000/28",[{"d":"2019-09-18","t":"add","s":"ieee-mam.csv","a":"No. 1, Linkong 2 Road,North Wenhuaying Village, Gaoliying Town, Shunyi District, Beijing Beijing  CN 101303","c":"CN","o":"Newland Era Edu Hi-Tech(BeiJing)Co.,Ltd"}]);

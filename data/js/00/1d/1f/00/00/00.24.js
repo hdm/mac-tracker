@@ -1,1 +1,1 @@
-deepmacDetailCallback("001d1f000000/24",[{"d":"2007-08-18","t":"add","a":"Pramones,15\nSiauliai  LT-57318\n\n","c":"LITHUANIA","o":"Siauliu Tauro Televizoriai, JSC"},{"d":"2015-08-27","t":"change","a":"Pramones,15 Siauliai  LT LT-57318","c":"LT","o":"Siauliu Tauro Televizoriai, JSC"}]);
+macDetailCallback("001d1f000000/24",[{"d":"2007-08-18","t":"add","a":"Pramones,15\nSiauliai  LT-57318\n\n","c":"LITHUANIA","o":"Siauliu Tauro Televizoriai, JSC"},{"d":"2015-08-27","t":"change","a":"Pramones,15 Siauliai  LT LT-57318","c":"LT","o":"Siauliu Tauro Televizoriai, JSC"}]);

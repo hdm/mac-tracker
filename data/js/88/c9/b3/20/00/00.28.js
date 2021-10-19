@@ -1,1 +1,1 @@
-deepmacDetailCallback("88c9b3200000/28",[{"d":"2021-02-26","t":"add","s":"ieee-mam.csv","a":"102, 61 Liuxian Rd 2, Baoan Dst., Shenzhen shenzhen  CN 518000","c":"CN","o":"shenzhen franklin ESS technology CO.,Ltd"}]);
+macDetailCallback("88c9b3200000/28",[{"d":"2021-02-26","t":"add","s":"ieee-mam.csv","a":"102, 61 Liuxian Rd 2, Baoan Dst., Shenzhen shenzhen  CN 518000","c":"CN","o":"shenzhen franklin ESS technology CO.,Ltd"}]);

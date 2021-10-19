@@ -1,1 +1,1 @@
-deepmacDetailCallback("001a6f000000/24",[{"d":"2006-11-29","t":"add","a":"VIA GUIDO ROSSA, 22\nCORNATE D'ADDA MILANO 20040\n\n","c":"ITALY","o":"MI.TEL s.r.l."},{"d":"2015-08-27","t":"change","a":"VIA GUIDO ROSSA, 22 CORNATE D'ADDA MILANO IT 20040","c":"IT","o":"MI.TEL s.r.l."}]);
+macDetailCallback("001a6f000000/24",[{"d":"2006-11-29","t":"add","a":"VIA GUIDO ROSSA, 22\nCORNATE D'ADDA MILANO 20040\n\n","c":"ITALY","o":"MI.TEL s.r.l."},{"d":"2015-08-27","t":"change","a":"VIA GUIDO ROSSA, 22 CORNATE D'ADDA MILANO IT 20040","c":"IT","o":"MI.TEL s.r.l."}]);

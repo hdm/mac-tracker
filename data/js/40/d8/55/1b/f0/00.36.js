@@ -1,1 +1,1 @@
-deepmacDetailCallback("40d8551bf000/36",[{"a":"Room 304 building 3, No 439 Jinglian road, Shanghai  CN 201018","o":"shanghai mingding information tech co.Ltd","d":"2013-12-01","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("40d8551bf000/36",[{"a":"Room 304 building 3, No 439 Jinglian road, Shanghai  CN 201018","o":"shanghai mingding information tech co.Ltd","d":"2013-12-01","t":"add","s":"ieee","c":"CN"}]);

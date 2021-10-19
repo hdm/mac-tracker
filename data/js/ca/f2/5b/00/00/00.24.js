@@ -1,1 +1,1 @@
-deepmacDetailCallback("caf25b000000/24",[{"d":"2020-05-21","t":"add","s":"ieee-cid.csv","a":"Room EF, 5F, Building 1, Financial Base, No.8 Kefa Road, High-Tech Park, Shenzhen, China Shenzhen Guangdong CN 518000","c":"CN","o":"Lexar Electronics(Shenzhen) Co.,Ltd."}]);
+macDetailCallback("caf25b000000/24",[{"d":"2020-05-21","t":"add","s":"ieee-cid.csv","a":"Room EF, 5F, Building 1, Financial Base, No.8 Kefa Road, High-Tech Park, Shenzhen, China Shenzhen Guangdong CN 518000","c":"CN","o":"Lexar Electronics(Shenzhen) Co.,Ltd."}]);

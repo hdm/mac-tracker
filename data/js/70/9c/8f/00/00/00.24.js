@@ -1,1 +1,1 @@
-deepmacDetailCallback("709c8f000000/24",[{"d":"2014-12-17","t":"add","a":"Rueppurrer Str. 1A\nKarlsruhe BW 76137\n\n","c":"GERMANY","o":"Nero AG"},{"d":"2015-08-27","t":"change","a":"Rueppurrer Str. 1A Karlsruhe BW DE 76137","c":"DE","o":"Nero AG"}]);
+macDetailCallback("709c8f000000/24",[{"d":"2014-12-17","t":"add","a":"Rueppurrer Str. 1A\nKarlsruhe BW 76137\n\n","c":"GERMANY","o":"Nero AG"},{"d":"2015-08-27","t":"change","a":"Rueppurrer Str. 1A Karlsruhe BW DE 76137","c":"DE","o":"Nero AG"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c476e400000/28",[{"d":"2020-10-03","t":"add","s":"ieee-mam.csv","a":"5th Floor, Building B5, Fenghuanggang Third Industrial Zone, No.231, Baotian 1st Road, Baoan District Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Juding Electronics Co., Ltd."}]);
+macDetailCallback("8c476e400000/28",[{"d":"2020-10-03","t":"add","s":"ieee-mam.csv","a":"5th Floor, Building B5, Fenghuanggang Third Industrial Zone, No.231, Baotian 1st Road, Baoan District Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Juding Electronics Co., Ltd."}]);

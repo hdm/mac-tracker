@@ -1,1 +1,1 @@
-deepmacDetailCallback("c47c8dd00000/28",[{"a":"Floor 6, Block B, Idiopathic Information Technology Port, Kefeng Road No. 2, Nanshan District Shenzhen Guangdong CN 518057","o":"Anhui GuangXing Linked-Video Communication Technology Co, Ltd.","d":"2016-03-06","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("c47c8dd00000/28",[{"a":"Floor 6, Block B, Idiopathic Information Technology Port, Kefeng Road No. 2, Nanshan District Shenzhen Guangdong CN 518057","o":"Anhui GuangXing Linked-Video Communication Technology Co, Ltd.","d":"2016-03-06","t":"add","s":"ieee","c":"CN"}]);

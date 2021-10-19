@@ -1,1 +1,1 @@
-deepmacDetailCallback("282c02900000/28",[{"a":"Room 1312, Building D, HI-Tech. Information Square, No.8 Huatian Rd., Huayuan HI-Tech. Park Tianjin  CN 300384","o":"Systec Intelligent Building Technology (Tianjin) Co.,Ltd.","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("282c02900000/28",[{"a":"Room 1312, Building D, HI-Tech. Information Square, No.8 Huatian Rd., Huayuan HI-Tech. Park Tianjin  CN 300384","o":"Systec Intelligent Building Technology (Tianjin) Co.,Ltd.","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("e8b470200000/28",[{"d":"2020-02-21","t":"add","s":"ieee-mam.csv","a":"4,4TH SOUTH STREET ZHONG GUAN CUN hai dian qu ,beijing BEIJING CN 100190","c":"CN","o":"internet domain name system beijing engineering research center ltd"}]);
+macDetailCallback("e8b470200000/28",[{"d":"2020-02-21","t":"add","s":"ieee-mam.csv","a":"4,4TH SOUTH STREET ZHONG GUAN CUN hai dian qu ,beijing BEIJING CN 100190","c":"CN","o":"internet domain name system beijing engineering research center ltd"}]);

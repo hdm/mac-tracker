@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1cdaa00000/28",[{"a":"No.6, haidian north second street, haidian district, Beijing Beijing Beijing CN 100080","o":"China Potevio Co., Ltd","d":"2018-02-04","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("8c1cdaa00000/28",[{"a":"No.6, haidian north second street, haidian district, Beijing Beijing Beijing CN 100080","o":"China Potevio Co., Ltd","d":"2018-02-04","t":"add","s":"ieee","c":"CN"}]);

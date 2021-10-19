@@ -1,1 +1,1 @@
-deepmacDetailCallback("4488cb000000/24",[{"d":"2014-06-27","t":"add","a":"Technologielaan 13\nHeverlee VB 3001\n\n","c":"BELGIUM","o":"Camco Technologies NV"},{"d":"2015-08-27","t":"change","a":"Technologielaan 13 Heverlee VB BE 3001","c":"BE","o":"Camco Technologies NV"}]);
+macDetailCallback("4488cb000000/24",[{"d":"2014-06-27","t":"add","a":"Technologielaan 13\nHeverlee VB 3001\n\n","c":"BELGIUM","o":"Camco Technologies NV"},{"d":"2015-08-27","t":"change","a":"Technologielaan 13 Heverlee VB BE 3001","c":"BE","o":"Camco Technologies NV"}]);

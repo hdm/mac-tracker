@@ -1,1 +1,1 @@
-deepmacDetailCallback("001659000000/24",[{"d":"2005-11-04","t":"add","a":"Bracka 28 street\nRADOM Mazowieckie 26-600\n\n","c":"POLAND","o":"Z.M.P. RADWAG"},{"d":"2015-08-27","t":"change","a":"Bracka 28 street RADOM Mazowieckie PL 26-600","c":"PL","o":"Z.M.P. RADWAG"}]);
+macDetailCallback("001659000000/24",[{"d":"2005-11-04","t":"add","a":"Bracka 28 street\nRADOM Mazowieckie 26-600\n\n","c":"POLAND","o":"Z.M.P. RADWAG"},{"d":"2015-08-27","t":"change","a":"Bracka 28 street RADOM Mazowieckie PL 26-600","c":"PL","o":"Z.M.P. RADWAG"}]);

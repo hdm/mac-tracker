@@ -1,1 +1,1 @@
-deepmacDetailCallback("00a082000000/24",[{"d":"1998-04-22","t":"add","a":"NKT ALLE 85\nDK-2605 BRONDBY\n\n","c":"DENMARK","o":"NKT ELEKTRONIK A/S"},{"d":"2015-08-27","t":"change","a":"NKT ALLE 85   DK","c":"DK","o":"NKT ELEKTRONIK A/S"}]);
+macDetailCallback("00a082000000/24",[{"d":"1998-04-22","t":"add","a":"NKT ALLE 85\nDK-2605 BRONDBY\n\n","c":"DENMARK","o":"NKT ELEKTRONIK A/S"},{"d":"2015-08-27","t":"change","a":"NKT ALLE 85   DK","c":"DK","o":"NKT ELEKTRONIK A/S"}]);

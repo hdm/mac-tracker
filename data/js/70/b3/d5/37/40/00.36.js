@@ -1,1 +1,1 @@
-deepmacDetailCallback("70b3d5374000/36",[{"a":"199034  V.O.  13  liniya,  6-8,  lit.A, office 40H, Saint-Petersburg  RU 199034","o":"OOO NPP Mars-Energo","d":"2017-05-21","t":"add","s":"ieee","c":"RU"}]);
+macDetailCallback("70b3d5374000/36",[{"a":"199034  V.O.  13  liniya,  6-8,  lit.A, office 40H, Saint-Petersburg  RU 199034","o":"OOO NPP Mars-Energo","d":"2017-05-21","t":"add","s":"ieee","c":"RU"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("f041c8100000/28",[{"a":"Hecheng Industrial District, QiaoTou Town DongGuan City Guangdong CN 523520","o":"DongGuan Siyoto Electronics Co., Ltd","d":"2017-12-10","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("f041c8100000/28",[{"a":"Hecheng Industrial District, QiaoTou Town DongGuan City Guangdong CN 523520","o":"DongGuan Siyoto Electronics Co., Ltd","d":"2017-12-10","t":"add","s":"ieee","c":"CN"}]);

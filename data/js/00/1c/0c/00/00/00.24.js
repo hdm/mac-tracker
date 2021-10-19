@@ -1,1 +1,1 @@
-deepmacDetailCallback("001c0c000000/24",[{"d":"2007-04-08","t":"add","a":"1-14-2,Maeno-cho\nItabashi-ku\nTokyo  174-8630\n","c":"JAPAN","o":"TANITA Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-14-2,Maeno-cho Tokyo  JP 174-8630","c":"JP","o":"TANITA Corporation"}]);
+macDetailCallback("001c0c000000/24",[{"d":"2007-04-08","t":"add","a":"1-14-2,Maeno-cho\nItabashi-ku\nTokyo  174-8630\n","c":"JAPAN","o":"TANITA Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-14-2,Maeno-cho Tokyo  JP 174-8630","c":"JP","o":"TANITA Corporation"}]);

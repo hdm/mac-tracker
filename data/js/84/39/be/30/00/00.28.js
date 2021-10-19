@@ -1,1 +1,1 @@
-deepmacDetailCallback("8439be300000/28",[{"d":"2015-09-12","t":"add","a":"1st Floor, Building C, No.3 Jinyuan Road, Heao Strict, Henggang Street, Longgang Area, Shenzhen. Shenzhen Guangdong province CN 518115","c":"CN","o":"ShenZhen Fudeyu Technology co.,Ltd"}]);
+macDetailCallback("8439be300000/28",[{"d":"2015-09-12","t":"add","a":"1st Floor, Building C, No.3 Jinyuan Road, Heao Strict, Henggang Street, Longgang Area, Shenzhen. Shenzhen Guangdong province CN 518115","c":"CN","o":"ShenZhen Fudeyu Technology co.,Ltd"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("000c02000000/24",[{"d":"2002-12-12","t":"add","a":"P.O.Box 89\nTurku  FIN-20521\n\n","c":"FINLAND","o":"ABB Oy","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O.Box 89 Turku  FI FIN-20521","c":"FI","o":"ABB Oy"}]);
+macDetailCallback("000c02000000/24",[{"d":"2002-12-12","t":"add","a":"P.O.Box 89\nTurku  FIN-20521\n\n","c":"FINLAND","o":"ABB Oy","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O.Box 89 Turku  FI FIN-20521","c":"FI","o":"ABB Oy"}]);

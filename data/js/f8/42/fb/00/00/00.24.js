@@ -1,1 +1,1 @@
-deepmacDetailCallback("f842fb000000/24",[{"d":"2013-04-26","t":"add","a":"1-11-1\nKaigan\nMinato-ku Tokyo 105-0022\n","c":"JAPAN","o":"Yasuda Joho Co.,ltd."},{"d":"2015-08-27","t":"change","a":"1-11-1 Minato-ku Tokyo JP 105-0022","c":"JP","o":"Yasuda Joho Co.,ltd."}]);
+macDetailCallback("f842fb000000/24",[{"d":"2013-04-26","t":"add","a":"1-11-1\nKaigan\nMinato-ku Tokyo 105-0022\n","c":"JAPAN","o":"Yasuda Joho Co.,ltd."},{"d":"2015-08-27","t":"change","a":"1-11-1 Minato-ku Tokyo JP 105-0022","c":"JP","o":"Yasuda Joho Co.,ltd."}]);

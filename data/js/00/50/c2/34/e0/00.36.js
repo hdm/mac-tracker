@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c234e000/36",[{"a":"vai Friuli 4 Dalmine (Bergamo) IT 20044","o":"ABB Power Technologies S.p.A.  Unità  Operativa SACE (PTMV)","d":"2008-07-30","t":"add","s":"ieee","c":"IT"}]);
+macDetailCallback("0050c234e000/36",[{"a":"vai Friuli 4 Dalmine (Bergamo) IT 20044","o":"ABB Power Technologies S.p.A.  Unità  Operativa SACE (PTMV)","d":"2008-07-30","t":"add","s":"ieee","c":"IT"}]);

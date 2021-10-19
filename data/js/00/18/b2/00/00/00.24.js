@@ -1,1 +1,1 @@
-deepmacDetailCallback("0018b2000000/24",[{"d":"2006-07-01","t":"add","a":"283 Rue NEEL\nCROLLES ISERE 38920\n\n","c":"FRANCE","o":"ADEUNIS RF"},{"d":"2015-08-27","t":"change","a":"283 Rue NEEL CROLLES ISERE FR 38920","c":"FR","o":"ADEUNIS RF"}]);
+macDetailCallback("0018b2000000/24",[{"d":"2006-07-01","t":"add","a":"283 Rue NEEL\nCROLLES ISERE 38920\n\n","c":"FRANCE","o":"ADEUNIS RF"},{"d":"2015-08-27","t":"change","a":"283 Rue NEEL CROLLES ISERE FR 38920","c":"FR","o":"ADEUNIS RF"}]);

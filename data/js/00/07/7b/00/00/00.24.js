@@ -1,1 +1,1 @@
-deepmacDetailCallback("00077b000000/24",[{"d":"2001-10-24","t":"add","a":"Kibutz Givat Hashelosha 48800\n\n\n","c":"ISRAEL","o":"Millimetrix Broadband Networks"},{"d":"2015-08-27","t":"change","a":"Kibutz Givat Hashelosha 48800   IL","c":"IL","o":"Millimetrix Broadband Networks"}]);
+macDetailCallback("00077b000000/24",[{"d":"2001-10-24","t":"add","a":"Kibutz Givat Hashelosha 48800\n\n\n","c":"ISRAEL","o":"Millimetrix Broadband Networks"},{"d":"2015-08-27","t":"change","a":"Kibutz Givat Hashelosha 48800   IL","c":"IL","o":"Millimetrix Broadband Networks"}]);

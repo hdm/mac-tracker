@@ -1,1 +1,1 @@
-deepmacDetailCallback("141fba800000/28",[{"a":"3/FL, Block 1, Shenzhen Software Park, No.2, Gaoxin Middle Street,Nanshan Shen Zhen Guang Dong CN 518057","o":"Shenzhen CATIC Information Technology Industry Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("141fba800000/28",[{"a":"3/FL, Block 1, Shenzhen Software Park, No.2, Gaoxin Middle Street,Nanshan Shen Zhen Guang Dong CN 518057","o":"Shenzhen CATIC Information Technology Industry Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

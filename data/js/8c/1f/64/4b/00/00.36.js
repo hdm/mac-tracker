@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c1f644b0000/36",[{"d":"2021-07-08","t":"add","s":"ieee-oui36.csv","a":"11F., No. 365, Fude 3rd Rd., Xizhi Dist., New Taipei City 221011 , Taiwan (R.O.C.) New Taipei City  TW 221011","c":"TW","o":"U -MEI-DAH INT'L ENTERPRISE CO.,LTD."}]);
+macDetailCallback("8c1f644b0000/36",[{"d":"2021-07-08","t":"add","s":"ieee-oui36.csv","a":"11F., No. 365, Fude 3rd Rd., Xizhi Dist., New Taipei City 221011 , Taiwan (R.O.C.) New Taipei City  TW 221011","c":"TW","o":"U -MEI-DAH INT'L ENTERPRISE CO.,LTD."}]);

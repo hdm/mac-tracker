@@ -1,1 +1,1 @@
-deepmacDetailCallback("ac35ee000000/24",[{"d":"2017-12-23","t":"add","a":"A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District SHENZHEN GUANGDONG CN 518100","c":"CN","o":"FN-LINK TECHNOLOGY LIMITED"}]);
+macDetailCallback("ac35ee000000/24",[{"d":"2017-12-23","t":"add","a":"A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District SHENZHEN GUANGDONG CN 518100","c":"CN","o":"FN-LINK TECHNOLOGY LIMITED"}]);

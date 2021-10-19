@@ -1,1 +1,1 @@
-deepmacDetailCallback("94cc04300000/28",[{"d":"2019-12-26","t":"add","s":"ieee-mam.csv","a":"901,9/F,Dahong High TechIndusryPark?NO.6-18,Xinhe Road,Xinqiao Community,Baoan District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Link technology Co.,Ltd"}]);
+macDetailCallback("94cc04300000/28",[{"d":"2019-12-26","t":"add","s":"ieee-mam.csv","a":"901,9/F,Dahong High TechIndusryPark?NO.6-18,Xinhe Road,Xinqiao Community,Baoan District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Link technology Co.,Ltd"}]);

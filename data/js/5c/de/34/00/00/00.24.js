@@ -1,1 +1,1 @@
-deepmacDetailCallback("5cde34000000/24",[{"d":"2020-11-11","t":"add","s":"ieee-oui.csv","a":"3/F, Building R1-B, High-Tech Industrial Park, Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD."}]);
+macDetailCallback("5cde34000000/24",[{"d":"2020-11-11","t":"add","s":"ieee-oui.csv","a":"3/F, Building R1-B, High-Tech Industrial Park, Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD."}]);

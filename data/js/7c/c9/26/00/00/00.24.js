@@ -1,1 +1,1 @@
-deepmacDetailCallback("7cc926000000/24",[{"d":"2019-05-29","t":"add","s":"ieee-oui.csv","a":"4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone Wuhan  CN 430000","c":"CN","o":"Wuhan GreeNet Information Service Co.,Ltd."}]);
+macDetailCallback("7cc926000000/24",[{"d":"2019-05-29","t":"add","s":"ieee-oui.csv","a":"4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone Wuhan  CN 430000","c":"CN","o":"Wuhan GreeNet Information Service Co.,Ltd."}]);

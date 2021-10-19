@@ -1,1 +1,1 @@
-deepmacDetailCallback("c4954d200000/28",[{"d":"2019-09-18","t":"add","s":"ieee-mam.csv","a":"4/F, Block A2, Xinhao First Industrial Zone,  Qiaotou Community, Fuhai Street Shenzhen Guangdong CN 518103","c":"CN","o":"Shen Zhen Euse Technology Co.,Ltd"}]);
+macDetailCallback("c4954d200000/28",[{"d":"2019-09-18","t":"add","s":"ieee-mam.csv","a":"4/F, Block A2, Xinhao First Industrial Zone,  Qiaotou Community, Fuhai Street Shenzhen Guangdong CN 518103","c":"CN","o":"Shen Zhen Euse Technology Co.,Ltd"}]);

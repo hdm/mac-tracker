@@ -1,1 +1,1 @@
-deepmacDetailCallback("602184000000/24",[{"d":"2010-12-01","t":"add","a":"1266 Kifer Road\nSunnyvale CA 94086\n\n","c":"UNITED STATES","o":"Intuitive Surgical, Inc"},{"d":"2010-12-04","t":"change","a":"","c":null,"o":"PRIVATE"},{"d":"2010-12-24","t":"delete","a":"","c":null,"o":"PRIVATE"}]);
+macDetailCallback("602184000000/24",[{"d":"2010-12-01","t":"add","a":"1266 Kifer Road\nSunnyvale CA 94086\n\n","c":"UNITED STATES","o":"Intuitive Surgical, Inc"},{"d":"2010-12-04","t":"change","a":"","c":null,"o":"PRIVATE"},{"d":"2010-12-24","t":"delete","a":"","c":null,"o":"PRIVATE"}]);

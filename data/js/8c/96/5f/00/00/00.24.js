@@ -1,1 +1,1 @@
-deepmacDetailCallback("8c965f000000/24",[{"d":"2018-12-14","t":"add","s":"ieee-oui.csv","a":"North of Kejia Road, East District, Jinan High-tech Zone Jinan Shandong CN 250100","c":"CN","o":"Shandong Zhongan Technology Co., Ltd."}]);
+macDetailCallback("8c965f000000/24",[{"d":"2018-12-14","t":"add","s":"ieee-oui.csv","a":"North of Kejia Road, East District, Jinan High-tech Zone Jinan Shandong CN 250100","c":"CN","o":"Shandong Zhongan Technology Co., Ltd."}]);

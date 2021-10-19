@@ -1,1 +1,1 @@
-deepmacDetailCallback("f86fde000000/24",[{"d":"2019-09-27","t":"add","s":"ieee-oui.csv","a":"F13,Phase B,Tengfei Industrial Building,Futian Free Trade Zone,Shenzhen,China Shenzhen Guangdong CN 518045","c":"CN","o":"Shenzhen Goodix Technology Co.,Ltd."}]);
+macDetailCallback("f86fde000000/24",[{"d":"2019-09-27","t":"add","s":"ieee-oui.csv","a":"F13,Phase B,Tengfei Industrial Building,Futian Free Trade Zone,Shenzhen,China Shenzhen Guangdong CN 518045","c":"CN","o":"Shenzhen Goodix Technology Co.,Ltd."}]);

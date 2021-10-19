@@ -1,1 +1,1 @@
-deepmacDetailCallback("0050c216c000/36",[{"a":"Room 401, Library Building, Noo. 35, Beijing  CN 100101","o":"Brijing Embedor Embedded Internet Tech. Co. Ltd.","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);
+macDetailCallback("0050c216c000/36",[{"a":"Room 401, Library Building, Noo. 35, Beijing  CN 100101","o":"Brijing Embedor Embedded Internet Tech. Co. Ltd.","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

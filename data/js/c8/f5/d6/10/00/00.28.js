@@ -1,1 +1,1 @@
-deepmacDetailCallback("c8f5d6100000/28",[{"d":"2021-03-07","t":"add","s":"ieee-mam.csv","a":"North Junyi Ind. Park, Huaide Vil., Fuyong Town, Baoan Dist. Shenzhen Guangzhong CN 518103","c":"CN","o":"Valeo Interior Controls (Shenzhen) Co.,Ltd"}]);
+macDetailCallback("c8f5d6100000/28",[{"d":"2021-03-07","t":"add","s":"ieee-mam.csv","a":"North Junyi Ind. Park, Huaide Vil., Fuyong Town, Baoan Dist. Shenzhen Guangzhong CN 518103","c":"CN","o":"Valeo Interior Controls (Shenzhen) Co.,Ltd"}]);

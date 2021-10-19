@@ -1,1 +1,1 @@
-deepmacDetailCallback("240f9b000000/24",[{"d":"2021-07-22","t":"add","s":"ieee-oui.csv","a":"No.555 Qianmo Road Hangzhou Zhejiang CN 310052","c":"CN","o":"Hangzhou Hikvision Digital Technology Co.,Ltd."}]);
+macDetailCallback("240f9b000000/24",[{"d":"2021-07-22","t":"add","s":"ieee-oui.csv","a":"No.555 Qianmo Road Hangzhou Zhejiang CN 310052","c":"CN","o":"Hangzhou Hikvision Digital Technology Co.,Ltd."}]);

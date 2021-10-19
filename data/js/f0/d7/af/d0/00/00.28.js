@@ -1,1 +1,1 @@
-deepmacDetailCallback("f0d7afd00000/28",[{"d":"2020-04-15","t":"add","s":"ieee-mam.csv","a":"Dongguan Gedi Electrons Techeology Co.,LTD Dongguan Guangdong CN 523000","c":"CN","o":"Dongguan Gedi Electrons Techeology Co.,LTD"}]);
+macDetailCallback("f0d7afd00000/28",[{"d":"2020-04-15","t":"add","s":"ieee-mam.csv","a":"Dongguan Gedi Electrons Techeology Co.,LTD Dongguan Guangdong CN 523000","c":"CN","o":"Dongguan Gedi Electrons Techeology Co.,LTD"}]);

@@ -1,1 +1,1 @@
-deepmacDetailCallback("08cbe5000000/24",[{"d":"2020-10-03","t":"add","s":"ieee-oui.csv","a":"Bismarckstrasse 10-12 Berlin Berlin DE 10625","c":"DE","o":"R3 - Reliable Realtime Radio Communications GmbH"}]);
+macDetailCallback("08cbe5000000/24",[{"d":"2020-10-03","t":"add","s":"ieee-oui.csv","a":"Bismarckstrasse 10-12 Berlin Berlin DE 10625","c":"DE","o":"R3 - Reliable Realtime Radio Communications GmbH"}]);

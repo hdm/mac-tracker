@@ -1,1 +1,1 @@
-deepmacDetailCallback("980284000000/24",[{"d":"2012-02-14","t":"add","a":"Gutheil-Schoder Gasse 17\nWien  1230\n\n","c":"AUSTRIA","o":"Theobroma Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Gutheil-Schoder Gasse 17 Wien  US 1230","c":"US","o":"Theobroma Systems GmbH"}]);
+macDetailCallback("980284000000/24",[{"d":"2012-02-14","t":"add","a":"Gutheil-Schoder Gasse 17\nWien  1230\n\n","c":"AUSTRIA","o":"Theobroma Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Gutheil-Schoder Gasse 17 Wien  US 1230","c":"US","o":"Theobroma Systems GmbH"}]);

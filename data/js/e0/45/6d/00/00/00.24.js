@@ -1,1 +1,1 @@
-deepmacDetailCallback("e0456d000000/24",[{"d":"2018-06-23","t":"add","a":"32 Xuanwumen West Street,Xicheng District Beijing  CN 100053","c":"CN","o":"China Mobile Group Device Co.,Ltd."}]);
+macDetailCallback("e0456d000000/24",[{"d":"2018-06-23","t":"add","a":"32 Xuanwumen West Street,Xicheng District Beijing  CN 100053","c":"CN","o":"China Mobile Group Device Co.,Ltd."}]);

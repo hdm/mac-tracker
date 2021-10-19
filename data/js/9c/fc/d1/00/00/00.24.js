@@ -1,1 +1,1 @@
-deepmacDetailCallback("9cfcd1000000/24",[{"d":"2016-11-23","t":"add","a":"Room 225， Building No. 8, 433 Yuyuan Road Shanghai Shanghai CN 200040","c":"CN","o":"Aetheris Technology (Shanghai) Co., Ltd."}]);
+macDetailCallback("9cfcd1000000/24",[{"d":"2016-11-23","t":"add","a":"Room 225， Building No. 8, 433 Yuyuan Road Shanghai Shanghai CN 200040","c":"CN","o":"Aetheris Technology (Shanghai) Co., Ltd."}]);

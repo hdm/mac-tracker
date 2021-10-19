@@ -1,1 +1,1 @@
-deepmacDetailCallback("885d90800000/28",[{"a":"9F., No.501, Sec. 6, Nanjing E. Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.) Taipei City Taiwan TW 114","o":"Creative Sensor Inc.","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);
+macDetailCallback("885d90800000/28",[{"a":"9F., No.501, Sec. 6, Nanjing E. Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.) Taipei City Taiwan TW 114","o":"Creative Sensor Inc.","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);
