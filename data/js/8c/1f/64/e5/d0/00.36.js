@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64e5d000/36",[{"d":"2021-10-21","t":"add","s":"ieee-oui36.csv","a":"8F., No. 649-8, Zhongzheng Rd. Xinzhuang Dist. New Taipei City  TW 242051","c":"TW","o":"JinYuan International Corporation"}]);
