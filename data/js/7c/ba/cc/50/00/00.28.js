@@ -1,1 +1,1 @@
-macDetailCallback("7cbacc500000/28",[{"a":"1712 S East Bay Boulevard Suite 325 Provo UT US 84606","o":"Fortem Technologies, Inc.","d":"2017-04-16","t":"add","s":"ieee","c":"US"}]);
+macDetailCallback("7cbacc500000/28",[{"a":"1712 S East Bay Boulevard Suite 325 Provo UT US 84606","o":"Fortem Technologies, Inc.","d":"2017-04-16","t":"add","s":"ieee","c":"US"},{"d":"2021-10-23","t":"change","s":"ieee-mam.csv","a":"1064 S NORTH COUNTY BLVD STE 600 PLEASANT GROVE UT US 84062-3446","c":"US","o":"Fortem Technologies, Inc."}]);

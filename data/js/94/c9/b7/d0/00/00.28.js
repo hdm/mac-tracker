@@ -1,0 +1,1 @@
+macDetailCallback("94c9b7d00000/28",[{"d":"2021-10-23","t":"add","s":"ieee-mam.csv","a":"Jingxin Building, 2045 Suite , Chaoyang District Beijing  CN 100027","c":"CN","o":"Dspread Technology (Beijing) Inc."}]);

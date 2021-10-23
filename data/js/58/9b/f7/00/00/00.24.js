@@ -1,0 +1,1 @@
+macDetailCallback("589bf7000000/24",[{"d":"2021-10-23","t":"add","s":"ieee-oui.csv","a":"No.108, YinXing Road, High-tech Development Zone  Hefei Anhui CN 230088","c":"CN","o":"Hefei Radio Communication Technology Co., Ltd"}]);
