@@ -1,0 +1,1 @@
+macDetailCallback("147ea1000000/24",[{"d":"2021-10-24","t":"add","s":"ieee-oui.csv","a":"Dona Francisca St. 12340, Pirabeiraba Joinville Santa Catarina BR 89239-270","c":"BR","o":"Britania Eletrônicos S.A."}]);

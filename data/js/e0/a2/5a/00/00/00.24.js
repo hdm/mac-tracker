@@ -1,0 +1,1 @@
+macDetailCallback("e0a25a000000/24",[{"d":"2021-10-24","t":"add","s":"ieee-oui.csv","a":"Room#418-421, ShaHeXiLi, 2-2 XiLi North Road, LiCheng Community, Xili Street, NanShan District, Shenzhen City Shenzhen Guangdong CN 518071","c":"CN","o":"Shanghai Mo xiang Network Technology CO.,ltd"}]);
