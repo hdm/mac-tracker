@@ -1,0 +1,1 @@
+macDetailCallback("74b7e6000000/24",[{"d":"2021-10-27","t":"add","s":"ieee-oui.csv","a":"Rooms 14-17, 18/F, Nan Fung Commercial, Centre 19 Lam Lok Street, Kowloon Bay Hong Kong  HK 999077","c":"HK","o":"Zegna-Daidong Limited"}]);

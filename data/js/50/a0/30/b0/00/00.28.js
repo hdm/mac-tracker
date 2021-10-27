@@ -1,0 +1,1 @@
+macDetailCallback("50a030b00000/28",[{"d":"2021-10-27","t":"add","s":"ieee-mam.csv","a":"No.889 Bibo Road, Zhangjiang Hi-Tech Park Shanghai Shanghai Province CN 200000","c":"CN","o":"SHANGHAI ZXELINK Co.,Ltd"}]);

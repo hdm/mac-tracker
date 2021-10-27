@@ -1,0 +1,1 @@
+macDetailCallback("50a030c00000/28",[{"d":"2021-10-27","t":"add","s":"ieee-mam.csv","a":"Room 3203, No. 233 Tianhe North Road, Tianhe District, Guangzhou  CN 510000","c":"CN","o":"GUANGZHOU UNIPOWER COMPUTER CO.,LTD"}]);
