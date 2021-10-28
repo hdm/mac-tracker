@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64f31000/36",[{"d":"2021-10-28","t":"add","s":"ieee-oui36.csv","a":"Eternitveien 34, Bjerkås næringspark bygg 1, PB 54 Slemmestad  NO 3470","c":"NO","o":"International Water Treatment Maritime AS"}]);
