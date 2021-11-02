@@ -1,0 +1,1 @@
+macDetailCallback("50a030300000/28",[{"d":"2021-11-02","t":"add","s":"ieee-mam.csv","a":"2F,Block21, No.55 Chuanhe Road, Pudong New District Shanghai Shanghai CN 201210","c":"CN","o":"RealWaer (Shanghai) Intelligent Technology Co., Ltd."}]);

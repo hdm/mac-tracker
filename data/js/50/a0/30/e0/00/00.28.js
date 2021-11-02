@@ -1,0 +1,1 @@
+macDetailCallback("50a030e00000/28",[{"d":"2021-11-02","t":"add","s":"ieee-mam.csv","a":"404 Hallasigmavalley, 53, Gasandigital 2-ro Geumcheongu Seoul  KR 08588","c":"KR","o":"HANKOOK CTEC CO,. LTD."}]);
