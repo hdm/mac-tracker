@@ -1,0 +1,1 @@
+macDetailCallback("04eee8100000/28",[{"d":"2021-11-03","t":"add","s":"ieee-mam.csv","a":"28# YuanWen Road, MinHang District Shanghai Shanghai CN 201199","c":"CN","o":"Shanghai ZLAN Information Technology Co.,Ltd"}]);

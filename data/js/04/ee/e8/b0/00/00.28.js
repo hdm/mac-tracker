@@ -1,0 +1,1 @@
+macDetailCallback("04eee8b00000/28",[{"d":"2021-11-03","t":"add","s":"ieee-mam.csv","a":"13th Floor, China Power Software Park, High-tech Development Zone, Changsha City Changsha  CN 410000","c":"CN","o":"Hunan Yaguan Communication Technology Co.,Ltd"}]);
