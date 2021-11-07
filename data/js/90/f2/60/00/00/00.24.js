@@ -1,0 +1,1 @@
+macDetailCallback("90f260000000/24",[{"d":"2021-11-07","t":"add","s":"ieee-oui.csv","a":"5/F,Zone B,Chitat Industrial Park,West Longping Road, Longgang District,Shenzhen City Shenzhen Guangdong CN 518172","c":"CN","o":"Shenzhen Honesty Electronics Co.,Ltd."}]);
