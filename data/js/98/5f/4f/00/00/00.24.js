@@ -1,0 +1,1 @@
+macDetailCallback("985f4f000000/24",[{"d":"2021-11-10","t":"add","s":"ieee-oui.csv","a":"No. 118, Chunsun East Road, Xishan Economic Development Zone (Dongting) Wuxi Jiangsu CN  214101","c":"CN","o":"Tongfang Computer Co.,Ltd."}]);
