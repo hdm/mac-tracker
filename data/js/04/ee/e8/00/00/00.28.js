@@ -1,0 +1,1 @@
+macDetailCallback("04eee8000000/28",[{"d":"2021-11-11","t":"add","s":"ieee-mam.csv","a":"Room 401, floor 4, unit 2, building 26, yard 1, Disheng North Street, Beijing Economic and Technological Development Zone, Beijing Beijing  CN 100000","c":"CN","o":"Zoomlion Huanuo(Beijing)Technology Co.,Ltd"}]);
