@@ -1,0 +1,1 @@
+macDetailCallback("149bd7000000/24",[{"d":"2021-11-12","t":"add","s":"ieee-oui.csv","a":"No. 55, Huanghai Road, Qidong High-tech Industrial Development Zone Qidong Jiangsu CN 226255","c":"CN","o":"MULI FURNITURE QIDONG CO.,LTD"}]);

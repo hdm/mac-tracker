@@ -1,0 +1,1 @@
+macDetailCallback("f0be25000000/24",[{"d":"2021-11-12","t":"add","s":"ieee-oui.csv","a":"No. 21, Nange West Road, Daojiao Town Dongguan Guangdong CN 523170","c":"CN","o":"Dongguan Cannice Precision Manufacturing Co., Ltd."}]);
