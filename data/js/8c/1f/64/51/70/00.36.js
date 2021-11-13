@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64517000/36",[{"d":"2021-11-13","t":"add","s":"ieee-oui36.csv","a":"7F, Innovalley A, 253 Pangyo-ro Bundang-gu Seongnam-si  Gyeonggi-do Korea KR 13486","c":"KR","o":"Smart Radar System, Inc"}]);
