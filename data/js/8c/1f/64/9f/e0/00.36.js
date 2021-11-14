@@ -1,0 +1,1 @@
+macDetailCallback("8c1f649fe000/36",[{"d":"2021-11-14","t":"add","s":"ieee-oui36.csv","a":"RUA CHRISTIANO KILMEYERS, 819 NOVA ODESSA SP BR 13380-296","c":"BR","o":"Metroval Controle de Fluidos Ltda"}]);
