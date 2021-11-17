@@ -1,0 +1,1 @@
+macDetailCallback("18d793300000/28",[{"d":"2021-11-17","t":"add","s":"ieee-mam.csv","a":"Room 1802, Building 3, Xunmei Technology Plaza, No.8 Keyuan Road, Science Park Community, Yuehai Street, Nanshan District   shenzhen guangdong CN 518057","c":"CN","o":"Verification & Validation Technology Co.,Ltd"}]);

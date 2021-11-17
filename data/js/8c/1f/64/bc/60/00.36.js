@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64bc6000/36",[{"d":"2021-11-17","t":"add","s":"ieee-oui36.csv","a":"Building 1, No. 3, Xixin Avenue, hi tech Zone, Chengdu Sichuan CN 610069","c":"CN","o":"Chengdu ZiChen Time&Frequency Technology Co.,Ltd"}]);
