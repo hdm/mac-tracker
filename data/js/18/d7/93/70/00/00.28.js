@@ -1,0 +1,1 @@
+macDetailCallback("18d793700000/28",[{"d":"2021-11-18","t":"add","s":"ieee-mam.csv","a":"Rua Flor das Pedras, 175 Belo Horizonte Minas Gerais BR 30810-000","c":"BR","o":"JFA Electronics Industry and Commerce EIRELI"}]);

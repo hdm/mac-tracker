@@ -1,0 +1,1 @@
+macDetailCallback("9850a3000000/24",[{"d":"2021-11-18","t":"add","s":"ieee-oui.csv","a":"2 Ivovaya street, floor 4, office 1,  Room 45 Moscow   2 Ivovaya street, floor 4, office 1,  Room 45  RU 129329","c":"RU","o":"SIGNALTEK JSC"}]);
