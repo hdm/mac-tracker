@@ -1,0 +1,1 @@
+macDetailCallback("fc38c4000000/24",[{"d":"2021-11-19","t":"add","s":"ieee-oui.csv","a":"2712, Block A, Phase II, Qianhai Economic and Trade Center, China Merchants Group, No. 3041, Yihai Avenue, Nanshan street, Shenzhen Hong Kong cooperation zone, Shenzhen Shenzhen Guangdong CN 518066","c":"CN","o":"China Grand Communications Co.,Ltd."}]);
