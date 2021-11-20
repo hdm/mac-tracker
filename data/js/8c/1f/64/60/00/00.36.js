@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64600000/36",[{"d":"2021-11-20","t":"add","s":"ieee-oui36.csv","a":"E502, Workshop 2, Longshan Science and Technology Park, 35 Hengshan Road, Jiujiang District, Wuhu city, Anhui Province   Wuhu Anhui CN 241000","c":"CN","o":"Anhui Chaokun Testing Equipment Co., Ltd"}]);
