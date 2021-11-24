@@ -1,0 +1,1 @@
+macDetailCallback("50b3b4000000/24",[{"d":"2021-11-24","t":"add","s":"ieee-oui.csv","a":"3/F, No.5 Building Workshop, No.123, Shuitian Industrial Zone,Baoshi East Road, Shuitian Community, Shiyan Street, Bao'an District, Shenzhen  CN 518000","c":"CN","o":"Shenzhen Furuilian Electronic Co.,Ltd."}]);
