@@ -1,0 +1,1 @@
+macDetailCallback("744687000000/24",[{"d":"2021-12-01","t":"add","s":"ieee-oui.csv","a":"Floor 26,Unit B,Block 10,No.1819 Shahexi Road,Shenzhen Bay Eco-Technology Park,Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Kingsignal Technology Co., Ltd."}]);

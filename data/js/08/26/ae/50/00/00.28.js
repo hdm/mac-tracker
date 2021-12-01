@@ -1,0 +1,1 @@
+macDetailCallback("0826ae500000/28",[{"d":"2021-12-01","t":"add","s":"ieee-mam.csv","a":"Gao Qiao Industrial Park East,Long Gang District, Shenzhen Guangdong CN 518117","c":"CN","o":"SHENNAN CIRCUITS CO.,LTD"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("34976f000000/24",[{"d":"2021-12-01","t":"add","s":"ieee-oui.csv","a":"102-611 Digital Empire2, 88, Sin won-ro Yeongtong-gu, Suwon Gyeonggi-do KR 16681","c":"KR","o":"Rootech, Inc."}]);
