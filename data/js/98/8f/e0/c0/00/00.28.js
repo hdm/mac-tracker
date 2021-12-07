@@ -1,0 +1,1 @@
+macDetailCallback("988fe0c00000/28",[{"d":"2021-12-07","t":"add","s":"ieee-mam.csv","a":"shenzhenshifutianquzhongkanglu136haoxinyidaichanyeyuan4dong6lou shenzhen guangdong CN 518000","c":"CN","o":"Shenzhen Micro&Nano Perception Computing Technology Co.,Ltd"}]);
