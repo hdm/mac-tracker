@@ -1,0 +1,1 @@
+macDetailCallback("988fe0b00000/28",[{"d":"2021-12-08","t":"add","s":"ieee-mam.csv","a":"No. 20, Fudong Road, Houjie Town Dongguan Guangdong CN 523966","c":"CN","o":"Dongguan Synst Electronics Co., LTD."}]);
