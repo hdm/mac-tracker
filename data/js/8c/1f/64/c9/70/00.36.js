@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64c97000/36",[{"d":"2021-12-09","t":"add","s":"ieee-oui36.csv","a":"Emil-Hoffmann Str. 3 Köln Nordrhein-W estfalen  DE 50996","c":"DE","o":"Magnet-Physik Dr. Steingroever GmbH"}]);

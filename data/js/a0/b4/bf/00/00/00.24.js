@@ -1,1 +1,1 @@
-macDetailCallback("a0b4bf000000/24",[{"d":"2021-07-25","t":"add","s":"ieee-oui.csv","a":"office 11, 24 S.Deryabinoy st. Yekaterinburg Sverdlovsk region RU 620102","c":"RU","o":"Infinet-EKB LLC"}]);
+macDetailCallback("a0b4bf000000/24",[{"d":"2021-07-25","t":"add","s":"ieee-oui.csv","a":"office 11, 24 S.Deryabinoy st. Yekaterinburg Sverdlovsk region RU 620102","c":"RU","o":"Infinet-EKB LLC"},{"d":"2021-12-09","t":"change","s":"ieee-oui.csv","a":"office 11, 24 S.Deryabinoy st. Yekaterinburg Sverdlovsk region RU 620102","c":"RU","o":"InfiNet LLC"}]);
