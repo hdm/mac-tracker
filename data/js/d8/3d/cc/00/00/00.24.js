@@ -1,0 +1,1 @@
+macDetailCallback("d83dcc000000/24",[{"d":"2021-12-15","t":"add","s":"ieee-oui.csv","a":"Unit D, 6th Floor, Jialitai Bldg., No.45 Yanshan Road, Shekou, Nanshan District, Shenzhen, China shenzhen guangdong CN 51800","c":"CN","o":"shenzhen UDD Technologies,co.,Ltd"}]);
