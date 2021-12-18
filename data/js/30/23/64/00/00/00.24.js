@@ -1,0 +1,1 @@
+macDetailCallback("302364000000/24",[{"d":"2021-12-18","t":"add","s":"ieee-oui.csv","a":"No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai Shanghai   CN 201206","c":"CN","o":"Nokia Shanghai Bell Co., Ltd."}]);

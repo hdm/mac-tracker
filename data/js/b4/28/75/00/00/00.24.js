@@ -1,0 +1,1 @@
+macDetailCallback("b42875000000/24",[{"d":"2021-12-18","t":"add","s":"ieee-oui.csv","a":"504, Commercial Complex, Savitri Cinema Compound, GK2 New Delhi  IN 110048","c":"IN","o":"Futecho Solutions Private Limited"}]);
