@@ -1,0 +1,1 @@
+macDetailCallback("ac330b000000/24",[{"d":"2021-12-22","t":"add","s":"ieee-oui.csv","a":"6F.Hanzoumon PREX South 2-5-1 Kojimachi. Chiyoda-ku TOKYO Tokyo JP 1020083","c":"JP","o":"Japan Computer Vision Corp."}]);

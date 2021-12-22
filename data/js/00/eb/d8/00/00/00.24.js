@@ -1,0 +1,1 @@
+macDetailCallback("00ebd8000000/24",[{"d":"2021-12-22","t":"add","s":"ieee-oui.csv","a":"3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057","c":"CN","o":"MERCUSYS TECHNOLOGIES CO., LTD."}]);

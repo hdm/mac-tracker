@@ -1,0 +1,1 @@
+macDetailCallback("1054d2700000/28",[{"d":"2021-12-22","t":"add","s":"ieee-mam.csv","a":"Bldg.7, N.Industrial Park,No.18 Makan Rd,Xili,Nanshan, SHENZHEN  CN 518000","c":"CN","o":"SHENZHEN CARSAFE TECHNOLOGY DEVELOPMENT CO.,LTD"}]);
