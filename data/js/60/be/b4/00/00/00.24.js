@@ -1,0 +1,1 @@
+macDetailCallback("60beb4000000/24",[{"d":"2021-12-25","t":"add","s":"ieee-oui.csv","a":"Room 202, Block A, Donghai Wang Mansion, 369 Bulonglu Shenzhen Guangdong CN 518000","c":"CN","o":"S-Bluetech co., limited"}]);
