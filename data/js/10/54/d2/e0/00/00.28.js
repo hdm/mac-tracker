@@ -1,0 +1,1 @@
+macDetailCallback("1054d2e00000/28",[{"d":"2021-12-29","t":"add","s":"ieee-mam.csv","a":"Haier Information Industrial Complex, No.1 HaierRoad Qingdao Shandong CN 266101","c":"CN","o":"COSMO AIOT TECHNOLOGY CO LTD"}]);

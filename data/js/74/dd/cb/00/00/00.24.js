@@ -1,0 +1,1 @@
+macDetailCallback("74ddcb000000/24",[{"d":"2021-12-29","t":"add","s":"ieee-oui.csv","a":"9-11, Building A3, Nanshan Ipark, No.1001 Xueyuan Avenue, Nanshan? SHENZHEN  CN 518000","c":"CN","o":"China Leadshine Technology Co.,Ltd"}]);

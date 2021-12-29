@@ -1,0 +1,1 @@
+macDetailCallback("8c1553000000/24",[{"d":"2021-12-29","t":"add","s":"ieee-oui.csv","a":"Building B2,Dongsheng Park, 66 Xixiaokou Road, Haidian Beijing Beijing CN 100192","c":"CN","o":"Beijing Memblaze Technology Co Ltd"}]);

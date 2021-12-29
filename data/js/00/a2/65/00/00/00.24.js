@@ -1,0 +1,1 @@
+macDetailCallback("00a265000000/24",[{"d":"2021-12-29","t":"add","s":"ieee-oui.csv","a":"Room 402,No. 125 North Jiangsu Road, Changning District Shanghai Shanghai CN 200042","c":"CN","o":"M2Motive Technology Inc."}]);
