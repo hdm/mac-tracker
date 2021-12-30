@@ -1,0 +1,1 @@
+macDetailCallback("1c47f6000000/24",[{"d":"2021-12-30","t":"add","s":"ieee-oui.csv","a":"B3, 11 / F, Exiang Technology Building, No. 31, Zhongsi Road, Gaoxin, Maling Community, Yuehai Street, Nanshan District Shenzhen  CN 518000","c":"CN","o":"Zhidao Network Technology(Shenzhen) Co.,Ltd"}]);

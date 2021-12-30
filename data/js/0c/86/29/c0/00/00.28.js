@@ -1,0 +1,1 @@
+macDetailCallback("0c8629c00000/28",[{"d":"2021-12-30","t":"add","s":"ieee-mam.csv","a":"8 / F, Zone D, building F1, TCL International E city, Shuguang community, Xili street, Nanshan District, Shenzhen  CN 518000","c":"CN","o":"SHENZHEN YINGMU TECHNOLOGY.,LTD"}]);
