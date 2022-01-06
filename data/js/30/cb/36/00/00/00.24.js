@@ -1,0 +1,1 @@
+macDetailCallback("30cb36000000/24",[{"d":"2022-01-06","t":"add","s":"ieee-oui.csv","a":"151 Lorong Chuan #05-01 New Tech Park Singapore Singapore  SG 556741","c":"SG","o":"Belden Singapore Pte. Ltd."}]);
