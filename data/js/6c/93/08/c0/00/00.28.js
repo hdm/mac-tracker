@@ -1,0 +1,1 @@
+macDetailCallback("6c9308c00000/28",[{"d":"2022-01-07","t":"add","s":"ieee-mam.csv","a":"Room 3102, 31 / F, Wen an Center, Wenjin Square, Luohu SHENZHEN GUANGZHOU CN 518000","c":"CN","o":"HAICHANGXING"}]);

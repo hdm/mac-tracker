@@ -1,0 +1,1 @@
+macDetailCallback("78152d000000/24",[{"d":"2022-01-07","t":"add","s":"ieee-oui.csv","a":"5th Floor, Building A1, Hangcheng Jinchi Industrial Park, 8TH North Road, Hangcheng Street, Bao 'an District, Shenzhen shenzhen  CN 518000","c":"CN","o":"UNION CHIP TECHNOLOGY LIMITED"}]);
