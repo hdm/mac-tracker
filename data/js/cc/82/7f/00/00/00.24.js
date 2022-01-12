@@ -1,0 +1,1 @@
+macDetailCallback("cc827f000000/24",[{"d":"2022-01-12","t":"add","s":"ieee-oui.csv","a":"No.666, Han-Pu Rd. Yu-Shan Kun-Shan Jiang Su CN 215316","c":"CN","o":"Advantech Technology (CHINA) Co., Ltd."}]);
