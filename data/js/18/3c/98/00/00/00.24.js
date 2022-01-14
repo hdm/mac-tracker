@@ -1,0 +1,1 @@
+macDetailCallback("183c98000000/24",[{"d":"2022-01-14","t":"add","s":"ieee-oui.csv","a":"Floor 5, Zone 1, Block B, Mingyou Purchasing Center, Baoyuan Road, Xixiang Street Shenzhen Guangdong CN 518102","c":"CN","o":"Shenzhen Hengyi Technology Co., LTD"}]);
