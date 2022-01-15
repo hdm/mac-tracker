@@ -1,0 +1,1 @@
+macDetailCallback("34bd20000000/24",[{"d":"2022-01-15","t":"add","s":"ieee-oui.csv","a":"Room 304, Unit B, Building 2, 399 Danfeng Road, Binjiang District, Hangzhou, Zhejiang Hangzhou  CN 310052","c":"CN","o":"Hangzhou Hikrobot Technology Co., Ltd."}]);
