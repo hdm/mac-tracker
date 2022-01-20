@@ -1,0 +1,1 @@
+macDetailCallback("643172000000/24",[{"d":"2022-01-20","t":"add","s":"ieee-oui.csv","a":"Room 201 and 202,Building 5,328 Pingjiang Road,Yuecheng District,Shaoxing Shaoxing Zhejiang CN 312000","c":"CN","o":"ZHEJIANG HISING TECHNOLOGY CO.,LTD"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("20fadb000000/24",[{"d":"2022-01-20","t":"add","s":"ieee-oui.csv","a":"No.99, Hangtian Road, Section 2, East Third Ring Road,Chenghua District, Chengdu Chengdu  CN 610051","c":"CN","o":"Huahao Kunpeng Technology (chengDu)  Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+macDetailCallback("8c1f649bd000/36",[{"d":"2022-01-20","t":"add","s":"ieee-oui36.csv","a":"Office 10, Krishna Arcade, Plot 65, Sector 2A, Koparkharine Navi Mumbai Maharashatra IN 400709","c":"IN","o":"ATM SOLUTIONS"}]);
