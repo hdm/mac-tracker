@@ -1,0 +1,1 @@
+macDetailCallback("28827c000000/24",[{"d":"2022-01-27","t":"add","s":"ieee-oui.csv","a":"No.17 Longmen Road Changzhou JiangSu CN 213164","c":"CN","o":"Bosch Automative products(Suzhou)Co.,Ltd Changzhou Branch"}]);
