@@ -1,0 +1,1 @@
+macDetailCallback("381f26c00000/28",[{"d":"2022-01-29","t":"add","s":"ieee-mam.csv","a":"Jade Bird Building, 207 Chengfu Road, Haidian District, Beijing, P.R.China Beijing  CN 100871","c":"CN","o":"Jade Bird Fire Co., Ltd."}]);

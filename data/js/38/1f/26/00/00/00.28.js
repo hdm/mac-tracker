@@ -1,0 +1,1 @@
+macDetailCallback("381f26000000/28",[{"d":"2022-01-29","t":"add","s":"ieee-mam.csv","a":"41-69, POWOL SAEMALGIL, YANG YANG-EUP YANG YANG GUN  KR 25017","c":"KR","o":"JAESUNG INFORMATION & COMMUNICATION CO.LTD"}]);
