@@ -1,0 +1,1 @@
+macDetailCallback("7820bd000000/24",[{"d":"2022-02-09","t":"add","s":"ieee-oui.csv","a":"9  Shangdi 3rd Street, D508B3/5(4)F Bldg D, Haidian Dist. Beijing  CN 100085","c":"CN","o":"Polysense (Beijing) Technologies Co. Ltd"}]);
