@@ -1,0 +1,1 @@
+macDetailCallback("902cfb000000/24",[{"d":"2022-02-10","t":"add","s":"ieee-oui.csv","a":"A 1001 Didital Empire  16 Deongyeong-daero 1556 beon-gil Yeongtong-gu suwon Gyeong gi Do KR 16690","c":"KR","o":"CanTops Co,.Ltd."}]);
