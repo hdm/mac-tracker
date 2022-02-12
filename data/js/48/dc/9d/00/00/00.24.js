@@ -1,0 +1,1 @@
+macDetailCallback("48dc9d000000/24",[{"d":"2022-02-12","t":"add","s":"ieee-oui.csv","a":"Room 259, 2 / F, Building 5, 8 Dongbeiwang West Road, Haidian District, Beijing  CN 100089","c":"CN","o":"Grandprint(Beijing) Technology Co., LTD."}]);
