@@ -1,1 +1,1 @@
-macDetailCallback("7c70bca00000/28",[{"a":"287 27 Road Grand Junction CO US 81503","o":"Ametek VIS","d":"2015-10-16","t":"add","s":"ieee","c":"US"}]);
+macDetailCallback("7c70bca00000/28",[{"a":"287 27 Road Grand Junction CO US 81503","o":"Ametek VIS","d":"2015-10-16","t":"add","s":"ieee","c":"US"},{"d":"2022-02-16","t":"change","s":"ieee-mam.csv","a":"287 27 Road Grand Junction CO US 81503","c":"US","o":"Motec GmbH"}]);
