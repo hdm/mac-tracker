@@ -1,0 +1,1 @@
+macDetailCallback("8c1f6422e000/36",[{"d":"2022-02-17","t":"add","s":"ieee-oui36.csv","a":"Rua Arcipreste Andrade 630 São Paulo São Paulo BR 04268020","c":"BR","o":"Jide Car Rastreamento e Monitoramento LTDA"}]);
