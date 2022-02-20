@@ -1,0 +1,1 @@
+macDetailCallback("1c5974400000/28",[{"d":"2022-02-20","t":"add","s":"ieee-mam.csv","a":"Room 510-5,Comprehensive Office Building,Carpet Industrial Park,Wuqing District  Tianjin Tianjin CN 301700","c":"CN","o":"Syntax technology(tianjin)Co.,LTD"}]);

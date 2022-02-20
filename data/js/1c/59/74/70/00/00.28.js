@@ -1,0 +1,1 @@
+macDetailCallback("1c5974700000/28",[{"d":"2022-02-20","t":"add","s":"ieee-mam.csv","a":"RM 801, 8/F, No. 67 North 4th Ring West Road Beijing Beijing CN 100084","c":"CN","o":"Lynxi Technologies Co.,Ltd."}]);
