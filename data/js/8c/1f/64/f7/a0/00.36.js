@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64f7a000/36",[{"d":"2022-02-24","t":"add","s":"ieee-oui36.csv","a":"6th floor,Building 23,No.1999,Yi Shan Road Shanghai Shanghai CN 201114","c":"CN","o":"SiEngine Technology Co., Ltd."}]);

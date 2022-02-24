@@ -1,0 +1,1 @@
+macDetailCallback("848553000000/24",[{"d":"2022-02-24","t":"add","s":"ieee-oui.csv","a":"room XXII/1, fl 3, block 3, 6 Barklaya street, Moscow, 121087, Russia Moscow  RU 121087","c":"RU","o":"Biznes Systema Telecom, LLC"}]);
