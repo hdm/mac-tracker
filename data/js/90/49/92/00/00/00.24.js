@@ -1,0 +1,1 @@
+macDetailCallback("904992000000/24",[{"d":"2022-02-25","t":"add","s":"ieee-oui.csv","a":"Room 1715,17/F North Star Times Tower,Chaoyang District,Beijing. Beijing  CN 100101","c":"CN","o":"YSTen Technology Co.,Ltd"}]);
