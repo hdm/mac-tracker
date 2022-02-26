@@ -1,0 +1,1 @@
+macDetailCallback("e048d8000000/24",[{"d":"2022-02-26","t":"add","s":"ieee-oui.csv","a":"Room 1407, Fuli yingkai building, No. 16, Huaxia Road, Tianhe District,  Guangzhou  CN 510623","c":"CN","o":"Guangzhi Wulian Technology(Guangzhou) Co., Ltd"}]);
