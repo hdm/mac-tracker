@@ -1,0 +1,1 @@
+macDetailCallback("240f5e000000/24",[{"d":"2022-02-27","t":"add","s":"ieee-oui.csv","a":"406,Block A,Taojindi Building ,Tenglong Road,Longhua New District, Shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen z-router Technology Co., Ltd"}]);
