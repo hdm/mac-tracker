@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64ab4000/36",[{"d":"2022-03-05","t":"add","s":"ieee-oui36.csv","a":"Room 0309, 3rd Floor, Building 2, China Agricultural University International Pioneer Park, No. 10 Tianxiu Road, Haidian District Beijing Beijing CN 100081","c":"CN","o":"Beijing Zhongchen Microelectronics Co.,Ltd"}]);

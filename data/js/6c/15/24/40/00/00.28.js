@@ -1,0 +1,1 @@
+macDetailCallback("6c1524400000/28",[{"d":"2022-03-05","t":"add","s":"ieee-mam.csv","a":"7F, Tower A, YuZhou Building, No.78 North Keyuan Shenzhen Nanshan District CN 518057","c":"CN","o":"Magicyo Technology CO., LTD."}]);
