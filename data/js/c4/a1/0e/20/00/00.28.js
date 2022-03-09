@@ -1,0 +1,1 @@
+macDetailCallback("c4a10e200000/28",[{"d":"2022-03-09","t":"add","s":"ieee-mam.csv","a":"No.88 Hongyan Road, Kunshan Economic & Technological Development Zone Kunshan Jiangsu CN 215300","c":"CN","o":"Wistron InfoComn (Kunshan) Co., Ltd."}]);
