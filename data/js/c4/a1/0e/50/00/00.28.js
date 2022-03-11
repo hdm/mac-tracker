@@ -1,0 +1,1 @@
+macDetailCallback("c4a10e500000/28",[{"d":"2022-03-11","t":"add","s":"ieee-mam.csv","a":"501, Maile building, building 2, No. 28, Cuijing Road, Zhukeng community, Longtian street, Pingshan District Shenzhen Guangdong CN 518122","c":"CN","o":"O-NET Industrial Technologies (Shenzhen) Limited"}]);
