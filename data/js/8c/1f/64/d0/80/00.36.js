@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64d08000/36",[{"d":"2022-03-17","t":"add","s":"ieee-oui36.csv","a":"Poligono Industrial Carrases. Ronda del camp d Aviacio 4 Lliria Valencia ES 46160","c":"ES","o":"Power Electronics Espana, S.L."}]);
