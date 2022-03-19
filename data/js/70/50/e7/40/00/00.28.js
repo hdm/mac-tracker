@@ -1,0 +1,1 @@
+macDetailCallback("7050e7400000/28",[{"d":"2022-03-19","t":"add","s":"ieee-mam.csv","a":"1st Floor 108-1,Buiding5,East Districe,No.10 Xibeiwang East Road,haidian Districe, beijing  CN 102629","c":"CN","o":"Quantumdoor Technologies, Inc."}]);

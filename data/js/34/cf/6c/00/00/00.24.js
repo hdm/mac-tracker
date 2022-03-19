@@ -1,0 +1,1 @@
+macDetailCallback("34cf6c000000/24",[{"d":"2022-03-19","t":"add","s":"ieee-oui.csv","a":"Room 1901, No.258,  Zhonghe Middle Road, Shangcheng District, Hangzhou Hangzhou Zhejiang CN 310003","c":"CN","o":"Hangzhou Taili wireless communication equipment Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("7050e7b00000/28",[{"d":"2022-03-19","t":"add","s":"ieee-mam.csv","a":"913 9/F,building 8,yard 2,Shenggu Middle Road,Chaoyang District beijing beijing CN 100029","c":"CN","o":"Beijing Shannoncyber Technology Co.,Ltd"}]);
