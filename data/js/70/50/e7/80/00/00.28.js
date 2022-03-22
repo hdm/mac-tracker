@@ -1,0 +1,1 @@
+macDetailCallback("7050e7800000/28",[{"d":"2022-03-22","t":"add","s":"ieee-mam.csv","a":"9th Floor of GDC Building, Gaoxin Middle 3rd St.,Nanshan District Shenzhen GuangDong CN 518063","c":"CN","o":"Shenzhen Dangs Science and Technology CO.,Ltd."}]);

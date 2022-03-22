@@ -1,0 +1,1 @@
+macDetailCallback("7050e7300000/28",[{"d":"2022-03-22","t":"add","s":"ieee-mam.csv","a":"Room 907A, 9/F, Block T2, FongDa City, Longjing Village, Longzhu Avenue, Nanshan District Shenzhen Guangdong CN 518073","c":"CN","o":"Skychers Creations ShenZhen Limited"}]);
