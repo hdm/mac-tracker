@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64ccb000/36",[{"d":"2022-03-23","t":"add","s":"ieee-oui36.csv","a":"B6,no.1599,West Chengbei Road,Gusu District suzhou jiangsu CN 215000","c":"CN","o":"suzhou yuecrown Electronic Technology Co.,LTD"}]);

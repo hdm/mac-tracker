@@ -1,0 +1,1 @@
+macDetailCallback("7050e7a00000/28",[{"d":"2022-03-23","t":"add","s":"ieee-mam.csv","a":"D01, Zone D, No. 6 (Yishun), Huangcun North Road, Tianhe District Guangzhou  CN 510660","c":"CN","o":"Guangzhou Tianhe High Tech Industrial Development Zone Zhongsheng Electrical Limited Company"}]);
