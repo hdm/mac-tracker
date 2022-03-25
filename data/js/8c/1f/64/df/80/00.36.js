@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64df8000/36",[{"d":"2022-03-25","t":"add","s":"ieee-oui36.csv","a":"Västra Järnvägsgatan 3\n9th floor\n(Convendum) Stockholm Stockholm SE 111 64","c":"SE","o":"Wittra Networks AB"}]);

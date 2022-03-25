@@ -1,0 +1,1 @@
+macDetailCallback("7891de000000/24",[{"d":"2022-03-25","t":"add","s":"ieee-oui.csv","a":"L203 Biguiyuan International Club, Beijiao Town, Shunde District Fo Shan Guangdong CN 528312","c":"CN","o":"Guangdong ACIGA Science&Technology Co.,Ltd"}]);
