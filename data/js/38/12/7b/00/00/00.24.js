@@ -1,0 +1,1 @@
+macDetailCallback("38127b000000/24",[{"d":"2022-03-29","t":"add","s":"ieee-oui.csv","a":"Rm. 1, 10F., No. 181, Sec. 1, Datong Rd. New Taipei City Xizhi Dist. TW 221451","c":"TW","o":"Crenet Labs Co., Ltd."}]);

@@ -1,0 +1,1 @@
+macDetailCallback("3c69d1000000/24",[{"d":"2022-03-29","t":"add","s":"ieee-oui.csv","a":"Peter-Dornier Strasse 10 Lindau Bavaria DE 88131","c":"DE","o":"ADC Automotive Distance Control System GmbH"}]);
