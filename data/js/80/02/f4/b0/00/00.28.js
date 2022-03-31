@@ -1,0 +1,1 @@
+macDetailCallback("8002f4b00000/28",[{"d":"2022-03-31","t":"add","s":"ieee-mam.csv","a":"10-11F,AL, No.1 Zhongguancun, Haidian Beijing Beijing CN 100094","c":"CN","o":"Baicells Technologies Co., Ltd"}]);

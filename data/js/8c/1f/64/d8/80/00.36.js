@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64d88000/36",[{"d":"2022-03-31","t":"add","s":"ieee-oui36.csv","a":"Quai Ernest-Ansermet 24 Geneva  CH 1211","c":"CH","o":"University of Geneva - Department of Particle Physics"}]);

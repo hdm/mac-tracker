@@ -1,0 +1,1 @@
+macDetailCallback("8002f4d00000/28",[{"d":"2022-03-31","t":"add","s":"ieee-mam.csv","a":"No. 52, Guoxiang Road, Wujin economic development zone ChangZhou JiangSu CN 213100","c":"CN","o":"Jiangsu Vedkang Medicl Sclence and Technology Co.,Ltd"}]);
