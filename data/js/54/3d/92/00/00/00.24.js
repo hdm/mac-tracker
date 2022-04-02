@@ -1,0 +1,1 @@
+macDetailCallback("543d92000000/24",[{"d":"2022-04-02","t":"add","s":"ieee-oui.csv","a":"Room 402 4F, BiaoFan Technology Building, Bao'An Avenue, FuYong Town, Bao'An district, ShenZhen,China SHENZHEN  CN 518000","c":"CN","o":"WIRELESS-TEK TECHNOLOGY LIMITED"}]);
