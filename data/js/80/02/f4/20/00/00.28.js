@@ -1,0 +1,1 @@
+macDetailCallback("8002f4200000/28",[{"d":"2022-04-05","t":"add","s":"ieee-mam.csv","a":"A206,F2,Yard#12,Building#1,JingAn DongLi,Chaoyang Beijing Beijing CN 100028","c":"CN","o":"Beijing Cybercore"}]);

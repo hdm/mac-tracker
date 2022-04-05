@@ -1,0 +1,1 @@
+macDetailCallback("4c627b000000/24",[{"d":"2022-04-05","t":"add","s":"ieee-oui.csv","a":"16F., No. 102, Songlong Rd., Xinyi Dist., Taipei City  TW 110059","c":"TW","o":"SmartCow AI Technologies Taiwan Ltd."}]);

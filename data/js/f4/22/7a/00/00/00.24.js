@@ -1,0 +1,1 @@
+macDetailCallback("f4227a000000/24",[{"d":"2022-04-05","t":"add","s":"ieee-oui.csv","a":"No. 63, Huitai Industrial Park, Huizhou City, Guangdong Province CN 516000","c":"CN","o":"Guangdong Seneasy Intelligent Technology Co., Ltd."}]);

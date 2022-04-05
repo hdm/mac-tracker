@@ -1,0 +1,1 @@
+macDetailCallback("60cf69000000/24",[{"d":"2022-04-05","t":"add","s":"ieee-oui.csv","a":"69-12, Jeongmunsongsan-ro, Yanggam-myeon, Hwaseong-si, Gyeonggi-do, Republic of  Korea Hwaseong-si  KR 18630","c":"KR","o":"meerecompany"}]);
