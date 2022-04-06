@@ -1,0 +1,1 @@
+macDetailCallback("e016b1000000/24",[{"d":"2022-04-06","t":"add","s":"ieee-oui.csv","a":"1-1-3 Kotobukicho\n#10F Mitsukikotobukichobiru Fucyu-city Tokyo JP 1830056","c":"JP","o":"Advanced Design Technology co.,ltd."}]);

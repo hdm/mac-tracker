@@ -1,0 +1,1 @@
+macDetailCallback("8002f4600000/28",[{"d":"2022-04-06","t":"add","s":"ieee-mam.csv","a":"Room 1001,1F,Building 3, No.8,Chuangye Road,Haidian District Beijing  CN 100085","c":"CN","o":"Mech-Mind Robotics Technologies Ltd."}]);
