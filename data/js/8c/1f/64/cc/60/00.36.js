@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64cc6000/36",[{"d":"2022-04-15","t":"add","s":"ieee-oui36.csv","a":"S-39, GF JANTA MARKET, RAJOURI GARDEN,\nNEW DELHI - 110027 new delhi new delhi IN 110027","c":"IN","o":"Genius vision digital private limted"}]);

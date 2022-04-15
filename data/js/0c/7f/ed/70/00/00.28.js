@@ -1,0 +1,1 @@
+macDetailCallback("0c7fed700000/28",[{"d":"2022-04-15","t":"add","s":"ieee-mam.csv","a":"Block 7, Zhu Keng Industrial Zone Ping Shan District Shenzhen CN 518118","c":"CN","o":"Grandway Technology (Shenzhen) Limited"}]);
