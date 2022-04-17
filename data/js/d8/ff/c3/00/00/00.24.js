@@ -1,0 +1,1 @@
+macDetailCallback("d8ffc3000000/24",[{"d":"2022-04-17","t":"add","s":"ieee-oui.csv","a":"Room 3101, Building 3, Nanshan Zhiyuan Chongwen Park, No.3370, Liuxian Avenue, Fuguang Community, Taoyuan Street, Nanshan District, Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen 3SNIC information technology company Limited"}]);

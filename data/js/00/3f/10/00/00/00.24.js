@@ -1,0 +1,1 @@
+macDetailCallback("003f10000000/24",[{"d":"2022-04-17","t":"add","s":"ieee-oui.csv","a":"4/F, Building B, Hengmingzhu Industrial Park, \nQian Jin Road 2, Baoan District Shenzhen Guangdong CN 518126","c":"CN","o":"Shenzhen GainStrong Technology Co., Ltd."}]);
