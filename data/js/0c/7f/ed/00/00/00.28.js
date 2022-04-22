@@ -1,0 +1,1 @@
+macDetailCallback("0c7fed000000/28",[{"d":"2022-04-22","t":"add","s":"ieee-mam.csv","a":"No.8 Huishang Road, Infore Enviro Industrial Park, Jiangcun Village, Leliu Street, Shunde District,  Foshan  CN 528010","c":"CN","o":"Guangdong Tianshu New Energy Technology Co., Ltd"}]);
