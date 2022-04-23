@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64cdb000/36",[{"d":"2022-04-23","t":"add","s":"ieee-oui36.csv","a":"1132 Budapest, Váci út 22-24. 3. em.) Budapest  HU 1132","c":"HU","o":"EUROPEAN TELECOMMUNICATION INTERNATIONAL KFT"}]);
