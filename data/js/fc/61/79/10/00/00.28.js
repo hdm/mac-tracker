@@ -1,0 +1,1 @@
+macDetailCallback("fc6179100000/28",[{"d":"2022-04-26","t":"add","s":"ieee-mam.csv","a":"3rd Floor, Building 6, Longxing Sciece park, East Huaning Road, Dalang Street , Longhua District, Shenzhen Shenzhen Guangdong CN 518000","c":"CN","o":"Signalinks Communication Technology Co.,Ltd"}]);
