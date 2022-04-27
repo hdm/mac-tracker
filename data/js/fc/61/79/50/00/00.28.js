@@ -1,0 +1,1 @@
+macDetailCallback("fc6179500000/28",[{"d":"2022-04-27","t":"add","s":"ieee-mam.csv","a":"No. 157, Shanying Rd., Gueishan Dist., Taoyuan City 33341, Taiwan Taoyuan  TW 33341","c":"TW","o":"Qisda Corporation"}]);
