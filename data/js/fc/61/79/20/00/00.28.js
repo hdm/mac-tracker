@@ -1,0 +1,1 @@
+macDetailCallback("fc6179200000/28",[{"d":"2022-04-28","t":"add","s":"ieee-mam.csv","a":"Room 517, Biaofan Building, No. 6, Tangwei Industrial Avenue, Fuhai Street, Baoan District Shenzhen  CN 518132","c":"CN","o":"Shenzhen Shenshui Electronic Commerce Co.,Ltd"}]);

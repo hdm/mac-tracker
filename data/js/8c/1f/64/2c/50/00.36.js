@@ -1,0 +1,1 @@
+macDetailCallback("8c1f642c5000/36",[{"d":"2022-04-28","t":"add","s":"ieee-oui36.csv","a":"the third floor, 26, Namsan-ro 39beon-gil, Uichang-gu Changwon-si, Gyeongsangnam-do, Republic of Korea  KR 51368","c":"KR","o":"SYSN"}]);
