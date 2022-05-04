@@ -1,0 +1,1 @@
+macDetailCallback("a4897e000000/24",[{"d":"2022-05-04","t":"add","s":"ieee-oui.csv","a":"Room 402, No. 11 Software Road, Tianhe District, Guangzhou Guangzhou Guangdong CN 510640","c":"CN","o":"Guangzhou Yuhong Technology Co.,Ltd."}]);
