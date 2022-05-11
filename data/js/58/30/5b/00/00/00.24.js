@@ -1,0 +1,1 @@
+macDetailCallback("58305b000000/24",[{"d":"2022-05-11","t":"add","s":"ieee-oui.csv","a":"Room 602,Building 1,NO.760,Xinjunhuan Road, Caohejing High-Tech Park,Minhang District, Shanghai Shanghai CN 201114","c":"CN","o":"Shanghai Junqian Sensing Technology Co.,LTD"}]);

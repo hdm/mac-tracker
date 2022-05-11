@@ -1,1 +1,1 @@
-macDetailCallback("505fb5000000/24",[{"d":"2018-11-17","t":"add","s":"ieee-oui.csv","a":"10F, NO. 119, JIANKANG RD., ZHONGHE DIST. NEW TAIPEI   TW 235","c":"TW","o":"Askey Computer Corp."}]);
+macDetailCallback("505fb5000000/24",[{"d":"2018-11-17","t":"add","s":"ieee-oui.csv","a":"10F, NO. 119, JIANKANG RD., ZHONGHE DIST. NEW TAIPEI   TW 235","c":"TW","o":"Askey Computer Corp."},{"d":"2022-05-11","t":"change","s":"ieee-oui.csv","a":"10F, NO. 119, JIANKANG RD., ZHONGHE DIST. NEW TAIPEI   TW 235","c":"TW","o":"ASKEY COMPUTER CORP"}]);
