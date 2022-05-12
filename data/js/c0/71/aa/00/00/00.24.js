@@ -1,0 +1,1 @@
+macDetailCallback("c071aa000000/24",[{"d":"2022-05-12","t":"add","s":"ieee-oui.csv","a":"Room 407-408, West Building, Skyworth Semiconductor Building, GaoXin South 4th Road, Yuehai Street, Nanshan District Shenzhen GuangDong CN 518057","c":"CN","o":"ShenZhen OnMicro Electronics Co.,Ltd."}]);
