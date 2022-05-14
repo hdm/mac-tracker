@@ -1,0 +1,1 @@
+macDetailCallback("dcaa43000000/24",[{"d":"2022-05-14","t":"add","s":"ieee-oui.csv","a":"Room1401, Block A, Building 12 , Shenzhen Bay Technology and Eco-Park , No. 18 Keji South Road , Nanshan District , Shenzhen SHENZHEN GUANGDONG CN 518000","c":"CN","o":"Shenzhen Terca Information Technology Co., Ltd."}]);
