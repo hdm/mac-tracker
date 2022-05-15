@@ -1,1 +1,1 @@
-macDetailCallback("0084ed000000/24",[{"d":"2015-07-11","t":"add","a":"","c":null,"o":"PRIVATE"}]);
+macDetailCallback("0084ed000000/24",[{"d":"2015-07-11","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2022-05-15","t":"change","s":"ieee-oui.csv","a":"740 W. New Circle Rd. Lexington KY US 40550","c":"US","o":"LEXMARK INTERNATIONAL, INC."}]);
