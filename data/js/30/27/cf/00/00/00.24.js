@@ -1,1 +1,1 @@
-macDetailCallback("3027cf000000/24",[{"d":"2019-10-03","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("3027cf000000/24",[{"d":"2019-10-03","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2022-05-17","t":"change","s":"ieee-oui.csv","a":"350 Leggett Drive Ottawa Ontario CA K2K 2W7","c":"CA","o":"Canopy Growth Corp"}]);
