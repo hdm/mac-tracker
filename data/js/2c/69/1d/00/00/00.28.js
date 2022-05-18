@@ -1,0 +1,1 @@
+macDetailCallback("2c691d000000/28",[{"d":"2022-05-18","t":"add","s":"ieee-mam.csv","a":"Building 1# and Building 4#, No. 67 Ziyuan Road, Xueshi Street, Yuelu District, Changsha Hunan CN 410006","c":"CN","o":"Hunan Xiangjiang Kunpeng Information Technology Co., Ltd."}]);
