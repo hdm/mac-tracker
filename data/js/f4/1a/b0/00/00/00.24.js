@@ -1,0 +1,1 @@
+macDetailCallback("f41ab0000000/24",[{"d":"2022-05-22","t":"add","s":"ieee-oui.csv","a":"18th Floor, Block B, Building 10, Shenzhen Bay Science and Technology Ecological Park, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Xingguodu Technology Co., Ltd."}]);

@@ -1,0 +1,1 @@
+macDetailCallback("2c691dd00000/28",[{"d":"2022-05-22","t":"add","s":"ieee-mam.csv","a":"11F.-1, No.80, Minzu 1st Rd., Sanmin Dist., Kaohsiung City 807, Taiwan (R.O.C.) Kaohsiung City Taiwan TW 807","c":"TW","o":"Ascentac Inc."}]);
