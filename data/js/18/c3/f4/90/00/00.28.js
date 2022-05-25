@@ -1,0 +1,1 @@
+macDetailCallback("18c3f4900000/28",[{"d":"2022-05-25","t":"add","s":"ieee-mam.csv","a":"No.2 Yuda Road,Fengshan Street,Yuyao Yuyao Zhejiang CN 315400","c":"CN","o":"Ningbo Yuda Communication Technology Co.,Ltd"}]);

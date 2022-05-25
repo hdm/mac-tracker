@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64692000/36",[{"d":"2022-05-25","t":"add","s":"ieee-oui36.csv","a":"Plot No.23,DITPL Industrial Area,Bashettihalli,Doddaballapura Bangalore Karnataka IN 561203","c":"IN","o":"Nexilis Electronics India Pvt Ltd (PICSYS)"}]);

@@ -1,1 +1,1 @@
-macDetailCallback("300a60300000/28",[{"a":"","o":"Private","d":"2018-06-17","t":"add","s":"ieee"}]);
+macDetailCallback("300a60300000/28",[{"a":"","o":"Private","d":"2018-06-17","t":"add","s":"ieee"},{"d":"2022-05-25","t":"change","s":"ieee-mam.csv","a":"Avenida Capitao Casa 1485 São Bernardo do Campo Sao Paulo BR 09812000","c":"BR","o":"Intergard do Brasil Ind e Com de Eletr e Mec Ltda"}]);

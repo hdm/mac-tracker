@@ -1,0 +1,1 @@
+macDetailCallback("18c3f4300000/28",[{"d":"2022-05-25","t":"add","s":"ieee-mam.csv","a":"Building C–A7 Suite 805, 2190 Liuxian Avenue,\nNanshan District Shenzhen Guangdong CN 518055","c":"CN","o":"General Test Systems"}]);
