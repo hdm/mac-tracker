@@ -1,1 +1,1 @@
-macDetailCallback("140708000000/24",[{"d":"2011-03-19","t":"add","a":"","c":null,"o":"PRIVATE"}]);
+macDetailCallback("140708000000/24",[{"d":"2011-03-19","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2022-06-01","t":"change","s":"ieee-oui.csv","a":"Hans Henny Jahnn Weg 9 Hamburg  DE D22085","c":"DE","o":"CP PLUS GMBH & CO. KG"}]);

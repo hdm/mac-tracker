@@ -1,0 +1,1 @@
+macDetailCallback("f026f8000000/24",[{"d":"2022-06-01","t":"add","s":"ieee-oui.csv","a":"B-1813 67, Saebitgongwon-ro, Gwangmyeong-si, Gyeonggi-do, Republic of Korea Gwangmyeong  KR 14348","c":"KR","o":"Worldcns Co.,Ltd."}]);

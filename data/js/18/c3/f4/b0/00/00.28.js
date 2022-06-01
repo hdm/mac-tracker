@@ -1,0 +1,1 @@
+macDetailCallback("18c3f4b00000/28",[{"d":"2022-06-01","t":"add","s":"ieee-mam.csv","a":"608, building r2-b, Gaoxin industrial village, No. 020, Gaoxin South 7th Road, Gaoxin community, Yuehai street, Nanshan District, ShenZhen GuangDong CN 518000","c":"CN","o":"Shenzhen Chuangxin Internet Communication Technology Co., Ltd"}]);
