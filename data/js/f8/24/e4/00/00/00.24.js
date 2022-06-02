@@ -1,0 +1,1 @@
+macDetailCallback("f824e4000000/24",[{"d":"2022-06-02","t":"add","s":"ieee-oui.csv","a":"18 Yinhuan Road, Changshu New & Hi-tech Industrial Development Zone of Jiangsu Changshu Jiangsu CN 215500","c":"CN","o":"Beyonics Technology Electronic (Changshu) Co., Ltd"}]);
