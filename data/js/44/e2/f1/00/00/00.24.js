@@ -1,0 +1,1 @@
+macDetailCallback("44e2f1000000/24",[{"d":"2022-06-04","t":"add","s":"ieee-oui.csv","a":"1408, Building 4, Tianan Yungu, Bantian Shenzhen Guangdong CN 518129","c":"CN","o":"NewRadio Technologies Co. , Ltd."}]);

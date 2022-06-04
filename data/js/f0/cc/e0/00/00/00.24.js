@@ -1,0 +1,1 @@
+macDetailCallback("f0cce0000000/24",[{"d":"2022-06-04","t":"add","s":"ieee-oui.csv","a":"502, Building B, Guangming Industry Park, Minzhi, Shenzhen, Guangdong, China Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen All-Smartlink Technology Co.,Ltd."}]);

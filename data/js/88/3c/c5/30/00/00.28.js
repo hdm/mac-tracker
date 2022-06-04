@@ -1,0 +1,1 @@
+macDetailCallback("883cc5300000/28",[{"d":"2022-06-04","t":"add","s":"ieee-mam.csv","a":"Fucheng Subdistrict Shenzhen Guangdong CN 518000","c":"CN","o":"shenzhen Feng Jing Sheng Electronics Technology Co.,Ltd"}]);

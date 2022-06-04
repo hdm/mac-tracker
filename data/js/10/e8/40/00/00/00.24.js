@@ -1,0 +1,1 @@
+macDetailCallback("10e840000000/24",[{"d":"2022-06-04","t":"add","s":"ieee-oui.csv","a":"Runye Precision Manufacturing Industrial Park,among the north of Xiangjing Road, the west of Xinpi Road and the south of Yangzi Road, locatd in the High-tech Zone, Heyuan City Guangdong Province Heyuan Guangdong CN 517000","c":"CN","o":"ZOWEE TECHNOLOGY(HEYUAN) CO., LTD."}]);
