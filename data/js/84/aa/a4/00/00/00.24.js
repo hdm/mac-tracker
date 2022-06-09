@@ -1,0 +1,1 @@
+macDetailCallback("84aaa4000000/24",[{"d":"2022-06-09","t":"add","s":"ieee-oui.csv","a":"8F-3, No. 1071, Zhongzheng Road, Taoyuan District, Taoyuan city, Taiwan Taoyuan  TW 330","c":"TW","o":"SONoC Corp."}]);
