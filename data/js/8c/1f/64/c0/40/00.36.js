@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64c04000/36",[{"d":"2022-06-10","t":"add","s":"ieee-oui36.csv","a":"808, Shimbashi ekimae bldg. No.1, 2-20-15 Shimbashi, minato-ku minato-ku Tokyo JP 1050004","c":"JP","o":"SANWA CORPORATION"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("883cc5000000/28",[{"d":"2022-06-10","t":"add","s":"ieee-mam.csv","a":"No. 88, Tianchen Road, Hezuo Street, West District, High-tech Zone, Chengdu City, Sichuan Province Chengdu Sichuan CN 610000","c":"CN","o":"Chengdu Data Sky Technology Co., Ltd."}]);
