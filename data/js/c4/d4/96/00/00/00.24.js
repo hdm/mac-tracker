@@ -1,0 +1,1 @@
+macDetailCallback("c4d496000000/24",[{"d":"2022-06-11","t":"add","s":"ieee-oui.csv","a":"Unit 701-708,7/F,South Block,SDGI Building A,\nNo.2,Kefeng Road,YueHai Street , Nanshan District,\nShenzhen, China. Shenzhen  CN 518057","c":"CN","o":"Shenzhen Excelsecu Data Technology Co.,Ltd"}]);
