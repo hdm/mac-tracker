@@ -1,1 +1,1 @@
-macDetailCallback("e86cc7700000/28",[{"d":"2020-12-19","t":"add","s":"ieee-mam.csv","a":"No. 10 Keyuan Road, Songshan Lake Dongguan Guangdong CN 523808","c":"CN","o":"Huaqin Technology Co.,Ltd"}]);
+macDetailCallback("e86cc7700000/28",[{"d":"2020-12-19","t":"add","s":"ieee-mam.csv","a":"No. 10 Keyuan Road, Songshan Lake Dongguan Guangdong CN 523808","c":"CN","o":"Huaqin Technology Co.,Ltd"},{"d":"2022-06-12","t":"change","s":"ieee-mam.csv","a":"No. 10 Keyuan Road, Songshan Lake Dongguan Guangdong CN 523808","c":"CN","o":"Huaqin Technology Co.,Ltd."}]);

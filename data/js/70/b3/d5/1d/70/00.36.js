@@ -1,1 +1,1 @@
-macDetailCallback("70b3d51d7000/36",[{"a":"","o":"Private","d":"2016-08-28","t":"add","s":"ieee"}]);
+macDetailCallback("70b3d51d7000/36",[{"a":"","o":"Private","d":"2016-08-28","t":"add","s":"ieee"},{"d":"2022-06-12","t":"change","s":"ieee-oui36.csv","a":"170 Waterside House Guildford Surrey GB GU2 7RQ","c":"GB","o":"BAE Systems Apllied Intelligence"}]);

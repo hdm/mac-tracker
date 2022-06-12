@@ -1,1 +1,1 @@
-macDetailCallback("8c1f64306000/36",[{"d":"2021-12-18","t":"add","s":"ieee-oui36.csv","a":"4655 Old Ironsides Dr #270 Santa Clara CA US 95054","c":"US","o":"Corigine, Inc"}]);
+macDetailCallback("8c1f64306000/36",[{"d":"2021-12-18","t":"add","s":"ieee-oui36.csv","a":"4655 Old Ironsides Dr #270 Santa Clara CA US 95054","c":"US","o":"Corigine, Inc"},{"d":"2022-06-12","t":"change","s":"ieee-oui36.csv","a":"Room202 ,west side of 2nd floor,Building 1,1516 Hongfeng Road Huzhou Zhejiang CN 313000","c":"CN","o":"Corigine,Inc."}]);
