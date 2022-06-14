@@ -1,0 +1,1 @@
+macDetailCallback("448cab000000/24",[{"d":"2022-06-14","t":"add","s":"ieee-oui.csv","a":"Building 23, No. 18, Anning Zhuang East Road, Qinghe, Haidian District, Beijing Beijing  CN 100083","c":"CN","o":"Beijing Flitlink Vientiane Technology Co., LTD"}]);
