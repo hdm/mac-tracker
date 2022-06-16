@@ -1,0 +1,1 @@
+macDetailCallback("5847ca700000/28",[{"d":"2022-06-16","t":"add","s":"ieee-mam.csv","a":"B201 B221-B222, Pinghu Center Plant, Shenye Logistics  No. 6 Fukang Rd., Hehua Community, Pinghu Street   Longgang District, Shenzhen ShenZhen  CN 518111","c":"CN","o":"Shenzhen Meigao Electronic Equipment Co.,Ltd"}]);
