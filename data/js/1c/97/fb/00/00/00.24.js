@@ -1,0 +1,1 @@
+macDetailCallback("1c97fb000000/24",[{"d":"2022-06-17","t":"add","s":"ieee-oui.csv","a":"Suite 102, Cannon Place, P.O. Box 712, N. Sound Rd George Town Grand Cayman KY KY1-9006","c":"KY","o":"CoolBitX Ltd."}]);
