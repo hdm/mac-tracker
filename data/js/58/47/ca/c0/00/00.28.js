@@ -1,0 +1,1 @@
+macDetailCallback("5847cac00000/28",[{"d":"2022-06-21","t":"add","s":"ieee-mam.csv","a":"SMS Industrial Park at NO. 85 Fifth Avenue, Economic and Technical Development ZhengZhou HeNan CN 450000","c":"CN","o":"SMS ELECTRIC CO., LTD ZHENGZHOU"}]);
