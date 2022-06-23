@@ -1,0 +1,1 @@
+macDetailCallback("5847cab00000/28",[{"d":"2022-06-23","t":"add","s":"ieee-mam.csv","a":"No.59 Jiangnan Avenue Changshu Jiangsu CN 215500","c":"CN","o":"Suzhou Laisai Intelligence Technology Co.,Ltd"}]);
