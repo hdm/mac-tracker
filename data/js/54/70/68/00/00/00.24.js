@@ -1,0 +1,1 @@
+macDetailCallback("547068000000/24",[{"d":"2022-06-24","t":"add","s":"ieee-oui.csv","a":"23/F, Tai Ping Industrial Centre, Block 1, 57 Ting Kok Road, Tai Po, New Territories Hong kong  HK 00852","c":"HK","o":"VTech Communications Limited"}]);

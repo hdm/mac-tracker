@@ -1,0 +1,1 @@
+macDetailCallback("a0218b000000/24",[{"d":"2022-06-24","t":"add","s":"ieee-oui.csv","a":"Dong Van II Industrial Zone, Bach Thuong Ward, Duy Tien Town Hanam  VN 400000","c":"VN","o":"ACE Antenna Co., ltd"}]);

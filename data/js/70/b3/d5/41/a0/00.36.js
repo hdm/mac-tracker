@@ -1,1 +1,1 @@
-macDetailCallback("70b3d541a000/36",[{"a":"119, Mapo-daero, Mapo-gu Seoul  KR 04144","o":"HYOSUNG Power & Industrial Systems","d":"2015-10-16","t":"add","s":"ieee","c":"KR"}]);
+macDetailCallback("70b3d541a000/36",[{"a":"119, Mapo-daero, Mapo-gu Seoul  KR 04144","o":"HYOSUNG Power & Industrial Systems","d":"2015-10-16","t":"add","s":"ieee","c":"KR"},{"d":"2022-06-24","t":"change","s":"ieee-oui36.csv","a":"119, Mapo-daero, Mapo-gu Seoul  KR 04144","c":"KR","o":"HYOSUNG Heavy Industries Corporation"}]);
