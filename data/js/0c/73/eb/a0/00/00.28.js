@@ -1,1 +1,1 @@
-macDetailCallback("0c73eba00000/28",[{"a":"47023 Five Mile Rd Plymouth MI US 48170","o":"Pi Innovo LLC","d":"2018-01-14","t":"add","s":"ieee","c":"US"}]);
+macDetailCallback("0c73eba00000/28",[{"a":"47023 Five Mile Rd Plymouth MI US 48170","o":"Pi Innovo LLC","d":"2018-01-14","t":"add","s":"ieee","c":"US"},{"d":"2022-06-26","t":"change","s":"ieee-mam.csv","a":"3939 Technology Drive Maumee OH US 43537","c":"US","o":"Dana"}]);

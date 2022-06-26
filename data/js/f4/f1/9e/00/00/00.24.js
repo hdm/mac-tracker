@@ -1,0 +1,1 @@
+macDetailCallback("f4f19e000000/24",[{"d":"2022-06-26","t":"add","s":"ieee-oui.csv","a":"No.38, East Keji Road, Zhongshan Torch Development Zone Zhongshan Guangdong CN 528437","c":"CN","o":"Wistron InforComm (Zhongshan) Corporation"}]);

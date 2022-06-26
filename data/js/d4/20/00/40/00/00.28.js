@@ -1,0 +1,1 @@
+macDetailCallback("d42000400000/28",[{"d":"2022-06-26","t":"add","s":"ieee-mam.csv","a":"Room 101?Evoc Technology Building?No.31 Gaoxin Central Avenue 4th Road?Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"EVOC VIN Technology Co.,Ltd"}]);
