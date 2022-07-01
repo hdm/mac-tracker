@@ -1,0 +1,1 @@
+macDetailCallback("3c0664000000/24",[{"d":"2022-07-01","t":"add","s":"ieee-oui.csv","a":"No. 86-N2216, Wanxing Road, Changyang, Fangshan District, Beijing Beijing Beijing CN 102488","c":"CN","o":"Beijing Leagrid Technology Co.,Ltd."}]);
