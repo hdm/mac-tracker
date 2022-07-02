@@ -1,0 +1,1 @@
+macDetailCallback("d42000600000/28",[{"d":"2022-07-02","t":"add","s":"ieee-mam.csv","a":"Room 501, no.570, Shengxia Road, Pudong  New Area, Shanghai  CN 200120","c":"CN","o":"HiAR Information Technology Co.,Ltd"}]);
