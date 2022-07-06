@@ -1,1 +1,1 @@
-macDetailCallback("70b3d5119000/36",[{"a":"","o":"Private","d":"2015-08-30","t":"add","s":"ieee"}]);
+macDetailCallback("70b3d5119000/36",[{"a":"","o":"Private","d":"2015-08-30","t":"add","s":"ieee"},{"d":"2022-07-06","t":"change","s":"ieee-oui36.csv","a":"24 Geumchon-gu Seoul KR 153-802","c":"KR","o":"YPP Corporation"}]);

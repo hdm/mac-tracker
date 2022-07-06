@@ -1,0 +1,1 @@
+macDetailCallback("24dc0f000000/24",[{"d":"2022-07-06","t":"add","s":"ieee-oui.csv","a":"Building5,XinAn Business Square,Haiyuan Middle Road Binhai New District, Tianjin  CN 300450","c":"CN","o":"Phytium Technology Co.,Ltd."}]);

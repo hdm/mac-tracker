@@ -1,0 +1,1 @@
+macDetailCallback("d42000e00000/28",[{"d":"2022-07-06","t":"add","s":"ieee-mam.csv","a":"Room 610,Building 1,No.423,Wuning Road,Putuo Dist Shanghai  CN 200036","c":"CN","o":"RPUSI Communication Technology  Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+macDetailCallback("f87999000000/24",[{"d":"2022-07-06","t":"add","s":"ieee-oui.csv","a":"Room 3A02, Yihe center, Shiqi District, Zhongshan City, Guangdong Province, China Zhongshan City Guangdong Province CN 523000","c":"CN","o":"Guangdong Jiuzhi Technology Co.,Ltd"}]);

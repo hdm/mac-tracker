@@ -1,0 +1,1 @@
+macDetailCallback("48c35a000000/24",[{"d":"2022-07-06","t":"add","s":"ieee-oui.csv","a":"Lenovo HQ East,Building 1,No.10 Courtyard Xibeiwang East Road,Haidian District Beijing  CN 100176","c":"CN","o":"LENOVO(BEIJING)CO., LTD."}]);

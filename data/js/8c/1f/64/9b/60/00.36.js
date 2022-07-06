@@ -1,0 +1,1 @@
+macDetailCallback("8c1f649b6000/36",[{"d":"2022-07-06","t":"add","s":"ieee-oui36.csv","a":"Hauswiesenstr. 26 Kaufering Bayern DE 86916","c":"DE","o":"GS Elektromedizinsiche Geräte G. Stemple GmbH"}]);
