@@ -136,7 +136,7 @@ def download_ieee_csv(url)
 	File.open(path, "w") do |fd|
 		fd.write(data)
 	end
-	CSV.parse(data, col_sep: ",", encoding: "utf-8")
+	CSV.parse(data.chomp, col_sep: ",", encoding: "utf-8", liberal_parsing: true)
 end
 
 def write_results
