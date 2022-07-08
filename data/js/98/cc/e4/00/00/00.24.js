@@ -1,0 +1,1 @@
+macDetailCallback("98cce4000000/24",[{"d":"2022-07-08","t":"add","s":"ieee-oui.csv","a":"Tower 4, YESUN Intelligent Community 3 ,No.1301-88 Shenzhen Guanguang Road,Guanlan Street,Longhua District CN 518110","c":"CN","o":"Shenzhen Mindray Animal Medical Technology Co.,LTD"}]);

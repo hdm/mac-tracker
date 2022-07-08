@@ -1,0 +1,1 @@
+macDetailCallback("c48372500000/28",[{"d":"2022-07-08","t":"add","s":"ieee-mam.csv","a":"Room801, Building C2, Future Science & Technology City, No. 999 Gaoxin Avenue, Donghu New Technology Development Zone, Wuhan Hubei CN 430075","c":"CN","o":"Wuhan Da Ta Technologies Co.,Ltd."}]);

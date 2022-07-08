@@ -1,0 +1,1 @@
+macDetailCallback("7a3f8c000000/24",[{"d":"2022-07-08","t":"add","s":"ieee-cid.csv","a":"1627 Moo 7, Teparuk Road, T. Teparuk, A.Muang Samutprakarn  TH 10270","c":"TH","o":"Seagate Technology Thailand Ltd."}]);
