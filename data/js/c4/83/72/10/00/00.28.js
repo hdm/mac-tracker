@@ -1,0 +1,1 @@
+macDetailCallback("c48372100000/28",[{"d":"2022-07-13","t":"add","s":"ieee-mam.csv","a":"Room 202-207, Building A7, Tianliao Industrial Zone, Xueyuan Avenue, Taoyuan Street, Nanshan District Shenzhen Guangdong CN 518071","c":"CN","o":"Shenzhen King Will Technology Co., LTD"}]);

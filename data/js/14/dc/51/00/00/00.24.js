@@ -1,0 +1,1 @@
+macDetailCallback("14dc51000000/24",[{"d":"2022-07-13","t":"add","s":"ieee-oui.csv","a":"Unit 702 7/F,No.165 East Tapu Road,Siming District Xiamen FuJian CN 361002","c":"CN","o":"Xiamen Cheerzing IOT Technology Co.,Ltd."}]);
