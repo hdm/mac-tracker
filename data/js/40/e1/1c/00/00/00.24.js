@@ -1,0 +1,1 @@
+macDetailCallback("40e11c000000/24",[{"d":"2022-07-15","t":"add","s":"ieee-oui.csv","a":"Room 1908, Building 1, Jinlitong Financial Center Building, No. 1100, Xingye Road, Haiwang Community, Xin'an Street, Bao'an District, Shenzhen, China   Shenzhen  CN 518128","c":"CN","o":"shenzhen Cloud High Communication Technology Co.,Ltd"}]);

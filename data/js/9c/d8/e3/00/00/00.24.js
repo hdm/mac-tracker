@@ -1,0 +1,1 @@
+macDetailCallback("9cd8e3000000/24",[{"d":"2022-07-15","t":"add","s":"ieee-oui.csv","a":"Wuhan Huazhong Numerical Control Co.?Ltd Wuhan Hubei CN 430000","c":"CN","o":"Wuhan Huazhong Numerical Control Co., Ltd"}]);

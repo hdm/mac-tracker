@@ -1,0 +1,1 @@
+macDetailCallback("605801000000/24",[{"d":"2022-07-15","t":"add","s":"ieee-oui.csv","a":"2-1105A5, Jinqiao international, No. 2277, 2nd Ring Road East, Hongjialou Street, Licheng District, Jinan, Shandong Province Jinan  CN 250000","c":"CN","o":"Shandong ZTop Microelectronics Co., Ltd."}]);

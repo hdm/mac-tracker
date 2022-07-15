@@ -1,0 +1,1 @@
+macDetailCallback("c48372e00000/28",[{"d":"2022-07-15","t":"add","s":"ieee-mam.csv","a":"No.88,Yandangshan Road,New district,Suzhou Suzhou Jiangsu CN 215153","c":"CN","o":"Suzhou LZY technology Co.,Ltd"}]);
