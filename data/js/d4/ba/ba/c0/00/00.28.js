@@ -1,0 +1,1 @@
+macDetailCallback("d4babac00000/28",[{"d":"2022-07-16","t":"add","s":"ieee-mam.csv","a":"Kashirskoe shosse 3, korpus 2, stroenie 16 Moscow  RU 115230","c":"RU","o":"Rusatom Automated Control Systems, Joint-Stock Company"}]);
