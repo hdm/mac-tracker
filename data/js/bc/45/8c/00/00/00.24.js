@@ -1,0 +1,1 @@
+macDetailCallback("bc458c000000/24",[{"d":"2022-07-17","t":"add","s":"ieee-oui.csv","a":"5/F,Shengtang Building East Block,Tairan Road 9,Futian District,Shenzhen Shenzhen  CN 518042","c":"CN","o":"Shenzhen Topwise Communication Co.,Ltd"}]);
