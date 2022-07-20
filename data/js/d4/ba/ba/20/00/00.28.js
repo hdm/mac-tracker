@@ -1,0 +1,1 @@
+macDetailCallback("d4baba200000/28",[{"d":"2022-07-20","t":"add","s":"ieee-mam.csv","a":"2of No.8, West Lane,Jiangcheng Road,Bangjiang East Village,Dalong Street,Panyu District,Guangzhou City,Guangdong,P.R.China Guangzhou  CN 511400","c":"CN","o":"GuangZhou Ostec Electronic Technology Co.,Limited"}]);

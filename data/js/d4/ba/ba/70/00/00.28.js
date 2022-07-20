@@ -1,0 +1,1 @@
+macDetailCallback("d4baba700000/28",[{"d":"2022-07-20","t":"add","s":"ieee-mam.csv","a":"12A5, Building T1, Fangda Plaza, Beihuan Avenue, Taoyuan Street, Nanshan District Shenzhen  CN 518000","c":"CN","o":"Shenzhen Double Better Technology Co., Ltd"}]);

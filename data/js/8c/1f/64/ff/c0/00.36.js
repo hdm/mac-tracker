@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64ffc000/36",[{"d":"2022-07-20","t":"add","s":"ieee-oui36.csv","a":"#230 BOOHBCS Layout BTM 2nd Stage 38th MAIN 1ST CROSS Bengaluru Karnataka IN 560068","c":"IN","o":"Invendis Technologies India Pvt Ltd"}]);
