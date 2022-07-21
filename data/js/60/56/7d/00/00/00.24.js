@@ -1,0 +1,1 @@
+macDetailCallback("60567d000000/24",[{"d":"2022-07-21","t":"add","s":"ieee-oui.csv","a":"#608,YatapLeaders B/D, Jangmi-ro 42, Bundang-gu Seongnam-si Gyeonggi-do KR 463-828","c":"KR","o":"AM Telecom co., Ltd."}]);
