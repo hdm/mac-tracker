@@ -1,0 +1,1 @@
+macDetailCallback("c49894d00000/28",[{"d":"2022-07-23","t":"add","s":"ieee-mam.csv","a":"Room 1401,Beidou Building,6 Huida Road,Jiangbei NewDistrict Nanjing Jiangsu CN 210032","c":"CN","o":"Jiangsu AIDriving Co.,Ltd."}]);
