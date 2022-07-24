@@ -1,1 +1,1 @@
-macDetailCallback("70b3d5d41000/36",[{"a":"Frühlingstraße 31-33 Ingolstadt  DE 85055","o":"KSE GmbH","d":"2017-10-22","t":"add","s":"ieee","c":"DE"}]);
+macDetailCallback("70b3d5d41000/36",[{"a":"Frühlingstraße 31-33 Ingolstadt  DE 85055","o":"KSE GmbH","d":"2017-10-22","t":"add","s":"ieee","c":"DE"},{"d":"2022-07-24","t":"change","s":"ieee-oui36.csv","a":"Kaethe Paulus Strasse 6 Koesching  DE 85092","c":"DE","o":"KSE GmbH"}]);
