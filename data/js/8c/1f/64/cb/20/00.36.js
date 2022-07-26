@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64cb2000/36",[{"d":"2022-07-26","t":"add","s":"ieee-oui36.csv","a":"Av. BPS, 1303, Predio J3, Sala 6 Itajubá MG BR 37500-185","c":"BR","o":"Dyncir Soluções Tecnológicas Ltda"}]);
