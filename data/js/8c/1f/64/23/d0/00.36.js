@@ -1,0 +1,1 @@
+macDetailCallback("8c1f6423d000/36",[{"d":"2022-07-27","t":"add","s":"ieee-oui36.csv","a":"101, First Floor, Block 1, White House\nKundanbagh, Begumpet Hyderabad Telangana IN 500016","c":"IN","o":"Mokila Networks Pvt Ltd"}]);
