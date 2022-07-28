@@ -1,1 +1,1 @@
-macDetailCallback("94c9b7900000/28",[{"d":"2021-10-23","t":"add","s":"ieee-mam.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("94c9b7900000/28",[{"d":"2021-10-23","t":"add","s":"ieee-mam.csv","a":"","c":"","o":"Private"},{"d":"2022-07-28","t":"change","s":"ieee-mam.csv","a":"35F, Shenzhen Bay VC&PE Bldg, No.25, Haitian 2nd Rd, Binhai  Comm, Yuehai St., Nanshan Dist, Shenzhen shenzhen guangdong CN 518000","c":"CN","o":"Titanium union(shenzhen)technology co.,ltd"}]);
