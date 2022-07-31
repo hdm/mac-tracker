@@ -1,0 +1,1 @@
+macDetailCallback("8c1f641b7000/36",[{"d":"2022-07-31","t":"add","s":"ieee-oui36.csv","a":"5th floor, 5/391 Kaleeswari tower\nTambaram-Velachery Main road, Medavakkam Chennai Tamil Nadu IN 600100","c":"IN","o":"Rax-Tech International"}]);
