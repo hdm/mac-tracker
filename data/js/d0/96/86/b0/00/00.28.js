@@ -1,0 +1,1 @@
+macDetailCallback("d09686b00000/28",[{"d":"2022-08-04","t":"add","s":"ieee-mam.csv","a":"Floor 3, building 5, North Yuemin lane, Xinmin Road, Juzizhou street, Yuelu District, Changsha Changsha  CN 410000","c":"CN","o":"Changsha keruijie lnformation Technology Co.,Ltd"}]);

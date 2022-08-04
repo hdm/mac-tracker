@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64f39000/36",[{"d":"2022-08-04","t":"add","s":"ieee-oui36.csv","a":"The northwest corner of the intersection of Chaoyang Avenue and Gaoxin West Road,No.87 Chaoyang Avenue,High-tech Industrial Development Zone Weinan Shanxi CN 714000","c":"CN","o":"Weinan Wins Future Technology Co.,Ltd"}]);
