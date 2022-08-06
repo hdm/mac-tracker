@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64731000/36",[{"d":"2022-08-06","t":"add","s":"ieee-oui36.csv","a":"148, Gongdan-ro, Gunpo-si, Gyeonggi-do, Republic of Korea Gunpo-si Gyeonggi-do KR 15845","c":"KR","o":"ehoosys Co.,LTD."}]);

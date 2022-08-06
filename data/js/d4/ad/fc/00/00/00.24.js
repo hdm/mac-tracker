@@ -1,1 +1,1 @@
-macDetailCallback("d4adfc000000/24",[{"d":"2021-08-01","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("d4adfc000000/24",[{"d":"2021-08-01","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2022-08-06","t":"change","s":"ieee-oui.csv","a":"No. 2901, 2902, 2903, 2904, 3002, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue Shenzhen Xili Community, Xili Street, Nanshan District, Guangdong CN 518000","c":"CN","o":"Shenzhen Intellirocks Tech co.,ltd"}]);
