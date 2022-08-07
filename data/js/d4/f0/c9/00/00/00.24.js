@@ -1,0 +1,1 @@
+macDetailCallback("d4f0c9000000/24",[{"d":"2022-08-07","t":"add","s":"ieee-oui.csv","a":"2-28 1-Chome, Tamatsukuri, Chuo-ku   osaka Japan JP 540-8585","c":"JP","o":"KYOCERA Document Solutions Inc."}]);

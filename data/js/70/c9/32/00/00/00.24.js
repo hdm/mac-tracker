@@ -1,0 +1,1 @@
+macDetailCallback("70c932000000/24",[{"d":"2022-08-07","t":"add","s":"ieee-oui.csv","a":"Shangjiwan Headquarter, Building E3 Economic Garden, 2288 Wuzhong Blvd Suzhou Jiangsu CN 215000","c":"CN","o":"Dreame Technology (Suzhou) Limited"}]);

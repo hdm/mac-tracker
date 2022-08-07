@@ -1,0 +1,1 @@
+macDetailCallback("d09686d00000/28",[{"d":"2022-08-07","t":"add","s":"ieee-mam.csv","a":"6th floor,Shouxiang Technology Building,51 Xueyuan Road,Haidian District,Beijing Beijing Beijing CN 100083","c":"CN","o":"CertusNet Information Technology Co.,LTD"}]);
