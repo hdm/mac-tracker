@@ -1,0 +1,1 @@
+macDetailCallback("c47905000000/24",[{"d":"2022-08-11","t":"add","s":"ieee-oui.csv","a":"No.88,Jiangling Road Hangzhou Zhejiang,P.R.China CN 310051","c":"CN","o":"Zhejiang Uniview Technologies Co.,Ltd."}]);
