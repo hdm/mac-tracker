@@ -1,0 +1,1 @@
+macDetailCallback("505a65000000/24",[{"d":"2022-08-12","t":"add","s":"ieee-oui.csv","a":"8F., No. 94, Baozhong Rd., Xindian Dist. New Taipei City  TW 23144","c":"TW","o":"AzureWave Technologies, Inc."}]);

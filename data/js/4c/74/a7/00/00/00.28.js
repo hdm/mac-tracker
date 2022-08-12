@@ -1,0 +1,1 @@
+macDetailCallback("4c74a7000000/28",[{"d":"2022-08-12","t":"add","s":"ieee-mam.csv","a":"Room 612, Building 4, Minqi Science Park, No. 65 Lishan Road, Pingshan Community, Taoyuan Street, Nanshan District,  Shenzhen Guangdong CN 518071","c":"CN","o":"Shenzhen Timekettle Technologies Co.,Ltd"}]);

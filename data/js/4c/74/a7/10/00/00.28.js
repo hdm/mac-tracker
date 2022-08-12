@@ -1,0 +1,1 @@
+macDetailCallback("4c74a7100000/28",[{"d":"2022-08-12","t":"add","s":"ieee-mam.csv","a":"8F, 5D Building, Skyworth Innovation Valley, Tangtou, Shiyan, Baoan District Shenzhen, China. shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Hollyland Technology Co.,Ltd"}]);

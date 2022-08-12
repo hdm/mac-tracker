@@ -1,0 +1,1 @@
+macDetailCallback("2c6f4e000000/24",[{"d":"2022-08-12","t":"add","s":"ieee-oui.csv","a":"No. B1345, Chuanggu Start-up Area, Taizi Lake Cultural and Digital Creative Industry Park, No. 18 Shenlong Avenue, Wuhan Economic & Technological Development Zone wuhan hubei CN 430050","c":"CN","o":"Hubei Yuan Times Technology Co.,Ltd."}]);

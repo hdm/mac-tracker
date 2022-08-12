@@ -1,0 +1,1 @@
+macDetailCallback("4c74a7400000/28",[{"d":"2022-08-12","t":"add","s":"ieee-mam.csv","a":"12th Floor A3 Building, No. 777, West Jianzhu Road, Binhu District, Wuxi City, Jiangsu Province Jiangsu  CN 214028","c":"CN","o":"Wuxi Micro Innovation Integrated Circuit Design Co., Ltd"}]);
