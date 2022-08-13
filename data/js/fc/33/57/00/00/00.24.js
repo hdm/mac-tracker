@@ -1,0 +1,1 @@
+macDetailCallback("fc3357000000/24",[{"d":"2022-08-13","t":"add","s":"ieee-oui.csv","a":"100-45, Shinyokohama 2-Chome Kohoku-Ku Yokohama-Shi Kanagawa JP 222-8508","c":"JP","o":"KAGA FEI Co., Ltd."}]);
