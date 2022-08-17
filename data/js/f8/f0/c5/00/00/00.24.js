@@ -1,0 +1,1 @@
+macDetailCallback("f8f0c5000000/24",[{"d":"2022-08-17","t":"add","s":"ieee-oui.csv","a":"4F?A5F, SISPARK Building 17, Industrial Park District, Suzhou Suzhou Jiangsu CN 215028","c":"CN","o":"Suzhou Kuhan Information Technologies Co.,Ltd."}]);
