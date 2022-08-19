@@ -1,0 +1,1 @@
+macDetailCallback("109f4f000000/24",[{"d":"2022-08-19","t":"add","s":"ieee-oui.csv","a":"Room 406-100, 1 Yichuang Street, China-Singapore Guangzhou Knowledge City, Huangpu District, Guangzhou. Guangzhou  Guangdong CN 510030","c":"CN","o":"New H3C Intelligence Terminal Co., Ltd."}]);

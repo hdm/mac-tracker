@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64a60000/36",[{"d":"2022-08-19","t":"add","s":"ieee-oui36.csv","a":"9019 Washington Street Northeast\nSuite B-2 Albuquerque NM US 87113","c":"US","o":"Active Optical Systems, LLC"}]);
