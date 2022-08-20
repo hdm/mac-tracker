@@ -1,0 +1,1 @@
+macDetailCallback("8038d4000000/24",[{"d":"2022-08-20","t":"add","s":"ieee-oui.csv","a":"No. 1515 and No. 1516, floor 15, unit 2, building 2, Section 1, Huayang Huafu Avenue, Tianfu new area Chengdu Sichuan CN 610000","c":"CN","o":"Fibercentury Network Technology Co.,Ltd."}]);
