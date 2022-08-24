@@ -1,0 +1,1 @@
+macDetailCallback("8c1f647a4000/36",[{"d":"2022-08-24","t":"add","s":"ieee-oui36.csv","a":"Shinyokohama I/O Bldg, 1-3-10 Shinyokohama, Kohoku-ku Yokohama City Kanagawa JP 2220033","c":"JP","o":"Hirotech inc."}]);

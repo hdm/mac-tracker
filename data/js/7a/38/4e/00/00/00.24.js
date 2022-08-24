@@ -1,0 +1,1 @@
+macDetailCallback("7a384e000000/24",[{"d":"2022-08-24","t":"add","s":"ieee-cid.csv","a":"Haid-und-Neu-Straße 7 Karlsruhe Baden-Württemberg DE 76131","c":"DE","o":"PROFIBUS Nutzerorganisation e.V."}]);

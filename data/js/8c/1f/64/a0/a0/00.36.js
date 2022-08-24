@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64a0a000/36",[{"d":"2022-08-24","t":"add","s":"ieee-oui36.csv","a":"Room 408, building C, No. 154, Lane 953, Jianchuan Road, Minhang District Shanghai Shanghai CN 201100","c":"CN","o":"Shanghai Wise-Tech Intelligent Technology Co.,Ltd."}]);

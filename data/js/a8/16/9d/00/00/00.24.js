@@ -1,0 +1,1 @@
+macDetailCallback("a8169d000000/24",[{"d":"2022-08-24","t":"add","s":"ieee-oui.csv","a":"No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025","c":"CN","o":"Hui Zhou Gaoshengda Technology Co.,LTD"}]);
