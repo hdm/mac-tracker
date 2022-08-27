@@ -1,0 +1,1 @@
+macDetailCallback("c8f2b4000000/24",[{"d":"2022-08-27","t":"add","s":"ieee-oui.csv","a":"Building 1#, Electronic Information Industry Park of Machang Town, Guian New Area, Guizhou Province. Gui'an New Area Guizhou Province CN 550025","c":"CN","o":"Guizhou Huaxin Information Technology Co., Ltd."}]);
