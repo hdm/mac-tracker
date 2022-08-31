@@ -1,0 +1,1 @@
+macDetailCallback("d46137000000/28",[{"d":"2022-08-31","t":"add","s":"ieee-mam.csv","a":"NO.5, HSIN AN ROAD, SCIENCE-BASED INDUSTRIAL PARK, HSINCHU, TAIWAN, R.O.C. Hsinchu County Taiwan TW 303036","c":"TW","o":"Wistron Corporation"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("d46137400000/28",[{"d":"2022-08-31","t":"add","s":"ieee-mam.csv","a":"Rm 2056 , Building 8, Xiaoyun li , ChaoYang District Beijing China CN 100016","c":"CN","o":"Beijing TAIXINYUN Technology Co.,Ltd"}]);

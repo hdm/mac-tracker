@@ -1,0 +1,1 @@
+macDetailCallback("d46137600000/28",[{"d":"2022-08-31","t":"add","s":"ieee-mam.csv","a":"KM Electronic Cables Pvt Ltd, KM House, Near Maurya Complex, Ashram Road Ahmedabad  IN 380014","c":"IN","o":"Securus CCTV India"}]);

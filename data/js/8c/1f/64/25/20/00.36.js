@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64252000/36",[{"d":"2022-08-31","t":"add","s":"ieee-oui36.csv","a":"Block 39-1, Optoelectronics-information industry base, Nan’an, Quanzhou Fujian CN 362300","c":"CN","o":"TYT Electronics CO., LTD"}]);
