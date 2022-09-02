@@ -1,0 +1,1 @@
+macDetailCallback("f0221d700000/28",[{"d":"2022-09-02","t":"add","s":"ieee-mam.csv","a":"ROOM A1, 11/F WINNER BUILDING,36 MAN YUE STREET, HUNG HOM,KOWLOON,hongkong\n hongkong  HK 999077","c":"HK","o":"Bulat Co., Limited"}]);

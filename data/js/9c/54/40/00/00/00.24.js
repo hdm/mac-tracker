@@ -1,1 +1,1 @@
-macDetailCallback("9c5440000000/24",[{"d":"2021-09-12","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("9c5440000000/24",[{"d":"2021-09-12","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2022-09-02","t":"change","s":"ieee-oui.csv","a":"C3 floor, software park, No. 219, Tianhua Second Road Chengdu Tianfu Avenue, high tech Zone CN 610041","c":"CN","o":"ChengDu TD Tech"}]);
