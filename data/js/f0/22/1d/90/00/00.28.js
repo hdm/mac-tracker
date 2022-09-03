@@ -1,0 +1,1 @@
+macDetailCallback("f0221d900000/28",[{"d":"2022-09-03","t":"add","s":"ieee-mam.csv","a":"Room 506, No. 19, No. 498, GuoShouJing Road Shanghai Pudong New Area CN 201203","c":"CN","o":"Shanghai Gfanxvision Intelligent Technology Co.Ltd"}]);
