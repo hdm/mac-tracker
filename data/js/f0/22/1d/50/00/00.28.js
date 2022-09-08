@@ -1,0 +1,1 @@
+macDetailCallback("f0221d500000/28",[{"d":"2022-09-08","t":"add","s":"ieee-mam.csv","a":"16G, Bldg A Haiwang,Yuehai Sub-District,  Nanshan District, ShenZhen, China Shenzhen Guangdong CN 518001","c":"CN","o":"Shenzhen SuyuVisonTechnology Co.,Ltd"}]);

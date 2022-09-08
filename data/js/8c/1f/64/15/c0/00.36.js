@@ -1,0 +1,1 @@
+macDetailCallback("8c1f6415c000/36",[{"d":"2022-09-08","t":"add","s":"ieee-oui36.csv","a":"7F-A, No. 1, Sec. 3, Gongdao 5th Rd., Hsinchu 300, Taiwan (R.O.C.) Hsinchu  TW 30069","c":"TW","o":"TRON FUTURE TECH INC."}]);
