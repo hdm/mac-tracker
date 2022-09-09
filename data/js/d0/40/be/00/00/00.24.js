@@ -1,0 +1,1 @@
+macDetailCallback("d040be000000/24",[{"d":"2022-09-09","t":"add","s":"ieee-oui.csv","a":"Internal territory of the urban settlement of Mosrentgen, the settlement of the Mosrentgen factory, building 1/10, office 206 Moscow  RU 108820","c":"RU","o":"NPO RPS LLC"}]);
