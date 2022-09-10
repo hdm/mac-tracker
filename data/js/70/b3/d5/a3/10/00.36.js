@@ -1,1 +1,1 @@
-macDetailCallback("70b3d5a31000/36",[{"d":"2020-09-13","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("70b3d5a31000/36",[{"d":"2020-09-13","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"},{"d":"2022-09-10","t":"change","s":"ieee-oui36.csv","a":"Unit 3203-3207 , Tower 1 , Enterprise Square Five , 38 Wang Chiu Road Hong Kong Kowloon Bay HK 852","c":"HK","o":"Wise Ally Holdings Limited"}]);
