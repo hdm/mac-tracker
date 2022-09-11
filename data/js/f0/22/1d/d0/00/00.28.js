@@ -1,0 +1,1 @@
+macDetailCallback("f0221dd00000/28",[{"d":"2022-09-11","t":"add","s":"ieee-mam.csv","a":"Am Kalkofen 10 Nieder-Woellstadt  DE 61206","c":"DE","o":"Schleissheimer Soft- und Hardwareentwicklung GmbH"}]);

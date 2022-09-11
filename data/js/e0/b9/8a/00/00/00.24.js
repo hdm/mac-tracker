@@ -1,0 +1,1 @@
+macDetailCallback("e0b98a000000/24",[{"d":"2022-09-11","t":"add","s":"ieee-oui.csv","a":"34F,building B,Zhongzhou holding financial center,No.88 Haide 1st Road,Haizhu community,Yuehai street,Nanshan District,Shenzhen,Guangdong Shenzhen Guangdong CN 518064","c":"CN","o":"Shenzhen Taike industrial automation company,Ltd"}]);

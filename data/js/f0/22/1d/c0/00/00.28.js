@@ -1,0 +1,1 @@
+macDetailCallback("f0221dc00000/28",[{"d":"2022-09-11","t":"add","s":"ieee-mam.csv","a":"2F,Building No.1, Jia'an Industrial Park,No.2 Long Chang Road, Bao'an Shenzhen  Guangdong CN 518101","c":"CN","o":"Estone Technology LTD"}]);
