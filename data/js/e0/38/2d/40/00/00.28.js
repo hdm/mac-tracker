@@ -1,0 +1,1 @@
+macDetailCallback("e0382d400000/28",[{"d":"2022-09-16","t":"add","s":"ieee-mam.csv","a":"8#-1 Household of Liandong U Valley Industrial Park Qingdao Shandong CN 266100","c":"CN","o":"Qingdao Unovo Technologies Co., Ltd"}]);
