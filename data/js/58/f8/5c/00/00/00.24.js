@@ -1,0 +1,1 @@
+macDetailCallback("58f85c000000/24",[{"d":"2022-09-17","t":"add","s":"ieee-oui.csv","a":"Ulitsa Podolskih Kursantov,  build. 3, of. 133 Moscow Moscow RU 117545","c":"RU","o":"LLC Proizvodstvennaya Kompania \"TransService\""}]);
