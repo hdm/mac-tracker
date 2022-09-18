@@ -1,0 +1,1 @@
+macDetailCallback("78071c000000/24",[{"d":"2022-09-18","t":"add","s":"ieee-oui.csv","a":"3 St. Mary's Court, Main Street Cambridge Cambridgeshire GB CB23 7QS","c":"GB","o":"Green Energy Options Ltd"}]);
