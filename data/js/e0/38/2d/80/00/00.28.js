@@ -1,0 +1,1 @@
+macDetailCallback("e0382d800000/28",[{"d":"2022-09-24","t":"add","s":"ieee-mam.csv","a":"5C building 1, Tingwei Industrial Park, No.6 Liufang Road, Area 67, Xingdong community, Xin’an street, Bao’an District, Shenzhen, China SHENZHEN  CN 518000","c":"CN","o":"Shenzhen iTest Technology Co.,Ltd"}]);
