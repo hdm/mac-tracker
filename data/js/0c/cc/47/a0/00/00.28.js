@@ -1,0 +1,1 @@
+macDetailCallback("0ccc47a00000/28",[{"d":"2022-09-27","t":"add","s":"ieee-mam.csv","a":"8F., No. 219, Sec. 2, New Taipei Blvd. New Taipei City Xinzhuang Dist TW 242","c":"TW","o":"Rich Source Precision IND., Co., LTD."}]);

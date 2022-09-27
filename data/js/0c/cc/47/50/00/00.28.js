@@ -1,0 +1,1 @@
+macDetailCallback("0ccc47500000/28",[{"d":"2022-09-27","t":"add","s":"ieee-mam.csv","a":"1 F., No. 3, Ln. 72, Yumen Rd., Xitun Dist., Taichung City 40764, Taiwan (R.O.C.) Taichung   TW 407","c":"TW","o":"DMECOM TELECOM CO.,LTD."}]);
