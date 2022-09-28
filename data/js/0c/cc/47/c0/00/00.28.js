@@ -1,0 +1,1 @@
+macDetailCallback("0ccc47c00000/28",[{"d":"2022-09-28","t":"add","s":"ieee-mam.csv","a":"7/307, 302-7, 3-dan 1-ro, Gumi-si, Gyeongsangbuk-do\n Gumi-si Gyeongsangbuk-do  KOREA(SOUTH) KR 39391","c":"KR","o":"KUMI ELECTRONIC COMPONENTS"}]);
