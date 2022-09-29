@@ -1,0 +1,1 @@
+macDetailCallback("c45379000000/24",[{"d":"2022-09-29","t":"add","s":"ieee-oui.csv","a":"700 LAVACA, STE 1401 AUSTIN?TX 787015 AUSTIN  US 787015","c":"US","o":"Micronview Limited Liability Company"}]);

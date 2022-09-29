@@ -1,0 +1,1 @@
+macDetailCallback("0ccc47400000/28",[{"d":"2022-09-29","t":"add","s":"ieee-mam.csv","a":"Shanghe Service Center , No. 1, Changjiang First Road, Shanghe Demonstration Zone, Jiaozhou City, Qingdao Shandong CN 266300","c":"CN","o":"Qingdao Geesatcom Technology Co., Ltd"}]);
