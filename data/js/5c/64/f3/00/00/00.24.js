@@ -1,0 +1,1 @@
+macDetailCallback("5c64f3000000/24",[{"d":"2022-09-30","t":"add","s":"ieee-oui.csv","a":"RM2,3/F Ruby CDMN Building No. 480 Nathan Road KL HongKong HongKong CN 999077","c":"CN","o":"sywinkey HongKong Co,. Limited?"}]);

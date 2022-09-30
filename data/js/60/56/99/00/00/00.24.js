@@ -1,1 +1,1 @@
-macDetailCallback("605699000000/24",[{"d":"2021-10-15","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("605699000000/24",[{"d":"2021-10-15","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2022-09-30","t":"change","s":"ieee-oui.csv","a":"LOT N°146, ZONE FRANCHE TANGER AUTOMOTIVE CITY Tangier  MA 90000","c":"MA","o":"Marelli Morocco LLC SARL"}]);

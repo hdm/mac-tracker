@@ -1,0 +1,1 @@
+macDetailCallback("0ccc47200000/28",[{"d":"2022-09-30","t":"add","s":"ieee-mam.csv","a":"Unit F,27/F,Maxgrand Plaza,3 Tai Yan Street, San Po Kong, Kowloon, Hong Kong, China Hong Kong  CN 999077","c":"CN","o":"Sun Yan International Trading Ltd."}]);
