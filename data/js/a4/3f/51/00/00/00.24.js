@@ -1,0 +1,1 @@
+macDetailCallback("a43f51000000/24",[{"d":"2022-10-05","t":"add","s":"ieee-oui.csv","a":"No.2001, Building 2, Sunmax Technology Park, Kehua Road No.8, Nanshan District Shenzhen  CN 518057","c":"CN","o":"Shenzhen Benew Technology  Co.,Ltd."}]);
