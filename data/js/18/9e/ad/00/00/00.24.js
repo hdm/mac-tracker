@@ -1,0 +1,1 @@
+macDetailCallback("189ead000000/24",[{"d":"2022-10-11","t":"add","s":"ieee-oui.csv","a":"A730-731, Huafeng Internet Creative Park, No. 107 Gonghe Industrial Road, Xixiang Street, Bao'an District Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Chengqian Information Technology Co., Ltd"}]);

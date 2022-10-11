@@ -1,0 +1,1 @@
+macDetailCallback("6c2316000000/24",[{"d":"2022-10-11","t":"add","s":"ieee-oui.csv","a":"Room 1000,10F., No.288, Sec. 6, Civic Blvd.,Xinyi Dist., Taipei City TAIWAN TW 11087","c":"TW","o":"TATUNG Technology Inc.,"}]);
