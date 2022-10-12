@@ -1,0 +1,1 @@
+macDetailCallback("8c1f645af000/36",[{"d":"2022-10-12","t":"add","s":"ieee-oui36.csv","a":"S-304, Shrinand Nagar -2, Makarba Road, Vejalpur Ahmedabad Gujarat IN 380051","c":"IN","o":"Teq Diligent Product Solutions Pvt. Ltd."}]);
