@@ -1,0 +1,1 @@
+macDetailCallback("84b386700000/28",[{"d":"2022-10-16","t":"add","s":"ieee-mam.csv","a":"218 Binhai Second Road, Hangzhou Bay New Area Cixi Zhejiang CN 315300","c":"CN","o":"FOTILE GROUP NINGBO FOTILE KITCHENWARE Co.,Ltd"}]);
