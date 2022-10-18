@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64b69000/36",[{"d":"2022-10-18","t":"add","s":"ieee-oui36.csv","a":"No. 102, building 3, Qianhai Shenzhen-Hong Kong Youth Innovation \n& Entrepreneur Hub, Qianwan 1st Road, Nanshan District, SHENZHEN Guangdong CN 518066","c":"CN","o":"Quanxing Tech Co.,LTD"}]);
