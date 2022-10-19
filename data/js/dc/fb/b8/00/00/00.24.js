@@ -1,0 +1,1 @@
+macDetailCallback("dcfbb8000000/24",[{"d":"2022-10-19","t":"add","s":"ieee-oui.csv","a":"AD1 Section, The Economy Development Area, Dongsheng Industrial District,  Meizhou Guangdong Province CN 514000","c":"CN","o":"Meizhou Guo Wei Electronics Co., Ltd"}]);
