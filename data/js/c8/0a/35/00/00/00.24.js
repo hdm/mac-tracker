@@ -1,0 +1,1 @@
+macDetailCallback("c80a35000000/24",[{"d":"2022-10-21","t":"add","s":"ieee-oui.csv","a":"No.399, Songling Road, Laoshan District Qingdao Shandong CN 266100","c":"CN","o":"Qingdao Hisense Smart Life Technology Co., Ltd"}]);

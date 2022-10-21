@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64aea000/36",[{"d":"2022-10-21","t":"add","s":"ieee-oui36.csv","a":"8-9/F, Software Park, Southern Hi-Tech Zone, Nanshan District SHENZHEN Guangdong CN 518054","c":"CN","o":"INHEMETER Co.,Ltd"}]);
