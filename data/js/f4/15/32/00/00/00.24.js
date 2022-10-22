@@ -1,0 +1,1 @@
+macDetailCallback("f41532000000/24",[{"d":"2022-10-22","t":"add","s":"ieee-oui.csv","a":"17 / F, block A, Weien building, No. 73 Huachuang Road, Yan Chuang Park, Jiang Bei New Area Nanjing Jiangsu CN 211800","c":"CN","o":"PETAiO (NanJing), Inc."}]);

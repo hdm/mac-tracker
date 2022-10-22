@@ -1,1 +1,1 @@
-macDetailCallback("fa0bbc000000/24",[{"d":"2021-04-29","t":"add","s":"ieee-cid.csv","a":"Rue de la Science 14b Brussels  BE 1040","c":"BE","o":"ASD-STAN"}]);
+macDetailCallback("fa0bbc000000/24",[{"d":"2021-04-29","t":"add","s":"ieee-cid.csv","a":"Rue de la Science 14b Brussels  BE 1040","c":"BE","o":"ASD-STAN"},{"d":"2022-10-22","t":"change","s":"ieee-cid.csv","a":"Rue Belliard 40 Brussels  BE 1040","c":"BE","o":"ASD-STAN"}]);

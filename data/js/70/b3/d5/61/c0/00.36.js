@@ -1,1 +1,1 @@
-macDetailCallback("70b3d561c000/36",[{"a":"13-21 Saiwaityou Kofu Yamanashi JP 400-0857","o":"Earth Works","d":"2016-12-11","t":"add","s":"ieee","c":"JP"}]);
+macDetailCallback("70b3d561c000/36",[{"a":"13-21 Saiwaityou Kofu Yamanashi JP 400-0857","o":"Earth Works","d":"2016-12-11","t":"add","s":"ieee","c":"JP"},{"d":"2022-10-22","t":"change","s":"ieee-oui36.csv","a":"2-9-14 Aioi Kofu Yamanashi JP 400-0858","c":"JP","o":"Earth Works"}]);
