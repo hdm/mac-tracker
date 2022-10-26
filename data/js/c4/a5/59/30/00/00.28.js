@@ -1,0 +1,1 @@
+macDetailCallback("c4a559300000/28",[{"d":"2022-10-26","t":"add","s":"ieee-mam.csv","a":"th Floor,Building 2,Xinyu Electronic Industrial Park,No.69, Zhaishan,Houshan Village, High-tech Zone,Fuzhou,Fujian ,China Fuzhou  CN 350000","c":"CN","o":"X-speed lnformation Technology Co.,Ltd"}]);
