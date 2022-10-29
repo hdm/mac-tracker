@@ -1,0 +1,1 @@
+macDetailCallback("14dd02000000/24",[{"d":"2022-10-29","t":"add","s":"ieee-oui.csv","a":"150 JingHai West Road,ShaQu Village ShaTou Area,ChangAn Town DongGuan GuangDong  CN 523846","c":"CN","o":"Liangang Optoelectronic Technology CO., Ltd."}]);
