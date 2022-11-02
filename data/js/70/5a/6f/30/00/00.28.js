@@ -1,0 +1,1 @@
+macDetailCallback("705a6f300000/28",[{"d":"2022-11-02","t":"add","s":"ieee-mam.csv","a":"Room 2301, Binhe 9, Guangzhou Economic and Technological Development District Guangzhou Guangdong CN 510730","c":"CN","o":"Wavelab Telecom Equipment (GZ) Ltd."}]);

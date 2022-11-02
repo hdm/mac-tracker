@@ -1,0 +1,1 @@
+macDetailCallback("f42462000000/24",[{"d":"2022-11-02","t":"add","s":"ieee-oui.csv","a":"A7/A24 No.5399, Waiqingsong Road, Qing Pu Shanghai Shanghai CN 201707","c":"CN","o":"Selcom Electronics (Shanghai) Co., Ltd"}]);

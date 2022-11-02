@@ -1,0 +1,1 @@
+macDetailCallback("705a6f700000/28",[{"d":"2022-11-02","t":"add","s":"ieee-mam.csv","a":"17F., No.3-1, Park St., Nangang Dist.,, Taiwan R.O.C.  Taipei City   TW 115","c":"TW","o":"WiBASE Industrial Solutions Inc."}]);
