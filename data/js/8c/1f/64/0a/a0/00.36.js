@@ -1,0 +1,1 @@
+macDetailCallback("8c1f640aa000/36",[{"d":"2022-11-03","t":"add","s":"ieee-oui36.csv","a":"406, CRYSTAL ARCADE, NEXT TO BSNL EXCHANGE, C.G ROAD, NAVRANGPURA AHMEDABAD Gujarat IN 380009","c":"IN","o":"DI3 INFOTECH LLP"}]);

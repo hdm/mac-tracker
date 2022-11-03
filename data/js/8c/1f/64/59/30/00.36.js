@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64593000/36",[{"d":"2022-11-03","t":"add","s":"ieee-oui36.csv","a":"No.41, Keyi St., Zhunan Township, Miaoli County 350\nTaiwan (R.O.C.) Zhunan Township Miaoli County TW 35059","c":"TW","o":"Brillian Network & Automation Integrated System Co., Ltd."}]);
