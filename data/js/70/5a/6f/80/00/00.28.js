@@ -1,0 +1,1 @@
+macDetailCallback("705a6f800000/28",[{"d":"2022-11-09","t":"add","s":"ieee-mam.csv","a":"Jinying Building, No 1, Jinying Road, Tianhe District Guangzhou Guangdong CN 510640","c":"CN","o":"LUAN Industry and Commerce Co., Ltd"}]);
