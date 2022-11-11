@@ -1,0 +1,1 @@
+macDetailCallback("d8638c000000/24",[{"d":"2022-11-11","t":"add","s":"ieee-oui.csv","a":"Unit 405,Building 2C,Shenzhen Software Industrial Base, 10th Hi-Tech South Road,Yuehai Street Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen Dttek Technology Co., Ltd."}]);
