@@ -1,0 +1,1 @@
+macDetailCallback("d853bc000000/24",[{"d":"2022-11-13","t":"add","s":"ieee-oui.csv","a":"2F, NO.1 Plant , Lenovo Innovation Park, Lidu Road, Loucun Community, Xinhu Street, Guangming District , Shenzhen, Guangdong, China Shenzhen Guangdong CN 518000","c":"CN","o":"Lenovo Information Products (Shenzhen)Co.,Ltd"}]);

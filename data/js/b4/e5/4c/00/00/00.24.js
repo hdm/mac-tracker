@@ -1,0 +1,1 @@
+macDetailCallback("b4e54c000000/24",[{"d":"2022-11-13","t":"add","s":"ieee-oui.csv","a":"Russian Federation, Moscow, Goncharnaya st, house ? 30, building 1, office ?511 Moscow  RU 115172","c":"RU","o":"LLC \"Elektra\""}]);

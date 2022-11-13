@@ -1,0 +1,1 @@
+macDetailCallback("cc4d74000000/24",[{"d":"2022-11-13","t":"add","s":"ieee-oui.csv","a":"No. B602, Building #1, HaixiaJingmao Plaza, Fuzhou Bonded Area Fuzhou  CN 350015","c":"CN","o":"Fujian Newland Payment Technology Co., Ltd."}]);
