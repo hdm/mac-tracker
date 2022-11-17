@@ -1,0 +1,1 @@
+macDetailCallback("2c002a000000/24",[{"d":"2022-11-17","t":"add","s":"ieee-oui.csv","a":"Building, No.33, Xiandong Rd, Xili Nanshan District, Shenzhen PRC CN 518053","c":"CN","o":"Shenzhen TINNO Mobile Technology Corp."}]);
