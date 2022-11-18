@@ -1,0 +1,1 @@
+macDetailCallback("8c5db2a00000/28",[{"d":"2022-11-18","t":"add","s":"ieee-mam.csv","a":"Floor2,Ruipu Electronic Building,NO.5 Xiaguangli,Chaoyang District Beijing Beijing CN 100125","c":"CN","o":"Beijing Scistor Technology Co., Ltd"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("8c1f6420e000/36",[{"d":"2022-11-18","t":"add","s":"ieee-oui36.csv","a":"T5-1001, Parsvnath Green Ville, Sector 48 , Sohna Road  Gurgaon Haryana IN 122018","c":"IN","o":"Alpha Bridge Technologies Private Limited"}]);
