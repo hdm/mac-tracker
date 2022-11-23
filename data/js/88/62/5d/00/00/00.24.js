@@ -1,0 +1,1 @@
+macDetailCallback("88625d000000/24",[{"d":"2022-11-23","t":"add","s":"ieee-oui.csv","a":"No.606, 83, Samwon-ro, Deogyang-gu, Goyang-si, Gyeonggi-do,Korea Goyang-si  KR 10550","c":"KR","o":"BITNETWORKS CO.,LTD"}]);
