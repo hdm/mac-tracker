@@ -1,0 +1,1 @@
+macDetailCallback("7c45f9900000/28",[{"d":"2022-11-29","t":"add","s":"ieee-mam.csv","a":"ROOM 204 882, Baksa-ro, Seo-myeon, chuncheon-si, Gangwon-do, Republic of korea chuncheon-si Gangwon-do KR 24461","c":"KR","o":"MIJ CO LTD"}]);

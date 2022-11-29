@@ -1,0 +1,1 @@
+macDetailCallback("7c45f9600000/28",[{"d":"2022-11-29","t":"add","s":"ieee-mam.csv","a":"HANK Industry Park, 118 Shaxin Road, Tangxia Town Dongguan Guangdong CN 523900","c":"CN","o":"HANK ELECTRONICS CO., LTD"}]);
