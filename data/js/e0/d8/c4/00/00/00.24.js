@@ -1,0 +1,1 @@
+macDetailCallback("e0d8c4000000/24",[{"d":"2022-11-30","t":"add","s":"ieee-oui.csv","a":"No.218 Qianwangang Road Qingdao Shangdong CN 266510","c":"CN","o":"Qingdao Intelligent&Precise Electronics Co.,Ltd."}]);

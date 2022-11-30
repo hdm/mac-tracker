@@ -1,0 +1,1 @@
+macDetailCallback("9cd1d0000000/24",[{"d":"2022-11-30","t":"add","s":"ieee-oui.csv","a":"Address:Unit 503-505, 507, Area E, No. 80 Lanyue Road, Science Avenue, Huangpu District, Guangzhou Guangzhou Guangdong CN 510600","c":"CN","o":"Guangzhou Ronsuo Electronic Technology Co.,Ltd"}]);
