@@ -1,0 +1,1 @@
+macDetailCallback("8c1f643af000/36",[{"d":"2022-12-01","t":"add","s":"ieee-oui36.csv","a":"Rua Domingos de Morais, 388 CJ 131/132\nVila Mariana São Paulo São Paulo BR 04010-000","c":"BR","o":"PSA Technology Ltda."}]);
