@@ -1,1 +1,1 @@
-macDetailCallback("88c9b3a00000/28",[{"d":"2021-03-03","t":"add","s":"ieee-mam.csv","a":"Via Carducci 24 Gerenzano (VA) Varese IT 21040","c":"IT","o":"Gefran Drive & Motion srl"}]);
+macDetailCallback("88c9b3a00000/28",[{"d":"2021-03-03","t":"add","s":"ieee-mam.csv","a":"Via Carducci 24 Gerenzano (VA) Varese IT 21040","c":"IT","o":"Gefran Drive & Motion srl"},{"d":"2022-12-02","t":"change","s":"ieee-mam.csv","a":"Via Carducci 24 Gerenzano (VA) Varese IT 21040","c":"IT","o":"WEG AUTOMATION EUROPE S.R.L."}]);

@@ -1,0 +1,1 @@
+macDetailCallback("4cc844000000/24",[{"d":"2022-12-02","t":"add","s":"ieee-oui.csv","a":"No.16 Jiuxing Avenue, Hi-tech zone Chengdu Sichuan CN 610094","c":"CN","o":"Maipu Communication Technology Co.,Ltd."}]);
