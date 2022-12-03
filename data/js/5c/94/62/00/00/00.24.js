@@ -1,0 +1,1 @@
+macDetailCallback("5c9462000000/24",[{"d":"2022-12-03","t":"add","s":"ieee-oui.csv","a":"6F,Jiuzhou Electric Building,Southern No.12RD.,Hi-Tech Industrial Park,Nanshan District, Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen Jiuzhou Electric Co.,LTD"}]);
