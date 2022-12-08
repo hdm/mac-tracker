@@ -1,0 +1,1 @@
+macDetailCallback("94f524000000/24",[{"d":"2022-12-08","t":"add","s":"ieee-oui.csv","a":"Room 1209,Building 13,No.599,Middle YiZhou Avenue Chengdu, China chengdu  CN 610000","c":"CN","o":"Chengdu BeiZhongWangXin Technology Co.Ltd"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64879000/36",[{"d":"2022-12-08","t":"add","s":"ieee-oui36.csv","a":"ASHIDA House Plot No A308 Road No. 21 Wagle Ind. Estate Thane Maharashtra IN 400604","c":"IN","o":"ASHIDA Electronics Pvt. Ltd"}]);

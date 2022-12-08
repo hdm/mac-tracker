@@ -1,0 +1,1 @@
+macDetailCallback("5c6aec300000/28",[{"d":"2022-12-08","t":"add","s":"ieee-mam.csv","a":"Unit 01, 02, 03, 06, 2F, No.3, Lane 5005, Shenjiang Road, Zhangjiang High-Tech Park, Shanghai, China Shanghai  CN 201206","c":"CN","o":"Shanghai Yunsilicon Technology Co., Ltd."}]);
