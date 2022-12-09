@@ -1,0 +1,1 @@
+macDetailCallback("545dd9000000/24",[{"d":"2022-12-09","t":"add","s":"ieee-oui.csv","a":"Rm 1701, Gasan SKV1 Center, 171, Gasan digital 1-ro, Geumcheon-gu, Seoul Seoul Seoul KR 08503","c":"KR","o":"EDISTEC"}]);
