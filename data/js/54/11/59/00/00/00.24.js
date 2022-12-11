@@ -1,0 +1,1 @@
+macDetailCallback("541159000000/24",[{"d":"2022-12-11","t":"add","s":"ieee-oui.csv","a":"Building 27, yard 8, Dongbei Wangxi Road, Haidian District, Beijing Beijing Beijing CN 100193","c":"CN","o":"Nettrix Information Industry co.LTD"}]);
