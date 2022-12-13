@@ -1,0 +1,1 @@
+macDetailCallback("e05694000000/24",[{"d":"2022-12-13","t":"add","s":"ieee-oui.csv","a":"No. 801-31, Data Center, No. 9, Shaping Road, Guoxing Avenue, Lingang Economic Development District Yibin Sichuan CN 644000","c":"CN","o":"Yunhight Microelectronics"}]);

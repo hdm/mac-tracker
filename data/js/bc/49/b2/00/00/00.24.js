@@ -1,0 +1,1 @@
+macDetailCallback("bc49b2000000/24",[{"d":"2022-12-13","t":"add","s":"ieee-oui.csv","a":"Room1301,ZHENYEInternationalBusinessCenter,QIANHAIRoad,NANSHAN District,SHENZHEN,PRCTEL SHENZHEN  CN 518000","c":"CN","o":"SHENZHEN ALONG COMMUNICATION TECH CO., LTD"}]);
