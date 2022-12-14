@@ -1,0 +1,1 @@
+macDetailCallback("5c6aec200000/28",[{"d":"2022-12-14","t":"add","s":"ieee-mam.csv","a":"Longhua District, Shenzhen City, Tenglong Road, Dalang Street, gold Digi e-commerce Room 1401, Block A, Building Shenzhen - None - CN 518000","c":"CN","o":"Shenzhen Mingyue Technology lnnovation Co.,Ltd"}]);

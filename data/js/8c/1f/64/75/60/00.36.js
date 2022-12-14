@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64756000/36",[{"d":"2022-12-14","t":"add","s":"ieee-oui36.csv","a":"Unit 7B,  8/F, Vanta Industrial Centre, 21-33 Tai Lin Pai Road, Kwai Chung New Territories  HK 852","c":"HK","o":"Star Systems International Limited"}]);

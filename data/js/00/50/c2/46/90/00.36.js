@@ -1,1 +1,1 @@
-macDetailCallback("0050c2469000/36",[{"a":"16301 Blue Ridge Road Missouri City TEXAS US 77489","o":"BiPOM Electronics, Inc.","d":"2008-07-30","t":"add","s":"ieee","c":"US"}]);
+macDetailCallback("0050c2469000/36",[{"a":"16301 Blue Ridge Road Missouri City TEXAS US 77489","o":"BiPOM Electronics, Inc.","d":"2008-07-30","t":"add","s":"ieee","c":"US"},{"d":"2022-12-14","t":"change","s":"ieee-iab.csv","a":"9788 Clarewood Dr. 306 Houston TX US 77036","c":"US","o":"Bipom Electronics, Inc."}]);
