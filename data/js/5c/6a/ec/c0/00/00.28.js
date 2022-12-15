@@ -1,0 +1,1 @@
+macDetailCallback("5c6aecc00000/28",[{"d":"2022-12-15","t":"add","s":"ieee-mam.csv","a":"No.350 Qingchengshan Road Suzhou National New & Hi-Tech Industrial Development Zone, Suzhou, P.R.CHINA. Suzhou Jiangsu CN 215153","c":"CN","o":"Suzhou Huaqi Intelligent Technology Co., Ltd."}]);
