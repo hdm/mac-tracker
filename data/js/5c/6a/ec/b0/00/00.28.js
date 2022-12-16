@@ -1,0 +1,1 @@
+macDetailCallback("5c6aecb00000/28",[{"d":"2022-12-16","t":"add","s":"ieee-mam.csv","a":"302, floor 3 of Yingfeituo Factory, Guanlan High tech Zone, Longhua District, Shenzhen City, Shenzhen  CN 518000","c":"CN","o":"Shenzhen Anked vision Electronics Co.Ltd"}]);
