@@ -1,0 +1,1 @@
+macDetailCallback("2029b9000000/24",[{"d":"2022-12-18","t":"add","s":"ieee-oui.csv","a":"Building 2, Shanghai Business Park Phase III (Area B), No.1036 Tianlin Road, Minhang District, Shanghai 200233, China Shanghai  CN 200233","c":"CN","o":"Ikotek technology SH Co., Ltd"}]);
