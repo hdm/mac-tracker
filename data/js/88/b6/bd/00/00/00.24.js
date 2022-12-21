@@ -1,0 +1,1 @@
+macDetailCallback("88b6bd000000/24",[{"d":"2022-12-21","t":"add","s":"ieee-oui.csv","a":"7F, Guomai Building, Guomai Science and Technology Park,116 Jiangbin East Avenue, Mawei District Fuzhou Fujian CN 350015","c":"CN","o":"Flaircomm Microelectronics, Inc."}]);
