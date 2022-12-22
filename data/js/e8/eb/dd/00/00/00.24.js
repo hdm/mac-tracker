@@ -1,0 +1,1 @@
+macDetailCallback("e8ebdd000000/24",[{"d":"2022-12-22","t":"add","s":"ieee-oui.csv","a":"Room 905, 863 Industrialization Promotion Center, Guangzhou Private Science Park, Taihe Town, Baiyun District Guangzhou Guangdong CN 510000","c":"CN","o":"Guangzhou Qingying Acoustics Technology Co., Ltd"}]);
