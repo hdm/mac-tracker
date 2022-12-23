@@ -1,0 +1,1 @@
+macDetailCallback("80afca000000/24",[{"d":"2022-12-23","t":"add","s":"ieee-oui.csv","a":"Room A606, Gaoxinqi Industrial Park, Baoan 67 Dist Baoan 67 District, Shenzhen  CN 518101","c":"CN","o":"Shenzhen Cudy Technology Co., Ltd."}]);
