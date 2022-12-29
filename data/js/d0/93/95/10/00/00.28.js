@@ -1,0 +1,1 @@
+macDetailCallback("d09395100000/28",[{"d":"2022-12-29","t":"add","s":"ieee-mam.csv","a":"No. 69, Xinqiao Road, High tech Industrial Development Zone, Lujiang County, Hefei City, Anhui Province Hefei  CN 230000","c":"CN","o":"Hefei Siqiang Electronic Technology Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("8cc58c000000/24",[{"d":"2022-12-29","t":"add","s":"ieee-oui.csv","a":"401, building A, wanguocheng, No. 9, Pingji Avenue, Shanglilang community, Nanwan street, Longgang District, Shenzhen ShenZhen GuangDong CN 518000","c":"CN","o":"ShenZhen Elsky Technology Co.,LTD"}]);

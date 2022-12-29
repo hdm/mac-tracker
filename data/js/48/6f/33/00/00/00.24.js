@@ -1,0 +1,1 @@
+macDetailCallback("486f33000000/24",[{"d":"2022-12-29","t":"add","s":"ieee-oui.csv","a":"68, Digital-ro 9-gil, Geumcheon-gu, Seoul, Republic of Korea Seoul  KR 08512","c":"KR","o":"KYUNGWOO.SYSTEM, INC."}]);
