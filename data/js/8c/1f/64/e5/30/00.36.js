@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64e53000/36",[{"d":"2022-12-30","t":"add","s":"ieee-oui36.csv","a":"RIHTIM CAD. NEMLIZADE SOK. DUYGU APT. NO: 35/2 ISTANBUL  TR 34716","c":"TR","o":"T PROJE MUHENDISLIK DIS TIC. LTD. STI."}]);
