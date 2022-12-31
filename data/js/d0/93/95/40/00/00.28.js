@@ -1,0 +1,1 @@
+macDetailCallback("d09395400000/28",[{"d":"2022-12-31","t":"add","s":"ieee-mam.csv","a":"55-72, Sanggok-ro, Samseong-myeon Eumseong-gun Chungcheongbuk-do KR 27658","c":"KR","o":"DAESUNG CELTIC ENERSYS"}]);
