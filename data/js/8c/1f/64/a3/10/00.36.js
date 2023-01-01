@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64a31000/36",[{"d":"2023-01-01","t":"add","s":"ieee-oui36.csv","a":"2741 Hillcrest Avenue,#551\nAntioch, CA, 94531 Antioch CA US 94531","c":"US","o":"Zing Communications Inc"}]);

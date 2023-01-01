@@ -1,0 +1,1 @@
+macDetailCallback("8c1f642cd000/36",[{"d":"2023-01-01","t":"add","s":"ieee-oui36.csv","a":"6F., No.506-3, Yuanshan Rd., ZhongheDist., New Taipei City 235 Taiwan(R.O.C.) New Taipei  TW 235","c":"TW","o":"Taiwan Vtron"}]);
