@@ -188,8 +188,5 @@ log("Writing results for #{@data.keys.length} entries (#{old_count} -> #{new_cou
 write_results()
 
 log("Commiting and pushing the results")
-if ! system("git add data && git commit -m 'Update #{@today}' ./data && git push origin main")
-  exit(1)
-end
-
+system("git add data && git commit -m 'Update #{@today}' ./data && git push origin main")
 exit(0)
