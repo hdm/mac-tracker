@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64fa4000/36",[{"d":"2023-01-07","t":"add","s":"ieee-oui36.csv","a":"NO.9, Shouti Nanlu, Haidian District Beijing Beijing CN 100048","c":"CN","o":"China Information Technology Designing &Consulting Institute Co.,Ltd."}]);
