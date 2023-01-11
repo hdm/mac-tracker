@@ -1,0 +1,1 @@
+macDetailCallback("e03c1c800000/28",[{"d":"2023-01-11","t":"add","s":"ieee-mam.csv","a":"Hengshanqiao,Changzhou,Jiangsu,China Changzhou  CN 213119","c":"CN","o":"Jiangsu Riying Electronics Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+macDetailCallback("d07b6f000000/24",[{"d":"2023-01-11","t":"add","s":"ieee-oui.csv","a":"Unit 1201-1203, Youte Headquarters Building, No. 88 Xingye Road, Xiangzhou District Zhuhai Guangdong CN 519000","c":"CN","o":"Zhuhai Yunmai Technology Co.,Ltd"}]);
