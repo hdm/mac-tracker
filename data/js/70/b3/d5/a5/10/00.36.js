@@ -1,1 +1,1 @@
-macDetailCallback("70b3d5a51000/36",[{"a":"2600 Longhorn Blvd. ste 111 Austin Texas US 78758","o":"RF Code","d":"2015-02-01","t":"add","s":"ieee","c":"US"}]);
+macDetailCallback("70b3d5a51000/36",[{"a":"2600 Longhorn Blvd. ste 111 Austin Texas US 78758","o":"RF Code","d":"2015-02-01","t":"add","s":"ieee","c":"US"},{"d":"2023-01-12","t":"change","s":"ieee-oui36.csv","a":"9229 Waterford Centre Blvd #500 Austin TX US 78758","c":"US","o":"RF Code"}]);
