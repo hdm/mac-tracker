@@ -1,0 +1,1 @@
+macDetailCallback("e03c1c600000/28",[{"d":"2023-01-14","t":"add","s":"ieee-mam.csv","a":"302, Building 1, No. 45, Wanxiang Road, Ningwei Street hangzhou zhejiang CN 310014","c":"CN","o":"GhinF Digital information technology (hangzhou) Co., Ltd"}]);
