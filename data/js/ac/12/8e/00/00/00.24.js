@@ -1,0 +1,1 @@
+macDetailCallback("ac128e000000/24",[{"d":"2023-01-15","t":"add","s":"ieee-oui.csv","a":"NO.123 JULI RD PUDONG ZHANGJIANG HIGH-TECH PARK SHANGHAI CN 201203","c":"CN","o":"Shanghai Baud Data Communication Co.,Ltd."}]);
