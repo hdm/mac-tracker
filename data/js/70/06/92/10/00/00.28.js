@@ -1,0 +1,1 @@
+macDetailCallback("700692100000/28",[{"d":"2023-02-07","t":"add","s":"ieee-mam.csv","a":"Suite A3 502, Zhongguancun No. 1, No. 81 Beiqing Road, Haidian District Beijing  CN 100084","c":"CN","o":"Beijing Fortech Microsystems., Co., Ltd."}]);
