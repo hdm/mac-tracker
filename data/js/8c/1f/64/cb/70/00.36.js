@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64cb7000/36",[{"d":"2023-02-08","t":"add","s":"ieee-oui36.csv","a":"Kamigyo-ku Gansui-cho 59 Yousuien-nai Kyoto Kyoto-fu JP 602-0008","c":"JP","o":"ARKRAY,Inc.Kyoto Laboratory"}]);
