@@ -1,0 +1,1 @@
+macDetailCallback("700692300000/28",[{"d":"2023-02-10","t":"add","s":"ieee-mam.csv","a":"6F.-6, No. 22, Sec. 2, Keelung Rd., Xinyi Dist. Taipei City Taiwan (R.O.C.) TW 11052","c":"TW","o":"BOSSCCTV CO., LTD"}]);
