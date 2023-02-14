@@ -1,1 +1,1 @@
-macDetailCallback("70b3d56f4000/36",[{"d":"2019-05-03","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("70b3d56f4000/36",[{"d":"2019-05-03","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"},{"d":"2023-02-14","t":"change","s":"ieee-oui36.csv","a":"135 west beaver creek rd unit 2 Richmond hill  Ontario CA L4B 1l2","c":"CA","o":"WDI Wise Device Inc."}]);
