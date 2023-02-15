@@ -1,0 +1,1 @@
+macDetailCallback("700692500000/28",[{"d":"2023-02-15","t":"add","s":"ieee-mam.csv","a":"Building 1, Yard 1, No.81 Beiqing Road, Haidian District Beijing  CN 100144","c":"CN","o":"CANAAN CREATIVE CO.,LTD."}]);

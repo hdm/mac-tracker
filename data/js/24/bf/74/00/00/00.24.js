@@ -1,1 +1,1 @@
-macDetailCallback("24bf74000000/24",[{"d":"2009-10-30","t":"add","a":"","c":null,"o":"PRIVATE"}]);
+macDetailCallback("24bf74000000/24",[{"d":"2009-10-30","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2023-02-15","t":"change","s":"ieee-oui.csv","a":"1126-1, Ichino-cho, Higashi-ku Hamamatsu-City Shizuoka-ken JP 435-8558","c":"JP","o":"Hamamatsu Photonics K.K."}]);
