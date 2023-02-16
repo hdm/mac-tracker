@@ -1,0 +1,1 @@
+macDetailCallback("84f175000000/24",[{"d":"2023-02-16","t":"add","s":"ieee-oui.csv","a":"16 # 1-3/F, Zhongxing Nanchang Software Industrial Park, No. 688, Aixihu North Road, Nanchang High-tech Industrial Development Zone, Nanchang, Jiangxi Province Nanchang Jiangxi CN 330000","c":"CN","o":"Jiangxi Xunte Intelligent Terminal Co., Ltd"}]);
