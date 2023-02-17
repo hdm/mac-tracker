@@ -1,0 +1,1 @@
+macDetailCallback("e43819000000/24",[{"d":"2023-02-17","t":"add","s":"ieee-oui.csv","a":"Room 1705, 1706, 1709A, 17th Floor, Building E, Xinghe WORLD, Minle Community, Minzhi Street, Longhua District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Hi-Link Electronic CO.,Ltd."}]);
