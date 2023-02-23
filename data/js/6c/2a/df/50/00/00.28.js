@@ -1,0 +1,1 @@
+macDetailCallback("6c2adf500000/28",[{"d":"2023-02-23","t":"add","s":"ieee-mam.csv","a":"Changchun Road, Xinshi District, Urumqi  CN 830000","c":"CN","o":"Xinjiang Ying Sheng Information Technology Co., Ltd."}]);

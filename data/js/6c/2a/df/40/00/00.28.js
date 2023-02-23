@@ -1,0 +1,1 @@
+macDetailCallback("6c2adf400000/28",[{"d":"2023-02-23","t":"add","s":"ieee-mam.csv","a":"No.228 Jiangning Road,Jiangkou,Fenghua Ning Bo Zhe Jiang CN 315504","c":"CN","o":"Zhejiang Eternal Automation Sci-Tec Co., Ltd"}]);
