@@ -1,0 +1,1 @@
+macDetailCallback("6c2adf300000/28",[{"d":"2023-02-24","t":"add","s":"ieee-mam.csv","a":"Room.301, 38-9, Digital-ro 31-gil,\nGuro-gu, Seoul, South Korea Seoul ?? KR 08376","c":"KR","o":"FodicsSystem"}]);

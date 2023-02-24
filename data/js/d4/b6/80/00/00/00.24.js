@@ -1,0 +1,1 @@
+macDetailCallback("d4b680000000/24",[{"d":"2023-02-24","t":"add","s":"ieee-oui.csv","a":"Building 1, No.5500, Yuanjiang Road, Minhang District Shanghai Shanghai CN 201101","c":"CN","o":"Shanghai Linkyum Microeletronics Co.,Ltd"}]);
