@@ -1,0 +1,1 @@
+macDetailCallback("4cd2fb000000/24",[{"d":"2023-02-25","t":"add","s":"ieee-oui.csv","a":"No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025","c":"CN","o":"UNIONMAN TECHNOLOGY CO.,LTD"}]);

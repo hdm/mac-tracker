@@ -1,0 +1,1 @@
+macDetailCallback("ac00f9000000/24",[{"d":"2023-02-25","t":"add","s":"ieee-oui.csv","a":"No.5097, Tingkat Mak Mandin 4, Kawasan Perindustrian Mak Mandin,  Butterworth Pulau Pinang MY 13400","c":"MY","o":"BizLink Technology (S.E.A) Sdn. Bhd."}]);
