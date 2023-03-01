@@ -1,0 +1,1 @@
+macDetailCallback("782af8000000/24",[{"d":"2023-03-01","t":"add","s":"ieee-oui.csv","a":"Room 201, Building 39, Liando U Valley, 328 Heng Yong Road, Jiading District. Shanghai  CN 201806","c":"CN","o":"IETHCOM INFORMATION TECHNOLOGY CO., LTD."}]);
