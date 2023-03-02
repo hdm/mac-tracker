@@ -1,0 +1,1 @@
+macDetailCallback("8c1f641ad000/36",[{"d":"2023-03-02","t":"add","s":"ieee-oui36.csv","a":"Rua Maria Figueiredo\n595 São Paulo SP BR 04002-003","c":"BR","o":"Nexxto Servicos Em Tecnologia da Informacao SA"}]);

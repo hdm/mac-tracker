@@ -1,0 +1,1 @@
+macDetailCallback("b44d43100000/28",[{"d":"2023-03-02","t":"add","s":"ieee-mam.csv","a":"(B20956751)\nPaseo Mikeletegi, 69, 1st floor Donostia - San Sebastián Gipuzkoa ES 20009","c":"ES","o":"iLine Microsystems S.L. (B20956751)"}]);

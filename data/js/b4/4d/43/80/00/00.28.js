@@ -1,0 +1,1 @@
+macDetailCallback("b44d43800000/28",[{"d":"2023-03-02","t":"add","s":"ieee-mam.csv","a":"HuiJuWanzhi Chuangyuan B building room B508,Xinan Three Road, Xin ‘an Street 28, Bao An District, Shenzhen City ShenZhen Guangdong CN 518000","c":"CN","o":"ShenZhen Launch-Wonder Technology co., LTD"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("b44d43c00000/28",[{"d":"2023-03-02","t":"add","s":"ieee-mam.csv","a":"5th Floor, Building A, Wanhe Technology Building, Fenghuang Street , Guangming District Shenzhen Guangdong CN 518107","c":"CN","o":"SHENZHEN KOSKY TECHNOLOGY CO.,LTD."}]);
