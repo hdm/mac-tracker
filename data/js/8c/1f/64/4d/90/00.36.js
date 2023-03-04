@@ -1,0 +1,1 @@
+macDetailCallback("8c1f644d9000/36",[{"d":"2023-03-04","t":"add","s":"ieee-oui36.csv","a":"Plot No.4, 14/3, Mathura Road Faridabad  Haryana IN 121003","c":"IN","o":"SECURICO ELECTRONICS INDIA LTD"}]);
