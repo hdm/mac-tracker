@@ -1,0 +1,1 @@
+macDetailCallback("d42787000000/24",[{"d":"2023-03-05","t":"add","s":"ieee-oui.csv","a":"Room 1002,#1Building,No.3000 Longdong Avenue,Pudong Shanghai Shanghai CN 201202","c":"CN","o":"Shanghai High-Flying Electronics  Technology Co., Ltd"}]);
