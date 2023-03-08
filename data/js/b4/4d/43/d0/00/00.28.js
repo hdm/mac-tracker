@@ -1,0 +1,1 @@
+macDetailCallback("b44d43d00000/28",[{"d":"2023-03-08","t":"add","s":"ieee-mam.csv","a":"Building 5A, Shenzhen Bay Eco- Technology Park, Yuehai Street, Nanshan District, Shenzhen Shenzhen  CN 518000","c":"CN","o":"Shenzhen CreatLentem Technology Co.,Ltd"}]);
