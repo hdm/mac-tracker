@@ -1,0 +1,1 @@
+macDetailCallback("4c12e8000000/24",[{"d":"2023-03-10","t":"add","s":"ieee-oui.csv","a":"High Tech Industrial Zone I, Hoa Lac High Tech Park, Ha Bang Commune Ha Noi Thach That VN 100000","c":"VN","o":"VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY"}]);

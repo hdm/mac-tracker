@@ -1,0 +1,1 @@
+macDetailCallback("2002fe000000/24",[{"d":"2023-03-10","t":"add","s":"ieee-oui.csv","a":"Floor 2, Block C, Wanfu Center, 228 Binkang Road, Binjiang District, Hangzhou zhejiang CN 310051","c":"CN","o":"Hangzhou Dangbei Network Technology Co., Ltd"}]);
