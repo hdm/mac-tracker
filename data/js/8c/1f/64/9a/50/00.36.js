@@ -1,0 +1,1 @@
+macDetailCallback("8c1f649a5000/36",[{"d":"2023-03-11","t":"add","s":"ieee-oui36.csv","a":"No.3,Electronic West Street,Electronic Industrial Park, Hi-tech Zone ,Xi'an City,Shaanxi Province Xi‘an  CN 710065","c":"CN","o":"Xi‘an Shengxin Science& Technology Development Co.?Ltd."}]);

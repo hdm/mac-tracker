@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64502000/36",[{"d":"2023-03-11","t":"add","s":"ieee-oui36.csv","a":"No. 317-1, Sec.2, An Kang Rd., Hsintien Dist New Taipei City  TW 231","c":"TW","o":"Samwell International Inc"}]);

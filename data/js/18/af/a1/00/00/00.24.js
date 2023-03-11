@@ -1,0 +1,1 @@
+macDetailCallback("18afa1000000/24",[{"d":"2023-03-11","t":"add","s":"ieee-oui.csv","a":"21 / F, Kangjia R & D building, No.28, Keji South 12th Road, Nanshan District, Shenzhen City, Guangdong Province, China Shenzhen Nanshan District CN 518000","c":"CN","o":"Shenzhen Yifang Network Technology Co., Ltd."}]);

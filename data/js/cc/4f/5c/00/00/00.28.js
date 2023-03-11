@@ -1,0 +1,1 @@
+macDetailCallback("cc4f5c000000/28",[{"d":"2023-03-11","t":"add","s":"ieee-mam.csv","a":"5-2-1802, No. 21, Section 4, Renmin South Road,  Wuhou District, Chengdu  Sichuan CN 611435","c":"CN","o":"Chengdu Ren Heng Mei Guang Technology Co.,Ltd."}]);

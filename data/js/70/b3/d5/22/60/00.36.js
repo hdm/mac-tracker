@@ -1,1 +1,1 @@
-macDetailCallback("70b3d5226000/36",[{"a":"Mamina-Sibiryaka 145 Ekaterinburg Sverdlovsk oblast RU 620137","o":"Yaviar","d":"2015-05-10","t":"add","s":"ieee","c":"RU"}]);
+macDetailCallback("70b3d5226000/36",[{"a":"Mamina-Sibiryaka 145 Ekaterinburg Sverdlovsk oblast RU 620137","o":"Yaviar","d":"2015-05-10","t":"add","s":"ieee","c":"RU"},{"d":"2023-03-11","t":"change","s":"ieee-oui36.csv","a":"Mamina-Sibiryaka 145 Ekaterinburg Sverdlovsk oblast RU 620137","c":"RU","o":"Yaviar LLC"}]);
