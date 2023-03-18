@@ -1,0 +1,1 @@
+macDetailCallback("90f421b00000/28",[{"d":"2023-03-18","t":"add","s":"ieee-mam.csv","a":"608, 1st Yinbai Road, Binhu District Wuxi Jiangsu CN 214000","c":"CN","o":"Jiangsu MSInfo Technology Co.,Ltd."}]);
