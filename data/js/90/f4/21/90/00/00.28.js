@@ -1,0 +1,1 @@
+macDetailCallback("90f421900000/28",[{"d":"2023-03-21","t":"add","s":"ieee-mam.csv","a":"5F., No. 93, Zhongcheng Rd., Tucheng Dist. New Taipei City  TW 236658","c":"TW","o":"Twunicom Life Tech. Co., Ltd."}]);

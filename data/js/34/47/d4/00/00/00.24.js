@@ -1,0 +1,1 @@
+macDetailCallback("3447d4000000/24",[{"d":"2023-03-21","t":"add","s":"ieee-oui.csv","a":"Building A2, Chi Yuen Technology Park, 1001 College Avenue, Nanshan District, Shenzhen,P.R.C. Shenzhen Guangdong CN 518000","c":"CN","o":"Chengdu Quanjing Intelligent Technology Co.,Ltd"}]);
