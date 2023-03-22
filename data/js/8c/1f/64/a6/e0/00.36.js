@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64a6e000/36",[{"d":"2023-03-22","t":"add","s":"ieee-oui36.csv","a":"21A06, Harbin Building, 7045 Beihuan Avenue, Kangxin Community, Lianhua Street, Futian District, Shenzhen Shenzhen  CN 518038","c":"CN","o":"shenzhen beswave co.,ltd"}]);
