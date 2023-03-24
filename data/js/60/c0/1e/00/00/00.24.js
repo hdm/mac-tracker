@@ -1,0 +1,1 @@
+macDetailCallback("60c01e000000/24",[{"d":"2023-03-24","t":"add","s":"ieee-oui.csv","a":"2nd Floor,Block B,No.599 Gaojing Road,Qingpu District Shangshai Shangshai CN 201702","c":"CN","o":"V&G Information System Co.,Ltd"}]);

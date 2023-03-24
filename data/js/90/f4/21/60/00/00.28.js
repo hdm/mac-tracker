@@ -1,0 +1,1 @@
+macDetailCallback("90f421600000/28",[{"d":"2023-03-24","t":"add","s":"ieee-mam.csv","a":"No.52, Zone C, Huigu Pioneer Park, Huishan Economic  Development Zone, Wuxi   Wuxi Jiangsu CN 214174","c":"CN","o":"Wuxi Sunning Smart Devices Co.,Ltd"}]);

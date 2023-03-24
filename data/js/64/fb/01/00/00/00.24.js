@@ -1,0 +1,1 @@
+macDetailCallback("64fb01000000/24",[{"d":"2023-03-24","t":"add","s":"ieee-oui.csv","a":"Baishawan Industrial Park, Qiwan Road, East District, Zhongshan, Guangdong Zhongshan Guangdong CN 528403","c":"CN","o":"Zhongshan Camry Electronic Company Limited"}]);
