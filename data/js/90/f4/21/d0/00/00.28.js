@@ -1,1 +1,1 @@
-macDetailCallback("90f421d00000/28",[{"d":"2023-03-21","t":"add","s":"ieee-mam.csv","a":"3469 Kurtz Street San Diego CA US 92110","c":"US","o":"Marinesync Corp"}]);
+macDetailCallback("90f421d00000/28",[{"d":"2023-03-21","t":"add","s":"ieee-mam.csv","a":"3469 Kurtz Street San Diego CA US 92110","c":"US","o":"Marinesync Corp"},{"d":"2023-03-25","t":"change","s":"ieee-mam.csv","a":"Room 502, Building 1, NO. 519 Yide Road, Pudong New Area, Shanghai, China Shanghai  CN 200124","c":"CN","o":"Taichitel Technology Shanghai Co.,Ltd."}]);

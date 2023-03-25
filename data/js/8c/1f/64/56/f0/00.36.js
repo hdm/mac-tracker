@@ -1,0 +1,1 @@
+macDetailCallback("8c1f6456f000/36",[{"d":"2023-03-25","t":"add","s":"ieee-oui36.csv","a":"596 avenue Antoine Laurent Lavoisier ZA Laprade Saint Germain Laprade  FR 43700","c":"FR","o":"ADETEC SAS"}]);
