@@ -1,0 +1,1 @@
+macDetailCallback("888f10000000/24",[{"d":"2023-03-30","t":"add","s":"ieee-oui.csv","a":"Room 908 Building 2, Aviation&Space Building, No.53 Gaoxin South 9th Road, Gaoxin Community, Yuehai Street,Nanshan District, Shenzhen Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Max Infinite Technology Co.,Ltd."}]);

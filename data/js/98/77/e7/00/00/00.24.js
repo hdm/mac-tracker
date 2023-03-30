@@ -1,1 +1,1 @@
-macDetailCallback("9877e7000000/24",[{"d":"2020-11-11","t":"add","s":"ieee-oui.csv","a":"884-3, Seongnam-daero, Bundang-gu Seongnam-si Gyeonggi-do KR 13517","c":"KR","o":"Kaonmedia CO., LTD."}]);
+macDetailCallback("9877e7000000/24",[{"d":"2020-11-11","t":"add","s":"ieee-oui.csv","a":"884-3, Seongnam-daero, Bundang-gu Seongnam-si Gyeonggi-do KR 13517","c":"KR","o":"Kaonmedia CO., LTD."},{"d":"2023-03-30","t":"change","s":"ieee-oui.csv","a":"884-3, Seongnam-daero, Bundang-gu Seongnam-si Gyeonggi-do KR 13517","c":"KR","o":"Kaon Group Co., Ltd."}]);

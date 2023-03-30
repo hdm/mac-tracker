@@ -1,0 +1,1 @@
+macDetailCallback("b0ff72400000/28",[{"d":"2023-03-30","t":"add","s":"ieee-mam.csv","a":"Building B7, Xiaoju Industrial Park, Zhuliang Town, Nancheng County, Fuzhou City,  Fuzhou  CN 344000","c":"CN","o":"Jiangxi Xingchi Electronic Technology Co.,Ltd."}]);
