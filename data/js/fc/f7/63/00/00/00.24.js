@@ -1,0 +1,1 @@
+macDetailCallback("fcf763000000/24",[{"d":"2023-03-31","t":"add","s":"ieee-oui.csv","a":"11th floor, Block C, Haichuang Building, #288 Dengyun Road, Yushan Town, Kunshan City Kunshan Jiang Su CN 215300","c":"CN","o":"KunGao Micro (JiangSu) Co., LTd"}]);

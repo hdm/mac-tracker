@@ -1,0 +1,1 @@
+macDetailCallback("b0ff72200000/28",[{"d":"2023-03-31","t":"add","s":"ieee-mam.csv","a":"Ismet Kaptan Mh. Sehit Nevres Blv. Deren Plaza Blok no 10, Interior Door:11 Izmir Konak TR 35210","c":"TR","o":"MVT Elektrik Sanayi ve Ticaret Limited Sirketi"}]);

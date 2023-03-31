@@ -1,0 +1,1 @@
+macDetailCallback("b0ff72100000/28",[{"d":"2023-03-31","t":"add","s":"ieee-mam.csv","a":"Room 4141, No. 11 Chunhui Street, Tongtai Road, Baiyun District, Guangzhou. Guangzhou Guangdong CN 510000","c":"CN","o":"Guangzhou Senguang Communication Technology Co., Ltd"}]);
