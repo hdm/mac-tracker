@@ -1,0 +1,1 @@
+macDetailCallback("b0ff72d00000/28",[{"d":"2023-04-01","t":"add","s":"ieee-mam.csv","a":"No.15 ShiShan North Road, Dongfu, Haicang District Xiamen Fujian CN 361027","c":"CN","o":"TBB Renewable (Xiamen) Co Ltd"}]);

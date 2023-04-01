@@ -1,1 +1,1 @@
-macDetailCallback("70b3d5cb1000/36",[{"d":"2019-01-15","t":"add","s":"ieee-oui36.csv","a":"547 W 27th St. NEW YORK NY US 10001-5670","c":"US","o":"RADAR"}]);
+macDetailCallback("70b3d5cb1000/36",[{"d":"2019-01-15","t":"add","s":"ieee-oui36.csv","a":"547 W 27th St. NEW YORK NY US 10001-5670","c":"US","o":"RADAR"},{"d":"2023-04-01","t":"change","s":"ieee-oui36.csv","a":"15150 Avenue of Science, suite 200 San Diego CA US 92128","c":"US","o":"RADAR"}]);
