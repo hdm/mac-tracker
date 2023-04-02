@@ -1,0 +1,1 @@
+macDetailCallback("b0ff72c00000/28",[{"d":"2023-04-02","t":"add","s":"ieee-mam.csv","a":"Jinnovation Park, Jiancaicheng Road, Haidian District, Beijing Beijing  CN 100096","c":"CN","o":"Hopewheel info.Co.,Ltd."}]);

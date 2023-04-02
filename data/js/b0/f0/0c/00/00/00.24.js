@@ -1,0 +1,1 @@
+macDetailCallback("b0f00c000000/24",[{"d":"2023-04-02","t":"add","s":"ieee-oui.csv","a":"Room 2201, building 1, No. 16, Keji 4th Road, Songshanhu, Dongguan City, Guangdong Province Dongguan Guangdong CN 523429","c":"CN","o":"Dongguan Wecxw CO.,Ltd."}]);

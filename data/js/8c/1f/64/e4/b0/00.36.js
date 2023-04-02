@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64e4b000/36",[{"d":"2023-04-02","t":"add","s":"ieee-oui36.csv","a":"Sudan, Khartoum, Downtown,\nWaha Mall Offices – 4th Floor, Flat 403 Khartoum  Khartoum  SD 11111","c":"SD","o":"ALGAZIRA TELECOM SOLUTIONS"}]);
