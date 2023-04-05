@@ -1,0 +1,1 @@
+macDetailCallback("38922e000000/24",[{"d":"2023-04-05","t":"add","s":"ieee-oui.csv","a":"10th Floor, 139 Second Tianfu Street\nChengdu High-tech Zone Chengdu CN CN 610041","c":"CN","o":"ArrayComm"}]);

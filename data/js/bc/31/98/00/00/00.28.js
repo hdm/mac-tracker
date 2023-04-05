@@ -1,0 +1,1 @@
+macDetailCallback("bc3198000000/28",[{"d":"2023-04-05","t":"add","s":"ieee-mam.csv","a":"2606,Building 4, Phase ll, Tianan Yungu, Gangtou community, Bantian Longgang District Shenzhen Guangdong CN 518000","c":"CN","o":"THINKCAR TECH CO.,LTD."}]);
