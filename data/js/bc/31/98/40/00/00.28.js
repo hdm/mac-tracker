@@ -1,0 +1,1 @@
+macDetailCallback("bc3198400000/28",[{"d":"2023-04-06","t":"add","s":"ieee-mam.csv","a":"Second Floor, building No. 7,Phase??Standard Workshop, South District, Zitong Street Industrial Park, Tongnan District, Chongqing Chongqing  CN 400000","c":"CN","o":"Chongqing e-skybest ELECT CO.,LIMITED"}]);

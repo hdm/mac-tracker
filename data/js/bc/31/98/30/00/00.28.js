@@ -1,0 +1,1 @@
+macDetailCallback("bc3198300000/28",[{"d":"2023-04-06","t":"add","s":"ieee-mam.csv","a":"Room 510, Building 7, Yunli Smart Park, Bantian Street, Longgang District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Qichang Intelligent Technology Co., Ltd."}]);

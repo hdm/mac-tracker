@@ -1,0 +1,1 @@
+macDetailCallback("bc3198d00000/28",[{"d":"2023-04-06","t":"add","s":"ieee-mam.csv","a":"Room 514 The 5th Floor, No.175 Weizhan Road China (Shanghai) Plilot Free Trade Zone Shanghai  CN 201306","c":"CN","o":"Shanghai Sigen New Energy Technology Co., Ltd"}]);
