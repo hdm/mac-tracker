@@ -1,0 +1,1 @@
+macDetailCallback("8c1af3000000/24",[{"d":"2023-04-08","t":"add","s":"ieee-oui.csv","a":"A District,5th Floor,Block A3,Digital Technology Park,Gaoxin South 7th Road,District of High-tech Industrial Park,Nanshan District , Shenzhen, Guangdong  Province Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Gooxi Information Security CO.,Ltd."}]);
