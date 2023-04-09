@@ -1,1 +1,1 @@
-macDetailCallback("70b3d54da000/36",[{"d":"2020-11-13","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"}]);
+macDetailCallback("70b3d54da000/36",[{"d":"2020-11-13","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"},{"d":"2023-04-09","t":"change","s":"ieee-oui36.csv","a":"7 Gibory Israel St. Netanya  IL 42504","c":"IL","o":"RADA Electronics Industries Ltd."}]);
