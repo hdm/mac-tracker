@@ -1,0 +1,1 @@
+macDetailCallback("c86bbcb00000/28",[{"d":"2023-04-13","t":"add","s":"ieee-mam.csv","a":"Business Registration Addres:Room 201,301,401,Building B,Anluo Technology Industrial Park,Nanchang Community,Xixiang Street,Bao`an District Shenzhen Guangdong CN 518000","c":"CN","o":"HAI ROBOTICS Co.,Ltd."}]);
