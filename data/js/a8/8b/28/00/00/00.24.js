@@ -1,0 +1,1 @@
+macDetailCallback("a88b28000000/24",[{"d":"2023-04-14","t":"add","s":"ieee-oui.csv","a":"Room 202, Building 4, Research & Creation Valley High-tech Incubation Park, Gongming Street, Guangming District, Shenzhen(www.diyangsmart.com) Shenzhen Guangdong CN 518107","c":"CN","o":"SHENZHEN DIYANG SMART TECHNOLOGY CO.,LTD."}]);

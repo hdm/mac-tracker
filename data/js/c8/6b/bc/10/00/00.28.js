@@ -1,0 +1,1 @@
+macDetailCallback("c86bbc100000/28",[{"d":"2023-04-14","t":"add","s":"ieee-mam.csv","a":"4F., No. 55, Lane 6, Chenglin Rd., Tucheng Dist., New Taipei City Taiwan TW 23677","c":"TW","o":"WeLink Solutions, Inc."}]);

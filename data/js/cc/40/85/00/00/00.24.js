@@ -1,0 +1,1 @@
+macDetailCallback("cc4085000000/24",[{"d":"2023-04-14","t":"add","s":"ieee-oui.csv","a":"Unit 1203-5, 12/F, Tower 1, Enterprise Square, 9 Sheung Yuet Road Kowloon Bay Hong Kong HK 0000","c":"HK","o":"WiZ"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64605000/36",[{"d":"2023-04-14","t":"add","s":"ieee-oui36.csv","a":"Tower East 30F, Umeda Sky Building, 1-1-88, Oyodonaka,  Kita-Ku, Osaka Osaka JP 531-6030","c":"JP","o":"Xacti Corporation"}]);
