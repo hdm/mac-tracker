@@ -1,0 +1,1 @@
+macDetailCallback("58c41e900000/28",[{"d":"2023-04-15","t":"add","s":"ieee-mam.csv","a":"206A,Building 30,Nan Tou Gate 2nd Road, \n \nWisdomland Business Park,NanShan District,ShenZhen P.R.C\n ShenZhen GuangDong CN 518000","c":"CN","o":"ShenZhen Heng Yue Industry Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("c86bbc200000/28",[{"d":"2023-04-15","t":"add","s":"ieee-mam.csv","a":"Mytnaya St, 40, building 4, ap. 135 Moscow Yakimanka municipal district RU 115162","c":"RU","o":"Vipaks + Ltd"}]);
