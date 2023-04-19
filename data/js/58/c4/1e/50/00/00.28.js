@@ -1,0 +1,1 @@
+macDetailCallback("58c41e500000/28",[{"d":"2023-04-19","t":"add","s":"ieee-mam.csv","a":"Block B1,XIXI center,No.588 West Wenyi Road,Xihu District Hangzhou Zhejiang CN 310000","c":"CN","o":"Zhejiang Cainiao Supply Chain Management Co.,Ltd"}]);

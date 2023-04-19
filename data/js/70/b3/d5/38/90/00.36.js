@@ -1,1 +1,1 @@
-macDetailCallback("70b3d5389000/36",[{"a":"","o":"Private","d":"2016-02-21","t":"add","s":"ieee"}]);
+macDetailCallback("70b3d5389000/36",[{"a":"","o":"Private","d":"2016-02-21","t":"add","s":"ieee"},{"d":"2023-04-19","t":"change","s":"ieee-oui36.csv","a":"1235 boulevard Dagenais ouest Laval Quebec CA H7L 0A5","c":"CA","o":"2KLIC inc."}]);
