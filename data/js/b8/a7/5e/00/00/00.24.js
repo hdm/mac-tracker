@@ -1,0 +1,1 @@
+macDetailCallback("b8a75e000000/24",[{"d":"2023-04-21","t":"add","s":"ieee-oui.csv","a":"No.9 Liu Tang Road, Hu Tai Industrial Park, Binhu District,  Wuxi Jiangsu CN 320200","c":"CN","o":"Wuxi Xinjie Electric Co.,Ltd"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("545fa7000000/24",[{"d":"2023-04-21","t":"add","s":"ieee-oui.csv","a":"No. 11, Guiya Road, Qingxiu District Nanning Guangxi CN 530029","c":"CN","o":"Jibaiyou Technology Co.,Ltd."}]);
