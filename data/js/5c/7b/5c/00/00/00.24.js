@@ -1,0 +1,1 @@
+macDetailCallback("5c7b5c000000/24",[{"d":"2023-04-25","t":"add","s":"ieee-oui.csv","a":"Room 1022, Floor 10, Building A, Customs Building, No. 2, Xin'an 3rd Road, Dalang Community, Xin'an Street, Bao'an District Shenzhen GUANGDONG CN 518101","c":"CN","o":"Shenzhen SDMC Technology CO.,Ltd."}]);

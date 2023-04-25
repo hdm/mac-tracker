@@ -1,0 +1,1 @@
+macDetailCallback("68da73500000/28",[{"d":"2023-04-25","t":"add","s":"ieee-mam.csv","a":"410, Information Building, Baoyunda Logistics Center, Fuhua Community, Xixiang Street, Baoan District Shenzhen Guangdong CN 518102","c":"CN","o":"Shenzhen Xin hang xian Electronics Co., LTD"}]);

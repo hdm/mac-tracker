@@ -1,0 +1,1 @@
+macDetailCallback("68da73d00000/28",[{"d":"2023-04-25","t":"add","s":"ieee-mam.csv","a":"4th Floor, Building A, Hangli Building, No. 10, Gaopeng Avenue, High-tech Zone Chengdu  CN 610093","c":"CN","o":"Sichuan GFS Information Technology Co.Ltd"}]);
