@@ -1,0 +1,1 @@
+macDetailCallback("b4dde0000000/24",[{"d":"2023-04-27","t":"add","s":"ieee-oui.csv","a":"NO. 689 Shen Nan Road, Xin Zhuang Industry Park\nShanghai 201108 P. R. China Shanghai Shanghai CN 201108","c":"CN","o":"Shanghai Amphenol Airwave Communication Electronics Co.,Ltd."}]);

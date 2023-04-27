@@ -1,0 +1,1 @@
+macDetailCallback("68da73a00000/28",[{"d":"2023-04-27","t":"add","s":"ieee-mam.csv","a":"2-5/F? #8FactoryBld?Yu'an Factory Area ?LongchengIndustryPark?Gao feng Community ?Dalang Street ?LonghuaDisrict Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Haiyingzhilian Industrial Co., Ltd."}]);
