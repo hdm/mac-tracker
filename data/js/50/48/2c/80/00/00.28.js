@@ -1,0 +1,1 @@
+macDetailCallback("50482c800000/28",[{"d":"2023-05-06","t":"add","s":"ieee-mam.csv","a":"Room 101,Building 4,No. 3, Second Road, Hanxi Xinwei lndustrialZone, Chashan Town, Dongguan GuangDong CN 523000","c":"CN","o":"Dongguan Amdolla Electric & Light Material Manufacture Co., Ltd"}]);
