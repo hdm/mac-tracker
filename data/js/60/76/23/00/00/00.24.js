@@ -1,0 +1,1 @@
+macDetailCallback("607623000000/24",[{"d":"2023-05-09","t":"add","s":"ieee-oui.csv","a":"Floor11, NO.9996 Shen Nan Road, High Tech Park, Nan Shan District, Shen Zhen ShenZhen Guangdong CN 518000","c":"CN","o":"Shenzhen E-Superlink Technology Co., Ltd"}]);
