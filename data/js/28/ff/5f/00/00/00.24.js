@@ -1,0 +1,1 @@
+macDetailCallback("28ff5f000000/24",[{"d":"2023-05-10","t":"add","s":"ieee-oui.csv","a":"Building 62, YinHu Technology Industrial Park, No.38 XiaoHan Road,  Xiaonan District, Xiaogan, Hubei P.R. China Xiaogan Hubei CN 432000","c":"CN","o":"HG Genuine Intelligent Terminal (Xiaogan) Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+macDetailCallback("0c01c8000000/24",[{"d":"2023-05-10","t":"add","s":"ieee-oui.csv","a":"Twin21 MIDTower(24th floor),2-1-61 Shiromi,Chuo-ku,Osaka-shi Osaka JP 540-6124","c":"JP","o":"DENSO Co.,Ltd"}]);
