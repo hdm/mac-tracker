@@ -6795,6 +6795,9 @@ MA-L,58AD12,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,481BA4,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0C01C8,"DENSO Co.,Ltd","Twin21 MIDTower(24th floor),2-1-61 Shiromi,Chuo-ku,Osaka-shi Osaka JP 540-6124 "
 MA-L,040986,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,ACD75B,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,38398F,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
+MA-L,B4C2E0,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
 MA-L,4C12E8,VIETNAM POST AND TELECOMMUNICATION INDUSTRY TECHNOLOGY JOIN STOCK COMPANY,"High Tech Industrial Zone I, Hoa Lac High Tech Park, Ha Bang Commune Ha Noi Thach That VN 100000 "
 MA-L,2002FE,"Hangzhou Dangbei Network Technology Co., Ltd","Floor 2, Block C, Wanfu Center, 228 Binkang Road, Binjiang District, Hangzhou zhejiang CN 310051 "
 MA-L,74272C,"Advanced Micro Devices, Inc.",7171 Southwest Pkwy Austin TX US 78735 
@@ -13507,12 +13510,15 @@ MA-L,50482C,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,0020FC,Matrox Central Services Inc,1055 ST. REGIS DORVAL QUEBEC CA H9P-2T4 
 MA-L,6C6E07,CE LINK LIMITED,"2/F, Building G, Licheng Tech. Ind. Zone Shenzhen Guangdong CN 518104 "
 MA-L,6C6286,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,2C459A,Dixon Technologies (India) Limited,B 14-15 Phase 2 NOIDA GautamBudh Nagar Uttarpradesh IN 201305 
-MA-L,607623,"Shenzhen E-Superlink Technology Co., Ltd","Floor11, NO.9996 Shen Nan Road, High Tech Park, Nan Shan District, Shen Zhen ShenZhen Guangdong CN 518000 "
 MA-L,602B58,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,109D9C,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,28FF5F,"HG Genuine Intelligent Terminal (Xiaogan) Co.,Ltd.","Building 62, YinHu Technology Industrial Park, No.38 XiaoHan Road,  Xiaonan District, Xiaogan, Hubei P.R. China Xiaogan Hubei CN 432000 "
+MA-L,607623,"Shenzhen E-Superlink Technology Co., Ltd","Floor11, NO.9996 Shen Nan Road, High Tech Park, Nan Shan District, Shen Zhen ShenZhen Guangdong CN 518000 "
 MA-L,78DF72,Shanghai Imilab Technology Co.Ltd,"29F, A Tower, New Caohejing International Business Center, Guiping Road, Xuhui District Shanghai Shanghai CN 200000 "
+MA-L,7492BA,Movesense Ltd,Tammiston kauppatie 7a Vantaa  FI 01510 
+MA-L,0CAE5F,Silicon Laboratories,400 West Cesar Chavez Street Austin TX US 78701 
+MA-L,2C459A,Dixon Technologies (India) Limited,B 14-15 Phase 2 NOIDA GautamBudh Nagar Uttarpradesh IN 201305 
+MA-L,D0484F,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
 MA-L,989F1E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,944788,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,5412CB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
@@ -20285,6 +20291,7 @@ MA-L,603E5F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,C07C90,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
 MA-L,003969,Air-Weigh Incorporated,1720 Willow Creek Circle Eugene OR US 97402 
 MA-L,00E63A,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
+MA-L,848687,weiyuantechnology,"Room 111, Floor 1, Building 8, No. 48, Jiubao Street, Shangcheng District Hangzhou City  CN 310000 "
 MA-L,F02178,"UNIONMAN TECHNOLOGY CO.,LTD","No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway Huizhou Guangdong CN 516025 "
 MA-L,2C3EBF,"HOSIN Global Electronics Co., Ltd.","Room 25,Block 2, Shenzhen New Generation Industrial Park, no.136 ZhongKang Road, Meidu community, Meilin Street, Futian District Shenzhen Guangzhou CN 518000 "
 MA-L,40D563,HANA Electronics,"Av. Abiurana, 450 Manaus Amazonas BR 69075-010 "
@@ -33829,3 +33836,4 @@ MA-L,E4A41C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,C8A6EF,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,5CE931,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
 MA-L,E0DF13,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
+MA-L,A42249,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
