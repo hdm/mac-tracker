@@ -1,0 +1,1 @@
+macDetailCallback("bc8529000000/24",[{"d":"2023-05-13","t":"add","s":"ieee-oui.csv","a":"No. 1, Chemical Avenue, Guixi335400, Yingtan, Jiangxi Yingtan Jiangxi  CN 360600","c":"CN","o":"Jiangxi Remote lntelligence Technology Co.,Ltd"}]);
