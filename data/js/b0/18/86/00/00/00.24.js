@@ -1,1 +1,1 @@
-macDetailCallback("b01886000000/24",[{"d":"2018-03-06","t":"add","a":"Route de Genève 22 Cheseaux  CH CH-1033","c":"CH","o":"SmarDTV"}]);
+macDetailCallback("b01886000000/24",[{"d":"2018-03-06","t":"add","a":"Route de Genève 22 Cheseaux  CH CH-1033","c":"CH","o":"SmarDTV"},{"d":"2023-05-16","t":"change","s":"ieee-oui.csv","a":"147 Avenue du Jujubier ZI Athelia IV La Ciotat CH 13600","c":"CH","o":"SmarDTV Corporation"}]);

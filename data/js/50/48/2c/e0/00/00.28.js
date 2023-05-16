@@ -1,0 +1,1 @@
+macDetailCallback("50482ce00000/28",[{"d":"2023-05-16","t":"add","s":"ieee-mam.csv","a":"7th and 8th floors of Building H-C (Building 7), No. 1294, Chuangxin Road, Songbei District, Harbin  Harbin  CN 230100","c":"CN","o":"Harbin Nosean Tese And Control Technology Co.,Ltd"}]);

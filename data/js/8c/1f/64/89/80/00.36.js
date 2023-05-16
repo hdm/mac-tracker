@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64898000/36",[{"d":"2023-05-16","t":"add","s":"ieee-oui36.csv","a":"B-221, Okhla Industrial Area\nPhase - 1, New Delhi - 110020, India New Delhi Delhi IN 110020","c":"IN","o":"Copper Connections Ltd"}]);
