@@ -7463,7 +7463,6 @@ MA-L,FC7692,"Semptian Co.,Ltd.","Floor 19, Block 1A,  Phase 1, International Inn
 MA-L,001117,CESNET,Zikova 4 Praha 6  CZ 160 00 
 MA-L,B03366,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,7CC225,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,84DB2F,Sierra Wireless,1381 Wireless Way Richmond BC CA V6V 3A4 
 MA-L,FCAFBE,TireCheck GmbH,Schmelzofenvorstadt 33 Heidenheim/Brenz Baden-Württemberg DE 89520 
 MA-L,4CABF8,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,C8418A,"Samsung Electronics.,LTD","129, Samsung-ro, Yeongtong-gu Suwon Gyeonggi-Do KR 443-742 "
@@ -8593,7 +8592,6 @@ MA-L,0CEC84,Shenzhen TINNO Mobile Technology Corp.,"Building, No.33, Xiandong Rd
 MA-L,BC3E07,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
 MA-L,48FDA3,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,288088,NETGEAR,350 East Plumeria Drive San Jose CA US 95134 
-MA-L,64CE6E,Sierra Wireless,13811 Wireless Way Richmond BC CA V6V 3A4 
 MA-L,004E35,Hewlett Packard Enterprise,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,1C3477,Innovation Wireless,11869 Teale Street Culver City CA US 90230 
 MA-L,9CDB07,Yellowtec GmbH,Heinrich-Hertz-Strasse 1-3 Monheim am Rhein NRW DE 40789 
@@ -13524,6 +13522,9 @@ MA-L,D0484F,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 Münch
 MA-L,BC8529,"Jiangxi Remote lntelligence Technology Co.,Ltd","No. 1, Chemical Avenue, Guixi335400, Yingtan, Jiangxi Yingtan Jiangxi  CN 360600 "
 MA-L,74C530,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,18A788,Shenzhen MEK Intellisys Pte Ltd,"Room 6C, 6th Floor, KeChuang Mansion, Quanzhi Technology Park, HouTing, Shajing Town, BaoAn District Shenzhen GuangDong CN 518104 "
+MA-L,64CE6E,"Sierra Wireless, ULC",13811 Wireless Way Richmond BC CA V6V 3A4 
+MA-L,84DB2F,"Sierra Wireless, ULC",1381 Wireless Way Richmond BC CA V6V 3A4 
+MA-L,D015BB,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,301D49,Firmus Technologies Pty Ltd,23 Killafaddy Rd St Leonards TAS AU 7250 
 MA-L,800794,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,F43C3B,HUNAN FN-LINK TECHNOLOGY LIMITED,"No.8, Litong Road, Liuyan Economic & Tec Changsha HUNAN CN 410329 "
@@ -20301,6 +20302,7 @@ MA-L,38F6ED,EVK DI Kerschhaggl GmbH,Josef Krainer Str. 35 Graz Styria AT A8074
 MA-L,3C2D9E,Vantiva - Connected Home,"4855 Peachtree Industrial Blvd, #200 Norcross GA US 30092 "
 MA-L,003969,Air-Weigh Incorporated,1720 Willow Creek Circle Eugene OR US 97402 
 MA-L,00E63A,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
+MA-L,6C68A4,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","601,Building B2,No.162,Science Avenue,Science City,Guangzhou High-tech Industrial Development Zone,Guangdong Province,China Guangzhou Guangdong CN 510663 "
 MA-L,2C3EBF,"HOSIN Global Electronics Co., Ltd.","Room 25,Block 2, Shenzhen New Generation Industrial Park, no.136 ZhongKang Road, Meidu community, Meilin Street, Futian District Shenzhen Guangzhou CN 518000 "
 MA-L,40D563,HANA Electronics,"Av. Abiurana, 450 Manaus Amazonas BR 69075-010 "
 MA-L,005001,YAMASHITA SYSTEMS CORP.,4-8-10 HIGASHISHINAGAWA SHINAGAWA-KU  JP 140-0002 
@@ -27085,13 +27087,13 @@ MA-L,D0DD7C,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,843C99,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,68E59E,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,F8E5CE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,3C52A1,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
-MA-L,98DA92,Vuzix Corporation,25 Hendrix Rd West Henrietta NY US 14586 
-MA-L,000CC8,"Xytronix Research & Design, Inc.",1681 West 2960 South Nibley UT US 84321 
-MA-L,14C050,"GUANGDONG GENIUS TECHNOLOGY CO., LTD.","No.168, Middle Road Of East Gate Xiaobian Community Chang'an Town CN 523851 "
-MA-L,441A4C,"xFusion Digital Technologies Co.,Ltd.","9th Floor, Building 1, Zensun Boya Square, Longzihu Wisdom Island, Zhendong New District Zhengzhou Henan CN 450000 "
 MA-L,B04FA6,DongGuan Ramaxel Memory Technology,"No.32, Industrial East Road,Innovation Park, High-tech Industrial Development Zone, Songshan Lake, Dongguan City, Guangdong Province,China DongGuan Guangdong CN 523808 "
 MA-L,4C9992,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
+MA-L,14C050,"GUANGDONG GENIUS TECHNOLOGY CO., LTD.","No.168, Middle Road Of East Gate Xiaobian Community Chang'an Town CN 523851 "
+MA-L,441A4C,"xFusion Digital Technologies Co.,Ltd.","9th Floor, Building 1, Zensun Boya Square, Longzihu Wisdom Island, Zhendong New District Zhengzhou Henan CN 450000 "
+MA-L,3C52A1,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
+MA-L,000CC8,"Xytronix Research & Design, Inc.",1681 West 2960 South Nibley UT US 84321 
+MA-L,98DA92,Vuzix Corporation,25 Hendrix Rd West Henrietta NY US 14586 
 MA-L,0C8772,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
 MA-L,DC8D91,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
 MA-L,409A30,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
@@ -27645,7 +27647,6 @@ MA-L,D81068,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-s
 MA-L,5C045A,Company NA Stage & Light,Lambertu 9 M?rupe  LV LV-2167 
 MA-L,58C356,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,50284A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,28A331,Sierra Wireless,13811 Wireless Way Richmond BC CA V6V 3A4 
 MA-L,5CA4F4,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,F4E204,COYOTE SYSTEM,"1, rue Royale Saint-Cloud  FR 92210 "
 MA-L,F84E58,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
@@ -27800,14 +27801,12 @@ MA-L,4873CB,Tiinlab Corporation,"No. 3333, Liuxian Avenue, Tower A, 32th Floor, 
 MA-L,789FAA,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,E8A72F,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,D405DE,eero inc.,660 3rd Street San Francisco CA US 94107 
-MA-L,00A0D5,Sierra Wireless,13811 Wireless Way Richmond RICHMOND B.C. CA V6V 3A4 
 MA-L,24CE33,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,0CDDEF,Nokia Corporation,Elektroniikkatie 10 Oulu  FI 90570 
 MA-L,5C9666,Sony Interactive Entertainment Inc.,1-7-1 Konan Minato-ku Tokyo JP 108-0075 
 MA-L,88231F,Fibocom Wireless Inc.,"1101,Tower A, Building 6, Shenzhen International Innovation Valley, Dashi 1st Rd, Nanshan Shenzhen Guangdong CN 518055 "
 MA-L,A4DE26,"Sumitomo Electric Industries, Ltd","1-1-3, Shimaya, Konohana-ku Osaka  JP 554-0024 "
 MA-L,307BC9,SHENZHEN BILIAN ELECTRONIC CO.，LTD,"NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
-MA-L,CC934A,Sierra Wireless,1381 Wireless Way  Richmond BC  CA  GB V6V 3A4  
 MA-L,FC0FE7,Microchip Technology Inc.,2355 W. Chandler Blvd. Chandler AZ US 85224 
 MA-L,C85CCC,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,50C0F0,"Artek Microelectronics Co.,Ltd.","202,NO.1 Building,Software Park,KeJiZhongEr Road,GaoXinQu,NanShan, Shenzhen Guangdong CN 518057 "
@@ -33846,7 +33845,10 @@ MA-L,E4A41C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,583653,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,84D328,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C8A6EF,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
-MA-L,5CE931,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
-MA-L,E0DF13,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
 MA-L,A42249,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,5CE931,TP-Link Corporation Limited,"Room 901,9/F.New East Ocean Centre, 9 Science Museum Road  Tsim Sha Tsui Kowloon HK 999077 "
+MA-L,00A0D5,"Sierra Wireless, ULC",13811 Wireless Way Richmond RICHMOND B.C. CA V6V 3A4 
+MA-L,28A331,"Sierra Wireless, ULC",13811 Wireless Way Richmond BC CA V6V 3A4 
+MA-L,E0DF13,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
 MA-L,B01886,SmarDTV Corporation,147 Avenue du Jujubier ZI Athelia IV La Ciotat CH 13600 
+MA-L,CC934A,"Sierra Wireless, ULC",1381 Wireless Way  Richmond BC  CA  GB V6V 3A4  

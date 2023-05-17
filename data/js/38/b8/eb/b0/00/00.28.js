@@ -1,1 +1,1 @@
-macDetailCallback("38b8ebb00000/28",[{"a":"Kimura Bldg. 5F, Kanda Ogawamachi 2-1 Chiyoda-ku Tokyo JP 101-0052","o":"ExaScaler Inc.","d":"2015-11-29","t":"add","s":"ieee","c":"JP"}]);
+macDetailCallback("38b8ebb00000/28",[{"a":"Kimura Bldg. 5F, Kanda Ogawamachi 2-1 Chiyoda-ku Tokyo JP 101-0052","o":"ExaScaler Inc.","d":"2015-11-29","t":"add","s":"ieee","c":"JP"},{"d":"2023-05-17","t":"change","s":"ieee-mam.csv","a":"5F Chiyodaogawamachi Crosta, 1-11 Kanda Ogawamachi Chiyoda-ku Tokyo JP 101-0052","c":"JP","o":"PEZY Computing K.K."}]);
