@@ -1,0 +1,1 @@
+macDetailCallback("a899ad000000/24",[{"d":"2023-05-18","t":"add","s":"ieee-oui.csv","a":"No. 2877 Kehang Road, Suncun Town, High tech Zone, Jinan City, Shandong Province, China Jinan SHANDONG CN 250104","c":"CN","o":"Chaoyue Technology Co., Ltd."}]);
