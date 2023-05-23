@@ -1,0 +1,1 @@
+macDetailCallback("d015bbb00000/28",[{"d":"2023-05-23","t":"add","s":"ieee-mam.csv","a":"306f, kolon digital tower aston bldg,\n212, gasandigital 1-ro Seoul  Geumcheon-gu KR 08502","c":"KR","o":"EdgeDX"}]);
