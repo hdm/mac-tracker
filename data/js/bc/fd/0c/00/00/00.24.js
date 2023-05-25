@@ -1,0 +1,1 @@
+macDetailCallback("bcfd0c000000/24",[{"d":"2023-05-25","t":"add","s":"ieee-oui.csv","a":"C-6 ideamonto industril 7002 Songbai Road Guangming District Shenzhen City Guangdong, China Shenzhen  CN 518108","c":"CN","o":"Shenzhen Phaten Tech. LTD"}]);

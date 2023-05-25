@@ -1,0 +1,1 @@
+macDetailCallback("d015bbe00000/28",[{"d":"2023-05-25","t":"add","s":"ieee-mam.csv","a":"No. 1688 \n25th Cross, 27th Main, \nHSR Layout,  Bengaluru Karnataka IN 560102","c":"IN","o":"PHYTEC EMBEDDED PVT LTD"}]);
