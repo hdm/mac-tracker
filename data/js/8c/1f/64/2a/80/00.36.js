@@ -1,0 +1,1 @@
+macDetailCallback("8c1f642a8000/36",[{"d":"2023-05-27","t":"add","s":"ieee-oui36.csv","a":"8F., No. 588, Tanmei St., Neihu Dist., Taipei City 114044 , Taiwan (R.O.C.) Taipei City   TW 114044","c":"TW","o":"SHALARM SECURITY Co.,LTD"}]);

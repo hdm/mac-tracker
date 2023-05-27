@@ -1,1 +1,1 @@
-macDetailCallback("0050c27f9000/36",[{"a":"Siemensstrasse 6-10 Urbach BW DE 73660","o":"Karl DUNGS GmbH & Co. KG","d":"2008-07-30","t":"add","s":"ieee","c":"DE"}]);
+macDetailCallback("0050c27f9000/36",[{"a":"Siemensstrasse 6-10 Urbach BW DE 73660","o":"Karl DUNGS GmbH & Co. KG","d":"2008-07-30","t":"add","s":"ieee","c":"DE"},{"d":"2023-05-27","t":"change","s":"ieee-iab.csv","a":"Karl-Dungs-Platz 1 Urbach BW DE 73660","c":"DE","o":"Karl DUNGS GmbH & Co. KG"}]);
