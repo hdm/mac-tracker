@@ -1,0 +1,1 @@
+macDetailCallback("bcb6fb000000/24",[{"d":"2023-05-31","t":"add","s":"ieee-oui.csv","a":"Calle Nuestra Señora de la Guía Número 19 Alonsotegi Bizkaia ES 48810","c":"ES","o":"P4Q ELECTRONICS, S.L."}]);

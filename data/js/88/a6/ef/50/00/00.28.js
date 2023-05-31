@@ -1,0 +1,1 @@
+macDetailCallback("88a6ef500000/28",[{"d":"2023-05-31","t":"add","s":"ieee-mam.csv","a":"Building 4D, No.160 Xihu West Road, Wujin National Hi-tech Industrial Zone, Changzhou Jiangsu CN 213100","c":"CN","o":"Labpano Technology (Changzhou) Co., Ltd."}]);

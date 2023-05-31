@@ -1,0 +1,1 @@
+macDetailCallback("88a6ef100000/28",[{"d":"2023-05-31","t":"add","s":"ieee-mam.csv","a":"16th Floor, Block B, Building 6, Shenzhen International Innovation Valley, Dashi 1st Road, Xili Street, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen YAKO Automation Technology Co.,Ltd."}]);
