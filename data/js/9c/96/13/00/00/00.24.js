@@ -1,0 +1,1 @@
+macDetailCallback("9c9613000000/24",[{"d":"2023-06-03","t":"add","s":"ieee-oui.csv","a":"618 Liangjiang Avenue, Longxing Town, Yubei District, Chongqing Chongqing Chongqing CN 401120","c":"CN","o":"Lenovo Future Communication Technology (Chongqing) Company Limited"}]);
