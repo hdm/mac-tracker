@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64757000/36",[{"d":"2023-06-06","t":"add","s":"ieee-oui36.csv","a":"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015","c":"IN","o":"Spectra Technologies India Private Limited"}]);

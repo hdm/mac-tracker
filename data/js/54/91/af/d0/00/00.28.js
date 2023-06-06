@@ -1,0 +1,1 @@
+macDetailCallback("5491afd00000/28",[{"d":"2023-06-06","t":"add","s":"ieee-mam.csv","a":"No.99, Qingyi Road, Hi-Tech Park, Ningbo, China Ningbo  CN 315040","c":"CN","o":"Ningbo Joynext Technology Corporation"}]);
