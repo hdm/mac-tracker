@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64e4d000/36",[{"d":"2023-06-13","t":"add","s":"ieee-oui36.csv","a":"504 505 Deron Heights, Baner Road, Baner Pune Maharashtra IN 411045","c":"IN","o":"San Telequip (P) Ltd.,"}]);

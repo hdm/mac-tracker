@@ -1,1 +1,1 @@
-macDetailCallback("d015bbd00000/28",[{"d":"2023-05-17","t":"add","s":"ieee-mam.csv","a":"Werkstr. 11 Rastatt  DE 76437","c":"DE","o":"Lampuga GmbH"}]);
+macDetailCallback("d015bbd00000/28",[{"d":"2023-05-17","t":"add","s":"ieee-mam.csv","a":"Werkstr. 11 Rastatt  DE 76437","c":"DE","o":"Lampuga GmbH"},{"d":"2023-06-13","t":"change","s":"ieee-mam.csv","a":"Unit 402-105 Gordon Baker Rd Toronto  Ontario CA M2H3P8","c":"CA","o":"Bluewaves Mobility Innovation Inc"}]);

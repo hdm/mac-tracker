@@ -1,0 +1,1 @@
+macDetailCallback("a881fe000000/24",[{"d":"2023-06-13","t":"add","s":"ieee-oui.csv","a":"9/F, Yihua Commercial Building, No. 16, Jiuyi Road, Licheng District, Quanzhou, Fujian  Quanzhou Fujian CN 362000","c":"CN","o":"Luxul Tech Co., Ltd"}]);
