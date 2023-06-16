@@ -1,0 +1,1 @@
+macDetailCallback("a8b8e0000000/24",[{"d":"2023-06-16","t":"add","s":"ieee-oui.csv","a":"No.37,Qinghutou,Renmin Road, Tangxia Town  Dongguan Guangdong CN 523710","c":"CN","o":"Changwang Technology inc."}]);
