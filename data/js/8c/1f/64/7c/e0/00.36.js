@@ -1,0 +1,1 @@
+macDetailCallback("8c1f647ce000/36",[{"d":"2023-06-20","t":"add","s":"ieee-oui36.csv","a":"Room1011,Building 2 No. 288 Kangning Road,Jingan disdrict Shanghai  CN 200443","c":"CN","o":"Shanghai smartlogic technology Co.,Ltd."}]);

@@ -1,0 +1,1 @@
+macDetailCallback("48da35500000/28",[{"d":"2023-06-20","t":"add","s":"ieee-mam.csv","a":"Room 1102,Building 10, Xinqidian Jiayuan, No.5 Chang chun Qiao Road, Haidian District, Beijing Beijing Beijing CN 100000","c":"CN","o":"Beijing keshengte communication equipment co., ltd"}]);
