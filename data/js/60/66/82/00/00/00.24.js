@@ -1,0 +1,1 @@
+macDetailCallback("606682000000/24",[{"d":"2023-06-23","t":"add","s":"ieee-oui.csv","a":"4-5F,E1 Building,TCL International E City,No.1001 Zhongshanyuan Road,Nanshan District,Shenzhen SHENZHEN GUANGDONG CN 518052","c":"CN","o":"SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD"}]);

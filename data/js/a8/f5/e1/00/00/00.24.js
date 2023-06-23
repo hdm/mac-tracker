@@ -1,0 +1,1 @@
+macDetailCallback("a8f5e1000000/24",[{"d":"2023-06-23","t":"add","s":"ieee-oui.csv","a":"Baoan District Shiyan street Shancheng Industrial zone 26 building Shenzhen Guangdong CN 518108","c":"CN","o":"Shenzhen Shokz Co., Ltd."}]);
