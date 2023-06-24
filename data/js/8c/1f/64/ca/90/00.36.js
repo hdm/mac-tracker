@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64ca9000/36",[{"d":"2023-06-24","t":"add","s":"ieee-oui36.csv","a":"Calle 2 # 4G 15\nVilla del Rey, 4TA SEC.\nBo. Canaboncito\nCAGUAS, PR 00727 Caguas PR US 00727","c":"US","o":"Avant Technologies"}]);

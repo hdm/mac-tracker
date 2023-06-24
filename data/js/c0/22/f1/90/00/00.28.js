@@ -1,0 +1,1 @@
+macDetailCallback("c022f1900000/28",[{"d":"2023-06-24","t":"add","s":"ieee-mam.csv","a":"Electric Aggregate Plant, Gate No. – A/B, Plot No. A-1, Phase IV, \nChakan MIDC, Pune, Chakan, Taluka – Khed\n Pune Maharashtra IN 410501","c":"IN","o":"MAHINDR & MAHINDRA"}]);
