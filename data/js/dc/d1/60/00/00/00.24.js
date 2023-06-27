@@ -1,0 +1,1 @@
+macDetailCallback("dcd160000000/24",[{"d":"2023-06-27","t":"add","s":"ieee-oui.csv","a":"Unit 601, 602, Building 1, Zhongxing Industrial Base, No. 2 East 7th Road, Tianjin Pilot Free Trade Zone (Airport Economic Zone) Tianjin  CN 300308","c":"CN","o":"Tianjin Changdatong Technology Co.,LTD"}]);
