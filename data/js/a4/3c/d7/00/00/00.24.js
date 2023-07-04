@@ -1,0 +1,1 @@
+macDetailCallback("a43cd7000000/24",[{"d":"2023-07-04","t":"add","s":"ieee-oui.csv","a":"No.8,Wuzhou West Road,Economic and technological Development Zone,Yangzhou,Jiangsu Province,PRC,225009 Yangzhou Jiangsu CN 225009","c":"CN","o":"NTX Electronics YangZhou co.,LTD"}]);
