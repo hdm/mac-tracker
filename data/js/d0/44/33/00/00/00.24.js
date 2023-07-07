@@ -1,0 +1,1 @@
+macDetailCallback("d04433000000/24",[{"d":"2023-07-07","t":"add","s":"ieee-oui.csv","a":"Floor 6, Building 8, 2777 Nong, Jinxiu East Road, Pudong Dist. Shanghai  Shanghai CN 201206","c":"CN","o":"Clourney Semiconductor"}]);

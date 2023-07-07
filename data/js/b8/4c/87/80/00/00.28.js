@@ -1,0 +1,1 @@
+macDetailCallback("b84c87800000/28",[{"d":"2023-07-07","t":"add","s":"ieee-mam.csv","a":"Floor 4, Building 15, Fuwan Standard Plant, Jinshan Industrialoncentration Zone, No. 869, Panyu Road, Gaishan Town, Cangshan District, Fuzhou, China Fuzhou Fujian CN 350026","c":"CN","o":"Fujian Morefun Electronic Technology Co., Ltd."}]);

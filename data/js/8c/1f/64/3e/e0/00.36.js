@@ -1,0 +1,1 @@
+macDetailCallback("8c1f643ee000/36",[{"d":"2023-07-07","t":"add","s":"ieee-oui36.csv","a":"#813 Kongdanlo140St Goonpo city Gyeonggido Gunpo Gunpo-si/Gyeonggi-do, KR 15847","c":"KR","o":"BnB Information Technology"}]);

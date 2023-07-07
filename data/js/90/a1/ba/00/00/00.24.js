@@ -1,0 +1,1 @@
+macDetailCallback("90a1ba000000/24",[{"d":"2023-07-07","t":"add","s":"ieee-oui.csv","a":"SANAYI MAH. TEKNOPARK BUL. TEKNOPARK A1 BLOK NO: 1-1A IC KAPI NO: 207 PENDIK -ISTANBUL - TURKEY Istanbul Pendik TR 34906","c":"TR","o":"PNetworks Electronics Information"}]);
