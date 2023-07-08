@@ -1,0 +1,1 @@
+macDetailCallback("e81711000000/24",[{"d":"2023-07-08","t":"add","s":"ieee-oui.csv","a":"Building 10th, Baiwangxin Industrial Park, No. 1002 Songbai Road, Xili Street,  Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Vipstech Co., Ltd"}]);
