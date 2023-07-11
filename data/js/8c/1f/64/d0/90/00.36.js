@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64d09000/36",[{"d":"2023-07-11","t":"add","s":"ieee-oui36.csv","a":"1201B, 12th Floor, Building 4, No. 2 Ronghua South Road Beijing Economic and Technological Development Zone, Beijing (Yizhuang Group, High-end Industrial Area, Beijing Pilot Free Trade Zone) Beijing  CN 100176","c":"CN","o":"Minartime(Beijing)Science &Technology Development Co.,Ltd"}]);

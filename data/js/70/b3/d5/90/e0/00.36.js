@@ -1,1 +1,1 @@
-macDetailCallback("70b3d590e000/36",[{"a":"","o":"Private","d":"2018-01-14","t":"add","s":"ieee"},{"d":"2019-08-13","t":"change","s":"ieee-oui36.csv","a":"","c":"","o":"Maytronics Ltd."}]);
+macDetailCallback("70b3d590e000/36",[{"a":"","o":"Private","d":"2018-01-14","t":"add","s":"ieee"},{"d":"2019-08-13","t":"change","s":"ieee-oui36.csv","a":"","c":"","o":"Maytronics Ltd."},{"d":"2023-07-11","t":"change","s":"ieee-oui36.csv","a":"Kibbutz Yizrael Kibbutz Yizrael  IL 1935000","c":"IL","o":"Maytronics Ltd."}]);

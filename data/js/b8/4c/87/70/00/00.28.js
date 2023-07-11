@@ -1,0 +1,1 @@
+macDetailCallback("b84c87700000/28",[{"d":"2023-07-11","t":"add","s":"ieee-mam.csv","a":"Room 808, 8/F Tianchen building, Chaoyang gate, Chaoyang District Beijing  CN 100026","c":"CN","o":"Beijing Jiyuan Automation Technology CO.,LTD"}]);
