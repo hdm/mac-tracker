@@ -1,0 +1,1 @@
+macDetailCallback("8c1f64201000/36",[{"d":"2023-07-12","t":"add","s":"ieee-oui36.csv","a":"NO 6 JINGKE CENTRAL RD  TAICHUNG CITY TAIWAN 40841 TAICHUNG  TW 40841","c":"TW","o":"Hiwin Mikrosystem Corp."}]);
