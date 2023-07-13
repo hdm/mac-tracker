@@ -1,0 +1,1 @@
+macDetailCallback("b4565d000000/24",[{"d":"2023-07-13","t":"add","s":"ieee-oui.csv","a":"3 / F, Block A, Building 2, Shenzhen Bay Innovation Technology Center, No.3156 keyuan South Road, Yuehai Street, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000","c":"CN","o":"Chipsea Technologies (Shenzhen) Corp."}]);

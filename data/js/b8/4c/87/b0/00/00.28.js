@@ -1,0 +1,1 @@
+macDetailCallback("b84c87b00000/28",[{"d":"2023-07-13","t":"add","s":"ieee-mam.csv","a":"Floor 7?Hailong Mansion?No.1 Zhongguancun Avenue,Haidian District,Beijing Beijing  CN 100080","c":"CN","o":"Beijing Yunji Technology Co., Ltd."}]);
