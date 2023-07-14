@@ -1,0 +1,1 @@
+macDetailCallback("18523d000000/24",[{"d":"2023-07-14","t":"add","s":"ieee-oui.csv","a":"1st Floor,No.75 Hu'an Road, Huli District Xiamen Fujian CN 361006","c":"CN","o":"Xiamen Jiwu Technology CO.,Ltd"}]);
