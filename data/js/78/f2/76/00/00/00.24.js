@@ -1,0 +1,1 @@
+macDetailCallback("78f276000000/24",[{"d":"2023-07-15","t":"add","s":"ieee-oui.csv","a":"No 18?Lane 699, Zhang Wengmiao Rd,  Fengxian district, Shanghai China Shanghai  CN 201401","c":"CN","o":"Cyklop Fastjet Technologies (Shanghai) Inc."}]);
