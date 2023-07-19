@@ -1,0 +1,1 @@
+macDetailCallback("dcee14000000/24",[{"d":"2023-07-19","t":"add","s":"ieee-oui.csv","a":"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384","c":"CN","o":"ADT Technology"}]);
