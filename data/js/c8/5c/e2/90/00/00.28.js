@@ -1,0 +1,1 @@
+macDetailCallback("c85ce2900000/28",[{"d":"2023-07-20","t":"add","s":"ieee-mam.csv","a":"7 Floor C Building, Longsheng Industrial Park,Huiyang District Huizhou City Guangdong CN 516211","c":"CN","o":"Quthc Limited"}]);

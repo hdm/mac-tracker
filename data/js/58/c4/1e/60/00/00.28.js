@@ -1,0 +1,1 @@
+macDetailCallback("58c41e600000/28",[{"d":"2023-07-20","t":"add","s":"ieee-mam.csv","a":"7F.-2, No.63, Sec. 1, Chongqing S. Rd., Zhongzheng Dist Taipei TAIWAN TW 100","c":"TW","o":"NetChain Co.,Ltd."}]);
