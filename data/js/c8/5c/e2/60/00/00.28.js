@@ -1,0 +1,1 @@
+macDetailCallback("c85ce2600000/28",[{"d":"2023-07-22","t":"add","s":"ieee-mam.csv","a":"2001HO 32, Songdogwahak-ro, Yeonsu-gu, Incheon, Republic of Korea Incheon Metropolitan City  KR 21984","c":"KR","o":"brinfotec"}]);
