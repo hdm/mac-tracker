@@ -1,0 +1,1 @@
+macDetailCallback("c05f87000000/24",[{"d":"2023-07-27","t":"add","s":"ieee-oui.csv","a":"39 East Hechang 6 Road, Zhongkai High-tech Zone, Huizhou City, Guangdong Province Huizhou City  Guangdong Province CN 516001","c":"CN","o":"Legrand INTELLIGENT ELECTRICAL(HUIZHOU)CO.,LTD."}]);
