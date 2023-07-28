@@ -1,0 +1,1 @@
+macDetailCallback("c85ce2c00000/28",[{"d":"2023-07-28","t":"add","s":"ieee-mam.csv","a":"Room 1805, No. 1403, Minsheng Road, Pudong New Area, Shanghai Shanghai  CN 200135","c":"CN","o":"Shanghai Gaviota Intelligent Technology Co.,Ltd."}]);
