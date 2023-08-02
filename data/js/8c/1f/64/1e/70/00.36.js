@@ -1,0 +1,1 @@
+macDetailCallback("8c1f641e7000/36",[{"d":"2023-08-02","t":"add","s":"ieee-oui36.csv","a":"1385, Shimoishigami Otawara-shi Tochigi JP 324-8550","c":"JP","o":"CANON ELECTRON TUBES & DEVICES CO., LTD."}]);
