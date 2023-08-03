@@ -12955,7 +12955,6 @@ MA-L,00029B,Kreatel Communications AB,Teknikringen 4C   SE
 MA-L,000295,IP.Access Limited,Melbourn Science Park SG8 6EE SG8 6EE GB U.K. 
 MA-L,000293,Solid Data Systems,2945 Oakmead Village Court Santa Clara CA US 95051 
 MA-L,00032A,"UniData Communication Systems, Inc.","2F, OhSung-Bldg, 82-15,   KR  "
-MA-L,000324,"SANYO Techno Solutions Tottori Co., Ltd.",7-101 Tachikawa-cho Tottori City  JP 680-8634 
 MA-L,000325,Arima Computer Corp.,"6th Fl., No. 327,   TW  "
 MA-L,0002FA,"DX Antenna Co., Ltd.","2-15 Hamazaki-Dori,   JP  "
 MA-L,0002FB,Baumuller Aulugen-Systemtechnik GmbH,Ostendsts. 84   DE  
@@ -13673,6 +13672,7 @@ MA-L,14DAB9,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,B0CAE7,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,DC621F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,48EDE6,Zyxel Communications Corporation,"No. 6, Innovation Road II Hsinchu  TW 300 "
+MA-L,000324,"LIMNO Co., Ltd.",7-101 Tachikawa-cho Tottori City  JP 680-8634 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -20511,6 +20511,7 @@ MA-L,50A1F3,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,485FDF,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,F0F84A,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
 MA-L,6C1544,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
+MA-L,C80C53,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -27382,6 +27383,7 @@ MA-L,90A57D,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,FCA8E0,"THE FURUKAWA ELECTRIC CO., LTD","2-6-4,Otemachi Chiyoda-ku Tokyo JP 100-8322 "
 MA-L,FC51B5,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,8C9B2D,"PLANTRONICS, INC.",345 ENCINAL STREET SANTA CRUZ CA US 95060 
+MA-L,909E24,ekey biometric systems gmbh,Lunzerstrsasse 89 Linz Upper Austria AT 4020 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -34213,11 +34215,12 @@ MA-L,6057C8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,D4413F,Gen IV Technology LLC,5239 Muhlhauser Road West Chester OH US 45011 
 MA-L,185D6F,N3com,"Proektiruemiy proezd 4062, 6b1, office 71 Moscow  RU 115432 "
 MA-L,00019C,Lumentum,570 West Hunt Club Road   CA  
-MA-L,3CCD73,Nebula Electronic Technology Corporation,"Room 1002, No.570 ShengXia RD, Pudong district, Shanghai Shanghai  CN 201210 "
-MA-L,3C13BB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,D0D7BE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,206BF4,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,E82BC5,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,08276B,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,44A038,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,F86DCC,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,58D8A7,Bird Home Automation GmbH,Uhlandstr. 165 Berlin Berlin DE 10719 
+MA-L,3CCD73,Nebula Electronic Technology Corporation,"Room 1002, No.570 ShengXia RD, Pudong district, Shanghai Shanghai  CN 201210 "
+MA-L,08276B,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,3C13BB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
