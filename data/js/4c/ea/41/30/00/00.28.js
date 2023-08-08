@@ -1,0 +1,1 @@
+macDetailCallback("4cea41300000/28",[{"d":"2023-08-08","t":"add","s":"ieee-mam.csv","a":"3F., No. 369, Sec. 2, Zhongshan Rd., Zhonghe Dist., New Taipei City 23558 , Taiwan New Taipei City  TW 23558","c":"TW","o":"YENSHOW TECHNOLOGY CO.,LTD"}]);
