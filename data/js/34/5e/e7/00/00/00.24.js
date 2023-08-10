@@ -1,0 +1,1 @@
+macDetailCallback("345ee7000000/24",[{"d":"2023-08-10","t":"add","s":"ieee-oui.csv","a":"9th Floor, Building 1, No. 48 Haoshantou South, Chonghua Village, Pingyao Town, Yuhang District, Hangzhou City, Zhejiang Province Hangzhou  CN 311100","c":"CN","o":"Hangzhou ChengFengErLai Digial Technology Co.,Ltd."}]);

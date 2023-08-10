@@ -1,0 +1,1 @@
+macDetailCallback("604966000000/24",[{"d":"2023-08-10","t":"add","s":"ieee-oui.csv","a":"No. 97 Huaxing Road, Langkou community, Dalang Street, Longhua District Level 4, Building 5, Kaijida Industrial Zone Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Dingsheng Technology Co., Ltd."}]);
