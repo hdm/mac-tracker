@@ -1,1 +1,1 @@
-macDetailCallback("4cea41800000/28",[{"d":"2023-08-08","t":"add","s":"ieee-mam.csv","a":"11 Scholar Drive  Bundoora Vic AU 3083","c":"AU","o":"IntelliTrac"}]);
+macDetailCallback("4cea41800000/28",[{"d":"2023-08-08","t":"add","s":"ieee-mam.csv","a":"11 Scholar Drive  Bundoora Vic AU 3083","c":"AU","o":"IntelliTrac"},{"d":"2023-08-12","t":"change","s":"ieee-mam.csv","a":"Room 701, Building 7, Huaqing Chuangzhiyuan, No.3 Qingyan Road, Huishan District Wuxi Jiangsu CN 214000","c":"CN","o":"WUXI LATCOS TECHNOLOGY AUTOMATION Co.Ltd."}]);
