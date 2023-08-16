@@ -1,0 +1,1 @@
+macDetailCallback("5cf838400000/28",[{"d":"2023-08-16","t":"add","s":"ieee-mam.csv","a":"Room 1202, building a, Noble international, 908 Xiuwen Road, Minhang District ShangHai ShangHai CN 201199","c":"CN","o":"Shanghai Zenchant Electornics Co.,LTD"}]);

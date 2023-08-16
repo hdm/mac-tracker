@@ -1,0 +1,1 @@
+macDetailCallback("48e533000000/24",[{"d":"2023-08-16","t":"add","s":"ieee-oui.csv","a":"Unit 805, 8/F, (MF2032), Harbour Crystal Centre, 100 Granville Road, Tsimshatsui East, Kowloon,  HK. Kowloon  HK MF2032","c":"HK","o":"Sunnovo International Limited"}]);
