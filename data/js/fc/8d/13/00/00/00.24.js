@@ -1,0 +1,1 @@
+macDetailCallback("fc8d13000000/24",[{"d":"2023-08-17","t":"add","s":"ieee-oui.csv","a":"19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002","c":"CN","o":"FUJIAN STAR-NET COMMUNICATION CO.,LTD"}]);

@@ -1,0 +1,1 @@
+macDetailCallback("8c1f647f8000/36",[{"d":"2023-08-17","t":"add","s":"ieee-oui36.csv","a":"SCF-60 FF, Phase-2 SAS Nagar (Mohali) SAS Nagar (Mohali) Punjab IN 160055","c":"IN","o":"FleetSafe India Private Limited"}]);
