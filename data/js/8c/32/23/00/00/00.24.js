@@ -1,0 +1,1 @@
+macDetailCallback("8c3223000000/24",[{"d":"2023-08-23","t":"add","s":"ieee-oui.csv","a":"13/F, Haisong Building B, Tairan 9th Rd, Futian District Shenzhen Guang Dong CN 5128042","c":"CN","o":"JWIPC Technology Co.,Ltd."}]);

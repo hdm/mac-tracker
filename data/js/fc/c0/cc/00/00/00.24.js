@@ -1,0 +1,1 @@
+macDetailCallback("fcc0cc000000/24",[{"d":"2023-08-23","t":"add","s":"ieee-oui.csv","a":"Digital Technology Plaza,NO.9 Shangdi 9th Street,Haidian District,Beijing,China  Beijing  CN 100080","c":"CN","o":"Yunke China Information Technology Limited"}]);

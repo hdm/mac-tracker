@@ -1,0 +1,1 @@
+macDetailCallback("8c1f648ff000/36",[{"d":"2023-08-23","t":"add","s":"ieee-oui36.csv","a":"Oreste Angelo Barni 103 Nova Prata Rio Grande do Sul BR 95320000","c":"BR","o":"Kruger DB Series Indústria Eletrônica ltda"}]);
