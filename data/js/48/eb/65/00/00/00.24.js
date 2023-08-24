@@ -1,0 +1,1 @@
+macDetailCallback("48eb65000000/24",[{"d":"2023-08-24","t":"add","s":"ieee-oui.csv","a":"10th Floor, Chuangzhi Tiandi Building,\nNorth Shigeng Street, Zhongdao East Road\nLongzihu Wisdom Island\nZhengdong New District Zhengzhou Henan CN 450046","c":"CN","o":"Henan KunLun Technologies CO.,Ltd."}]);
