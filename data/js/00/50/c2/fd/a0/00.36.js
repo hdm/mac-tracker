@@ -1,1 +1,1 @@
-macDetailCallback("0050c2fda000/36",[{"a":"10 IHASZ STR BUDAPEST  HU 1105","o":"ELAN SYSTEMS","d":"2012-08-12","t":"add","s":"ieee","c":"HU"}]);
+macDetailCallback("0050c2fda000/36",[{"a":"10 IHASZ STR BUDAPEST  HU 1105","o":"ELAN SYSTEMS","d":"2012-08-12","t":"add","s":"ieee","c":"HU"},{"d":"2023-08-25","t":"change","s":"ieee-iab.csv","a":"Ihasz u. 10 Budapest  HU 1105","c":"HU","o":"Bucher Automation Budapest"}]);

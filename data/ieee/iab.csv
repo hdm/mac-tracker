@@ -147,7 +147,6 @@ IAB,40D8550D6,deskontrol electronics,Avinguda del port 158 - 9 Valencia Comunida
 IAB,40D8550DE,VPG,Box 423 Karlskoga  SE SE-691 27 
 IAB,40D8550DC,NVS Technologies Inc,1505 Adams Dr Suite D Menlo Park CA US 94025 
 IAB,40D8550D4,"Mitsubishi Heavy Industries, Ltd.","3-1, ASAHI, NISHIBIWAJIMA-CHO KIYOSU AICHI JP 452-8561 "
-IAB,40D8550D2,ELAN SYSTEMS,10 IHASZ STR BUDAPEST  HU 1105 
 IAB,40D8550C4,Inspired Systems,70 Mordaunt Cct Canning Vale WA AU 6155 
 IAB,40D8550A6,Alumbra Produtos Elétricos e Eletrônicos Ltda,"Rua Guimarães Rosa, 450 São Bernardo do Campo São Paulo BR 09851-380 "
 IAB,40D8550A8,Baudisch Electronic GmbH,Im Gewerbegebiet 7-9 Wäschenbeuren Baden-Württemberg DE 73116 
@@ -196,7 +195,6 @@ IAB,40D855006,Bactest Limited,St John's Innovation Centre Cambridge Cambridgeshi
 IAB,0050C2FCB,Propagation Systems Limited,"Unit219A, 2/F, Enterprise Place, No.5 Science Park Science Park, Shatin  HK  "
 IAB,0050C2FBF,MYLOGIC,"#106 Deayoung golden vally,290-2 Uiwang-si Gyeonggi-do KR 437-801 "
 IAB,0050C2FBE,senTec Elektronik GmbH,Werner-von-Siemens-Strasse 6 Ilmenau  DE 98693 
-IAB,0050C2FDA,ELAN SYSTEMS,10 IHASZ STR BUDAPEST  HU 1105 
 IAB,0050C2FD8,Ease Inc.,Feliceappear 1F Sano-shi Tochigi JP 327-0004 
 IAB,0050C2FC5,"Sakura Seiki Co.,Ltd.","75-5, Imojiya Chikuma-city Nagano Prefecture JP 387-0015 "
 IAB,0050C2FB4,MC-monitoring SA,Route des Daillettes 6 Fribourg FR CH 1709 
@@ -917,6 +915,8 @@ IAB,0050C2022,Ashling Microsystems Ltd.,National Technology Park   IE
 IAB,0050C2023,"Zabacom, Inc.",5 Choke Cherry Road Rockville MD US 20850 
 IAB,0050C201C,Tadiran Scopus,5 Hatzorf St.   IL  
 IAB,0050C2008,Portable Add-Ons,"Chineham Court, Lutyens Close Hampshire  GB RG24 8AH "
+IAB,0050C2FDA,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
+IAB,40D8550D2,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
 IAB,0050C293B,"Cleaveland/Price, Inc.",14000 Route 993 Trafford PA US 15085 
 IAB,0050C20BF,Private,
 IAB,0050C2689,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
@@ -1888,7 +1888,6 @@ IAB,40D8551B2,AGE A. Gilg Elektronik,Wellenburger Str. 53 Augsburg Bayern DE D-8
 IAB,40D8551B1,Logos 01 S.r.l.,"Via Parini, 8 Porto Mantovano MN IT 46047 "
 IAB,40D8551B0,"Shin-ei Electronic Measuring Co.,Ltd.",2636 Fujisawa-shi Kanagawa JP 252-0816 
 IAB,40D8551AF,Vigitron Inc.,"7620 Miramar Road, Suite 4100 San Diego California US 92126 "
-IAB,40D8551AC,ELAN SYSTEMS,10 IHASZ STR BUDAPEST  HU 1105 
 IAB,40D8551AB,Rosslare Enterprises Limited,Flat 912 Wing Fat Industrial Building Kowloon Bay Kowloon HK  
 IAB,40D855198,devboards GmbH,Birkerstrasse 67 Lohmar NRW DE 33106 
 IAB,40D8551A6,RB-LINK Wireless,Parque Comercial Europa Loja 20 Pombal  PT 3100-371 
@@ -2724,6 +2723,7 @@ IAB,0050C2027,Industrial Control Links,12840 Earhart Ave. Auburn CA US 95602
 IAB,0050C2028,The Frensch Corporation (Pty) Ltd.,P.O. Box 21008 GICP Gabrone BW  
 IAB,0050C201D,Princeton Gamma Tech,1010 Commerce Park Dr. Old Ridge TN US 37830 
 IAB,0050C200F,XLN-t,Waran De Straat 9B   BE  
+IAB,40D8551AC,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
 IAB,0050C2B5B,Timberline Manufacturing,1029 Blairs Ferry Rd Marion IA US 52302 
 IAB,40D855194,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
 IAB,0050C23F3,Hitachi Energy Germany AG,Havellandstr. 10-14 Mannheim  DE 68309 
@@ -2947,7 +2947,6 @@ IAB,0050C2F3B,TAMS firmware co.,aota5-15-26 yamagata  JP 990-2435
 IAB,0050C2F4C,Enistic Limited,"Unit 4, Isis Business Centre Oxford Oxfordshire GB OX4 2RD "
 IAB,0050C2F13,"Packet Plus, Inc.",1320 SW Hall St Portland OR US 97201 
 IAB,0050C2F29,RADYNE CORPORATION,211 West Boden Street Milwaukee Wisconsin US 53207 
-IAB,0050C2F27,ELAN SYSTEMS,10 IHASZ STR BUDAPEST  HU 1105 
 IAB,0050C2F1B,Saia-Burgess Controls AG,Bahnhofstrasse 18 Murten FR CH 3280 
 IAB,0050C2F19,Netlink Bilisim Sistemleri San. ve Tic. Ltd. Sti.,Caferaða mah. Sakiz sk. no:8/10 Kadikoy Istanbul  TR 34710 
 IAB,0050C2F04,"KINKI ROENTGEN INDUSTRIAL CO.,LTD","259 Kamidachiuri-Agaru Muromachidori, Kyoto  JP 6020029 "
@@ -2998,7 +2997,6 @@ IAB,0050C2DF9,Jenny Science AG,D4 Platz 4 Root  CH 6039
 IAB,0050C2DFA,"MAC Valves, Inc.",30569 Beck Rd Wixom MI US 48393 
 IAB,0050C2DEA,Cerner Corporation,2800 Rockcreek Parkway Kansas City  MO US 64117 
 IAB,0050C2DF1,Saia-Burgess Controls AG,Bahnhofstrasse 18 Murten FR CH 3280 
-IAB,0050C2DE7,Elan Systems ,10 Ihasz utca BUDAPEST  HU 1105 
 IAB,0050C2DE8,Visual Productions,Rollandstraat 55ZW Haarlem  NL 2013SM 
 IAB,0050C2DCD,dilitronics GmbH,Felsbachstr. 5 Jena Thuringia DE 07745 
 IAB,0050C2DD5,"Friend Spring Industrial Co., Ltd.","4F., No. 8, Lane 50, Sec. 3 Taipei  TW 115 "
@@ -3600,6 +3598,8 @@ IAB,0050C202D,Innocor LTD,210 - 362 Terry Fox Drive Kanata Ontario CA K2K 2P5
 IAB,0050C2031,Eloquence Ltd,"Unit 4, Progress Business Centre Berkshire SL1 6DQ  GB  "
 IAB,0050C2020,Icon Research Ltd.,3 Raw Holdings   GB EH53 0HY 
 IAB,0050C2021,DRS Technologies Canada Co.,115 Emily Place Ontario  CA K7C 4J5 
+IAB,0050C2F27,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
+IAB,0050C2DE7,Bucher Automation Budapest,Ihasz u. 10 Budapest  HU 1105 
 IAB,0050C21A6,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
 IAB,0050C2DB1,RF Code,9229 Waterford Centre Blvd #500 Austin TX US 78758 
 IAB,0050C2469,"Bipom Electronics, Inc.",9788 Clarewood Dr. 306 Houston TX US 77036 

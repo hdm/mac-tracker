@@ -1,0 +1,1 @@
+macDetailCallback("f41a79400000/28",[{"d":"2023-08-25","t":"add","s":"ieee-mam.csv","a":"Building 19, Songkeyuan,No.6, Libin Road, Songshan Lake High-tech Industrial Development Zone Dongguan Guangdong CN 523808","c":"CN","o":"Guangdong Sygole Intelligent Technology Co.,Ltd"}]);
