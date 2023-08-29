@@ -1,0 +1,1 @@
+macDetailCallback("14cb49000000/24",[{"d":"2023-08-29","t":"add","s":"ieee-oui.csv","a":"Rm1304 , Block A7, Chuangzhiyuncheng Bldg, Xili Street,Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Habolink Technology Co.,LTD"}]);
