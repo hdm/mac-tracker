@@ -1,0 +1,1 @@
+macDetailCallback("f41a79200000/28",[{"d":"2023-08-30","t":"add","s":"ieee-mam.csv","a":"HDAVS Building, No.5,Block1,Xishan Creative Park,Xingshikou Road,Haidian District BeiJing BeiJing CN 100195","c":"CN","o":"HCTEK Co.,Ltd."}]);
