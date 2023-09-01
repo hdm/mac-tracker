@@ -1,0 +1,1 @@
+macDetailCallback("28cb5c000000/24",[{"d":"2023-09-01","t":"add","s":"ieee-oui.csv","a":"Room 201,building A,No.1 Qianwan 1st Road,Shenzhen Hongkong cooperation zone,Qianhai,Shenzhen,Guangdong,China Shenzhen Guangdong CN 518066","c":"CN","o":"Shenzhen CPETEK Technology Co.,Ltd."}]);

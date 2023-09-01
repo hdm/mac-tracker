@@ -1,0 +1,1 @@
+macDetailCallback("d05bcb000000/24",[{"d":"2023-09-01","t":"add","s":"ieee-oui.csv","a":"2F,No. 31, Jinrong Street, Xicheng District,Beijing  Beijing Beijing CN 100073","c":"CN","o":"Tianyi Telecom Terminals Company Limited"}]);

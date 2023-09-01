@@ -1,0 +1,1 @@
+macDetailCallback("90a9f7200000/28",[{"d":"2023-09-01","t":"add","s":"ieee-mam.csv","a":"No.55 Juhua Road,Huayang village, WangTing town, Xiangcheng District, Suzhou Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou Lingchen Acquisition Computer"}]);
