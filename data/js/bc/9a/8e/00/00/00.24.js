@@ -1,0 +1,1 @@
+macDetailCallback("bc9a8e000000/24",[{"d":"2023-09-02","t":"add","s":"ieee-oui.csv","a":"HUMAX VILLAGE, 216\nHwangsaeul-ro, Bundang gu Seongnam-si Gyeonggi-do KR 13595","c":"KR","o":"HUMAX NETWORKS"}]);
