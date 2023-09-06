@@ -1,0 +1,1 @@
+macDetailCallback("90a9f7300000/28",[{"d":"2023-09-06","t":"add","s":"ieee-mam.csv","a":"Room 1506,building E, Nanotechnology University Sciene park, No.388 Ruoshuiroad,Suzhou industrial park Suzhou Jiangsu CN 215123","c":"CN","o":"Suzhou Etag-Technology Corporation"}]);

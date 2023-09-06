@@ -1,0 +1,1 @@
+macDetailCallback("90a9f7800000/28",[{"d":"2023-09-06","t":"add","s":"ieee-mam.csv","a":"No. 2699 Xiangyang North Street, Jingxiu District Baoding Hebei  CN 071000","c":"CN","o":"BAODING FORLINX EMBEDDEDTECHNOLOGY CO., LTD"}]);
