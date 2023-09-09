@@ -1,1 +1,1 @@
-macDetailCallback("70b3d52a4000/36",[{"a":"Teltowkanalstraße 1 Berlin  DE 12247","o":"GSP Sprachtechnologie GmbH","d":"2018-01-28","t":"add","s":"ieee","c":"DE"}]);
+macDetailCallback("70b3d52a4000/36",[{"a":"Teltowkanalstraße 1 Berlin  DE 12247","o":"GSP Sprachtechnologie GmbH","d":"2018-01-28","t":"add","s":"ieee","c":"DE"},{"d":"2023-09-09","t":"change","s":"ieee-oui36.csv","a":"Teltowkanalstr.1 Berlin  DE 12247","c":"DE","o":"Televic Rail GmbH"}]);

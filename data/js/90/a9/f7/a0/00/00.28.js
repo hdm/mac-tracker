@@ -1,0 +1,1 @@
+macDetailCallback("90a9f7a00000/28",[{"d":"2023-09-09","t":"add","s":"ieee-mam.csv","a":"2F., No. 332, Yongneng Rd. Taoyuan City Zhongli Dist. TW 320014","c":"TW","o":"Chi Geng Technology Co., Ltd"}]);

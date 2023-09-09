@@ -1,0 +1,1 @@
+macDetailCallback("8c1f6424d000/36",[{"d":"2023-09-09","t":"add","s":"ieee-oui36.csv","a":"NO.30 Chuang Hui Road, Hi-Tech Development zone XI'AN SHANNXI CN 710000","c":"CN","o":"XI'AN JIAODA KAIDA NEW TECHNOLOGY CO.LTD"}]);
