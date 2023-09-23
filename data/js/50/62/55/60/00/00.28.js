@@ -1,1 +1,0 @@
-macDetailCallback("506255600000/28",[{"d":"2019-08-25","t":"add","s":"ieee-mam.csv","a":"No.7, Guantian Road, Guanlan Street, Longhua District Shenzhen Guangdong CN 518110","c":"CN","o":"Shenzhen Sinway South Technology Co., Ltd"}]);

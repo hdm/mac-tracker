@@ -1,1 +1,0 @@
-macDetailCallback("1064e2000000/24",[{"d":"2010-10-05","t":"add","a":"Strada Nuova, 17\n.\nMareno di Piave Treviso 31010\n","c":"ITALY","o":"ADFweb.com s.r.l."},{"d":"2015-08-27","t":"change","a":"Strada Nuova, 17 Mareno di Piave Treviso IT 31010","c":"IT","o":"ADFweb.com s.r.l."}]);

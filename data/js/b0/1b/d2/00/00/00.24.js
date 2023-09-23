@@ -1,1 +1,0 @@
-macDetailCallback("b01bd2000000/24",[{"d":"2016-01-22","t":"add","a":",Le Shi Building, No.105 Yaojiayuan Road,Chaoyang District,Beijing,China beijing beijing CN 100025","c":"CN","o":"Le Shi Zhi Xin Electronic Technology (Tianjin) Limited"}]);

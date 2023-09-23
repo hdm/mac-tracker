@@ -1,1 +1,0 @@
-macDetailCallback("3c57d5000000/24",[{"d":"2012-10-03","t":"add","a":"Ch. de la Rueyre 116\nRenens VD 1020\n\n","c":"SWITZERLAND","o":"FiveCo"},{"d":"2015-08-27","t":"change","a":"Ch. de la Rueyre 116 Renens VD US 1020","c":"US","o":"FiveCo"}]);

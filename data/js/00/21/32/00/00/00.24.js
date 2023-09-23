@@ -1,1 +1,0 @@
-macDetailCallback("002132000000/24",[{"d":"2008-04-14","t":"add","a":"2484 West Clay St.\nSt. Charles MO 63301\n\n","c":"UNITED STATES","o":"Masterclock, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2484 W. Clay St. St. Charles MO US 63301","c":"US","o":"Masterclock, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8002df000000/24",[{"d":"2015-09-04","t":"add","a":"No.1 Anjialou, Xiaoliangmaqiao Ave., Chaoyang Dist.\nBeiJing    100025\n\n","c":"CN","o":"ORA Inc."},{"d":"2015-10-10","t":"change","a":"No.1 Anjialou, Xiaoliangmaqiao Ave., Chaoyang Dist. BeiJing  CN 100125","c":"CN","o":"ORA Inc."}]);

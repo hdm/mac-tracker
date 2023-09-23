@@ -1,1 +1,0 @@
-macDetailCallback("28d044000000/24",[{"d":"2020-09-13","t":"add","s":"ieee-oui.csv","a":"2/F, Building C, Jianxing Technology Building, Shahe West Road, Xili Street, Nanshan District  Shenzhen Guangdong CN 518055","c":"CN","o":"Shenzhen Xinyin technology company"}]);

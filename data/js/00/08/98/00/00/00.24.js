@@ -1,1 +1,0 @@
-macDetailCallback("000898000000/24",[{"d":"2001-12-14","t":"add","a":"1156 Aster Ave.\nSunnyvale CA 94086-6810\n\n","c":"UNITED STATES","o":"Gigabit Optics Corporation"},{"d":"2015-08-27","t":"change","a":"1156 Aster Ave. Sunnyvale CA US 94086-6810","c":"US","o":"Gigabit Optics Corporation"}]);

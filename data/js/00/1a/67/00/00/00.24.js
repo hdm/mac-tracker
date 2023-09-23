@@ -1,1 +1,0 @@
-macDetailCallback("001a67000000/24",[{"d":"2006-11-29","t":"add","a":"G.02, Block A, Dataran Hamodal\nNo.4, Jalan 13/4, Sect. 13,\nPetaling Jaya Selangor Darul Ehsan 46300\n","c":"MALAYSIA","o":"Infinite QL Sdn Bhd"},{"d":"2015-08-27","t":"change","a":"G.02, Block A, Dataran Hamodal Petaling Jaya Selangor Darul Ehsan MY 46300","c":"MY","o":"Infinite QL Sdn Bhd"}]);

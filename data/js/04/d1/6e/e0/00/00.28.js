@@ -1,1 +1,0 @@
-macDetailCallback("04d16ee00000/28",[{"d":"2019-08-13","t":"add","s":"ieee-mam.csv","a":"#3794 ,Ground and First Floor, 7th Main, Indira Nagar Bangalore Karnataka IN 560038","c":"IN","o":"Evolute Systems Private Limited"}]);

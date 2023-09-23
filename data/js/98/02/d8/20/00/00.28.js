@@ -1,1 +1,0 @@
-macDetailCallback("9802d8200000/28",[{"a":"8F.-5,No.83,Sec.2,Dongda Rd.,North Dist., Hsinchu City Taiwan TW 300","o":"United Power Research Technology Corp.","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);

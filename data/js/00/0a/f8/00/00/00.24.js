@@ -1,1 +1,0 @@
-macDetailCallback("000af8000000/24",[{"d":"2002-09-09","t":"add","a":"7640 Golden Triangle Drive\nEden Prairie MN 55344\n\n","c":"UNITED STATES","o":"American Telecare Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"7640 Golden Triangle Drive Eden Prairie MN US 55344","c":"US","o":"American Telecare Inc."}]);

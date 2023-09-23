@@ -1,1 +1,0 @@
-macDetailCallback("000e1a000000/24",[{"d":"2003-09-08","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2004-08-14","t":"change","a":"5800 Departure Drive\nRaleigh NC 27616\n\n","c":"UNITED STATES","o":"JPS Communications"},{"d":"2015-08-27","t":"change","a":"5800 Departure Drive Raleigh NC US 27616","c":"US","o":"JPS Communications"}]);

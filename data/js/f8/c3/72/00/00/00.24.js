@@ -1,1 +1,0 @@
-macDetailCallback("f8c372000000/24",[{"d":"2015-07-17","t":"add","a":"shinbashi 6-19-15\ntoukyobijyutsukurabubiru\nmainato-ku tokyo-to 105-8665\n","c":"JAPAN","o":"TSUZUKI DENKI"},{"d":"2015-08-27","t":"change","a":"shinbashi 6-19-15 mainato-ku tokyo-to JP 105-8665","c":"JP","o":"TSUZUKI DENKI"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("48da35c00000/28",[{"d":"2023-06-20","t":"add","s":"ieee-mam.csv","a":"Unit 1303, Building B2, Creative Building, No. 162 Science Avenue, Guangzhou Development Zone Guangzhou  CN 51000","c":"CN","o":"Guangzhou Xinhong Communication Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("74205f000000/24",[{"d":"2023-08-08","t":"add","s":"ieee-oui.csv","a":"Room 801, Block A, Nanyuan Commercial Building, Nanyuan New Village, Hongshan Community, Minzhi Street, Longhua District Shenzhen City Guangdong Province CN 518001","c":"CN","o":"Shenzhen Zhongruixin Intelligent Technology Co., Ltd."}]);

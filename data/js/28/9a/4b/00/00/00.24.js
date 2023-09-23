@@ -1,1 +1,0 @@
-macDetailCallback("289a4b000000/24",[{"d":"2012-07-10","t":"add","a":"656 West Randolph, Suite 2E\nChicago IL 60661\n\n","c":"UNITED STATES","o":"SteelSeries ApS"},{"d":"2015-08-27","t":"change","a":"656 West Randolph, Suite 2E Chicago IL US 60661","c":"US","o":"SteelSeries ApS"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("b49a95000000/24",[{"d":"2019-03-19","t":"add","s":"ieee-oui.csv","a":"2F, Block E, Bao'an Intelligent Valley, Yingtian Road No.4 Xixiang Sub-District Office, Bao'an District Shenzhen Guangdong CN 518102","c":"CN","o":"Shenzhen Boomtech Industrial Corporation"}]);

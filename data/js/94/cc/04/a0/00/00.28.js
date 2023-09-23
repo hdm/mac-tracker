@@ -1,1 +1,0 @@
-macDetailCallback("94cc04a00000/28",[{"d":"2019-12-29","t":"add","s":"ieee-mam.csv","a":"#1003, Innovalley B, 253, Pangyo-ro, Bundang-gu Seongnam-si Gyeonggi-do KR 13486","c":"KR","o":"hyBee Inc."}]);

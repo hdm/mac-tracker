@@ -1,1 +1,0 @@
-macDetailCallback("98ab15000000/24",[{"d":"2023-04-25","t":"add","s":"ieee-oui.csv","a":"No. 97-1, Sizhi South Road, Liuyi Fourth Road, Lianqiao Village, Chengxi Street, Gutian County, Ningde City, Fujian Province Ningde Fujian CN 352000","c":"CN","o":"Fujian Youyike Technology Co.,Ltd"}]);

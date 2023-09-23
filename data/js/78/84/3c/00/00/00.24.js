@@ -1,1 +1,0 @@
-macDetailCallback("78843c000000/24",[{"d":"2010-08-03","t":"add","a":"5-1-12 Kitashinagawa Shinagawa-ku\nTokyo  141-0001\n\n","c":"JAPAN","o":"Sony Corporation"},{"d":"2015-08-27","t":"change","a":"Gotenyama Tec,5-1-12, Shinagawa-ku Tokyo JP 141-0001","c":"JP","o":"Sony Corporation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64e7c000/36",[{"d":"2022-03-12","t":"add","s":"ieee-oui36.csv","a":"10F-1, No.18, Lane 609, Sec.5, Chung Hsin Rd., San Chung Dist. New Taipei City  TW 241","c":"TW","o":"Ashinne Technology Co., Ltd"}]);

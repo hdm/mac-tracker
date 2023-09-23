@@ -1,1 +1,0 @@
-macDetailCallback("0826aeb00000/28",[{"d":"2021-12-01","t":"add","s":"ieee-mam.csv","a":"Preobrazhenskaya square, 8, floor 27, pom. LXXXVI, room 1. Moscow Moscow RU 107061","c":"RU","o":"F-Plus Mobile LLC"}]);

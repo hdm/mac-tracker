@@ -1,1 +1,0 @@
-macDetailCallback("6c724a000000/24",[{"d":"2022-04-21","t":"add","s":"ieee-oui.csv","a":"Lux Building (5th floor),1-1-41 Kawamata Higashiosaka City Osaka JP 577-0063","c":"JP","o":"Onkyo Technology K.K."}]);

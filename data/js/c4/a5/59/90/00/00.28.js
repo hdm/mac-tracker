@@ -1,1 +1,0 @@
-macDetailCallback("c4a559900000/28",[{"d":"2022-10-22","t":"add","s":"ieee-mam.csv","a":"217, Huichao Building, A3(A4), Yantian Industrial Zone, Yantian Community, Xixiang Street, Bao 'an District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Meishifu Technology Co.,Ltd."}]);

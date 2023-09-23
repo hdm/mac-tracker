@@ -1,1 +1,0 @@
-macDetailCallback("60cbfb000000/24",[{"d":"2012-04-06","t":"add","a":"625 Charles Way\nMedford OR 97501\n\n","c":"UNITED STATES","o":"AirScape Inc."},{"d":"2015-08-27","t":"change","a":"625 Charles Way Medford OR US 97501","c":"US","o":"AirScape Inc."}]);

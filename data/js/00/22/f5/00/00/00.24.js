@@ -1,1 +1,0 @@
-macDetailCallback("0022f5000000/24",[{"d":"2008-07-30","t":"add","a":"Am Oeferl 6\nWeilheim Bayern D-82362\n\n","c":"GERMANY","o":"Advanced Realtime Tracking GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Am Oeferl 6 Weilheim Bayern DE D-82362","c":"DE","o":"Advanced Realtime Tracking GmbH"}]);

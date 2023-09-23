@@ -1,1 +1,0 @@
-macDetailCallback("2c16bd900000/28",[{"d":"2019-04-23","t":"add","s":"ieee-mam.csv","a":"4F , No 85, Lane 1198, North Qin Zhou Road, Xu Hui District Shanghai Shanghai CN 200233","c":"CN","o":"Shanghai Walktech Information Technology Co.,Ltd."}]);

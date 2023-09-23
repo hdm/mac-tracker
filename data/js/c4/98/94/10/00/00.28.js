@@ -1,1 +1,0 @@
-macDetailCallback("c49894100000/28",[{"d":"2022-07-23","t":"add","s":"ieee-mam.csv","a":"21st Floor, Block B-1, Building 9, Shenzhen Bay Science and Technology Ecological Park, Nanshan District shenzhen  CN 518000","c":"CN","o":"SEAVIEW TELECOM"}]);

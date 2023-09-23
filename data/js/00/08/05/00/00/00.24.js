@@ -1,1 +1,0 @@
-macDetailCallback("000805000000/24",[{"d":"2001-10-24","t":"add","a":"3-19-2, Takamatsu-cho\nTachikawa-shi\nTokyo  190-0011\n","c":"JAPAN","o":"Techno-Holon Corporation"},{"d":"2015-08-27","t":"change","a":"3-19-2, Takamatsu-cho Tokyo  JP 190-0011","c":"JP","o":"Techno-Holon Corporation"}]);

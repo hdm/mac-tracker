@@ -1,1 +1,0 @@
-macDetailCallback("2880a2000000/24",[{"d":"2017-04-20","t":"add","a":"9605 Scranton Road Suite 200 San Diego  US 92121","c":"US","o":"Novatel Wireless Solutions, Inc."},{"d":"2020-02-13","t":"change","s":"ieee-oui.csv","a":"9710 Scranton Rd., Suite 200 San Diego CA US 92121","c":"US","o":"Novatel Wireless Solutions, Inc."}]);

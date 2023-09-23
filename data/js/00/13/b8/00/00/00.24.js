@@ -1,1 +1,0 @@
-macDetailCallback("0013b8000000/24",[{"d":"2005-02-17","t":"add","a":"Unit E, Cartel Business Estate\nEdinburgh Way\nHarlow Essex CM20 2TT\n","c":"UNITED KINGDOM","o":"RyCo Electronic Systems Limited"},{"d":"2015-08-27","t":"change","a":"Unit E, Cartel Business Estate Harlow Essex GB CM20 2TT","c":"GB","o":"RyCo Electronic Systems Limited"}]);

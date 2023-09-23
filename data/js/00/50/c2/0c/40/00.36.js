@@ -1,1 +1,0 @@
-macDetailCallback("0050c20c4000/36",[{"a":"&f, No. 3, Alley 6, Lane 235 Taipei Hsien  TW","o":"InterEpoch Technology,INC.","d":"2008-07-30","t":"add","s":"ieee","c":"TW"},{"d":"2019-07-01","t":"change","s":"ieee-iab.csv","a":"&f, No. 3, Alley 6, Lane 235 Taipei Hsien  TW 000","c":"TW","o":"InterEpoch Technology,INC."}]);

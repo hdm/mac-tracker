@@ -1,1 +1,0 @@
-macDetailCallback("60843b000000/24",[{"d":"2012-03-17","t":"add","a":"195. S Milpitas Blvd\nMilpitas CA 95035\n\n","c":"UNITED STATES","o":"Soladigm, Inc."},{"d":"2015-08-27","t":"change","a":"195. S Milpitas Blvd Milpitas CA US 95035","c":"US","o":"Soladigm, Inc."}]);

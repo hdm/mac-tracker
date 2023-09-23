@@ -1,1 +1,0 @@
-macDetailCallback("8002f4300000/28",[{"d":"2022-03-25","t":"add","s":"ieee-mam.csv","a":"Room 207, Research Building, Tsinghua Information Port, No.1, Songpingshan New East Road, Nanshan District Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen Suanzi Technology Co., Ltd"}]);

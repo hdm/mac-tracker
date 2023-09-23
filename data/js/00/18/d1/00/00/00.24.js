@@ -1,1 +1,0 @@
-macDetailCallback("0018d1000000/24",[{"d":"2006-07-01","t":"add","a":"4849 Alpha Rd.\nDallas Texas 75244\n\n","c":"UNITED STATES","o":"Siemens Home & Office Comm. Devices"},{"d":"2015-08-27","t":"change","a":"4849 Alpha Rd. Dallas Texas US 75244","c":"US","o":"Siemens Home & Office Comm. Devices"}]);

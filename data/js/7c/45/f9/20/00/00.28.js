@@ -1,1 +1,0 @@
-macDetailCallback("7c45f9200000/28",[{"d":"2022-12-02","t":"add","s":"ieee-mam.csv","a":"Room 401&501, BuildingH,No.16, Ming Zhu 1st Road, She Bei Village, Huangjiang Town Dongguan Guangdong CN 523750","c":"CN","o":"Dongguan Boyye Industrial Co., Ltd"}]);

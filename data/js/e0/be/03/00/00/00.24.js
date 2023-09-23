@@ -1,1 +1,0 @@
-macDetailCallback("e0be03000000/24",[{"d":"2020-03-19","t":"add","s":"ieee-oui.csv","a":"30#Keji Rd,YinHu Industrial Area,Qingxi Town Dongguan City,Guang Dong China Dongguan Guang Dong CN 523648","c":"CN","o":"Lite-On Network Communication (Dongguan) Limited"}]);

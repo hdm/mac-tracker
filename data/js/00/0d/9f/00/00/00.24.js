@@ -1,1 +1,0 @@
-macDetailCallback("000d9f000000/24",[{"d":"2003-07-23","t":"add","a":"2191 Zanker Road\nSan Jose CA 95131\n\n","c":"UNITED STATES","o":"RF Micro Devices","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2191 Zanker Road San Jose CA US 95131","c":"US","o":"RF Micro Devices"}]);

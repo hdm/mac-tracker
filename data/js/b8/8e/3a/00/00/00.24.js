@@ -1,1 +1,0 @@
-macDetailCallback("b88e3a000000/24",[{"d":"2010-07-23","t":"add","a":"Office 3203, Level 32\nLiwa Heights Tower\nJumeirah Lake Towers Dubai\n","c":"UNITED ARAB EMIRATES","o":"Infinite Technologies JLT"},{"d":"2015-08-27","t":"change","a":"Office 3203, Level 32 Jumeirah Lake Towers Dubai AE","c":"AE","o":"Infinite Technologies JLT"}]);

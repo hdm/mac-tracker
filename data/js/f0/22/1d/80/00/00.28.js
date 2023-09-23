@@ -1,1 +1,0 @@
-macDetailCallback("f0221d800000/28",[{"d":"2022-09-08","t":"add","s":"ieee-mam.csv","a":"201 Block A, #1 Qianwan 1st Road, Qianhai Shenzhen-Hong Kong Cooperation Zone Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Glazero Technology Co., Ltd."}]);

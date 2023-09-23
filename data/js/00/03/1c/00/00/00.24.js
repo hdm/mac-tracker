@@ -1,1 +1,0 @@
-macDetailCallback("00031c000000/24",[{"d":"2000-09-08","t":"add","a":"Ole Romersvag 16, Ideon\nSE-223 70 Lund\n\n","c":"SWEDEN","o":"Svenska Hardvarufabriken AB"},{"d":"2015-08-27","t":"change","a":"Ole Romersvag 16, Ideon   SE","c":"SE","o":"Svenska Hardvarufabriken AB"}]);

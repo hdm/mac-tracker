@@ -1,1 +1,0 @@
-macDetailCallback("000cf0000000/24",[{"d":"2003-04-08","t":"add","a":"Dieselstr 18\nRosbach v.d.H. Hessen 61191\n\n","c":"GERMANY","o":"M & N GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Dieselstr 18 Rosbach v.d.H.  DE 61191","c":"DE","o":"M & N GmbH"}]);

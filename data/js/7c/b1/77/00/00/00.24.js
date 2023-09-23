@@ -1,1 +1,0 @@
-macDetailCallback("7cb177000000/24",[{"d":"2014-06-25","t":"add","a":"Seestrasse 241\nAu / Waedenswil ZH 8804\n\n","c":"SWITZERLAND","o":"Satelco AG"},{"d":"2015-08-27","t":"change","a":"Seestrasse 241 Au / Waedenswil ZH CH 8804","c":"CH","o":"Satelco AG"}]);

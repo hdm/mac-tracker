@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64638000/36",[{"d":"2021-09-02","t":"add","s":"ieee-oui36.csv","a":"9F., NO. 168, RUIGUANG RD., NEIHU DIST. TAIPEI CITY  TW 114","c":"TW","o":"THUNDER DATA TAIWAN CO., LTD."}]);

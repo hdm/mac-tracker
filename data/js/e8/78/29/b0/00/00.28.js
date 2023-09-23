@@ -1,1 +1,0 @@
-macDetailCallback("e87829b00000/28",[{"d":"2021-04-09","t":"add","s":"ieee-mam.csv","a":"","c":"","o":"Private"},{"d":"2022-06-21","t":"change","s":"ieee-mam.csv","a":"Lestikuja 2 Vaasa  FI 65380","c":"FI","o":"Ampner Ltd"}]);

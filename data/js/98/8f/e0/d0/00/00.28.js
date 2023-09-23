@@ -1,1 +1,0 @@
-macDetailCallback("988fe0d00000/28",[{"d":"2021-12-17","t":"add","s":"ieee-mam.csv","a":"83C21J, 3rd Floor, Tianjing Building, Tian'an Digital City, No. 6, Tairan 5th Road, Tian'an Community, Shatou Street, Futian District, Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Vitalitim Technology Co., Ltd"}]);

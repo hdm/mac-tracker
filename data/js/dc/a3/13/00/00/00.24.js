@@ -1,1 +1,0 @@
-macDetailCallback("dca313000000/24",[{"d":"2022-10-28","t":"add","s":"ieee-oui.csv","a":"6th Floor, Saibo Building, Tenglong Road, Minzhi Street, Longhua District, Shenzhen Shenzhen  CN 518000","c":"CN","o":"Shenzhen Changjin Communication Technology Co.,Ltd"}]);

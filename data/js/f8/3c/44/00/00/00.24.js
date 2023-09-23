@@ -1,1 +1,0 @@
-macDetailCallback("f83c44000000/24",[{"d":"2023-07-04","t":"add","s":"ieee-oui.csv","a":"Room 03, 23/F, Unit B Building, No 9, Shenzhen Bay Eco -Technology Park, Yuehai Street, Nanshan District, Shenzhen, China Shenzhen  CN 518000","c":"CN","o":"SHENZHEN TRANSCHAN TECHNOLOGY LIMITED"}]);

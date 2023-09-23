@@ -1,1 +1,0 @@
-macDetailCallback("943fbb000000/24",[{"d":"2021-11-07","t":"add","s":"ieee-oui.csv","a":"Room 65, Floor 2,  Building 1,  2A, Vokzalnaya Street Fryazino Moscow Region RU 141190","c":"RU","o":"JSC RPC Istok named after Shokin"}]);

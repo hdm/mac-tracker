@@ -1,1 +1,0 @@
-macDetailCallback("002529000000/24",[{"d":"2009-02-08","t":"add","a":"DON ARRIGONI N. 5\nSAN LORENZO, ROVETTA BERGAMO 24020\n\n","c":"ITALY","o":"COMELIT GROUP S.P.A","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"DON ARRIGONI N. 5 SAN LORENZO, ROVETTA BERGAMO IT 24020","c":"IT","o":"COMELIT GROUP S.P.A"}]);

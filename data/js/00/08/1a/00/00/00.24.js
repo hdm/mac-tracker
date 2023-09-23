@@ -1,1 +1,0 @@
-macDetailCallback("00081a000000/24",[{"d":"2001-10-24","t":"add","a":"32 Habarzel St., Entrace B\nTel-Aviv 69710\n\n","c":"ISRAEL","o":"Sanrad Intelligence Storage Communications (2000) Ltd."},{"d":"2015-08-27","t":"change","a":"32 Habarzel St., Entrace B   IL","c":"IL","o":"Sanrad Intelligence Storage Communications (2000) Ltd."}]);

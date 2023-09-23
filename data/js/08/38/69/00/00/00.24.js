@@ -1,1 +1,0 @@
-macDetailCallback("083869000000/24",[{"d":"2020-05-23","t":"add","s":"ieee-oui.csv","a":"8F.-1, No.700, Zhongzheng Rd., Zhonghe Dist. New Taipei City 235  TW 23552","c":"TW","o":"Hong Kong AMobile Intelligent Corp. Limited Taiwan Branch"}]);

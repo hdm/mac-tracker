@@ -1,1 +1,0 @@
-macDetailCallback("002676000000/24",[{"d":"2009-06-07","t":"add","a":"Kikregata 57-59\nLevanger Nord-Troendelag 7600\n\n","c":"NORWAY","o":"COMMidt AS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kikregata 57-59 Levanger Nord-Troendelag NO 7600","c":"NO","o":"COMMidt AS"}]);

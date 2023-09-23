@@ -1,1 +1,0 @@
-macDetailCallback("8c1f642cb000/36",[{"d":"2023-02-26","t":"add","s":"ieee-oui36.csv","a":"Unit 19 Innovation Centre\n320 Cambridge Science Park Cambridge Cambridgeshire GB CB4 0WG","c":"GB","o":"Smart Component Technologies Ltd"}]);

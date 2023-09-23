@@ -1,1 +1,0 @@
-macDetailCallback("fc6198000000/24",[{"d":"2009-09-17","t":"add","a":"6-80, Shimohanazawa 2-chome,\nYonezawa-shi Yamagata 992-8520\n\n","c":"JAPAN","o":"NEC Personal Products, Ltd"},{"d":"2015-08-27","t":"change","a":"6-80, Shimohanazawa 2-chome, Yonezawa-shi Yamagata JP 992-8520","c":"JP","o":"NEC Personal Products, Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64119000/36",[{"d":"2023-08-10","t":"add","s":"ieee-oui36.csv","a":"No. 53, Sec. 4, Zhongyang Rd., Tucheng Dist., New Taipei City  TW 236040","c":"TW","o":"Foxconn Technology Co., Ltd."}]);

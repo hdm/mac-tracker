@@ -1,1 +1,0 @@
-macDetailCallback("0c8629000000/28",[{"d":"2021-12-29","t":"add","s":"ieee-mam.csv","a":"9th Floor, Building 3, 1535 Hongmei Road, Xuhui District, Shanghai  CN 200030","c":"CN","o":"Shanghai Prophet Electronic Technology Co.,Ltd"}]);

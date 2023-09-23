@@ -1,1 +1,0 @@
-macDetailCallback("70b3d55bd000/36",[{"d":"2020-11-25","t":"add","s":"ieee-oui36.csv","a":"1209 sicox tower, 484 Dunchon-daero, jungwon-gu Sungnam-si gyeonggi-do KR 13229","c":"KR","o":"nexgenwave"}]);

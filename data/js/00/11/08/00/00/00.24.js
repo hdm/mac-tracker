@@ -1,1 +1,0 @@
-macDetailCallback("001108000000/24",[{"d":"2004-04-15","t":"add","a":"1900 S. Norfolk St. Ste 320\nSan Mateo CA 94403\n\n","c":"UNITED STATES","o":"Orbital Data Corporation"},{"d":"2015-08-27","t":"change","a":"1900 S. Norfolk St. Ste 320 San Mateo CA US 94403","c":"US","o":"Orbital Data Corporation"}]);

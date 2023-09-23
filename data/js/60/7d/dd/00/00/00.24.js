@@ -1,1 +1,0 @@
-macDetailCallback("607ddd000000/24",[{"d":"2021-07-22","t":"add","s":"ieee-oui.csv","a":"East Shangnan Road,Xinqiao Street Bao An District Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen Shichuangyi Electronics Co.,Ltd"}]);

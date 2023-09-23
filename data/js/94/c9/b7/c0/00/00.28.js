@@ -1,1 +1,0 @@
-macDetailCallback("94c9b7c00000/28",[{"d":"2021-10-23","t":"add","s":"ieee-mam.csv","a":"5-4 Shankeng Inner Ring Road, Shanxia Community, Pinghu Street, Longgang District Shenzhen Guangdong CN 518111","c":"CN","o":"Jinjin Technology (Shenzhen) Co., Ltd"}]);

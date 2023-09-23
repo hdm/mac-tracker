@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64f86000/36",[{"d":"2021-06-10","t":"add","s":"ieee-oui36.csv","a":"26, Namsan-ro 39beon-gil, Uichang-gu Changwon-si Gyeongsangnam-do KR 51368","c":"KR","o":"INFOSTECH Co., Ltd."}]);

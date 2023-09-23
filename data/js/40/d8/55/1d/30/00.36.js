@@ -1,1 +1,0 @@
-macDetailCallback("40d8551d3000/36",[{"a":"141, Saltykova-Schedrina Street Kaluga Kaluga region RU 248002","o":"Kaluga Teletypes Manufacturing Plant","d":"2013-12-15","t":"add","s":"ieee","c":"RU"}]);

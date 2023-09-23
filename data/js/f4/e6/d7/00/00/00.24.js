@@ -1,1 +1,0 @@
-macDetailCallback("f4e6d7000000/24",[{"d":"2011-09-15","t":"add","a":"3006 Bee Caves Rd.\nSuite A-330\nAustin Texas 78746\n","c":"UNITED STATES","o":"Solar Power Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"3006 Bee Caves Rd. Austin Texas US 78746","c":"US","o":"Solar Power Technologies, Inc."}]);

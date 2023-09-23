@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5780000/36",[{"d":"2019-07-13","t":"add","s":"ieee-oui36.csv","a":"Boulevard Marcellin Leroy zone industriel angoulême Angoulême  FR 16800","c":"FR","o":"NIDEC LEROY-SOMER"}]);

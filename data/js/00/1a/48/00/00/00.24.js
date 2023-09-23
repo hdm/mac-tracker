@@ -1,1 +1,0 @@
-macDetailCallback("001a48000000/24",[{"d":"2006-11-29","t":"add","a":"304-709 Aza-Nishiyanma\nOroshi-cho\nToki-shi Gifu-ken 509-5202\n","c":"JAPAN","o":"Takacom Corporation"},{"d":"2015-08-27","t":"change","a":"304-709 Aza-Nishiyanma Toki-shi Gifu-ken JP 509-5202","c":"JP","o":"Takacom Corporation"}]);

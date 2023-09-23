@@ -1,1 +1,0 @@
-macDetailCallback("4c5fd2000000/24",[{"d":"2011-07-26","t":"add","a":"777 East Middlefield Road\nMountain View CA 94043\n\n","c":"UNITED STATES","o":"Alcatel-Lucent"},{"d":"2015-08-27","t":"change","a":"777 East Middlefield Road Mountain View CA US 94043","c":"US","o":"Alcatel-Lucent"}]);

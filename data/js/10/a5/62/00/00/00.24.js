@@ -1,1 +1,0 @@
-macDetailCallback("10a562000000/24",[{"d":"2022-01-29","t":"add","s":"ieee-oui.csv","a":"Room 1302, Block A, Building 4, Tianan Cyber Park, Huangge Road,Longgang District Shenzhen Guangdong CN  518116","c":"CN","o":"Iton Technology Corp."}]);

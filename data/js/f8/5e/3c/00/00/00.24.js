@@ -1,1 +1,0 @@
-macDetailCallback("f85e3c000000/24",[{"d":"2018-05-15","t":"add","a":"4F,Bldg A2,Hedian Industrial Park,NO.8 Shijing Rd,Guanlan,Longhua District,ShenZhen,China shengzhen  CN 518110","c":"CN","o":"SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD"}]);

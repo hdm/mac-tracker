@@ -1,1 +1,0 @@
-macDetailCallback("000796000000/24",[{"d":"2001-10-24","t":"add","a":"10-1 Minami-kurokawa,\nAsao-ku, kawasaki,\nKanagawa  215-0034\n","c":"JAPAN","o":"LSI Systems, Inc."},{"d":"2015-08-27","t":"change","a":"10-1 Minami-kurokawa, Kanagawa  JP 215-0034","c":"JP","o":"LSI Systems, Inc."}]);

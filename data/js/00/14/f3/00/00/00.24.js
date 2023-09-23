@@ -1,1 +1,0 @@
-macDetailCallback("0014f3000000/24",[{"d":"2005-06-17","t":"add","a":"2235 Sheppard Ave East\nSuite1705\nTORONTO ONTARIO M2J 5B5\n","c":"CANADA","o":"ViXS Systems Inc"},{"d":"2015-08-27","t":"change","a":"2235 Sheppard Ave East TORONTO ONTARIO CA M2J 5B5","c":"CA","o":"ViXS Systems Inc"}]);

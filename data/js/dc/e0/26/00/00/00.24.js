@@ -1,1 +1,0 @@
-macDetailCallback("dce026000000/24",[{"d":"2014-12-06","t":"add","a":"2800 Western Ave\nSuite 212\nSeattle WA 98121\n","c":"UNITED STATES","o":"Patrol Tag, Inc"},{"d":"2015-08-27","t":"change","a":"2800 Western Ave Seattle WA US 98121","c":"US","o":"Patrol Tag, Inc"}]);

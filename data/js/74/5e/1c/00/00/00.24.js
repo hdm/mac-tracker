@@ -1,1 +1,0 @@
-macDetailCallback("745e1c000000/24",[{"d":"2011-03-12","t":"add","a":"1-1 Shin-ogura\nSaiwai-ku\nKawasaki-shi Kanagawa Prefecture 2120031\n","c":"JAPAN","o":"PIONEER CORPORATION"},{"d":"2015-08-27","t":"change","a":"1-1 Shin-ogura Kawasaki-shi Kanagawa Prefecture JP 2120031","c":"JP","o":"PIONEER CORPORATION"}]);

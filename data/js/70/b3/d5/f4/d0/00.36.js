@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5f4d000/36",[{"a":"Aerospace - ETS Clearwater Florida US 33764","o":"Honeywell","d":"2015-05-03","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-oui36.csv","a":"Aerospace - ETS Clearwater  US 33764","c":"US","o":"Honeywell"}]);

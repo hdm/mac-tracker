@@ -1,1 +1,0 @@
-macDetailCallback("0026d6000000/24",[{"d":"2009-07-14","t":"add","a":"Lanjiang Street Industrial Zone\nYuyao Zhejiang 315400\n\n","c":"CHINA","o":"Ningbo Andy Optoelectronic Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Lanjiang Street Industrial Zone Yuyao Zhejiang CN 315400","c":"CN","o":"Ningbo Andy Optoelectronic Co., Ltd."}]);

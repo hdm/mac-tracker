@@ -1,1 +1,0 @@
-macDetailCallback("00085a000000/24",[{"d":"2001-12-14","t":"add","a":"309E IT Venture Tower\n78, Garakbon-Dong, Songpa-Gu\nSeoul  138-803\n","c":"KOREA, REPUBLIC OF","o":"IntiGate Inc."},{"d":"2015-08-27","t":"change","a":"309E IT Venture Tower Seoul  KR 138-803","c":"KR","o":"IntiGate Inc."}]);

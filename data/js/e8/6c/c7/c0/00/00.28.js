@@ -1,1 +1,0 @@
-macDetailCallback("e86cc7c00000/28",[{"d":"2020-12-19","t":"add","s":"ieee-mam.csv","a":"Mironovskaya st., 33, bldg.26, floor 4, office 5 Moscow Russian Federation RU 105318","c":"RU","o":"Limited Liability Company M.S.Korp"}]);

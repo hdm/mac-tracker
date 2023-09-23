@@ -1,1 +1,0 @@
-macDetailCallback("58d6d3000000/24",[{"d":"2012-10-10","t":"add","a":"60 Baffin Place, Unit 5\nWaterloo Ontario N2V 1Z7\n\n","c":"CANADA","o":"Dairy Cheq Inc"},{"d":"2015-08-27","t":"change","a":"60 Baffin Place, Unit 5 Waterloo Ontario CA N2V 1Z7","c":"CA","o":"Dairy Cheq Inc"}]);

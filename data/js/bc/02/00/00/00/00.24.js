@@ -1,1 +1,0 @@
-macDetailCallback("bc0200000000/24",[{"d":"2012-03-02","t":"add","a":"100 West El Camino Real\nSuite 72\nMountain View CA 94041\n","c":"UNITED STATES","o":"Stewart Audio"},{"d":"2015-08-27","t":"change","a":"100 West El Camino Real Mountain View CA US 94041","c":"US","o":"Stewart Audio"}]);

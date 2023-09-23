@@ -1,1 +1,0 @@
-macDetailCallback("3018cf000000/24",[{"d":"2010-04-07","t":"add","a":"Birkenallee 113\nRheine NRW 48432\n\n","c":"GERMANY","o":"DEOS control systems GmbH"},{"d":"2015-08-27","t":"change","a":"Birkenallee 113 Rheine NRW DE 48432","c":"DE","o":"DEOS control systems GmbH"}]);

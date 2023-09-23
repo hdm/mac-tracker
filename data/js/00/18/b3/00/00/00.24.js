@@ -1,1 +1,0 @@
-macDetailCallback("0018b3000000/24",[{"d":"2006-07-01","t":"add","a":"18fl., In-Song bldg., 194-15,\nHeohyun-Dong, 1Ga, Jung-Gu\nSeoul  100-952\n","c":"KOREA, REPUBLIC OF","o":"TEC WizHome Co., Ltd."},{"d":"2015-08-27","t":"change","a":"18fl., In-Song bldg., 194-15, Seoul  KR 100-952","c":"KR","o":"TEC WizHome Co., Ltd."}]);

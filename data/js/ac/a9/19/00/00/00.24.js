@@ -1,1 +1,0 @@
-macDetailCallback("aca919000000/24",[{"d":"2014-01-17","t":"add","a":"Kastanienallee 8-10\nLorsch Hessen 64653\n\n","c":"GERMANY","o":"TrekStor GmbH"},{"d":"2015-08-27","t":"change","a":"Kastanienallee 8-10 Lorsch Hessen DE 64653","c":"DE","o":"TrekStor GmbH"}]);

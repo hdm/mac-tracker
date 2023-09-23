@@ -1,1 +1,0 @@
-macDetailCallback("348137000000/24",[{"d":"2012-03-13","t":"add","a":"UL.WADOWICKA 12\nKRAKOW woj. malopolskie 30-415\n\n","c":"POLAND","o":"UNICARD SA"},{"d":"2015-08-27","t":"change","a":"UL.WADOWICKA 12 KRAKOW woj. malopolskie PL 30-415","c":"PL","o":"UNICARD SA"}]);

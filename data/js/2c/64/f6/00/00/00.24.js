@@ -1,1 +1,0 @@
-macDetailCallback("2c64f6000000/24",[{"d":"2023-01-21","t":"add","s":"ieee-oui.csv","a":"14/F, 107 Middle Road, Xiantao Big Data Valley, Yubei District Chongqing Chongqing CN 401120","c":"CN","o":"Wu Qi Technologies,Inc."}]);

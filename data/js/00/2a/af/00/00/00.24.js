@@ -1,1 +1,0 @@
-macDetailCallback("002aaf000000/24",[{"d":"2012-03-06","t":"add","a":"Sinzinger Str. 3\nHochburg-Ach  5122\n\n","c":"AUSTRIA","o":"LARsys-Automation GmbH"},{"d":"2015-08-27","t":"change","a":"Sinzinger Str. 3 Hochburg-Ach  AT 5122","c":"AT","o":"LARsys-Automation GmbH"}]);

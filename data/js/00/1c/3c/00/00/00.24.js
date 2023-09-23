@@ -1,1 +1,0 @@
-macDetailCallback("001c3c000000/24",[{"d":"2007-05-13","t":"add","a":"111-3B Burbidge Street\nCoquitlam BC V3K 7B2\n\n","c":"CANADA","o":"Seon Design Inc."},{"d":"2015-08-27","t":"change","a":"111-3B Burbidge Street Coquitlam BC CA V3K 7B2","c":"CA","o":"Seon Design Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000f21000000/24",[{"d":"2004-01-23","t":"add","a":"5030 Sugarloaf Parkway\nPO Box 465447\nLawrenceville Ga 30042\n","c":"UNITED STATES","o":"Scientific Atlanta, Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5030 Sugarloaf Parkway Lawrenceville Ga US 30042","c":"US","o":"Scientific Atlanta, Inc"}]);

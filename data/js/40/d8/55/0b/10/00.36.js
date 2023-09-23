@@ -1,1 +1,0 @@
-macDetailCallback("40d8550b1000/36",[{"a":"Building 5, New Town Science & Technology Park Nanjing  US 210019","o":"Nanjing TIANSU Automation Control System Co., Ltd.","d":"2013-03-03","t":"add","s":"ieee","c":"US"}]);

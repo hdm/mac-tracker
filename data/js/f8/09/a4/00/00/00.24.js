@@ -1,1 +1,0 @@
-macDetailCallback("f809a4000000/24",[{"d":"2023-07-25","t":"add","s":"ieee-oui.csv","a":"No.63 Dulan Road, High-tech Development Zone Zhengzhou Henan CN 450001","c":"CN","o":"Henan Thinker Rail Transportation Research Inc."}]);

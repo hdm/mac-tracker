@@ -1,1 +1,0 @@
-macDetailCallback("148554000000/24",[{"d":"2023-03-31","t":"add","s":"ieee-oui.csv","a":"Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455","c":"CN","o":"Earda Technologies co Ltd"}]);

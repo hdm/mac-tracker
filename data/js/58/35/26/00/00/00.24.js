@@ -1,1 +1,0 @@
-macDetailCallback("583526000000/24",[{"d":"2019-07-11","t":"add","s":"ieee-oui.csv","a":"5F,No.9,Lane235,Pao-Chiao Rd., Hsin-Tien, New Taipei City    TW 23145","c":"TW","o":"DEEPLET TECHNOLOGY CORP"}]);

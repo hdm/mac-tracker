@@ -1,1 +1,0 @@
-macDetailCallback("000c37000000/24",[{"d":"2003-01-21","t":"add","a":"25188 Genesee Trail Road\nSuite 100\nGolden CO 80401\n","c":"UNITED STATES","o":"Geomation, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"25188 Genesee Trail Road Golden CO US 80401","c":"US","o":"Geomation, Inc."}]);

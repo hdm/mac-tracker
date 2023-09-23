@@ -1,1 +1,0 @@
-macDetailCallback("0055da900000/28",[{"a":"D3 Innovation Industrial Park, No. 800 Wangjiang West Road, Hefei Hi-tech Industrial Development Zone, Hefei City, Anhui Province, China Hefei Anhui CN 230088","o":"Quantum Communication Technology Co., Ltd.,Anhui","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

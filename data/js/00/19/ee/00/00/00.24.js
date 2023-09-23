@@ -1,1 +1,0 @@
-macDetailCallback("0019ee000000/24",[{"d":"2006-10-16","t":"add","a":"Via Safforze 8\nBELLUNO BL I-32100\n\n","c":"ITALY","o":"CARLO GAVAZZI CONTROLS SPA-Controls Division","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Safforze 8 BELLUNO BL IT I-32100","c":"IT","o":"CARLO GAVAZZI CONTROLS SPA-Controls Division"}]);

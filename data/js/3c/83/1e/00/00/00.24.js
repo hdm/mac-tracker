@@ -1,1 +1,0 @@
-macDetailCallback("3c831e000000/24",[{"d":"2015-07-02","t":"add","a":"250, Ouji 2-Chome\nKomaki Aichi 485-8551\n\n","c":"JAPAN","o":"CKD Corporation"},{"d":"2015-08-27","t":"change","a":"250, Ouji 2-Chome Komaki Aichi JP 485-8551","c":"JP","o":"CKD Corporation"}]);

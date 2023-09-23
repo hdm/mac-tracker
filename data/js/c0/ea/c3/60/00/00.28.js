@@ -1,1 +1,0 @@
-macDetailCallback("c0eac3600000/28",[{"d":"2022-11-23","t":"add","s":"ieee-mam.csv","a":"3, Xingfa South Road, Liwu Village, Wusha District, Chang'an Town, Dongguan City,  China Guang dong province  CN 523857","c":"CN","o":"Worldpass industrial Company Limited"}]);

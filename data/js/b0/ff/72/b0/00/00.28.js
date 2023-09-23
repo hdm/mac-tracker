@@ -1,1 +1,0 @@
-macDetailCallback("b0ff72b00000/28",[{"d":"2023-04-01","t":"add","s":"ieee-mam.csv","a":"Launch Industrial Park, No.4012, North of Wuhe Road, Bantian Street, Longgang District, Shenzhen Guangdong CN 518100","c":"CN","o":"Launch Tech Co., Ltd."}]);

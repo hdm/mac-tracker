@@ -1,1 +1,0 @@
-macDetailCallback("1845b3200000/28",[{"d":"2021-09-30","t":"add","s":"ieee-mam.csv","a":"Room c1-201, No. 127, huizhiqiao Road, high tech Zone Qingdao Shandong CN 266114","c":"CN","o":"Haier cloud Health Technology (Qingdao) Co., Ltd"}]);

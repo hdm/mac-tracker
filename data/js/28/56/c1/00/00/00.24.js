@@ -1,1 +1,0 @@
-macDetailCallback("2856c1000000/24",[{"d":"2017-07-13","t":"add","a":"15th Fl, 400 Atlantic Street Stamford CT US 06901","c":"US","o":"Harman International"},{"d":"2020-01-23","t":"change","s":"ieee-oui.csv","a":"15th Fl, 400 Atlantic Street Stamford CT US 06901","c":"US","o":"Harman/Becker Automotive Systems GmbH"}]);

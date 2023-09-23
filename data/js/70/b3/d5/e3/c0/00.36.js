@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5e3c000/36",[{"d":"2018-12-19","t":"add","s":"ieee-oui36.csv","a":"Unit 1, Saxon Way Melbourn Hertfordshire GB SG8 6DN","c":"GB","o":"Independent Project Engineering Lmited"},{"d":"2019-08-09","t":"change","s":"ieee-oui36.csv","a":"16 South Park Sevenoaks Kent GB TN13 1AN","c":"GB","o":"Densitron Technologies Ltd"}]);

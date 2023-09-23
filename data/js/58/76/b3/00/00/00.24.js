@@ -1,1 +1,0 @@
-macDetailCallback("5876b3000000/24",[{"d":"2023-05-02","t":"add","s":"ieee-oui.csv","a":"Flat/RM 1202, 12/F, AT Tower, 180 Electric Road North Point  HK 00000","c":"HK","o":"Ubee Interactive Co., Limited"}]);

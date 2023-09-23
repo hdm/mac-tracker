@@ -1,1 +1,0 @@
-macDetailCallback("0050c2281000/36",[{"a":"Hohstrass 1 Kloten Zuerich CH 8302","o":"CabTronix GmbH","d":"2008-07-30","t":"add","s":"ieee","c":"CH"},{"d":"2020-07-18","t":"change","s":"ieee-iab.csv","a":"Hohstrass 1 Kloten Zuerich CH 8302","c":"CH","o":"Cabtronix AG"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0c2755000000/24",[{"d":"2009-09-22","t":"add","a":"602, Centre Point, J.B.Nagar,\nAndheri-Kurla Road, Andheri (E)\nMumbai Maharashtra 400059\n","c":"INDIA","o":"Valuable Techologies Limited"},{"d":"2015-08-27","t":"change","a":"602, Centre Point, J.B.Nagar, Mumbai Maharashtra IN 400059","c":"IN","o":"Valuable Techologies Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c86c1e000000/24",[{"d":"2009-12-22","t":"add","a":"16-Parkovaja Street 26\nMoscow  105484\n\n","c":"RUSSIAN FEDERATION","o":"Display Systems Ltd"},{"d":"2015-08-27","t":"change","a":"16-Parkovaja Street 26 Moscow  RU 105484","c":"RU","o":"Display Systems Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("98a942000000/24",[{"d":"2020-04-03","t":"add","s":"ieee-oui.csv","a":"Room 1301, NO. 37 Jinlong , Nansha Street, Xiangjiang Financial Business Center, Nansha District Guangzhou Guangdong CN 511458","c":"CN","o":"Guangzhou Tozed Kangwei Intelligent Technology Co., LTD"}]);

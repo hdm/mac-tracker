@@ -1,1 +1,0 @@
-macDetailCallback("c0e911000000/24",[{"d":"2022-03-01","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2023-04-19","t":"change","s":"ieee-oui.csv","a":"1501 1st Ave S., #600 Seattle WA US 98134","c":"US","o":"RealNetworks"}]);

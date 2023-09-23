@@ -1,1 +1,0 @@
-macDetailCallback("ed52dc000000/24",[{"d":"2015-08-27","t":"add","a":"600 Brickell World Plaza, suite 1775\nMiami    33132\n\n","c":"US","o":"WORLD MEDIA AND TECHNOLOGY Corp."},{"d":"2015-09-02","t":"delete","a":"600 Brickell World Plaza, suite 1775\nMiami    33132\n\n","c":"US","o":"WORLD MEDIA AND TECHNOLOGY Corp."}]);

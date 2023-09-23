@@ -1,1 +1,0 @@
-macDetailCallback("cc988b000000/24",[{"d":"2018-06-20","t":"add","a":"2-10-1 Osaki\n\n\n","c":"Shinagawa-ku  Tokyo  141-8610","o":"SONY Visual Products Inc."},{"d":"2018-06-23","t":"change","a":"2-10-1 Osaki Shinagawa-ku Tokyo JP 141-8610","c":"JP","o":"SONY Visual Products Inc."}]);

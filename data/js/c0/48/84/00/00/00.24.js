@@ -1,1 +1,0 @@
-macDetailCallback("c04884000000/24",[{"d":"2022-12-21","t":"add","s":"ieee-oui.csv","a":"CEV?ZL?DERE MAH. 1226. SOK. NO:14/1 AYTUNA APT.  ANKARA  TR 06520","c":"TR","o":"Sigma Bilisim Sist. Tekn. Elk. Enj. ve San. D??. Tic. Ltd. ?ti."}]);

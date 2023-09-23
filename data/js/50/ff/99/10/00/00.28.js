@@ -1,1 +1,0 @@
-macDetailCallback("50ff99100000/28",[{"a":"24 quai Gallieni Suresnes  FR 92150","o":"Coyote Sytem","d":"2016-02-21","t":"add","s":"ieee","c":"FR"},{"d":"2022-01-13","t":"change","s":"ieee-mam.csv","a":"24 quai Gallieni Suresnes  FR 92150","c":"FR","o":"COYOTE SYSTEM"}]);

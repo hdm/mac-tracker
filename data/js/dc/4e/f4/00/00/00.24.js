@@ -1,1 +1,0 @@
-macDetailCallback("dc4ef4000000/24",[{"d":"2017-12-12","t":"add","a":"MTN Industrial Park, No. 5, 9 South Futai Road, Pingxi Community, Pingdi Street, Longgang District Shenzhen Guangdong CN 518117","c":"CN","o":"Shenzhen MTN Electronics CO., Ltd"}]);

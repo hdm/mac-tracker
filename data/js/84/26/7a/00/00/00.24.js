@@ -1,1 +1,0 @@
-macDetailCallback("84267a000000/24",[{"d":"2020-12-09","t":"add","s":"ieee-oui.csv","a":"Taide Technology Park,Jinfenghuang Industrial District, Fenggang Town, Dongguan GUANGDONG CN 523000","c":"CN","o":"GUANGDONG TAIDE ZHILIAN TECHNOLOGY CO.,LTD"}]);

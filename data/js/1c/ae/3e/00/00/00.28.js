@@ -1,1 +1,0 @@
-macDetailCallback("1cae3e000000/28",[{"d":"2021-07-28","t":"add","s":"ieee-mam.csv","a":"NO.359, ZHONGXIAO RD. CHISHANG TOWNSHIP TAITUNG COUNTY  TW 95861","c":"TW","o":"DAO QIN TECHNOLOGY CO.LTD."}]);

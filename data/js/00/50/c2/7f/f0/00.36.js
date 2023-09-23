@@ -1,1 +1,0 @@
-macDetailCallback("0050c27ff000/36",[{"a":"13/F,Fiyta Hi-tech Building,GaoXinnanyi Avenue,Southern District of Hi-tech Park,Nanshan District, Shenzhen Guangdong CN 518057","o":"Shenzhen MaiWei Cable TV Equipment CO.,LTD.","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

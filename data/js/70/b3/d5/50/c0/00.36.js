@@ -1,1 +1,0 @@
-macDetailCallback("70b3d550c000/36",[{"d":"2019-10-30","t":"add","s":"ieee-oui36.csv","a":"Gudun road Youpanshidai Center Hangzhou Zhejiang CN 310030","c":"CN","o":"Hangzhou landesker digital technology co. LTD"}]);

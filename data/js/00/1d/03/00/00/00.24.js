@@ -1,1 +1,0 @@
-macDetailCallback("001d03000000/24",[{"d":"2007-06-16","t":"add","a":"81 David Love Place\nGoleta Ca 93117\n\n","c":"UNITED STATES","o":"Design Solutions Inc."},{"d":"2015-08-27","t":"change","a":"81 David Love Place Goleta Ca US 93117","c":"US","o":"Design Solutions Inc."}]);

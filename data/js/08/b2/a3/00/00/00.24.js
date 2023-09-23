@@ -1,1 +1,0 @@
-macDetailCallback("08b2a3000000/24",[{"d":"2014-01-31","t":"add","a":"Via delle Mantellate, 8\nFirenze FI 59021\n\n","c":"ITALY","o":"Cynny Italia S.r.L."},{"d":"2015-08-27","t":"change","a":"Via delle Mantellate, 8 Firenze FI IT 59021","c":"IT","o":"Cynny Italia S.r.L."}]);

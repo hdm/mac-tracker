@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5867000/36",[{"d":"2020-04-05","t":"add","s":"ieee-oui36.csv","a":"20940 Twin Springs Drive Smithsburg  US 21783","c":"US","o":"Specialized Communications Corp."},{"d":"2023-03-11","t":"change","s":"ieee-oui36.csv","a":"20940 Twin Springs Drive Smithsburg null US 21783","c":"US","o":"Specialized Communications Corp."}]);

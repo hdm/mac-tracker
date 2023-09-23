@@ -1,1 +1,0 @@
-macDetailCallback("60d1aa000000/24",[{"d":"2012-05-12","t":"add","a":"25 Sitaram Building Dr D N Road\nFort Mumbai\nMumbai Maharastra 400001\n","c":"INDIA","o":"Vishal Telecommunications Pvt Ltd"},{"d":"2015-08-27","t":"change","a":"25 Sitaram Building Dr D N Road Mumbai Maharastra IN 400001","c":"IN","o":"Vishal Telecommunications Pvt Ltd"}]);

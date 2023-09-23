@@ -1,1 +1,0 @@
-macDetailCallback("041119800000/28",[{"d":"2020-12-18","t":"add","s":"ieee-mam.csv","a":"2305, block A7, Chuangzhi Yuncheng, Liuxian Avenue, Xili Town, Nanshan District ShenZhen GuangDong CN 518000","c":"CN","o":"Shenzhen YIZHENG Technology Co.,Ltd"}]);

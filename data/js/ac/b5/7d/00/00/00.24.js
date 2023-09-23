@@ -1,1 +1,0 @@
-macDetailCallback("acb57d000000/24",[{"d":"2014-09-12","t":"add","a":"4F, 90, Chien 1 Road\nChung Ho\nNew Taipei City Taiwan 23585\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Liteon Technology Corporation"},{"d":"2015-08-27","t":"change","a":"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585","c":"TW","o":"Liteon Technology Corporation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("140d4f000000/24",[{"d":"2013-05-18","t":"add","a":"2241 Lundy Ave.\nSan Jose CA 95131\n\n","c":"UNITED STATES","o":"Flextronics International"},{"d":"2015-08-27","t":"change","a":"Stretton Green Distribution Centre Langford Way Warrington Cheshire GB WA4 4TQ","c":"GB","o":"Flextronics International"}]);

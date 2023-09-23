@@ -1,1 +1,0 @@
-macDetailCallback("c49894900000/28",[{"d":"2022-07-27","t":"add","s":"ieee-mam.csv","a":"Room 402, Building 7, Hanwei International Zone 2, No. 186, South Fourth Ring West Road, Fengtai District, beijing  CN 100160","c":"CN","o":"Shenzhen  Hexin Automation Technology Co.,Ltd."}]);

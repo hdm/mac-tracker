@@ -1,1 +1,0 @@
-macDetailCallback("90834b000000/24",[{"d":"2017-11-28","t":"add","a":"1-411Room 19#Building No.26 Xihuan South Rd. BDA Daxing District, BEIJING  CN 100176","c":"CN","o":"BEIJING YUNYI TIMES TECHNOLOGY CO,.LTD"}]);

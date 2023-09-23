@@ -1,1 +1,0 @@
-macDetailCallback("18cc23000000/24",[{"d":"2014-01-01","t":"add","a":"8F., No.653-2, Zhongzheng Rd\nXinzhuang Dist.\nNew Taipei  242\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Philio Technology Corporation"},{"d":"2015-08-27","t":"change","a":"8F., No.653-2, Zhongzheng Rd New Taipei  TW 242","c":"TW","o":"Philio Technology Corporation"}]);

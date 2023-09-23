@@ -1,1 +1,0 @@
-macDetailCallback("001fa3000000/24",[{"d":"2008-02-09","t":"add","a":"2F,Baiying Building, No.1019,\nShenZhen GuangDong 518067\n\n","c":"CHINA","o":"T&W Electronics(Shenzhen)Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"2F,Baiying Building, No.1019, ShenZhen GuangDong CN 518067","c":"CN","o":"T&W Electronics(Shenzhen)Co.,Ltd."}]);

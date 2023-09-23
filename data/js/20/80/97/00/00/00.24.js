@@ -1,1 +1,0 @@
-macDetailCallback("208097000000/24",[{"d":"2021-09-12","t":"add","s":"ieee-oui.csv","a":"Room 1712-2, Building 4, Tian 'an Yungu Industrial Park, Gangtou Community, Bantian Street, Longgang District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen OXO Technology limited"}]);

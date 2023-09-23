@@ -1,1 +1,0 @@
-macDetailCallback("c82496000000/24",[{"d":"2022-03-25","t":"add","s":"ieee-oui.csv","a":"No.188 Nanhuan Road, TangQiao Town Zhangjiagang  Jiangsu  CN 215611","c":"CN","o":"Jiangsu Yinhe  Electronics Co.,Ltd."}]);

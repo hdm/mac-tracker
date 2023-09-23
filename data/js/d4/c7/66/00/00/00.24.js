@@ -1,1 +1,0 @@
-macDetailCallback("d4c766000000/24",[{"d":"2009-08-12","t":"add","a":"Venloer Strasse 151-153\nCologne  50672\n\n","c":"GERMANY","o":"Acentic GmbH"},{"d":"2015-08-27","t":"change","a":"Venloer Strasse 151-153 Cologne  DE 50672","c":"DE","o":"Acentic GmbH"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8cc5e1000000/24",[{"d":"2012-09-15","t":"add","a":"No.9008 Shennan Road\n,Overseas Chinese Town\nShenZhen GuangDong 518053\n","c":"CHINA","o":"ShenZhen Konka Telecommunication Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"No.9008 Shennan Road ShenZhen GuangDong CN 518053","c":"CN","o":"ShenZhen Konka Telecommunication Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("40ac8d000000/24",[{"d":"2012-03-13","t":"add","a":"3322 Loop 306\nSan Angelo Texas 76904\n\n","c":"UNITED STATES","o":"Data Management, Inc."},{"d":"2015-08-27","t":"change","a":"3322 Loop 306 San Angelo Texas US 76904","c":"US","o":"Data Management, Inc."}]);

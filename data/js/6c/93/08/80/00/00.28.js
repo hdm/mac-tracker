@@ -1,1 +1,0 @@
-macDetailCallback("6c9308800000/28",[{"d":"2022-01-09","t":"add","s":"ieee-mam.csv","a":"No. 19, Naxian street, Liangzhu street, Yuhang District Hangzhou City Zhejiang Province CN 31000","c":"CN","o":"Hangzhou Risco System Co.,Ltd"}]);

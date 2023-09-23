@@ -1,1 +1,0 @@
-macDetailCallback("585b69000000/24",[{"d":"2022-07-30","t":"add","s":"ieee-oui.csv","a":"23rd Floor Building B4 Block 9, Shenzhen Bay science and technology ecological garden, Nanshan District,  Shenzhen Guangdong CN 518057","c":"CN","o":"TVT CO., LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("acbe75000000/24",[{"d":"2010-03-28","t":"add","a":"46, Geumgok-dong, Bundang-gu\nSeong-nam-si Gyeonggi-do 463-804\n\n","c":"KOREA, REPUBLIC OF","o":"Ufine Technologies Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"46, Geumgok-dong, Bundang-gu Seong-nam-si Gyeonggi-do KR 463-804","c":"KR","o":"Ufine Technologies Co.,Ltd."}]);

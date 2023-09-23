@@ -1,1 +1,0 @@
-macDetailCallback("001df0000000/24",[{"d":"2007-09-25","t":"add","a":"4000 Burton Drive\nSanta Clara CA 94054\n\n","c":"UNITED STATES","o":"Vidient Systems, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4000 Burton Drive Santa Clara CA US 94054","c":"US","o":"Vidient Systems, Inc."}]);

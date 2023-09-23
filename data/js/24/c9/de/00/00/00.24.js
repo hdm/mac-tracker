@@ -1,1 +1,0 @@
-macDetailCallback("24c9de000000/24",[{"d":"2011-02-15","t":"add","a":"#812 Byucksan Technopia 434-6 Sangdaewon 1-Dong\nJungwon-Gu\nSeongnam-City Gyeonggi-Do 462-716\n","c":"KOREA, REPUBLIC OF","o":"Genoray"},{"d":"2015-08-27","t":"change","a":"#812 Byucksan Technopia 434-6 Sangdaewon 1-Dong Seongnam-City Gyeonggi-Do KR 462-716","c":"KR","o":"Genoray"}]);

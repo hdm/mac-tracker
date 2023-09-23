@@ -1,1 +1,0 @@
-macDetailCallback("b4a2eb000000/28",[{"d":"2019-04-13","t":"add","s":"ieee-mam.csv","a":"2F,Block A Building 17,NO. 1,Headquarter,No.4,Xinzhu Road,SSL National Hi-tech Industrial Development Zone Dongguan Guangdong CN 523808","c":"CN","o":"QKM Technology(Dongguan)Co.,Ltd"}]);

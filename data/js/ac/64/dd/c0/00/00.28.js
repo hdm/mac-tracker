@@ -1,1 +1,0 @@
-macDetailCallback("ac64ddc00000/28",[{"a":"Building C 02B-322, No.28A, Information Road, Haidian District BEIJING BEIJING CN 100000","o":"Beijing Hamigua Technology Co., Ltd.","d":"2016-07-10","t":"add","s":"ieee","c":"CN"}]);

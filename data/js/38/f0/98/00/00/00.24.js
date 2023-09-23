@@ -1,1 +1,0 @@
-macDetailCallback("38f098000000/24",[{"d":"2013-12-05","t":"add","a":"10000 Cavendish\nSaint-Laurent Quebec H4M2V1\n\n","c":"CANADA","o":"Vapor Stone Rail Systems"},{"d":"2015-08-27","t":"change","a":"10000 Cavendish Saint-Laurent Quebec CA H4M2V1","c":"CA","o":"Vapor Stone Rail Systems"}]);

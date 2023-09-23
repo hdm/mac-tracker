@@ -1,1 +1,0 @@
-macDetailCallback("98b785000000/24",[{"d":"2021-10-28","t":"add","s":"ieee-oui.csv","a":"Blg 3, COFCO, Liuxian 2nd Road, Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen 10Gtek Transceivers Co., Limited"}]);

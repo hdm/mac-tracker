@@ -1,1 +1,0 @@
-macDetailCallback("642216000000/24",[{"d":"2012-04-19","t":"add","a":"FL.6,Haichen Building\nWenhua(West) Road,Lixia District\nJinan Shandong 250010\n","c":"CHINA","o":"Shandong Taixin Electronic co.,Ltd"},{"d":"2015-08-27","t":"change","a":"FL.6,Haichen Building Jinan Shandong CN 250010","c":"CN","o":"Shandong Taixin Electronic co.,Ltd"}]);

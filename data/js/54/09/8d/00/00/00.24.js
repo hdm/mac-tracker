@@ -1,1 +1,0 @@
-macDetailCallback("54098d000000/24",[{"d":"2014-08-15","t":"add","a":"Hermann-Bahlsen-Str. 11\nBarsinghausen Niedersachsen 30890\n\n","c":"GERMANY","o":"deister electronic GmbH"},{"d":"2015-08-27","t":"change","a":"Hermann-Bahlsen-Str. 11 Barsinghausen Niedersachsen DE 30890","c":"DE","o":"deister electronic GmbH"}]);

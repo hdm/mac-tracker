@@ -1,1 +1,0 @@
-macDetailCallback("0462d7000000/24",[{"d":"2011-07-02","t":"add","a":"82 Avenue Leon Blum\nGRENOBLE  38041\n\n","c":"FRANCE","o":"ALSTOM HYDRO FRANCE"},{"d":"2015-08-27","t":"change","a":"82 Avenue Leon Blum GRENOBLE  FR 38041","c":"FR","o":"ALSTOM HYDRO FRANCE"}]);

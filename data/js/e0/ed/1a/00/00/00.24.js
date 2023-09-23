@@ -1,1 +1,0 @@
-macDetailCallback("e0ed1a000000/24",[{"d":"2011-07-12","t":"add","a":"A-6A Keshi Building,No.28,Xinxi Road,Haidian,\nBeijing  100085\n\n","c":"CHINA","o":"vastriver Technology Co., Ltd"},{"d":"2015-08-27","t":"change","a":"A-6A Keshi Building,No.28,Xinxi Road,Haidian, Beijing  CN 100085","c":"CN","o":"vastriver Technology Co., Ltd"}]);

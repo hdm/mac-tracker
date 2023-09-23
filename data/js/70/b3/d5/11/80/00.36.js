@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5118000/36",[{"d":"2020-09-29","t":"add","s":"ieee-oui36.csv","a":"W134N5345 Campbell Drive Menomonee Falls WI US 53051","c":"US","o":"Macromatic Industrial Controls, Inc."}]);

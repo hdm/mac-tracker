@@ -1,1 +1,0 @@
-macDetailCallback("0022a6000000/24",[{"d":"2008-07-19","t":"add","a":"919 East Hillsdale Blvd\nFoster City California 94404-2175\n\n","c":"UNITED STATES","o":"Sony Computer Entertainment America"},{"d":"2015-08-27","t":"change","a":"919 East Hillsdale Blvd Foster City California US 94404-2175","c":"US","o":"Sony Computer Entertainment America"}]);

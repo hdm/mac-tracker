@@ -1,1 +1,0 @@
-macDetailCallback("f469d5a00000/28",[{"d":"2020-05-28","t":"add","s":"ieee-mam.csv","a":"Qianhai,No.1 qianwan Road ShenZhen Guangdong CN 518000","c":"CN","o":"ShenZhenShi EVADA technology Co.,Ltd"}]);

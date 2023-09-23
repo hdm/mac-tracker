@@ -1,1 +1,0 @@
-macDetailCallback("b8b77d000000/24",[{"d":"2021-03-06","t":"add","s":"ieee-oui.csv","a":"Zone A, No.105 ,Dongli Road,  Torch Development District  Zhongshan ,  CN  528437   Zhongshan Guangdong CN 528437","c":"CN","o":"Guangdong Transtek Medical Electronics CO.,Ltd"}]);

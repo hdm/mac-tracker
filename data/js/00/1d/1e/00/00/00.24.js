@@ -1,1 +1,0 @@
-macDetailCallback("001d1e000000/24",[{"d":"2007-06-25","t":"add","a":"2360 YUNOKIMOTOMACHI\nSASEBO-City NAGASAKI Prefecture 857-0115\n\n","c":"JAPAN","o":"KYUSHU TEN CO.,LTD"},{"d":"2015-08-27","t":"change","a":"2360 YUNOKIMOTOMACHI SASEBO-City NAGASAKI Prefecture JP 857-0115","c":"JP","o":"KYUSHU TEN CO.,LTD"}]);

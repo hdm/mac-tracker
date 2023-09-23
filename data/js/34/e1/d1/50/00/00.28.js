@@ -1,1 +1,0 @@
-macDetailCallback("34e1d1500000/28",[{"d":"2019-01-05","t":"add","s":"ieee-mam.csv","a":"Unit 601,Tower One, Silvercord, 30 Canton Road, Tsim Sha Tsui Kowloon  HK 00000","c":"HK","o":"Doki Technologies Limited"}]);

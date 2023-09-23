@@ -1,1 +1,0 @@
-macDetailCallback("ec5b73000000/24",[{"d":"2019-02-16","t":"add","s":"ieee-oui.csv","a":"5F, No. 3-2, Industry East 9th Road, Hsinchu Science Park, Hsinchu City Hsinchu TW 30075","c":"TW","o":"Advanced & Wise Technology Corp."}]);

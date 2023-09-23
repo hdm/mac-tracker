@@ -1,1 +1,0 @@
-macDetailCallback("64f6bb000000/24",[{"d":"2019-12-25","t":"add","s":"ieee-oui.csv","a":"5/F,TowerA,Technology Building 2,1057 Nanhai Blvd, Nanshan Shenzhen 518000 CN Guangdong","c":"CN","o":"Fibocom Wireless Inc."}]);

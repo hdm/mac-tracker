@@ -1,1 +1,0 @@
-macDetailCallback("a8c222000000/24",[{"d":"2009-10-09","t":"add","a":"Hiyoshi Honcho 1-15-4\nKohoku-ku\nYokohama Kanagawa 223-0062\n","c":"JAPAN","o":"TM-Research Inc."},{"d":"2015-08-27","t":"change","a":"Hiyoshi Honcho 1-15-4 Yokohama Kanagawa JP 223-0062","c":"JP","o":"TM-Research Inc."}]);

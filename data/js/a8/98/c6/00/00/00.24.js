@@ -1,1 +1,0 @@
-macDetailCallback("a898c6000000/24",[{"d":"2011-09-08","t":"add","a":"203-14, Anyang 7-Dong, Manan-Gu\nAnyang-Si Kyungki-Do 430-817\n\n","c":"KOREA, REPUBLIC OF","o":"Shinbo Co., Ltd."},{"d":"2015-08-27","t":"change","a":"203-14, Anyang 7-Dong, Manan-Gu Anyang-Si Kyungki-Do KR 430-817","c":"KR","o":"Shinbo Co., Ltd."}]);

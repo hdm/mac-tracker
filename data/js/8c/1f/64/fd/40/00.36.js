@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64fd4000/36",[{"d":"2021-12-30","t":"add","s":"ieee-oui36.csv","a":"AV. SIGISMUNDO NUNES DE OLIVEIRA,570 CASA 324 MARILIA SAO PAULO BR 17512752","c":"BR","o":"EMBSYS SISTEMAS EMBARCADOS"}]);

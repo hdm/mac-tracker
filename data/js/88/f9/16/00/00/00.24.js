@@ -1,1 +1,0 @@
-macDetailCallback("88f916000000/24",[{"d":"2023-07-04","t":"add","s":"ieee-oui.csv","a":"151 Huizhiqiao Road, High tech Zone, Qingdao, Shandong Province Qingdao shandong CN 266114","c":"CN","o":"Qingdao Dayu Dance Digital Technology Co.,Ltd"}]);

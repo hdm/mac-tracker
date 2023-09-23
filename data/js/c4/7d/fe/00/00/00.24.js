@@ -1,1 +1,0 @@
-macDetailCallback("c47dfe000000/24",[{"d":"2013-03-20","t":"add","a":"Am Brauhaus 12\nDresden Saxony 01099\n\n","c":"GERMANY","o":"A.N. Solutions GmbH"},{"d":"2015-08-27","t":"change","a":"Am Brauhaus 12 Dresden Saxony DE 01099","c":"DE","o":"A.N. Solutions GmbH"}]);

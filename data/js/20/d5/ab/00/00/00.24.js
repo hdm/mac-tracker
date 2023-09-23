@@ -1,1 +1,0 @@
-macDetailCallback("20d5ab000000/24",[{"d":"2010-12-15","t":"add","a":"5F Wintek B/D 511\nPoil-dong\nUiwang Kyunggi-Do 437-830\n","c":"KOREA, REPUBLIC OF","o":"Korea Infocom Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"5F Wintek B/D 511 Uiwang Kyunggi-Do KR 437-830","c":"KR","o":"Korea Infocom Co.,Ltd."}]);

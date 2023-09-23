@@ -1,1 +1,0 @@
-macDetailCallback("001b28000000/24",[{"d":"2007-01-21","t":"add","a":"37/1, Karl Marx str., floor 5\nUfa Bashkortostan 450077\n\n","c":"RUSSIAN FEDERATION","o":"POLYGON, JSC"},{"d":"2015-08-27","t":"change","a":"37/1, Karl Marx str., floor 5 Ufa Bashkortostan RU 450077","c":"RU","o":"POLYGON, JSC"}]);

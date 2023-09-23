@@ -1,1 +1,0 @@
-macDetailCallback("001768000000/24",[{"d":"2006-03-06","t":"add","a":"Zinwave Ltd, Harston Mill\nHarston\nCambridge Cambridgeshire CB2 5GG\n","c":"UNITED KINGDOM","o":"Zinwave Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Zinwave Ltd, Harston Mill Cambridge Cambridgeshire GB CB2 5GG","c":"GB","o":"Zinwave Ltd"}]);

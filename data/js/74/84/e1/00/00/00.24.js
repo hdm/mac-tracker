@@ -1,1 +1,0 @@
-macDetailCallback("7484e1000000/24",[{"d":"2019-04-19","t":"add","s":"ieee-oui.csv","a":"NO.161 Kejizhong RoadLiuwu Shijie Town Dongguan Guangdong CN 523290","c":"CN","o":"Dongguan Haoyuan Electronics Co.,Ltd"}]);

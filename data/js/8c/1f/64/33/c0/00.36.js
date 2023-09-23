@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6433c000/36",[{"d":"2023-06-15","t":"add","s":"ieee-oui36.csv","a":"PLOT No. 428, Patparganj Industrial Area Delhi Delhi IN 110092","c":"IN","o":"HUBRIS TECHNOLOGIES PRIVATE LIMITED"}]);

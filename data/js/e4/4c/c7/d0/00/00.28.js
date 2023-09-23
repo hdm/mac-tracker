@@ -1,1 +1,0 @@
-macDetailCallback("e44cc7d00000/28",[{"d":"2018-12-01","t":"add","s":"ieee-mam.csv","a":"4/F, Chuangye Building, Seven-Star Park, Yu'an 2nd Road ShenZhen GuangDong CN 518000","c":"CN","o":"Telo Systems Limitd"}]);

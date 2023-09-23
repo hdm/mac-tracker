@@ -1,1 +1,0 @@
-macDetailCallback("687cd5000000/24",[{"d":"2013-02-15","t":"add","a":"Technicka 2948/13\nBrno Czech Republic 616 00\n\n","c":"CZECH REPUBLIC","o":"Y Soft Corporation, a.s."},{"d":"2015-08-27","t":"change","a":"Technicka 2948/13 Brno Czech Republic CZ 616 00","c":"CZ","o":"Y Soft Corporation, a.s."}]);

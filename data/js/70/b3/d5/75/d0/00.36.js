@@ -1,1 +1,0 @@
-macDetailCallback("70b3d575d000/36",[{"a":"Romm 701, Building C, Win-world Innovation Park Nanjing Jiangsu CN 211100","o":"Nanjing Magewell Electronics Co., Ltd.","d":"2014-08-24","t":"add","s":"ieee","c":"CN"}]);

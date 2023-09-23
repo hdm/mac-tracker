@@ -1,1 +1,0 @@
-macDetailCallback("dc84e9000000/24",[{"d":"2021-07-29","t":"add","s":"ieee-oui.csv","a":"Building A2, Chi Yuen Technology Park, 1001 College Avenue, Nanshan District, Shenzhen, P.R.C. Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Qihoo Intelligent Technology Co.,Ltd"}]);

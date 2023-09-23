@@ -1,1 +1,0 @@
-macDetailCallback("e43593000000/24",[{"d":"2009-12-21","t":"add","a":"Room1303,Boee building,3760 Nanhuan Road, Binjiang,\nHangzhou Zhejiang 310053\n\n","c":"CHINA","o":"Hangzhou GoTo technology Co.Ltd"},{"d":"2015-08-27","t":"change","a":"Room 1303,Boee buliding,3760 Nanhuan Road, Binjiang,  Hangzhou Zhejiang CN 310053","c":"CN","o":"Hangzhou GoTo technology Co.Ltd"}]);

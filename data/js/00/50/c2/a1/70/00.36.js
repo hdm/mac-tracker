@@ -1,1 +1,0 @@
-macDetailCallback("0050c2a17000/36",[{"a":"3F, NO. 4, LANE 263, CHUNG YANG RD., TAIPEI 115, TAIWAN TAIPEI  TW 115","o":"Winners Satellite Electronics Corp.","d":"2008-12-28","t":"add","s":"ieee","c":"TW"}]);

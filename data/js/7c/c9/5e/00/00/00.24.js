@@ -1,1 +1,0 @@
-macDetailCallback("7cc95e000000/24",[{"d":"2021-12-08","t":"add","s":"ieee-oui.csv","a":"F5, Building B, North Block, Gaosheng Tech Park, No. 84 Zhongli Road, Nancheng District, Dongguan Ci dongguan  guangdong CN 523000","c":"CN","o":"Dongguan Liesheng Electronic Co., Ltd."}]);

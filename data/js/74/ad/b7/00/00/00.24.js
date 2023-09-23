@@ -1,1 +1,0 @@
-macDetailCallback("74adb7000000/24",[{"d":"2013-04-30","t":"add","a":"32 Xuanwumen West Street\nXicheng District\nBeijing  100053\n","c":"CHINA","o":"China Mobile Group Device Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"32 Xuanwumen West Street Beijing  CN 100053","c":"CN","o":"China Mobile Group Device Co.,Ltd."}]);

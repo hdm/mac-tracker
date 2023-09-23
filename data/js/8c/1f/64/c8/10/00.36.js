@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64c81000/36",[{"d":"2022-10-13","t":"add","s":"ieee-oui36.csv","a":"Floor 5, Building 4, Shanghai Intelligent Sensing Industrial Park, 333 Huangqing Road, Jiading District Shanghai  CN 201899","c":"CN","o":"Taolink Technologies Corporation"}]);

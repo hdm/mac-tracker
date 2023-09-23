@@ -1,1 +1,0 @@
-macDetailCallback("5c6aec100000/28",[{"d":"2022-12-08","t":"add","s":"ieee-mam.csv","a":"Room 602, Building 8, No.1, Guangyue Branch Road, Hongkou District Shanghai  Shanghai CN 200434","c":"CN","o":"Shanghai Smilembb Technology Co.,LTD"}]);

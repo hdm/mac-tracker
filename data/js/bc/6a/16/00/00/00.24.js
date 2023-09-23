@@ -1,1 +1,0 @@
-macDetailCallback("bc6a16000000/24",[{"d":"2010-02-12","t":"add","a":"301 Maison Maru Building\n86-9 Nonheon-dong Gangnam-gu\nSeoul  135-010\n","c":"KOREA, REPUBLIC OF","o":"tdvine"},{"d":"2015-08-27","t":"change","a":"301 Maison Maru Building  Seoul  KR 135-010","c":"KR","o":"tdvine"}]);

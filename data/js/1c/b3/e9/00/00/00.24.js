@@ -1,1 +1,0 @@
-macDetailCallback("1cb3e9000000/24",[{"d":"2019-01-05","t":"add","s":"ieee-oui.csv","a":"6C jiajiahao commercial building, Shennan avenue Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Zhongke United Communication Technology"}]);

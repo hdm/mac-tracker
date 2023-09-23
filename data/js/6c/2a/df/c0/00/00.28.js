@@ -1,1 +1,0 @@
-macDetailCallback("6c2adfc00000/28",[{"d":"2023-02-23","t":"add","s":"ieee-mam.csv","a":"No. 206 Building 32, Ecool Golden Valley, Panyu District Guangzhou  CN 511496","c":"CN","o":"VNETS INFORMATION TECHNOLOGY LTD."}]);

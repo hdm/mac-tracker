@@ -1,1 +1,0 @@
-macDetailCallback("000ed2000000/24",[{"d":"2003-12-21","t":"add","a":"The Waterfront\nSalts Mill Rd\nSaltaire W Yorks BD18 3TT\n","c":"UNITED KINGDOM","o":"Filtronic plc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"The Waterfront Saltaire W Yorks GB BD18 3TT","c":"GB","o":"Filtronic plc"}]);

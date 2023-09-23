@@ -1,1 +1,0 @@
-macDetailCallback("d057a1000000/24",[{"d":"2013-12-14","t":"add","a":"Duerbheimer Strasse\nRietheim-Weilheim  78604\n\n","c":"GERMANY","o":"Werma Signaltechnik GmbH & Co. KG"},{"d":"2015-08-27","t":"change","a":"Duerbheimer Strasse Rietheim-Weilheim  DE 78604","c":"DE","o":"Werma Signaltechnik GmbH & Co. KG"}]);

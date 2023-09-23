@@ -1,1 +1,0 @@
-macDetailCallback("1407e0000000/24",[{"d":"2011-03-10","t":"add","a":"Forrlibuckstrasse 66\nZurich ZH 8005\n\n","c":"SWITZERLAND","o":"Abrantix AG"},{"d":"2011-03-11","t":"change","a":"Foerrlibuckstrasse 66\nZuerich ZH 8005\n\n","c":"SWITZERLAND","o":"Abrantix AG"},{"d":"2015-08-27","t":"change","a":"Foerrlibuckstrasse 66 Zuerich ZH CH 8005","c":"CH","o":"Abrantix AG"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("50a030700000/28",[{"d":"2021-10-24","t":"add","s":"ieee-mam.csv","a":"5th Floor, building 6, No. 2 Industrial Zone, Guanlong village, Xili town, Nanshan district,  Shenzhen  CN 518000","c":"CN","o":"Shenzhen Hewang Electric Co.,Ltd"}]);

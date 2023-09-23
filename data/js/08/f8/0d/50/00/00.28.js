@@ -1,1 +1,0 @@
-macDetailCallback("08f80d500000/28",[{"d":"2021-10-12","t":"add","s":"ieee-mam.csv","a":"14/ F, Building 36, Nantaihu Dongyuan Business Building, High-tech Zone, Wuxing District Huzhou Zhejiang CN 313000","c":"CN","o":"Zhejiang Luci Technology Co., Ltd"}]);

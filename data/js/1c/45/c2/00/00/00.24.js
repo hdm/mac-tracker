@@ -1,1 +1,0 @@
-macDetailCallback("1c45c2000000/24",[{"d":"2020-08-23","t":"add","s":"ieee-oui.csv","a":"Outside No.6 community, Zhongkai high tech Zone, Huizhou Huizhou  CN 516000","c":"CN","o":"Huizhou City Sunsin lntelligent Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000c4c000000/24",[{"d":"2003-01-21","t":"add","a":"Alfred-Herrhausen-Allee 1\nEschborn Hessen 65760\n\n","c":"GERMANY","o":"Arcor AG&Co.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Alfred-Herrhausen-Allee 1 Eschborn Hessen DE 65760","c":"DE","o":"Arcor AG&Co."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001337000000/24",[{"d":"2005-01-15","t":"add","a":"307 Harbour Centre, Tower 1,\n1 Hok Cheung Street, Hung Hom\n\n","c":"HONG KONG","o":"Orient Power Home Network Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"307 Harbour Centre, Tower 1,   HK","c":"HK","o":"Orient Power Home Network Ltd."}]);

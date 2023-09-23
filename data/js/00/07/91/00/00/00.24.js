@@ -1,1 +1,0 @@
-macDetailCallback("000791000000/24",[{"d":"2001-10-24","t":"add","a":"47873 Fremont Blvd.\nFremont CA 04538\n\n","c":"UNITED STATES","o":"International Data Communications, Inc."},{"d":"2015-08-27","t":"change","a":"47873 Fremont Blvd. Fremont CA US 04538","c":"US","o":"International Data Communications, Inc."}]);

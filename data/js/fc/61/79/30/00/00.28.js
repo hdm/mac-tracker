@@ -1,1 +1,0 @@
-macDetailCallback("fc6179300000/28",[{"d":"2022-04-23","t":"add","s":"ieee-mam.csv","a":"25/28 NORTH WALL QUAY, DUBLIN 1, D01H104\n        Ireland Dublin Ireland IE D01H104","c":"IE","o":"EchoStar Mobile"}]);

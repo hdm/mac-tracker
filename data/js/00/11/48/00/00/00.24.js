@@ -1,1 +1,0 @@
-macDetailCallback("001148000000/24",[{"d":"2004-05-11","t":"add","a":"Herstedvesterstraede 56\nAlbertslund  DK-2620\n\n","c":"DENMARK","o":"Prolon Control Systems","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Herstedvesterstraede 56 Albertslund  DK DK-2620","c":"DK","o":"Prolon Control Systems"}]);

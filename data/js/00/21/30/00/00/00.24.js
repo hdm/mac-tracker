@@ -1,1 +1,0 @@
-macDetailCallback("002130000000/24",[{"d":"2008-04-14","t":"add","a":"Ace twin tower I, 12th Fl.\n212-1, Guro-dong, guro-gu\nSeoul  152-050\n","c":"KOREA, REPUBLIC OF","o":"Keico Hightech Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Ace twin tower I, 12th Fl. Seoul  KR 152-050","c":"KR","o":"Keico Hightech Inc."}]);

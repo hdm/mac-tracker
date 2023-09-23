@@ -1,1 +1,0 @@
-macDetailCallback("00205a000000/24",[{"d":"1998-04-22","t":"add","a":"5 SHAWMUT ROAD\nCANTON  MA  02021\n\n","c":"UNITED STATES","o":"COMPUTER IDENTICS"},{"d":"2001-10-24","t":"change","a":"5 SHAWMUT ROAD\nCANTON MA 02021\n\n","c":"UNITED STATES","o":"COMPUTER IDENTICS"},{"d":"2015-08-27","t":"change","a":"5 SHAWMUT ROAD CANTON MA US 02021","c":"US","o":"COMPUTER IDENTICS"}]);

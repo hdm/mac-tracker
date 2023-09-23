@@ -1,1 +1,0 @@
-macDetailCallback("000e5b000000/24",[{"d":"2003-12-21","t":"add","a":"9432 Baymeadows Way\nSuite 150\nJacksonville FL 32246\n","c":"UNITED STATES","o":"ParkerVision - Direct2Data","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9432 Baymeadows Way Jacksonville FL US 32246","c":"US","o":"ParkerVision - Direct2Data"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001a69000000/24",[{"d":"2006-11-29","t":"add","a":"4#,Guanshan 2 Road\nWuhan Hubei 430073\n\n","c":"CHINA","o":"Wuhan Yangtze Optical Technology CO.,Ltd."},{"d":"2015-08-27","t":"change","a":"4#,Guanshan 2 Road Wuhan Hubei CN 430073","c":"CN","o":"Wuhan Yangtze Optical Technology CO.,Ltd."}]);

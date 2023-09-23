@@ -1,1 +1,0 @@
-macDetailCallback("54a493c00000/28",[{"d":"2019-07-26","t":"add","s":"ieee-mam.csv","a":"Rm2302,Block B,Haojing Building,Zhichun Road,Haidian District BeiJing BeiJing CN 100086","c":"CN","o":"BJ COTYTECH TECHNOLOGY CO.,LTD"}]);

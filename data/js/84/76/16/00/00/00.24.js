@@ -1,1 +1,0 @@
-macDetailCallback("847616000000/24",[{"d":"2013-09-04","t":"add","a":"U krematoria 24\nLiberec 4\n46001\n","c":"CZECH REPUBLIC","o":"Addat S.r.o."},{"d":"2015-08-27","t":"change","a":"U krematoria 24 Liberec Liberec CZ 46001","c":"CZ","o":"Addat s.r.o."}]);

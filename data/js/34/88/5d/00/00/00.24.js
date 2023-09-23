@@ -1,1 +1,0 @@
-macDetailCallback("34885d000000/24",[{"d":"2013-07-26","t":"add","a":"#2 Creation Rd. 4,\nScience-Based Ind. Park\nHsinchu  300\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Logitech Far East"},{"d":"2015-08-27","t":"change","a":"#2 Creation Rd. 4, Hsinchu  TW 300","c":"TW","o":"Logitech Far East"}]);

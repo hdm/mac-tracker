@@ -1,1 +1,0 @@
-macDetailCallback("f47626000000/24",[{"d":"2009-12-23","t":"add","a":"Kalvariju 125\nVilnius  LT-08221\n\n","c":"LITHUANIA","o":"Viltechmeda UAB "},{"d":"2010-01-07","t":"change","a":"Kalvariju 125\nVilnius  LT-08221\n\n","c":"LITHUANIA","o":"Viltechmeda UAB"},{"d":"2015-08-27","t":"change","a":"Kalvariju 125 Vilnius  LT LT-08221","c":"LT","o":"Viltechmeda UAB"}]);

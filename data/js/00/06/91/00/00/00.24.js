@@ -1,1 +1,0 @@
-macDetailCallback("000691000000/24",[{"d":"2001-06-04","t":"add","a":"Rua Eng. Jose F. Pinto Basto\n3810 Aveiro\n\n","c":"PORTUGAL","o":"PT Inovacao"},{"d":"2015-08-27","t":"change","a":"Rua Eng. Jose F. Pinto Basto   PT","c":"PT","o":"PT Inovacao"}]);

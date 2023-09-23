@@ -1,1 +1,0 @@
-macDetailCallback("089b4b000000/24",[{"d":"2015-06-11","t":"add","a":"So Boss Tech Center 2 # 716\nFengtai District Beijing 100068\n\n","c":"CHINA","o":"iKuai Networks"},{"d":"2015-08-27","t":"change","a":"So Boss Tech Center 2 # 716 Fengtai District Beijing CN 100068","c":"CN","o":"iKuai Networks"}]);

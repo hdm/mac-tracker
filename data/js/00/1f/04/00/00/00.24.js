@@ -1,1 +1,0 @@
-macDetailCallback("001f04000000/24",[{"d":"2007-12-31","t":"add","a":"40 Koroleva str.\n53 Pisareva str.\nNovosibirsk NSO 630015\n","c":"RUSSIAN FEDERATION","o":"Granch Ltd."},{"d":"2015-08-27","t":"change","a":"40 Koroleva str. Novosibirsk NSO RU 630015","c":"RU","o":"Granch Ltd."}]);

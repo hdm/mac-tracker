@@ -1,1 +1,0 @@
-macDetailCallback("7c6adb000000/24",[{"d":"2010-11-13","t":"add","a":"Room 323,ZhuouJi Plaza,No.16 AnDe Road,East District,\nBeijing  100011\n\n","c":"CHINA","o":"SafeTone Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Room 323,ZhuouJi Plaza,No.16 AnDe Road,East District, Beijing  CN 100011","c":"CN","o":"SafeTone Technology Co.,Ltd"}]);

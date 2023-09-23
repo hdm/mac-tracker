@@ -1,1 +1,0 @@
-macDetailCallback("283613000000/28",[{"d":"2021-06-17","t":"add","s":"ieee-mam.csv","a":"Rm301,Artificial Intelligence Building,Jingshi Road,Jinan Area Of China(Shandong) Pilot Free Trade Zone jinan  CN 250000","c":"CN","o":"Shandong SIASUN Industrial Software Research Institute Co., Ltd"}]);

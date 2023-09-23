@@ -1,1 +1,0 @@
-macDetailCallback("245bf0000000/24",[{"d":"2015-05-02","t":"add","a":"3001 Summit Avenue, Suite 400\nPlano Tx 75074\n\n","c":"UNITED STATES","o":"Liteon, Inc."},{"d":"2015-08-27","t":"change","a":"3001 Summit Avenue, Suite 400 Plano Tx US 75074","c":"US","o":"Liteon, Inc."}]);

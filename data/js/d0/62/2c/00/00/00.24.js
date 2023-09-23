@@ -1,1 +1,0 @@
-macDetailCallback("d0622c000000/24",[{"d":"2023-03-11","t":"add","s":"ieee-oui.csv","a":"Floor 5, Block C, Huanpu Industrial Park, 211 Tiangu 8th Road Xi 'an  Shaanxi CN 710076","c":"CN","o":"Xi'an Yipu Telecom Technology Co.,Ltd."}]);

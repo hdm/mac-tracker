@@ -1,1 +1,0 @@
-macDetailCallback("e04b41000000/24",[{"d":"2022-08-27","t":"add","s":"ieee-oui.csv","a":"Room 2502, area a, building 1, No. 57, jianger Road, Changhe street, Binjiang District, HangZhou ZheJiang  CN 310000","c":"CN","o":"Hangzhou Beilian Low Carbon Technology Co., Ltd."}]);

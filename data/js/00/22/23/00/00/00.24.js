@@ -1,1 +1,0 @@
-macDetailCallback("002223000000/24",[{"d":"2008-06-18","t":"add","a":"30700 Bainbridge Road\nSuite H\nSolon OH 44139\n","c":"UNITED STATES","o":"TimeKeeping Systems, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"30700 Bainbridge Road Solon OH US 44139","c":"US","o":"TimeKeeping Systems, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64fd5000/36",[{"d":"2023-03-11","t":"add","s":"ieee-oui36.csv","a":"22 Aizumi-cho,\nDaisan Yamada Bldg., Shinjuku-ku Tokyo JP 160-0005","c":"JP","o":"THE WHY HOW DO COMPANY, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000882000000/24",[{"d":"2001-12-14","t":"add","a":"2-3-15 Iwato-minami\nKomae-shi Tokyo 201-8630\n\n","c":"JAPAN","o":"SIGMA CORPORATION"},{"d":"2015-08-27","t":"change","a":"2-3-15 Iwato-minami Komae-shi Tokyo JP 201-8630","c":"JP","o":"SIGMA CORPORATION"}]);

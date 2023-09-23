@@ -1,1 +1,0 @@
-macDetailCallback("0008cc000000/24",[{"d":"2001-12-23","t":"add","a":"114 Union Valley Road\nOak Ridge TN 37830\n\n","c":"UNITED STATES","o":"Remotec, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"114 Union Valley Road Oakridge TN US 37830","c":"US","o":"Remotec, Inc."}]);

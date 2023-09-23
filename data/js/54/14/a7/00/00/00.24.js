@@ -1,1 +1,0 @@
-macDetailCallback("5414a7000000/24",[{"d":"2022-12-08","t":"add","s":"ieee-oui.csv","a":"No.18, Ningshuang Road  Nanjing Jiangsu CN 210012","c":"CN","o":"Nanjing Qinheng Microelectronics Co., Ltd."}]);

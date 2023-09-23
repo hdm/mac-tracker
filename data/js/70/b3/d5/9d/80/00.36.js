@@ -1,1 +1,0 @@
-macDetailCallback("70b3d59d8000/36",[{"d":"2021-03-25","t":"add","s":"ieee-oui36.csv","a":"2F., No. 13, Sec. 1, Yonghe Rd. Yonghe Dist., New Taipei City  TW 234014","c":"TW","o":"JOLANYEE  Technology Co., Ltd."}]);

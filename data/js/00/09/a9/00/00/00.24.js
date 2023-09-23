@@ -1,1 +1,0 @@
-macDetailCallback("0009a9000000/24",[{"d":"2002-03-29","t":"add","a":"47709 Fremont Blvd\nFremont CA 94538\n\n","c":"UNITED STATES","o":"Ikanos Communications","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"47709 Fremont Blvd Fremont CA US 94538","c":"US","o":"Ikanos Communications"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0024e6000000/24",[{"d":"2009-01-11","t":"add","a":"#350, 625 Agnes Street\nNew Westminster BC V3M 5Y4\n\n","c":"CANADA","o":"In Motion Technology Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#350, 625 Agnes Street New Westminster BC CA V3M 5Y4","c":"CA","o":"In Motion Technology Inc."}]);

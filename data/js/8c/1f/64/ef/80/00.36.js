@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64ef8000/36",[{"d":"2022-06-23","t":"add","s":"ieee-oui36.csv","a":"1281 Win Hentschel Blvd\nSuite 2161 West Lafayette IN US 47906","c":"US","o":"Northwest Central Indiana Community Partnerships Inc dba Wabash Heartland Innovation Network (WHIN)"}]);

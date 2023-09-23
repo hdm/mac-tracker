@@ -1,1 +1,0 @@
-macDetailCallback("c49894a00000/28",[{"d":"2022-07-28","t":"add","s":"ieee-mam.csv","a":"PLOTE- 6, 2ND FLOOR, OPP. HDFC BANK ,SAGAR PLAZA KAUSHAMBI  GHAZIABAD Utter Pradesh IN 201010","c":"IN","o":"Neron Informatics Pvt Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d44ca7000000/24",[{"d":"2009-09-22","t":"add","a":"1, build. 2/1, Verhnaya\nKrasnoselskaya St.\nMoscow  107140\n","c":"RUSSIAN FEDERATION","o":"Informtekhnika & Communication, LLC"},{"d":"2015-08-27","t":"change","a":"1, build. 2/1, Verhnaya Moscow  RU 107140","c":"RU","o":"Informtekhnika & Communication, LLC"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001e0c000000/24",[{"d":"2007-09-25","t":"add","a":"1120 W, 122nd Ave, Ste 300\nWestminster CO 80234\n\n","c":"UNITED STATES","o":"Sherwood Information Partners, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1120 W, 122nd Ave, Ste 300 Westminster CO US 80234","c":"US","o":"Sherwood Information Partners, Inc."}]);

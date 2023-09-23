@@ -1,1 +1,0 @@
-macDetailCallback("3a765d000000/24",[{"d":"2022-08-07","t":"add","s":"ieee-cid.csv","a":"Room 802, Floor 8, Building 8, Four District, East Tower, Wangjing, Chaoyang Beijing  CN 100102","c":"CN","o":"NewCoSemi(Beijing) Technology Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("304c7e000000/24",[{"d":"2011-01-19","t":"add","a":"2-9-18 Chidori\nOota-ku Tokyo 146-8540\n\n","c":"JAPAN","o":"Panasonic Electric Works Automation Controls Techno Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"2-9-18 Chidori Oota-ku Tokyo JP 146-8540","c":"JP","o":"Panasonic Electric Works Automation Controls Techno Co.,Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("002518000000/24",[{"d":"2009-02-01","t":"add","a":"Am Exerzierplatz 2\nMannheim Baden Wuerttemberg 68167\n\n","c":"GERMANY","o":"Power PLUS Communications AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Am Exerzierplatz 2 Mannheim Baden Wuerttemberg DE 68167","c":"DE","o":"Power PLUS Communications AG"}]);

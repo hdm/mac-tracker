@@ -1,1 +1,0 @@
-macDetailCallback("00081e000000/24",[{"d":"2001-12-14","t":"add","a":"Farogatan 7\nSE16440 Kista\n\n","c":"SWEDEN","o":"Repeatit AB"},{"d":"2015-08-27","t":"change","a":"Farogatan 7   SE","c":"SE","o":"Repeatit AB"}]);

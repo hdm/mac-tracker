@@ -1,1 +1,0 @@
-macDetailCallback("6cb0fd000000/24",[{"d":"2021-07-21","t":"add","s":"ieee-oui.csv","a":"South 8th Road, science and Technology Park, Nanshan District Shenzhen  CN 518063","c":"CN","o":"Shenzhen Xinghai Iot Technology Co.,Ltd"}]);

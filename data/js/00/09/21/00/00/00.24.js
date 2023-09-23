@@ -1,1 +1,0 @@
-macDetailCallback("000921000000/24",[{"d":"2002-01-30","t":"add","a":"Asentajankatu 6\nHELSINKI  00810 HELSIN\n\n","c":"FINLAND","o":"Planmeca Oy","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Asentajankatu 6 HELSINKI  FI 00810 HELSIN","c":"FI","o":"Planmeca Oy"}]);

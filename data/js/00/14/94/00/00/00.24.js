@@ -1,1 +1,0 @@
-macDetailCallback("001494000000/24",[{"d":"2005-05-07","t":"add","a":"Lukasstrasse 29\nSt. Gallen  9008\n\n","c":"SWITZERLAND","o":"ESU AG"},{"d":"2015-08-27","t":"change","a":"Lukasstrasse 29 St. Gallen  CH 9008","c":"CH","o":"ESU AG"}]);

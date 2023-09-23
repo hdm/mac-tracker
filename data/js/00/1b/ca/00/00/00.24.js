@@ -1,1 +1,0 @@
-macDetailCallback("001bca000000/24",[{"d":"2007-04-08","t":"add","a":"4/F, Hangtian Technology Building\nBeijing 100037\n\n","c":"CHINA","o":"Beijing Run Technology LTD. Company","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4/F, Hangtian Technology Building  Beijing CN 100037","c":"CN","o":"Beijing Run Technology LTD. Company"}]);

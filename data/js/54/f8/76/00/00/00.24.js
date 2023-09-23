@@ -1,1 +1,0 @@
-macDetailCallback("54f876000000/24",[{"d":"2014-06-17","t":"add","a":"Trafoweg 4\nHalle / Saale Saxony-Anhalt 06112\n\n","c":"GERMANY","o":"ABB AG"},{"d":"2015-08-27","t":"change","a":"Trafoweg 4 Halle / Saale Saxony-Anhalt DE 06112","c":"DE","o":"ABB AG"}]);

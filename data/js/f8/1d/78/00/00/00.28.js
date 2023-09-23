@@ -1,1 +1,0 @@
-macDetailCallback("f81d78000000/28",[{"a":"No.11,13,15,Zhongfang Industrial Road,Shatou,Changan Town Dongguan City Guangdong CN 523861","o":"Dongguan Shun Hing Plastics Limited","d":"2016-06-26","t":"add","s":"ieee","c":"CN"}]);

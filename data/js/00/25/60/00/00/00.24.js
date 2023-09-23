@@ -1,1 +1,0 @@
-macDetailCallback("002560000000/24",[{"d":"2009-03-01","t":"add","a":"28,Bedford Road East Ham\nLondon  E6 2NN\n\n","c":"UNITED KINGDOM","o":"Ibridge Networks & Communications Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"28,Bedford Road East Ham London  GB E6 2NN","c":"GB","o":"Ibridge Networks & Communications Ltd."}]);

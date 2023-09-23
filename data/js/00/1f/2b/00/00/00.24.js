@@ -1,1 +1,0 @@
-macDetailCallback("001f2b000000/24",[{"d":"2007-12-31","t":"add","a":"#706 AceTechnoTower 10-cha,470-5\nGasan-dong Geumcheon-gu\nSEOUL  153-789\n","c":"KOREA, REPUBLIC OF","o":"Orange Logic"},{"d":"2015-08-27","t":"change","a":"#706 AceTechnoTower 10-cha,470-5 SEOUL  KR 153-789","c":"KR","o":"Orange Logic"}]);

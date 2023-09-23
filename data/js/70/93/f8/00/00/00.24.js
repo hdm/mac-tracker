@@ -1,1 +1,0 @@
-macDetailCallback("7093f8000000/24",[{"d":"2012-06-20","t":"add","a":"7707 south main street\nSuite 103\nMidvale Utah 84047\n","c":"UNITED STATES","o":"Space Monkey, Inc."},{"d":"2015-08-27","t":"change","a":"7707 south main street Midvale Utah US 84047","c":"US","o":"Space Monkey, Inc."}]);

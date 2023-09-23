@@ -1,1 +1,0 @@
-macDetailCallback("0016fc000000/24",[{"d":"2006-01-04","t":"add","a":"2-27-7 Tamagawa\nChofu Tokyo 182-0025\n\n","c":"JAPAN","o":"TOHKEN CO.,LTD."},{"d":"2006-04-08","t":"change","a":"2-16-20 Tamagawa\nChofu Tokyo 182-0025\n\n","c":"JAPAN","o":"TOHKEN CO.,LTD."},{"d":"2015-08-27","t":"change","a":"2-16-20 Tamagawa Chofu Tokyo JP 182-0025","c":"JP","o":"TOHKEN CO.,LTD."}]);

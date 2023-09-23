@@ -1,1 +1,0 @@
-macDetailCallback("001df1000000/24",[{"d":"2007-09-25","t":"add","a":"5343 Bowden Road\nJacksonville FL 32216\n\n","c":"UNITED STATES","o":"Intego Systems, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5343 Bowden Road Jacksonville FL US 32216","c":"US","o":"Intego Systems, Inc."}]);

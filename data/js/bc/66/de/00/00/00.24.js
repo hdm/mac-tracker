@@ -1,1 +1,0 @@
-macDetailCallback("bc66de000000/24",[{"d":"2016-12-21","t":"add","a":"Shanghai City, Pudong New Area Zhangjiang road 368, Building 29, room 611  Shanghai Shanghai CN 200120","c":"CN","o":"Shadow Creator Information Technology Co.,Ltd."}]);

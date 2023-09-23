@@ -1,1 +1,0 @@
-macDetailCallback("94fba7b00000/28",[{"d":"2020-03-10","t":"add","s":"ieee-mam.csv","a":"Rm.622,building B,MingYou Industrial products Exhibition&Procurement center, Baoyuan Road,Xixiang,Bao’an District, Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Golden Star Technology Ltd"}]);

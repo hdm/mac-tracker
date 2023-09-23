@@ -1,1 +1,0 @@
-macDetailCallback("dcdb70000000/24",[{"d":"2015-03-26","t":"add","a":"Anger20\nFalkenstein / Harz OT Ermsleben Sachsen-Anhalt 06463\n\n","c":"GERMANY","o":"Tonfunk Systementwicklung und Service GmbH"},{"d":"2015-08-27","t":"change","a":"Anger20 Falkenstein / Harz OT Ermsleben Sachsen-Anhalt DE 06463","c":"DE","o":"Tonfunk Systementwicklung und Service GmbH"}]);

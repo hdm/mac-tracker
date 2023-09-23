@@ -1,1 +1,0 @@
-macDetailCallback("8c192dd00000/28",[{"a":"6F, No. 1353, Chung Cheng Rd., Taoyuan Dist., Taoyuan City Select State TW 33071","o":"Pyras Technology Inc.","d":"2016-04-10","t":"add","s":"ieee","c":"TW"}]);

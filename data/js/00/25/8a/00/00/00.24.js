@@ -1,1 +1,0 @@
-macDetailCallback("00258a000000/24",[{"d":"2009-03-22","t":"add","a":"5530 Union Centre Drive\nWest Chester OH 45069\n\n","c":"UNITED STATES","o":"Pole/Zero Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5530 Union Centre Drive West Chester OH US 45069","c":"US","o":"Pole/Zero Corporation"}]);

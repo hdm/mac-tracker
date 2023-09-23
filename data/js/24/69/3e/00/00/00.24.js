@@ -1,1 +1,0 @@
-macDetailCallback("24693e000000/24",[{"d":"2015-01-29","t":"add","a":"5F., No. 237, Sec. 1, Datong Rd., Xizhi Dist.\nNew Taipei City Taiwan 221\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"innodisk Corporation"},{"d":"2015-08-27","t":"change","a":"5F., No. 237, Sec. 1, Datong Rd., Xizhi Dist. New Taipei City Taiwan TW 221","c":"TW","o":"innodisk Corporation"}]);

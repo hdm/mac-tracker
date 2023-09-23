@@ -1,1 +1,0 @@
-macDetailCallback("0050c2987000/36",[{"a":"19F., No. 79, Sec. 1, Sintai 5th Rd., Sijhih City Taipei County Taiwan TW 221","o":"Joinsoon Electronics MFG. Co., Ltd","d":"2008-10-08","t":"add","s":"ieee","c":"TW"}]);

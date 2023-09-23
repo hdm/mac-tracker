@@ -1,1 +1,0 @@
-macDetailCallback("b00247000000/24",[{"a":"3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu Hsinchu Taiwan ROC. TW 30352","o":"AMPAK Technology, Inc.","d":"2018-09-07","t":"add","s":"ieee","c":"TW"}]);

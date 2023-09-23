@@ -1,1 +1,0 @@
-macDetailCallback("cc4f5cc00000/28",[{"d":"2020-08-07","t":"add","s":"ieee-mam.csv","a":"Rm2302,Block B,Haojing Building,Zhichunlu,Haidian District,Beijing Beijing  CN 100192","c":"CN","o":"Beijing Cotytech Technology Co.,LTD."}]);

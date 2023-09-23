@@ -1,1 +1,0 @@
-macDetailCallback("f4a454a00000/28",[{"d":"2021-09-25","t":"add","s":"ieee-mam.csv","a":"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409","c":"IL","o":"Annapurna labs"}]);

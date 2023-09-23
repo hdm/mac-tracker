@@ -1,1 +1,0 @@
-macDetailCallback("602a54000000/24",[{"d":"2010-06-25","t":"add","a":"Amerikalaan 70\nMaastricht Airport Limburg 6199AE\n\n","c":"NETHERLANDS","o":"CardioTek B.V."},{"d":"2015-08-27","t":"change","a":"Amerikalaan 70 Maastricht Airport Limburg NL 6199AE","c":"NL","o":"CardioTek B.V."}]);

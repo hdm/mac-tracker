@@ -1,1 +1,0 @@
-macDetailCallback("d4823e000000/24",[{"d":"2010-02-06","t":"add","a":"73-221 Haystack Road\nPalm Desert CA 92260\n\n","c":"UNITED STATES","o":"Argosy Technologies, Ltd."},{"d":"2015-08-27","t":"change","a":"73-221 Haystack Road Palm Desert CA US 92260","c":"US","o":"Argosy Technologies, Ltd."}]);

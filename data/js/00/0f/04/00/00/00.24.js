@@ -1,1 +1,0 @@
-macDetailCallback("000f04000000/24",[{"d":"2003-12-21","t":"add","a":"10813 nw 30th street\nmiami florida 33172\n\n","c":"UNITED STATES","o":"cim-usa inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"10813 nw 30th street miami florida US 33172","c":"US","o":"cim-usa inc"}]);

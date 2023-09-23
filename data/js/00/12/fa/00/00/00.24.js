@@ -1,1 +1,0 @@
-macDetailCallback("0012fa000000/24",[{"d":"2004-12-11","t":"add","a":"5201 Great America Parkway\nSuite 320\nSanta Clara CA 95054\n","c":"UNITED STATES","o":"THX LTD"},{"d":"2015-08-27","t":"change","a":"5201 Great America Parkway Santa Clara CA US 95054","c":"US","o":"THX LTD"}]);

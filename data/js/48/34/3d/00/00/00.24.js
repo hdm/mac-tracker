@@ -1,1 +1,0 @@
-macDetailCallback("48343d000000/24",[{"d":"2009-08-27","t":"add","a":"Am Pferdemarkt 9c\nLangenhagen Niedersachsen 30853\n\n","c":"GERMANY","o":"IEP GmbH"},{"d":"2015-08-27","t":"change","a":"Am Pferdemarkt 9c Langenhagen Niedersachsen DE 30853","c":"DE","o":"IEP GmbH"}]);

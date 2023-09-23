@@ -1,1 +1,0 @@
-macDetailCallback("883cc5c00000/28",[{"d":"2022-06-03","t":"add","s":"ieee-mam.csv","a":"Avenida Abiurana, 1150 - Distrito Manaus MN BR 69075-010","c":"BR","o":"HDL da Amazônia Industria Eletrônica Ltda"}]);

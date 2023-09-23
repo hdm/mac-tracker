@@ -1,1 +1,0 @@
-macDetailCallback("1054d2b00000/28",[{"d":"2021-12-22","t":"add","s":"ieee-mam.csv","a":"Shenzhen Qianhai Shenzhen-Hong Kong Cooperation Zone Nanshan Street Linhai Avenue No. 59 Seaside Avenue 3rd Floor D378, Port Building, Shipping Center Shenzhen  CN 518000","c":"CN","o":"Shenzhen Dinstech Technology Co.,Ltd."}]);

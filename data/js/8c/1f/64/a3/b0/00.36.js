@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64a3b000/36",[{"d":"2023-01-15","t":"add","s":"ieee-oui36.csv","a":"Jiangnan Hi-tech Park Licheng District  Quanzhou Fujian CN 362000","c":"CN","o":"Fujian Satlink Electronics Co., Ltd"}]);

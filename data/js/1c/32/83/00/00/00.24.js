@@ -1,1 +1,0 @@
-macDetailCallback("1c3283000000/24",[{"d":"2022-05-08","t":"add","s":"ieee-oui.csv","a":"Building 7/6 building 6 room 307, Area A, Baoan Internet Industrial Base, Mabu Community, Xixiang Street, Baoan District, Shenzhen Guangdong CN 518000","c":"CN","o":"COMTTI Intelligent Technology(Shenzhen) Co., Ltd."}]);

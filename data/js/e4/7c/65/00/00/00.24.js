@@ -1,1 +1,0 @@
-macDetailCallback("e47c65000000/24",[{"d":"2019-10-24","t":"add","s":"ieee-oui.csv","a":"4F,Building D1, Mould Industrial Park, No.199 of Xiqu Ave,West High-tech Zone Chengdu Sichuan CN 611731","c":"CN","o":"Sunstar Communication Technology  Co., Ltd"}]);

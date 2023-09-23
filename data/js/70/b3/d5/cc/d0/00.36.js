@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5ccd000/36",[{"a":"Building #3,No.9 Xuesen Road,Science&Technology Town,Suzhou New District Suzhou Jiangsu CN 215000","o":"Suzhou PowerCore Technology Co.,Ltd.","d":"2016-07-24","t":"add","s":"ieee","c":"CN"}]);

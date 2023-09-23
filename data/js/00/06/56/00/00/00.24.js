@@ -1,1 +1,0 @@
-macDetailCallback("000656000000/24",[{"d":"2001-06-04","t":"add","a":"Norra Vallgatan 64\nSE-211 22 Malmo\n\n","c":"SWEDEN","o":"Tactel AB"},{"d":"2015-08-27","t":"change","a":"Norra Vallgatan 64   SE","c":"SE","o":"Tactel AB"}]);

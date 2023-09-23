@@ -1,1 +1,0 @@
-macDetailCallback("a086ec000000/24",[{"d":"2011-11-15","t":"add","a":"16-3, Yongsu-ri, Chowol-eup\nGwangju-si, Gyeonggi-do  464-865\n\n","c":"KOREA, REPUBLIC OF","o":"SAEHAN HITEC Co., Ltd"},{"d":"2015-08-27","t":"change","a":"16-3, Yongsu-ri, Chowol-eup Gwangju-si, Gyeonggi-do  KR 464-865","c":"KR","o":"SAEHAN HITEC Co., Ltd"}]);

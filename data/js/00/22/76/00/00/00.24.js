@@ -1,1 +1,0 @@
-macDetailCallback("002276000000/24",[{"d":"2008-06-18","t":"add","a":"Vaassenseweg 71\nEmst  8166 AT\n\n","c":"NETHERLANDS","o":"Triple EYE B.V.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Vaassenseweg 71 Emst  NL 8166 AT","c":"NL","o":"Triple EYE B.V."}]);

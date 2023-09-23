@@ -1,1 +1,0 @@
-macDetailCallback("8485e6000000/24",[{"d":"2018-11-02","t":"add","s":"ieee-oui.csv","a":"Changsheng Road, Songxia Industrial Park, Songgang, Shishan Town, Nanhai  Foshan  Guangdong, China. CN 528200","c":"CN","o":"Guangdong Asano Technology CO.,Ltd."}]);

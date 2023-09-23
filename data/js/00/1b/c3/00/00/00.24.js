@@ -1,1 +1,0 @@
-macDetailCallback("001bc3000000/24",[{"d":"2007-04-08","t":"add","a":"848-16\nGuyeong-Dong\nGumi Gyeongbuk 730-300\n","c":"KOREA, REPUBLIC OF","o":"Mobisolution Co.,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"848-16 Gumi Gyeongbuk KR 730-300","c":"KR","o":"Mobisolution Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00249d000000/24",[{"d":"2008-12-07","t":"add","a":"#205 ACE Technotower 10, 470-5 Gasan-dong\nGeumcheon-gu\nSeoul  153-789\n","c":"KOREA, REPUBLIC OF","o":"NES Technology Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#205 ACE Technotower 10, 470-5 Gasan-dong Seoul  KR 153-789","c":"KR","o":"NES Technology Inc."}]);

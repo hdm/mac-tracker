@@ -1,1 +1,0 @@
-macDetailCallback("1ca0d3100000/28",[{"a":"Via Giovanni Francesco Maggio'  Agglomerato Industriale marcianise caserta IT 81025","o":"Jabil circuit italia srl","d":"2016-11-27","t":"add","s":"ieee","c":"IT"}]);

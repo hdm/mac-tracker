@@ -1,1 +1,0 @@
-macDetailCallback("90837a000000/24",[{"d":"2013-10-18","t":"add","a":"6060 Spine Road\nBoulder Colorado 80301-3687\n\n","c":"UNITED STATES","o":"General Electric Water & Process Technologies"},{"d":"2015-08-27","t":"change","a":"6060 Spine Road Boulder Colorado US 80301-3687","c":"US","o":"General Electric Water & Process Technologies"}]);

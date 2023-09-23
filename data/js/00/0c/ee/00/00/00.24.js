@@ -1,1 +1,0 @@
-macDetailCallback("000cee000000/24",[{"d":"2003-04-08","t":"add","a":"Ryesgade 18-20\nAarhus jylland 8000\n\n","c":"DENMARK","o":"Q-Networks","s":"wireshark.org"},{"d":"2006-01-27","t":"change","a":"Buen 21, Nr. Dalby\nBorup  4140\n\n","c":"DENMARK","o":"jp-embedded"},{"d":"2015-08-27","t":"change","a":"Buen 21, Nr. Dalby Borup  DK 4140","c":"DK","o":"jp-embedded"}]);

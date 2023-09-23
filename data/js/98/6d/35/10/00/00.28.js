@@ -1,1 +1,0 @@
-macDetailCallback("986d35100000/28",[{"a":"Nanshan District  Xili academy Avenue Tong Long Industrial A District 7 Building 3 floor shenzhen guandong CN 518000","o":"Shenzhen cositea electronics technology co.,LTD","d":"2016-01-10","t":"add","s":"ieee","c":"CN"}]);

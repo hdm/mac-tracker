@@ -1,1 +1,0 @@
-macDetailCallback("f0d3a7000000/24",[{"d":"2013-09-05","t":"add","a":"Room 409,Humanteco Building,#281-16\nSeongsu-Dong,Seongdong-Gu\nSeoul  133120\n","c":"KOREA, REPUBLIC OF","o":"CobaltRay Co., Ltd"},{"d":"2015-08-27","t":"change","a":"Room 409,Humanteco Building,#281-16 Seoul  KR 133120","c":"KR","o":"CobaltRay Co., Ltd"}]);

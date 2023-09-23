@@ -1,1 +1,0 @@
-macDetailCallback("60cda9000000/24",[{"d":"2014-04-05","t":"add","a":"Room 501 ,CTS Building,No 1 Beishatan Chaoyang District\nBeiJing  100083\n\n","c":"CHINA","o":"Abloomy"},{"d":"2015-08-27","t":"change","a":"Room 501 ,CTS Building,No 1 Beishatan Chaoyang District BeiJing  CN 100083","c":"CN","o":"Abloomy"}]);

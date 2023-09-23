@@ -1,1 +1,0 @@
-macDetailCallback("00057c000000/24",[{"d":"2001-04-17","t":"add","a":"Box 705\nSE 176 27 Jarfalla\n\n","c":"SWEDEN","o":"RCO Security AB","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Box 705   SE","c":"SE","o":"RCO Security AB"}]);

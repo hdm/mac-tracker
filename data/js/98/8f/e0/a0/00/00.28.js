@@ -1,1 +1,0 @@
-macDetailCallback("988fe0a00000/28",[{"d":"2021-12-17","t":"add","s":"ieee-mam.csv","a":"Lot F1-2-3, Thang Long Vinh Phuc IP., Tam Hop Commune, Binh Xuyen District Vinh Phuc  VN 35000","c":"VN","o":"Pavana Technologies JSC."}]);

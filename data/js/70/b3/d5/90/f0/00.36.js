@@ -1,1 +1,0 @@
-macDetailCallback("70b3d590f000/36",[{"a":"A18 Bellville Business Park, cnr Mike Pienaar blvd & Voortrekker road Bellville Western Cape ZA 7530","o":"DTRON Communications (Pty) Ltd","d":"2017-04-02","t":"add","s":"ieee","c":"ZA"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0013f8000000/24",[{"d":"2005-03-10","t":"add","a":"10 Junction Road Parktown\n2nd Floor BP House\nJohannesburg Guteng 2000\n","c":"SOUTH AFRICA","o":"Dex Security Solutions"},{"d":"2015-08-27","t":"change","a":"10 Junction Road Parktown Johannesburg Guteng ZA 2000","c":"ZA","o":"Dex Security Solutions"}]);

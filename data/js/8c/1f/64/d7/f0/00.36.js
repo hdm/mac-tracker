@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64d7f000/36",[{"d":"2022-12-11","t":"add","s":"ieee-oui36.csv","a":"Office no 907,9th Floor,Clover Hills Plaza,NIBM Road,Kondhwa,  Pune Maharashtra IN 411048","c":"IN","o":"Fiberstory communications Pvt Ltd"}]);

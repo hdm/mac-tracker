@@ -1,1 +1,0 @@
-macDetailCallback("9401ac000000/24",[{"d":"2022-04-07","t":"add","s":"ieee-oui.csv","a":"Unit 1301, Building B4, Wuhan future science and Technology City, Gaoxin Avenue, Wuhan East Lake New-Technology Development Zone Wuhan Hubei CN 430206","c":"CN","o":"Wuhan Qianyang Iotian Technology Co., Ltd"}]);

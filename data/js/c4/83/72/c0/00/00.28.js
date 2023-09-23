@@ -1,1 +1,0 @@
-macDetailCallback("c48372c00000/28",[{"d":"2022-07-09","t":"add","s":"ieee-mam.csv","a":"Room 706,7th Floor,Building G2,TCL International City E,No.1001,Zhongshanyuan Road,Nanshan District, Shenzhen  CN 518055","c":"CN","o":"Acenew technology(shenzhen) limited company"}]);

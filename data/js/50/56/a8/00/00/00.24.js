@@ -1,1 +1,0 @@
-macDetailCallback("5056a8000000/24",[{"d":"2013-10-29","t":"add","a":"Itaemerenkatu 11-13\nHelsinki 00180\n\n","c":"FINLAND","o":"Jolla Ltd"},{"d":"2015-08-27","t":"change","a":"Itaemerenkatu 11-13  Helsinki US 00180","c":"US","o":"Jolla Ltd"}]);

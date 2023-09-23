@@ -1,1 +1,0 @@
-macDetailCallback("001a3b000000/24",[{"d":"2006-11-29","t":"add","a":"8th fl. Century Plaza, 277-40\nSungsu-2Ga 3Dong\nSeoul  133-123\n","c":"KOREA, REPUBLIC OF","o":"Doah Elecom Inc."},{"d":"2015-08-27","t":"change","a":"8th fl. Century Plaza, 277-40 Seoul  KR 133-123","c":"KR","o":"Doah Elecom Inc."}]);

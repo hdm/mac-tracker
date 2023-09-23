@@ -1,1 +1,0 @@
-macDetailCallback("70b3d54d1000/36",[{"a":"Batu Berendam FTZ, PO Box 39,75700 Malacca, Malaysia. Melacca No State MY 75700","o":"Contraves Advanced Devices Sdn. Bhd.","d":"2015-08-30","t":"add","s":"ieee","c":"MY"}]);

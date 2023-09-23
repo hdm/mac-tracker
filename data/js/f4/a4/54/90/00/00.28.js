@@ -1,1 +1,0 @@
-macDetailCallback("f4a454900000/28",[{"d":"2021-09-21","t":"add","s":"ieee-mam.csv","a":"L15 Block 5C, Huaqiang idea Park, Guangming District Shenzhen Guangdong CN 518000","c":"CN","o":"Lonton infomation tech Ltd., Co"}]);

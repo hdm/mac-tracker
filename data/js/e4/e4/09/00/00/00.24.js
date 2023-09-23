@@ -1,1 +1,0 @@
-macDetailCallback("e4e409000000/24",[{"d":"2012-10-11","t":"add","a":"Leifhheitstreet\nNassau Rheinland-Pfalz 56377\n\n","c":"GERMANY","o":"LEIFHEIT AG"},{"d":"2015-08-27","t":"change","a":"Leifhheitstreet Nassau Rheinland-Pfalz DE 56377","c":"DE","o":"LEIFHEIT AG"}]);

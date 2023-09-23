@@ -1,1 +1,0 @@
-macDetailCallback("70b3d534f000/36",[{"d":"2020-07-14","t":"add","s":"ieee-oui36.csv","a":"203 2nd Floor Jyoti Building 66 Nehru Place New Delhi  IN 110019","c":"IN","o":"Royal Engineering Consultancy Private Limited"}]);

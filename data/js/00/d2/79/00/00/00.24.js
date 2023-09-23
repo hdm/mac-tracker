@@ -1,1 +1,0 @@
-macDetailCallback("00d279000000/24",[{"d":"2019-07-01","t":"add","s":"ieee-oui.csv","a":"Number 7, Bang Lang 1 street, Long Bien district Ha Noi Ha Noi VN 100000","c":"VN","o":"VINGROUP JOINT STOCK COMPANY"}]);

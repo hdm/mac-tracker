@@ -1,1 +1,0 @@
-macDetailCallback("ccef03000000/24",[{"d":"2019-07-09","t":"add","s":"ieee-oui.csv","a":"No. 19 Building, CEC Software Park, No. 39 jianshan Rd Changsha Hunan CN 410205","c":"CN","o":"Hunan Keyshare Communication Technology Co., Ltd."}]);

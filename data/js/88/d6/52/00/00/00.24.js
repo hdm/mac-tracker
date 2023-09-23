@@ -1,1 +1,0 @@
-macDetailCallback("88d652000000/24",[{"d":"2018-01-25","t":"add","a":"2315 Briargate Pkwy, Suite 100\nColorado Springs  CO  80920\n\n","c":"UNITED STATES","o":"AMERGINT Technologies"},{"d":"2018-01-30","t":"change","a":"2315 Briargate Pkwy, Suite 100 Colorado Springs CO US 80920","c":"US","o":"AMERGINT Technologies"}]);

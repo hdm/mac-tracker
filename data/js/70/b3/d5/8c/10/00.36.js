@@ -1,1 +1,0 @@
-macDetailCallback("70b3d58c1000/36",[{"a":"Room 505, Building A, No.88,Dazhou Road,Tiexinqiao,Yu huatai District, Nanjing City, Jiangsu Province,P.R.China +0086 25 52895099                 52890138 info@rievtech.com sales@rievtech.com Nanjing City Jiangsu Province CN 210000","o":"Rievtech Electronic Co.,Ltd","d":"2017-03-26","t":"add","s":"ieee","c":"CN"}]);

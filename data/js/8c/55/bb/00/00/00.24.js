@@ -1,1 +1,0 @@
-macDetailCallback("8c55bb000000/24",[{"d":"2020-08-29","t":"add","s":"ieee-oui.csv","a":"24-9, Jinju-daero 404beon-gil, Jinju-si, Gyeongsangnam-do, Korea  Jinju Gyeongsangnam-do KR 52826","c":"KR","o":"Songwoo Information & Technology Co., Ltd"}]);

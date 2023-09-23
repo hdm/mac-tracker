@@ -1,1 +1,0 @@
-macDetailCallback("d8860b800000/28",[{"d":"2018-11-13","t":"add","s":"ieee-mam.csv","a":"PLOT NO.283, SECTOR 7, IMT MANESAR, GURGAON  INDIA HARYANA IN 122050","c":"IN","o":"VRINDA NANO TECHNOLOGIES PVT LTD"}]);

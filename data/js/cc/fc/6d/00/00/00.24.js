@@ -1,1 +1,0 @@
-macDetailCallback("ccfc6d000000/24",[{"d":"2010-12-03","t":"add","a":"BOZIDAREVICEVA 13\nP.O.BOX 654\nZAGREB  10000\n","c":"CROATIA","o":"RIZ TRANSMITTERS"},{"d":"2015-08-27","t":"change","a":"BOZIDAREVICEVA 13 ZAGREB  HR 10000","c":"HR","o":"RIZ TRANSMITTERS"}]);

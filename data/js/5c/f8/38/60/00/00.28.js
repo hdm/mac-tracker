@@ -1,1 +1,0 @@
-macDetailCallback("5cf838600000/28",[{"d":"2023-08-23","t":"add","s":"ieee-mam.csv","a":"Building 2,Number 625, Juxiang Road, Zhangpu Town. KUNSHAN Jiangsu CN 215300","c":"CN","o":"Kunshan Baifeng Intelligent Technology Co.,Ltd"}]);

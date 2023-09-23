@@ -1,1 +1,0 @@
-macDetailCallback("0025f7000000/24",[{"d":"2009-04-26","t":"add","a":"1000 Technology Drive\nUnion Switch & Signal Building\nPittsburgh PA 15219\n","c":"UNITED STATES","o":"Ansaldo STS USA","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1000 Technology Drive Pittsburgh PA US 15219","c":"US","o":"Ansaldo STS USA"}]);

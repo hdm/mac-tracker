@@ -1,1 +1,0 @@
-macDetailCallback("001561000000/24",[{"d":"2005-08-04","t":"add","a":"678 Massachusetts Ave\nSuite 503\nCambridge MA 02139\n","c":"UNITED STATES","o":"JJPlus Corporation"},{"d":"2015-08-27","t":"change","a":"678 Massachusetts Ave Cambridge MA US 02139","c":"US","o":"JJPlus Corporation"}]);

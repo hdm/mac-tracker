@@ -1,1 +1,0 @@
-macDetailCallback("742b0f000000/24",[{"d":"2011-05-25","t":"add","a":"11 Galgalei Haplada St.\nP.O.B 12696\nHerzliya Pituach Center 46722\n","c":"ISRAEL","o":"Infinidat Ltd."},{"d":"2015-08-27","t":"change","a":"11 Galgalei Haplada St. Herzliya Pituach Center IL 46722","c":"IL","o":"Infinidat Ltd."}]);

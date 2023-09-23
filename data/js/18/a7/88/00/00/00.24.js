@@ -1,1 +1,0 @@
-macDetailCallback("18a788000000/24",[{"d":"2023-05-16","t":"add","s":"ieee-oui.csv","a":"Room 6C, 6th Floor, KeChuang Mansion, Quanzhi Technology Park, HouTing, Shajing Town, BaoAn District Shenzhen GuangDong CN 518104","c":"CN","o":"Shenzhen MEK Intellisys Pte Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001732000000/24",[{"d":"2006-01-30","t":"add","a":"st. Abramtsevskaja, h.9\nMoscow  128572\n\n","c":"RUSSIAN FEDERATION","o":"Science-Technical Center \"RISSA\""},{"d":"2015-08-27","t":"change","a":"st. Abramtsevskaja, h.9 Moscow  RU 128572 ","c":"RU","o":"Science-Technical Center \"RISSA\""}]);

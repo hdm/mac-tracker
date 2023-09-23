@@ -1,1 +1,0 @@
-macDetailCallback("e8611f000000/24",[{"d":"2013-08-02","t":"add","a":"NO.15 Huake Street,Hi-Tech Zone\nTianjin 300384\n\n","c":"CHINA","o":"Dawning Information Industry Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"NO.15 Huake Street,Hi-Tech Zone   Tianjin CN 300384","c":"CN","o":"Dawning Information Industry Co.,Ltd"}]);

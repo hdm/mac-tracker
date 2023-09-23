@@ -1,1 +1,0 @@
-macDetailCallback("b875c0000000/24",[{"d":"2014-01-21","t":"add","a":"2211 North 1st Street\nSan Jose California 95131\n\n","c":"UNITED STATES","o":"PayPal, Inc."},{"d":"2015-08-27","t":"change","a":"2211 North 1st Street San Jose California US 95131","c":"US","o":"PayPal, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f649a6000/36",[{"d":"2021-11-10","t":"add","s":"ieee-oui36.csv","a":"Rua Martinho Rodrigues, 331 - FÁTIMA, , 60411-280 FORTALEZA CEARÁ BR 60411-280","c":"BR","o":"INSTITUTO DE GESTÃO, REDES TECNOLÓGICAS E NERGIAS"}]);

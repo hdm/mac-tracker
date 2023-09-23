@@ -1,1 +1,0 @@
-macDetailCallback("506255500000/28",[{"d":"2019-09-04","t":"add","s":"ieee-mam.csv","a":"Room 907,No. 99 Changli Road Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou Ruixinjie Information Technology Co.,Ltd"}]);

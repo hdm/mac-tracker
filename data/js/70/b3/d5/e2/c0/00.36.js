@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5e2c000/36",[{"a":"91 Bhuvaneshwari Nagar, CV Raman Nagar Post Bangalore Karnataka IN 560093","o":"Fourth Frontier Technologies Private Limited","d":"2016-12-18","t":"add","s":"ieee","c":"IN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64fcc000/36",[{"d":"2022-09-11","t":"add","s":"ieee-oui36.csv","a":"9F., No. 170, Sec. 3, Minquan E. Rd., Songshan Dist. Taipei City  TW 105603","c":"TW","o":"GREDMANN TAIWAN LTD."}]);

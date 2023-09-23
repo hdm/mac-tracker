@@ -1,1 +1,0 @@
-macDetailCallback("4cbc98d00000/28",[{"d":"2018-11-21","t":"add","s":"ieee-mam.csv","a":"C-323,Baoan,Xinyidai Info.Tech.Industrial Park, No.139 Chuangye Er Rd.,Baoan District Shenzhen Guangdong CN 518101","c":"CN","o":"Elink Technology (Shenzhen) Co., Limited"}]);

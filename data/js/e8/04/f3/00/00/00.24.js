@@ -1,1 +1,0 @@
-macDetailCallback("e804f3000000/24",[{"d":"2012-06-26","t":"add","a":"4F, no. 221, Chong-yang Rd.\nNangang Dist\nTaipei  11573\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Throughtek Co., Ltd."},{"d":"2015-08-27","t":"change","a":"4F, no. 221, Chong-yang Rd. Taipei  TW 11573","c":"TW","o":"Throughtek Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001ac6000000/24",[{"d":"2006-12-17","t":"add","a":"17490 Caribou Dr\nMonument Co. 80132\n\n","c":"UNITED STATES","o":"Micro Control Designs"},{"d":"2015-08-27","t":"change","a":"17490 Caribou Dr Monument Co. US 80132","c":"US","o":"Micro Control Designs"}]);

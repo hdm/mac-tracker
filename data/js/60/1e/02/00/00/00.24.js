@@ -1,1 +1,0 @@
-macDetailCallback("601e02000000/24",[{"d":"2013-02-23","t":"add","a":"Ibragimova 9\nAlmaty Province 050032\n\n","c":"KAZAKHSTAN","o":"EltexAlatau"},{"d":"2015-08-27","t":"change","a":"Ibragimova 9 Almaty Province KZ 050032","c":"KZ","o":"EltexAlatau"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("84f117000000/24",[{"d":"2022-07-15","t":"add","s":"ieee-oui.csv","a":"No. 1 Letang road, Tangxiayong gongyequ, Songgang street, Bao An district,  Shenzhen Guangdong CN 518000","c":"CN","o":"Newseason"}]);

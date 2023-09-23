@@ -1,1 +1,0 @@
-macDetailCallback("000f7f000000/24",[{"d":"2004-02-12","t":"add","a":"#A-108, Seoul_Sanup_Jiwon_Center\n647-26, Deungchong-dong\nGanseo-gu Seoul 157-840\n","c":"KOREA, REPUBLIC OF","o":"UBSTORAGE Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"#A-108, Seoul_Sanup_Jiwon_Center Ganseo-gu Seoul KR 157-840","c":"KR","o":"UBSTORAGE Co.,Ltd."}]);

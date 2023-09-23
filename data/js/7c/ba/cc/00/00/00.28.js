@@ -1,1 +1,0 @@
-macDetailCallback("7cbacc000000/28",[{"a":"Flat/Rm 1003 10/F, Witty Commercial Building, 1A-1L Tung Choi Street, Hong Kong  HongKong  HK 529060","o":"TGT Limited","d":"2017-04-02","t":"add","s":"ieee","c":"HK"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("f46abc000000/24",[{"d":"2013-07-23","t":"add","a":"10689 Rm. A, 9F, No.107 Sec.4 Ren-Ai Rd.,\nDa-An Dist.\nTaipei 10689\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Adonit Corp. Ltd."},{"d":"2015-08-27","t":"change","a":"10689 Rm. A, 9F, No.107 Sec.4 Ren-Ai Rd., Taipei Taipei TW 10689","c":"TW","o":"Adonit Corp. Ltd."}]);

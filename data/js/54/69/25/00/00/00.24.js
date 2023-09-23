@@ -1,1 +1,0 @@
-macDetailCallback("546925000000/24",[{"d":"2021-09-02","t":"add","s":"ieee-oui.csv","a":"#407, 4F, 25-32, LS-ro 116beon-gil, Dongan-gu Anyang-si Gyeonggi-do KR 14118","c":"KR","o":"PS INODIC CO., LTD."}]);

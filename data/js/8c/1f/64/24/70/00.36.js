@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64247000/36",[{"d":"2023-08-17","t":"add","s":"ieee-oui36.csv","a":"F74, Industrial Area, Phase-7 SAS Nagar (Mohali) Punjab IN 160055","c":"IN","o":"Dadhwal Weighing Instrument Repairing Works"}]);

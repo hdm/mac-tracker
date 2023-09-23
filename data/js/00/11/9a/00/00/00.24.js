@@ -1,1 +1,0 @@
-macDetailCallback("00119a000000/24",[{"d":"2004-06-15","t":"add","a":"Via A.Pieroni, 36\nVisignano di Cascina PISA I-56023\n\n","c":"ITALY","o":"Alkeria srl"},{"d":"2007-02-09","t":"change","a":"25 Via Giuntini\nNavacchio (PI)  I-56023\n\n","c":"ITALY","o":"Alkeria srl"},{"d":"2015-08-27","t":"change","a":"25 Via Giuntini Navacchio (PI)  IT I-56023","c":"IT","o":"Alkeria srl"}]);

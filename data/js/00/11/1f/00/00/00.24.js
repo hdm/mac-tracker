@@ -1,1 +1,0 @@
-macDetailCallback("00111f000000/24",[{"d":"2004-04-25","t":"add","a":"306 E. Alameda Ave.\nBurbank CA 91502\n\n","c":"UNITED STATES","o":"Doremi Labs, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"306 E. Alameda Ave. Burbank CA US 91502","c":"US","o":"Doremi Labs, Inc."}]);

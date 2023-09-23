@@ -1,1 +1,0 @@
-macDetailCallback("001ee6000000/24",[{"d":"2007-12-31","t":"add","a":"Tianxiang 11A,  Tian'an Cyber Park , Futian\nShenzhen Guangdong 518048\n\n","c":"CHINA","o":"Shenzhen Advanced Video Info-Tech Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Tianxiang 11A,  Tian'an Cyber Park , Futian Shenzhen Guangdong CN 518048","c":"CN","o":"Shenzhen Advanced Video Info-Tech Co., Ltd."}]);

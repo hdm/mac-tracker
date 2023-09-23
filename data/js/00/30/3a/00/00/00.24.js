@@ -1,1 +1,0 @@
-macDetailCallback("00303a000000/24",[{"d":"2000-09-08","t":"add","a":"495 RUE DE POMMARIN\n38360 VOREPPE\n\n","c":"FRANCE","o":"MAATEL"},{"d":"2015-08-27","t":"change","a":"495 RUE DE POMMARIN 38360 VOREPPE  FR","c":"FR","o":"MAATEL"}]);

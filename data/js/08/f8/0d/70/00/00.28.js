@@ -1,1 +1,0 @@
-macDetailCallback("08f80d700000/28",[{"d":"2021-10-12","t":"add","s":"ieee-mam.csv","a":"No.12,Kangyuan Road Shanghai Hangzhou CN Zhejiang","c":"CN","o":"HANGZHOU YILI Communication Equipment Ltd"}]);

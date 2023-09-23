@@ -1,1 +1,0 @@
-macDetailCallback("44e8a5000000/24",[{"d":"2012-05-17","t":"add","a":"2-13, JALAN MAYANG PASIR 1,\nKOMPLEKS MAYANG MALL\nBayan Baru Penang 11950\n","c":"MALAYSIA","o":"Myreka Technologies Sdn. Bhd."},{"d":"2015-08-27","t":"change","a":"2-13, JALAN MAYANG PASIR 1, Bayan Baru Penang MY 11950","c":"MY","o":"Myreka Technologies Sdn. Bhd."}]);

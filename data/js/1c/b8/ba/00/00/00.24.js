@@ -1,1 +1,0 @@
-macDetailCallback("1cb8ba000000/24",[{"d":"2022-06-05","t":"add","s":"ieee-oui.csv","a":"LEELEN building, No.780 TieShan Road, GuanKou Town , JiMei District  Xiamen Fujian CN 361021","c":"CN","o":"XIAMEN LEELEN TECHNOLOGY CO., LTD"}]);

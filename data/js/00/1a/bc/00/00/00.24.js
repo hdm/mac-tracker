@@ -1,1 +1,0 @@
-macDetailCallback("001abc000000/24",[{"d":"2006-12-12","t":"add","a":"City Point\nTemple Gate\nBristol  BS1 6PL\n","c":"UNITED KINGDOM","o":"U4EA Technologies Ltd"},{"d":"2015-08-27","t":"change","a":"City Point Bristol  GB BS1 6PL","c":"GB","o":"U4EA Technologies Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("200f70000000/24",[{"d":"2017-11-28","t":"add","a":"152-160 City Road\n\n\n","c":"LONDON  KEMP HOUSE  EC1V 2NX","o":"FOXTECH"},{"d":"2017-11-29","t":"change","a":"152-160 City Road LONDON KEMP HOUSE GB EC1V 2NX","c":"GB","o":"FOXTECH"}]);

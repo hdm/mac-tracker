@@ -1,1 +1,0 @@
-macDetailCallback("24cbe7000000/24",[{"d":"2011-03-01","t":"add","a":"4-60-30-108, Kamoi,\nMidori-ku\nYokohama Kanagawa 226-0003\n","c":"JAPAN","o":"MYK, Inc."},{"d":"2015-08-27","t":"change","a":"4-60-30-108, Kamoi,  Yokohama Kanagawa JP 226-0003","c":"JP","o":"MYK, Inc."}]);

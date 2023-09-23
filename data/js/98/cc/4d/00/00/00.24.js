@@ -1,1 +1,0 @@
-macDetailCallback("98cc4d000000/24",[{"a":"3 floor, 3 environmental protection industrial park, Nanshan District Shenzhen  Guangdong CN 518000","o":"Shenzhen mantunsci co., LTD","d":"2018-08-19","t":"add","s":"ieee","c":"CN"}]);

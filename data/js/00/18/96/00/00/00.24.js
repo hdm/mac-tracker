@@ -1,1 +1,0 @@
-macDetailCallback("001896000000/24",[{"d":"2006-06-13","t":"add","a":"The Third Industrial  Area\nGuanlan Town\nShenzhen Guangdong 518110\n","c":"CHINA","o":"Great Well Electronic LTD"},{"d":"2015-08-27","t":"change","a":"The Third Industrial  Area Shenzhen Guangdong US 518110","c":"US","o":"Great Well Electronic LTD"}]);

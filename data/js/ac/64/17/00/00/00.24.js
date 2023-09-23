@@ -1,1 +1,0 @@
-macDetailCallback("ac6417000000/24",[{"d":"2017-08-25","t":"add","a":"Werner-von-Siemens Strasse 50\nAmberg    92224\n\n","c":"DE","o":"Siemens AG - Industrial Automation - EWA"},{"d":"2018-04-18","t":"change","a":"Werner-von-Siemens Strasse 50 Amberg  DE 92224","c":"DE","o":"Siemens AG"}]);

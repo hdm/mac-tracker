@@ -1,1 +1,0 @@
-macDetailCallback("440377600000/28",[{"d":"2019-08-21","t":"add","s":"ieee-mam.csv","a":"Longhua New District Qing Xiang Road, Bao Neng Technology Park SHEN ZHEN GUANG DONG CN 518109","c":"CN","o":"SHEN ZHEN HUAWANG TECHNOLOGY CO; LTD"}]);

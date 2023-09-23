@@ -1,1 +1,0 @@
-macDetailCallback("0007cf000000/24",[{"d":"2001-10-24","t":"add","a":"Solvegatan 41\nSE-223 70 Lund\n\n","c":"SWEDEN","o":"Anoto AB"},{"d":"2015-08-27","t":"change","a":"Solvegatan 41   SE","c":"SE","o":"Anoto AB"}]);

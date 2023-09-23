@@ -1,1 +1,0 @@
-macDetailCallback("000d4b000000/24",[{"d":"2003-06-01","t":"add","a":"399 Sherman Ave. #12\nPalo Alto CA 94306\n\n","c":"UNITED STATES","o":"Roku, LLC"},{"d":"2015-08-27","t":"change","a":"399 Sherman Ave. #12\nPalo Alto  CA  94306\n\n","c":"US","o":"Roku, LLC"},{"d":"2015-11-07","t":"change","a":"399 Sherman Ave. #12 Palo Alto CA US 94306","c":"US","o":"Roku, Inc."}]);

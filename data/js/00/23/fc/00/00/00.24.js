@@ -1,1 +1,0 @@
-macDetailCallback("0023fc000000/24",[{"d":"2008-10-19","t":"add","a":"181 Bonetti Drive\nSan Luis Obispo CA 93401\n\n","c":"UNITED STATES","o":"Ultra Stereo Labs, Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"181 Bonetti Drive San Luis Obispo CA US 93401","c":"US","o":"Ultra Stereo Labs, Inc"}]);

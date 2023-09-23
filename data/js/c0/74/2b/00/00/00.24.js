@@ -1,1 +1,0 @@
-macDetailCallback("c0742b000000/24",[{"d":"2017-05-25","t":"add","a":"Room 532, Block A, Huameiju Business Center, Xinhu Road, Baoan 82 Area Shenzhen Guangdong CN 518133","c":"CN","o":"SHENZHEN XUNLONG SOFTWARE CO.,LIMITED"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("845c93000000/24",[{"d":"2013-06-13","t":"add","a":"354 Chemin de la Pinatte\nBP146\nSaint-Peray  07130\n","c":"FRANCE","o":"Chabrier Services"},{"d":"2015-08-27","t":"change","a":"354 Chemin de la Pinatte Saint-Peray  FR 07130","c":"FR","o":"Chabrier Services"}]);

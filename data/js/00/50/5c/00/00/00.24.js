@@ -1,1 +1,0 @@
-macDetailCallback("00505c000000/24",[{"d":"2000-09-08","t":"add","a":"7 GIBOREI ISRAEL STREET\nNATANYA 42504\n\n","c":"ISRAEL","o":"TUNDO CORPORATION"},{"d":"2015-08-27","t":"change","a":"7 GIBOREI ISRAEL STREET   IL","c":"IL","o":"TUNDO CORPORATION"}]);

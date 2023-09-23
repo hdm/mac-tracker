@@ -1,1 +1,0 @@
-macDetailCallback("002577000000/24",[{"d":"2009-03-15","t":"add","a":"2172 de la Province\nLongueuil Quebec J4G 1R7\n\n","c":"CANADA","o":"D-BOX Technologies","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2172 de la Province Longueuil Quebec CA J4G 1R7","c":"CA","o":"D-BOX Technologies"}]);

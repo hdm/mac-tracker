@@ -1,1 +1,0 @@
-macDetailCallback("002226000000/24",[{"d":"2008-06-18","t":"add","a":"9645 Scranton Rd., Suite 110\nSan Diego CA 92121\n\n","c":"UNITED STATES","o":"Avaak, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9645 Scranton Rd., Suitie 110 San Diego CA US 92121","c":"US","o":"Avaak, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("1054d2200000/28",[{"d":"2021-12-18","t":"add","s":"ieee-mam.csv","a":"3 floor Building 2,No.618 Chengliu Middle RD. Malu town, Shanghai  CN 200000","c":"CN","o":"ComNav Technology Ltd."}]);

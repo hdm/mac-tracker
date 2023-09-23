@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64208000/36",[{"d":"2022-06-16","t":"add","s":"ieee-oui36.csv","a":"Room 332, Building 2, Innovation Center, Science and Technology Innovation Park Mian Yang Sichuan CN 621000","c":"CN","o":"Sichuan AnSphere Technology Co. Ltd."}]);

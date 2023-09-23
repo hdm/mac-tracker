@@ -1,1 +1,0 @@
-macDetailCallback("04dedb000000/24",[{"d":"2014-05-24","t":"add","a":"515 Legget Dr., Suite 600\nKanata ON K2K 3G4\n\n","c":"CANADA","o":"Rockport Networks Inc"},{"d":"2015-08-27","t":"change","a":"515 Legget Dr., Suite 600 Kanata ON CA K2K 3G4","c":"CA","o":"Rockport Networks Inc"}]);

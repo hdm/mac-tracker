@@ -1,1 +1,0 @@
-macDetailCallback("40ff40000000/24",[{"d":"2022-10-26","t":"add","s":"ieee-oui.csv","a":"801, Tower-A, 58-1, Giheung-ro, Giheung-gu, Yongin-si, Gyeonggi-do, 16976, Republic of Korea Yongin-si Gyeonggi-do KR 16976","c":"KR","o":"GloquadTech"}]);

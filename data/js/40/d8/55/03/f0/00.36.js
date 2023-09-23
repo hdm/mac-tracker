@@ -1,1 +1,0 @@
-macDetailCallback("40d85503f000/36",[{"a":"3F., No.6, Gongye E. 3rd Rd., Hsinchu Science Park. Hsinchu  TW 30075","o":"UniSVR Global Information Technology Corp.","d":"2012-11-25","t":"add","s":"ieee","c":"TW"}]);

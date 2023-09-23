@@ -1,1 +1,0 @@
-macDetailCallback("00224f000000/24",[{"d":"2008-06-18","t":"add","a":"Room 5A1,Block A, Keshi Plaza,No. 28A Info. Road,\nHaiDian District,\nBeijing 100085\n","c":"CHINA","o":"Byzoro Networks Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Room 5A1,Block A, Keshi Plaza,No. 28A Info. Road,  Beijing CN 100085","c":"CN","o":"Byzoro Networks Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0cb4a4000000/24",[{"a":"Room3703E Changfu Jinmao Building，Shihua Road Futian Duty Free Zone，Fubao Street，Futian District Shenzhen City CN 518000","o":"Xintai Automobile Intelligent Network Technology","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);

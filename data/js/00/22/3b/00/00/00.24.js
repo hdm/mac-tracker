@@ -1,1 +1,0 @@
-macDetailCallback("00223b000000/24",[{"d":"2008-06-18","t":"add","a":"3 Corporate Drive\nDanbury CT 06810\n\n","c":"UNITED STATES","o":"Communication Networks, LLC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3 Corporate Drive Danbury CT US 06810","c":"US","o":"Communication Networks, LLC"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("e856d6000000/24",[{"d":"2012-03-30","t":"add","a":"20-22 Braid Road\nMorningside\nEdinburgh  EH10 6AD\n","c":"UNITED KINGDOM","o":"NCTech Ltd"},{"d":"2015-08-27","t":"change","a":"20-22 Braid Road Edinburgh  GB EH10 6AD","c":"GB","o":"NCTech Ltd"}]);

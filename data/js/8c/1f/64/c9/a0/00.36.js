@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64c9a000/36",[{"d":"2023-09-13","t":"add","s":"ieee-oui36.csv","a":"484, SECTOR-8 ,IMT MANESER,GURGAON\nMANESER GURGAON Haryana IN 122050","c":"IN","o":"Infosoft Digital Design and Services P L"}]);

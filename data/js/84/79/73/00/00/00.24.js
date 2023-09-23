@@ -1,1 +1,0 @@
-macDetailCallback("847973000000/24",[{"d":"2015-05-20","t":"add","a":"NO.123 JULI RD\nPUDONG ZHANGJIANG HIGH-TECH PARK SHANGHAI 201203\n\n","c":"CHINA","o":"Shanghai Baud Data Communication Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"NO.123 JULI RD PUDONG ZHANGJIANG HIGH-TECH PARK SHANGHAI CN 201203","c":"CN","o":"Shanghai Baud Data Communication Co.,Ltd."}]);

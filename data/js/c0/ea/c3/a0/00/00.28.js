@@ -1,1 +1,0 @@
-macDetailCallback("c0eac3a00000/28",[{"d":"2022-11-24","t":"add","s":"ieee-mam.csv","a":"AV SAPUCAI 111  SANTA RITA DO SAPUCAI MINAS GERAIS BR 37540000","c":"BR","o":"VOLT EQUIPAMENTOS ELETRONICOS LTDA"}]);

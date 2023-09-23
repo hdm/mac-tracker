@@ -1,1 +1,0 @@
-macDetailCallback("b03893000000/24",[{"d":"2021-11-17","t":"add","s":"ieee-oui.csv","a":"Lakeside Science and Technology Park B13a Klagenfurt  AT 9020","c":"AT","o":"Onda TLC GmbH"},{"d":"2023-02-23","t":"change","s":"ieee-oui.csv","a":"Via Antonio Chinotto 1 Roma  IT 00195","c":"IT","o":"Onda TLC Italia S.r.l."}]);

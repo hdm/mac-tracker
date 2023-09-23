@@ -1,1 +1,0 @@
-macDetailCallback("5cf838700000/28",[{"d":"2023-08-23","t":"add","s":"ieee-mam.csv","a":"Room 2101, Hongyu Building, #57 Zhongshan 4Rd, East District Zhongshan Guangdong CN 528403","c":"CN","o":"T-CHIP INTELLIGENT TECHNOLOGY CO.,LTD."}]);

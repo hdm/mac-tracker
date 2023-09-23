@@ -1,1 +1,0 @@
-macDetailCallback("787264500000/28",[{"d":"2021-09-01","t":"add","s":"ieee-mam.csv","a":"Building G2, International E-City, Nanshan District, ShenZhen Guangdong CN 518052","c":"CN","o":"CALTTA TECHNOLOGIES CO.,LTD."}]);

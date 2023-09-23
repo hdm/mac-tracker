@@ -1,1 +1,0 @@
-macDetailCallback("2cbaca000000/24",[{"d":"2023-06-28","t":"add","s":"ieee-oui.csv","a":"No.151, Shipai Section, Dongyuan Avenue, Shipai Town Dongguan Guangdong CN 523331","c":"CN","o":"Cosonic Electroacoustic Technology Co., Ltd."}]);

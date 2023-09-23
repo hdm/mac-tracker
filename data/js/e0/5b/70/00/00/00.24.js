@@ -1,1 +1,0 @@
-macDetailCallback("e05b70000000/24",[{"d":"2010-05-26","t":"add","a":"5th Floor, Boga Building, 821-3, Bangbaedong, Seochogu\nSeoul  137-060\n\n","c":"KOREA, REPUBLIC OF","o":"Innovid, Co., Ltd."},{"d":"2015-08-27","t":"change","a":"5th Floor, Boga Building, 821-3, Bangbaedong, Seochogu Seoul  KR 137-060","c":"KR","o":"Innovid, Co., Ltd."}]);

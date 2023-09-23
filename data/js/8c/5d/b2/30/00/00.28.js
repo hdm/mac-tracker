@@ -1,1 +1,0 @@
-macDetailCallback("8c5db2300000/28",[{"d":"2022-11-12","t":"add","s":"ieee-mam.csv","a":"Yuzhou Juntaiban Lianluowan Road 2 Yuzhou  CN 461670","c":"CN","o":"Yuzhou Zhongnan lnformation Technology Co.,Ltd"}]);

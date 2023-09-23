@@ -1,1 +1,0 @@
-macDetailCallback("ec41ca000000/24",[{"d":"2023-01-11","t":"add","s":"ieee-oui.csv","a":"1004 yuemeite Building,No.1 gaoxin South 7th Road,Gaoxin District,Yuehai Street,Nanshan District,Shenzhen Shenzhen Guangdong CN 518063","c":"CN","o":"Shenzhen TecAnswer Technology co.,ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00138e000000/24",[{"d":"2005-02-06","t":"add","a":"Sankt Jorgens Vag 8\nGothenburg  422 49\n\n","c":"SWEDEN","o":"FOAB Elektronik AB"},{"d":"2015-08-27","t":"change","a":"Sankt Jorgens Vag 8 Gothenburg  SE 422 49","c":"SE","o":"FOAB Elektronik AB"}]);

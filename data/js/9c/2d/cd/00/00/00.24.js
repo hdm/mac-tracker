@@ -1,1 +1,0 @@
-macDetailCallback("9c2dcd000000/24",[{"d":"2022-06-22","t":"add","s":"ieee-oui.csv","a":"No.3188-1,YunGu Road(Comprehensive Bonded Zone),Hefei Economic and Technological Development Area HEFEI ANHUI CN 230601","c":"CN","o":"LCFC(Hefei) Electronics Technology Co., Ltd"}]);

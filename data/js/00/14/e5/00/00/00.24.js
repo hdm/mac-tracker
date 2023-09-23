@@ -1,1 +1,0 @@
-macDetailCallback("0014e5000000/24",[{"d":"2005-06-17","t":"add","a":"16th floor, Nara Bldg, 1328-3\nSeocho-dong, Seocho-gu,\nSeoul 137-070\n","c":"KOREA, REPUBLIC OF","o":"Alticast"},{"d":"2015-08-27","t":"change","a":"16th floor, Nara Bldg, 1328-3  Seoul KR 137-070","c":"KR","o":"Alticast"}]);

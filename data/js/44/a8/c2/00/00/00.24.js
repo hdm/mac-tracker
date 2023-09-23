@@ -1,1 +1,0 @@
-macDetailCallback("44a8c2000000/24",[{"d":"2010-02-13","t":"add","a":"689-20 GEUMJUNG-DONG\nGUNPO-SI KYUNGGI-DO 435-862\n\n","c":"KOREA, REPUBLIC OF","o":"SEWOO TECH CO., LTD"},{"d":"2015-08-27","t":"change","a":"689-20 GEUMJUNG-DONG  GUNPO-SI KYUNGGI-DO KR 435-862","c":"KR","o":"SEWOO TECH CO., LTD"}]);

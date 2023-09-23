@@ -1,1 +1,0 @@
-macDetailCallback("0858a5000000/24",[{"d":"2020-09-05","t":"add","s":"ieee-oui.csv","a":"Room 1602, block C, Zhongguancun Science and technology development building, 34 Zhongguancun South Street Beijing Beijing CN 100000","c":"CN","o":"Beijing Vrv Software Corpoaration Limited."}]);

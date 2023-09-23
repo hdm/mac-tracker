@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5e62000/36",[{"d":"2020-11-18","t":"add","s":"ieee-oui36.csv","a":"415, Heungan-daero, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea Anyang-si Gyeonggi-do KR KS009","c":"KR","o":"Eon"}]);

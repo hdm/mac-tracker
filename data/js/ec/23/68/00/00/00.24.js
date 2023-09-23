@@ -1,1 +1,0 @@
-macDetailCallback("ec2368000000/24",[{"d":"2010-05-13","t":"add","a":"3-6 Kioicho\nKioicho Park Bld. 1F\nChiyoda Tokyo 102-0094\n","c":"JAPAN","o":"IntelliVoice Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"3-6 Kioicho Chiyoda Tokyo JP 102-0094","c":"JP","o":"IntelliVoice Co.,Ltd."}]);

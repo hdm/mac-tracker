@@ -1,1 +1,0 @@
-macDetailCallback("000900000000/24",[{"d":"2002-01-30","t":"add","a":"11 Kiryat Mada, POB 45199\nJerusalem  91450\n\n","c":"ISRAEL","o":"TMT","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"11 Kiryat Mada, POB 45199 Jerusalem  IL 91450","c":"IL","o":"TMT"}]);

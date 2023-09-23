@@ -1,1 +1,0 @@
-macDetailCallback("70b3d55f5000/36",[{"d":"2020-10-14","t":"add","s":"ieee-oui36.csv","a":"272, Digital-ro, 1004ho Microvision. Guro-gu, Seoul, Republic of Korea  KR 08848","c":"KR","o":"Microvision"}]);

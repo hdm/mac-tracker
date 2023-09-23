@@ -1,1 +1,0 @@
-macDetailCallback("000e3e000000/24",[{"d":"2003-09-08","t":"add","a":"4-38-4 Fuchinobe-honchou\nSagamihara Kanagawa 229-0002\n\n","c":"JAPAN","o":"Sun Optronics Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4-38-4 Fuchinobe-honchou Sagamihara Kanagawa JP 229-0002","c":"JP","o":"Sun Optronics Inc"}]);

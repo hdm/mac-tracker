@@ -1,1 +1,0 @@
-macDetailCallback("7cc8d7000000/24",[{"d":"2011-10-19","t":"add","a":"Coriolis 2\nAvenue de l'Europe\nECUISSES  71210\n","c":"FRANCE","o":"Damalisk"},{"d":"2015-08-27","t":"change","a":"Coriolis 2  ECUISSES  FR 71210","c":"FR","o":"Damalisk"}]);

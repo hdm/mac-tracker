@@ -1,1 +1,0 @@
-macDetailCallback("0445a1000000/24",[{"d":"2019-11-23","t":"add","s":"ieee-oui.csv","a":"2-? ??????????? ??????, ?.12, ???.2 Moscow  RU 115432","c":"RU","o":"NIRIT- Xinwei  Telecom Technology Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000c2f000000/24",[{"d":"2003-01-21","t":"add","a":"2F DIPLOMATIC CENTER B/D 1376-1 SEOCHO2-\nSEOUL  137-072\n\n","c":"KOREA, REPUBLIC OF","o":"SeorimTechnology Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2F DIPLOMATIC CENTER B/D 1376-1 SEOCHO2- SEOUL  US 137-072","c":"US","o":"SeorimTechnology Co.,Ltd."}]);

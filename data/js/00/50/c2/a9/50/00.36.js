@@ -1,1 +1,0 @@
-macDetailCallback("0050c2a95000/36",[{"a":"C/Isaac Newton, nº 4-Pabellón de Italia-7ÂªPlanta çtico Sevilla  ES 41092","o":"INNOVACIONES Microelectrónicas SL (AnaFocus)","d":"2009-04-12","t":"add","s":"ieee","c":"ES"}]);

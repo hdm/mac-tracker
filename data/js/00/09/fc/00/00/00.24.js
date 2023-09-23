@@ -1,1 +1,0 @@
-macDetailCallback("0009fc000000/24",[{"d":"2002-06-05","t":"add","a":"Mowa-Bldg 3F, 1-16-6\nEbisu-nishi\nShibuya-ku Tokyo 150-0021\n","c":"JAPAN","o":"IPFLEX Inc."},{"d":"2015-08-27","t":"change","a":"Mowa-Bldg 3F, 1-16-6 Shibuya-ku Tokyo JP 150-0021","c":"JP","o":"IPFLEX Inc."}]);

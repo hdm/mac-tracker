@@ -1,1 +1,0 @@
-macDetailCallback("00127d000000/24",[{"d":"2004-10-10","t":"add","a":"800 W El Camino Real #240\nMountain View CA 94040\n\n","c":"UNITED STATES","o":"MobileAria"},{"d":"2015-08-27","t":"change","a":"800 W El Camino Real #240 Mountain View CA US 94040","c":"US","o":"MobileAria"}]);

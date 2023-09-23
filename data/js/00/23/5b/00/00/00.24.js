@@ -1,1 +1,0 @@
-macDetailCallback("00235b000000/24",[{"d":"2008-10-08","t":"add","a":"32 Lummus Drive\nRDC Lab R-08\nSavannah GA 31407\n","c":"UNITED STATES","o":"Gulfstream","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"32 Lummus Drive Savannah GA US 31407","c":"US","o":"Gulfstream"}]);

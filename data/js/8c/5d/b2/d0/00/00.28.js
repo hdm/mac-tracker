@@ -1,1 +1,0 @@
-macDetailCallback("8c5db2d00000/28",[{"d":"2022-11-10","t":"add","s":"ieee-mam.csv","a":"Daliang Baojian Road N0.99 Foshan Guangdong CN 528300","c":"CN","o":"Guandong Yuhang Automation Technology Co.,Ltd"}]);

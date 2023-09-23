@@ -1,1 +1,0 @@
-macDetailCallback("706979d00000/28",[{"d":"2020-03-28","t":"add","s":"ieee-mam.csv","a":"HAMDIJE KRESEVLJAKOVICA 18 SARAJEVO  BA 71000","c":"BA","o":"FREUND ELEKTRONIKA D.O.O., IP-INTEGRA TECHNOLOGIES"}]);

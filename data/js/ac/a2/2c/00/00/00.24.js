@@ -1,1 +1,0 @@
-macDetailCallback("aca22c000000/24",[{"d":"2012-08-18","t":"add","a":"10 Nazareth Ave\nP O Box 1497\nChristchurch Canterbury 8024\n","c":"NEW ZEALAND","o":"Baycity Technologies Ltd"},{"d":"2015-08-27","t":"change","a":"10 Nazareth Ave Christchurch Canterbury NZ 8024","c":"NZ","o":"Baycity Technologies Ltd"}]);

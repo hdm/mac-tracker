@@ -1,1 +1,0 @@
-macDetailCallback("0022e2000000/24",[{"d":"2008-07-19","t":"add","a":"130 Ridgeview Circle\nDuncan SC 29334\n\n","c":"UNITED STATES","o":"WABTEC Transit Division"},{"d":"2015-08-27","t":"change","a":"130 Ridgeview Circle Duncan SC US 29334","c":"US","o":"WABTEC Transit Division"}]);

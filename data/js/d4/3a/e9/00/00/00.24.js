@@ -1,1 +1,0 @@
-macDetailCallback("d43ae9000000/24",[{"d":"2011-04-01","t":"add","a":"No.66-1.Ist New Area, Nanshe Dist., Chigang,Humen,\nDongguan Guangdong 52390\n\n","c":"CHINA","o":"DONGGUAN ipt INDUSTRIAL CO., LTD"},{"d":"2015-08-27","t":"change","a":"No.66-1.Ist New Area, Nanshe Dist., Chigang,Humen, Dongguan Guangdong CN 52390","c":"CN","o":"DONGGUAN ipt INDUSTRIAL CO., LTD"}]);

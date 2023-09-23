@@ -1,1 +1,0 @@
-macDetailCallback("0022cc000000/24",[{"d":"2008-07-19","t":"add","a":"8845 South Greenview Drive\nSuite 4\nMiddleton Wisconsin 53562\n","c":"UNITED STATES","o":"SciLog, Inc."},{"d":"2015-08-27","t":"change","a":"8845 South Greenview Drive Middleton Wisconsin US 53562","c":"US","o":"SciLog, Inc."}]);

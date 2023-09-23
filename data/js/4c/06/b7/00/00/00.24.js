@@ -1,1 +1,0 @@
-macDetailCallback("4c06b7000000/24",[{"d":"2021-10-12","t":"add","s":"ieee-oui.csv","a":"Europalaan 12F Den Bosch NB NL 5232 BC","c":"BC","o":"ProDVX Europe B.V."},{"d":"2022-09-30","t":"change","s":"ieee-oui.csv","a":"Europalaan 10 Den Bosch NB NL 5235BC","c":"NL","o":"ProDVX Europe B.V."}]);

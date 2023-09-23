@@ -1,1 +1,0 @@
-macDetailCallback("00241a000000/24",[{"d":"2008-11-02","t":"add","a":"898 Silas Deane Highway\nWethersfield CT 06109\n\n","c":"UNITED STATES","o":"Red Beetle Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"898 Silas Deane Highway Wethersfield CT US 06109","c":"US","o":"Red Beetle Inc."}]);

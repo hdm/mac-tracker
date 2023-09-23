@@ -1,1 +1,0 @@
-macDetailCallback("000670000000/24",[{"d":"2001-06-04","t":"add","a":"Tykistokatu 4D\nFIN-20520 Turku\n\n","c":"FINLAND","o":"Upponetti Oy"},{"d":"2015-08-27","t":"change","a":"Tykistokatu 4D   FI","c":"FI","o":"Upponetti Oy"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d0737f000000/24",[{"d":"2013-05-08","t":"add","a":"50 Yosef Levi Street\nKiryat Bialik Industrial Zone  27000\n\n","c":"ISRAEL","o":"Mini-Circuits"},{"d":"2015-08-27","t":"change","a":"50 Yosef Levi Street Kiryat Bialik Industrial Zone  US 27000","c":"US","o":"Mini-Circuits"}]);

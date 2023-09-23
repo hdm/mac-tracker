@@ -1,1 +1,0 @@
-macDetailCallback("00e054000000/24",[{"d":"2000-09-08","t":"add","a":"2-45 ONUMA HANYU CITY\nSAITAMA.348\n\n","c":"JAPAN","o":"KODAI HITEC CO., LTD."},{"d":"2015-08-27","t":"change","a":"2-45 ONUMA HANYU CITY SAITAMA.348  JP","c":"JP","o":"KODAI HITEC CO., LTD."}]);

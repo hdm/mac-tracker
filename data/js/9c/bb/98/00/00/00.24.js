@@ -1,1 +1,0 @@
-macDetailCallback("9cbb98000000/24",[{"d":"2013-07-26","t":"add","a":"G315,Hua Chuang Da business Certer\n,BaoAn 42 District,\nShen Zhen Guang Dong 518000\n","c":"CHINA","o":"Shen Zhen RND Electronic Co.,LTD"},{"d":"2015-08-27","t":"change","a":"G315,Hua Chuang Da business Certer Shen Zhen Guang Dong CN 518000","c":"CN","o":"Shen Zhen RND Electronic Co.,LTD"}]);

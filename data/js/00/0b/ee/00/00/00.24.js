@@ -1,1 +1,0 @@
-macDetailCallback("000bee000000/24",[{"d":"2002-12-03","t":"add","a":"One Winnenden Road\nNorwich CT 06360\n\n","c":"UNITED STATES","o":"inc.jet, Incorporated","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"One Winnenden Road Norwich CT US 06360","c":"US","o":"inc.jet, Incorporated"}]);

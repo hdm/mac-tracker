@@ -1,1 +1,0 @@
-macDetailCallback("08ef3b000000/24",[{"d":"2013-05-24","t":"add","a":"6F. Samho Center B Bldg., 275-6,Yangjae-Dong, Secho-Ku,Seoul\nSeoul  137-941\n\n","c":"KOREA, REPUBLIC OF","o":"MCS Logic Inc."},{"d":"2015-08-27","t":"change","a":"6F. Samho Center B Bldg., 275-6,Yangjae-Dong, Secho-Ku,Seoul Seoul  KR 137-941","c":"KR","o":"MCS Logic Inc."}]);

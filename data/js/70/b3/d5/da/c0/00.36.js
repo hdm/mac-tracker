@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5dac000/36",[{"d":"2019-11-14","t":"add","s":"ieee-oui36.csv","a":"Room 406, 4th Floor, Block A, 29 Xixian Street, Dalian High-tech Industrial Park Dalian  Liaoning CN 116085","c":"CN","o":"Dalian Laike Technology Development Co., Ltd"}]);

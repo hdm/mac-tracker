@@ -1,1 +1,0 @@
-macDetailCallback("6c0273000000/24",[{"d":"2014-05-13","t":"add","a":"4th floor, 78th, Matou Road\nXixiang, Bao'an District\nShenzhen Guangdong 518000\n","c":"CHINA","o":"Shenzhen Jin Yun Video Equipment Co., Ltd."},{"d":"2015-08-27","t":"change","a":"4th floor, 78th, Matou Road Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Jin Yun Video Equipment Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0025c8000000/24",[{"d":"2009-04-12","t":"add","a":"Oberhausenstrasse 47\nWettswil a/A Zuerich 8907\n\n","c":"SWITZERLAND","o":"S-Access GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Oberhausenstrasse 47 Wettswil a/A Zuerich CH 8907","c":"CH","o":"S-Access GmbH"}]);

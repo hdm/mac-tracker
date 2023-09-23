@@ -1,1 +1,0 @@
-macDetailCallback("0050c2bf4000/36",[{"a":"Monarch House, Master Mind II, Mumbai Maharashtra IN 400065","o":"Monarch Innovative Technologies Pvt Ltd","d":"2010-01-31","t":"add","s":"ieee","c":"IN"}]);

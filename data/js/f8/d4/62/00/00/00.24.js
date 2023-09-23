@@ -1,1 +1,0 @@
-macDetailCallback("f8d462000000/24",[{"d":"2011-11-29","t":"add","a":"Rua Bartolomeu Lourenco de Gusmao 2021\nCuritiba PR 81650050\n\n","c":"BRAZIL","o":"Pumatronix Equipamentos Eletronicos Ltda."},{"d":"2015-08-27","t":"change","a":"Rua Bartolomeu Lourenco de Gusmao 2021 Curitiba PR BR 81650050","c":"BR","o":"Pumatronix Equipamentos Eletronicos Ltda."}]);

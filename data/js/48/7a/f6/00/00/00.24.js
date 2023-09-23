@@ -1,1 +1,0 @@
-macDetailCallback("487af6000000/24",[{"d":"2019-12-25","t":"add","s":"ieee-oui.csv","a":"NO. 20, 22, 24, 26, JALAN 1/3, RAWANG INTEGRATED INDUSTRIAL PARK, 48000 Rawang Selangor, MALAYSIA RAWANG SELANGOR MY 48000","c":"MY","o":"NCS ELECTRICAL SDN BHD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("10189e000000/24",[{"d":"2009-12-29","t":"add","a":"64 Gisin St.\nPetach Tikva  49103\n\n","c":"ISRAEL","o":"Elmo Motion Control"},{"d":"2015-08-27","t":"change","a":"64 Gisin St. Petach Tikva  IL 49103","c":"IL","o":"Elmo Motion Control"}]);

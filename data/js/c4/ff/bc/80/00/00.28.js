@@ -1,1 +1,0 @@
-macDetailCallback("c4ffbc800000/28",[{"a":"Floor four,Build C,FuSen Industrial park, HangCheng Avenue,Baoan District Shenzhen GuangDong CN 518000","o":"ShenZhen ZYT Technology co., Ltd","d":"2017-10-29","t":"add","s":"ieee","c":"CN"}]);

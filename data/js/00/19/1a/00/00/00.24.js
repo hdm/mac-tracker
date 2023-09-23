@@ -1,1 +1,0 @@
-macDetailCallback("00191a000000/24",[{"d":"2006-07-19","t":"add","a":"HanYoung B/D 6F, 4-6\nMunjeong-dong, Sonpa-ku\nSEOUL  138-824\n","c":"KOREA, REPUBLIC OF","o":"IRLINK"},{"d":"2015-08-27","t":"change","a":"HanYoung B/D 6F, 4-6 SEOUL  KR 138-824","c":"KR","o":"IRLINK"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("48555c000000/24",[{"d":"2017-08-31","t":"add","a":"Xiantao street data on the 19th East Road\nChongqing City   Yubei District  401120\n\n","c":"CN","o":" Chongqing Science and Technology Co., Ltd"},{"d":"2017-09-02","t":"change","a":"Xiantao street data on the 19th East Road Chongqing City  Yubei District CN 401120","c":"CN","o":"Wu Qi Technologies,Inc."}]);

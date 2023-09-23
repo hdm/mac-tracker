@@ -1,1 +1,0 @@
-macDetailCallback("108b6a000000/24",[{"d":"2020-04-08","t":"add","s":"ieee-oui.csv","a":"7/F,Zhengjiyuan Buiding,2 Road,Qianjing, Xixiang, Baoan District,Shenzhen SHEN ZHEN GUANGDONG CN 518000","c":"CN","o":"Antailiye Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("005087000000/24",[{"d":"2000-09-08","t":"add","a":"7-2-10 HANNAN-CHO ABENO-KU\nOSAKA, 545-0021\n\n","c":"JAPAN","o":"TERASAKI ELECTRIC CO., LTD."},{"d":"2015-08-27","t":"change","a":"7-2-10 HANNAN-CHO ABENO-KU OSAKA, 545-0021  JP","c":"JP","o":"TERASAKI ELECTRIC CO., LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("b0c5ca700000/28",[{"a":"Northern Wuhe Road,Banxuegang Industry Area,Buji,Shenzhen,China Shenzhen Guangdong CN 518129","o":"SHENZHEN KTC TECHNOLOGY GROUP","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

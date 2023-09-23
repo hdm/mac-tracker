@@ -1,1 +1,0 @@
-macDetailCallback("2c16bdc00000/28",[{"d":"2019-04-25","t":"add","s":"ieee-mam.csv","a":"Room 101, Building 1, No. 4 Hengxing Road, Gaoliying, Shunyi District Beijing Beijing CN 101303","c":"CN","o":"Beijing CHJ Automotive Co., Ltd."}]);

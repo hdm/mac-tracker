@@ -1,1 +1,0 @@
-macDetailCallback("988fe0100000/28",[{"d":"2021-12-16","t":"add","s":"ieee-mam.csv","a":"No.2-8,Nancun North Street,Panyun District, Guangzhou  CN 511400","c":"CN","o":"GUANGZHOU HERYSTORM TECHNOLOGY CO.,LTD."}]);

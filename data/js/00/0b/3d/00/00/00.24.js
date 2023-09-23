@@ -1,1 +1,0 @@
-macDetailCallback("000b3d000000/24",[{"d":"2002-09-09","t":"add","a":"Frana Mraza 2/289\nP.O.Box B-34\nZilina  01124\n","c":"SLOVAKIA","o":"CONTAL OK Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Frana Mraza 2/289 Zilina  SK 01124","c":"SK","o":"CONTAL OK Ltd."}]);

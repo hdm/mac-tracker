@@ -1,1 +1,0 @@
-macDetailCallback("0019c8000000/24",[{"d":"2006-09-25","t":"add","a":"18902 Bardeen Ave.\nIrvine CA 91612\n\n","c":"UNITED STATES","o":"AnyDATA Corporation"},{"d":"2015-08-27","t":"change","a":"18902 Bardeen Ave. Irvine CA US 91612","c":"US","o":"AnyDATA Corporation"}]);

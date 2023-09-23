@@ -1,1 +1,0 @@
-macDetailCallback("0cfe5da00000/28",[{"a":"3rd Floor, Building 21, Cangshan Park, Jinshan Orange Garden Industrial Park, Cangshan District Fuzhou Fujian CN 350000","o":"Fujian Jieyu Computer Technology Co., Ltd.","d":"2018-08-12","t":"add","s":"ieee","c":"CN"}]);

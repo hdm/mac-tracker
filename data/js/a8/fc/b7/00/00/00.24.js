@@ -1,1 +1,0 @@
-macDetailCallback("a8fcb7000000/24",[{"d":"2011-01-28","t":"add","a":"2943 S Wilson CT NW\nGrand Rapids MI 49534\n\n","c":"UNITED STATES","o":"Consolidated Resource Imaging"},{"d":"2015-08-27","t":"change","a":"2943 S Wilson CT NW Grand Rapids MI US 49534","c":"US","o":"Consolidated Resource Imaging"}]);

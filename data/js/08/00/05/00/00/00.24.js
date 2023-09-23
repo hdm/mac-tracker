@@ -1,1 +1,0 @@
-macDetailCallback("080005000000/24",[{"d":"2000-09-08","t":"add","a":"257 VASSAR STREET\nCAMBRIDGE MA 02139\n\n","c":"UNITED STATES","o":"SYMBOLICS INC."},{"d":"2015-08-27","t":"change","a":"257 VASSAR STREET CAMBRIDGE MA US 02139","c":"US","o":"SYMBOLICS INC."}]);

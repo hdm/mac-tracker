@@ -1,1 +1,0 @@
-macDetailCallback("34fec5000000/24",[{"d":"2020-10-15","t":"add","s":"ieee-oui.csv","a":"No.6-6,Yan Shan Rd.,Baoan District,Shenzhen City,China Shenzhen Guangdong CN 518105","c":"CN","o":"Shenzhen Sunwoda intelligent hardware Co.,Ltd"}]);

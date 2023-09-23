@@ -1,1 +1,0 @@
-macDetailCallback("001ae5000000/24",[{"d":"2006-12-30","t":"add","a":"19050 Pruneridge Ave\nSte. 128\nCupertino CA 95014\n","c":"UNITED STATES","o":"Mvox Technologies Inc."},{"d":"2015-08-27","t":"change","a":"19050 Pruneridge Ave Cupertino CA US 95014","c":"US","o":"Mvox Technologies Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0014ea000000/24",[{"d":"2005-06-17","t":"add","a":"5F, Shin-an Bldg. 89-8,\nMoonjung-Dong\nSongpa-Gu Seoul 138-201\n","c":"KOREA, REPUBLIC OF","o":"S Digm Inc. (Safe Paradigm Inc.)"},{"d":"2015-08-27","t":"change","a":"5F, Shin-an Bldg. 89-8, Songpa-Gu Seoul KR 138-201","c":"KR","o":"S Digm Inc. (Safe Paradigm Inc.)"}]);

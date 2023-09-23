@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64c43000/36",[{"d":"2023-06-01","t":"add","s":"ieee-oui36.csv","a":"Building 2(floor 8), Financial Service Technology Innovation Base, No. 8 of Kefa Road, Science and Technology Park Community, Yuehai Street, Nanshan shenzhen guangdong CN 518057","c":"CN","o":"SHENZHEN SMARTLOG TECHNOLOGIES CO.,LTD"}]);

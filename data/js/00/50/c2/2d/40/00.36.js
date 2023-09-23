@@ -1,1 +1,0 @@
-macDetailCallback("0050c22d4000/36",[{"a":"3F,No.2-1, Industry E Rd., I, Science-based Industrial Park Hsinchu  TW 300","o":"Integrated System Solution Corp.","d":"2008-07-30","t":"add","s":"ieee","c":"TW"}]);

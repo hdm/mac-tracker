@@ -1,1 +1,0 @@
-macDetailCallback("0050c2ff9000/36",[{"a":"Vädursgatan 6 Göteborg Västra götaland SE 412 50","o":"Penttech AB","d":"2012-09-09","t":"add","s":"ieee","c":"SE"},{"d":"2019-02-28","t":"change","s":"ieee-iab.csv","a":"Vädursgatan 6 Göteborg Västra götaland SE 412 50","c":"SE","o":"AVA Monitoring AB"}]);

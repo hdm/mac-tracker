@@ -1,1 +1,0 @@
-macDetailCallback("001bab000000/24",[{"d":"2007-03-07","t":"add","a":"2905 Premiere Parkway\nSuite 280\nDuluth GA 30097\n","c":"UNITED STATES","o":"Telchemy, Incorporated","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2905 Premiere Parkway Duluth GA US 30097","c":"US","o":"Telchemy, Incorporated"}]);

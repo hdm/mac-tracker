@@ -1,1 +1,0 @@
-macDetailCallback("001a1a000000/24",[{"d":"2006-11-02","t":"add","a":"2456 Brown Avenue\nManchester NH 03103\n\n","c":"UNITED STATES","o":"Gentex Corporation/Electro-Acoustic Products"},{"d":"2015-08-27","t":"change","a":"2456 Brown Avenue Manchester NH US 03103","c":"US","o":"Gentex Corporation/Electro-Acoustic Products"}]);

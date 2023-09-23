@@ -1,1 +1,0 @@
-macDetailCallback("a0bb3ec00000/28",[{"a":"Avenida da Praia Grande No. 619 Macau Macau CN 000000","o":"Ewig Industries Macao Commercial Offshore Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

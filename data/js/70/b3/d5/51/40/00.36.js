@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5514000/36",[{"d":"2019-06-13","t":"add","s":"ieee-oui36.csv","a":"1480 US Highway 9 North Suite 202 Woodbridge NJ US 07095","c":"US","o":"Intelligent Security Systems (ISS)"}]);

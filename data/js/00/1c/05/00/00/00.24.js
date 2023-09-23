@@ -1,1 +1,0 @@
-macDetailCallback("001c05000000/24",[{"d":"2007-04-08","t":"add","a":"13700 1st Avenue North\nPlymouth MN 55441\n\n","c":"UNITED STATES","o":"Nonin Medical Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"13700 1st Avenue North Plymouth MN US 55441","c":"US","o":"Nonin Medical Inc."}]);

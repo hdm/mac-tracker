@@ -1,1 +1,0 @@
-macDetailCallback("000d44000000/24",[{"d":"2003-06-01","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2009-06-23","t":"change","a":"1499 SE Tech Center Place\nSuite 350\nVancouver WA 98683\n","c":"UNITED STATES","o":"Audio BU - Logitech"},{"d":"2015-08-27","t":"change","a":"1499 SE Tech Center Place Vancouver WA US 98683","c":"US","o":"Audio BU - Logitech"}]);

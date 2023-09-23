@@ -1,1 +1,0 @@
-macDetailCallback("001dc6000000/24",[{"d":"2007-08-18","t":"add","a":"VBIC T223ho, ICU, 103-6 Munji-dong, Youseong-gu\nDaejeon  305-732\n\n","c":"KOREA, REPUBLIC OF","o":"SNR Inc."},{"d":"2015-08-27","t":"change","a":"VBIC T223ho, ICU, 103-6 Munji-dong, Youseong-gu Daejeon  KR 305-732","c":"KR","o":"SNR Inc."}]);

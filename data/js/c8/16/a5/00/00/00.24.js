@@ -1,1 +1,0 @@
-macDetailCallback("c816a5000000/24",[{"d":"2016-08-09","t":"add","a":"40 Parker Irvine CA US 92618","c":"US","o":"Masimo Corporation"},{"d":"2023-07-01","t":"change","s":"ieee-oui.csv","a":"52 Discovery Irvine CA US 92618","c":"US","o":"Masimo Corporation"}]);

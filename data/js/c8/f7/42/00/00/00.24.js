@@ -1,1 +1,0 @@
-macDetailCallback("c8f742000000/24",[{"d":"2018-10-04","t":"add","s":"ieee-oui.csv","a":"Room 106, No.611 Jianghong Road, Binjiang District, Hangzhou, Zhejiang, China Hangzhou ZheJiang CN 310052 ","c":"CN","o":"HangZhou Gubei Electronics Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("9ce1d6000000/24",[{"d":"2012-10-11","t":"add","a":"Justus-von-Liebig-Strasse 7\n12489 Berlin\n\n","c":"GERMANY","o":"Junger Audio-Studiotechnik GmbH"},{"d":"2015-08-27","t":"change","a":"Justus-von-Liebig-Strasse 7 12489 Berlin  US","c":"US","o":"Junger Audio-Studiotechnik GmbH"}]);

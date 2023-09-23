@@ -1,1 +1,0 @@
-macDetailCallback("241510700000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"No.10 Xinting Road,Suzhou New District Suzhou Jiangsu CN 215000","c":"CN","o":"SuZhou A-rack Information Technology Co.,Ltd"}]);

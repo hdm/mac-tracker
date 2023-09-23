@@ -1,1 +1,0 @@
-macDetailCallback("4c5369000000/24",[{"d":"2022-03-03","t":"add","s":"ieee-oui.csv","a":"No.8,Gang’an 2nd Road,Jiangbei District,Chongqing,P.R.China ChongQing ChongQing CN 400025","c":"CN","o":"YanFeng Visteon(ChongQing) Automotive Electronic Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("04c05b000000/24",[{"d":"2009-10-28","t":"add","a":"170 Knowles Dr\nLos Gatos CA 95032\n\n","c":"UNITED STATES","o":"Tigo Energy"},{"d":"2015-08-27","t":"change","a":"170 Knowles Dr Los Gatos CA US 95032","c":"US","o":"Tigo Energy"}]);

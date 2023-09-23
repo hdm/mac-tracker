@@ -1,1 +1,0 @@
-macDetailCallback("8c1f649df000/36",[{"d":"2023-06-23","t":"add","s":"ieee-oui36.csv","a":"No# 35, Krishna Reddy Layout,Domlur Bangalore Karnataka IN 560071","c":"IN","o":"astTECS Communications Private Limited"}]);

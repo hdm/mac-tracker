@@ -1,1 +1,0 @@
-macDetailCallback("1c6066000000/24",[{"d":"2023-06-29","t":"add","s":"ieee-oui.csv","a":"Plot 25 JP Software Park Electronics City Phase-1 Bangalore Karnataka IN 560100","c":"IN","o":"TEJAS NETWORKS LTD"}]);

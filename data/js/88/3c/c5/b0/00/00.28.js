@@ -1,1 +1,0 @@
-macDetailCallback("883cc5b00000/28",[{"d":"2022-06-07","t":"add","s":"ieee-mam.csv","a":"Room 301, Building A, Comprehensive Building, Jinlaiwang Industrial Park, No. 7, Jiayi Industrial Park, Guixiang Community, Guanlan Street, Longhua District, Shenzhen SHENZHEN  CN 51800","c":"CN","o":"Shenzhen shijia chuangxin Technology Co., Ltd"}]);

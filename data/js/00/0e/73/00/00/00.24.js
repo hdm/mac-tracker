@@ -1,1 +1,0 @@
-macDetailCallback("000e73000000/24",[{"d":"2003-12-21","t":"add","a":"Lautrupbjerg 7 - 11\nDK 2750  Ballerup  DK 2750\n\n","c":"DENMARK","o":"Tpack A/S","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Lautrupbjerg 7 - 11 DK 2750  Ballerup  DK DK 2750","c":"DK","o":"Tpack A/S"}]);

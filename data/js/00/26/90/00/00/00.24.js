@@ -1,1 +1,0 @@
-macDetailCallback("002690000000/24",[{"d":"2009-06-21","t":"add","a":"1308, WoolimLions2nd Doksan Station\nSeoul  153-787\n\n","c":"KOREA, REPUBLIC OF","o":"I DO IT","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1308, WoolimLions2nd Doksan Station Seoul  KR 153-787","c":"KR","o":"I DO IT"}]);

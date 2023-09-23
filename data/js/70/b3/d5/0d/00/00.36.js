@@ -1,1 +1,0 @@
-macDetailCallback("70b3d50d0000/36",[{"d":"2018-12-05","t":"add","s":"ieee-oui36.csv","a":"Rua Felipe José de Figueiredo, 45 São Paulo São Paulo BR 03807300","c":"BR","o":"ProHound Controles Eirelli"}]);

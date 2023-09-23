@@ -1,1 +1,0 @@
-macDetailCallback("5cc213000000/24",[{"d":"2011-11-11","t":"add","a":"Im Surinam 55\nBasel BS CH4016\n\n","c":"SWITZERLAND","o":"Fr. Sauter AG"},{"d":"2015-08-27","t":"change","a":"Im Surinam 55 Basel BS CH CH4016","c":"CH","o":"Fr. Sauter AG"}]);

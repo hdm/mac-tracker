@@ -1,1 +1,0 @@
-macDetailCallback("384b76000000/24",[{"d":"2014-06-11","t":"add","a":"Vestergade 20C\nCopenhagen C Copenhagen 1456\n\n","c":"DENMARK","o":"AIRTAME ApS"},{"d":"2015-08-27","t":"change","a":"Vestergade 20C Copenhagen C Copenhagen DK 1456","c":"DK","o":"AIRTAME ApS"}]);

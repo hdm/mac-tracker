@@ -1,1 +1,0 @@
-macDetailCallback("000ba4000000/24",[{"d":"2002-11-19","t":"add","a":"23 Hasivim St.\nPetach Tikva  49170\n\n","c":"ISRAEL","o":"Shiron Satellite Communications Ltd. (1996)","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"23 Hasivim St. Petach Tikva  IL 49170","c":"IL","o":"Shiron Satellite Communications Ltd. (1996)"}]);

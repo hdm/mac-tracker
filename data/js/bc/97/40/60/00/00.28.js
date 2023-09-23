@@ -1,1 +1,0 @@
-macDetailCallback("bc9740600000/28",[{"d":"2019-03-22","t":"add","s":"ieee-mam.csv","a":"201-2，2nd Floor,G3 Building, TCL International E City,1001 Zhongshanyuan Road,Nanshan District Shenzhen Guangdong CN 518055","c":"CN","o":"Shenzhen Colorwin Optical Technology Co.,Ltd"}]);

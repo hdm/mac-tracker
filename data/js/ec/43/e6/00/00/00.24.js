@@ -1,1 +1,0 @@
-macDetailCallback("ec43e6000000/24",[{"d":"2009-12-09","t":"add","a":"100-413 Bucheon Technopark\n364 SanJeong-dong, Ojeong-gu\nBucheon-city Gyeonggi-do 421-741\n","c":"KOREA, REPUBLIC OF","o":"AWCER Ltd."},{"d":"2015-08-27","t":"change","a":"100-413 Bucheon Technopark Bucheon-city Gyeonggi-do KR 421-741","c":"KR","o":"AWCER Ltd."}]);

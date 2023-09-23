@@ -1,1 +1,0 @@
-macDetailCallback("000ca3000000/24",[{"d":"2003-03-05","t":"add","a":"10783 Bell Court\nRancho Cucamonga CA 19730\n\n","c":"UNITED STATES","o":"Rancho Technology, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"10783 Bell Court Rancho Cucamonga CA US 19730","c":"US","o":"Rancho Technology, Inc."}]);

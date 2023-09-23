@@ -1,1 +1,0 @@
-macDetailCallback("70b3d55c0000/36",[{"d":"2020-07-24","t":"add","s":"ieee-oui36.csv","a":"No. 25, Tianrong road, Tianliao second industrial park, Yutang street, Guangming new district Shenzhen Guangdong  CN 518132","c":"CN","o":"Shenzhen Lianfaxun Electronic Technology Co., Ltd"}]);

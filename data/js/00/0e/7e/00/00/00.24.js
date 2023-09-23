@@ -1,1 +1,0 @@
-macDetailCallback("000e7e000000/24",[{"d":"2003-12-21","t":"add","a":"P.O.BOX  219\n(street) Isokatu 21\nRauma Satakunta FIN-26100\n","c":"FINLAND","o":"Comprog Oy","s":"wireshark.org"},{"d":"2009-06-23","t":"change","a":"P.O.BOX  246\nFI-26101\nRauma\n","c":"FINLAND","o":"ionSign Oy"},{"d":"2015-08-27","t":"change","a":"P.O.BOX  246 Rauma  FI","c":"FI","o":"ionSign Oy"}]);

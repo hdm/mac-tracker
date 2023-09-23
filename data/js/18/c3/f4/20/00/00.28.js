@@ -1,1 +1,0 @@
-macDetailCallback("18c3f4200000/28",[{"d":"2022-06-02","t":"add","s":"ieee-mam.csv","a":"B4-106/109, Jiahua Intelligence Valley Industrial Park, 877 Huijin Road, Yuhua District Changsha Hunan CN 410001","c":"CN","o":"Changsha Kiloview Electronics Co., Ltd."}]);

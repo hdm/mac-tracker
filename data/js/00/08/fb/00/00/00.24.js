@@ -1,1 +1,0 @@
-macDetailCallback("0008fb000000/24",[{"d":"2002-01-30","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2004-02-12","t":"change","a":"21919 30th Drive SE\nBothell WA 98021\n\n","c":"UNITED STATES","o":"SonoSite, Inc."},{"d":"2015-08-27","t":"change","a":"21919 30th Drive SE Bothell WA US 98021","c":"US","o":"SonoSite, Inc."}]);

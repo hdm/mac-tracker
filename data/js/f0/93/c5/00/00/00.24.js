@@ -1,1 +1,0 @@
-macDetailCallback("f093c5000000/24",[{"d":"2012-05-23","t":"add","a":"2130 Oak Bend Lane\nGarland TX 75040\n\n","c":"UNITED STATES","o":"Garland Technology"},{"d":"2015-08-27","t":"change","a":"2130 Oak Bend Lane Garland TX US 75040","c":"US","o":"Garland Technology"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d8dd5f000000/24",[{"d":"2013-11-19","t":"add","a":"5-1-21 Kyonancho\nMusashino Tokyo 180-0023\n\n","c":"JAPAN","o":"BALMUDA Inc."},{"d":"2015-08-27","t":"change","a":"5-1-21 Kyonancho Musashino Tokyo JP 180-0023","c":"JP","o":"BALMUDA Inc."}]);

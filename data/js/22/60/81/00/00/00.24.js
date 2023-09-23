@@ -1,1 +1,0 @@
-macDetailCallback("226081000000/24",[{"d":"2015-08-27","t":"add","a":"13755 Hutton Drive Suite 500\nFarmers Branch  TX  75234\n\n","c":"US","o":"razberi technologies"},{"d":"2015-09-02","t":"delete","a":"13755 Hutton Drive Suite 500\nFarmers Branch  TX  75234\n\n","c":"US","o":"razberi technologies"}]);

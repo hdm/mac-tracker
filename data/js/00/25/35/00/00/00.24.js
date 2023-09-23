@@ -1,1 +1,0 @@
-macDetailCallback("002535000000/24",[{"d":"2009-02-15","t":"add","a":"Industriestrasse 10/12\nBad Oldesloe SH 23840\n\n","c":"GERMANY","o":"Minimax GmbH & Co KG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Industriestrasse 10/12 Bad Oldesloe SH DE 23840","c":"DE","o":"Minimax GmbH & Co KG"}]);

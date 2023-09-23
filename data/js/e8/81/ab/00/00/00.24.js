@@ -1,1 +1,0 @@
-macDetailCallback("e881ab000000/24",[{"d":"2021-12-28","t":"add","s":"ieee-oui.csv","a":"BC Building, China Electronic Science Taiji Information Technology Industry Base, Yard 7, Rongda Road, Chaoyang District Beijing  CN 100102","c":"CN","o":"Beijing Sankuai Online Technology Co.,Ltd"}]);

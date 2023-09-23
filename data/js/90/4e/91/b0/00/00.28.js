@@ -1,1 +1,0 @@
-macDetailCallback("904e91b00000/28",[{"a":"Rm. 1102, Science and Technology Building A, No. 900 of Yishan Road, Xuhui District, Shanghai  CN 200030","o":"Shanghai JaWay Information Technology Co., Ltd.","d":"2017-06-04","t":"add","s":"ieee","c":"CN"}]);

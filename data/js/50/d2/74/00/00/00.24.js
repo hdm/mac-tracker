@@ -1,1 +1,0 @@
-macDetailCallback("50d274000000/24",[{"d":"2012-01-12","t":"add","a":"3050 Highway 22 North\nDickinson ND 58601\n\n","c":"UNITED STATES","o":"Steffes Corporation"},{"d":"2015-08-27","t":"change","a":"3050 Highway 22 North Dickinson ND US 58601","c":"US","o":"Steffes Corporation"}]);

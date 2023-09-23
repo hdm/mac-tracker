@@ -1,1 +1,0 @@
-macDetailCallback("00a0bb000000/24",[{"d":"2000-09-08","t":"add","a":"HAID-UND-NEU-STRASSE 7\nD-76131 KARLSRUHE\n\n","c":"GERMANY","o":"HILAN GMBH"},{"d":"2015-08-27","t":"change","a":"HAID-UND-NEU-STRASSE 7   DE","c":"DE","o":"HILAN GMBH"}]);

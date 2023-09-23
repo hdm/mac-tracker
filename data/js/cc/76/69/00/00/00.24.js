@@ -1,1 +1,0 @@
-macDetailCallback("cc7669000000/24",[{"d":"2010-10-07","t":"add","a":"19-15, Seoku-dong\nHwasung-si Gyeonggi-do 445-170\n\n","c":"KOREA, REPUBLIC OF","o":"SEETECH"},{"d":"2015-08-27","t":"change","a":"19-15, Seoku-dong Hwasung-si Gyeonggi-do KR 445-170","c":"KR","o":"SEETECH"}]);

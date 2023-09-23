@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6424c000/36",[{"d":"2022-12-01","t":"add","s":"ieee-oui36.csv","a":"Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Shenzhen, China Shenzhen Guangdong CN 518108","c":"CN","o":"Shenzhen Link-All Technolgy Co., Ltd"}]);

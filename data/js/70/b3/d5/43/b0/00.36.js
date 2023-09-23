@@ -1,1 +1,0 @@
-macDetailCallback("70b3d543b000/36",[{"a":"6/2 & 6/3,Pappampatti Pirivu, Trichy Road, Coimbatore Tamil Nadu IN 641103","o":"Kalycito Infotech Private Limited","d":"2015-05-31","t":"add","s":"ieee","c":"IN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5c86000/36",[{"a":"Na 555, EZEN Mecha zone, 117 Hwanggeum-ro, Yangchon-eup Gimpo Gyeonggi-do KR 10048","o":"Woodam Co., Ltd.","d":"2016-07-31","t":"add","s":"ieee","c":"KR"}]);

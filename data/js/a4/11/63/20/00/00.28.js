@@ -1,1 +1,0 @@
-macDetailCallback("a41163200000/28",[{"a":"Room 6012 Innovation Building ,NO.101 Southwest of 4th Ring Road, Fengtai District Beijing Beijing CN 100070","o":"Allgo Tech. (Beijing) Co.,Ltd","d":"2016-12-04","t":"add","s":"ieee","c":"CN"}]);

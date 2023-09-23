@@ -1,1 +1,0 @@
-macDetailCallback("78d800d00000/28",[{"a":"#323, 3F, Kyoungin Center, 20, Baekbeom-ro 577beon-gil, Bupyeong-gu Incheon  KR 21449","o":"Korea Micro Wireless Co.,Ltd.","d":"2017-04-16","t":"add","s":"ieee","c":"KR"}]);

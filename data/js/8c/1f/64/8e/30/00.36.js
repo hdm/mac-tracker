@@ -1,1 +1,0 @@
-macDetailCallback("8c1f648e3000/36",[{"d":"2022-11-23","t":"add","s":"ieee-oui36.csv","a":"7F.-3, No. 15, Lane  360, Sec. 1, Neihu Rd., Neihu Dist., Taipei  TW 114064","c":"TW","o":"UniTik Technology Co., Limited"}]);

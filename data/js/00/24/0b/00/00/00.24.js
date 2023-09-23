@@ -1,1 +1,0 @@
-macDetailCallback("00240b000000/24",[{"d":"2008-10-26","t":"add","a":"3 LAN Drive\nWestford MA 01886\n\n","c":"UNITED STATES","o":"Virtual Computer Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3 LAN Drive Westford MA US 01886","c":"US","o":"Virtual Computer Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("58c41e000000/28",[{"d":"2023-04-18","t":"add","s":"ieee-mam.csv","a":"Room 701, 7th Floor, 1035 Gaopu Road, Tianhe District Guangzhou Guangdong CN 510640","c":"CN","o":"Guangzhou TeleStar Communication Consulting Service Co., Ltd"}]);

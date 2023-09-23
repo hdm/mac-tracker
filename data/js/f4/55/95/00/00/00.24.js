@@ -1,1 +1,0 @@
-macDetailCallback("f45595000000/24",[{"d":"2010-03-16","t":"add","a":"8th Floor,Tower B,Xinsheng Mansion No.5 Financial Street,\nXicheng District\nBeijing  100140\n","c":"CHINA","o":"HENGBAO Corporation LTD."},{"d":"2015-08-27","t":"change","a":"8th Floor,Tower B,Xinsheng Mansion No.5 Financial Street, Beijing  CN 100140","c":"CN","o":"HENGBAO Corporation LTD."}]);

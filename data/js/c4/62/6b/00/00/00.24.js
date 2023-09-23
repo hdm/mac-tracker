@@ -1,1 +1,0 @@
-macDetailCallback("c4626b000000/24",[{"d":"2014-01-01","t":"add","a":"Vigantice 266\nRoznov pod Radhostem  75661\n\n","c":"CZECH REPUBLIC","o":"ZPT Vigantice"},{"d":"2015-08-27","t":"change","a":"Vigantice 266 Roznov pod Radhostem  CZ 75661","c":"CZ","o":"ZPT Vigantice"}]);

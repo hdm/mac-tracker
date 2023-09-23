@@ -1,1 +1,0 @@
-macDetailCallback("f0221de00000/28",[{"d":"2022-09-11","t":"add","s":"ieee-mam.csv","a":"6F, No.18, Prosperity Rd. II, Science-Based Industrial Park Hsinchu  TW 30078","c":"TW","o":"oToBrite Electronics, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("5027c7000000/24",[{"d":"2013-07-16","t":"add","a":"2-21 Nishiohjicho\nKusatsu Shiga 525-0037\n\n","c":"JAPAN","o":"TECHNART Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"2-21 Nishiohjicho Kusatsu Shiga JP 525-0037","c":"JP","o":"TECHNART Co.,Ltd"}]);

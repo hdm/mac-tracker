@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5563000/36",[{"a":"Liandu District Information Industry Park 12 Lishui ZhejiangZhejiang Hao Teng Electronic Technology Co., Ltd. CN 323000","o":"Zhejiang Hao Teng Electronic Technology Co., Ltd.","d":"2016-10-16","t":"add","s":"ieee","c":"CN"}]);

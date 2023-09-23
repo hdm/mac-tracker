@@ -1,1 +1,0 @@
-macDetailCallback("143365000000/24",[{"d":"2016-06-08","t":"add","a":"RM1703, North Block, Cangsong Building, Tairan 6 road, Futian District, Shenzhen. Shenzhen Guangdong CN 518000","c":"CN","o":"TEM Mobile Limited"}]);

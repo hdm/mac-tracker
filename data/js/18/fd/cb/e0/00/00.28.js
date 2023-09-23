@@ -1,1 +1,0 @@
-macDetailCallback("18fdcbe00000/28",[{"d":"2020-07-24","t":"add","s":"ieee-mam.csv","a":"NO. 35, WAN HSING ST., SAN MIN DIST., KAOHSIUNG, TAIWAN, R.O.C Kaohsiung  TW 807","c":"TW","o":"KWANG YANG MOTOR CO.,LTD"}]);

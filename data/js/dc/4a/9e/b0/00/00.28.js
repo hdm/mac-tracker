@@ -1,1 +1,0 @@
-macDetailCallback("dc4a9eb00000/28",[{"d":"2020-09-05","t":"add","s":"ieee-mam.csv","a":"16F,East Block,High-tech Plaza Phase II,Tianan Cyber Park,Futian District,Shenzhen. Shenzhen.  CN 518000","c":"CN","o":"Maxvision Technology Corp."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c4a559a00000/28",[{"d":"2022-10-22","t":"add","s":"ieee-mam.csv","a":"NO.21, Changsheng Street, Luquan Economic Development Zone Shijiazhuang  Hebei Prov CN 050000","c":"CN","o":"Hebei Far-East Communication System Engineerning Co.,Ltd."}]);

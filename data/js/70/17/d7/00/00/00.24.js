@@ -1,1 +1,0 @@
-macDetailCallback("7017d7000000/24",[{"d":"2022-12-08","t":"add","s":"ieee-oui.csv","a":"A-522, No. 188, Yesheng Road, LIN-GANG Special Area, China (Shanghai) Pilot Free Trade Zone Shanghai Shanghai CN 201306","c":"CN","o":"Shanghai Enflame Technology Co., Ltd."}]);

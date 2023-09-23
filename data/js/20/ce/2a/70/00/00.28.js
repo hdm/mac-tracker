@@ -1,1 +1,0 @@
-macDetailCallback("20ce2a700000/28",[{"d":"2021-02-11","t":"add","s":"ieee-mam.csv","a":"Room 318,the 3rd Floorl,Xingtianhaiyuan Building,Xianghuangqi East Rd,Nongda South Rd, Haidian District,Beijing,P.R.C Bei Jing  CN 100193","c":"CN","o":"Beijing Huadianzhongxin Tech.Co.,Ltd"}]);

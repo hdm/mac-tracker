@@ -1,1 +1,0 @@
-macDetailCallback("14c35e000000/24",[{"d":"2023-01-15","t":"add","s":"ieee-oui.csv","a":"17, Deep Vihar, Vikas Nagar, Near Durga Mata Mandir, Uttam Nagar New Delhi New Delhi New Delhi IN 110059","c":"IN","o":"FibRSol Global Network Limited"}]);

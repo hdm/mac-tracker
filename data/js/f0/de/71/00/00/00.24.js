@@ -1,1 +1,0 @@
-macDetailCallback("f0de71000000/24",[{"d":"2009-08-20","t":"add","a":"Unit 12302, Building 12,498 Guoshoujing Road, Pudong New Area\nShanghai  201203\n\n","c":"CHINA","o":"Shanghai EDO Technologies Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"Unit 12302, Building 12,498 Guoshoujing Road, Pudong New Area Shanghai  CN 201203","c":"CN","o":"Shanghai EDO Technologies Co.,Ltd."}]);

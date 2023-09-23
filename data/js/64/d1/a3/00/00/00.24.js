@@ -1,1 +1,0 @@
-macDetailCallback("64d1a3000000/24",[{"d":"2011-01-14","t":"add","a":"Linatebaan 101\nRotterdam Zuid-Holland 3045 AH\n\n","c":"NETHERLANDS","o":"Sitecom Europe BV"},{"d":"2015-08-27","t":"change","a":"Linatebaan 101 Rotterdam Zuid Holland NL 3045 AH","c":"NL","o":"Sitecom Europe BV"}]);

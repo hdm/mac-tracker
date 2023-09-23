@@ -1,1 +1,0 @@
-macDetailCallback("5cf838c00000/28",[{"d":"2023-08-19","t":"add","s":"ieee-mam.csv","a":"No.19 Tianyu Rd. Western Park, Hi-tech Zone Chengdu Sichuan CN 611731","c":"CN","o":"Sichuan Zhongguang Lightning Protection Technologies Co., Ltd."}]);

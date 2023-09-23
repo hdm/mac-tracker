@@ -1,1 +1,0 @@
-macDetailCallback("001ef2000000/24",[{"d":"2007-12-31","t":"add","a":"7070 Winchester Circle\nBoulder CO 80301\n\n","c":"UNITED STATES","o":"Micro Motion Inc"},{"d":"2015-08-27","t":"change","a":"7070 Winchester Circle Boulder CO US 80301","c":"US","o":"Micro Motion Inc"}]);

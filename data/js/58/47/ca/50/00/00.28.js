@@ -1,1 +1,0 @@
-macDetailCallback("5847ca500000/28",[{"d":"2023-03-11","t":"add","s":"ieee-mam.csv","a":"No. 63 , Humei Street , Dashuling, Qingtang Village,Xiaojinkou huizhou Guangdong CN 516000","c":"CN","o":"Huizhou Jiemeisi Technology Co., Ltd"}]);

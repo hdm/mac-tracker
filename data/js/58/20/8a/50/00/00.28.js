@@ -1,1 +1,0 @@
-macDetailCallback("58208a500000/28",[{"d":"2020-07-29","t":"add","s":"ieee-mam.csv","a":"1F., No. 19, Huanmei 2nd St., Donggang Township Plngtung County  TW 928","c":"TW","o":"JIA HUANG JHAN YE CO.,LTD"}]);

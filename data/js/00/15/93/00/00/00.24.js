@@ -1,1 +1,0 @@
-macDetailCallback("001593000000/24",[{"d":"2005-08-24","t":"add","a":"48860 Milmont Drive\nSuite107C\nFremont CA 94538\n","c":"UNITED STATES","o":"U4EA Technologies Inc."},{"d":"2015-08-27","t":"change","a":"48860 Milmont Drive Fremont CA US 94538","c":"US","o":"U4EA Technologies Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("643139300000/28",[{"d":"2019-09-13","t":"add","s":"ieee-mam.csv","a":"7F., No. 566, Zhongzheng Rd., Xindian Dist. New Taipei City  TW 23148","c":"TW","o":"KOANGYOW INTEGRATION MACHINE CO., LTD."}]);

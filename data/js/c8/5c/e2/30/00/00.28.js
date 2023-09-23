@@ -1,1 +1,0 @@
-macDetailCallback("c85ce2300000/28",[{"d":"2023-07-27","t":"add","s":"ieee-mam.csv","a":"Yuehai Street Shenzhen  guangdong CN 518057","c":"CN","o":"ECOCHIP Communication Technology(shenzhen)Co.Ltd."}]);

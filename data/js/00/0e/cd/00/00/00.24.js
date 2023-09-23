@@ -1,1 +1,0 @@
-macDetailCallback("000ecd000000/24",[{"d":"2003-12-21","t":"add","a":"Hedelund 4\nGlyngoere\nRoslev  DK-7870\n","c":"DENMARK","o":"SKOV A/S","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Hedelund 4 Roslev  DK DK-7870","c":"DK","o":"SKOV A/S"}]);

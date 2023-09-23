@@ -1,1 +1,0 @@
-macDetailCallback("000d4d000000/24",[{"d":"2003-06-01","t":"add","a":"#405 4F Diplomatic Center\nSeocho-gu, Seocho-dong\nSeoul  1376-1\n","c":"KOREA, REPUBLIC OF","o":"Ninelanes"},{"d":"2015-08-27","t":"change","a":"#405 4F Diplomatic Center Seoul  KR 1376-1","c":"KR","o":"Ninelanes"}]);

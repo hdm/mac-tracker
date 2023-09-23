@@ -1,1 +1,0 @@
-macDetailCallback("6879dd000000/24",[{"d":"2023-03-22","t":"add","s":"ieee-oui.csv","a":"2 WestLake Drive, WestLake Cape Town Western Cape ZA 7945","c":"ZA","o":"Omnipless Manufacturing (PTY) Ltd"}]);

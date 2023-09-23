@@ -1,1 +1,0 @@
-macDetailCallback("00508f000000/24",[{"d":"2000-09-08","t":"add","a":"UNIT 2 BALLYBRIT BUSINESS PARK\nGALWAY\n\n","c":"IRELAND","o":"ASITA TECHNOLOGIES INT'L LTD."},{"d":"2015-08-27","t":"change","a":"UNIT 2 BALLYBRIT BUSINESS PARK   IE","c":"IE","o":"ASITA TECHNOLOGIES INT'L LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("6459f8000000/24",[{"d":"2015-01-29","t":"add","a":"VIA JERVIS, 13 10015 IVREA (TO)\n\n\n","c":"ITALY","o":"Vodafone Omnitel B.V."},{"d":"2015-08-27","t":"change","a":"VIA JERVIS, 13 10015 IVREA (TO)   IT","c":"IT","o":"Vodafone Omnitel B.V."}]);

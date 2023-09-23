@@ -1,1 +1,0 @@
-macDetailCallback("ac361b000000/24",[{"d":"2023-08-19","t":"add","s":"ieee-oui.csv","a":"66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA  TAIPEI 66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI  CN 33859","c":"CN","o":"Hon Hai Precision Industry Co.,LTD"}]);

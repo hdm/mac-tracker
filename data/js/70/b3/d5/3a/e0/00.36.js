@@ -1,1 +1,0 @@
-macDetailCallback("70b3d53ae000/36",[{"a":"Technology park , P.O.box 327792 Ras Al Khaimah FTZ Ras Al Khaimah  AE 327792","o":"Exicom Technologies fze","d":"2016-05-29","t":"add","s":"ieee","c":"AE"}]);

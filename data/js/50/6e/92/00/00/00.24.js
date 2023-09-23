@@ -1,1 +1,0 @@
-macDetailCallback("506e92000000/24",[{"d":"2017-02-24","t":"add","a":"PROSIT AZUMA 3 #201, 1973, NIPPA-CHO, KOHOKU-KU,  YOKOHAMA-SHI KANAGAWA JP 2230057","c":"JP","o":"Innocent Technology Co., Ltd."}]);

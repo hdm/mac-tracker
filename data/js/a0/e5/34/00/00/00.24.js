@@ -1,1 +1,0 @@
-macDetailCallback("a0e534000000/24",[{"d":"2012-06-16","t":"add","a":"Gewerbestrasse 37\nBirkenfeld Baden Wuertemberg 75217\n\n","c":"GERMANY","o":"Stratec Biomedical AG"},{"d":"2015-08-27","t":"change","a":"Gewerbestrasse 37 Birkenfeld Baden Wuertemberg DE 75217","c":"DE","o":"Stratec Biomedical AG"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("b0e71d000000/24",[{"d":"2018-12-21","t":"add","s":"ieee-oui.csv","a":"Room 2211,No.88 Caoxi North Rd,Xuhui District Shanghai Shanghai CN 200030","c":"CN","o":"Shanghai Maigantech Co.,Ltd"}]);

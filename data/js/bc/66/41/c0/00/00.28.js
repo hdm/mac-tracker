@@ -1,1 +1,0 @@
-macDetailCallback("bc6641c00000/28",[{"a":"8th Block, Dongfangming Industry Park Shenzhen GuangDong CN 518000","o":"Shenzhen Crave Communication Co.,ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

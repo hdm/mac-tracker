@@ -1,1 +1,0 @@
-macDetailCallback("446fd8300000/28",[{"d":"2020-12-02","t":"add","s":"ieee-mam.csv","a":"The 3rd Floor, E4A Bldg?TCL International E city, NO.1001 zhongshanyuan Rd, Nanshan District shenzhen GuangDong CN 518052","c":"CN","o":"Shenzhen Mestechs Technology CO., LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("ecd925000000/24",[{"d":"2012-07-13","t":"add","a":"7 RUE RAOUL FOLLEREAU\nBUSSY ST GEORGES  77600\n\n","c":"FRANCE","o":"RAMI"},{"d":"2015-08-27","t":"change","a":"7 RUE RAOUL FOLLEREAU BUSSY ST GEORGES  FR 77600","c":"FR","o":"RAMI"}]);

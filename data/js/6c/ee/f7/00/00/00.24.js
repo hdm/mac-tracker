@@ -1,1 +1,0 @@
-macDetailCallback("6ceef7000000/24",[{"d":"2023-03-10","t":"add","s":"ieee-oui.csv","a":"2F, Building 6,Silicon Valley Power Digital Park, \nDafu Road, Guanlan, Longhua District,Shenzhen shenzhen Guangdong CN 518110","c":"CN","o":"shenzhen scodeno technology co., Ltd."}]);

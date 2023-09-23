@@ -1,1 +1,0 @@
-macDetailCallback("4c74a7900000/28",[{"d":"2022-08-12","t":"add","s":"ieee-mam.csv","a":"Unit E502-1, International Science and Technology Park, No. 1355 Jinjihu Avenue, Suzhou Industrial Park Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou XiongLi Technology Inc."}]);

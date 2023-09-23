@@ -1,1 +1,0 @@
-macDetailCallback("0016c3000000/24",[{"d":"2005-12-15","t":"add","a":"6895 Via Del Oro\nSan Jose CA 95119\n\n","c":"UNITED STATES","o":"BA Systems Inc"},{"d":"2015-08-27","t":"change","a":"6895 Via Del Oro San Jose CA US 95119","c":"US","o":"BA Systems Inc"}]);

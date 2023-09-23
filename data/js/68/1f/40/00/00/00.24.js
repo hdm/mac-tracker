@@ -1,1 +1,0 @@
-macDetailCallback("681f40000000/24",[{"d":"2017-05-11","t":"add","a":"Bluwireless Technology, 5th Floor, 1 Temple Way Bristol Bristol, City of GB BS2 0BY","c":"GB","o":"Blu Wireless Technology Ltd"}]);

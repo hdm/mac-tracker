@@ -1,1 +1,0 @@
-macDetailCallback("001f78000000/24",[{"d":"2008-01-07","t":"add","a":"1208 Pointe Centre Drive\nSTE 200\nChattanooga TN 37421\n","c":"UNITED STATES","o":"Blue Fox Porini Textile"},{"d":"2015-08-27","t":"change","a":"1208 Pointe Centre Drive Chattanooga TN US 37421","c":"US","o":"Blue Fox Porini Textile"}]);

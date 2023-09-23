@@ -1,1 +1,0 @@
-macDetailCallback("280c2d000000/24",[{"d":"2022-12-13","t":"add","s":"ieee-oui.csv","a":"2F-5F, Bldg B, No.37, Zhenxing Road\nLiyuhe Industrial Park, Loucun,\nGongming, shenzhen, China, 518107 China shenzhen CN 518107","c":"CN","o":"QUALVISION TECHNOLOGY CO.,LTD"}]);

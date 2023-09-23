@@ -1,1 +1,0 @@
-macDetailCallback("08674e000000/24",[{"d":"2017-06-20","t":"add","a":"Song ling Road 399\n\n\n","c":"Qingdao    266000","o":"Hisense broadband multimedia technology Co.,Ltd"},{"d":"2017-06-22","t":"change","a":"Song ling Road 399 Qingdao  CN 266000","c":"CN","o":"Hisense broadband multimedia technology Co.,Ltd"}]);

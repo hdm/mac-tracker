@@ -1,1 +1,0 @@
-macDetailCallback("001131000000/24",[{"d":"2004-04-25","t":"add","a":"A-727 ,GEOPYUNG TOWN,203-1\nNONHYUNG-DONG\nKANGNAM-GU SEOUL 135-010\n","c":"KOREA, REPUBLIC OF","o":"UNATECH. CO.,LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"A-727 ,GEOPYUNG TOWN,203-1 KANGNAM-GU SEOUL US 135-010","c":"US","o":"UNATECH. CO.,LTD"}]);

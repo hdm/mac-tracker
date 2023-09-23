@@ -1,1 +1,0 @@
-macDetailCallback("0017a1000000/24",[{"d":"2006-03-15","t":"add","a":"shinyoung bldg 4f, chungdam-dong, gangnam-gu\nseoul  135-100\n\n","c":"KOREA, REPUBLIC OF","o":"3soft inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"shinyoung bldg 4f, chungdam-dong, gangnam-gu seoul  KR 135-100","c":"KR","o":"3soft inc."}]);

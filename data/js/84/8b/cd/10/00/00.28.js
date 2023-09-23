@@ -1,1 +1,0 @@
-macDetailCallback("848bcd100000/28",[{"d":"2019-02-23","t":"add","s":"ieee-mam.csv","a":"4/F, Building 1, Nangang 1st Industrial Park No. 1029, Songbai Road, Xili, Nanshan District SHENZHEN GUANGDONG CN 518055","c":"CN","o":"Shenzhen LTIME In-Vehicle Entertainment System Company Limited"}]);

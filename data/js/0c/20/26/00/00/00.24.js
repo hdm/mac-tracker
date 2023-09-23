@@ -1,1 +1,0 @@
-macDetailCallback("0c2026000000/24",[{"d":"2014-01-08","t":"add","a":"Am Forst 6\nEbersberg  85560\n\n","c":"GERMANY","o":"noax Technologies AG"},{"d":"2015-08-27","t":"change","a":"Am Forst 6 Ebersberg  DE 85560","c":"DE","o":"noax Technologies AG"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c0b357000000/24",[{"d":"2012-01-17","t":"add","a":"Ooicyoyo Building 7f\n5-12-10 Higashiooi\nShinagawa-ku Tokyo 140-0011\n","c":"JAPAN","o":"Yoshiki Electronics Industry Ltd."},{"d":"2015-08-27","t":"change","a":"Ooicyoyo Building 7f Shinagawa-ku Tokyo JP 140-0011","c":"JP","o":"Yoshiki Electronics Industry Ltd."}]);

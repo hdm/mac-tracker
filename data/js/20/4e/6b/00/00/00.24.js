@@ -1,1 +1,0 @@
-macDetailCallback("204e6b000000/24",[{"d":"2009-12-29","t":"add","a":"Habarzel 38\nTel aviv  69710\n\n","c":"ISRAEL","o":"Axxana(israel) ltd"},{"d":"2015-08-27","t":"change","a":"Habarzel 38 Tel aviv  IL 69710","c":"IL","o":"Axxana(israel) ltd"}]);

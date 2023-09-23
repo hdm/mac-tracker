@@ -1,1 +1,0 @@
-macDetailCallback("b484d5000000/24",[{"d":"2022-09-30","t":"add","s":"ieee-oui.csv","a":"RM1601,Crative BuildingII East Tianan City Futian Shenzhen Guangdong CN 518000","c":"CN","o":"GooWi Wireless Technology Co., Limited"}]);

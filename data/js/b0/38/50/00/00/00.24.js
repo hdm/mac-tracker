@@ -1,1 +1,0 @@
-macDetailCallback("b03850000000/24",[{"d":"2013-03-01","t":"add","a":"699-27 Xuanwu Avenue\n2nd Floor of Building A,R&D3\nNanjing Jiangsu 210000\n","c":"CHINA","o":"Nanjing CAS-ZDC IOT SYSTEM CO.,LTD"},{"d":"2015-08-27","t":"change","a":"699-27 Xuanwu Avenue Nanjing Jiangsu CN 210000","c":"CN","o":"Nanjing CAS-ZDC IOT SYSTEM CO.,LTD"}]);

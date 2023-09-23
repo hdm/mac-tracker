@@ -1,1 +1,0 @@
-macDetailCallback("00081d000000/24",[{"d":"2001-12-14","t":"add","a":"7945 MacArthur Blvd.\nSuite 212\nCabin John MD 20818\n","c":"UNITED STATES","o":"Ipsil, Incorporated"},{"d":"2015-08-27","t":"change","a":"7945 MacArthur Blvd. Cabin John MD US 20818","c":"US","o":"Ipsil, Incorporated"}]);

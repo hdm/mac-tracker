@@ -1,1 +1,0 @@
-macDetailCallback("000c42000000/24",[{"d":"2003-01-21","t":"add","a":"Pernavas 46\nRiga  LV-1009\n\n","c":"LATVIA","o":"Routerboard.com","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Pernavas 46 Riga  LV LV-1009","c":"LV","o":"Routerboard.com"}]);

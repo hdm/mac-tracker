@@ -1,1 +1,0 @@
-macDetailCallback("1c0b52000000/24",[{"d":"2011-12-13","t":"add","a":"Autovia Andalucia Km 12.700\nP.I Los Angeles\nGetafe Madrid 28905\n","c":"SPAIN","o":"EPICOM S.A"},{"d":"2015-08-27","t":"change","a":"Autovia Andalucia Km 12.700 Getafe Madrid ES 28905","c":"ES","o":"EPICOM S.A"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("ac77b9000000/24",[{"d":"2021-12-09","t":"add","s":"ieee-oui.csv","a":"Floor 3, Building 3, No.6 xuzhuang Road, Xuanwu District, Nanjing nanjing  CN 210000","c":"CN","o":"Nanjing Yufei Intelligent Control Technology Co.,LTD"}]);

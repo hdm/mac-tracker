@@ -1,1 +1,0 @@
-macDetailCallback("64fb81600000/28",[{"a":"3rd Floor,F region,418#,Tian Lin Road, Xuhui District, Shanghai shanghai shanghai CN 200233","o":"XIMO Communication Technology Co., Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

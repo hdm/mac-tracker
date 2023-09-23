@@ -1,1 +1,0 @@
-macDetailCallback("0c8c8f000000/24",[{"d":"2014-04-26","t":"add","a":"Room 1502, 15/F., Yue Xiu Building,\n160-174 Lockhart Road,\nWanchai Hong Kong 160-174\n","c":"CHINA","o":"Kamo Technology Limited"},{"d":"2015-08-27","t":"change","a":"Room 1502, 15/F., Yue Xiu Building, Wanchai Hong Kong CN 160-174","c":"CN","o":"Kamo Technology Limited"}]);

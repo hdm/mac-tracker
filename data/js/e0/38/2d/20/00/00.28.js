@@ -1,1 +1,0 @@
-macDetailCallback("e0382d200000/28",[{"d":"2022-09-24","t":"add","s":"ieee-mam.csv","a":"Room 112, No. 1 Workshop, AVIC Xi'an Computing Technology Research Institute, No. 15, Jinye Second Road, Xi'an Xi'an Shaanxi CN 710076","c":"CN","o":"Xi'an Xiangxun Technology Co., Ltd."}]);

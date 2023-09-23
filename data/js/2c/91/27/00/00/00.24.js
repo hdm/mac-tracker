@@ -1,1 +1,0 @@
-macDetailCallback("2c9127000000/24",[{"d":"2009-10-28","t":"add","a":"3359-1, kako, Inami-cho\nkako-gun hyogo 675-1105\n\n","c":"JAPAN","o":"Eintechno Corporation"},{"d":"2015-08-27","t":"change","a":"3359-1, kako, Inami-cho kako-gun hyogo JP 675-1105","c":"JP","o":"Eintechno Corporation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6438c000/36",[{"d":"2022-11-04","t":"add","s":"ieee-oui36.csv","a":"8th Floor, 99-4, Zhigu Dong Yi Road, Xike Town, Tong 'an District Xiamen Fujian CN 361100","c":"CN","o":"XIAMEN ZHIXIAOJIN INTELLIGENT TECHNOLOGY CO., LTD"}]);

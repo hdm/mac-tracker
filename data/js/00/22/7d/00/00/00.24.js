@@ -1,1 +1,0 @@
-macDetailCallback("00227d000000/24",[{"d":"2008-06-18","t":"add","a":"182 Shinko\nIruma Saitama 358-0055\n\n","c":"JAPAN","o":"YE DATA INC.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"182 Shinko Iruma Saitama JP 358-0055","c":"JP","o":"YE DATA INC."}]);

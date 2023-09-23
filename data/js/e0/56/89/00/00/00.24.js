@@ -1,1 +1,0 @@
-macDetailCallback("e05689000000/24",[{"d":"2023-03-11","t":"add","s":"ieee-oui.csv","a":"Lootom Industry Park, 182# Luou East Rd Wuxi Jiangsu CN 214161","c":"CN","o":"Lootom Telcovideo Network (Wuxi) Co Ltd"}]);

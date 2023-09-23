@@ -1,1 +1,0 @@
-macDetailCallback("c01e9b000000/24",[{"d":"2009-10-20","t":"add","a":"Dusavikveien 39\nStavanger  4003\n\n","c":"NORWAY","o":"Pixavi AS"},{"d":"2015-08-27","t":"change","a":"Dusavikveien 39 Stavanger  NO 4003","c":"NO","o":"Pixavi AS"}]);

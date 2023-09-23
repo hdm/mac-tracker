@@ -1,1 +1,0 @@
-macDetailCallback("78467d000000/24",[{"d":"2023-05-27","t":"add","s":"ieee-oui.csv","a":"Industry&Academy Joint center 85412,2066,Seobu-ro Jangan-gu,Suwon-si Gyeonggi-do KR 16419","c":"KR","o":"SKAIChips"}]);

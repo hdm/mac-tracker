@@ -1,1 +1,0 @@
-macDetailCallback("40b3fc000000/24",[{"d":"2011-04-08","t":"add","a":"Rm 901-902, 9/F, Nathan Centre,\n580G-K Nathan Road, Mongkok,\nKowloon\n","c":"HONG KONG","o":"Logital Co. Limited"},{"d":"2015-08-27","t":"change","a":"Rm 901-902, 9/F, Nathan Centre,  Kowloon  HK","c":"HK","o":"Logital Co. Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c8f8b000000/24",[{"d":"2018-05-25","t":"add","a":"6 building, No. 2, Xingguang three road\n\n\n","c":"Yubei District  Chongqing  401120","o":"China Mobile Chongqing branch"},{"d":"2018-05-30","t":"change","a":"6 building, No. 2, Xingguang three road Yubei District Chongqing CN 401120","c":"CN","o":"China Mobile Chongqing branch"}]);

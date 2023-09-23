@@ -1,1 +1,0 @@
-macDetailCallback("00159f000000/24",[{"d":"2005-08-24","t":"add","a":"145 Bodwell Street\nAvon MA 02322\n\n","c":"UNITED STATES","o":"Terascala, Inc."},{"d":"2015-08-27","t":"change","a":"145 Bodwell Street Avon MA US 02322","c":"US","o":"Terascala, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("a46cc1000000/24",[{"d":"2013-12-06","t":"add","a":"Heinrich-Hertz-StraÃe 18\nUnna North Rhine-Westfalia 59423\n\n","c":"GERMANY","o":"LTi REEnergy GmbH"},{"d":"2015-08-27","t":"change","a":"Heinrich-Hertz-Straße 18 Unna North Rhine-Westfalia DE 59423","c":"DE","o":"LTi REEnergy GmbH"}]);

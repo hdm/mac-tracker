@@ -1,1 +1,0 @@
-macDetailCallback("0050d6000000/24",[{"d":"2000-09-08","t":"add","a":"S-105 23 STOCKHOLM\n\n\n","c":"SWEDEN","o":"ATLAS COPCO TOOLS AB"},{"d":"2002-06-05","t":"change","a":"\nS-105 23 STOCKHOLM\n\n","c":"SWEDEN","o":"ATLAS COPCO TOOLS AB"},{"d":"2015-08-27","t":"change","a":"S-105 23 STOCKHOLM  SE","c":"SE","o":"ATLAS COPCO TOOLS AB"}]);

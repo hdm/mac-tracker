@@ -1,1 +1,0 @@
-macDetailCallback("c0eac3d00000/28",[{"d":"2022-11-23","t":"add","s":"ieee-mam.csv","a":"5F, No.415, Ti-Ding Blvd., Sec. 2, Neihu Dist., Taipei Taiwan TW 11493","c":"TW","o":"Kontron Asia Technology Inc."}]);

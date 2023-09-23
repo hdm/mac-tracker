@@ -1,1 +1,0 @@
-macDetailCallback("001eed000000/24",[{"d":"2007-12-31","t":"add","a":"Technology House\nTrafalgar Way\nBar Hill Cambs. CB3 8SQ\n","c":"UNITED KINGDOM","o":"Adventiq Ltd."},{"d":"2015-08-27","t":"change","a":"Technology House Bar Hill Cambs. GB CB3 8SQ","c":"GB","o":"Adventiq Ltd."}]);

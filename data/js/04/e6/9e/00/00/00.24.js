@@ -1,1 +1,0 @@
-macDetailCallback("04e69e000000/24",[{"d":"2021-12-17","t":"add","s":"ieee-oui.csv","a":"13th Floor,Unit3,Building2,IC Park,NO.9 FengHao East Road, Haidian District Beijing Beijing CN 100094","c":"CN","o":"ZHONGGUANCUN XINHAIZEYOU TECHNOLOGY CO.,LTD"}]);

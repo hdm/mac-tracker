@@ -1,1 +1,0 @@
-macDetailCallback("f854af000000/24",[{"d":"2013-07-11","t":"add","a":"30 Hasivim St.\nPetah Tikva  49133\n\n","c":"ISRAEL","o":"ECI Telecom Ltd."},{"d":"2015-08-27","t":"change","a":"30 Hasivim St. Petah Tikva  IL 49133","c":"IL","o":"ECI Telecom Ltd."}]);

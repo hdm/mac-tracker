@@ -1,1 +1,0 @@
-macDetailCallback("001da3000000/24",[{"d":"2007-08-18","t":"add","a":"189 S State Suite #250\nClearfield Utah 84015\n\n","c":"UNITED STATES","o":"SabiOso"},{"d":"2015-08-27","t":"change","a":"189 S State Suite #250 Clearfield Utah US 84015","c":"US","o":"SabiOso"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("3495db000000/24",[{"d":"2013-03-30","t":"add","a":"8268 Rokudohara, Misuzu\nIna Nagano 3960111\n\n","c":"JAPAN","o":"Logitec Corporation"},{"d":"2015-08-27","t":"change","a":"8268 Rokudohara, Misuzu Ina Nagano JP","c":"JP","o":"Logitec Corporation"}]);

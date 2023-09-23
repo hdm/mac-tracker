@@ -1,1 +1,0 @@
-macDetailCallback("001fdc000000/24",[{"d":"2008-02-09","t":"add","a":"Niemenkatu 73\n15149 Lahti\n\n","c":"FINLAND","o":"Mobile Safe Track Ltd"},{"d":"2015-08-27","t":"change","a":"Niemenkatu 73 15149 Lahti FI","c":"FI","o":"Mobile Safe Track Ltd"}]);

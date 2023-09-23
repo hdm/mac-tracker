@@ -1,1 +1,0 @@
-macDetailCallback("000a66000000/24",[{"d":"2002-08-03","t":"add","a":"1-4-13 OOYODONAKA,KITA-KU\nOSAKA  531-0076\n\n","c":"JAPAN","o":"MITSUBISHI ELECTRIC SYSTEM & SERVICE CO.,LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-4-13 OOYODONAKA,KITA-KU OSAKA  JP 531-0076","c":"JP","o":"MITSUBISHI ELECTRIC SYSTEM & SERVICE CO.,LTD."}]);

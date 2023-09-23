@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5856000/36",[{"d":"2020-07-17","t":"add","s":"ieee-oui36.csv","a":"No.102,Lixi Road.ChangNing district Shanghai Shanghai CN 200050","c":"CN","o":"Shanghai Westwell Information and Technology Company Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000823000000/24",[{"d":"2001-12-14","t":"add","a":"Nara Bldg. 3F, 2-2-8 Shin-Yokohama,\nKohoku-ku, Yokohama\n222-0033\n","c":"JAPAN","o":"Texa Corp."},{"d":"2015-08-27","t":"change","a":"Nara Bldg. 3F, 2-2-8 Shin-Yokohama,   JP 222-0033","c":"JP","o":"Texa Corp."}]);

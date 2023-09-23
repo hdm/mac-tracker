@@ -1,1 +1,0 @@
-macDetailCallback("001afd000000/24",[{"d":"2007-01-06","t":"add","a":"29 avenue de la fontaine\nZI Angers beaucouze\nBeaucouze  49070\n","c":"FRANCE","o":"EVOLIS"},{"d":"2015-08-27","t":"change","a":"29 avenue de la fontaine Beaucouze  FR 49070","c":"FR","o":"EVOLIS"}]);

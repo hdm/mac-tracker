@@ -1,1 +1,0 @@
-macDetailCallback("5c2886000000/24",[{"d":"2023-02-10","t":"add","s":"ieee-oui.csv","a":"No.66 West District 2nd Rd, Shapingba District Chongqing Chongqing CN 401331","c":"CN","o":"Inventec(Chongqing) Corporation"}]);

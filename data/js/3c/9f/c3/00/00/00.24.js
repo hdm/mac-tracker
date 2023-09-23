@@ -1,1 +1,0 @@
-macDetailCallback("3c9fc3000000/24",[{"d":"2021-06-17","t":"add","s":"ieee-oui.csv","a":"Room 504,Block A, New material Building, Yongfeng industrial, Haiding District, Beijing.China Beijing Beijing CN 100094","c":"CN","o":"Beijing Sinead Technology Co., Ltd."}]);

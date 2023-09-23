@@ -1,1 +1,0 @@
-macDetailCallback("001a6e000000/24",[{"d":"2006-11-29","t":"add","a":"47B Gillits Rd\nPinetown KwaZulu-Natal 3610\n\n","c":"SOUTH AFRICA","o":"Impro Technologies"},{"d":"2015-08-27","t":"change","a":"47B Gillits Rd Pinetown KwaZulu-Natal ZA 3610","c":"ZA","o":"Impro Technologies"}]);

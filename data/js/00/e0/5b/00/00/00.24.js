@@ -1,1 +1,0 @@
-macDetailCallback("00e05b000000/24",[{"d":"1998-04-22","t":"add","a":"39 WINNER'S CIRCLE DR.,\nARNPRIOR, ONTARIO    K7S 3G9\n\n","c":"CANADA","o":"WEST END SYSTEMS CORP."},{"d":"2015-08-27","t":"change","a":"39 WINNER'S CIRCLE DR., ARNPRIOR, ONTARIO    K7S 3G9  CA","c":"CA","o":"WEST END SYSTEMS CORP."}]);

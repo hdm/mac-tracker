@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6440c000/36",[{"d":"2022-01-14","t":"add","s":"ieee-oui36.csv","a":"C1102 No. 65 Wuke West 1st Rd Wuhou District Chengdu Sichuan CN 61000","c":"CN","o":"Sichuan Aiyijan Technology Company Ltd."}]);

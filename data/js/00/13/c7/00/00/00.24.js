@@ -1,1 +1,0 @@
-macDetailCallback("0013c7000000/24",[{"d":"2005-02-19","t":"add","a":"1-36-18 Miyasaka\nSetagaya-ku Tokyo 156-0051\n\n","c":"JAPAN","o":"IONOS Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"1-36-18 Miyasaka Setagaya-ku Tokyo JP 156-0051","c":"JP","o":"IONOS Co.,Ltd."}]);

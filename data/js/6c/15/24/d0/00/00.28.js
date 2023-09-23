@@ -1,1 +1,0 @@
-macDetailCallback("6c1524d00000/28",[{"d":"2022-03-03","t":"add","s":"ieee-mam.csv","a":"6F., No. 13, Lane. 35, Jihu Rd., Neihu Dist., Neihu Technology Park Taipei  TW 11492","c":"TW","o":"SYMLINK CORPORATION"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000a73000000/24",[{"d":"2002-08-03","t":"add","a":"5030 Sugarloaf Parkway\nMS 5.2425\nLawrenceville Ga 30042\n","c":"UNITED STATES","o":"Scientific Atlanta","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5030 Sugarloaf Parkway Lawrenceville Ga US 30042","c":"US","o":"Scientific Atlanta"}]);

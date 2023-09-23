@@ -1,1 +1,0 @@
-macDetailCallback("78a6a0000000/24",[{"d":"2020-12-20","t":"add","s":"ieee-oui.csv","a":"Room 302, Unit B, Building 2, 399 Danfeng Road,Binjiang District Hangzhou Zhejiang CN 310051","c":"CN","o":"Hangzhou Ezviz Software Co.,Ltd."}]);

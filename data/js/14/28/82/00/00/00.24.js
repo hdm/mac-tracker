@@ -1,1 +1,0 @@
-macDetailCallback("142882000000/24",[{"d":"2017-08-26","t":"add","a":"702,27.Dunchon-daero 457 beon-gil,Jungwon-gu\nSeongnam si  Gyeonggi-do  13219\n\n","c":"KR","o":"MIDICOM ELECTRONICS CO.LTD"},{"d":"2017-09-07","t":"change","a":"Bucheon Techno Park 303-404,345 Seokcheon-ro,Bucheon-si Gyeonggi-do  KR 1501","c":"KR","o":"MIDICOM ELECTRONICS CO.LTD"}]);

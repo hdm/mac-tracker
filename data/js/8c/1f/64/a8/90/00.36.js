@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64a89000/36",[{"d":"2023-06-03","t":"add","s":"ieee-oui36.csv","a":"EL3, J BLOCK, M.I.D.C. Bhosari PUNE Maharastra IN 411027","c":"IN","o":"Mitsubishi Electric India Pvt. Ltd."}]);

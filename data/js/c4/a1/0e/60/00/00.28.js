@@ -1,1 +1,0 @@
-macDetailCallback("c4a10e600000/28",[{"d":"2022-03-10","t":"add","s":"ieee-mam.csv","a":"Room 1502,15th Floor,Building 20,NO.487 Tianlin Road,Shanghai,200233 China Shanghai Shanghai CN 200233","c":"CN","o":"Hainan World Electronic Science and Techology Co.,Ltd"}]);

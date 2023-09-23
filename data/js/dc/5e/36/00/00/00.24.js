@@ -1,1 +1,0 @@
-macDetailCallback("dc5e36000000/24",[{"d":"2013-08-29","t":"add","a":"23490 SE 51st Pl\nIssaquah WA 98029\n\n","c":"UNITED STATES","o":"Paterson Technology"},{"d":"2015-08-27","t":"change","a":"23490 SE 51st Pl Issaquah WA US 98029","c":"US","o":"Paterson Technology"}]);

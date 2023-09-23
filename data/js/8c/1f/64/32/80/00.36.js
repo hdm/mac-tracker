@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64328000/36",[{"d":"2021-09-24","t":"add","s":"ieee-oui36.csv","a":"No.1, Aly. 2, Ln. 2, Sec. 1, Minsheng N. Rd. Gueishan Dist., Taoyuan City   TW 33391","c":"TW","o":"Com Video Security Systems Co., Ltd."}]);

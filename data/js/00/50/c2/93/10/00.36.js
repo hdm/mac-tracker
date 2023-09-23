@@ -1,1 +1,0 @@
-macDetailCallback("0050c2931000/36",[{"a":"Room 208, Lotte Gold Rose Tower II, 890-59, Seoul  KR 135-280","o":"Korea Telecom Internet Solutions (KTIS)","d":"2008-07-30","t":"add","s":"ieee","c":"KR"}]);

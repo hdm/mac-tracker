@@ -1,1 +1,0 @@
-macDetailCallback("001b31000000/24",[{"d":"2007-01-21","t":"add","a":"A307, CASI, Osaka Univ.\n2-1, Yamada-oka\nSuita city Osaka 565-0871\n","c":"JAPAN","o":"Neural Image. Co. Ltd."},{"d":"2015-08-27","t":"change","a":"A307, CASI, Osaka Univ. Suita city Osaka JP 565-0871","c":"JP","o":"Neural Image. Co. Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001470000000/24",[{"d":"2005-05-07","t":"add","a":"Al. Jerozolimskie 65/79\nWarszawa Mazowieckie 00-697\n\n","c":"POLAND","o":"Prokom Software SA"},{"d":"2015-08-27","t":"change","a":"Al. Jerozolimskie 65/79 Warszawa Mazowieckie PL 00-697","c":"PL","o":"Prokom Software SA"}]);

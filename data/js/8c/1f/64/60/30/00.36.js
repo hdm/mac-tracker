@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64603000/36",[{"d":"2021-12-05","t":"add","s":"ieee-oui36.csv","a":"1F., No. 176, Sec. 2, Muxin Rd., Wenshan Dist., Taipei City 116024, Taiwan (R.O.C.) Taipei City Taiwan (R.O.C.) TW 802","c":"TW","o":"Fuku Energy Technology Co., Ltd."}]);

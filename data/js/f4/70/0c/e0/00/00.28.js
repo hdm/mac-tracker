@@ -1,1 +1,0 @@
-macDetailCallback("f4700ce00000/28",[{"d":"2021-09-15","t":"add","s":"ieee-mam.csv","a":"Room 201, R3-B building, Virtual univessity park, Nanshan Shenzhen  Guangdong CN 518000","c":"CN","o":"Shenzhen WeProTalk Technology Co., Ltd."}]);

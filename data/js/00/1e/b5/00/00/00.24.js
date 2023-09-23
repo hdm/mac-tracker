@@ -1,1 +1,0 @@
-macDetailCallback("001eb5000000/24",[{"d":"2007-11-20","t":"add","a":"Unit 403, Nan Fung Commercial Centre\n19, Lam Lok St.\nKowloon Bay Kowloon\n","c":"HONG KONG","o":"Ever Sparkle Technologies Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Unit 403, Nan Fung Commercial Centre Kowloon Bay Kowloon HK","c":"HK","o":"Ever Sparkle Technologies Ltd"}]);

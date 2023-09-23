@@ -1,1 +1,0 @@
-macDetailCallback("dc56e6000000/24",[{"d":"2015-01-06","t":"add","a":"303, Dongjiang Environmental Build, LangShan Road.\nShenzhen Guangdong 518000\n\n","c":"CHINA","o":"Shenzhen Bococom Technology Co.,LTD"},{"d":"2015-08-27","t":"change","a":"303, Dongjiang Environmental Build, LangShan Road. Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Bococom Technology Co.,LTD"}]);

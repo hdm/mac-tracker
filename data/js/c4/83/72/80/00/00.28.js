@@ -1,1 +1,0 @@
-macDetailCallback("c48372800000/28",[{"d":"2022-07-13","t":"add","s":"ieee-mam.csv","a":"10th Floor, Building 06, Tian 'an Digital City, 36 Yongfeng Avenue, Qinhuai District, Nanjing Nanjing Jiangsu CN 210014","c":"CN","o":"ACCELECOM LTD."}]);

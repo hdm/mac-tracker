@@ -1,1 +1,0 @@
-macDetailCallback("b48910000000/24",[{"d":"2012-05-09","t":"add","a":"Via San Giovanni Battista De La Salle 4/a\nMilano MI 20132\n\n","c":"ITALY","o":"Coster T.E. S.P.A."},{"d":"2015-08-27","t":"change","a":"Via San Giovanni Battista De La Salle 4/a Milano MI IT 20132","c":"IT","o":"Coster T.E. S.P.A."}]);

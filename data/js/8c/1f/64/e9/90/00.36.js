@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64e99000/36",[{"d":"2021-11-24","t":"add","s":"ieee-oui36.csv","a":"311 6th main road Hal 2nd stage Bangalore Karnataka IN 560038","c":"IN","o":"Pantherun Technologies Pvt Ltd"}]);

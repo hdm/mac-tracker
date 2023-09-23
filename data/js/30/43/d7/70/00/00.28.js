@@ -1,1 +1,0 @@
-macDetailCallback("3043d7700000/28",[{"d":"2022-01-26","t":"add","s":"ieee-mam.csv","a":"Room 3502,Building 1,Huide Building,North Station Community,Minzhi Street,Longhua District Shenzhen Guangdong CN 518000","c":"CN","o":"DIGICITI Technology Co.,Ltd"}]);

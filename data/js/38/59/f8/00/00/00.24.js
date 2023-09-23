@@ -1,1 +1,0 @@
-macDetailCallback("3859f8000000/24",[{"d":"2013-05-14","t":"add","a":"Sniadeckich 10\nWarszawa Mazowieckie 00-656\n\n","c":"POLAND","o":"MindMade sp. z o.o."},{"d":"2015-08-27","t":"change","a":"Sniadeckich 10 Warsaw  PL 00-656","c":"PL","o":"MindMade Sp. z o.o."}]);

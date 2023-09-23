@@ -1,1 +1,0 @@
-macDetailCallback("406234000000/24",[{"d":"2020-02-27","t":"add","s":"ieee-oui.csv","a":"No. 1500 Zuchongzhi Rd, Building #3 Shanghai  CN 201203","c":"CN","o":"Telink Semiconductor (Shanghai) Co., Ltd."}]);

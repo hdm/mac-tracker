@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5783000/36",[{"d":"2019-05-17","t":"add","s":"ieee-oui36.csv","a":"Tennozu Central Tower 3F, 2-2-24, Higashi-shinagawa, Shinagawa-ku tokyo  JP 140-0002","c":"JP","o":"CHIeru., CO., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("9c8275000000/24",[{"a":"Room 401, Building 15, No.498 Guoshoujing Road, Pudong Software Park Shanghai  CN 200120","o":"Yichip Microelectronics (Hangzhou) Co.,Ltd","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

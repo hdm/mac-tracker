@@ -1,1 +1,0 @@
-macDetailCallback("74e06e000000/24",[{"d":"2010-11-04","t":"add","a":"Temmlerstrasse 5\nMarburg Hessen 35039\n\n","c":"GERMANY","o":"Ergophone GmbH"},{"d":"2015-08-27","t":"change","a":"Temmlerstrasse 5 Marburg Hessen DE 35039","c":"DE","o":"Ergophone GmbH"}]);

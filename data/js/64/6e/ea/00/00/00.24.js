@@ -1,1 +1,0 @@
-macDetailCallback("646eea000000/24",[{"d":"2013-05-14","t":"add","a":"Ljubljanska cesta 24a\nKranj  4000\n\n","c":"SLOVENIA","o":"Iskratel d.o.o."},{"d":"2015-08-27","t":"change","a":"Ljubljanska cesta 24a Kranj  SI 4000","c":"SI","o":"Iskratel d.o.o."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5c0a000/36",[{"a":"1-6-1-303 Musashino Tokyo JP 180-0005","o":"Infosocket Co., Ltd.","d":"2016-08-28","t":"add","s":"ieee","c":"JP"},{"d":"2023-04-01","t":"change","s":"ieee-oui36.csv","a":"4-26-16 Nishi-machi Tokyo Kokubunji-shi JP 185-0035","c":"JP","o":"Infosocket Co., Ltd."}]);

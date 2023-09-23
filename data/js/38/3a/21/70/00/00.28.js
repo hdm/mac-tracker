@@ -1,1 +1,0 @@
-macDetailCallback("383a21700000/28",[{"a":"4F,Tower B, Rennan Mansion, No.5 Section 3, 2nd Ring Road South Chengdu Sichuan CN 610041","o":"Chengdu Krosslan Technology Inc.","d":"2016-07-03","t":"add","s":"ieee","c":"CN"}]);

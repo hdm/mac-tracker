@@ -1,1 +1,0 @@
-macDetailCallback("a0224ee00000/28",[{"d":"2019-10-09","t":"add","s":"ieee-mam.csv","a":"3F, Building No.B8, Cultural Advertising Creative Industry Park, Economic Development Zone Huaihua City Hunan Province CN 418000","c":"CN","o":"Hunan Youmei Science&Technology Development Co.,Ltd."}]);

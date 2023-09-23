@@ -1,1 +1,0 @@
-macDetailCallback("2852f9000000/24",[{"d":"2019-07-26","t":"add","s":"ieee-oui.csv","a":"3rd Floor,Building 46,Cuigang Industrial Zone 5,Fuyong Street,Baoan District Shenzhen Guangdong CN 518103","c":"CN","o":"Zhongxin Intelligent Times (Shenzhen) Co., Ltd."}]);

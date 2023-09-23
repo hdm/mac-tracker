@@ -1,1 +1,0 @@
-macDetailCallback("001d02000000/24",[{"d":"2007-06-16","t":"add","a":"Hazenkoog 25\nAlkmaar Noord Holland 1822 BS\n\n","c":"NETHERLANDS","o":"Cybertech Telecom Development"},{"d":"2015-08-27","t":"change","a":"Hazenkoog 25 Alkmaar Noord Holland NL 1822 BS","c":"NL","o":"Cybertech Telecom Development"}]);

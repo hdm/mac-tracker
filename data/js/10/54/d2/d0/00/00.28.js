@@ -1,1 +1,0 @@
-macDetailCallback("1054d2d00000/28",[{"d":"2021-12-22","t":"add","s":"ieee-mam.csv","a":"Room605,The Dongfangmingzhu business building,qian jin 1 road,xin an street,bao an district ,shenzhen ,guang dong province,China. shenzhen  Guang dong  CN 518000","c":"CN","o":"Sun wealth technology corporation limited"}]);

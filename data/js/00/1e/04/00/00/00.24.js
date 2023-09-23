@@ -1,1 +1,0 @@
-macDetailCallback("001e04000000/24",[{"d":"2007-09-25","t":"add","a":"9810 Variel Ave.\nChatsworth CA 91311\n\n","c":"UNITED STATES","o":"Hanson Research Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9810 Variel Ave. Chatsworth CA US 91311","c":"US","o":"Hanson Research Corporation"}]);

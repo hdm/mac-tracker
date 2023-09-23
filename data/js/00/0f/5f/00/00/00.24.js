@@ -1,1 +1,0 @@
-macDetailCallback("000f5f000000/24",[{"d":"2004-02-01","t":"add","a":"792-3 Tomioka Toyoda-cho\nIwata-gun Shizuoka 438-0803\n\n","c":"JAPAN","o":"Nicety Technologies Inc. (NTS)","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"792-3 Tomioka Toyoda-cho Iwata-gun Shizuoka JP 438-0803","c":"JP","o":"Nicety Technologies Inc. (NTS)"}]);

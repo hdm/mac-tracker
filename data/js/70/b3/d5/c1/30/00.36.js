@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5c13000/36",[{"d":"2020-11-11","t":"add","s":"ieee-oui36.csv","a":"No. 30-6, Jiantai Road, Dongyong Town, Nansha District Guangzhou Guangdong CN 511453","c":"CN","o":"Guangzhou Xianhe Technology Engineering Co., Ltd"}]);

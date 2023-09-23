@@ -1,1 +1,0 @@
-macDetailCallback("04c3e6300000/28",[{"a":"17F., No.237, Sec. 1, Datong Rd., Xizhi Dist. New Taipei City  TW 22161","o":"Extech Electronics Co., LTD.","d":"2018-04-22","t":"add","s":"ieee","c":"TW"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5c3a000/36",[{"d":"2019-10-30","t":"add","s":"ieee-oui36.csv","a":"171, Gasan digital 1-ro, Geumcheon-gu, Seoul, Republic of Korea Seoul Geumcheon-gu, Seoul KR 08503","c":"KR","o":"HAN CHANG"}]);

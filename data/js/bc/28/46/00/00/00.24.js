@@ -1,1 +1,0 @@
-macDetailCallback("bc2846000000/24",[{"d":"2010-12-24","t":"add","a":"30/2, 2nd Floor, R.K. Plaza,\nCMH Road, Indiranagar\nBangalore Karnataka 560038\n","c":"INDIA","o":"NextBIT Computing Pvt. Ltd."},{"d":"2015-08-27","t":"change","a":"30/2, 2nd Floor, R.K. Plaza, Bangalore Karnataka IN 560038","c":"IN","o":"NextBIT Computing Pvt. Ltd."}]);

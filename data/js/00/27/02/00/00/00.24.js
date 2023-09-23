@@ -1,1 +1,0 @@
-macDetailCallback("002702000000/24",[{"d":"2009-07-28","t":"add","a":"1 Abba Eban St.\nPOB 12766\nHerzelia  46725\n","c":"ISRAEL","o":"SolarEdge Technologies"},{"d":"2015-08-27","t":"change","a":"1 Abba Eban St. Herzelia  IL 46725","c":"IL","o":"SolarEdge Technologies"}]);

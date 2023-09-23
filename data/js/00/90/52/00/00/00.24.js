@@ -1,1 +1,0 @@
-macDetailCallback("009052000000/24",[{"d":"1998-04-22","t":"add","a":"VIA GRANDI, 5\n40013 CASTELMAGGIORE BO\n\n","c":"ITALY","o":"SELCOM ELETTRONICA S.R.L."},{"d":"2015-08-27","t":"change","a":"VIA GRANDI, 5 40013 CASTELMAGGIORE BO  IT","c":"IT","o":"SELCOM ELETTRONICA S.R.L."}]);

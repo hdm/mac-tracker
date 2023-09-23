@@ -1,1 +1,0 @@
-macDetailCallback("7050e7e00000/28",[{"d":"2022-03-24","t":"add","s":"ieee-mam.csv","a":"3F,No.4Building,Yuyao Technology Innovation Center Ningbo ZheJiang Province, P.R.C. CN 315400","c":"CN","o":"KFBIO (KONFOONG BIOINFORMATION TECH CO.,LTD)"}]);

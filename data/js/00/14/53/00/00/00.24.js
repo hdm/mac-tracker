@@ -1,1 +1,0 @@
-macDetailCallback("001453000000/24",[{"d":"2005-04-07","t":"add","a":"#1202 ACE TECHNO TOWER, 684-1\nDeungchon-3Dong, Kangseo-Ku\nSeoul 157-721\n","c":"KOREA, REPUBLIC OF","o":"ADVANTECH TECHNOLOGIES CO.,LTD"},{"d":"2015-08-27","t":"change","a":"#1202 ACE TECHNO TOWER, 684-1  Seoul KR 157-721","c":"KR","o":"ADVANTECH TECHNOLOGIES CO.,LTD"}]);

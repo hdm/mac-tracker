@@ -1,1 +1,0 @@
-macDetailCallback("0016e2000000/24",[{"d":"2005-12-23","t":"add","a":"120 Belmont Drive\nSomerset New Jersey 08873-1204\n\n","c":"UNITED STATES","o":"American Fibertek, Inc."},{"d":"2015-08-27","t":"change","a":"120 Belmont Drive Somerset New Jersey US 08873-1204","c":"US","o":"American Fibertek, Inc."}]);

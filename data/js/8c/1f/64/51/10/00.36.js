@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64511000/36",[{"d":"2022-06-18","t":"add","s":"ieee-oui36.csv","a":"Rua Pedregulhos, 48 Campinas  São Paulo BR 13090716","c":"BR","o":"Control Aut Tecnologia em Automação LTDA"}]);

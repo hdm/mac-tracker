@@ -1,1 +1,0 @@
-macDetailCallback("506255100000/28",[{"d":"2019-09-07","t":"add","s":"ieee-mam.csv","a":"7F, Sakae TV BLD, 3-10-32, Nishiki, Naka-ku, Nagoya City Aichi Prefecture JP 460-0003","c":"JP","o":"Hagiwara Solutions Co., Ltd"}]);

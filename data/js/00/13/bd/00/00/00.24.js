@@ -1,1 +1,0 @@
-macDetailCallback("0013bd000000/24",[{"d":"2005-02-17","t":"add","a":"Zone Industrielle\n175 rue de Massacan\nVENDARGUES HERAULT 34740\n","c":"FRANCE","o":"HYMATOM SA"},{"d":"2015-08-27","t":"change","a":"Zone Industrielle VENDARGUES HERAULT FR 34740","c":"FR","o":"HYMATOM SA"}]);

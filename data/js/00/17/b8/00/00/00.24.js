@@ -1,1 +1,0 @@
-macDetailCallback("0017b8000000/24",[{"d":"2006-04-08","t":"add","a":"#601 polaris bldg., 15-3 jeongja-dong, bundang-gu\nSeong Nam Gyeonggi Do 463-811\n\n","c":"KOREA, REPUBLIC OF","o":"NOVATRON CO., LTD."},{"d":"2015-08-27","t":"change","a":"#601 polaris bldg., 15-3 jeongja-dong, bundang-gu Seong Nam Gyeonggi Do KR 463-811","c":"KR","o":"NOVATRON CO., LTD."}]);

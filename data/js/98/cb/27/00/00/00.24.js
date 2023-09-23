@@ -1,1 +1,0 @@
-macDetailCallback("98cb27000000/24",[{"d":"2015-05-16","t":"add","a":"#D1104, Salarpuria Serenity, 41A,\n5th Main, 7th Sector, HSR Layout\nBangalore Karnataka 560068\n","c":"INDIA","o":"Galore Networks Pvt. Ltd."},{"d":"2015-08-27","t":"change","a":"#D1104, Salarpuria Serenity, 41A, Bangalore Karnataka IN 560068","c":"IN","o":"Galore Networks Pvt. Ltd."}]);

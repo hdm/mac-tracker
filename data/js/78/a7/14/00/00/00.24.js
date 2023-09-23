@@ -1,1 +1,0 @@
-macDetailCallback("78a714000000/24",[{"d":"2010-04-28","t":"add","a":"20 Valley St.\nEndicott New York 13760\n\n","c":"UNITED STATES","o":"Amphenol"},{"d":"2015-08-27","t":"change","a":"20 Valley St. Endicott New York US 13760","c":"US","o":"Amphenol"}]);

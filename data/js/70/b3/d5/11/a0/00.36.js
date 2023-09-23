@@ -1,1 +1,0 @@
-macDetailCallback("70b3d511a000/36",[{"d":"2019-10-10","t":"add","s":"ieee-oui36.csv","a":"","c":"","o":"Private"},{"d":"2022-05-21","t":"change","s":"ieee-oui36.csv","a":"690, Gold Hill Square, Hosur Road, Bommanahalli Bangalore Karnataka IN 560068","c":"IN","o":"Mahindra Electric Mobility Limited"}]);

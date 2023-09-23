@@ -1,1 +1,0 @@
-macDetailCallback("800a80500000/28",[{"a":"Room 12D,Block A CENTRAL GREAT SEARCHINGS, Shenzhen Guangdong CN 518100","o":"Shenzhen Zidoo Technology Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

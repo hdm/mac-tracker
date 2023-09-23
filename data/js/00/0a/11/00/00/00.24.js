@@ -1,1 +1,0 @@
-macDetailCallback("000a11000000/24",[{"d":"2002-06-05","t":"add","a":"6F, Kyonggi Small Business Center\n#111-8, Iui-dong, Paldal-gu,\nSuwon, Kyonggi-do, 442-270  442-770\n","c":"KOREA, REPUBLIC OF","o":"ExPet Technologies, Inc"},{"d":"2015-08-27","t":"change","a":"6F, Kyonggi Small Business Center Suwon, Kyonggi-do, 442-270  KR 442-770","c":"KR","o":"ExPet Technologies, Inc"}]);

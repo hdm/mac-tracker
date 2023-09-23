@@ -1,1 +1,0 @@
-macDetailCallback("bc71c1000000/24",[{"d":"2010-10-16","t":"add","a":"1-12-3-4F\nKanda Suda-cho\nChiyoda-ku Tokyo 101-0041\n","c":"JAPAN","o":"XTrillion, Inc."},{"d":"2015-08-27","t":"change","a":"1-12-3-4F  Chiyoda-ku Tokyo JP 101-0041","c":"JP","o":"XTrillion, Inc."}]);

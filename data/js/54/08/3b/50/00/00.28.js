@@ -1,1 +1,0 @@
-macDetailCallback("54083b500000/28",[{"d":"2023-02-04","t":"add","s":"ieee-mam.csv","a":"No 407 Building E zhongshan load, nanshan district,shenzhen city  shenzhen guangdong CN 518057","c":"CN","o":"shenzhen HAIOT technology co.,ltd"}]);

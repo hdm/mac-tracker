@@ -1,1 +1,0 @@
-macDetailCallback("64d241000000/24",[{"d":"2011-02-23","t":"add","a":"Uellendahler Str. 199\nWuppertal NRW 42109\n\n","c":"GERMANY","o":"Keith & Koep GmbH"},{"d":"2015-08-27","t":"change","a":"Uellendahler Str. 199 Wuppertal NRW DE 42109","c":"DE","o":"Keith & Koep GmbH"}]);

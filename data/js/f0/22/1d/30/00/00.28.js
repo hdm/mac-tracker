@@ -1,1 +1,0 @@
-macDetailCallback("f0221d300000/28",[{"d":"2022-09-10","t":"add","s":"ieee-mam.csv","a":"NO.8 RuiYuan Road, Bo Gang SongShan Industrial Zone, ShaJing, Bao'an District, ShenZhen, P.R.China ShenZhen Guangdong CN 518100","c":"CN","o":"ShenZhen Shizao Electronic Technology"}]);

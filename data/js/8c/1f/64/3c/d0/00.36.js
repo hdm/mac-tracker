@@ -1,1 +1,0 @@
-macDetailCallback("8c1f643cd000/36",[{"d":"2022-06-24","t":"add","s":"ieee-oui36.csv","a":"chungnam cheonansi dongnamgu tongjung 1ro 18(sinbangdong) cheonan   KR 31208","c":"KR","o":"Sejong security system Cor."}]);

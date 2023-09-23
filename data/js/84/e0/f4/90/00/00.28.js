@@ -1,1 +1,0 @@
-macDetailCallback("84e0f4900000/28",[{"a":"8F, Block C3, Nanshan I Park, No.1001 Xueyuan Road, Nanshan District shenzhen guangdong CN 518040","o":"SHENZHEN HCN.ELECTRONICS CO.,LTD.","d":"2016-05-29","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001ffc000000/24",[{"d":"2008-02-20","t":"add","a":"Haynauer Str. 49\nBerlin  12249\n\n","c":"GERMANY","o":"Riccius+Sohn GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Haynauer Str. 49 Berlin  DE 12249","c":"DE","o":"Riccius+Sohn GmbH"}]);

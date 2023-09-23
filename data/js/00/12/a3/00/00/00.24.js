@@ -1,1 +1,0 @@
-macDetailCallback("0012a3000000/24",[{"d":"2004-10-21","t":"add","a":"Laan van Barcelona 600\nDordrecht Zuid holland 3317 DD\n\n","c":"NETHERLANDS","o":"Trust International B.V."},{"d":"2015-08-27","t":"change","a":"Laan van Barcelona 600 Dordrecht Zuid holland NL 3317 DD","c":"NL","o":"Trust International B.V."}]);

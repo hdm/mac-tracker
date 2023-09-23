@@ -1,1 +1,0 @@
-macDetailCallback("080049000000/24",[{"d":"2000-09-08","t":"add","a":"1037 NORTH FAIR OAKS AVE.\nSUNNYVALE CA 94089\n\n","c":"UNITED STATES","o":"UNIVATION"},{"d":"2015-08-27","t":"change","a":"1037 NORTH FAIR OAKS AVE. SUNNYVALE CA US 94089","c":"US","o":"UNIVATION"}]);

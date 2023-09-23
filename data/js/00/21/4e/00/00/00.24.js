@@ -1,1 +1,0 @@
-macDetailCallback("00214e000000/24",[{"d":"2008-06-18","t":"add","a":"1, Inobanba-cho, Nishinosho, Kisshoin, Minami-ku,\nKyoto  601-8520\n\n","c":"JAPAN","o":"GS Yuasa Power Supply Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1, Inobanba-cho, Nishinosho, Kisshoin, Minami-ku, Kyoto  JP 601-8520","c":"JP","o":"GS Yuasa Power Supply Ltd."}]);

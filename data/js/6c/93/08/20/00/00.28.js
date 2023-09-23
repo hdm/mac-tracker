@@ -1,1 +1,0 @@
-macDetailCallback("6c9308200000/28",[{"d":"2022-01-15","t":"add","s":"ieee-mam.csv","a":"Room 103,1st F,unit A,Buliding 3,No. 8,Xiyuan 1st Road,Sandun Town,Xihu District HANGZHOU ZHEJIANG CN 310000","c":"CN","o":"ZHEJIANG XIAN DA Environmental Technology Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("de330d000000/24",[{"d":"2015-08-27","t":"add","a":"No 1  Haier road,Hi-tech Zoneï¼Qingdaoï¼PR.China\nQingdao  Shandong  266101\n\n","c":"CN","o":"Qingdao Haier Telecom Co.ï¼Ltd"},{"d":"2015-09-01","t":"delete","a":"No 1  Haier road,Hi-tech Zoneï¼Qingdaoï¼PR.China\nQingdao  Shandong  266101\n\n","c":"CN","o":"Qingdao Haier Telecom Co.ï¼Ltd"}]);

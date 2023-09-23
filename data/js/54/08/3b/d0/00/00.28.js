@@ -1,1 +1,0 @@
-macDetailCallback("54083bd00000/28",[{"d":"2023-02-04","t":"add","s":"ieee-mam.csv","a":"Paul-Engel-Strasse 1 Weiherhammer Bavaria DE 92729","c":"DE","o":"BHS Corrugated Maschinen- und Anlagenbau GmbH"}]);

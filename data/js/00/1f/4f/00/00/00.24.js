@@ -1,1 +1,0 @@
-macDetailCallback("001f4f000000/24",[{"d":"2007-12-31","t":"add","a":"15FL, Hanmi Tower, 45,\nBangi-Dong, Songpa-gu\nSeoul  138-724\n","c":"KOREA, REPUBLIC OF","o":"Thinkware Co. Ltd."},{"d":"2015-08-27","t":"change","a":"15FL, Hanmi Tower, 45, Seoul  KR 138-724","c":"KR","o":"Thinkware Co. Ltd."}]);

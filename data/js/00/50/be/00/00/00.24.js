@@ -1,1 +1,0 @@
-macDetailCallback("0050be000000/24",[{"d":"2000-09-08","t":"add","a":"RUEDESHEIMERSTR. 11-13\n80686 MUNICH\n\n","c":"GERMANY","o":"FAST MULTIMEDIA AG"},{"d":"2015-08-27","t":"change","a":"RUEDESHEIMERSTR. 11-13 80686 MUNICH  DE","c":"DE","o":"FAST MULTIMEDIA AG"}]);

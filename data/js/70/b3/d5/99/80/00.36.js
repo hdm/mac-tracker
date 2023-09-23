@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5998000/36",[{"d":"2020-11-18","t":"add","s":"ieee-oui36.csv","a":"Sogutozu mah. Sogutözu cad. A Blok No:2A/47 Cankaya/ANKARA Maltepe V.D. 559 051 3252 Ankara Cankaya TR 06510","c":"TR","o":"Kita Kirmizi Takim Bilgi Guvenligi Danismanlik ve Egitim A.S."}]);

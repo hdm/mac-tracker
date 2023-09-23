@@ -1,1 +1,0 @@
-macDetailCallback("1845b3700000/28",[{"d":"2021-10-01","t":"add","s":"ieee-mam.csv","a":"Zhongxi ECO International Building, Shuiku Rd., Baoan District Shenzhen   CN 518000","c":"CN","o":"Shenzhen Incar Technology Co., Ltd."}]);

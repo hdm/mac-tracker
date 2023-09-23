@@ -1,1 +1,0 @@
-macDetailCallback("803896000000/24",[{"d":"2015-11-21","t":"add","a":"22-22,Nagaike-Cho Osaka-City Osaka-Prefecture JP 545-8522","c":"JP","o":"SHARP Corporation"},{"d":"2019-05-30","t":"change","s":"ieee-oui.csv","a":"1 Takumi-cho, Sakai-ku Sakai City Osaka JP 590-8522","c":"JP","o":"SHARP Corporation"}]);

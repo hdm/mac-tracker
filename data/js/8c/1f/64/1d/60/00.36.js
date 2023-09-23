@@ -1,1 +1,0 @@
-macDetailCallback("8c1f641d6000/36",[{"d":"2023-03-10","t":"add","s":"ieee-oui36.csv","a":"Room 2601, No. 38, Commercial Second Road,  Baisha Road,  Cixi Zhejiang CN 315300","c":"CN","o":"ZHEJIANG QIAN INFORMATION & TECHNOLOGIES"}]);

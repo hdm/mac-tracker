@@ -1,1 +1,0 @@
-macDetailCallback("6c0dc4000000/24",[{"d":"2020-08-02","t":"add","s":"ieee-oui.csv","a":"Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District Beijing Beijing CN 10085","c":"CN","o":"Beijing Xiaomi Electronics Co., Ltd."}]);

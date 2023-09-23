@@ -1,1 +1,0 @@
-macDetailCallback("4c4bf9600000/28",[{"d":"2019-06-25","t":"add","s":"ieee-mam.csv","a":"22nd Floor, Building 2, Aosheng Building, No.1166 Xinyi Street, High-tech Zone Jinan Shandong CN 250101","c":"CN","o":"Shandong Linkotech Electronic Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0c51f7000000/24",[{"d":"2011-04-19","t":"add","a":"LA QUEUE DEVEE\nREUX  14130\n\n","c":"FRANCE","o":"CHAUVIN ARNOUX"},{"d":"2015-08-27","t":"change","a":"LA QUEUE DEVEE REUX PONT L EVEQUE FR 14130","c":"FR","o":"CHAUVIN ARNOUX"}]);

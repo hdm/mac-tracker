@@ -1,1 +1,0 @@
-macDetailCallback("4c93a6a00000/28",[{"d":"2020-06-12","t":"add","s":"ieee-mam.csv","a":"HANVON TOWER, BUILDING NO.5, ZHONGGUANCUN SOFTWARE PARK, HAIDIAN DISTRICT, BEIJING, CHINA  100193  BEIJING BEIJING CN 100193","c":"CN","o":"Hanwang Technology Co.,Ltd"}]);

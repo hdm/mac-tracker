@@ -1,1 +1,0 @@
-macDetailCallback("3af521000000/24",[{"a":"7411 John Smith Drive, Suite 1500 San Antonio TX US 78229","o":"BSG Wireless","d":"2018-09-07","t":"add","s":"ieee","c":"US"},{"d":"2020-06-24","t":"change","s":"ieee-cid.csv","a":"4 Bedford Farms Drive, Suite 210 Bedford NH US 03110","c":"US","o":"Single Digits"}]);

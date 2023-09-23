@@ -1,1 +1,0 @@
-macDetailCallback("000d19000000/24",[{"d":"2003-04-25","t":"add","a":"Hazovice 2090\nRoznov pod Radhostem  756 61\n\n","c":"CZECH REPUBLIC","o":"ROBE Show lighting","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Hazovice 2090 Roznov pod Radhostem  US 756 61","c":"US","o":"ROBE Show lighting"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64219000/36",[{"d":"2021-06-09","t":"add","s":"ieee-oui36.csv","a":"101,Building 1,No.28,Wenqiao Rd,Wenbian Village,Shiji Town,Panyu District,Duangzhou Duangzhou  CN 511400","c":"CN","o":"Guangzhou Desam Audio Co.,Ltd"}]);

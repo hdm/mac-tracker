@@ -1,1 +1,0 @@
-macDetailCallback("0008af000000/24",[{"d":"2001-12-14","t":"add","a":"2-19-2 Nishi-Gotanda\nShinagawa-ku Tokyo 141-0031\n\n","c":"JAPAN","o":"Novatec Corporation"},{"d":"2015-08-27","t":"change","a":"2-19-2 Nishi-Gotanda Shinagawa-ku Tokyo JP 141-0031","c":"JP","o":"Novatec Corporation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("e42ff6000000/24",[{"d":"2011-01-21","t":"add","a":"Rm.312 Building 2 IRICO, No.11St.4,Shangdi, Haidian District,\nBeijing  100085\n\n","c":"CHINA","o":"Unicore communication Inc."},{"d":"2015-08-27","t":"change","a":"Rm.312 Building 2 IRICO, No.11St.4,Shangdi, Haidian District, Beijing  CN 100085","c":"CN","o":"Unicore communication Inc."}]);

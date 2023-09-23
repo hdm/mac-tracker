@@ -1,1 +1,0 @@
-macDetailCallback("2c1e4f000000/24",[{"d":"2019-04-02","t":"add","s":"ieee-oui.csv","a":"Room 1208, 4 Building, Ideal Center, NO.38 Tianyi Street, Chengdu High-tech Zone Chengdu Sichuan CN 610000","c":"CN","o":"Chengdu Qianli Network Technology Co., Ltd."}]);

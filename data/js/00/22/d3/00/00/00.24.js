@@ -1,1 +1,0 @@
-macDetailCallback("0022d3000000/24",[{"d":"2008-07-19","t":"add","a":"77, Imae-dong\nBundang-gu\nSeongnam-si Gyeonggi-do 463-829\n","c":"KOREA, REPUBLIC OF","o":"Hub-Tech"},{"d":"2015-08-27","t":"change","a":"77, Imae-dong Seongnam-si Gyeonggi-do KR 463-829","c":"KR","o":"Hub-Tech"}]);

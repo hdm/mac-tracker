@@ -1,1 +1,0 @@
-macDetailCallback("bc3e07000000/24",[{"a":"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300","o":"Hitron Technologies. Inc","d":"2018-09-23","t":"add","s":"ieee","c":"TW"}]);

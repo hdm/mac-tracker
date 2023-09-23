@@ -1,1 +1,0 @@
-macDetailCallback("b4c6f8000000/24",[{"d":"2016-12-29","t":"add","a":"A302 Han's Innovation Building, No.9018 Beihuan Ave., Nanshan District\n\n\n","c":"Shenzhen    518000","o":"Axilspot Communication"},{"d":"2016-12-31","t":"change","a":"A302 Han's Innovation Building, No.9018 Beihuan Ave., Nanshan District Shenzhen  CN 518000","c":"CN","o":"Axilspot Communication"}]);

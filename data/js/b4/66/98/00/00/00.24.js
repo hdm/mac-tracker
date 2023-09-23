@@ -1,1 +1,0 @@
-macDetailCallback("b46698000000/24",[{"d":"2014-01-01","t":"add","a":"via Longhin, 131\nPadova Italy 35129\n\n","c":"ITALY","o":"Zealabs srl"},{"d":"2015-08-27","t":"change","a":"via Monte Grappa, 25 Lancenigo di Villorba Italy IT 31020","c":"IT","o":"Zealabs srl"}]);

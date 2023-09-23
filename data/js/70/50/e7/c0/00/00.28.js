@@ -1,1 +1,0 @@
-macDetailCallback("7050e7c00000/28",[{"d":"2022-03-23","t":"add","s":"ieee-mam.csv","a":"5 / F, No. 1 building, Jinli Industrial Park, No. 1, LanJin Sixth Road, Nanbu community, Longtian street, Pingshan District, Shenzhen SHENZHEN GUANGDONG CN 518000","c":"CN","o":"shenzhen newbridge communication equipment CO.,LTD"}]);

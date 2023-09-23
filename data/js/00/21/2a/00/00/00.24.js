@@ -1,1 +1,0 @@
-macDetailCallback("00212a000000/24",[{"d":"2008-04-14","t":"add","a":"150 Marcus Blvd\nHauppauge NY 11788\n\n","c":"UNITED STATES","o":"Audiovox Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"150 Marcus Blvd Hauppauge NY US 11788","c":"US","o":"Audiovox Corporation"}]);

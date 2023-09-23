@@ -1,1 +1,0 @@
-macDetailCallback("0050c293b000/36",[{"a":"1858 Ranch Road 3232 Johnson City TX US 78636","o":"Reliatronics Inc.","d":"2008-07-30","t":"add","s":"ieee","c":"US"},{"d":"2023-03-30","t":"change","s":"ieee-iab.csv","a":"14000 Route 993 Trafford PA US 15085","c":"US","o":"Cleaveland/Price, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0492ee000000/24",[{"d":"2014-12-17","t":"add","a":"Badenerstrasse 569\nZurich ZH 8048\n\n","c":"SWITZERLAND","o":"iway AG"},{"d":"2015-08-27","t":"change","a":"Badenerstrasse 569 Zurich ZH CH 8048","c":"CH","o":"iway AG"}]);

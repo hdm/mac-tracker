@@ -1,1 +1,0 @@
-macDetailCallback("000a62000000/24",[{"d":"2002-08-03","t":"add","a":"2099 N. Collins Blvd, Suite 200\nRichardson TX 75080\n\n","c":"UNITED STATES","o":"Crinis Networks, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2099 N. Collins Blvd, Suite 200 Richardson TX US 75080","c":"US","o":"Crinis Networks, Inc."}]);

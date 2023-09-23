@@ -1,1 +1,0 @@
-macDetailCallback("44d5f2900000/28",[{"d":"2019-05-17","t":"add","s":"ieee-mam.csv","a":"17F, Building 3, China Science and Technology Development Park, No. 009, 1st South Gaoxin Road, Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Auctus Technologies Co.,Ltd."}]);

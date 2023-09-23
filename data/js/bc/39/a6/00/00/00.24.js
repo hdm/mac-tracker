@@ -1,1 +1,0 @@
-macDetailCallback("bc39a6000000/24",[{"d":"2012-10-06","t":"add","a":"4-16-22,Chiyogaoka\nAsao Ku\nKawasaki-shi Kanagawa Ken 2150005\n","c":"JAPAN","o":"CSUN System Technology Co.,LTD"},{"d":"2015-08-27","t":"change","a":"4-16-22,Chiyogaoka Kawasaki-shi Kanagawa Ken JP 2150005","c":"JP","o":"CSUN System Technology Co.,LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("30f42f000000/24",[{"d":"2013-11-15","t":"add","a":"126-1 Pyeongchon-dong, Dongan-gu\nAnyang-si Gyeonggi-do 431-755\n\n","c":"KOREA, REPUBLIC OF","o":"ESP"},{"d":"2015-08-27","t":"change","a":"126-1 Pyeongchon-dong, Dongan-gu Anyang-si Gyeonggi-do KR 431-755","c":"KR","o":"ESP"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d4baba000000/28",[{"d":"2022-07-20","t":"add","s":"ieee-mam.csv","a":"3/F,LIFENG BUILDING,42# OF LIUXIAN 1ST ROAD,BAO'AN 71ST DISTRICT, Shenzhen GUANGDONG CN 518101","c":"CN","o":"SHENZHEN ACTION TECHNOLOGIES CO., LTD."}]);

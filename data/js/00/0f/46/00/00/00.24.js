@@ -1,1 +1,0 @@
-macDetailCallback("000f46000000/24",[{"d":"2004-01-23","t":"add","a":"Stadtweg 24\nFeuerthalen ZH CH-8245\n\n","c":"SWITZERLAND","o":"SINAR AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Stadtweg 24 Feuerthalen ZH CH CH-8245","c":"CH","o":"SINAR AG"}]);

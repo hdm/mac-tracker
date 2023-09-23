@@ -1,1 +1,0 @@
-macDetailCallback("800902000000/24",[{"d":"2014-07-12","t":"add","a":"1400 Fountaingrove Pkwy.\nM.S. 4US-L\nSanta Rosa CA 95403\n","c":"UNITED STATES","o":"Keysight Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"1400 Fountaingrove Pkwy. Santa Rosa CA US 95403","c":"US","o":"Keysight Technologies, Inc."}]);

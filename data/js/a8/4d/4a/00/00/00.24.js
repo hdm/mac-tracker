@@ -1,1 +1,0 @@
-macDetailCallback("a84d4a000000/24",[{"d":"2019-11-27","t":"add","s":"ieee-oui.csv","a":"2F, No 1-1, Innovation RD I, Hsinchu Science Park Hsincu Taiwan TW 30076","c":"TW","o":"Audiowise Technology Inc."}]);

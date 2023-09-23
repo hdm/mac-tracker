@@ -1,1 +1,0 @@
-macDetailCallback("002084000000/24",[{"d":"1998-04-22","t":"add","a":"SIEMENSALLEE 2\nD-85586\nPOING\n","c":"GERMANY","o":"OCE PRINTING SYSTEMS, GMBH"},{"d":"2001-10-24","t":"change","a":"SIEMENSALLEE 2\nD-85586 POING\n\n","c":"GERMANY","o":"OCE PRINTING SYSTEMS, GMBH"},{"d":"2015-08-27","t":"change","a":"SIEMENSALLEE 2   DE","c":"DE","o":"OCE PRINTING SYSTEMS, GMBH"}]);

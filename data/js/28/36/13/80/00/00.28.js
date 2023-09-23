@@ -1,1 +1,0 @@
-macDetailCallback("283613800000/28",[{"d":"2021-06-23","t":"add","s":"ieee-mam.csv","a":"Room 1-3-5, north 9 / F, building 1, Fujian hi tech Pioneer Park, 611 Gongye Road, Gulou District Fuzhou Fujian CN 350000","c":"CN","o":"Fuzhou Lesi Intelligent Technology Co., Ltd"}]);

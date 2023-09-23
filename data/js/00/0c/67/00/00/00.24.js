@@ -1,1 +1,0 @@
-macDetailCallback("000c67000000/24",[{"d":"2003-02-07","t":"add","a":"63-1 Nakamichi Omote\nHirakawa\nJoyo Kyoto 610-0101\n","c":"JAPAN","o":"OYO ELECTRIC CO.,LTD"},{"d":"2015-08-27","t":"change","a":"63-1 Nakamichi Omote Joyo Kyoto JP 610-0101","c":"JP","o":"OYO ELECTRIC CO.,LTD"}]);

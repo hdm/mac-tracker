@@ -1,1 +1,0 @@
-macDetailCallback("0cbf3f000000/24",[{"d":"2016-01-16","t":"add","a":"LongGang,Buji Xia Shuijing,Hubei Baofeng Lndustrial Area,2/F,TowerB shenzhen Guangdong CN 518112","c":"CN","o":"Shenzhen Lencotion Technology Co.,Ltd"}]);

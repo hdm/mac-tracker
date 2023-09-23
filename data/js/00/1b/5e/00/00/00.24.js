@@ -1,1 +1,0 @@
-macDetailCallback("001b5e000000/24",[{"d":"2007-02-09","t":"add","a":"BPL Towers\n13, Kasturba Road\nBangalore Karnataka 560001\n","c":"INDIA","o":"BPL Limited"},{"d":"2015-08-27","t":"change","a":"BPL Towers Bangalore Karnataka IN 560001","c":"IN","o":"BPL Limited"}]);

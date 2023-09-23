@@ -1,1 +1,0 @@
-macDetailCallback("00080d000000/24",[{"d":"2001-10-24","t":"add","a":"2-9, Suehiro-cho,\nOme-city,\nTokyo  198-8710\n","c":"JAPAN","o":"Toshiba"},{"d":"2015-08-27","t":"change","a":"2-9, Suehiro-cho, Tokyo  JP 198-8710","c":"JP","o":"Toshiba"}]);

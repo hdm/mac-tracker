@@ -1,1 +1,0 @@
-macDetailCallback("00057e000000/24",[{"d":"2001-04-17","t":"add","a":"Berliner Strasse 161\n65205 Wiesbaden\n\n","c":"GERMANY","o":"Eckelmann Steuerungstechnik GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Berliner Strasse 161   DE","c":"DE","o":"Eckelmann Steuerungstechnik GmbH"}]);

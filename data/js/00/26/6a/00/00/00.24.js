@@ -1,1 +1,0 @@
-macDetailCallback("00266a000000/24",[{"d":"2009-06-07","t":"add","a":"Gaston Geenslaan 9\nLEUVEN VL BRABANT 3001\n\n","c":"BELGIUM","o":"ESSENSIUM NV","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Gaston Geenslaan 9 LEUVEN VL BRABANT BE 3001","c":"BE","o":"ESSENSIUM NV"}]);

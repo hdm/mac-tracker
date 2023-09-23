@@ -1,1 +1,0 @@
-macDetailCallback("3c6a2c500000/28",[{"a":"Room416, Science and Technology Park, Ocean University of China, No.23 HongKongEast Road Qingdao Shandong CN 266100","o":"Qingdao iGuan Technology Co., Ltd.","d":"2018-07-08","t":"add","s":"ieee","c":"CN"}]);

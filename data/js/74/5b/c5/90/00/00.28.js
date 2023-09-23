@@ -1,1 +1,0 @@
-macDetailCallback("745bc5900000/28",[{"d":"2018-12-18","t":"add","s":"ieee-mam.csv","a":"5 floor A1-9, A building, incubation center, Haikou national hi tech Development Zone Haikou Hainan CN 570206","c":"CN","o":"Haikou Frun Flash&Mcu Microcontrol Technology Development Co.,Ltd"}]);

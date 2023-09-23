@@ -1,1 +1,0 @@
-macDetailCallback("001e44000000/24",[{"d":"2007-09-25","t":"add","a":"An der Strusbek 31\nAhrensburg Schleswig Holstein 22926\n\n","c":"GERMANY","o":"SANTEC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"An der Strusbek 31 Ahrensburg Schleswig Holstein DE 22926","c":"DE","o":"SANTEC"}]);

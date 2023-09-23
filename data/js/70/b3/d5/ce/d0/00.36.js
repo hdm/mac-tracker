@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5ced000/36",[{"a":"5006 Ang Mo Kio Ave 5, #05-01/12 TECHPlace II Singapore  SG 569873","o":"Advanced Products Corporation Pte Ltd","d":"2016-07-17","t":"add","s":"ieee","c":"SG"}]);

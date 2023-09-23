@@ -1,1 +1,0 @@
-macDetailCallback("0021b2000000/24",[{"d":"2008-06-18","t":"add","a":"Kildevangsvej 9\nGoederup\nRoskilde  4000\n","c":"DENMARK","o":"Fiberblaze A/S","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kildevangsvej 9 Roskilde  DK 4000","c":"DK","o":"Fiberblaze A/S"}]);

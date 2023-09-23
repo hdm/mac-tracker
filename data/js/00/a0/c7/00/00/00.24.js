@@ -1,1 +1,0 @@
-macDetailCallback("00a0c7000000/24",[{"d":"1998-04-22","t":"add","a":"P.O. BOX 500\nPETAH-TIKVA 49104\n\n","c":"ISRAEL","o":"TADIRAN TELECOMMUNICATIONS"},{"d":"2015-08-27","t":"change","a":"P.O. BOX 500 PETAH-TIKVA 49104  IL","c":"IL","o":"TADIRAN TELECOMMUNICATIONS"}]);

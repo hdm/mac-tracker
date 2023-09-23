@@ -1,1 +1,0 @@
-macDetailCallback("001997000000/24",[{"d":"2006-09-25","t":"add","a":"67-2 Jalan 2/27F\nKLSC Wangsa Maju\nKuala Lumpur WP 53300\n","c":"MALAYSIA","o":"Soft Device Sdn Bhd"},{"d":"2015-08-27","t":"change","a":"67-2 Jalan 2/27F Kuala Lumpur WP MY 53300","c":"MY","o":"Soft Device Sdn Bhd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64d51000/36",[{"d":"2023-01-26","t":"add","s":"ieee-oui36.csv","a":"1-3-10 Hachihonmatsuminami Higashihiroshima Hiroshima JP 7390144","c":"JP","o":"ZIGEN Lighting Solution co., ltd."}]);

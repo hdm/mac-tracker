@@ -1,1 +1,0 @@
-macDetailCallback("e06066000000/24",[{"d":"2015-09-02","t":"add","a":"8F, 3-1, YuanQu St., NanKang,\nTaipei  Taiwan  115\n\n","c":"TW","o":"Sercomm Corporation"},{"d":"2018-02-15","t":"change","a":"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsuan  TW 115","c":"TW","o":"Sercomm Corporation."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("3c8cf8000000/24",[{"d":"2015-07-07","t":"add","a":"20675 Manhattan Place\nTorrance CA 90501\n\n","c":"UNITED STATES","o":"TRENDnet, Inc."},{"d":"2015-08-27","t":"change","a":"20675 Manhattan Place Torrance CA US 90501","c":"US","o":"TRENDnet, Inc."}]);

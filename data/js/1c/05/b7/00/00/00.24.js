@@ -1,1 +1,0 @@
-macDetailCallback("1c05b7000000/24",[{"d":"2019-12-03","t":"add","s":"ieee-oui.csv","a":"No.69,Huoju Avenue,Jiulongpo District. Chongqing Chongqing CN 400050","c":"CN","o":"Chongqing Trantor Technology Co., Ltd."}]);

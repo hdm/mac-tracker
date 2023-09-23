@@ -1,1 +1,0 @@
-macDetailCallback("488244000000/24",[{"d":"2014-02-22","t":"add","a":"10601 W. Belmont Ave\nFranklin Park IL 60131\n\n","c":"UNITED STATES","o":"Life Fitness / Div. of Brunswick"},{"d":"2015-08-27","t":"change","a":"10601 W. Belmont Ave Franklin Park IL US 60131","c":"US","o":"Life Fitness / Div. of Brunswick"}]);

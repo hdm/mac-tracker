@@ -1,1 +1,0 @@
-macDetailCallback("0017ba000000/24",[{"d":"2006-04-08","t":"add","a":"302, KT Bldg, 1ANNEX, 35-1\nYeongdeungpo-dong 8ga, Yeongdeungpo-gu\nSeoul  150-038\n","c":"KOREA, REPUBLIC OF","o":"SEDO CO., LTD."},{"d":"2015-08-27","t":"change","a":"302, KT Bldg, 1ANNEX, 35-1 Seoul  KR 150-038","c":"KR","o":"SEDO CO., LTD."}]);

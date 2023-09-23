@@ -1,1 +1,0 @@
-macDetailCallback("dc07f8000000/24",[{"d":"2022-09-20","t":"add","s":"ieee-oui.csv","a":"No.555 Qianmo Road Hangzhou Zhejiang CN 310052","c":"CN","o":"Hangzhou Hikvision Digital Technology Co.,Ltd."}]);

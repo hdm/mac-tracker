@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64f50000/36",[{"d":"2023-01-14","t":"add","s":"ieee-oui36.csv","a":"No.116, Xingzhong Rd., Danshui Dist., New Taipei City 25152, Taiwan (R.O.C.) Danshui Dist. New Taipei City TW 25152","c":"TW","o":"Vigor Electric Corp."}]);

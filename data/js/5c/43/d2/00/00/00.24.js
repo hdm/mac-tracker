@@ -1,1 +1,0 @@
-macDetailCallback("5c43d2000000/24",[{"d":"2012-11-17","t":"add","a":"ZI Route de Grugies\nGAUCHY FRANCE 02430\n\n","c":"FRANCE","o":"HAZEMEYER"},{"d":"2015-08-27","t":"change","a":"ZI Route de Grugies GAUCHY FRANCE FR 02430","c":"FR","o":"HAZEMEYER"}]);

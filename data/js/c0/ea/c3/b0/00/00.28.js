@@ -1,1 +1,0 @@
-macDetailCallback("c0eac3b00000/28",[{"d":"2022-11-23","t":"add","s":"ieee-mam.csv","a":"26 Hyangmokseo-gil, Jukwang-myeon, Goseong-gun, Gangwon-do, Republic of Korea  Goseong-gun Gangwon-do KR 24743","c":"KR","o":"SeongHo Information and Communication Corp."}]);

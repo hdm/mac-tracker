@@ -1,1 +1,0 @@
-macDetailCallback("609b2d000000/24",[{"d":"2019-08-31","t":"add","s":"ieee-oui.csv","a":"11F, KM Nishi-Umeda bldg., 7-20-1 Fukushima, Fukushima-ku Osaka-city Osaka JP 553-0003","c":"JP","o":"JMACS Japan Co., Ltd."}]);

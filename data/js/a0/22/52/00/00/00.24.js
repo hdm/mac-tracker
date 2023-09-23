@@ -1,1 +1,0 @@
-macDetailCallback("a02252000000/24",[{"d":"2023-06-13","t":"add","s":"ieee-oui.csv","a":"T1-4F-63, RAKEZ Amenity Center, Al Hamra Industrial Zone-FZ Ras Al Khaimah  AE 7100","c":"AE","o":"Astra Wireless Technology FZ-LLC"}]);

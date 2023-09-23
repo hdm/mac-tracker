@@ -1,1 +1,0 @@
-macDetailCallback("d8a105000000/24",[{"d":"2016-11-29","t":"add","a":"#1201, Megacenter, SKntechno-park,, Sangdaeweon-dong, Joongweon-gu Seongnam Outside the US, Mexico, or Canada KR 462-721","c":"KR","o":"Syslane, Co., Ltd."}]);

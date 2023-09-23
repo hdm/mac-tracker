@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5067000/36",[{"d":"2019-07-24","t":"add","s":"ieee-oui36.csv","a":"Rua Paulo Emídio Barbosa, 485 - sala 302 Rio de Janeiro Rio de Janeiro BR 21941-907","c":"BR","o":"NEOPATH INTEGRATED SYSTEMS LTDA"}]);

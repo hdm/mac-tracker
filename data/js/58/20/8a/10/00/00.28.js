@@ -1,1 +1,0 @@
-macDetailCallback("58208a100000/28",[{"d":"2023-03-11","t":"add","s":"ieee-mam.csv","a":"Room 1401, Building 6, Yard A 2, West Third Ring Road, Haidian District Beijing  CN 100048","c":"CN","o":"BEIJING SENFETECH CORPORATION LTD."}]);

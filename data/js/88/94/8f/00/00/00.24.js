@@ -1,1 +1,0 @@
-macDetailCallback("88948f000000/24",[{"d":"2020-04-23","t":"add","s":"ieee-oui.csv","a":"No.52 Jinye 1st Road Xi'an,Shaanxi,China Xi an Xi an High-Tech Zone CN 710077","c":"CN","o":"Xi'an Zhisensor Technologies Co.,Ltd"}]);

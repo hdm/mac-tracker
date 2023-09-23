@@ -1,1 +1,0 @@
-macDetailCallback("04eee8600000/28",[{"d":"2021-11-10","t":"add","s":"ieee-mam.csv","a":"17, Yeokgok-ro 13beon-gil, Bucheon-si, Gyeonggi-do, Republic of Korea Gyeonggi-do Gyeonggi-do KR 14671","c":"KR","o":"NALSSEN INC."}]);

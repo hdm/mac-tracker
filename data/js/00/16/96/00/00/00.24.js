@@ -1,1 +1,0 @@
-macDetailCallback("001696000000/24",[{"d":"2005-11-24","t":"add","a":"16/F, Standard Chartered Bank Building 4-4A\nDes Voeux Road Central\nHong Kong\n","c":"CHINA","o":"QDI Technology (H.K.) Limited"},{"d":"2015-08-27","t":"change","a":"16/F, Standard Chartered Bank Building 4-4A Hong Kong  CN","c":"CN","o":"QDI Technology (H.K.) Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("107ba4000000/24",[{"d":"2018-02-03","t":"add","a":"803 Polaris bldg., 381, Seongnam-daero, Bundang-gu\n\n\n","c":"Gyeonggi-do  Seongnam-si  13555","o":"Olive & Dove Co.,Ltd."},{"d":"2018-02-06","t":"change","a":"803 Polaris bldg., 381, Seongnam-daero, Bundang-gu  Gyeonggi-do Seongnam-si KR 13555","c":"KR","o":"Olive & Dove Co.,Ltd."}]);

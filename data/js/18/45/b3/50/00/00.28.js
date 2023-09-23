@@ -1,1 +1,0 @@
-macDetailCallback("1845b3500000/28",[{"d":"2021-09-30","t":"add","s":"ieee-mam.csv","a":"26 km of Baltya road, business center Riga Lang, office 11. Krasnogorsk Moscow region, Krasnogorsk district RU 143421","c":"RU","o":"ELPITECH LLC"}]);

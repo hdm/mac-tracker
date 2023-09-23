@@ -1,1 +1,0 @@
-macDetailCallback("001f77000000/24",[{"d":"2008-01-07","t":"add","a":"1 bd d'armor\nLANNION BRETAGNE 22300\n\n","c":"FRANCE","o":"HEOL DESIGN"},{"d":"2015-08-27","t":"change","a":"1 bd d'armor LANNION BRETAGNE FR 22300","c":"FR","o":"HEOL DESIGN"}]);

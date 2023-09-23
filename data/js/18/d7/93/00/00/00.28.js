@@ -1,1 +1,0 @@
-macDetailCallback("18d793000000/28",[{"d":"2021-11-17","t":"add","s":"ieee-mam.csv","a":"3rd floor,block C,B6 building,China Merchants guangming science and technology park,No.3009 guanguang road,Guangming New District, Shenzhen  CN 518000","c":"CN","o":"Shenzhen JieXingTong Technology Co.,LTD"}]);

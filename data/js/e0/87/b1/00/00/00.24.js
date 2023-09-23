@@ -1,1 +1,0 @@
-macDetailCallback("e087b1000000/24",[{"d":"2010-04-23","t":"add","a":"28, Prokhorova str.\nYoshkar-Ola Republic Mari-El 424007\n\n","c":"RUSSIAN FEDERATION","o":"Nata-Info Ltd."},{"d":"2015-08-27","t":"change","a":"28, Prokhorova str. Yoshkar-Ola Republic Mari-El RU 424007","c":"RU","o":"Nata-Info Ltd."}]);

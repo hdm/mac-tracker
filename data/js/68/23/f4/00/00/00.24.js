@@ -1,1 +1,0 @@
-macDetailCallback("6823f4000000/24",[{"d":"2023-04-18","t":"add","s":"ieee-oui.csv","a":"Rongchao Economic and Trade Center A309, No. 4028, Jintian Road, Fuzhong Community, Lianhua Street, Futian District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Jinlangxin Technology Co., Ltd"}]);

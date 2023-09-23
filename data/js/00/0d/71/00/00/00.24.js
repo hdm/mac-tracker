@@ -1,1 +1,0 @@
-macDetailCallback("000d71000000/24",[{"d":"2003-06-01","t":"add","a":"1065 s. rogers circle\nboca raton fl 33487\n\n","c":"UNITED STATES","o":"boca systems"},{"d":"2015-08-27","t":"change","a":"1065 s. rogers circle boca raton fl US 33487","c":"US","o":"boca systems"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("002679000000/24",[{"d":"2009-06-07","t":"add","a":"2-5-10 Shin-yokohama, Kouhoku-ku\nYokohama  222-0033\n\n","c":"JAPAN","o":"Euphonic Technologies, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2-5-10 Shin-yokohama, Kouhoku-ku Yokohama  JP 222-0033","c":"JP","o":"Euphonic Technologies, Inc."}]);

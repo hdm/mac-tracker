@@ -1,1 +1,0 @@
-macDetailCallback("f4700ca00000/28",[{"d":"2021-09-12","t":"add","s":"ieee-mam.csv","a":"Room 415-7, Hongxing Building, No.1 Hongxing Road, Licheng District,  Jinan Shandong CN 250000","c":"CN","o":"Jinan Huake Electrical Device Co., Ltd."}]);

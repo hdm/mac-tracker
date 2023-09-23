@@ -1,1 +1,0 @@
-macDetailCallback("441847000000/24",[{"d":"2019-08-17","t":"add","s":"ieee-oui.csv","a":"Building No.4,Changsha Zhongdian Software Park No.39,Jianshan Road Changsha Hunan CN 410006","c":"CN","o":"HUNAN SCROWN ELECTRONIC INFORMATION TECH.CO.,LTD"}]);

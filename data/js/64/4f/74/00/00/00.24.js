@@ -1,1 +1,0 @@
-macDetailCallback("644f74000000/24",[{"d":"2009-09-05","t":"add","a":"18-5 Gwacheon-Dong\nGwacheon Gyeonggi-Do 427-060\n\n","c":"KOREA, REPUBLIC OF","o":"LENUS Co., Ltd."},{"d":"2015-08-27","t":"change","a":"18-5 Gwacheon-Dong Gwacheon Gyeonggi-Do KR 427-060","c":"KR","o":"LENUS Co., Ltd."}]);

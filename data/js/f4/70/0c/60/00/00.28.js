@@ -1,1 +1,0 @@
-macDetailCallback("f4700c600000/28",[{"d":"2021-09-11","t":"add","s":"ieee-mam.csv","a":"Floor F1 & Part of Floor F2, Building No. 9,Diya shuang chuang Industrial Zone, No.2566,Century Main Road,Gaoxin District Jinan,Shandong China Shandong Jinan CN 250014","c":"CN","o":"Jinan USR IOT Technology Limited"}]);

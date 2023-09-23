@@ -1,1 +1,0 @@
-macDetailCallback("a428b7000000/24",[{"d":"2019-10-17","t":"add","s":"ieee-oui.csv","a":"No.88 Weilai 3rd Road, East Lake High-tech Development Zone, Wuhan, Hubei, POC Wuhan Hubei CN 430078","c":"CN","o":"Yangtze Memory Technologies Co., Ltd."}]);

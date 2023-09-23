@@ -1,1 +1,0 @@
-macDetailCallback("1ca0d3800000/28",[{"a":"Avda. de los Trabajadores nº2 1ªPlanta Illescas Toledo ES 45200","o":"Desarrollos y Soluciones Guinea I+D S.L.","d":"2016-11-20","t":"add","s":"ieee","c":"ES"}]);

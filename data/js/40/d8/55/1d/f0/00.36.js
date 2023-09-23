@@ -1,1 +1,0 @@
-macDetailCallback("40d8551df000/36",[{"a":"Floor 17,Building D6,Tianfu Software Park, Chengdu Sichuan CN 610041","o":"Chengdu Meihuan Technology Co.,Ltd","d":"2013-12-22","t":"add","s":"ieee","c":"CN"},{"d":"2018-10-11","t":"change","s":"ieee-iab.csv","a":"Floor 17,Building D6,Tianfu Software Park, Chengdu Sichuan CN 610041","c":"CN","o":"Chengdu Meihuan Technology Co., Ltd"}]);

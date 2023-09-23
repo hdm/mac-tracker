@@ -1,1 +1,0 @@
-macDetailCallback("f0221d000000/28",[{"d":"2022-09-03","t":"add","s":"ieee-mam.csv","a":"Industrial Security, Lai Yen Ward Hanoi Hoai Duc District VN 13200","c":"VN","o":"THANHBINH COMPANY - E111 FACTORY"}]);

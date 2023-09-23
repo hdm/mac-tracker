@@ -1,1 +1,0 @@
-macDetailCallback("00e0b4000000/24",[{"d":"1998-04-22","t":"add","a":"13-6-7 KISHIMATI URAWASI\nSAITAMA 336\n\n","c":"JAPAN","o":"TECHNO SCOPE CO., LTD."},{"d":"2015-08-27","t":"change","a":"13-6-7 KISHIMATI URAWASI SAITAMA 336  JP","c":"JP","o":"TECHNO SCOPE CO., LTD."}]);

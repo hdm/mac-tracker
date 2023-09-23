@@ -1,1 +1,0 @@
-macDetailCallback("001f0b000000/24",[{"d":"2007-12-31","t":"add","a":"\nPenza  440011\n\n","c":"RUSSIAN FEDERATION","o":"Federal State Unitary Enterprise Industrial Union\"Electropribor\""},{"d":"2015-08-27","t":"change","a":" Penza  RU 440011 ","c":"RU","o":"Federal State Unitary Enterprise Industrial Union\"Electropribor\""}]);

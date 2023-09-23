@@ -1,1 +1,0 @@
-macDetailCallback("c0a0de000000/24",[{"d":"2011-10-28","t":"add","a":"Henry Fordin katu 6\nHelsinki  00100\n\n","c":"FINLAND","o":"Multi Touch Oy"},{"d":"2011-10-29","t":"change","a":"Henry Fordin katu 6\nHelsinki  00150\n\n","c":"FINLAND","o":"Multi Touch Oy"},{"d":"2015-08-27","t":"change","a":"Henry Fordin katu 6 Helsinki  FI 00150","c":"FI","o":"Multi Touch Oy"}]);

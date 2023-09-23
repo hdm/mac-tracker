@@ -1,1 +1,0 @@
-macDetailCallback("601592800000/28",[{"d":"2021-01-15","t":"add","s":"ieee-mam.csv","a":"No.96 Anlin Road,Guangling District Yangzhou City Jiangsu Province CN 225000","c":"CN","o":"Yangzhou Wanfang Electronic Technology,CO .,Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("a0f9b7000000/24",[{"d":"2018-10-09","t":"add","s":"ieee-oui.csv","a":"No.156 Nanhai Road,TEDA, Jinbin Development Park , 21st Factory Building Tianjin Tianjin CN 300457","c":"CN","o":"Ademco Smart Homes Technology(Tianjin)Co.,Ltd."}]);

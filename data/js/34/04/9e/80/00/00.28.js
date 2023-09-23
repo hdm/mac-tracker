@@ -1,1 +1,0 @@
-macDetailCallback("34049e800000/28",[{"a":"Gulsuyu Mah. Fevzi Cakmak Cad Lefke Sk 16/6 Istanbul Turkey TR 34848","o":"Eclipse Information Technologies","d":"2016-10-02","t":"add","s":"ieee","c":"TR"}]);

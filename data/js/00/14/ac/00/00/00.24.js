@@ -1,1 +1,0 @@
-macDetailCallback("0014ac000000/24",[{"d":"2005-05-22","t":"add","a":"707 West 700 South\nWoods Cross Utah 84087\n\n","c":"UNITED STATES","o":"Bountiful WiFi"},{"d":"2015-08-27","t":"change","a":"707 West 700 South Woods Cross Utah US 84087","c":"US","o":"Bountiful WiFi"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c48372400000/28",[{"d":"2022-07-13","t":"add","s":"ieee-mam.csv","a":"20 Bomax Drive Ithaca  US 14850","c":"US","o":"Transact Technologies Inc"},{"d":"2023-03-11","t":"change","s":"ieee-mam.csv","a":"20 Bomax Drive Ithaca null US 14850","c":"US","o":"Transact Technologies Inc"}]);

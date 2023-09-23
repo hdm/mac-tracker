@@ -1,1 +1,0 @@
-macDetailCallback("d06f4a000000/24",[{"d":"2014-12-17","t":"add","a":"Unit 2506, 25/F, Prosperity Place,\n6 Shing Yip Street, Kwun Tong, Kowloon,\nHong Kong\n","c":"CHINA","o":"TOPWELL INTERNATIONAL HOLDINGS LIMITED"},{"d":"2015-08-27","t":"change","a":"Unit 2506, 25/F, Prosperity Place, Hong Kong N/A CN N/A","c":"CN","o":"TOPWELL INTERNATIONAL HOLDINGS LIMITED"}]);

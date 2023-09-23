@@ -1,1 +1,0 @@
-macDetailCallback("283a4d000000/24",[{"d":"2018-04-03","t":"add","a":"Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District Chongqing Chongqing CN 401332","c":"CN","o":"Cloud Network Technology (Samoa) Limited"}]);

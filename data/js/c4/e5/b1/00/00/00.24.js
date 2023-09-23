@@ -1,1 +1,0 @@
-macDetailCallback("c4e5b1000000/24",[{"d":"2022-08-06","t":"add","s":"ieee-oui.csv","a":"Room168, Building 2, No. 128, West Shenhu Road, Suzhou Industrial Park, Suzhou City, Jiangsu Province, China SuZhou Jiangsu CN 215027","c":"CN","o":"Suzhou PanKore Integrated Circuit Technology Co. Ltd."}]);

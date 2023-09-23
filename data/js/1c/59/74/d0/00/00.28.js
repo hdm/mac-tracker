@@ -1,1 +1,0 @@
-macDetailCallback("1c5974d00000/28",[{"d":"2022-02-19","t":"add","s":"ieee-mam.csv","a":"12th Floor, Block B, Building 7, International Innovation Valley Shenzhen Gunagdong CN 518000","c":"CN","o":"Shenzhen Geshem Technology Co Ltd"}]);

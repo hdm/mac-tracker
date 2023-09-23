@@ -1,1 +1,0 @@
-macDetailCallback("e82e24000000/24",[{"d":"2012-11-17","t":"add","a":"565 Clyde Avenue, Suite 620\nMountain View CA 94043\n\n","c":"UNITED STATES","o":"Out of the Fog Research LLC"},{"d":"2015-08-27","t":"change","a":"565 Clyde Avenue, Suite 620 Mountain View CA US 94043","c":"US","o":"Out of the Fog Research LLC"}]);

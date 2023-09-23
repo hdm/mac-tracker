@@ -1,1 +1,0 @@
-macDetailCallback("00090b000000/24",[{"d":"2002-01-30","t":"add","a":"Power Court\nLuton Bedfordshire LU1 3JJ\n\n","c":"UNITED KINGDOM","o":"MTL  Instruments PLC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Power Court Luton Bedfordshire GB LU1 3JJ","c":"GB","o":"MTL  Instruments PLC"}]);

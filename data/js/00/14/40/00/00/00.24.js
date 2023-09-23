@@ -1,1 +1,0 @@
-macDetailCallback("001440000000/24",[{"d":"2005-04-01","t":"add","a":"MAMPO BLDG\n1-3-11,ASAKUSABASHI\nTAITO-KU TOKYO 111-0053\n","c":"JAPAN","o":"ATOMIC Corporation"},{"d":"2015-08-27","t":"change","a":"MAMPO BLDG TAITO-KU TOKYO JP 111-0053","c":"JP","o":"ATOMIC Corporation"}]);

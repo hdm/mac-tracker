@@ -1,1 +1,0 @@
-macDetailCallback("0c8629d00000/28",[{"d":"2021-12-29","t":"add","s":"ieee-mam.csv","a":"27 Shucun West Road, Haidian District, Beijing  CN 100089","c":"CN","o":"BEIJING BEIBIANZHIDA TECHNOLOGY CO.,LTD"}]);

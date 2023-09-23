@@ -1,1 +1,0 @@
-macDetailCallback("e42150000000/24",[{"d":"2022-10-29","t":"add","s":"ieee-oui.csv","a":"3857 Sixian Road, Songjiang District, Shanghai Shanghai Shanghai CN 201616","c":"CN","o":"Shanghai Chint low voltage electrical technology Co.,Ltd."}]);

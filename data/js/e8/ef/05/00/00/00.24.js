@@ -1,1 +1,0 @@
-macDetailCallback("e8ef05000000/24",[{"d":"2022-04-14","t":"add","s":"ieee-oui.csv","a":"FLAT E 2/F RIALTO MANSION 183 KING'S RD NORTH POINT HK Hong Kong  HK 999077","c":"HK","o":"MIND TECH INTERNATIONAL LIMITED"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("ec8ead000000/24",[{"d":"2009-12-13","t":"add","a":"#401, Seoil B/D,1359-45 Seocho2-dong\nSeocho-ku,\nSeoul  137-863\n","c":"KOREA, REPUBLIC OF","o":"DLX"},{"d":"2015-08-27","t":"change","a":"#401, Seoil B/D,1359-45 Seocho2-dong Seoul  KR 137-863","c":"KR","o":"DLX"}]);

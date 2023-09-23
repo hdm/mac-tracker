@@ -1,1 +1,0 @@
-macDetailCallback("6c9308a00000/28",[{"d":"2022-01-14","t":"add","s":"ieee-mam.csv","a":"Bld.20 Zone 5, Baiwangxin Industry Park, Songbai Rd.Nanshan Dist ShenZhen Guangdong CN 518055","c":"CN","o":"Shenzhen TOPWAY Technology Co.,LTD"}]);

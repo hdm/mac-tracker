@@ -1,1 +1,0 @@
-macDetailCallback("71886b500000/28",[{"d":"2015-09-01","t":"add","a":"3F,Bldg3,No.333,Yunhua Road,Hig-tech Zone\nChengdu  Sichuan  610041\n\n","c":"CN","o":"Chengdu Ophylink Communication Technology Ltd."},{"d":"2015-09-02","t":"delete","a":"3F,Bldg3,No.333,Yunhua Road,Hig-tech Zone\nChengdu  Sichuan  610041\n\n","c":"CN","o":"Chengdu Ophylink Communication Technology Ltd."}]);

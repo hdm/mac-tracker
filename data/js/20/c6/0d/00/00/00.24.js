@@ -1,1 +1,0 @@
-macDetailCallback("20c60d000000/24",[{"d":"2013-09-17","t":"add","a":"Room605,NO.9,Lane 777\nWest Guangzhong Road,\nShanghai  200070\n","c":"CHINA","o":"Shanghai annijie Information technology Co.,LTD"},{"d":"2015-08-27","t":"change","a":"Room605,NO.9,Lane 777 Shanghai  CN 200070","c":"CN","o":"Shanghai annijie Information technology Co.,LTD"}]);

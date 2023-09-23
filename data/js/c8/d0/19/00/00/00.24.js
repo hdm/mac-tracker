@@ -1,1 +1,0 @@
-macDetailCallback("c8d019000000/24",[{"d":"2014-07-08","t":"add","a":"Room 805, building 1\nNo. 100 Qinzhou Road\nShanghai 200235\n","c":"CHINA","o":"Shanghai Tigercel Communication Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Room 805, building 1  Shanghai CN 200235","c":"CN","o":"Shanghai Tigercel Communication Technology Co.,Ltd"}]);

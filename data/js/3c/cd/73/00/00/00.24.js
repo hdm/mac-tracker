@@ -1,1 +1,0 @@
-macDetailCallback("3ccd73000000/24",[{"d":"2023-07-28","t":"add","s":"ieee-oui.csv","a":"Room 1002, No.570 ShengXia RD, Pudong district, Shanghai Shanghai  CN 201210","c":"CN","o":"Nebula Electronic Technology Corporation"}]);

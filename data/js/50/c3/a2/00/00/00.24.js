@@ -1,1 +1,0 @@
-macDetailCallback("50c3a2000000/24",[{"d":"2020-10-25","t":"add","s":"ieee-oui.csv","a":"5F., No.31, Ln. 258, Ruiguang Rd. Neihu Dist., Taipei City 114, Taiwan Taipei  TW 114","c":"TW","o":"nFore Technology Co.,Ltd."}]);

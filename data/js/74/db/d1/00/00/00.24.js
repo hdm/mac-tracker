@@ -1,1 +1,0 @@
-macDetailCallback("74dbd1000000/24",[{"d":"2014-04-05","t":"add","a":"2211 N. First St\nSan Jose Ca 95131\n\n","c":"UNITED STATES","o":"Ebay Inc"},{"d":"2015-08-27","t":"change","a":"2211 N. First St San Jose Ca US 95131","c":"US","o":"Ebay Inc"}]);

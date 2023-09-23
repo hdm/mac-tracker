@@ -1,1 +1,0 @@
-macDetailCallback("7cbf77000000/24",[{"d":"2023-07-06","t":"add","s":"ieee-oui.csv","a":"No. 568, Sec. 1, Minsheng N. Rd., Guishan Dist., Taoyuan City 338, Taiwan Taoyuan  TW 338","c":"TW","o":"SPEEDTECH CORP."}]);

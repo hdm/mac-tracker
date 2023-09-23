@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64984000/36",[{"d":"2021-06-16","t":"add","s":"ieee-oui36.csv","a":"29 Apurva Industrial Estate, Makwana Road, Marol, Andheri East Mumbai Maharashtra IN 400059","c":"IN","o":"Abacus Peripherals Pvt Ltd"}]);

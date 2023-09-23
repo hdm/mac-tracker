@@ -1,1 +1,0 @@
-macDetailCallback("ac6fd9000000/24",[{"d":"2011-07-06","t":"add","a":"#803, Sicox Tower, 513-14\nSangdaewon-dong, Jungwon-gu\nSeongnam-si Gyeonggi-do 462-806\n","c":"KOREA, REPUBLIC OF","o":"Valueplus Inc."},{"d":"2015-08-27","t":"change","a":"#803, Sicox Tower, 513-14,  Seongnam-si Gyeonggi-do KR 462-806","c":"KR","o":"Valueplus Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001a23000000/24",[{"d":"2006-11-02","t":"add","a":"141 Wilson Ave\nGreensburg Pa 15601\n\n","c":"UNITED STATES","o":"Ice Qube, Inc"},{"d":"2015-08-27","t":"change","a":"141 Wilson Ave Greensburg Pa US 15601","c":"US","o":"Ice Qube, Inc"}]);

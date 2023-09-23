@@ -1,1 +1,0 @@
-macDetailCallback("cc9f35000000/24",[{"d":"2013-12-14","t":"add","a":"Lukasza Drewny 80\nWarsaw  02-968\n\n","c":"POLAND","o":"Transbit Sp. z o.o."},{"d":"2015-08-27","t":"change","a":"Przyczolkowa 109A Warsaw   PL 02-968","c":"PL","o":"Transbit Sp. z o.o."}]);

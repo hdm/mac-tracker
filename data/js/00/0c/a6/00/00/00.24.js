@@ -1,1 +1,0 @@
-macDetailCallback("000ca6000000/24",[{"d":"2003-03-05","t":"add","a":"847 Rogers Street\nLowell MA 01852\n\n","c":"UNITED STATES","o":"Mintera Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"847 Rogers Street Lowell MA US 01852","c":"US","o":"Mintera Corporation"}]);

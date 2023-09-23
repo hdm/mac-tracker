@@ -1,1 +1,0 @@
-macDetailCallback("000a4f000000/24",[{"d":"2002-08-03","t":"add","a":"Unit 3c, Wavertree Boulevard South\nWavertree Technology Park\nLiverpool Merseyside L7 9PF\n","c":"UNITED KINGDOM","o":"Brain Boxes Limited","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Unit 3c, Wavertree Boulevard South Liverpool Merseyside GB L7 9PF","c":"GB","o":"Brain Boxes Limited"}]);

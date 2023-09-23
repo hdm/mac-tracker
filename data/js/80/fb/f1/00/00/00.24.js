@@ -1,1 +1,0 @@
-macDetailCallback("80fbf1000000/24",[{"d":"2021-04-29","t":"add","s":"ieee-oui.csv","a":"15#,Xing Hua Road, Xi Qing Economic Technology Development Area Tianjin  CN 300385","c":"CN","o":"Freescale Semiconductor (China) Ltd."}]);

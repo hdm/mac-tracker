@@ -1,1 +1,0 @@
-macDetailCallback("001e4e000000/24",[{"d":"2007-09-29","t":"add","a":"Ernst-Haeckel-Platz 5/6\nJena Thuringia 07745\n\n","c":"GERMANY","o":"DAKO EDV-Ingenieur- und Systemhaus GmbH"},{"d":"2015-08-27","t":"change","a":"Ernst-Haeckel-Platz 5/6 Jena Thuringia DE 07745","c":"DE","o":"DAKO EDV-Ingenieur- und Systemhaus GmbH"}]);

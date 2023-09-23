@@ -1,1 +1,0 @@
-macDetailCallback("080085000000/24",[{"d":"2000-09-08","t":"add","a":"2334 LUNDY PLACE\nSAN JOSE CA 95131\n\n","c":"UNITED STATES","o":"ELXSI"},{"d":"2015-08-27","t":"change","a":"2334 LUNDY PLACE SAN JOSE CA US 95131","c":"US","o":"ELXSI"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00232f000000/24",[{"d":"2008-10-08","t":"add","a":"Unit 2010-13, Chevalier Commercial Centre,\n8 Wang Hoi Road,\nKowloon Bay, SAR\n","c":"HONG KONG","o":"Advanced Card Systems Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Unit 2010-13, Chevalier Commercial Centre, Kowloon Bay, SAR HK","c":"HK","o":"Advanced Card Systems Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("1889a0000000/24",[{"d":"2018-06-01","t":"add","a":"5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan Wuhan CN/Hubei CN 430000","c":"CN","o":"Wuhan Funshion Online Technologies Co.,Ltd"}]);

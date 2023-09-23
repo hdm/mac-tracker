@@ -1,1 +1,0 @@
-macDetailCallback("c436da000000/24",[{"d":"2011-03-29","t":"add","a":"Ordzhonikidze Str. 11, Bldg. 40, Off. 15\nMoscow  115419\n\n","c":"RUSSIAN FEDERATION","o":"Rusteletech Ltd."},{"d":"2015-08-27","t":"change","a":"Ordzhonikidze Str. 11, Bldg. 40, Off. 15  Moscow  RU 115419","c":"RU","o":"Rusteletech Ltd."}]);

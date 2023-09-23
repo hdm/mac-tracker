@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64e70000/36",[{"d":"2023-09-08","t":"add","s":"ieee-oui36.csv","a":"TELFI TECHNOLOGIES PRIVATE LIMITED\n1/301,2nd floor, Palkalai Nagar avenue, Palavakkam CHENNAI TAMILNADU IN 600041","c":"IN","o":"TELFI TECHNOLOGIES PRIVATE LIMITED"}]);

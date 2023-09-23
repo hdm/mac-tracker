@@ -1,1 +1,0 @@
-macDetailCallback("9c685b000000/24",[{"d":"2014-10-09","t":"add","a":"EPFL Innovation Park, BÃ¢timent C\nLausanne Vaud 1015\n\n","c":"SWITZERLAND","o":"Octonion SA"},{"d":"2015-08-27","t":"change","a":"EPFL Innovation Park, Bâtiment C Lausanne Vaud CH 1015","c":"CH","o":"Octonion SA"}]);

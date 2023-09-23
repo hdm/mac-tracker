@@ -1,1 +1,0 @@
-macDetailCallback("10a659000000/24",[{"d":"2014-09-25","t":"add","a":"Kakukita 2-20-8\nOita  870-0848\n\n","c":"JAPAN","o":"Mobile Create Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"Kakukita 2-20-8 Oita  JP 870-0848","c":"JP","o":"Mobile Create Co.,Ltd."}]);

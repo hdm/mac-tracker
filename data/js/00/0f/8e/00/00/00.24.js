@@ -1,1 +1,0 @@
-macDetailCallback("000f8e000000/24",[{"d":"2004-03-17","t":"add","a":"642-7, DEUNGCHON-DONG, KANGSEO-GU\nSEOUL KANGSE-GU 157-841\n\n","c":"KOREA, REPUBLIC OF","o":"DONGYANG TELECOM CO.,LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"642-7, DEUNGCHON-DONG, KANGSEO-GU SEOUL KANGSE-GU KR 157-841","c":"KR","o":"DONGYANG TELECOM CO.,LTD."}]);

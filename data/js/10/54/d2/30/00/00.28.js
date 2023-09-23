@@ -1,1 +1,0 @@
-macDetailCallback("1054d2300000/28",[{"d":"2021-12-22","t":"add","s":"ieee-mam.csv","a":"Unit 215, 2F, A1, Zhimei Industry Park, Fuhai Industrial Zone B2, Fuyong Street, Baoan District Shenzhen Guangdong CN 518103","c":"CN","o":"Little Array Technology (Shenzhen) Co., Ltd."}]);

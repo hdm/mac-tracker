@@ -1,1 +1,0 @@
-macDetailCallback("001aec000000/24",[{"d":"2006-12-30","t":"add","a":"3-26, Jangsang-dong, Sangrok-gu\nAnsan-si Kyungki-do 426-410\n\n","c":"KOREA, REPUBLIC OF","o":"Keumbee Electronics Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"3-26, Jangsang-dong, Sangrok-gu Ansan-si Kyungki-do KR 426-410","c":"KR","o":"Keumbee Electronics Co.,Ltd."}]);

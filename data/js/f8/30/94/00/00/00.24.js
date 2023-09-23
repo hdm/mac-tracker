@@ -1,1 +1,0 @@
-macDetailCallback("f83094000000/24",[{"d":"2012-01-28","t":"add","a":"The Quadrant, Stonehill Green\nWestlea\nSWINDON  SN5 7DJ\n","c":"UNITED KINGDOM","o":"Alcatel-Lucent Telecom Limited"},{"d":"2015-08-27","t":"change","a":"The Quadrant, Stonehill Green  SWINDON  GB SN5 7DJ","c":"GB","o":"Alcatel-Lucent Telecom Limited"}]);

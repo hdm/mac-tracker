@@ -1,1 +1,0 @@
-macDetailCallback("001a79000000/24",[{"d":"2006-11-29","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2006-12-05","t":"change","a":"4D ZHUKOVA BLV.\nODESSA  65121\n\n","c":"UKRAINE","o":"TELECOMUNICATION TECHNOLOGIES LTD."},{"d":"2015-08-27","t":"change","a":"4D ZHUKOVA BLV. ODESSA  UA 65121","c":"UA","o":"TELECOMUNICATION TECHNOLOGIES LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("a46032000000/24",[{"d":"2014-01-10","t":"add","a":"Hayetzira 6\nP.O Box 614\nYokneam Yokneam 20692\n","c":"ISRAEL","o":"MRV Communications (Networks) LTD"},{"d":"2015-08-27","t":"change","a":"Hayetzira 6 Yokneam Yokneam IL 20692","c":"IL","o":"MRV Communications (Networks) LTD"}]);

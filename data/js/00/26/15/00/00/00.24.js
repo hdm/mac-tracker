@@ -1,1 +1,0 @@
-macDetailCallback("002615000000/24",[{"d":"2009-05-03","t":"add","a":"B-84\nSector - 60\nNoida Uttar Pradesh 201301\n","c":"INDIA","o":"Teracom Limited","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"B-84 Noida Uttar Pradesh IN 201301","c":"IN","o":"Teracom Limited"}]);

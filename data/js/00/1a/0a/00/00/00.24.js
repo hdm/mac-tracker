@@ -1,1 +1,0 @@
-macDetailCallback("001a0a000000/24",[{"d":"2006-10-16","t":"add","a":"6917 Innovation Blvd\nFort Wayne IN 46818\n\n","c":"UNITED STATES","o":"Adaptive Micro-Ware Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6917 Innovation Blvd Fort Wayne IN US 46818","c":"US","o":"Adaptive Micro-Ware Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("002273000000/24",[{"d":"2008-06-18","t":"add","a":"Rm 1002, Daehyun Techno World Bd,\n174, Ojun-Dong,\nUiwang-Si, Kyungki-Do 437-820\n","c":"KOREA, REPUBLIC OF","o":"Techway","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Rm 1002, Daehyun Techno World Bd, Uiwang-Si, Kyungki-Do KR 437-820","c":"KR","o":"Techway"}]);

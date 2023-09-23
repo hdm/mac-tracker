@@ -1,1 +1,0 @@
-macDetailCallback("00112a000000/24",[{"d":"2004-04-25","t":"add","a":"Industriepark West 40\nSint-Niklaas O/V 9100\n\n","c":"BELGIUM","o":"Niko NV","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Industriepark West 40 Sint-Niklaas O/V BE 9100","c":"BE","o":"Niko NV"}]);

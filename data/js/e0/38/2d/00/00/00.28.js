@@ -1,1 +1,0 @@
-macDetailCallback("e0382d000000/28",[{"d":"2022-09-21","t":"add","s":"ieee-mam.csv","a":"3A floor, Block B, Science and Technology Wealth Center, No. 8 Xueqing Road, Haidian District, Beijing Beijing Beijing CN 100192","c":"CN","o":"Beijing Cgprintech Technology Co.,Ltd"}]);

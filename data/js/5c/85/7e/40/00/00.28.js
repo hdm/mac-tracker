@@ -1,1 +1,0 @@
-macDetailCallback("5c857e400000/28",[{"d":"2020-05-22","t":"add","s":"ieee-mam.csv","a":"aiying.li@ip3-tech.com Shenzhen  CN 518057","c":"CN","o":"Shenzhen IP3 Century Intelligent Technology CO.,Ltd"}]);

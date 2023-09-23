@@ -1,1 +1,0 @@
-macDetailCallback("001964000000/24",[{"d":"2006-08-20","t":"add","a":"120 Glasgow St.\nInglewood CA. 90301\n\n","c":"UNITED STATES","o":"Doorking Inc."},{"d":"2015-08-27","t":"change","a":"120 Glasgow St. Inglewood CA. US 90301","c":"US","o":"Doorking Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("3a5a27000000/24",[{"d":"2020-05-20","t":"add","s":"ieee-cid.csv","a":"8F, Building 1, Financial Base, No.8 Kefa Road, High-Tech Park, Shenzhen, China Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Longsys Electronics Co.,Ltd."}]);

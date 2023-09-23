@@ -1,1 +1,0 @@
-macDetailCallback("001b29000000/24",[{"d":"2007-01-21","t":"add","a":"502 SEOIL BLDG.\n1543-8 SEOCHO-DONG, SEOCHO-GU\nSEOUL  132-872\n","c":"KOREA, REPUBLIC OF","o":"Avantis.Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"502 SEOIL BLDG. SEOUL  KR 132-872","c":"KR","o":"Avantis.Co.,Ltd"}]);

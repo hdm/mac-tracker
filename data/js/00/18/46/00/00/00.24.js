@@ -1,1 +1,0 @@
-macDetailCallback("001846000000/24",[{"d":"2006-06-13","t":"add","a":"V. Ipirou 45\nMarousi Athens 15125\n\n","c":"GREECE","o":"Crypto S.A."},{"d":"2015-08-27","t":"change","a":"V. Ipirou 45 Marousi Athens GR 15125","c":"GR","o":"Crypto S.A."}]);

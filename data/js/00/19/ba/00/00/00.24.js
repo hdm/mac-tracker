@@ -1,1 +1,0 @@
-macDetailCallback("0019ba000000/24",[{"d":"2006-09-25","t":"add","a":"780 Industrial Blvd\nSt-Eustache Quebec J7R 5V3\n\n","c":"CANADA","o":"Paradox Security Systems Ltd"},{"d":"2015-08-27","t":"change","a":"780 Industrial Blvd St-Eustache Quebec CA J7R 5V3","c":"CA","o":"Paradox Security Systems Ltd"}]);

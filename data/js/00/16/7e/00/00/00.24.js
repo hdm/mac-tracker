@@ -1,1 +1,0 @@
-macDetailCallback("00167e000000/24",[{"d":"2005-11-24","t":"add","a":"126-1, Gongdan-dong\nGumi Gyeongbuk 730-902\n\n","c":"KOREA, REPUBLIC OF","o":"DIBOSS.CO.,LTD"},{"d":"2015-08-27","t":"change","a":"126-1, Gongdan-dong Gumi Gyeongbuk KR 730-902","c":"KR","o":"DIBOSS.CO.,LTD"}]);

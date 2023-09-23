@@ -1,1 +1,0 @@
-macDetailCallback("001ec4000000/24",[{"d":"2007-11-20","t":"add","a":"265 E 100 S  # 280\nSalt Lake City UT 84111\n\n","c":"UNITED STATES","o":"Celio Corp","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"265 E 100 S  # 280 Salt Lake City UT US 84111","c":"US","o":"Celio Corp"}]);

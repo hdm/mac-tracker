@@ -1,1 +1,0 @@
-macDetailCallback("000efc000000/24",[{"d":"2003-12-21","t":"add","a":"Boschdijk 50\nEindhoven NB 5612 AN\n\n","c":"NETHERLANDS","o":"JTAG Technologies B.V.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Boschdijk 50 Eindhoven NB NL 5612 AN","c":"NL","o":"JTAG Technologies B.V."}]);

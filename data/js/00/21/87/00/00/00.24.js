@@ -1,1 +1,0 @@
-macDetailCallback("002187000000/24",[{"d":"2008-06-18","t":"add","a":"Mittelfeldstrasse 25\nKornwestheim Germany D-70806\n\n","c":"GERMANY","o":"Imacs GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Mittelfeldstrasse 25 Kornwestheim Germany DE D-70806","c":"DE","o":"Imacs GmbH"}]);

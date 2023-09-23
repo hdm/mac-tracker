@@ -1,1 +1,0 @@
-macDetailCallback("70b921000000/24",[{"d":"2011-04-15","t":"add","a":"No.5 Dongxin Road,Hongshan District\nWuhan Hubei 430074\n\n","c":"CHINA","o":"FiberHome Telecommunication Technologies CO.,LTD"},{"d":"2015-08-27","t":"change","a":"No.5 DongXin Road Wuhan Hubei CN 430074","c":"CN","o":"Fiberhome Telecommunication Technologies Co.,LTD"}]);

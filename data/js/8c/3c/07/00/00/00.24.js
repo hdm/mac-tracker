@@ -1,1 +1,0 @@
-macDetailCallback("8c3c07000000/24",[{"d":"2013-03-12","t":"add","a":"8330 Sterling St\nIrving TX 75063\n\n","c":"UNITED STATES","o":"Skiva Technologies, Inc."},{"d":"2015-08-27","t":"change","a":"8330 Sterling St Irving TX US 75063","c":"US","o":"Skiva Technologies, Inc."}]);

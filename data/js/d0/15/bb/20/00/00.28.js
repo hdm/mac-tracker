@@ -1,1 +1,0 @@
-macDetailCallback("d015bb200000/28",[{"d":"2023-05-18","t":"add","s":"ieee-mam.csv","a":"Room910,Environment Building,16 Guangqumen Inner Street,Dongcheng District Beijing  CN 100062","c":"CN","o":"Beijing Guangshu Zhiying Technology Development Co., Ltd."}]);

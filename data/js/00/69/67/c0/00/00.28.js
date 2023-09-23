@@ -1,1 +1,0 @@
-macDetailCallback("006967c00000/28",[{"d":"2019-09-21","t":"add","s":"ieee-mam.csv","a":"Mehmetçik Mahallesi Aspendos Bulvar? No:99A Muratpa?a/ANTALYA Antalya  TR 07300","c":"TR","o":"Desird Design R&D"}]);

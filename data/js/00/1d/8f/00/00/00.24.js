@@ -1,1 +1,0 @@
-macDetailCallback("001d8f000000/24",[{"d":"2007-08-18","t":"add","a":"2660-C Marine Way\nMountain View CA 94043\n\n","c":"UNITED STATES","o":"PureWave Networks"},{"d":"2015-08-27","t":"change","a":"2660-C Marine Way Mountain View CA US 94043","c":"US","o":"PureWave Networks"}]);

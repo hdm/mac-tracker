@@ -1,1 +1,0 @@
-macDetailCallback("304950100000/28",[{"d":"2020-04-29","t":"add","s":"ieee-mam.csv","a":"306 Beverley Commercial Center, 87-105 Chatham Road, TST, Kowloon Hong Kong HK 852","c":"HK","o":"ATLI WORLD LIMITED"}]);

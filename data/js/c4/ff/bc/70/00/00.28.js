@@ -1,1 +1,0 @@
-macDetailCallback("c4ffbc700000/28",[{"a":"6712 Brooklawn  Parkway Syracuse  US 13211","o":"Critical Link","d":"2017-10-29","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-mam.csv","a":"6712 Brooklawn  Parkway Syracuse null US 13211","c":"US","o":"Critical Link"}]);

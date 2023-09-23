@@ -1,1 +1,0 @@
-macDetailCallback("cc9093000000/24",[{"d":"2011-09-07","t":"add","a":"8 Kangping road, New development zone\nJiangning\nNanjing Jiangsu 210006\n","c":"CHINA","o":"Hansong Tehnologies"},{"d":"2015-08-27","t":"change","a":"8 Kangping road, New development zone Nanjing Jiangsu CN 210006","c":"CN","o":"Hansong Tehnologies"}]);

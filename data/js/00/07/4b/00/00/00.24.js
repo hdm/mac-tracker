@@ -1,1 +1,0 @@
-macDetailCallback("00074b000000/24",[{"d":"2001-10-24","t":"add","a":"2-1-11 Tagawa Yodogawa-ku\nOsaka 532-8512\n\n","c":"JAPAN","o":"Daihen Corporation"},{"d":"2015-08-27","t":"change","a":"2-1-11 Tagawa Yodogawa-ku   JP","c":"JP","o":"Daihen Corporation"}]);

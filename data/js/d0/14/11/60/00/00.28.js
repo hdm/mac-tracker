@@ -1,1 +1,0 @@
-macDetailCallback("d01411600000/28",[{"d":"2020-05-13","t":"add","s":"ieee-mam.csv","a":"B-313, Samhwan HIPEX, 230, Pangyoyeok-ro, Bundang-gu Seongnam-si Gyeonggi-do KR 13493","c":"KR","o":"Ahnnet"}]);

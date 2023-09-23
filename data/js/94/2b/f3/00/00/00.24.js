@@ -1,1 +1,0 @@
-macDetailCallback("942bf3000000/24",[{"d":"2011-10-06","t":"add","a":"80 West Tasman Dr.\nSJCM1-1\nSan Jose CA 95134\n","c":"UNITED STATES","o":"Cisco Systems"},{"d":"2011-10-07","t":"delete","a":"80 West Tasman Dr.\nSJCM1-1\nSan Jose CA 95134\n","c":"UNITED STATES","o":"Cisco Systems"}]);

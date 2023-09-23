@@ -1,1 +1,0 @@
-macDetailCallback("50a030500000/28",[{"d":"2021-10-27","t":"add","s":"ieee-mam.csv","a":"North-2, floor 13, building A3, No. 8, Bailongjiang East Street, Xincheng Science Park, Jianye District, Nanjing Nanjing  CN 210005","c":"CN","o":"Jiangsu Jinshi Legend Technology Co.,Ltd"}]);

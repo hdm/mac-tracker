@@ -1,1 +1,0 @@
-macDetailCallback("001414000000/24",[{"d":"2005-03-22","t":"add","a":"800 Washington Ave N.\nSuite 309\nMinneapolis MN 55041\n","c":"UNITED STATES","o":"Jumpnode Systems LLC."},{"d":"2015-08-27","t":"change","a":"800 Washington Ave N. Minneapolis MN US 55041","c":"US","o":"Jumpnode Systems LLC."}]);

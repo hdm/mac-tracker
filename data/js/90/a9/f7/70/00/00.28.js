@@ -1,1 +1,0 @@
-macDetailCallback("90a9f7700000/28",[{"d":"2023-09-07","t":"add","s":"ieee-mam.csv","a":"Unit 3, Floor 6, Building7, Zone A, Hantian Technology City, No. 17 Shenhai Road,\nGuicheng Sub-district, Nanhai District\n Foshan Guangdong CN 528251","c":"CN","o":"GUANGDONG KERUIDE ELECTRICAL TECHNOLOGY CO., LTD."}]);

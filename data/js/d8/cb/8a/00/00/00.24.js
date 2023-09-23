@@ -1,1 +1,0 @@
-macDetailCallback("d8cb8a000000/24",[{"d":"2014-08-05","t":"add","a":"No.69, Lide St.,\nZhonghe Dist.,\nNew Taipei City Taiwan 235\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Micro-Star INTL CO., LTD."},{"d":"2015-08-27","t":"change","a":"No.69, Lide St., New Taipei City Taiwan TW 235","c":"TW","o":"Micro-Star INTL CO., LTD."}]);

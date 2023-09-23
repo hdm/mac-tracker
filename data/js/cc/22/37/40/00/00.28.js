@@ -1,1 +1,0 @@
-macDetailCallback("cc2237400000/28",[{"a":"98 shunda road 9#,nanxiang town, Jianding district Shanghai, 200182P.R.  CN 200182","o":"SHANGHAI CARGOA M.&E.EQUIPMENT CO.LTD","d":"2017-06-18","t":"add","s":"ieee","c":"CN"}]);

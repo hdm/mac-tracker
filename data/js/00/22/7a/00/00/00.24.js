@@ -1,1 +1,0 @@
-macDetailCallback("00227a000000/24",[{"d":"2008-06-18","t":"add","a":"Za Remora\nVoie Romaine\n33170 Gradignan\n","c":"FRANCE","o":"Telecom Design","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Za Remora 33170 Gradignan FR","c":"FR","o":"Telecom Design"}]);

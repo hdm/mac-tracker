@@ -1,1 +1,0 @@
-macDetailCallback("70b3d566a000/36",[{"a":"","o":"Private","d":"2018-05-27","t":"add","s":"ieee"},{"d":"2022-06-02","t":"change","s":"ieee-oui36.csv","a":"101 Glacier Point, Suite E San Rafael CA US 94901","c":"US","o":"Nomadic"}]);

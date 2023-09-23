@@ -1,1 +1,0 @@
-macDetailCallback("18c3f4700000/28",[{"d":"2022-06-02","t":"add","s":"ieee-mam.csv","a":"Building 2,Cuigang Industrial Zone 6,Huaide Community,Fuyong Town,Baoan District, Shenzhen City, Guangdong province, China Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Yecon-Tech Co.,Ltd."}]);

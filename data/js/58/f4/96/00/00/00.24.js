@@ -1,1 +1,0 @@
-macDetailCallback("58f496000000/24",[{"d":"2015-07-28","t":"add","a":"#407-4 eBIZ.Center\n12, Digital-ro 33-gil, Guro-gu\nSeoul seoul ASI|KR|KS013|SEOUL\n","c":"KOREA, REPUBLIC OF","o":"Source Chain"},{"d":"2015-08-27","t":"change","a":"#407-4 eBIZ.Center Seoul seoul KR ASI|KR|KS013|SEOUL","c":"KR","o":"Source Chain"}]);

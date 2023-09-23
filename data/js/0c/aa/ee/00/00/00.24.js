@@ -1,1 +1,0 @@
-macDetailCallback("0caaee000000/24",[{"d":"2021-06-18","t":"add","s":"ieee-oui.csv","a":"4 Bldg., Pinglan Indl. Park, Nanping, Zhuhai Guangdong CN 519060","c":"CN","o":"Ansjer Electronics Co., Ltd."}]);

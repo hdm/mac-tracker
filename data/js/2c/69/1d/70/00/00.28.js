@@ -1,1 +1,0 @@
-macDetailCallback("2c691d700000/28",[{"d":"2022-05-18","t":"add","s":"ieee-mam.csv","a":"2/f, Block F3, Changfeng Ind. Park, Liuxian 3 Rd., Shenzhen, Guangdong, China 1/f, Block F4, Changfeng Ind. Park, 68 Zone,Baoan District,Shenzhen,China Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Gigalight Technology Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0023f4000000/24",[{"d":"2008-10-12","t":"add","a":"4, rue Charles Cros\nLouviers  27407\n\n","c":"FRANCE","o":"Masternaut","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4, rue Charles Cros Louviers  FR 27407","c":"FR","o":"Masternaut"}]);

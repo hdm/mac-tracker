@@ -1,1 +1,0 @@
-macDetailCallback("50a4d0000000/28",[{"a":"15 rue Marc Donadille - Les Baronnies Bat.C MARSEILLE  FR 13013","o":"TRAXENS","d":"2016-10-30","t":"add","s":"ieee","c":"FR"},{"d":"2019-11-06","t":"change","s":"ieee-mam.csv","a":"HELIOPOLIS III – 16 rue Louis Leprince Ringuet Marseille Provence-Alpes-Côte d'Azur FR 13013","c":"FR","o":"TRAXENS"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d09395000000/28",[{"d":"2022-12-18","t":"add","s":"ieee-mam.csv","a":"No.77, Jing 10th Road, Yueqing Economic Development Zone, Wenzhou Yueqing City Zhejiang CN 325608","c":"CN","o":"Zhejiang Ruiyi lntelligent Technology Co. Ltd"}]);

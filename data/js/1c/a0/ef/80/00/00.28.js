@@ -1,1 +1,0 @@
-macDetailCallback("1ca0ef800000/28",[{"d":"2021-02-04","t":"add","s":"ieee-mam.csv","a":"No. 505, 5 / F, Unit 2, building 1, No. 777, North Section of Yizhou Avenue, Chengdu High Tech Zone, China (Sichuan) Pilot Free Trade Zone Chengdu  CN 610000","c":"CN","o":"Zillnk"}]);

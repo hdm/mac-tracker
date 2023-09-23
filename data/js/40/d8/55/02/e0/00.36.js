@@ -1,1 +1,0 @@
-macDetailCallback("40d85502e000/36",[{"a":"Rua Gustavo Zimmermann, 2431 Blumenau Santa Catarina BR 89062-100","o":"Circuitec Ind. Equip. Eletr. Ltda","d":"2012-10-21","t":"add","s":"ieee","c":"BR"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0026db000000/24",[{"d":"2009-07-16","t":"add","a":"Carmelray Industrial Park 2, Brgy. Tulo\nCalamba Laguna 4027\n\n","c":"PHILIPPINES","o":"Ionics EMS Inc."},{"d":"2015-08-27","t":"change","a":"Carmelray Industrial Park 2, Brgy. Tulo Calamba Laguna PH 4027","c":"PH","o":"Ionics EMS Inc."}]);

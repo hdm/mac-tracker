@@ -1,1 +1,0 @@
-macDetailCallback("4487db000000/24",[{"d":"2020-07-16","t":"add","s":"ieee-oui.csv","a":"Tymphany Acoustic Technology (Huizhou) Co., Ltd. Huizhou Guangdong CN 516223","c":"CN","o":"Tymphany Acoustic Technology (Huizhou) Co.,  Ltd."}]);

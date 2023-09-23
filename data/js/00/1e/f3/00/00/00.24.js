@@ -1,1 +1,0 @@
-macDetailCallback("001ef3000000/24",[{"d":"2007-12-31","t":"add","a":"2F, Mester inc\n1687-3, Sinil-dong\nDaejeon  306-230\n","c":"KOREA, REPUBLIC OF","o":"From2"},{"d":"2015-08-27","t":"change","a":"2F, Mester inc Daejeon  KR 306-230","c":"KR","o":"From2"}]);

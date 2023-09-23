@@ -1,1 +1,0 @@
-macDetailCallback("00093c000000/24",[{"d":"2002-03-29","t":"add","a":"268 Montague Rd\nWest End Queensland 4101\n\n","c":"AUSTRALIA","o":"Jacques Technologies P/L","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"268 Montague Rd West End Queensland AU 4101","c":"AU","o":"Jacques Technologies P/L"}]);

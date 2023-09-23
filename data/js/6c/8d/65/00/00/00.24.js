@@ -1,1 +1,0 @@
-macDetailCallback("6c8d65000000/24",[{"d":"2010-04-22","t":"add","a":"1601 N. Main Street, Suite 202\nWalnut Creek CA 94596\n\n","c":"UNITED STATES","o":"Wireless Glue Networks, Inc."},{"d":"2015-08-27","t":"change","a":"1601 N. Main Street, Suite 202 Walnut Creek CA US 94596","c":"US","o":"Wireless Glue Networks, Inc."}]);

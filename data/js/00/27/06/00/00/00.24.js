@@ -1,1 +1,0 @@
-macDetailCallback("002706000000/24",[{"d":"2009-07-29","t":"add","a":"309-52 SUNGSU-2GA, 1DONG, SUNGDONG-GU\nSEOUL  133-827\n\n","c":"KOREA, REPUBLIC OF","o":"YOISYS"},{"d":"2015-08-27","t":"change","a":"309-52 SUNGSU-2GA, 1DONG, SUNGDONG-GU SEOUL  KR 133-827","c":"KR","o":"YOISYS"}]);

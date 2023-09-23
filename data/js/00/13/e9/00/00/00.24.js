@@ -1,1 +1,0 @@
-macDetailCallback("0013e9000000/24",[{"d":"2005-03-06","t":"add","a":"9600 SW Oak St.\nPortland OR 97223\n\n","c":"UNITED STATES","o":"VeriWave, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9600 SW Oak St. Portland OR US 97223","c":"US","o":"VeriWave, Inc."}]);

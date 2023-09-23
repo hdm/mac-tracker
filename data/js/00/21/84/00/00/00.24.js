@@ -1,1 +1,0 @@
-macDetailCallback("002184000000/24",[{"d":"2008-06-18","t":"add","a":"VIA ENRICO CONTI, 5\nSCANDICCI FI 50018\n\n","c":"ITALY","o":"POWERSOFT SRL","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"VIA ENRICO CONTI, 5 SCANDICCI FI IT 50018","c":"IT","o":"POWERSOFT SRL"}]);

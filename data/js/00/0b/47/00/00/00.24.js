@@ -1,1 +1,0 @@
-macDetailCallback("000b47000000/24",[{"d":"2002-10-14","t":"add","a":"1625 Sharp Point Drive\nFort Collins Colorado 80525\n\n","c":"UNITED STATES","o":"Advanced Energy"},{"d":"2015-08-27","t":"change","a":"1625 Sharp Point Drive Fort Collins Colorado US 80525","c":"US","o":"Advanced Energy"}]);

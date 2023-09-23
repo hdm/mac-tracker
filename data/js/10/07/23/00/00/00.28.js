@@ -1,1 +1,0 @@
-macDetailCallback("100723000000/28",[{"a":"Tianyi Street #38 Idealisim Center Building #1 Room #705 Chengdu Sichuan CN 610041","o":"RippleTek Tech Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

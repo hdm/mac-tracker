@@ -1,1 +1,0 @@
-macDetailCallback("18b591000000/24",[{"d":"2011-12-17","t":"add","a":"Hogye-dong, Dongan-gu\n#301, Daerim Pleza, 1027-20,21\nAnyang-si Gyeonggi-do 431-080\n","c":"KOREA, REPUBLIC OF","o":"I-Storm"},{"d":"2015-08-27","t":"change","a":"Hogye-dong, Dongan-gu Anyang-si Gyeonggi-do KR 431-080","c":"KR","o":"I-Storm"}]);

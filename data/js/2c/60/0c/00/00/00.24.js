@@ -1,1 +1,0 @@
-macDetailCallback("2c600c000000/24",[{"d":"2014-07-29","t":"add","a":"No.211, Wen Hwa 2nd Rd\nKuei Shan Hsiang,Tao Yuan Shien\nTaoyuan Taiwan 33377\n","c":"TAIWAN, PROVINCE OF CHINA","o":"QUANTA COMPUTER INC."},{"d":"2015-08-27","t":"change","a":"No.211, Wen Hwa 2nd Rd Taoyuan Taiwan TW 33377","c":"TW","o":"QUANTA COMPUTER INC."}]);

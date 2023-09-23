@@ -1,1 +1,0 @@
-macDetailCallback("001db4000000/24",[{"d":"2007-08-18","t":"add","a":"498-13, HYUNDAI B/D 5F\nPYEONGRI 3-DONG, SEO-GU\nDAEGU  703-835\n","c":"KOREA, REPUBLIC OF","o":"KUMHO ENG CO.,LTD"},{"d":"2015-08-27","t":"change","a":"498-13, HYUNDAI B/D 5F DAEGU  KR 703-835","c":"KR","o":"KUMHO ENG CO.,LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0006b6000000/24",[{"d":"2001-06-04","t":"add","a":"11 Amal St.\nRosh Ha'ayin 48092\n\n","c":"ISRAEL","o":"Nir-Or Israel Ltd."},{"d":"2015-08-27","t":"change","a":"11 Amal St.   IL","c":"IL","o":"Nir-Or Israel Ltd."}]);

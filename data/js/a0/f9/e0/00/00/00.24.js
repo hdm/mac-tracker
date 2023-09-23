@@ -1,1 +1,0 @@
-macDetailCallback("a0f9e0000000/24",[{"d":"2015-07-24","t":"add","a":"36/F,Tower Two\nTimes Square 1 Matheson Street\nCauseway Bay Causeway Bay 999077\n","c":"HONG KONG","o":"VIVATEL COMPANY LIMITED"},{"d":"2015-08-27","t":"change","a":"36/F,Tower Two Causeway Bay Causeway Bay HK 999077","c":"HK","o":"VIVATEL COMPANY LIMITED"}]);

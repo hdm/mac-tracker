@@ -1,1 +1,0 @@
-macDetailCallback("002626000000/24",[{"d":"2009-05-10","t":"add","a":"12 Industrial Way\nSalem NH 03079\n\n","c":"UNITED STATES","o":"Geophysical Survey Systems, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"12 Industrial Way Salem NH US 03079","c":"US","o":"Geophysical Survey Systems, Inc."}]);

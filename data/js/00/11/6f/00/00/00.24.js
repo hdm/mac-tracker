@@ -1,1 +1,0 @@
-macDetailCallback("00116f000000/24",[{"d":"2004-06-03","t":"add","a":"1121-4 3F,  Kwanyang-dong, Dongan-gu\nAnyang-si Kyunggi-do 431-804\n\n","c":"KOREA, REPUBLIC OF","o":"Netforyou Co., LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1121-4 3F,  Kwanyang-dong, Dongan-gu Anyang-si Kyunggi-do KR 431-804","c":"KR","o":"Netforyou Co., LTD."}]);

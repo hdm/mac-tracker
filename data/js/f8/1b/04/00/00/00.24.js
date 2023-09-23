@@ -1,1 +1,0 @@
-macDetailCallback("f81b04000000/24",[{"d":"2020-05-23","t":"add","s":"ieee-oui.csv","a":"Qunle Industrial Area,East ShaGang Road,GangKou ZhongShan,GuangDong,China ZhongShan GuangDong CN 528400","c":"CN","o":"Zhong Shan City Richsound Electronic Industrial Ltd"}]);

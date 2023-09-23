@@ -1,1 +1,0 @@
-macDetailCallback("789f38000000/24",[{"d":"2023-03-30","t":"add","s":"ieee-oui.csv","a":"Box 508, Building A, Phoenix Wisdom Valley, No. 50, Tiezi Road, Xixiang, Bao'an, Shenzhen Shenzhen  CN 518102","c":"CN","o":"Shenzhen Feasycom Co., Ltd"}]);

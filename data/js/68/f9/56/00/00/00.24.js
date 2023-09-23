@@ -1,1 +1,0 @@
-macDetailCallback("68f956000000/24",[{"d":"2015-05-27","t":"add","a":"c/Monte Esquinza, 28 1ÂºD\nMADRID 28010\n\n","c":"SPAIN","o":"Objetivos y Servicio de Valor AÃ±adido"},{"d":"2015-08-27","t":"change","a":"c/Monte Esquinza, 28 1ºD MADRID MADRID ES 28010 ","c":"ES","o":"Objetivos y Servicio de Valor Añadido"}]);

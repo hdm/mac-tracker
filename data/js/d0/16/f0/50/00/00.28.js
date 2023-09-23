@@ -1,1 +1,0 @@
-macDetailCallback("d016f0500000/28",[{"d":"2023-01-01","t":"add","s":"ieee-mam.csv","a":"9 Wuhu Boulevard,LHSIP\n2101 wuxi jiangsu CN 214125","c":"CN","o":"wuxi high information Security Technolog"}]);

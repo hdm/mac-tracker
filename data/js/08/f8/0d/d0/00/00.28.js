@@ -1,1 +1,0 @@
-macDetailCallback("08f80dd00000/28",[{"d":"2023-03-11","t":"add","s":"ieee-mam.csv","a":"NO.505 WENCHANG RD DIPU ST ANJIHUZHOU ZHEJIANG CHINA HANGZHOU ZHEJIANG CN 310012","c":"CN","o":"ZHEJIANG EV-TECH.,LTD"}]);

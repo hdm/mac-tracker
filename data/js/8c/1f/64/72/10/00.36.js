@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64721000/36",[{"d":"2022-03-12","t":"add","s":"ieee-oui36.csv","a":"713, Sinhgad Road, P.cast S. No. 39, Manikbaug Industries Wadagaon Budru Pune Maharashtra IN 411051","c":"IN","o":"M/S MILIND RAMACHANDRA RAJWADE"}]);

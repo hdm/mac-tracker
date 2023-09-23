@@ -1,1 +1,0 @@
-macDetailCallback("0011e8000000/24",[{"d":"2004-07-24","t":"add","a":"Karmeliterweg 114\nBerlin  13465\n\n","c":"GERMANY","o":"Tixi.Com"},{"d":"2015-08-27","t":"change","a":"Karmeliterweg 114 Berlin  DE 13465","c":"DE","o":"Tixi.Com"}]);

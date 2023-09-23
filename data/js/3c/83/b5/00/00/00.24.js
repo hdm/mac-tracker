@@ -1,1 +1,0 @@
-macDetailCallback("3c83b5000000/24",[{"d":"2012-07-24","t":"add","a":"6F, No. 199, Lide St.\nNew Taipei City, Jhonghe Dist  23556\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Advance Vision Electronics Co. Ltd."},{"d":"2015-08-27","t":"change","a":"6F, No. 199, Lide St. Jhonghe Dist New Taipei City, Jhonghe Dist  TW 23556","c":"TW","o":"Advance Vision Electronics Co. Ltd."}]);

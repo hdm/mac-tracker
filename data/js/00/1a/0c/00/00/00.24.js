@@ -1,1 +1,0 @@
-macDetailCallback("001a0c000000/24",[{"d":"2006-10-16","t":"add","a":"Torggatan 15\nSolna Stockholm SE-171 06\n\n","c":"SWEDEN","o":"Swe-Dish Satellite Systems AB","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Torggatan 15 Solna Stockholm SE SE-171 06","c":"SE","o":"Swe-Dish Satellite Systems AB"}]);

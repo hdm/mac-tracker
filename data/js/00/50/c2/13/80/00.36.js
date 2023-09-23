@@ -1,1 +1,0 @@
-macDetailCallback("0050c2138000/36",[{"a":"Offsermannsheider Str. 184 51515 Kurten  DE","o":"Delphin Technology AG","d":"2008-07-30","t":"add","s":"ieee","c":"DE"},{"d":"2019-07-01","t":"change","s":"ieee-iab.csv","a":"Offsermannsheider Str. 184 51515 Kurten  DE 000","c":"DE","o":"Delphin Technology AG"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("601592c00000/28",[{"d":"2021-01-16","t":"add","s":"ieee-mam.csv","a":"4F., No. 10, Ln. 327, Sec. 2, Zhongshan Rd., Zhonghe Dist. New Taipei City ??? TW 235","c":"TW","o":"PSS Co., Ltd"}]);

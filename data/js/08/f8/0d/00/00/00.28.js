@@ -1,1 +1,0 @@
-macDetailCallback("08f80d000000/28",[{"d":"2021-10-12","t":"add","s":"ieee-mam.csv","a":"Floor 3-4.No.26,Xinhua Avenue,Tongqiao town Huicheng District,Huizhou City Guangdong Province CN 516032","c":"CN","o":"Huizhou changfei Optoelectruonics Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("28b77c000000/28",[{"d":"2020-06-24","t":"add","s":"ieee-mam.csv","a":"Rm 201, building 1-A, Nankechuang Industrial Park, Gaofeng Road, Longhua district Shenzhen Guangdong CN 518109","c":"CN","o":"SHENZHEN EVIEW GPS TECHNOLOGY"}]);

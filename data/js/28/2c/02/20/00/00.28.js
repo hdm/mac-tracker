@@ -1,1 +1,0 @@
-macDetailCallback("282c02200000/28",[{"a":"2/f,building C,qinghu science park,qingxiang road,qinghu,longhua new district shenzhen Guangdong CN 518131","o":"Shenzhen emb-star technology co. LTD","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);

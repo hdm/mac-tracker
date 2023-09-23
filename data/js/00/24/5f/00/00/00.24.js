@@ -1,1 +1,0 @@
-macDetailCallback("00245f000000/24",[{"d":"2008-11-23","t":"add","a":"191-4, 4F, Anyang-dong, Manan-gu\nAnyang-si Gyeonggi-do 430-010\n\n","c":"KOREA, REPUBLIC OF","o":"Vine Telecom CO.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"191-4, 4F, Anyang-dong, Manan-gu Anyang-si Gyeonggi-do KR 430-010","c":"KR","o":"Vine Telecom CO.,Ltd."}]);

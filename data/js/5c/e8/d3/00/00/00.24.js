@@ -1,1 +1,0 @@
-macDetailCallback("5ce8d3000000/24",[{"d":"2023-02-26","t":"add","s":"ieee-oui.csv","a":"3F,Building No.6, Donglongxing Technology Park, Huanning Road,Xinshi Community, Dalang Street, Longhua District, Shenzhen. Shenzhen  CN 518000","c":"CN","o":"Signalinks Communication Technology Co., Ltd"}]);

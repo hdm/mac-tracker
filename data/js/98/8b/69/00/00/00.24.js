@@ -1,1 +1,0 @@
-macDetailCallback("988b69000000/24",[{"d":"2020-10-20","t":"add","s":"ieee-oui.csv","a":"Room 1001, Tower B, Daulshine Global Science And Technology Center, Hong Lang 2 Road North, Baoan District, Shenzhen 518101, China shenzhen GuangDong CN 518109","c":"CN","o":"Shenzhen hylitech Co.,LTD"}]);

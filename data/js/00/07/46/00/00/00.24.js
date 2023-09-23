@@ -1,1 +1,0 @@
-macDetailCallback("000746000000/24",[{"d":"2001-10-24","t":"add","a":"3000 Campus Drive\nPlymouth MN 55441\n\n","c":"UNITED STATES","o":"Interlink BT, LLC"},{"d":"2006-08-15","t":"change","a":"3000 Campus Drive\nPlymouth MN 55441\n\n","c":"UNITED STATES","o":"TURCK, Inc."},{"d":"2015-08-27","t":"change","a":"3000 Campus Drive Plymouth MN US 55441","c":"US","o":"TURCK, Inc."}]);

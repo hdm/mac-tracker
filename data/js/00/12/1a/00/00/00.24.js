@@ -1,1 +1,0 @@
-macDetailCallback("00121a000000/24",[{"d":"2004-08-14","t":"add","a":"2-5-17, Ebisu-nishi, Naniwa-ku,\nOsaka  556-0003\n\n","c":"JAPAN","o":"Techno Soft Systemnics Inc."},{"d":"2015-08-27","t":"change","a":"2-5-17, Ebisu-nishi, Naniwa-ku, Osaka  JP 556-0003","c":"JP","o":"Techno Soft Systemnics Inc."}]);

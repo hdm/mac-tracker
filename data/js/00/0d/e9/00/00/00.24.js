@@ -1,1 +1,0 @@
-macDetailCallback("000de9000000/24",[{"d":"2003-09-08","t":"add","a":"Rundofrbivej 271, 1\nNaerum  2850\n\n","c":"DENMARK","o":"Napatech Aps","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Rundofrbivej 271, 1 Naerum  DK 2850","c":"DK","o":"Napatech Aps"}]);

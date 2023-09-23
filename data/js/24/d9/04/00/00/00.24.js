@@ -1,1 +1,0 @@
-macDetailCallback("24d904000000/24",[{"d":"2021-09-04","t":"add","s":"ieee-oui.csv","a":"#35, East Mianxing Road, Hi-Tech Park Mianyang Sichuan CN 621000","c":"CN","o":"Sichuan Changhong Network Technologies Co., Ltd."}]);

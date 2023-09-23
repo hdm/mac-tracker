@@ -1,1 +1,0 @@
-macDetailCallback("0012ec000000/24",[{"d":"2004-11-26","t":"add","a":"Koperslagersstraat 31\nSneek Friesland 8601 WL\n\n","c":"NETHERLANDS","o":"Movacolor b.v."},{"d":"2015-08-27","t":"change","a":"Koperslagersstraat 31 Sneek Friesland NL 8601 WL","c":"NL","o":"Movacolor b.v."}]);

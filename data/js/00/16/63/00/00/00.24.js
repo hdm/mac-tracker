@@ -1,1 +1,0 @@
-macDetailCallback("001663000000/24",[{"d":"2005-11-06","t":"add","a":"4F, Polaris I, 15-3, Jeongja-dong, Bundang-gu\nSeongnam-si, Gyeonggi-do 463-811\n\n","c":"KOREA, REPUBLIC OF","o":"KBT Mobile"},{"d":"2015-08-27","t":"change","a":"4F, Polaris I, 15-3, Jeongja-dong, Bundang-gu Seongnam-si, Gyeonggi-do KR 463-811","c":"KR","o":"KBT Mobile"}]);

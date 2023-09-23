@@ -1,1 +1,0 @@
-macDetailCallback("0017b2000000/24",[{"d":"2006-04-08","t":"add","a":"4F, Kyungdong bldg, 4-4, Sunae-Dong, Pundang-Gu\nSungnam-City Kunggi-Do 463-825\n\n","c":"KOREA, REPUBLIC OF","o":"SK Telesys"},{"d":"2015-08-27","t":"change","a":"4F, Kyungdong bldg, 4-4, Sunae-Dong, Pundang-Gu Sungnam-City Kunggi-Do KR 463-825","c":"KR","o":"SK Telesys"}]);

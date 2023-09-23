@@ -1,1 +1,0 @@
-macDetailCallback("30d97f000000/24",[{"d":"2023-08-23","t":"add","s":"ieee-oui.csv","a":"Rua de Fundoes N151, VAT: PT509195830 Sao Joao da Madeira Aveiro PT 3700-121","c":"PT","o":"Tech4home, Lda"}]);

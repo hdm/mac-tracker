@@ -1,1 +1,0 @@
-macDetailCallback("0019eb000000/24",[{"d":"2006-10-16","t":"add","a":"Braithwell Way\nHellaby\nRotherham South Yorkshire S66 8QY\n","c":"UNITED KINGDOM","o":"Pyronix Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Braithwell Way Rotherham South Yorkshire GB S66 8QY","c":"GB","o":"Pyronix Ltd"}]);

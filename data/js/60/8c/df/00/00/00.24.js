@@ -1,1 +1,0 @@
-macDetailCallback("608cdf000000/24",[{"d":"2018-12-25","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2021-11-12","t":"change","s":"ieee-oui.csv","a":"Level 7 Aldar HQ Abu Dhabi Abu Dhabi AE 29836","c":"AE","o":"Beamtrail-Sole Proprietorship"}]);

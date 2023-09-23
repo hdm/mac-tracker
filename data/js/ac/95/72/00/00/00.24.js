@@ -1,1 +1,0 @@
-macDetailCallback("ac9572000000/24",[{"d":"2020-05-30","t":"add","s":"ieee-oui.csv","a":"Floor 12, Building 3, Aosheng Square, No.1166 Xinluo Street Jinan Shandong CN 250101","c":"CN","o":"Jovision Technology Co., Ltd."}]);

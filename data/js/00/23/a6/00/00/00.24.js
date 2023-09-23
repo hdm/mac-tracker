@@ -1,1 +1,0 @@
-macDetailCallback("0023a6000000/24",[{"d":"2008-10-08","t":"add","a":"One Oxford Valley, Suite 418\nLanghorne PA 19047\n\n","c":"UNITED STATES","o":"E-Mon","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"One Oxford Valley, Suite 418 Langhorne PA US 19047","c":"US","o":"E-Mon"}]);

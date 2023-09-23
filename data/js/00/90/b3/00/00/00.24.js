@@ -1,1 +1,0 @@
-macDetailCallback("0090b3000000/24",[{"d":"2000-09-08","t":"add","a":"1345 MAIN STREET\nWALTHAM  MA  02154\n\n","c":"UNITED STATES","o":"AGRANAT SYSTEMS"},{"d":"2001-10-24","t":"change","a":"1345 MAIN STREET\nWALTHAM MA 02154\n\n","c":"UNITED STATES","o":"AGRANAT SYSTEMS"},{"d":"2015-08-27","t":"change","a":"1345 MAIN STREET WALTHAM MA US 02154","c":"US","o":"AGRANAT SYSTEMS"}]);

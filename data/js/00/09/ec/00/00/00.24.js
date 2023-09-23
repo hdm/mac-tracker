@@ -1,1 +1,0 @@
-macDetailCallback("0009ec000000/24",[{"d":"2002-06-05","t":"add","a":"315 32nd Ave\nBuilding #2\nBrookings SD 57006\n","c":"UNITED STATES","o":"Daktronics, Inc."},{"d":"2015-08-27","t":"change","a":"315 32nd Ave Brookings SD US 57006","c":"US","o":"Daktronics, Inc."}]);

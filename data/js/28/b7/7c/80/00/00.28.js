@@ -1,1 +1,0 @@
-macDetailCallback("28b77c800000/28",[{"d":"2020-06-16","t":"add","s":"ieee-mam.csv","a":"2/F, C/Building, Huawang Industrial Park, LongHua New Area In Shenzhen 518106 P.R.C Shenzhen Guangdong CN 518106","c":"CN","o":"Shenzhen PUAS Industrial Co.,LTD"}]);

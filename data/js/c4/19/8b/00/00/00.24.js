@@ -1,1 +1,0 @@
-macDetailCallback("c4198b000000/24",[{"d":"2009-09-01","t":"add","a":"215 Spadina Avenue\nSuite 200\nToronto Ontario M5T 2C7\n","c":"CANADA","o":"Dominion Voting Systems Corporation"},{"d":"2015-08-27","t":"change","a":"215 Spadina Avenue Toronto Ontario CA M5T 2C7","c":"CA","o":"Dominion Voting Systems Corporation"}]);

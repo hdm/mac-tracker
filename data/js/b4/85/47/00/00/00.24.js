@@ -1,1 +1,0 @@
-macDetailCallback("b48547000000/24",[{"d":"2013-10-31","t":"add","a":"Wandsbeker Strasse 26\nHamburg 22179\n\n","c":"GERMANY","o":"Amptown System Company GmbH"},{"d":"2015-08-27","t":"change","a":"Wandsbeker Strasse 26 Hamburg Hamburg DE 22179","c":"DE","o":"Amptown System Company GmbH"}]);

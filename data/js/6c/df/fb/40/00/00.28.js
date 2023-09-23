@@ -1,1 +1,0 @@
-macDetailCallback("6cdffb400000/28",[{"a":"5, Ttukseom-ro 1na-gil, Seongdong-gu, Seoul, Republic of Korea, Heyground, G505 Seoul Seoul KR 04779","o":"Lineable Inc","d":"2018-09-07","t":"add","s":"ieee","c":"KR"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("68da73200000/28",[{"d":"2023-04-28","t":"add","s":"ieee-mam.csv","a":"1 Floor, A building,3rd factory,Yujianfeng lndusrty park,289# Huafan Road,Tongsheng community,Dalang,Longhua District, shenzhen Guangdong CN 518100","c":"CN","o":"SHENZHEN ALLDOCUBE SCIENCE AND TECHNOLOGY CO., LTD."}]);

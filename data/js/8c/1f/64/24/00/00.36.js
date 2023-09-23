@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64240000/36",[{"d":"2022-05-25","t":"add","s":"ieee-oui36.csv","a":"8F., No. 51, Ln. 258, Rueiguang Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.) Taipei  TW 114","c":"TW","o":"HuiTong intelligence Company"}]);

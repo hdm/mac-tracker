@@ -1,1 +1,0 @@
-macDetailCallback("a5516f000000/24",[{"d":"2015-09-01","t":"add","a":"Keilalahdentie 4\nEspoo    02150\n\n","c":"FI","o":"Microsoft Mobile Oy"},{"d":"2015-09-02","t":"delete","a":"Keilalahdentie 4\nEspoo    02150\n\n","c":"FI","o":"Microsoft Mobile Oy"}]);

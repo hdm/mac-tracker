@@ -1,1 +1,0 @@
-macDetailCallback("74e14a600000/28",[{"a":"17/F, C-Bons International Center, 108 Wai Yip Street, Hong Kong Hong Kong CN Hong Kong","o":"Emerging Technology (Holdings) Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0090b8000000/24",[{"d":"1998-04-22","t":"add","a":"POSTFACH: 80 14 69/ABT.: 3CK\nD-81614 MUNCHEN\n\n","c":"GERMANY","o":"ROHDE & SCHWARZ GMBH & CO. KG"},{"d":"2015-08-27","t":"change","a":"POSTFACH: 80 14 69/ABT.: 3CK D-81614 MUNCHEN  DE","c":"DE","o":"ROHDE & SCHWARZ GMBH & CO. KG"}]);

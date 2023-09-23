@@ -1,1 +1,0 @@
-macDetailCallback("303d51200000/28",[{"d":"2022-05-04","t":"add","s":"ieee-mam.csv","a":"Plot No 3 & 3A, EOIZ Industrial Area, Sy.No.85 and 86, KIADB, Whitefield, Bengaluru Karnataka IN 560066","c":"IN","o":"Harman Connected Services Corporation India Pvt. Ltd."}]);

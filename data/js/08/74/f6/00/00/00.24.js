@@ -1,1 +1,0 @@
-macDetailCallback("0874f6000000/24",[{"d":"2014-01-22","t":"add","a":"Tettnanger StraÃe 72\nMeckenbeuren Baden-WÃ¼rttemberg 88074\n\n","c":"GERMANY","o":"Winterhalter Gastronom GmbH"},{"d":"2015-08-27","t":"change","a":"Tettnanger Straße 72 Meckenbeuren Baden-Württemberg DE 88074","c":"DE","o":"Winterhalter Gastronom GmbH"}]);

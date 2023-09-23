@@ -1,1 +1,0 @@
-macDetailCallback("001ce2000000/24",[{"d":"2007-06-16","t":"add","a":"1315 Directors Row - Suite 107\nFort Wayne Indiana 46808\n\n","c":"UNITED STATES","o":"Attero Tech, LLC."},{"d":"2015-08-27","t":"change","a":"1315 Directors Row - Suite 107 Fort Wayne Indiana US 46808","c":"US","o":"Attero Tech, LLC."}]);

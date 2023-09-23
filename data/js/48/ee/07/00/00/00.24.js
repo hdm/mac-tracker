@@ -1,1 +1,0 @@
-macDetailCallback("48ee07000000/24",[{"d":"2013-12-21","t":"add","a":"9639 DOCTOR PERRY RD STE 123N\nIJAMSVILLE Maryland 21754\n\n","c":"UNITED STATES","o":"Silver Palm Technologies LLC"},{"d":"2015-08-27","t":"change","a":"9639 DOCTOR PERRY RD STE 123N IJAMSVILLE Maryland US 21754","c":"US","o":"Silver Palm Technologies LLC"}]);

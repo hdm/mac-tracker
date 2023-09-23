@@ -1,1 +1,0 @@
-macDetailCallback("181714000000/24",[{"d":"2009-12-05","t":"add","a":"7F Namkwang Centlex Bldg. 440-4 Cheongcheon2-dong\nIncheon Pupyeong-gu 82\n\n","c":"KOREA, REPUBLIC OF","o":"DAEWOOIS"},{"d":"2015-08-27","t":"change","a":"7F Namkwang Centlex Bldg. 440-4 Cheongcheon2-dong  Incheon Pupyeong-gu KR 82","c":"KR","o":"DAEWOOIS"}]);

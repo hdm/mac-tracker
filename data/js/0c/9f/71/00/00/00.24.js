@@ -1,1 +1,0 @@
-macDetailCallback("0c9f71000000/24",[{"d":"2022-06-11","t":"add","s":"ieee-oui.csv","a":"Building 3,No.2 Baolong Road, Houjie Town, Dongguan Guangdong CN 523000","c":"CN","o":"Dolphin Electronics (DongGuan) Co., Ltd."}]);

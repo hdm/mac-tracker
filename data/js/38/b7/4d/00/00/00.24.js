@@ -1,1 +1,0 @@
-macDetailCallback("38b74d000000/24",[{"d":"2013-08-23","t":"add","a":"Synergy Centre\nITT Dublin, Tallaght\nDublin 24\n","c":"IRELAND","o":"Fijowave Limited"},{"d":"2015-08-27","t":"change","a":"Synergy Centre   IE Dublin 24","c":"IE","o":"Fijowave Limited"}]);

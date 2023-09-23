@@ -1,1 +1,0 @@
-macDetailCallback("386c9b000000/24",[{"d":"2013-11-12","t":"add","a":"11 Business Park Drive\nBranford Connecticut 06405\n\n","c":"UNITED STATES","o":"Ivy Biomedical"},{"d":"2015-08-27","t":"change","a":"11 Business Park Drive Branford Connecticut US 06405","c":"US","o":"Ivy Biomedical"}]);

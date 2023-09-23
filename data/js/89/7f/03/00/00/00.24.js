@@ -1,1 +1,0 @@
-macDetailCallback("897f03000000/24",[{"d":"2015-08-27","t":"add","a":"Room 710, Wangjing SOHO Tower 1-B\nBeijing  Beijing  100102\n\n","c":"CN","o":"Comper Technology Investment Limited"},{"d":"2015-09-02","t":"delete","a":"Room 710, Wangjing SOHO Tower 1-B\nBeijing  Beijing  100102\n\n","c":"CN","o":"Comper Technology Investment Limited"}]);

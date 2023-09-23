@@ -1,1 +1,0 @@
-macDetailCallback("98f9c7000000/28",[{"a":"Huntkey Industrial Park, Xue-Xiang Village, Bantian, Longgang District, Shenzhen Guangdong CN 518129","o":"SHENZHEN HUNTKEY ELECTRIC CO., LTD.","d":"2018-08-19","t":"add","s":"ieee","c":"CN"}]);

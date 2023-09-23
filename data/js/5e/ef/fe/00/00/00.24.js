@@ -1,1 +1,0 @@
-macDetailCallback("5eeffe000000/24",[{"d":"2015-08-27","t":"add","a":"1200 Pacific Avenue\nSanta Cruz  CA  95060\n\n","c":"US","o":"Fullpower Technologies, Inc."},{"d":"2015-09-01","t":"delete","a":"1200 Pacific Avenue\nSanta Cruz  CA  95060\n\n","c":"US","o":"Fullpower Technologies, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("701aed000000/24",[{"d":"2009-08-22","t":"add","a":"3-8-8 Shin-yokohama, Kohoku-ku\nNissou 16Bldg. 6F\nYokohama-shi Kanagawa-ken 222-0033\n","c":"JAPAN","o":"ADVAS CO., LTD."},{"d":"2015-08-27","t":"change","a":"3-8-8 Shin-yokohama, Kohoku-ku Yokohama-shi Kanagawa-ken JP 222-0033","c":"JP","o":"ADVAS CO., LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("acace2000000/24",[{"d":"2021-08-06","t":"add","s":"ieee-oui.csv","a":"Unit 1412, 14/F., West Tower, Shun Tak Centre, 168-200 Connaught Road Central, HongKong HONG KONG HONG KONG  HK 999077","c":"HK","o":"CHANGHONG (HONGKONG) TRADING LIMITED"}]);

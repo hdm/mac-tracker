@@ -1,1 +1,0 @@
-macDetailCallback("909864000000/24",[{"d":"2013-12-05","t":"add","a":"Beim Giesshaus 7\nGlueckstadt  25348\n\n","c":"GERMANY","o":"Impex-Sat GmbH&amp;Co KG"},{"d":"2015-08-27","t":"change","a":"Beim Giesshaus 7 Glueckstadt  DE 25348","c":"DE","o":"Impex-Sat GmbH&amp;Co KG"}]);

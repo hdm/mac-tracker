@@ -1,1 +1,0 @@
-macDetailCallback("a4ad00000000/24",[{"d":"2009-10-01","t":"add","a":"505 Echo Lane\nPO Box 120507\nBig Bear Lake CA 92315\n","c":"UNITED STATES","o":"Ragsdale Technology"},{"d":"2015-08-27","t":"change","a":"505 Echo Lane Big Bear Lake CA US 92315","c":"US","o":"Ragsdale Technology"}]);

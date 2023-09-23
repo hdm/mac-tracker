@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5564000/36",[{"a":"Ilseder Huette 10c Ilsede Niedersachsen DE 31241","o":"christmann informationstechnik + medien GmbH & Co. KG","d":"2014-03-30","t":"add","s":"ieee","c":"DE"}]);

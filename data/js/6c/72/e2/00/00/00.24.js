@@ -1,1 +1,0 @@
-macDetailCallback("6c72e2000000/24",[{"d":"2022-05-25","t":"add","s":"ieee-oui.csv","a":"#311, KETI, 226, Chemdangwari-ro, Buk-gu, Gwangju, 61011, Rep. of KOREA Gwangju  KR 61011","c":"KR","o":"amitek"}]);

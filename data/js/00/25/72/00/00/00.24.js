@@ -1,1 +1,0 @@
-macDetailCallback("002572000000/24",[{"d":"2009-03-08","t":"add","a":"Box 210\nSollentuna  19123\n\n","c":"SWEDEN","o":"Nemo-Q International AB","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Box 210 Sollentuna  SE 19123","c":"SE","o":"Nemo-Q International AB"}]);

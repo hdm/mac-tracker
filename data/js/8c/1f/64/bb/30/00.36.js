@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64bb3000/36",[{"d":"2023-01-14","t":"add","s":"ieee-oui36.csv","a":"Rua Afonso Arinos Melo Franco, 181, Parque Residencial Laranjeiras Serra Espírito Santo BR 29165-491","c":"BR","o":"Zaruc Tecnologia LTDA"}]);

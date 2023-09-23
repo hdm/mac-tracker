@@ -1,1 +1,0 @@
-macDetailCallback("0016a5000000/24",[{"d":"2005-12-09","t":"add","a":"PO Box 196 Kjelsås\nOslo  N-411\n\n","c":"NORWAY","o":"Tandberg Storage ASA","s":"wireshark.org"},{"d":"2007-12-31","t":"change","a":"Postboks 191\n1325 Lysaker\n\n","c":"NORWAY","o":"Tandberg Storage ASA"},{"d":"2015-08-27","t":"change","a":"Postboks 191   NO","c":"NO","o":"Tandberg Storage ASA"}]);

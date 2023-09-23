@@ -1,1 +1,0 @@
-macDetailCallback("f81ce5000000/24",[{"d":"2013-09-17","t":"add","a":"Robert-Jungk-Str. 3\nKirkel Saarland 66459\n\n","c":"GERMANY","o":"Telefonbau Behnke GmbH"},{"d":"2015-08-27","t":"change","a":"Robert-Jungk-Str. 3 Kirkel Saarland DE 66459","c":"DE","o":"Telefonbau Behnke GmbH"}]);

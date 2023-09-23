@@ -1,1 +1,0 @@
-macDetailCallback("408493000000/24",[{"d":"2010-03-10","t":"add","a":"Sjogatan 6J\nOrnskoldsvik  89160\n\n","c":"SWEDEN","o":"Clavister AB"},{"d":"2015-08-27","t":"change","a":"Sjogatan 6J Ornskoldsvik  SE 89160","c":"SE","o":"Clavister AB"}]);

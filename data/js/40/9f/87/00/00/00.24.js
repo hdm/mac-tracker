@@ -1,1 +1,0 @@
-macDetailCallback("409f87000000/24",[{"d":"2015-09-22","t":"add","a":"jiahua Mansion 3F, 133 North 4th Ring Road East, Chaoyang District Beijing  CN 100101","c":"CN","o":"Jide Technology (Hong Kong) Limited"}]);

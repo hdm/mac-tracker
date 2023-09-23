@@ -1,1 +1,0 @@
-macDetailCallback("d4945a000000/24",[{"d":"2011-01-19","t":"add","a":"1-12, Higashi-Gotanda 2-chome\nShinagawa-ku Tokyo 141-0022\n\n","c":"JAPAN","o":"COSMO CO., LTD"},{"d":"2015-08-27","t":"change","a":"1-12, Higashi-Gotanda 2-chome Shinagawa-ku Tokyo JP 141-0022","c":"JP","o":"COSMO CO., LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c45781000000/24",[{"d":"2023-08-16","t":"add","s":"ieee-oui.csv","a":"FLAT/RM 1903 19/F PODIUM PLAZA\n5HANOI ROAD TSIM SHA TSUI\nHong Kong Hong Kong  HK 999077","c":"HK","o":"Wingtech Group (HongKong) Limited"}]);

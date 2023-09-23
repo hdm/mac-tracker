@@ -1,1 +1,0 @@
-macDetailCallback("a0224e100000/28",[{"d":"2019-10-08","t":"add","s":"ieee-mam.csv","a":"8231 SW Cirrus Dr Beaverton OR US 97008","c":"US","o":"rNET Controls"},{"d":"2022-11-17","t":"change","s":"ieee-mam.csv","a":"11821 Buckner Rd Austin TX US 78726","c":"US","o":"PoE Texas"}]);

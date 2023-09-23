@@ -1,1 +1,0 @@
-macDetailCallback("84b866000000/24",[{"d":"2019-01-10","t":"add","s":"ieee-oui.csv","a":"Room 002, floor 2, building 1, yard 4, BeiTuCheng East Road, ChaoYang district, Beijing Beijing  CN 100102","c":"CN","o":"Beijing XiaoLu technology co. LTD"}]);

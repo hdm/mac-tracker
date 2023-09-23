@@ -1,1 +1,0 @@
-macDetailCallback("b01f81400000/28",[{"a":"Building NO.22,23, Fifth Region, Baiwangxin Industrial Park, Songbai Rd., Nanshan Shenzhen Guangdong CN 518108","o":"SHENZHEN YIFANG DIGITAL TECHNOLOGY CO.,LTD.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

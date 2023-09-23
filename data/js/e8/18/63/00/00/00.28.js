@@ -1,1 +1,0 @@
-macDetailCallback("e81863000000/28",[{"a":"1206, Shenzhen University-town Business Park, Lishan Road ShenZhen GuangDong CN 518055","o":"DigiMagus Technology (Shenzhen) Co., Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("245dfc600000/28",[{"d":"2021-01-14","t":"add","s":"ieee-mam.csv","a":"Room 238, Room 406, No. 1, Yichuang Street, Huangpu District Guangzhou Guangdong CN 510336","c":"CN","o":"Guangzhou Lango Electronics Technology Co.,Ltd."}]);

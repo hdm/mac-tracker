@@ -1,1 +1,0 @@
-macDetailCallback("000e3d000000/24",[{"d":"2003-09-08","t":"add","a":"Leo Bekaertlaan 1\nIzegem  8870\n\n","c":"BELGIUM","o":"Televic N.V.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Leo Bekaertlaan 1 Izegem  BE 8870","c":"BE","o":"Televic N.V."}]);

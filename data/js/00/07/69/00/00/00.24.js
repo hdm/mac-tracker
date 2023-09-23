@@ -1,1 +1,0 @@
-macDetailCallback("000769000000/24",[{"d":"2001-10-24","t":"add","a":"Via Matteotti 1\n21040 Oggiona S. Stefano (VA)\n\n","c":"ITALY","o":"Italiana Macchi SpA"},{"d":"2015-08-27","t":"change","a":"Via Matteotti 1   IT","c":"IT","o":"Italiana Macchi SpA"}]);

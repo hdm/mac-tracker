@@ -1,1 +1,0 @@
-macDetailCallback("581f67000000/24",[{"d":"2014-03-18","t":"add","a":"logan century buildding ,No.23 of Hai xiu road\nShenzhen Guangdong 518000\n\n","c":"CHINA","o":"Open-m technology limited"},{"d":"2015-08-27","t":"change","a":"logan century buildding ,No.23 of Hai xiu road Shenzhen Guangdong CN 518000","c":"CN","o":"Open-m technology limited"}]);

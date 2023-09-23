@@ -1,1 +1,0 @@
-macDetailCallback("c0619a300000/28",[{"d":"2020-06-26","t":"add","s":"ieee-mam.csv","a":"No. 73 JinFu Road XiaoJinKou Huizhou city  GuangDong CN 516023","c":"CN","o":"LYAND ACOUSTIC TECHNOLOGY CO.,LTD."}]);

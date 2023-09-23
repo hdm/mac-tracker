@@ -1,1 +1,0 @@
-macDetailCallback("002270000000/24",[{"d":"2008-06-18","t":"add","a":"440 North Wolfe Rd.\nSunnyvale CA 94085\n\n","c":"UNITED STATES","o":"ABK North America, LLC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"440 North Wolfe Rd. Sunnyvale CA US 94085","c":"US","o":"ABK North America, LLC"}]);

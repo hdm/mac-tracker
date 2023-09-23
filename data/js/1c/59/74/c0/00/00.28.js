@@ -1,1 +1,0 @@
-macDetailCallback("1c5974c00000/28",[{"d":"2022-02-19","t":"add","s":"ieee-mam.csv","a":"13F, No.207-2, Sec#3, Beixin Rd., Xindian District. New Taipei Taiwan TW 23146","c":"TW","o":"King-On Technology Ltd."}]);

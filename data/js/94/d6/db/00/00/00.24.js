@@ -1,1 +1,0 @@
-macDetailCallback("94d6db000000/24",[{"d":"2019-09-19","t":"add","s":"ieee-oui.csv","a":"Room 417, Building 14, No. 498, Guoshoujing Road, Pudong New Area Shanghai  CN 201203","c":"CN","o":"NexFi"}]);

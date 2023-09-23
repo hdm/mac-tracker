@@ -1,1 +1,0 @@
-macDetailCallback("002501000000/24",[{"d":"2009-01-18","t":"add","a":"38A Petrogradskaya emb.\nSt.Petersburg  197101\n\n","c":"RUSSIAN FEDERATION","o":"JSC \"Supertel\"","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"38A Petrogradskaya emb. St.Petersburg  RU 197101 ","c":"RU","o":"JSC \"Supertel\""}]);

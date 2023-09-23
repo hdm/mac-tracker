@@ -1,1 +1,0 @@
-macDetailCallback("a02833400000/28",[{"a":"APT. 8, LODG. XIV ,FL.6, bld.4, Passage Savelkinsky Zelenograd Moscow RU 124482","o":"Firm INFORMTEST Ltd.","d":"2018-06-03","t":"add","s":"ieee","c":"RU"}]);

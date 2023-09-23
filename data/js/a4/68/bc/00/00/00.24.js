@@ -1,1 +1,0 @@
-macDetailCallback("a468bc000000/24",[{"a":"","o":"Private","d":"2015-09-13","t":"add","s":"ieee"},{"d":"2020-09-12","t":"change","s":"ieee-oui.csv","a":"1 Icon Foothill Ranch CA US 92610","c":"US","o":"Oakley Inc."}]);

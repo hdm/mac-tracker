@@ -1,1 +1,0 @@
-macDetailCallback("001668000000/24",[{"d":"2005-11-06","t":"add","a":"Nishiku Miyashita 1-19\nKobe City Hyogo Prefecture 651-2146\n\n","c":"JAPAN","o":"Eishin Electronics"},{"d":"2015-08-27","t":"change","a":"Nishiku Miyashita 1-19 Kobe City Hyogo Prefecture JP 651-2146","c":"JP","o":"Eishin Electronics"}]);

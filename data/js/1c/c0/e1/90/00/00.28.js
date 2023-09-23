@@ -1,1 +1,0 @@
-macDetailCallback("1cc0e1900000/28",[{"a":"Room 1025, 10/F., Metro Centre II, 21 Lam Hing St.,  Kowloon Bay Kowloon HK 00000","o":"Ospicon Company Limited","d":"2016-07-31","t":"add","s":"ieee","c":"HK"}]);

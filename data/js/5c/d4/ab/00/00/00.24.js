@@ -1,1 +1,0 @@
-macDetailCallback("5cd4ab000000/24",[{"d":"2011-07-19","t":"add","a":"12675 Danielson Ct. Ste 401\nPoway CA 92064\n\n","c":"UNITED STATES","o":"Zektor"},{"d":"2015-08-27","t":"change","a":"12675 Danielson Ct. Ste 401 Poway CA US 92064","c":"US","o":"Zektor"}]);

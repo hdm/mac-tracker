@@ -1,1 +1,0 @@
-macDetailCallback("144c1a000000/24",[{"d":"2010-11-09","t":"add","a":"Siemensstrasse 47\nRellingen  25462\n\n","c":"GERMANY","o":"Max Communication GmbH"},{"d":"2015-08-27","t":"change","a":"Siemensstrasse 47 Rellingen  DE 25462","c":"DE","o":"Max Communication GmbH"}]);

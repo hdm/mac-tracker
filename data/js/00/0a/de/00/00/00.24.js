@@ -1,1 +1,0 @@
-macDetailCallback("000ade000000/24",[{"d":"2002-08-03","t":"add","a":"42-11 WonMi-Dong\nWonMi-Gu\nBucheon-City KyungGi-Do 420-110\n","c":"KOREA, REPUBLIC OF","o":"Happy Communication Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"42-11 WonMi-Dong Bucheon-City KyungGi-Do KR 420-110","c":"KR","o":"Happy Communication Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0cefafc00000/28",[{"a":"3rd Floor, 1st Building, Block E, Minzhu West Industrial Zone, Bao’an Dist. Shenzhen Guangdong CN 518100","o":"GainStrong Industry Co.,Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

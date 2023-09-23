@@ -1,1 +1,0 @@
-macDetailCallback("001146000000/24",[{"d":"2004-05-11","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2005-09-23","t":"change","a":"Lustdorfskaya doroga, 162\nOdessa  65115\n\n","c":"UKRAINE","o":"Telecard-Pribor Ltd"},{"d":"2015-08-27","t":"change","a":"Lustdorfskaya doroga, 162 Odessa  UA 65115","c":"UA","o":"Telecard-Pribor Ltd"}]);

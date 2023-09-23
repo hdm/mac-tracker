@@ -1,1 +1,0 @@
-macDetailCallback("00268d000000/24",[{"d":"2009-06-21","t":"add","a":"Via Romano 72\nScarmagno Torino 10010\n\n","c":"ITALY","o":"CellTel S.p.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Romano 72 Scarmagno Torino IT 10010","c":"IT","o":"CellTel S.p.A."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0015b2000000/24",[{"d":"2005-09-09","t":"add","a":"17970 E. Ajax Circle\nCity of Industry CA 91748\n\n","c":"UNITED STATES","o":"Advanced Industrial Computer, Inc."},{"d":"2015-08-27","t":"change","a":"17970 E. Ajax Circle City of Industry CA US 91748","c":"US","o":"Advanced Industrial Computer, Inc."}]);

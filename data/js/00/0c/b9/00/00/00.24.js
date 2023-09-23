@@ -1,1 +1,0 @@
-macDetailCallback("000cb9000000/24",[{"d":"2003-04-08","t":"add","a":"52/54 rue du capitaine Guynemer\nCourbevoie RP 92415\n\n","c":"FRANCE","o":"LEA","s":"wireshark.org"},{"d":"2009-06-23","t":"change","a":"Bat LA FAYETTE\n2 place des Vosges\nParis RP 924051\n","c":"FRANCE","o":"LEA"},{"d":"2015-08-27","t":"change","a":"Bat LA FAYETTE Paris RP FR 924051","c":"FR","o":"LEA"}]);

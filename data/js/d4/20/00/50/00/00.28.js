@@ -1,1 +1,0 @@
-macDetailCallback("d42000500000/28",[{"d":"2022-06-24","t":"add","s":"ieee-mam.csv","a":"No.8,Huashan Road,Xinbei District \nChangzhou,Jiangsu,China Changzhou Jiangsu CN 213000","c":"CN","o":"Monolith Electric?Changzhou?Co.,Ltd."}]);

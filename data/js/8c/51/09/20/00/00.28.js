@@ -1,1 +1,0 @@
-macDetailCallback("8c5109200000/28",[{"d":"2022-04-09","t":"add","s":"ieee-mam.csv","a":"Flat B,4/F, Kjngswell Commercial Tower, 171-173 Lockhard Road, Wanchai, Hongkong Hong kong  HK 999077","c":"HK","o":"PROCET Technology Co., Ltd(HK)"}]);

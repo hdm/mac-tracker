@@ -1,1 +1,0 @@
-macDetailCallback("0019ff000000/24",[{"d":"2006-10-16","t":"add","a":"800 West Cummings Park\nSuite 5550\nWoburn MA 01801\n","c":"UNITED STATES","o":"Finnzymes","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"800 West Cummings Park Woburn MA US 01801","c":"US","o":"Finnzymes"}]);

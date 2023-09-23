@@ -1,1 +1,0 @@
-macDetailCallback("8c1f640bb000/36",[{"d":"2022-11-08","t":"add","s":"ieee-oui36.csv","a":"14F., No. 90, Xingde Rd., Sanchong Dist. New Taipei City  TW 24158","c":"TW","o":"InfraChen Technology Co., Ltd."}]);

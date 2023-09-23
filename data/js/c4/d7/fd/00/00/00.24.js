@@ -1,1 +1,0 @@
-macDetailCallback("c4d7fd000000/24",[{"d":"2021-07-14","t":"add","s":"ieee-oui.csv","a":"5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800","c":"CN","o":"Bouffalo Lab (Nanjing) Co., Ltd."}]);

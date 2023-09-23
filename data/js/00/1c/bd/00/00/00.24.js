@@ -1,1 +1,0 @@
-macDetailCallback("001cbd000000/24",[{"d":"2007-05-29","t":"add","a":"3F, Bubmusa Bldg., 151-31\nNonhyun-dong, Kangnam-ku\nSeoul 135-824\n","c":"KOREA, REPUBLIC OF","o":"Ezze Mobile Tech., Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3F, Bubmusa Bldg., 151-31  Seoul KR 135-824","c":"KR","o":"Ezze Mobile Tech., Inc."}]);

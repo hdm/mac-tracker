@@ -1,1 +1,0 @@
-macDetailCallback("8c1f644fa000/36",[{"d":"2021-05-27","t":"add","s":"ieee-oui36.csv","a":"76/121, Mohit House, 2nd cross, Dasarahali Main Road, buvaneswari Nagar bangalore karnataka IN 560024","c":"IN","o":"Sanskruti"}]);

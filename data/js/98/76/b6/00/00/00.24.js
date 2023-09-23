@@ -1,1 +1,0 @@
-macDetailCallback("9876b6000000/24",[{"d":"2013-06-04","t":"add","a":"150 Varick st\n3rd floor\nNew York NY 10013\n","c":"UNITED STATES","o":"Adafruit"},{"d":"2015-08-27","t":"change","a":"150 Varick st New York NY US 10013","c":"US","o":"Adafruit"}]);

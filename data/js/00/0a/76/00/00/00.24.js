@@ -1,1 +1,0 @@
-macDetailCallback("000a76000000/24",[{"d":"2002-08-03","t":"add","a":"No.207 Chengfu Road, Haidian District\nBeijing  100871\n\n","c":"CHINA","o":"Beida Jade Bird Huaguang Technology Co.,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"No.207 Chengfu Road, Haidian District Beijing  CN 100871","c":"CN","o":"Beida Jade Bird Huaguang Technology Co.,Ltd"}]);

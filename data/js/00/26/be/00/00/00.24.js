@@ -1,1 +1,0 @@
-macDetailCallback("0026be000000/24",[{"d":"2009-07-04","t":"add","a":"Roggestraat 3-5\nNieuw Vennep Noord Holland 2153GC\n\n","c":"NETHERLANDS","o":"Schoonderbeek Elektronica Systemen B.V."},{"d":"2015-08-27","t":"change","a":"Roggestraat 3-5 Nieuw Vennep Noord Holland NL 2153GC","c":"NL","o":"Schoonderbeek Elektronica Systemen B.V."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("70b3d585b000/36",[{"a":"Nakanoshima Mitsui Building, 6F, 3-3-3, Nakanoshima Kita-ku Osaka JP 530-0005","o":"TSUBAKIMOTO CHAIN CO.","d":"2016-06-12","t":"add","s":"ieee","c":"JP"}]);

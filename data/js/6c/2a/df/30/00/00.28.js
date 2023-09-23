@@ -1,1 +1,0 @@
-macDetailCallback("6c2adf300000/28",[{"d":"2023-02-24","t":"add","s":"ieee-mam.csv","a":"Room.301, 38-9, Digital-ro 31-gil,\nGuro-gu, Seoul, South Korea Seoul ?? KR 08376","c":"KR","o":"FodicsSystem"},{"d":"2023-03-09","t":"change","s":"ieee-mam.csv","a":"Christian X's vej 201 Højbjerg  DK 8270","c":"DK","o":"Johnson Controls IR, Sabroe Controls"}]);

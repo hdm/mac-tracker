@@ -1,1 +1,0 @@
-macDetailCallback("44953b000000/24",[{"d":"2021-04-22","t":"add","s":"ieee-oui.csv","a":"C-2, Sector-85, Noida Gautam Buddha Nagar Uttar Pradesh IN 201301","c":"IN","o":"RLTech India Private Limited"}]);

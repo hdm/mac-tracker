@@ -1,1 +1,0 @@
-macDetailCallback("000c71000000/24",[{"d":"2003-02-07","t":"add","a":"4830 LIst Dr\nColorado Springs Colorado 80919\n\n","c":"UNITED STATES","o":"Wybron, Inc"},{"d":"2015-08-27","t":"change","a":"4830 LIst Dr Colorado Springs Colorado US 80919","c":"US","o":"Wybron, Inc"}]);

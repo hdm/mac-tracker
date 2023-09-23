@@ -1,1 +1,0 @@
-macDetailCallback("18a59c700000/28",[{"d":"2022-02-10","t":"add","s":"ieee-mam.csv","a":"No. 2, Aly. 1, Ln. 85, Xinshu Rd., Xinzhuang Dist.,  New Taipei City ,  TW 242063","c":"TW","o":"ePower Network Solution Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("f42756000000/24",[{"d":"2023-03-11","t":"add","s":"ieee-oui.csv","a":"DASAN Tower, 49, Daewangpangyo-ro644Beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, 13493 KOREA Seongnam-si Gyeonggi-do KR 13493","c":"KR","o":"DASAN Newtork Solutions"}]);

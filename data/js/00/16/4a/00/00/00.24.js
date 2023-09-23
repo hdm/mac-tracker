@@ -1,1 +1,0 @@
-macDetailCallback("00164a000000/24",[{"d":"2005-10-29","t":"add","a":"Vibtech House, Central Boulevard\nCentral Park\nLarbert Scotland FK5 4RU\n","c":"UNITED KINGDOM","o":"Vibration Technology Limited"},{"d":"2015-08-27","t":"change","a":"Vibtech House, Central Boulevard Larbert Scotland GB FK5 4RU","c":"GB","o":"Vibration Technology Limited"}]);

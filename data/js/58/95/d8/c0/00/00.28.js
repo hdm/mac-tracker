@@ -1,1 +1,0 @@
-macDetailCallback("5895d8c00000/28",[{"d":"2020-08-30","t":"add","s":"ieee-mam.csv","a":"No. 588, Qihang South Road, Yinzhou Economic Development Zone Ningbo City Zhejiang CN 315100","c":"CN","o":"LOCTEK ERGONOMIC TECHNOLOGY CORP."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d01411c00000/28",[{"d":"2020-05-08","t":"add","s":"ieee-mam.csv","a":"Bldg 10,Fumin Industrial Zone,Pinghu Subdistrict,Longgang District Shen Zhen Guang Dong CN 518111","c":"CN","o":"Shen Zhen HaiHe Hi-Tech Co., Ltd"}]);

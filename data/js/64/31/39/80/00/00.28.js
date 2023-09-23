@@ -1,1 +1,0 @@
-macDetailCallback("643139800000/28",[{"d":"2019-09-08","t":"add","s":"ieee-mam.csv","a":"Room 1707, 17/F, West Block, Nanshan Digital Culture Industrial Base, Nanshan District Shenzhen Guangdong CN 519052","c":"CN","o":"Shenzhen Huanyin Electronics Ltd."}]);

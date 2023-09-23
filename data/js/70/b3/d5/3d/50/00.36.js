@@ -1,1 +1,0 @@
-macDetailCallback("70b3d53d5000/36",[{"a":"G04 A block, Ground Floor, King Space Meadows, Thanisandra Main Road Bangalore Karnataka IN 560077","o":"oxynet Solutions","d":"2016-05-22","t":"add","s":"ieee","c":"IN"}]);

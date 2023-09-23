@@ -1,1 +1,0 @@
-macDetailCallback("4846f1000000/24",[{"d":"2012-02-14","t":"add","a":"Tutkijantie 4\nOULU  90590\n\n","c":"FINLAND","o":"Uros Oy"},{"d":"2015-08-27","t":"change","a":"Tutkijantie 4 OULU  FI 90590","c":"FI","o":"Uros Oy"}]);

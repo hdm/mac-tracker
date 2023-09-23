@@ -1,1 +1,0 @@
-macDetailCallback("04eee8e00000/28",[{"d":"2021-11-11","t":"add","s":"ieee-mam.csv","a":"5F., No.1, Ln.63, Guanxin Rd., East Dist Hsinchu City Taiwan TW 30072","c":"TW","o":"Best Integration Technology Co., Ltd."}]);

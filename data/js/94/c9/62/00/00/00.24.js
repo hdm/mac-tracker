@@ -1,1 +1,0 @@
-macDetailCallback("94c962000000/24",[{"d":"2012-11-29","t":"add","a":"Nordstrasse 11F\nLuterbach Solothurn 4542\n\n","c":"SWITZERLAND","o":"Teseq AG"},{"d":"2015-08-27","t":"change","a":"Nordstrasse 11F Luterbach Solothurn CH 4542","c":"CH","o":"Teseq AG"}]);

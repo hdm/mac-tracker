@@ -1,1 +1,0 @@
-macDetailCallback("000f71000000/24",[{"d":"2004-02-12","t":"add","a":"2-2-1,Seikai,Shimizu\nShizuoka  424-0924\n\n","c":"JAPAN","o":"Sanmei Electronics Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"2-2-1,Seikai,Shimizu Shizuoka  JP 424-0924","c":"JP","o":"Sanmei Electronics Co.,Ltd"}]);

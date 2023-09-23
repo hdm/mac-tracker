@@ -1,1 +1,0 @@
-macDetailCallback("a85b36800000/28",[{"d":"2021-04-25","t":"add","s":"ieee-mam.csv","a":"30/F?Building#4,Si Chuang B?dg,No. 600Tianshan Rd, Changning District ,Shanghai SHANGHAI SHANGHAI CN 200050","c":"CN","o":"ShangHai SnowLake Technology Co.,LTD."}]);

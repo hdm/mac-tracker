@@ -1,1 +1,0 @@
-macDetailCallback("00157a000000/24",[{"d":"2005-08-15","t":"add","a":"Via Albere 87/A\nVerona VR 37138\n\n","c":"ITALY","o":"Telefin S.p.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Albere 87/A Verona VR IT 37138","c":"IT","o":"Telefin S.p.A."}]);

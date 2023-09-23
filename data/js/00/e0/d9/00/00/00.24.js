@@ -1,1 +1,0 @@
-macDetailCallback("00e0d9000000/24",[{"d":"1998-04-22","t":"add","a":"6186 KINOKO, IBARA-SHI\nOKAYAMA 715\n\n","c":"JAPAN","o":"TAZMO CO., LTD."},{"d":"2015-08-27","t":"change","a":"6186 KINOKO, IBARA-SHI OKAYAMA 715  JP","c":"JP","o":"TAZMO CO., LTD."}]);

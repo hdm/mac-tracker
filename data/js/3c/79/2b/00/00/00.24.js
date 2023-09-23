@@ -1,1 +1,0 @@
-macDetailCallback("3c792b000000/24",[{"d":"2022-11-24","t":"add","s":"ieee-oui.csv","a":"401, Building 1, No. 11, Dalingshan Hupan Road Dalingshan Town Dongguan City, Guangdong Province CN 523810","c":"CN","o":"Dongguan Auklink TechnologyCo.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d86960000000/24",[{"d":"2013-05-24","t":"add","a":"Rundhaug 25\nFOERRESFJORDEN Rogaland 5563\n\n","c":"NORWAY","o":"Steinsvik"},{"d":"2015-08-27","t":"change","a":"Rundhaug 25 FOERRESFJORDEN Rogaland NO 5563","c":"NO","o":"Steinsvik"}]);

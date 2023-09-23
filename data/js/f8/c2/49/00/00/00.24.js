@@ -1,1 +1,0 @@
-macDetailCallback("f8c249000000/24",[{"a":"","o":"Private","d":"2018-07-08","t":"add","s":"ieee"},{"d":"2022-08-17","t":"change","s":"ieee-oui.csv","a":"4555 GREAT AMERICA PARKWAY SANTA CLARA CA US 95054","c":"US","o":"AMPERE COMPUTING LLC"}]);

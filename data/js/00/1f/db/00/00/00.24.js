@@ -1,1 +1,0 @@
-macDetailCallback("001fdb000000/24",[{"d":"2008-02-09","t":"add","a":"1938 NAKADAIRA KANAE\nIIDA NAGANO 395-0801\n\n","c":"JAPAN","o":"Network Supply Corp.,"},{"d":"2015-08-27","t":"change","a":"1938 NAKADAIRA KANAE IIDA NAGANO JP 395-0801","c":"JP","o":"Network Supply Corp.,"}]);

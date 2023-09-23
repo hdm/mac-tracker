@@ -1,1 +1,0 @@
-macDetailCallback("e86cc7a00000/28",[{"d":"2020-12-24","t":"add","s":"ieee-mam.csv","a":"858ho, Business Support Hub, 815, Daewangpangyo-ro Sujeong-gu Seongnam Kyeonggi-do KR 13449","c":"KR","o":"CoxSpace"}]);

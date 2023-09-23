@@ -1,1 +1,0 @@
-macDetailCallback("647657000000/24",[{"d":"2012-05-08","t":"add","a":"18 Technology Drive\nSuite #134\nIrvine CA 92618\n","c":"UNITED STATES","o":"Innovative Security Designs"},{"d":"2015-08-27","t":"change","a":"18 Technology Drive Irvine CA US 92618","c":"US","o":"Innovative Security Designs"}]);

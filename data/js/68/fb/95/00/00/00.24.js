@@ -1,1 +1,0 @@
-macDetailCallback("68fb95000000/24",[{"d":"2012-10-06","t":"add","a":"3F, No.8, Dusing Rd\nHsinchu Science Park\nHsinchu City  30077\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Generalplus Technology Inc."},{"d":"2015-08-27","t":"change","a":"3F, No.8, Dusing Rd., Hsinchu Science Park Hsinchu City  TW 30077","c":"TW","o":"Generalplus Technology Inc."}]);

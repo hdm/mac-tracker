@@ -1,1 +1,0 @@
-macDetailCallback("000be4000000/24",[{"d":"2002-12-03","t":"add","a":"4-33\nKitakyuhoji 1-chome\nYao-city Osaka 581-0071\n","c":"JAPAN","o":"Hosiden Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4-33 Yao-city Osaka JP 581-0071","c":"JP","o":"Hosiden Corporation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00155e000000/24",[{"d":"2005-08-04","t":"add","a":"750 7th Avenue\nNew York NY 10019\n\n","c":"UNITED STATES","o":"Morgan Stanley"},{"d":"2015-08-27","t":"change","a":"750 7th Avenue New York NY US 10019","c":"US","o":"Morgan Stanley"}]);

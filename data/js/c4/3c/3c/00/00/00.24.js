@@ -1,1 +1,0 @@
-macDetailCallback("c43c3c000000/24",[{"d":"2011-11-19","t":"add","a":"Rue des Uttins 27\nYverdon-les-Bains  1401\n\n","c":"SWITZERLAND","o":"CYBELEC SA"},{"d":"2015-08-27","t":"change","a":"Rue des Uttins 27 Yverdon-les-Bains  CH 1401","c":"CH","o":"CYBELEC SA"}]);

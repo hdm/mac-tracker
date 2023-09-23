@@ -1,1 +1,0 @@
-macDetailCallback("f8a475000000/24",[{"d":"2022-06-08","t":"add","s":"ieee-oui.csv","a":"Tokopedia Tower Ciputra World 2, Jl. Prof. Dr. Satrio No 3, Desa/Kelurahan Karet Semanggi, Kec. Setiabudi, Kota Adm. Jakarta Selatan, Provinsi DKI Jakarta Jakarta Selatan DKI Jakarta ID 12950","c":"ID","o":"PT Indoreka Jaya Wutama"}]);

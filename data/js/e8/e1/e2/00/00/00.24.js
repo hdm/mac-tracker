@@ -1,1 +1,0 @@
-macDetailCallback("e8e1e2000000/24",[{"d":"2009-12-01","t":"add","a":"Chorzowska 44B\nGliwice Slask 44-100\n\n","c":"POLAND","o":"Energotest"},{"d":"2015-08-27","t":"change","a":"Chorzowska 44B Gliwice Slask PL 44-100","c":"PL","o":"Energotest"}]);

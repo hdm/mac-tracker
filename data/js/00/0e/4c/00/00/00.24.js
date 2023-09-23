@@ -1,1 +1,0 @@
-macDetailCallback("000e4c000000/24",[{"d":"2003-09-08","t":"add","a":"410 Cambridge Ave\n2nd Floor\nPalo Alto CA 94306\n","c":"UNITED STATES","o":"Bermai Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"410 Cambridge Ave Palo Alto CA US 94306","c":"US","o":"Bermai Inc."}]);

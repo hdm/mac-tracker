@@ -1,1 +1,0 @@
-macDetailCallback("8c1f640fe000/36",[{"d":"2023-03-08","t":"add","s":"ieee-oui36.csv","a":"Narayan Colony, Old Police Line, Arrah Bhojpur Bihar IN 802301","c":"IN","o":"Indra Heera Technology LLP"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("882012000000/24",[{"d":"2011-12-29","t":"add","a":"1673 Cliveden Avenue\nDelta British Columbia V3M 6V5\n\n","c":"CANADA","o":"LMI Technologies"},{"d":"2015-08-27","t":"change","a":"1673 Cliveden Avenue Delta British Columbia CA V3M 6V5","c":"CA","o":"LMI Technologies"}]);

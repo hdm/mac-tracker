@@ -1,1 +1,0 @@
-macDetailCallback("547d40000000/24",[{"d":"2021-08-10","t":"add","s":"ieee-oui.csv","a":"Zone E,Ocean Venture Valley, No.40, Yangguang Rd, Nanhai new District Weihai Shandong CN 264200","c":"CN","o":"Powervision Tech Inc."}]);

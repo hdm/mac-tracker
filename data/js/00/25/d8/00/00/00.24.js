@@ -1,1 +1,0 @@
-macDetailCallback("0025d8000000/24",[{"d":"2009-04-12","t":"add","a":"3F HAELIM BUIDING 103-7, GURO-5DONG\nGURO-GU,\nSEOUL  152-842\n","c":"KOREA, REPUBLIC OF","o":"KOREA MAINTENANCE","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3F HAELIM BUIDING 103-7, GURO-5DONG SEOUL  KR 152-842","c":"KR","o":"KOREA MAINTENANCE"}]);

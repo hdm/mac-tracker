@@ -1,1 +1,0 @@
-macDetailCallback("080079000000/24",[{"d":"1998-09-25","t":"add","a":"P.O. BOX CS 8180\nSAN RAFAEL CA 94912\n\n","c":"UNITED STATES","o":"THE DROID WORKS","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"P.O. BOX CS 8180 SAN RAFAEL CA US 94912","c":"US","o":"THE DROID WORKS"}]);

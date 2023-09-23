@@ -1,1 +1,0 @@
-macDetailCallback("f0acd7800000/28",[{"a":"2340 Ernie Krueger Circle Waukegan  US 60087","o":"Telefonix Incorporated","d":"2016-04-24","t":"add","s":"ieee","c":"US"},{"d":"2019-07-01","t":"change","s":"ieee-mam.csv","a":"2340 Ernie Krueger Circle Waukegan null US 60087","c":"US","o":"Telefonix Incorporated"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("2826a6000000/24",[{"d":"2010-10-07","t":"add","a":"Berliner Strasse 5\nSandhausen Baden Wuertemmberg 69207\n\n","c":"GERMANY","o":"PBR electronics GmbH"},{"d":"2015-08-27","t":"change","a":"Berliner Strasse 5 Sandhausen Baden Wuertemmberg DE 69207","c":"DE","o":"PBR electronics GmbH"}]);

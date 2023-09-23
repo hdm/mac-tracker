@@ -1,1 +1,0 @@
-macDetailCallback("001a3a000000/24",[{"d":"2006-11-29","t":"add","a":"678-3,Jeil-ri,Yanggi-myun,Cheoin-gu\nYongin-si Gyeonggi-do 449-821\n\n","c":"KOREA, REPUBLIC OF","o":"Dongahelecomm"},{"d":"2015-08-27","t":"change","a":"678-3,Jeil-ri,Yanggi-myun,Cheoin-gu Yongin-si Gyeonggi-do KR 449-821","c":"KR","o":"Dongahelecomm"}]);

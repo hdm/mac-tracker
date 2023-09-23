@@ -1,1 +1,0 @@
-macDetailCallback("e4eefd000000/24",[{"d":"2012-10-23","t":"add","a":"Viale dell'Unione Europea, 8\nGallarate Varese 21013\n\n","c":"ITALY","o":"MR&D Manufacturing"},{"d":"2015-08-27","t":"change","a":"Viale dell'Unione Europea, 8 Gallarate Varese US 21013","c":"US","o":"MR&D Manufacturing"}]);

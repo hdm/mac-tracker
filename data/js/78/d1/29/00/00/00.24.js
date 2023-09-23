@@ -1,1 +1,0 @@
-macDetailCallback("78d129000000/24",[{"d":"2012-07-11","t":"add","a":"Eugenmuellerstrasse 14\nSalzburg  5020\n\n","c":"AUSTRIA","o":"Vicos"},{"d":"2015-08-27","t":"change","a":"Eugenmuellerstrasse 14 Salzburg Salzburg AT 5020","c":"AT","o":"Vicos"}]);

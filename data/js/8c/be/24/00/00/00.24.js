@@ -1,1 +1,0 @@
-macDetailCallback("8cbe24000000/24",[{"d":"2019-04-27","t":"add","s":"ieee-oui.csv","a":"Room 903, Building 5, Minggu Science Park,No. 7001, Zhong Chun Road, Minhang District ,Shanghai 201101, P.R. China Shanghai  CN 123456","c":"CN","o":"Tashang Semiconductor(Shanghai) Co., Ltd."}]);

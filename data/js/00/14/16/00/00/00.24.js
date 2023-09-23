@@ -1,1 +1,0 @@
-macDetailCallback("001416000000/24",[{"d":"2005-03-22","t":"add","a":"PO Box 2901\nOxnard CA 93034\n\n","c":"UNITED STATES","o":"Scosche Industries, Inc."},{"d":"2015-08-27","t":"change","a":"PO Box 2901 Oxnard CA US 93034","c":"US","o":"Scosche Industries, Inc."}]);

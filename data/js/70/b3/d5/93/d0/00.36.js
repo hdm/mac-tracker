@@ -1,1 +1,0 @@
-macDetailCallback("70b3d593d000/36",[{"d":"2020-08-07","t":"add","s":"ieee-oui36.csv","a":"No.47-P, KIADB Hardware Park, Huvinayakanahalli Bengaluru Karnataka IN 562149","c":"IN","o":"Elmeasure India Pvt Ltd"}]);

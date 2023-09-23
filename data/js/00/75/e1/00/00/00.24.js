@@ -1,1 +1,0 @@
-macDetailCallback("0075e1000000/24",[{"d":"2013-04-18","t":"add","a":"4850 Innovation Drive\nFort Collins Colorado 80525\n\n","c":"UNITED STATES","o":"Ampt, LLC"},{"d":"2015-08-27","t":"change","a":"4850 Innovation Drive Fort Collins Colorado US 80525","c":"US","o":"Ampt, LLC"}]);

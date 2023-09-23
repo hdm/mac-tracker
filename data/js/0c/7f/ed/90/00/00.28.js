@@ -1,1 +1,0 @@
-macDetailCallback("0c7fed900000/28",[{"d":"2022-04-21","t":"add","s":"ieee-mam.csv","a":"F7, Block A7, Nanshan I Park, No.1001 XueYuan Avenue , NanShan District, ShenZhen 518055 PRC. shenzhen  CN 518000","c":"CN","o":"Shenzhen ORVIBO Technology Co., Ltd."}]);

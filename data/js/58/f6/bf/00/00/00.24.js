@@ -1,1 +1,0 @@
-macDetailCallback("58f6bf000000/24",[{"d":"2010-06-08","t":"add","a":"Yoshida-Hommachi\nSakyo-ku\nKyoto  6068501\n","c":"JAPAN","o":"Kyoto University"},{"d":"2015-08-27","t":"change","a":"Yoshida-Hommachi Kyoto  JP 6068501","c":"JP","o":"Kyoto University"}]);

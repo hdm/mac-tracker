@@ -1,1 +1,0 @@
-macDetailCallback("a8727e000000/24",[{"d":"2022-09-20","t":"add","s":"ieee-oui.csv","a":"No. 9, Fenghuangyuan 1st Road, Donghu New Technology Development Zone Wuhan Hubei CN 430000","c":"CN","o":"WISDRI (wuhan) Automation Company Limited"}]);

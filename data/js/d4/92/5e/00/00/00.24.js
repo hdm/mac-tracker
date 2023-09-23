@@ -1,1 +1,0 @@
-macDetailCallback("d4925e000000/24",[{"d":"2022-09-16","t":"add","s":"ieee-oui.csv","a":"Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650","c":"BE","o":"Technicolor Delivery Technologies Belgium NV"}]);

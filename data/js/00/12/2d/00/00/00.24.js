@@ -1,1 +1,0 @@
-macDetailCallback("00122d000000/24",[{"d":"2004-09-02","t":"add","a":"640 W. California Avenue\nSunnyvale CA 94086\n\n","c":"UNITED STATES","o":"SiNett Corporation"},{"d":"2015-08-27","t":"change","a":"640 W. California Avenue Sunnyvale CA US 94086","c":"US","o":"SiNett Corporation"}]);

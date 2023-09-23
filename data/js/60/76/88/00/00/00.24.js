@@ -1,1 +1,0 @@
-macDetailCallback("607688000000/24",[{"d":"2010-11-11","t":"add","a":"345 Digital Drive\nMorgan Hill CA 95037\n\n","c":"UNITED STATES","o":"Velodyne"},{"d":"2015-08-27","t":"change","a":"345 Digital Drive Morgan Hill CA US 95037","c":"US","o":"Velodyne"}]);

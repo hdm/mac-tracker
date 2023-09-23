@@ -1,1 +1,0 @@
-macDetailCallback("540496000000/24",[{"d":"2010-11-23","t":"add","a":"GIGAWAVE TECHNICAL CENTRE\nEarls Colne Business Park\nColchester ESSEX CO62NS\n","c":"UNITED KINGDOM","o":"Gigawave LTD"},{"d":"2015-08-27","t":"change","a":"GIGAWAVE TECHNICAL CENTRE Colchester ESSEX GB CO62NS","c":"GB","o":"Gigawave LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("6c2c06000000/24",[{"d":"2014-01-11","t":"add","a":"Nartova lane, 2v\nNizhny Novgorod Nizhegorodskaya oblast 603057\n\n","c":"RUSSIAN FEDERATION","o":"OOO NPP Systemotechnika-NN"},{"d":"2015-08-27","t":"change","a":"Nartova lane, 2v Nizhny Novgorod Nizhegorodskaya oblast RU 603057","c":"RU","o":"OOO NPP Systemotechnika-NN"}]);

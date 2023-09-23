@@ -1,1 +1,0 @@
-macDetailCallback("0013b1000000/24",[{"d":"2005-02-17","t":"add","a":"70 Ubi Crescent #01-12\nUbi Tech Park\n408570\n","c":"SINGAPORE","o":"Intelligent Control Systems (Asia) Pte Ltd"},{"d":"2015-08-27","t":"change","a":"70 Ubi Crescent #01-12   SG 408570","c":"SG","o":"Intelligent Control Systems (Asia) Pte Ltd"}]);

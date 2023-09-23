@@ -1,1 +1,0 @@
-macDetailCallback("001394000000/24",[{"d":"2005-02-06","t":"add","a":"Kranz-Techno #1207, 5442-1, Sangdaewon-dong, Jungwon-gu\nSeongnam-si Gyeonggi-do 462-819\n\n","c":"KOREA, REPUBLIC OF","o":"Infohand Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Kranz-Techno #1207, 5442-1, Sangdaewon-dong, Jungwon-gu Seongnam-si Gyeonggi-do KR 462-819","c":"KR","o":"Infohand Co.,Ltd"}]);

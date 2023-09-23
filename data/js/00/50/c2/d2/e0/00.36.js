@@ -1,1 +1,0 @@
-macDetailCallback("0050c2d2e000/36",[{"a":"Bergische Fachbuchhandlung Remscheid NRW DE 42853","o":"RS Gesellschaft fur Informationstechnik mbH & Co KG","d":"2010-10-03","t":"add","s":"ieee","c":"DE"}]);

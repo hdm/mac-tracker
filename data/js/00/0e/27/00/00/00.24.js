@@ -1,1 +1,0 @@
-macDetailCallback("000e27000000/24",[{"d":"2003-09-08","t":"add","a":"Room 110 ETRI TBI, 52 Eoeun-dong\nYuseong-gu\nDaejeon  305-333\n","c":"KOREA, REPUBLIC OF","o":"Crere Networks, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Room 110 ETRI TBI, 52 Eoeun-dong Daejeon  KR 305-333","c":"KR","o":"Crere Networks, Inc."}]);

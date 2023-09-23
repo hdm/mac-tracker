@@ -1,1 +1,0 @@
-macDetailCallback("00221f000000/24",[{"d":"2008-06-18","t":"add","a":"#1-817, IT Castle 550-1, Gasan-Dong,\nGeumcheon-Gu,\nSeoul  153-768\n","c":"KOREA, REPUBLIC OF","o":"eSang Technologies Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#1-817, IT Castle 550-1, Gasan-Dong, Seoul  KR 153-768","c":"KR","o":"eSang Technologies Co., Ltd."}]);

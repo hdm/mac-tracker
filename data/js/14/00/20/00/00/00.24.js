@@ -1,1 +1,0 @@
-macDetailCallback("140020000000/24",[{"d":"2021-05-26","t":"add","s":"ieee-oui.csv","a":"Room 606, Block B, Bldg. 1, No. 3000 Longdong Avenue., Zhangjiang Hi-Tech Park, Pudong District ShangHai  CN 201203","c":"CN","o":"LongSung Technology (Shanghai) Co.,Ltd."}]);

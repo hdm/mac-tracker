@@ -1,1 +1,0 @@
-macDetailCallback("445d5e000000/24",[{"d":"2018-12-13","t":"add","s":"ieee-oui.csv","a":"B09 2nd Floor, T6 ArtZone XiLi, Nanshan Dist shenzhen guangdong CN 518110","c":"CN","o":"SHENZHEN Coolkit Technology CO.,LTD"}]);

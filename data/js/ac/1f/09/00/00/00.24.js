@@ -1,1 +1,0 @@
-macDetailCallback("ac1f09000000/24",[{"d":"2020-04-07","t":"add","s":"ieee-oui.csv","a":"Room 506, Bldg B, New Compark, Pingshan First Road, Taoyuan Street,Nanshan District shenzhen guangdong CN 518057","c":"CN","o":"shenzhen RAKwireless technology  Co.,Ltd"}]);

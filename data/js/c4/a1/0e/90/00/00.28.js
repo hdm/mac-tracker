@@ -1,1 +1,0 @@
-macDetailCallback("c4a10e900000/28",[{"d":"2022-03-13","t":"add","s":"ieee-mam.csv","a":"No.211 Tiangu 8th Road, High-tech Zone Xi 'an  Shaanxi CN 710065","c":"CN","o":"XI'AN YEP TELECOM TECHNOLOGY CO.,LTD"}]);

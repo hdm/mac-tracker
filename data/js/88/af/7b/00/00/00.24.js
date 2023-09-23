@@ -1,1 +1,0 @@
-macDetailCallback("88af7b000000/24",[{"d":"2022-09-09","t":"add","s":"ieee-oui.csv","a":"Room 104-9, Block B, Animation Building, 11 Xinghuo Road, Jiangbei New Area, Nanjing  Nanjing  CN 210000","c":"CN","o":"Nanjing Powercore Tech Co.,Ltd"}]);

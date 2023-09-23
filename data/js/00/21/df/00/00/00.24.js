@@ -1,1 +1,0 @@
-macDetailCallback("0021df000000/24",[{"d":"2008-06-18","t":"add","a":"An der Unteren Soese 50\nOsterode Niedersachsen 37520\n\n","c":"GERMANY","o":"Martin Christ GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"An der Unteren Soese 50 Osterode Niedersachsen DE 37520","c":"DE","o":"Martin Christ GmbH"}]);

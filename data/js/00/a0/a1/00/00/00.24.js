@@ -1,1 +1,0 @@
-macDetailCallback("00a0a1000000/24",[{"d":"1998-04-22","t":"add","a":"7280 RIVER ROAD\nRICHMOND,  B.C.\n\n","c":"CANADA  V6X 1X5","o":"EPIC DATA INC."},{"d":"2001-10-24","t":"change","a":"7280 RIVER ROAD\nRICHMOND,  B.C.\n\n","c":"CANADA V6X 1X5","o":"EPIC DATA INC."},{"d":"2005-07-21","t":"change","a":"7280 RIVER ROAD CANADA V6X  1X5","c":"CANADA","o":"EPIC DATA INC."}]);

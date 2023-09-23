@@ -1,1 +1,0 @@
-macDetailCallback("14f592000000/24",[{"d":"2022-03-04","t":"add","s":"ieee-oui.csv","a":"1001 SDG Information Technology Building, No.2 Qiongyu Road, Science park Community, Yuehai Street, Nanshan District, Shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen SDG DONZHI Technology Co., Ltd"}]);

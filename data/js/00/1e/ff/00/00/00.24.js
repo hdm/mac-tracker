@@ -1,1 +1,0 @@
-macDetailCallback("001eff000000/24",[{"d":"2007-12-31","t":"add","a":"Franz-Kleine-Str. 18\nSalzkotten NRW 33154\n\n","c":"GERMANY","o":"Mueller-Elektronik GmbH & Co. KG"},{"d":"2015-08-27","t":"change","a":"Franz-Kleine-Str. 18 Salzkotten NRW DE 33154","c":"DE","o":"Mueller-Elektronik GmbH & Co. KG"}]);

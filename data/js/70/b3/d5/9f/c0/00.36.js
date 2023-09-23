@@ -1,1 +1,0 @@
-macDetailCallback("70b3d59fc000/36",[{"d":"2019-06-04","t":"add","s":"ieee-oui36.csv","a":"2nd Floor, Block N, Safal Mondeal Retail Park, S.G Highway, Bodakdev Ahmedabad Gujarat IN 380056","c":"IN","o":"Truecom Telesoft Private Limited"}]);

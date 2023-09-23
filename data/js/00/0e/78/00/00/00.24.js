@@ -1,1 +1,0 @@
-macDetailCallback("000e78000000/24",[{"d":"2003-12-21","t":"add","a":"4800 Curtin Drive\nMcFarland WI 53558\n\n","c":"UNITED STATES","o":"Amtelco","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4800 Curtin Drive McFarland WI US 53558","c":"US","o":"Amtelco"}]);

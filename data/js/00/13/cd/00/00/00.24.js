@@ -1,1 +1,0 @@
-macDetailCallback("0013cd000000/24",[{"d":"2005-02-25","t":"add","a":"166-10 Karak-dong\nR&D Group 3\nSongpa-ku Seoul 138-810\n","c":"KOREA, REPUBLIC OF","o":"MTI co. LTD"},{"d":"2015-08-27","t":"change","a":"166-10 Karak-dong Songpa-ku Seoul KR 138-810","c":"KR","o":"MTI co. LTD"}]);

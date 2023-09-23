@@ -1,1 +1,0 @@
-macDetailCallback("6c5c3d800000/28",[{"a":"636 South of Guomao Road,Shilou County,Panyu District Guangzhou Guangdong CN 511047","o":"GUANGZHOU GUANGRI ELEVATOR INDUSTRY CO.,LTD","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);

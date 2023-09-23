@@ -1,1 +1,0 @@
-macDetailCallback("302bdc000000/24",[{"d":"2021-12-31","t":"add","s":"ieee-oui.csv","a":"No. 58, Ln. 137, Jianshan Rd., Yingge Dist.,  New Taipei City 239, Taiwan CN 239","c":"CN","o":"Top-Unum Electronics Co., LTD"}]);

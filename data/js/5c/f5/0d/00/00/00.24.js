@@ -1,1 +1,0 @@
-macDetailCallback("5cf50d000000/24",[{"d":"2013-11-22","t":"add","a":"Na Valentince 1003/1\nPraha  15000\n\n","c":"CZECH REPUBLIC","o":"Institute of microelectronic applications"},{"d":"2015-08-27","t":"change","a":"Na Valentince 1003/1 Praha  CZ 15000","c":"CZ","o":"Institute of microelectronic applications"}]);

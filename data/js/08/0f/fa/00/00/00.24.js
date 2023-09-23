@@ -1,1 +1,0 @@
-macDetailCallback("080ffa000000/24",[{"d":"2012-09-27","t":"add","a":"RM 501, 138 Kwangdeokdae-ro\nDanwon-gu, Ansan-si Gyeonggi-do 425906\n\n","c":"KOREA, REPUBLIC OF","o":"KSP INC."},{"d":"2015-08-27","t":"change","a":"RM 501, 138 Kwangdeokdae-ro Danwon-gu, Ansan-si Gyeonggi-do KR 425906","c":"KR","o":"KSP INC."}]);

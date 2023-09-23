@@ -1,1 +1,0 @@
-macDetailCallback("000884000000/24",[{"d":"2001-12-14","t":"add","a":"Box 155\nS-95423 Gammelstad\n\n","c":"SWEDEN","o":"Index Braille AB"},{"d":"2015-08-27","t":"change","a":"Box 155   SE","c":"SE","o":"Index Braille AB"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("602a1b000000/24",[{"d":"2023-01-07","t":"add","s":"ieee-oui.csv","a":"Room 101-3. Technology Start-up Center, 10 Electric-gil, Seongsan-gu, Changwon-si, Gyeongsangnam-do Changwon-si  KR 51542","c":"KR","o":"JANCUS"}]);

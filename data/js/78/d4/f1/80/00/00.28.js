@@ -1,1 +1,0 @@
-macDetailCallback("78d4f1800000/28",[{"d":"2020-11-14","t":"add","s":"ieee-mam.csv","a":"Xiamen Cheerzing IOT Technology Co.,Ltd. Xiamen FuJian CN 361002","c":"CN","o":"Xiamen Cheerzing IOT Technology Co.,Ltd."}]);

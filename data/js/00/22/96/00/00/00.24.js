@@ -1,1 +1,0 @@
-macDetailCallback("002296000000/24",[{"d":"2008-06-21","t":"add","a":"1001-101 Champlain Avenue\nBurlington Onatario L7L 5Z4\n\n","c":"CANADA","o":"LinoWave Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1001-101 Champlain Avenue Burlington Ontario CA L7L 5Z4","c":"CA","o":"LinoWave Corporation"}]);

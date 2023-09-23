@@ -1,1 +1,0 @@
-macDetailCallback("001213000000/24",[{"d":"2004-08-12","t":"add","a":"Oberdorfstrasse 68\nHerisau AR 9101\n\n","c":"SWITZERLAND","o":"Metrohm AG"},{"d":"2015-08-27","t":"change","a":"Oberdorfstrasse 68 Herisau AR CH 9101","c":"CH","o":"Metrohm AG"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("6872dc000000/24",[{"d":"2014-07-12","t":"add","a":"Building C-1601, Tiley Central Plaza\nNo. 3 Haide Road, Nanshan District\nShenzhen Guangdong 518054\n","c":"CHINA","o":"CETORY.TV Company Limited"},{"d":"2015-08-27","t":"change","a":"Building C-1601, Tiley Central Plaza Shenzhen Guangdong CN 518054","c":"CN","o":"CETORY.TV Company Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("204181000000/24",[{"d":"2021-05-18","t":"add","s":"ieee-oui.csv","a":"Ruth-Niehaus Str. 8 Meerbusch Nordrhein-Westfalen DE 40667","c":"DE","o":"ESYSE GmbH Embedded Systems Engineering"}]);

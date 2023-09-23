@@ -1,1 +1,0 @@
-macDetailCallback("a494dc000000/24",[{"d":"2023-06-02","t":"add","s":"ieee-oui.csv","a":"Office 406 Block 333 Road 3307, Um Al Hassam, Kingdom of Bahrain Manama  BH 973","c":"BH","o":"Infinite Clouds"}]);

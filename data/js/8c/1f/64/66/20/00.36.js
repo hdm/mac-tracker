@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64662000/36",[{"d":"2022-05-21","t":"add","s":"ieee-oui36.csv","a":"Block 12-301, NO 99 Jinji Lake Road, Suzhou Industrial Park, Suzhou Suzhou Jiangsu  CN 215000","c":"CN","o":"Suzhou Leamore Optronics Co., Ltd."}]);

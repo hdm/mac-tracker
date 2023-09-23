@@ -1,1 +1,0 @@
-macDetailCallback("0023d8000000/24",[{"d":"2008-10-08","t":"add","a":"Uusikatu 24 G 76\nOulu  90100\n\n","c":"FINLAND","o":"Ball-It Oy","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Uusikatu 24 G 76 Oulu  FI 90100","c":"FI","o":"Ball-It Oy"}]);

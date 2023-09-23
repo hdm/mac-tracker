@@ -1,1 +1,0 @@
-macDetailCallback("1c5974b00000/28",[{"d":"2022-02-24","t":"add","s":"ieee-mam.csv","a":"Room 102,Building No.6,China Technology Venture Park,No.8,LaiGuangYing West Road,ChaoYang District  Beijing Beijing CN 100012","c":"CN","o":"Beijing Flintec Electronic Technology Co.,Ltd."}]);

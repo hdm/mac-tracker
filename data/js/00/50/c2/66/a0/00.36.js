@@ -1,1 +1,0 @@
-macDetailCallback("0050c266a000/36",[{"a":"ABB Industrial Park Xiamen Fujian CN 361005","o":"ABB Transmission and Distribution Automation Equipment (Xiamen) Co., Ltd.","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

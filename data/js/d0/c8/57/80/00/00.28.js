@@ -1,1 +1,0 @@
-macDetailCallback("d0c857800000/28",[{"d":"2019-03-26","t":"add","s":"ieee-mam.csv","a":"14th Floor, Building 3, No. 89 Shengli Road, Jiangning Economic and Technological Development Zone Nanjing Jiangsu CN 211100","c":"CN","o":"Nanjing Magewell Electronics Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("a0224e000000/28",[{"d":"2019-09-28","t":"add","s":"ieee-mam.csv","a":"#1411, Byucksan Digital Valley 2, 184, Gasan Digital2-ro, Geumcheon-gu  Seoul  KR 08501","c":"KR","o":"Kyung In Electronics"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d09686600000/28",[{"d":"2022-07-31","t":"add","s":"ieee-mam.csv","a":"2109, Haowei Science and Technology Building, No. 2, Keji South 8th Road, High-tech Zone, Yuehai Street, Nanshan District, Shenzhen, CN, 518000 Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Ntmer Technology Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000d36000000/24",[{"d":"2003-06-01","t":"add","a":"Miao Shan District, East Lake Hi-Tech\nDevelopment Park\nWuhan Hubei 430223\n","c":"CHINA","o":"Wu Han Routon Electronic Co., Ltd"},{"d":"2015-08-27","t":"change","a":"Miao Shan District, East Lake Hi-Tech Wuhan Hubei CN 430223","c":"CN","o":"Wu Han Routon Electronic Co., Ltd"}]);

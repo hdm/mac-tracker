@@ -1,1 +1,0 @@
-macDetailCallback("0016a7000000/24",[{"d":"2005-12-09","t":"add","a":"Burg. Winkellaan 3\nNootdorp  2631 HG\n\n","c":"NETHERLANDS","o":"AWETA G&P","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Burg. Winkellaan 3 Nootdorp  NL 2631 HG","c":"NL","o":"AWETA G&P"}]);

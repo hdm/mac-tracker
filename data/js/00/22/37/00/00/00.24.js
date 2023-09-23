@@ -1,1 +1,0 @@
-macDetailCallback("002237000000/24",[{"d":"2008-06-18","t":"add","a":"Unit 1506, 15/F, Nanyang Plaza,, 57 Hung To Road,\nKwun Tong, Kln\n\n","c":"HONG KONG","o":"Shinhint Group","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Unit 1506, 15/F, Nanyang Plaza,, 57 Hung To Road,   HK","c":"HK","o":"Shinhint Group"}]);

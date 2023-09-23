@@ -1,1 +1,0 @@
-macDetailCallback("d42000200000/28",[{"d":"2022-07-01","t":"add","s":"ieee-mam.csv","a":"Room 609, Building 1, Phase 2, Gaoxinqi Strategic Emerging Industrial Park, Liu Xian 1st Road,Baoan Shenzhen Guangdong CN 518101","c":"CN","o":"Shenzhen AI Develop & Manufacture Co.,LTD."}]);

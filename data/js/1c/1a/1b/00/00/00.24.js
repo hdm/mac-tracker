@@ -1,1 +1,0 @@
-macDetailCallback("1c1a1b000000/24",[{"d":"2022-08-20","t":"add","s":"ieee-oui.csv","a":"Room 505, No.388 Song Hu Road, Yang Pu District, Shanghai, China Shanghai Shanghai CN 200433","c":"CN","o":"Shanghai Sunmi Technology Co.,Ltd."}]);

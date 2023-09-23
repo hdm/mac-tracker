@@ -1,1 +1,0 @@
-macDetailCallback("004d32000000/24",[{"d":"2012-09-25","t":"add","a":"NO.3Jin PIng Road Ya An Street\nNankai District\nTianjin  300190\n","c":"CHINA","o":"Andon Health Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"NO.3Jin PIng Road Ya An Street Tianjin  CN 300190","c":"CN","o":"Andon Health Co.,Ltd."}]);

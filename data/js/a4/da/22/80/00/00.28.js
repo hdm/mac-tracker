@@ -1,1 +1,0 @@
-macDetailCallback("a4da22800000/28",[{"a":"10F.-1, No.150, Jian 1st Rd. Zhonghe Dist. New Taipei City TW 23511","o":"SolidPro Technology Corporation","d":"2017-11-19","t":"add","s":"ieee","c":"TW"}]);

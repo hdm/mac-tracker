@@ -1,1 +1,0 @@
-macDetailCallback("8c1f647b7000/36",[{"d":"2022-03-08","t":"add","s":"ieee-oui36.csv","a":"Oscar Flores Tapia No. 304, Col. El Llano Arteaga  Coahuila MX 25350","c":"MX","o":"Weidmann Tecnologia Electrica de Mexico"}]);

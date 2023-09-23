@@ -1,1 +1,0 @@
-macDetailCallback("805f8e000000/24",[{"d":"2023-01-13","t":"add","s":"ieee-oui.csv","a":"Xiangshui River, Economic Development Zone, Daya Bay, Huizhou, Guangdong, China Huizhou Guangdong CN 516000","c":"CN","o":"Huizhou BYD Electronic Co., Ltd."}]);

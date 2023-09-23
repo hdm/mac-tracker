@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64f23000/36",[{"d":"2022-09-11","t":"add","s":"ieee-oui36.csv","a":"Survey No 256 Nr Bombardier Circle\nGIDC Manjusar Vadodara Gujarat IN 391775","c":"IN","o":"IDEX India Pvt Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00303e000000/24",[{"d":"2000-09-08","t":"add","a":"12 Hanechoshet Street\nTel-Aviv 69710\n\n","c":"ISRAEL","o":"Radcom Ltd."},{"d":"2015-08-27","t":"change","a":"12 Hanechoshet Street Tel-Aviv 69710  IL","c":"IL","o":"Radcom Ltd."}]);

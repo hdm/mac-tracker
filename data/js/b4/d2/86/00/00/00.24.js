@@ -1,1 +1,0 @@
-macDetailCallback("b4d286000000/24",[{"d":"2021-10-08","t":"add","s":"ieee-oui.csv","a":"19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu, Seoul Seoul KR 05510","c":"KR","o":"Telechips, Inc."}]);

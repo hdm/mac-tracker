@@ -1,1 +1,0 @@
-macDetailCallback("04072e000000/24",[{"a":"23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road Tai Po, N.T.  HK NA","o":"VTech Electronics Ltd.","d":"2018-09-23","t":"add","s":"ieee","c":"NA"}]);

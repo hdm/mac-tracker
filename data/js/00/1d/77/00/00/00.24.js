@@ -1,1 +1,0 @@
-macDetailCallback("001d77000000/24",[{"d":"2007-08-18","t":"add","a":"Rm 1304, 39 Kirpichnaya Street\nMoscow  105187\n\n","c":"RUSSIAN FEDERATION","o":"NSGate"},{"d":"2015-08-27","t":"change","a":"Rm 1304, 39 Kirpichnaya Street Moscow  RU 105187","c":"RU","o":"NSGate"}]);

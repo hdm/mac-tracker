@@ -1,1 +1,0 @@
-macDetailCallback("20ce2a100000/28",[{"d":"2021-02-11","t":"add","s":"ieee-mam.csv","a":"Room B, 9th floor, building 1, Hongqiao headquarters, 100 Zixiu Road,  Shanghai Minhang District CN 201103","c":"CN","o":"Shanghai Digicube Info&Tech Co.,Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000f07000000/24",[{"d":"2003-12-21","t":"add","a":"10 Fairfield Blvd.\nWallingford CT 06492\n\n","c":"UNITED STATES","o":"Mangrove Systems, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"10 Fairfield Blvd. Wallingford CT US 06492","c":"US","o":"Mangrove Systems, Inc."}]);

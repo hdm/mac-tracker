@@ -1,1 +1,0 @@
-macDetailCallback("000d9e000000/24",[{"d":"2003-07-23","t":"add","a":"Yoshida 1221\nOuragun Ohizumi Gunma 370-0523\n\n","c":"JAPAN","o":"TOKUDEN OHIZUMI SEISAKUSYO Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Yoshida 1221 Ouragun Ohizumi Gunma JP 370-0523","c":"JP","o":"TOKUDEN OHIZUMI SEISAKUSYO Co.,Ltd."}]);

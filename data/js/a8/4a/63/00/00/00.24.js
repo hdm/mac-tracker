@@ -1,1 +1,0 @@
-macDetailCallback("a84a63000000/24",[{"d":"2021-06-04","t":"add","s":"ieee-oui.csv","a":"No.1, Xianghai Road, Xiamen Torch Hi-Tech Industrial Development Zone, China Xiamen Fujian CN 361101","c":"CN","o":"TPV Display Technology(Xiamen) Co.,Ltd."}]);

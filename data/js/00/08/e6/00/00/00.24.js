@@ -1,1 +1,0 @@
-macDetailCallback("0008e6000000/24",[{"d":"2002-01-30","t":"add","a":"13000 Gregg Street\nPoway California 92064\n\n","c":"UNITED STATES","o":"Littlefeet","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"13000 Gregg Street Poway California US 92064","c":"US","o":"Littlefeet"}]);

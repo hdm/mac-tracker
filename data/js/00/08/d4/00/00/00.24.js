@@ -1,1 +1,0 @@
-macDetailCallback("0008d4000000/24",[{"d":"2001-12-23","t":"add","a":"1931 Washington St\nCanton Massachusetts 02021\n\n","c":"UNITED STATES","o":"IneoQuest Technologies, Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1931 Washington St Canton Massachusetts US 02021","c":"US","o":"IneoQuest Technologies, Inc"}]);

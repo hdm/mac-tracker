@@ -1,1 +1,0 @@
-macDetailCallback("70b3d55b3000/36",[{"d":"2021-02-26","t":"add","s":"ieee-oui36.csv","a":"41 - 47 Rue des frères Lumière Neuilly sur Marne Ile-de-France FR 93330","c":"FR","o":"STENTORIUS by ADI"}]);

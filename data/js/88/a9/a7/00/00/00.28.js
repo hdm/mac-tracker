@@ -1,1 +1,0 @@
-macDetailCallback("88a9a7000000/28",[{"a":"Room 14G,14th Floor, Langshi Building , keji South Road 12 , High-tech Industrial Park , Nanshan District Shenzhen  CN 518000","o":"Shenzhenshi kechuangzhixian technology Co.LTD","d":"2017-11-26","t":"add","s":"ieee","c":"CN"}]);

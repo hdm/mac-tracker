@@ -1,1 +1,0 @@
-macDetailCallback("1874e2600000/28",[{"d":"2021-04-03","t":"add","s":"ieee-mam.csv","a":"Room 01, 2nd Floor, Building 8, Yuquanhuigu, No. 3, Minzhuang Road, Haidian District Beijing Beijing CN 100195","c":"CN","o":"Beijing Jrunion Technology Co., Ltd."}]);

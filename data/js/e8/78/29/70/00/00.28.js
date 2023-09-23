@@ -1,1 +1,0 @@
-macDetailCallback("e87829700000/28",[{"d":"2021-04-09","t":"add","s":"ieee-mam.csv","a":"Room 1101, Building 23, No.1999 Yishan Road, Minhang District Shanghai  CN 200233","c":"CN","o":"FAIOT Co., LTD"}]);

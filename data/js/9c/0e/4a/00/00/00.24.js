@@ -1,1 +1,0 @@
-macDetailCallback("9c0e4a000000/24",[{"d":"2015-10-21","t":"add","a":"2/F Building 6,ZhengZhong Industrial Park,Qiaotou Community,Fuyong,Baoan,ShenZhen China Shenzhen Guangdong CN 518103","c":"CN","o":"Shenzhen Vastking Electronic Co.,Ltd."}]);

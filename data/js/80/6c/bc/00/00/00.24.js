@@ -1,1 +1,0 @@
-macDetailCallback("806cbc000000/24",[{"d":"2011-03-16","t":"add","a":"Lerchenberg 7\nFinning Bavarian 86923\n\n","c":"GERMANY","o":"NET New Electronic Technology GmbH"},{"d":"2015-08-27","t":"change","a":"Lerchenberg 7 Finning Bavarian DE 86923","c":"DE","o":"NET New Electronic Technology GmbH"}]);

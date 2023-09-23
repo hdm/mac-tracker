@@ -1,1 +1,0 @@
-macDetailCallback("001909000000/24",[{"d":"2006-07-18","t":"add","a":"Ulvehavevej 61\nVejle  7100\n\n","c":"DENMARK","o":"Devi A/S"},{"d":"2013-02-14","t":"change","a":"Ulvehavevej 61\nVejle  7100\n\n","c":"DENMARK","o":"DEVI - Danfoss A/S"},{"d":"2015-08-27","t":"change","a":"Ulvehavevej 61 Vejle  DK 7100","c":"DK","o":"DEVI - Danfoss A/S"}]);

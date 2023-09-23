@@ -1,1 +1,0 @@
-macDetailCallback("000ca9000000/24",[{"d":"2003-03-05","t":"add","a":"1663 Hwy 701 South\nLoris SC 29569\n\n","c":"UNITED STATES","o":"Ebtron Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1663 Hwy 701 South Loris SC US 29569","c":"US","o":"Ebtron Inc."}]);

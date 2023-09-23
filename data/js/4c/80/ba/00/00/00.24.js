@@ -1,1 +1,0 @@
-macDetailCallback("4c80ba000000/24",[{"d":"2019-07-18","t":"add","s":"ieee-oui.csv","a":"HUST Industry Park, East-Lake Development Zone Wuhan Hubei CN 430223","c":"CN","o":"Wuhan Tianyu Information Industry Co., Ltd."}]);

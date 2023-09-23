@@ -1,1 +1,0 @@
-macDetailCallback("5895d8600000/28",[{"d":"2020-08-30","t":"add","s":"ieee-mam.csv","a":"Block 3, No 1885 Duhui Road, Minhang District Shanghai Shanghai CN 201108","c":"CN","o":"Norgren Manufacturing Co., Ltd."}]);

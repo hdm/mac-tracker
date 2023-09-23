@@ -1,1 +1,0 @@
-macDetailCallback("f8edae000000/24",[{"d":"2023-01-19","t":"add","s":"ieee-oui.csv","a":"Buliding B,Bird Indusrtial Park No.999 Dacheng Road,Fenghua Zhejiang,China NingBo ZheJiang CN 315500","c":"CN","o":"MOBIWIRE MOBILES(NINGBO) CO.,LTD"}]);

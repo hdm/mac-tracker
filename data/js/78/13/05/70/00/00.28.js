@@ -1,1 +1,0 @@
-macDetailCallback("781305700000/28",[{"d":"2021-04-16","t":"add","s":"ieee-mam.csv","a":"5710 Bull Run Dr Columbia MO US 65201","c":"US","o":"Equipmentshare.com Inc"},{"d":"2021-08-01","t":"change","s":"ieee-mam.csv","a":"Room 0355, Unit 109, No. 62, Chengyi North Street, Software Park Phase III, Xiamen City Fujian Fujian CN 361000","c":"CN","o":"E-Stone Electronics Co., Ltd"}]);

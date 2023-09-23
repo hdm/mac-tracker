@@ -1,1 +1,0 @@
-macDetailCallback("082ad0000000/24",[{"d":"2009-10-15","t":"add","a":"11525 Valley Ridge Dr. NW\nCalgary AB T3B 5T4\n\n","c":"CANADA","o":"SRD Innovations Inc."},{"d":"2015-08-27","t":"change","a":"11525 Valley Ridge Dr. NW Calgary AB CA T3B 5T4","c":"CA","o":"SRD Innovations Inc."}]);

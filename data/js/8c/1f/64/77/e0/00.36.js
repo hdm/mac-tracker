@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6477e000/36",[{"d":"2021-10-23","t":"add","s":"ieee-oui36.csv","a":"NO.5 minzuaxue south road, haidian district,  beijing   CN 100000","c":"CN","o":"Institute of geophysics, China earthquake administration"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64c61000/36",[{"d":"2022-09-18","t":"add","s":"ieee-oui36.csv","a":"Tower B 2th FI., Bldg.12,(East Zone) No.10 Xibeiwangdong Road, Haidian District Beijing Beijing CN 100193","c":"CN","o":"Beijing Ceresdate Technology Co.,LTD"}]);

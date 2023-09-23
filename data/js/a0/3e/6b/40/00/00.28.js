@@ -1,1 +1,0 @@
-macDetailCallback("a03e6b400000/28",[{"a":"Tianliao Building F3,(New Materials Industrial Park),Xueyuan Road,Nanshan District,Shenzhen City,P.R.China Shenzhen Guangdong CN 518055","o":"Shenzhen Nufilo Inc.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

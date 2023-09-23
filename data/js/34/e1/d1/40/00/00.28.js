@@ -1,1 +1,0 @@
-macDetailCallback("34e1d1400000/28",[{"d":"2019-01-11","t":"add","s":"ieee-mam.csv","a":"Room 506, 5/F, Enterprise Place, No. 5 Science Park West Ave., Hong Kong Science Park Shatin NT HK 00000","c":"HK","o":"ASA Innovation & Technology Ltd."}]);

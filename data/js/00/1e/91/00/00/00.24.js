@@ -1,1 +1,0 @@
-macDetailCallback("001e91000000/24",[{"d":"2007-11-02","t":"add","a":"293-4, Dongdan-Dong\nGumi-city GyeongBuk 730-906\n\n","c":"KOREA, REPUBLIC OF","o":"KIMIN Electronic Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"293-4, Dongdan-Dong Gumi-city GyeongBuk KR 730-906","c":"KR","o":"KIMIN Electronic Co., Ltd."}]);

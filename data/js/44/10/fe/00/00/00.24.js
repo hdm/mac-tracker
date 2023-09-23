@@ -1,1 +1,0 @@
-macDetailCallback("4410fe000000/24",[{"d":"2019-12-17","t":"add","s":"ieee-oui.csv","a":"North Shangxia Road, Dongjiang Hi-tech Industry Park Huizhou Guangdong CN 516000","c":"CN","o":"Huizhou Foryou General Electronics Co., Ltd."}]);

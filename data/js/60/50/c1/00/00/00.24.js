@@ -1,1 +1,0 @@
-macDetailCallback("6050c1000000/24",[{"d":"2014-06-05","t":"add","a":"16885 Via Del Campo Ct.\nSuite 207\nSan Diego Ca 92127\n","c":"UNITED STATES","o":"Kinetek Sports"},{"d":"2015-08-27","t":"change","a":"16885 Via Del Campo Ct. San Diego Ca US 92127","c":"US","o":"Kinetek Sports"}]);

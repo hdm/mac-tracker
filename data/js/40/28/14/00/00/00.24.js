@@ -1,1 +1,0 @@
-macDetailCallback("402814000000/24",[{"d":"2015-01-06","t":"add","a":"Markerkant 13-76\nAlmere Flevoland 1314AN\n\n","c":"NETHERLANDS","o":"RFI Engineering"},{"d":"2015-08-27","t":"change","a":"Markerkant 13-76 Almere Flevoland NL 1314AN","c":"NL","o":"RFI Engineering"}]);

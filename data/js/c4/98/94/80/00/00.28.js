@@ -1,1 +1,0 @@
-macDetailCallback("c49894800000/28",[{"d":"2022-07-27","t":"add","s":"ieee-mam.csv","a":"Room 508, No. 9, Lane 205, Gaoji Road, Songjiang District Shanghai Shanghai CN 201601","c":"CN","o":"Pliem (Shanghai) Intelligent Technology Co., Ltd"}]);

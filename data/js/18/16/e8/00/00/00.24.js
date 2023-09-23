@@ -1,1 +1,0 @@
-macDetailCallback("1816e8000000/24",[{"d":"2022-06-28","t":"add","s":"ieee-oui.csv","a":"No. 123, Sec.3, Da Fong Rd, Tantzu,  Taichung  TW 427","c":"TW","o":"Siliconware Precision Industries Co., Ltd."}]);

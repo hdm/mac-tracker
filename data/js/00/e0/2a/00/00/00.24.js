@@ -1,1 +1,0 @@
-macDetailCallback("00e02a000000/24",[{"d":"1998-04-22","t":"add","a":"PHILIP PEDERSENS V 20\nN-1324 LYSAKER\n\n","c":"NORWAY","o":"TANDBERG TELEVISION AS"},{"d":"2015-08-27","t":"change","a":"PHILIP PEDERSENS V 20 N-1324 LYSAKER  NO","c":"NO","o":"TANDBERG TELEVISION AS"}]);

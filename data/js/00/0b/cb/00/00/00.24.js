@@ -1,1 +1,0 @@
-macDetailCallback("000bcb000000/24",[{"d":"2002-11-19","t":"add","a":"San Andres s/n\n20500 Mondragon\nGuipuzcoa 20500\n","c":"SPAIN","o":"Fagor Automation , S. Coop","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"San Andres s/n  Guipuzcoa ES 20500","c":"ES","o":"Fagor Automation , S. Coop"}]);

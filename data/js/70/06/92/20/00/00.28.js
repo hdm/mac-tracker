@@ -1,1 +1,0 @@
-macDetailCallback("700692200000/28",[{"d":"2023-02-15","t":"add","s":"ieee-mam.csv","a":"NO.98 ,EAST ROAD OF JIANGBIN ,MAWEI ZONE,FUZHOU FUZHOU  CN 350000","c":"CN","o":"Scud (Fujian) Electronics Co.,Ltd"}]);

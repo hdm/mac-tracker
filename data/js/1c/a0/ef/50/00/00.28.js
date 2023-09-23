@@ -1,1 +1,0 @@
-macDetailCallback("1ca0ef500000/28",[{"d":"2021-02-09","t":"add","s":"ieee-mam.csv","a":"No.9 Bancang Street Nanjing Jiangsu CN 210000","c":"CN","o":"Nanjing Bilin Intelligent Identification Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64317000/36",[{"d":"2023-01-31","t":"add","s":"ieee-oui36.csv","a":"15-16, Times Corporate Park, Near, Thaltej - Shilaj Rd, opp. COPPER STONE FLATS, Thaltej Ahmedabad Gujarat IN 380059","c":"IN","o":"Bacancy Systems LLP"}]);

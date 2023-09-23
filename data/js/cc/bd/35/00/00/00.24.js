@@ -1,1 +1,0 @@
-macDetailCallback("ccbd35000000/24",[{"d":"2013-03-19","t":"add","a":"Dieselstrasse 80-84\nHerzebrock-Clarholz  33442\n\n","c":"GERMANY","o":"Steinel GmbH"},{"d":"2015-08-27","t":"change","a":"Dieselstrasse 80-84 Herzebrock-Clarholz  DE 33442","c":"DE","o":"Steinel GmbH"}]);

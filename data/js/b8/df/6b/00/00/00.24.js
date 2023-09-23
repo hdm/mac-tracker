@@ -1,1 +1,0 @@
-macDetailCallback("b8df6b000000/24",[{"d":"2013-08-29","t":"add","a":"12F.-1, No.125, Jianguo Rd.\nYingge Dist\nNew Taipei City  239\n","c":"TAIWAN, PROVINCE OF CHINA","o":"SpotCam Co., Ltd."},{"d":"2015-08-27","t":"change","a":"12F.-1, No.125, Jianguo Rd. New Taipei City  TW 239","c":"TW","o":"SpotCam Co., Ltd."}]);

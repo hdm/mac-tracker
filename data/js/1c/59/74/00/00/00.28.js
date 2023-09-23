@@ -1,1 +1,0 @@
-macDetailCallback("1c5974000000/28",[{"d":"2022-02-19","t":"add","s":"ieee-mam.csv","a":"Buiding 2 ,row 3,number 2 industrail  zone,yulv community,Yutang street  Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Hanshine Technology Co.Ltd."}]);

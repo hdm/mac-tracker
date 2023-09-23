@@ -1,1 +1,0 @@
-macDetailCallback("6473e2000000/24",[{"d":"2011-03-23","t":"add","a":"1324 Vendels Circle\nSuite 121\nPaso Robles California 93446\n","c":"UNITED STATES","o":"Arbiter Systems, Inc."},{"d":"2015-08-27","t":"change","a":"1324 Vendels Circle Paso Robles California US 93446","c":"US","o":"Arbiter Systems, Inc."}]);

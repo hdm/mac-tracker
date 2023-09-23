@@ -1,1 +1,0 @@
-macDetailCallback("30785c000000/24",[{"d":"2015-12-01","t":"add","a":"UNIT 32 NO.31 26TH WEST AVE ,ALLAMEH TABATABAIE ST.SAADAT ABAD\n\n\n","c":"Tehran  Tehran  1997968413","o":"Partow Tamas Novin (Parman)"},{"d":"2015-12-03","t":"change","a":"UNIT 32 NO.31 26TH WEST AVE ,ALLAMEH TABATABAIE ST.SAADAT ABAD Tehran Tehran IR 1997968413","c":"IR","o":"Partow Tamas Novin (Parman)"}]);

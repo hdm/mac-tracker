@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64610000/36",[{"d":"2022-09-18","t":"add","s":"ieee-oui36.csv","a":"302,floor 3,building 2,No.15 Guanghua Road,Chaoyang District Beijing Beijing CN 100026","c":"CN","o":"Beijing Zhongzhi Huida Technology Co., Ltd"}]);

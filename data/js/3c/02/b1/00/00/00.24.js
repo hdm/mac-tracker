@@ -1,1 +1,0 @@
-macDetailCallback("3c02b1000000/24",[{"d":"2010-10-29","t":"add","a":"3939 North Fraser Way\nBurnaby BC V5J 5J2\n\n","c":"CANADA","o":"Creation Technologies LP"},{"d":"2015-08-27","t":"change","a":"3939 North Fraser Way Burnaby BC CA V5J 5J2","c":"CA","o":"Creation Technologies LP"}]);

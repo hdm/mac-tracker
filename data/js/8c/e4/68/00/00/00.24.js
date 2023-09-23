@@ -1,1 +1,0 @@
-macDetailCallback("8ce468000000/24",[{"d":"2020-04-15","t":"add","s":"ieee-oui.csv","a":"Room 1902, Ruian Guangzhou Center, 374 Beijing Road, Yuexiu District Guangzhou Guangdong CN 510030","c":"CN","o":"Guangzhou Sageran Technology Co., Ltd."}]);

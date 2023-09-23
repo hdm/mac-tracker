@@ -1,1 +1,0 @@
-macDetailCallback("8ccf5c000000/24",[{"d":"2011-06-08","t":"add","a":"Reichenbacher Str. 22\nSchwabach Bavaria 91126\n\n","c":"GERMANY","o":"BEFEGA GmbH"},{"d":"2015-08-27","t":"change","a":"Reichenbacher Str. 22 Schwabach Bavaria DE 91126","c":"DE","o":"BEFEGA GmbH"}]);

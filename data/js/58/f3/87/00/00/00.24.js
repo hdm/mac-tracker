@@ -1,1 +1,0 @@
-macDetailCallback("58f387000000/24",[{"d":"2013-04-19","t":"add","a":"Gabriel Metsulaan 4a\nEINDHOVEN  5611SP\n\n","c":"NETHERLANDS","o":"HCCP"},{"d":"2015-08-27","t":"change","a":"Gabriel Metsulaan 4a EINDHOVEN  NL 5611SP","c":"NL","o":"HCCP"},{"d":"2022-06-26","t":"change","s":"ieee-oui.csv","a":"Peter Zuidlaan 10 Veldhoven  NL 5502 NH","c":"NH","o":"Airios"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("1c8259900000/28",[{"d":"2019-03-05","t":"add","s":"ieee-mam.csv","a":"Room 503, Building B, NO. 2305, Zuchongzhi Road Shanghai Shanghai CN 201203","c":"CN","o":"Shanghai Xiaoyan Technology Co., Ltd."}]);

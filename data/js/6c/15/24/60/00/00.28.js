@@ -1,1 +1,0 @@
-macDetailCallback("6c1524600000/28",[{"d":"2022-03-09","t":"add","s":"ieee-mam.csv","a":"Room 704, No. 666, Changjiang South Road Kunshan Jiangsu CN 215300","c":"CN","o":"Kunshan Abram Software Technology Co.,Ltd."}]);

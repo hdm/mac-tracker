@@ -1,1 +1,0 @@
-macDetailCallback("2c691de00000/28",[{"d":"2022-05-25","t":"add","s":"ieee-mam.csv","a":"NO.666, XINGYE ROAD, EAST INDUSTRIAL AREA, XINDU DISTRICT, CHENGDU CITY, CHINA Chengdu SICHUAN CN 610599","c":"CN","o":"Chengdu Qianhong Communication Co., Ltd."}]);

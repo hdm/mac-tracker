@@ -1,1 +1,0 @@
-macDetailCallback("2ca89c000000/24",[{"d":"2019-05-03","t":"add","s":"ieee-oui.csv","a":"16, Deogyeong-daero 1556beon-gil, Yeongtong-gu Suwon-si, Gyeonggi-do,  KR 16690","c":"KR","o":"Creatz inc."}]);

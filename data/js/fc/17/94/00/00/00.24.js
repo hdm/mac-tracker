@@ -1,1 +1,0 @@
-macDetailCallback("fc1794000000/24",[{"d":"2011-05-27","t":"add","a":"897-6, HoGye-Dong, DongAn-Gu,\nAnYang-Si, GyeongGi-Do, 431-836\n\n","c":"KOREA, REPUBLIC OF","o":"InterCreative Co., Ltd"},{"d":"2015-08-27","t":"change","a":"897-6, HoGye-Dong, DongAn-Gu, AnYang-Si, GyeongGi-Do, KR 431-836","c":"KR","o":"InterCreative Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("f0224e000000/24",[{"d":"2015-04-24","t":"add","a":"D&I Building 2nd floor\n689-22 Guemjung-dong\nGun-Po Kyunggido 435-862\n","c":"KOREA, REPUBLIC OF","o":"Esan electronic co."},{"d":"2015-08-27","t":"change","a":"D&I Building 2nd floor Gun-Po Kyunggido KR 435-862","c":"KR","o":"Esan electronic co."}]);

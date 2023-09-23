@@ -1,1 +1,0 @@
-macDetailCallback("fc2325000000/24",[{"d":"2014-03-07","t":"add","a":"Room 306, Complex Building Tsinghua High-Tech Park\nNanshan District\nShenzhen Guangdong 518057\n","c":"CHINA","o":"EosTek (Shenzhen) Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Room 306, Complex Building Tsinghua High-Tech Park Shenzhen Guangdong CN 518057","c":"CN","o":"EosTek (Shenzhen) Co., Ltd."}]);

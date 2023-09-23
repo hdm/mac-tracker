@@ -1,1 +1,0 @@
-macDetailCallback("a0bfa5000000/24",[{"d":"2009-10-23","t":"add","a":"267-1 Nonhyundong Gangnamgu\nJK Bld., #301\nSeoul  135-833\n","c":"KOREA, REPUBLIC OF","o":"CORESYS"},{"d":"2015-08-27","t":"change","a":"267-1 Nonhyundong Gangnamgu Seoul  KR 135-833","c":"KR","o":"CORESYS"}]);

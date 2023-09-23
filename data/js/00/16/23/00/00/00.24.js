@@ -1,1 +1,0 @@
-macDetailCallback("001623000000/24",[{"d":"2005-10-13","t":"add","a":"3200 Ash Street\nPalo Alto CA 94306\n\n","c":"UNITED STATES","o":"Interval Media"},{"d":"2015-08-27","t":"change","a":"3200 Ash Street Palo Alto CA US 94306","c":"US","o":"Interval Media"}]);

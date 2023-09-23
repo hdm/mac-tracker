@@ -1,1 +1,0 @@
-macDetailCallback("c8a40d000000/24",[{"d":"2020-10-22","t":"add","s":"ieee-oui.csv","a":"8F., No. 788-1, Zhongzheng Rd., Zhonghe Dist. New Taipei City New Taipei City TW 23586","c":"TW","o":"Cooler Master Technology Inc"}]);

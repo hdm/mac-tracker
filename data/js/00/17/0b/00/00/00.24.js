@@ -1,1 +1,0 @@
-macDetailCallback("00170b000000/24",[{"d":"2006-01-10","t":"add","a":"6-8 Soonae-dong, Bundang-gu,\n5th Floor, Korea First Bldg.,\nSungnam Kyunggi-do 463-825\n","c":"KOREA, REPUBLIC OF","o":"Contela, Inc."},{"d":"2015-08-27","t":"change","a":"6-8 Soonae-dong, Bundang-gu, Sungnam Kyunggi-do KR 463-825","c":"KR","o":"Contela, Inc."}]);

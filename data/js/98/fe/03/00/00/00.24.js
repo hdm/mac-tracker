@@ -1,1 +1,0 @@
-macDetailCallback("98fe03000000/24",[{"d":"2011-10-13","t":"add","a":"6300 Legacy Drive\nPlano TX 75024\n\n","c":"UNITED STATES","o":"Ericsson - North America"},{"d":"2015-08-27","t":"change","a":"6300 Legacy Drive Plano TX US 75024","c":"US","o":"Ericsson - North America"}]);

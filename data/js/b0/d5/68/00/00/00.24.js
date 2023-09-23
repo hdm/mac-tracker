@@ -1,1 +1,0 @@
-macDetailCallback("b0d568000000/24",[{"a":"F6,M6,Maqueling, High-tech park, Nanshan district Shenzhen Guangdong CN 518057","o":"Shenzhen Cultraview Digital Technology Co., Ltd","d":"2018-09-10","t":"add","s":"ieee","c":"CN"}]);

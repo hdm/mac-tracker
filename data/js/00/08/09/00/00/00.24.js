@@ -1,1 +1,0 @@
-macDetailCallback("000809000000/24",[{"d":"2001-10-24","t":"add","a":"Am Waldschloesschen 1\nD-01099 Dresden\n\n","c":"GERMANY","o":"Systemonic AG"},{"d":"2015-08-27","t":"change","a":"Am Waldschloesschen 1   DE","c":"DE","o":"Systemonic AG"}]);

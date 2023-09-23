@@ -1,1 +1,0 @@
-macDetailCallback("7c6a8a000000/24",[{"d":"2023-03-24","t":"add","s":"ieee-oui.csv","a":"Building 1, No. 245, Guanchang Road, Dongcheng District Dongguan Guangdong CN 523000","c":"CN","o":"SINOBONDER Technology Co., Ltd."}]);

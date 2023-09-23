@@ -1,1 +1,0 @@
-macDetailCallback("90f421300000/28",[{"d":"2023-03-21","t":"add","s":"ieee-mam.csv","a":"Room 601, Haige Wireless Technology Building, No.8 Nanxiang Third Road, Science City, Huangpu District, Guangzhou Guangzhou Guangdong CN 510000","c":"CN","o":"Sinpeng(Guangzhou)Technology Co.,Ltd"}]);

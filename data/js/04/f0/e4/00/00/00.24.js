@@ -1,1 +1,0 @@
-macDetailCallback("04f0e4000000/24",[{"d":"2023-09-02","t":"add","s":"ieee-oui.csv","a":"R1609, Building A, Zhiyun Industrial Park, No. 13 Huaxing Road, Longhua District, Shenzhen City, Guangdong Province ShenZhen Guangdong CN 518000","c":"CN","o":"ShenZhen Hosecom Electronic Technology Co.,LTD"}]);

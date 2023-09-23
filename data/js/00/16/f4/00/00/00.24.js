@@ -1,1 +1,0 @@
-macDetailCallback("0016f4000000/24",[{"d":"2006-01-03","t":"add","a":"Polychem B/D 4th Floor, 900-1\nKwanyang-dong, Dongan-ku\nAnyang-si Kyeonggi-do 431-060\n","c":"KOREA, REPUBLIC OF","o":"Eidicom Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Polychem B/D 4th Floor, 900-1 Anyang-si Kyeonggi-do KR 431-060","c":"KR","o":"Eidicom Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("2c93fb000000/24",[{"d":"2022-04-10","t":"add","s":"ieee-oui.csv","a":"2/4 Rue Maurice Hartmann 92370  Issy Les Moulineaux France Moulineaux  FR 92370","c":"FR","o":"Sercomm France Sarl"}]);

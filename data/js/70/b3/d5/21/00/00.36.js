@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5210000/36",[{"d":"2019-03-09","t":"add","s":"ieee-oui36.csv","a":"A12 Floor, Information Port, 16 Keyun Road, Tianhe DistrictGuangzhou Guangzhou GuangDong CN 510000","c":"CN","o":"Eastone Century Technology Co.,Ltd."}]);

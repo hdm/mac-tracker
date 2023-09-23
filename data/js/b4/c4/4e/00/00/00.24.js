@@ -1,1 +1,0 @@
-macDetailCallback("b4c44e000000/24",[{"d":"2010-10-22","t":"add","a":"#91, 11th Main, Begur Main Road\nHongasandra\nBangalore Karnataka 560068\n","c":"INDIA","o":"VXL eTech Pvt Ltd"},{"d":"2015-08-27","t":"change","a":"#91, 11th Main, Begur Main Road Bangalore Karnataka IN 560068","c":"IN","o":"VXL eTech Pvt Ltd"}]);

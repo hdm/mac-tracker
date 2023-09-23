@@ -1,1 +1,0 @@
-macDetailCallback("f43e66000000/24",[{"d":"2019-04-18","t":"add","s":"ieee-oui.csv","a":"Room 1902, 19/F, Lee Garden One 33 Hysan Avenue, Causeway Bay Hong Kong  HK 100043","c":"HK","o":"Bee Computing (HK) Limited"}]);

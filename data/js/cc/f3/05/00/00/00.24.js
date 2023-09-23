@@ -1,1 +1,0 @@
-macDetailCallback("ccf305000000/24",[{"d":"2022-01-19","t":"add","s":"ieee-oui.csv","a":"Second floor, Building A, FengHangAvenue, Hangcheng Street, Bao'an District Shenzhen Guangdong CN 518126","c":"CN","o":"SHENZHEN TIAN XING CHUANG ZHAN ELECTRONIC CO.,LTD"}]);

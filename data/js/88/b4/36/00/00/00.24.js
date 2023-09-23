@@ -1,1 +1,0 @@
-macDetailCallback("88b436000000/24",[{"d":"2019-02-26","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2022-05-15","t":"change","s":"ieee-oui.csv","a":"1-324,Uetake,Kita-ku Saitama Saitama JP 331-9624","c":"JP","o":"FUJIFILM Corporation"}]);

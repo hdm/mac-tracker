@@ -1,1 +1,0 @@
-macDetailCallback("34d0b8700000/28",[{"a":"7021,7F Beifang Junyi Business Center, Lixin South RD,Fuyong Street,Bao'an  Shenzhen  Guangdong CN 518103","o":"Shenzhen Rikomagic Tech Corp.,Ltd","d":"2017-08-06","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("2084f5000000/24",[{"d":"2022-06-15","t":"add","s":"ieee-oui.csv","a":"115, Building 15, Maker Town, No.4109, Liuxian Avenue, Pingshan Community, Taoyuan Street, Nanshan District, Shenzhen Shenzhen  CN 518051","c":"CN","o":"Yufei Innovation Software(Shenzhen) Co., Ltd."}]);

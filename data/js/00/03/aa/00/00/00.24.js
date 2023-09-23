@@ -1,1 +1,0 @@
-macDetailCallback("0003aa000000/24",[{"d":"2000-11-09","t":"add","a":"1241 Bundy Blvd.\nWinona, MN 55987\n\n","c":"UNITED STATES","o":"Watlow"},{"d":"2001-10-24","t":"change","a":"1241 Bundy Blvd.\nWinona MN 55987\n\n","c":"UNITED STATES","o":"Watlow"},{"d":"2015-08-27","t":"change","a":"1241 Bundy Blvd. Winona MN US 55987","c":"US","o":"Watlow"}]);

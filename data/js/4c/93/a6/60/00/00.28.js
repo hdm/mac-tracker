@@ -1,1 +1,0 @@
-macDetailCallback("4c93a6600000/28",[{"d":"2020-06-13","t":"add","s":"ieee-mam.csv","a":"No. 18 Liuyishan Road, New&High-tech area Zibo Shandong CN 255086","c":"CN","o":"Shandong Senter Electronic Co., Ltd"}]);

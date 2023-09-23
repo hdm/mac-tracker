@@ -1,1 +1,0 @@
-macDetailCallback("70b3d530e000/36",[{"a":"","o":"Private","d":"2017-02-05","t":"add","s":"ieee"},{"d":"2022-08-16","t":"change","s":"ieee-oui36.csv","a":"456 Morimae Itozawa Minamiaizu Minamiaizu-gun Fukushima JP 9670014","c":"JP","o":"Ecolonum Inc."}]);

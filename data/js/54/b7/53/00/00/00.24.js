@@ -1,1 +1,0 @@
-macDetailCallback("54b753000000/24",[{"d":"2014-03-20","t":"add","a":"No.15 Lutian Road\nGalaxy science and technology park\nChangsha Hunan 410205\n","c":"CHINA","o":"Hunan Fenghui Yinjia Science And Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"No.15 Lutian Road Changsha Hunan CN 410205","c":"CN","o":"Hunan Fenghui Yinjia Science And Technology Co.,Ltd"}]);

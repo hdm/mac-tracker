@@ -1,1 +1,0 @@
-macDetailCallback("001a83000000/24",[{"d":"2006-11-29","t":"add","a":"108 Pawnook Farm Rd.\nLenoir City TN 37771\n\n","c":"UNITED STATES","o":"Pegasus Technologies Inc."},{"d":"2015-08-27","t":"change","a":"108 Pawnook Farm Rd. Lenoir City TN US 37771","c":"US","o":"Pegasus Technologies Inc."}]);

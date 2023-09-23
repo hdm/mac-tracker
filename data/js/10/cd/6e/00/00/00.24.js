@@ -1,1 +1,0 @@
-macDetailCallback("10cd6e000000/24",[{"d":"2017-09-22","t":"add","a":"303 Expotel, 44, Dunsan-daero 117beon-gil, Seo-gu, Daejeon, Korea\n\n\n","c":"Daejeon, Korea    KS015","o":"FISYS"},{"d":"2017-09-26","t":"change","a":"303 Expotel, 44, Dunsan-daero 117beon-gil, Seo-gu, Daejeon, Korea Daejeon, Korea  KR KS015","c":"KR","o":"FISYS"}]);

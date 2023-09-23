@@ -1,1 +1,0 @@
-macDetailCallback("78ec22000000/24",[{"d":"2010-04-27","t":"add","a":"Room 501, No 2 BoYun Rd, PuDong New Area,\nShanghai  201203\n\n","c":"CHINA","o":"Shanghai Qihui Telecom Technology Co., LTD"},{"d":"2015-08-27","t":"change","a":"Room 501, No 2 BoYun Rd, PuDong New Area,  Shanghai  CN 201203","c":"CN","o":"Shanghai Qihui Telecom Technology Co., LTD"}]);

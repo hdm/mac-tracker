@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64a36000/36",[{"d":"2023-04-25","t":"add","s":"ieee-oui36.csv","a":"ROOM 101, NO.66, MINXIN ROAD DONGGUAN GUANGDONG CN 523000","c":"CN","o":"DONGGUAN GAGO ELECTRONICS CO.,LTD"}]);

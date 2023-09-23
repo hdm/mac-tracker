@@ -1,1 +1,0 @@
-macDetailCallback("743889000000/24",[{"d":"2010-12-14","t":"add","a":"Wettersteinstrasse 18\nTaufkirchen Bavaria 82024\n\n","c":"GERMANY","o":"ANNAX Anzeigesysteme GmbH"},{"d":"2015-08-27","t":"change","a":"Wettersteinstrasse 18 Taufkirchen Bavaria DE 82024","c":"DE","o":"ANNAX Anzeigesysteme GmbH"}]);

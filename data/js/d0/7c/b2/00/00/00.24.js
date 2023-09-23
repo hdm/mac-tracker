@@ -1,1 +1,0 @@
-macDetailCallback("d07cb2000000/24",[{"d":"2023-04-18","t":"add","s":"ieee-oui.csv","a":"No. 1, HoZan Road, Tong'an District X iamen Fujian Province CN 361100","c":"CN","o":"Sigmastar Technology Ltd."}]);

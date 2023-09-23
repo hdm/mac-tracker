@@ -1,1 +1,0 @@
-macDetailCallback("0017a9000000/24",[{"d":"2006-03-15","t":"add","a":"Marynarska 19a\nWarsaw Mazowieckie 02-674\n\n","c":"POLAND","o":"Sentivision","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Marynarska 19a Warsaw Mazowieckie PL 02-674","c":"PL","o":"Sentivision"}]);

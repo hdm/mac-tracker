@@ -1,1 +1,0 @@
-macDetailCallback("8002f4500000/28",[{"d":"2022-03-30","t":"add","s":"ieee-mam.csv","a":"No. 1707, Unit 1, Building 1, 888, Middle Section of Yizhou Avenue, Gaoxin District Chengdu Sichuan CN 650000","c":"CN","o":"Sichuan Fanyi Technology Co. Ltd."}]);

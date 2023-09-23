@@ -1,1 +1,0 @@
-macDetailCallback("1c4840000000/24",[{"d":"2014-05-24","t":"add","a":"Dieselstr. 55\nHeiligenhaus NRW D-42579\n\n","c":"GERMANY","o":"IMS Messsysteme GmbH"},{"d":"2015-08-27","t":"change","a":"Dieselstr. 55 Heiligenhaus NRW DE D-42579","c":"DE","o":"IMS Messsysteme GmbH"}]);

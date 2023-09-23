@@ -1,1 +1,0 @@
-macDetailCallback("2c265f600000/28",[{"a":"13F., No.213, Sec. 3, Beixin Rd., Xindian Dist., New Taipei City 231, Taiwan (R.O.C.) Xindian Dist New Taipei City TW 231","o":"Appostar Technology Co. Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);

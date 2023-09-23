@@ -1,1 +1,0 @@
-macDetailCallback("000df8000000/24",[{"d":"2003-09-08","t":"add","a":"Konrad-Zuse-Ring 1\nFlintbek Schleswig-Holstein 24220\n\n","c":"GERMANY","o":"ORGA Kartensysteme GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Konrad-Zuse-Ring 1 Flintbek Schleswig-Holstein DE 24220","c":"DE","o":"ORGA Kartensysteme GmbH"}]);

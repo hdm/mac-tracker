@@ -1,1 +1,0 @@
-macDetailCallback("906976000000/24",[{"d":"2021-03-13","t":"add","s":"ieee-oui.csv","a":"#1001, Seoul Forest M-tower, 31, Ttukseom-ro 1-gil, Seongdong-gu Seoul Seoul KR 04778","c":"KR","o":"Withrobot Inc."}]);

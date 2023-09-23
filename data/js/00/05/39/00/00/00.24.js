@@ -1,1 +1,0 @@
-macDetailCallback("000539000000/24",[{"d":"2001-02-02","t":"add","a":"Box 1223\nSE-164 28 KISTA\n\n","c":"SWEDEN","o":"A Brand New World in Sweden AB"},{"d":"2015-08-27","t":"change","a":"Box 1223   SE","c":"SE","o":"A Brand New World in Sweden AB"}]);

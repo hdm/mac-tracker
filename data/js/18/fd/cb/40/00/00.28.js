@@ -1,1 +1,0 @@
-macDetailCallback("18fdcb400000/28",[{"d":"2020-07-23","t":"add","s":"ieee-mam.csv","a":"6F,2819 KaiChuang Blvd.,Science Town,Huangpu District Guangzhou City Guangdong CN 510530","c":"CN","o":"Gosuncn Technology Group Co.,LTD."}]);

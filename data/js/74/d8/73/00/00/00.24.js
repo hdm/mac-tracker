@@ -1,1 +1,0 @@
-macDetailCallback("74d873000000/24",[{"d":"2022-06-24","t":"add","s":"ieee-oui.csv","a":"No.168, Middle Road Of East Gate Xiaobian Community Chang'an Town CN 523851","c":"CN","o":"GUANGDONG GENIUS TECHNOLOGY CO., LTD."}]);

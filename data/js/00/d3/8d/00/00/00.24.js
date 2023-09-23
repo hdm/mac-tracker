@@ -1,1 +1,0 @@
-macDetailCallback("00d38d000000/24",[{"d":"2010-08-05","t":"add","a":"650 E. Algonquin Road\nSte 207\nSchaumburg IL 60173\n","c":"UNITED STATES","o":"Hotel Technology Next Generation"},{"d":"2015-08-27","t":"change","a":"650 E. Algonquin Road Schaumburg IL US 60173","c":"US","o":"Hotel Technology Next Generation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("002526000000/24",[{"d":"2009-02-08","t":"add","a":"Klingelnberg Bldg.\n1-13-12 Shin-Yokohama Kouhoku-ku\nYokohama Kanagawa 222-0033\n","c":"JAPAN","o":"Genuine Technologies Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Klingelnberg Bldg. Yokohama Kanagawa JP 222-0033","c":"JP","o":"Genuine Technologies Co., Ltd."}]);

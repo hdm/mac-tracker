@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64e8f000/36",[{"d":"2023-03-03","t":"add","s":"ieee-oui36.csv","a":"Room 102, 1st Floor, Beijing Jizhida Scientific Research Building, No. 1 Institute, Development Road, Beijing International Information Industry Base, Huilongguan, Changping District, Beijing Beijing Beijing CN 102206","c":"CN","o":"JieChuang HeYi(Beijing) Technology Co., Ltd."}]);

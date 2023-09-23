@@ -1,1 +1,0 @@
-macDetailCallback("000f43000000/24",[{"d":"2004-01-23","t":"add","a":"500 E. Main Street\nSuite 1520\nNorfolk VA 23510\n","c":"UNITED STATES","o":"Wasabi Systems Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"500 E. Main Street Norfolk VA US 23510","c":"US","o":"Wasabi Systems Inc."}]);

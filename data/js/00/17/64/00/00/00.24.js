@@ -1,1 +1,0 @@
-macDetailCallback("001764000000/24",[{"d":"2006-03-06","t":"add","a":"Stuhlsatzenhausweg 69\nSaarbruecken Saarland 66123\n\n","c":"GERMANY","o":"ATMedia GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Stuhlsatzenhausweg 69 Saarbruecken Saarland DE 66123","c":"DE","o":"ATMedia GmbH"}]);

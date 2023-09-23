@@ -1,1 +1,0 @@
-macDetailCallback("002230000000/24",[{"d":"2008-06-18","t":"add","a":"425 E. Colorado St., Ste. 100\nGlendale CA 91205\n\n","c":"UNITED STATES","o":"FutureLogic Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"425 E. Colorado St., Ste. 100 Glendale CA US 91205","c":"US","o":"FutureLogic Inc."}]);

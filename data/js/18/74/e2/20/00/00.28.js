@@ -1,1 +1,0 @@
-macDetailCallback("1874e2200000/28",[{"d":"2021-04-03","t":"add","s":"ieee-mam.csv","a":"5D4, Block CD, Tianji Building, Tian'an Digital City, Futian District, Shenzhen Shenzhen Guangdong?China CN 518040","c":"CN","o":"Shenzhen WITSTECH Co.,Ltd."}]);

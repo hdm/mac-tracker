@@ -1,1 +1,0 @@
-macDetailCallback("0438dc000000/24",[{"d":"2023-04-15","t":"add","s":"ieee-oui.csv","a":"133 Xidan North St, Xicheng District, Beijing Beijing  CN 100000","c":"CN","o":"China Unicom Online Information Technology Co.,Ltd"}]);

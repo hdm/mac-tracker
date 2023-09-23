@@ -1,1 +1,0 @@
-macDetailCallback("0009ac000000/24",[{"d":"2002-03-29","t":"add","a":"1364-39 SeochoDong, #201 Jihun Bldg\nSeocho-Gu\nSeoul  137-072\n","c":"KOREA, REPUBLIC OF","o":"LANVOICE","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1364-39 SeochoDong, #201 Jihun Bldg Seoul  KR 137-072","c":"KR","o":"LANVOICE"}]);

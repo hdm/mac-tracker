@@ -1,1 +1,0 @@
-macDetailCallback("000c51000000/24",[{"d":"2003-02-07","t":"add","a":"6550 Dumbarton Circle\nFremont CA 94560\n\n","c":"UNITED STATES","o":"Scientific Technologies Inc."},{"d":"2015-08-27","t":"change","a":"6550 Dumbarton Circle Fremont CA US 94560","c":"US","o":"Scientific Technologies Inc."}]);

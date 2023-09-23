@@ -1,1 +1,0 @@
-macDetailCallback("001eeb000000/24",[{"d":"2007-12-31","t":"add","a":"5013 N. Kedzie Ave.\nChicago IL 60625\n\n","c":"UNITED STATES","o":"Talk-A-Phone Co."},{"d":"2015-08-27","t":"change","a":"5013 N. Kedzie Ave. Chicago IL US 60625","c":"US","o":"Talk-A-Phone Co."}]);

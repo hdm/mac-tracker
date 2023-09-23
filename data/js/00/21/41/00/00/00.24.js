@@ -1,1 +1,0 @@
-macDetailCallback("002141000000/24",[{"d":"2008-06-18","t":"add","a":"4 Hanechoshet St.\nTel Aviv  69710\n\n","c":"ISRAEL","o":"RADLIVE","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4 Hanechoshet St. Tel Aviv  IL 69710","c":"IL","o":"RADLIVE"}]);

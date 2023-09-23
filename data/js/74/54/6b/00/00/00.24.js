@@ -1,1 +1,0 @@
-macDetailCallback("74546b000000/24",[{"d":"2023-02-24","t":"add","s":"ieee-oui.csv","a":"706-707, baiyun building-2,\nNo. 190 tiancheng road hangzhou zhejiang CN 310007","c":"CN","o":"hangzhou zhiyi communication co., ltd"}]);

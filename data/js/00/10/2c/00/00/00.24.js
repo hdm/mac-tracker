@@ -1,1 +1,0 @@
-macDetailCallback("00102c000000/24",[{"d":"1998-04-22","t":"add","a":"AMALILEGADE 22\nDK-1256 KOBENHAVNK\n\n","c":"DENMARK","o":"PNP TECHNOLOGY A/S"},{"d":"2000-11-09","t":"change","a":"Skalhuse 13\nSK-9240 Nibe\n\n","c":"DENMARK","o":"Lasat Networks A/S"},{"d":"2015-08-27","t":"change","a":"Skalhuse 13 SK-9240 Nibe  DK","c":"DK","o":"Lasat Networks A/S"}]);

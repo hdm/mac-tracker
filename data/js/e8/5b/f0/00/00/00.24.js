@@ -1,1 +1,0 @@
-macDetailCallback("e85bf0000000/24",[{"d":"2012-06-15","t":"add","a":"POB 698\nNes Ziona  74106\n\n","c":"ISRAEL","o":"Imaging Diagnostics"},{"d":"2015-08-27","t":"change","a":"POB 698 Nes Ziona N/A IL 74106","c":"IL","o":"Imaging Diagnostics"}]);

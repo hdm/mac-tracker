@@ -1,1 +1,0 @@
-macDetailCallback("041119200000/28",[{"d":"2020-12-15","t":"add","s":"ieee-mam.csv","a":"2346, 17th Cross, HSR Layout Bangalore Karnataka IN 560102","c":"IN","o":"Alethea Communications Technologies Pvt. Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("045d56000000/24",[{"d":"2010-06-18","t":"add","a":"5F, Kuem-Ah B/D, 31-3, Karak-dong, Songpa-gu\nSeoul  138-801\n\n","c":"KOREA, REPUBLIC OF","o":"camtron industrial inc."},{"d":"2015-08-27","t":"change","a":"5F, Kuem-Ah B/D, 31-3, Karak-dong, Songpa-gu Seoul  KR 138-801","c":"KR","o":"camtron industrial inc."}]);

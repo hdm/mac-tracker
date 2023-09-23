@@ -1,1 +1,0 @@
-macDetailCallback("183825000000/24",[{"d":"2011-08-16","t":"add","a":"No.718\nLuyu Road\nWuhan Hubei 430074\n","c":"CHINA","o":"Wuhan Lingjiu High-tech Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"No.718 Wuhan Hubei CN 430074","c":"CN","o":"Wuhan Lingjiu High-tech Co.,Ltd."}]);

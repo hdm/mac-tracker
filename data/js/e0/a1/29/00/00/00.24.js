@@ -1,1 +1,0 @@
-macDetailCallback("e0a129000000/24",[{"d":"2023-03-08","t":"add","s":"ieee-oui.csv","a":"6480 Via Del Oro San Jose CA US 95119","c":"US","o":"Extreme Networks, Inc."},{"d":"2023-07-15","t":"change","s":"ieee-oui.csv","a":"2121 RDU Center Drive Morrisville NC US 27560","c":"US","o":"Extreme Networks Headquarters"}]);

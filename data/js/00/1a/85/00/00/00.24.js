@@ -1,1 +1,0 @@
-macDetailCallback("001a85000000/24",[{"d":"2006-11-29","t":"add","a":"M. Vandewielestraat 7\nMarke West-Vlaanderen 8510\n\n","c":"BELGIUM","o":"NV Michel Van de Wiele"},{"d":"2015-08-27","t":"change","a":"M. Vandewielestraat 7 Marke West-Vlaanderen BE 8510","c":"BE","o":"NV Michel Van de Wiele"}]);

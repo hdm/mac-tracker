@@ -1,1 +1,0 @@
-macDetailCallback("800dd7000000/24",[{"d":"2015-12-01","t":"add","a":"333 Cobalt Way, Suite 108\nSunnyvale  CA  94085\n\n","c":"US","o":"Latticework, Inc"},{"d":"2018-06-30","t":"change","a":"2210 O'Toole Ave, Suite 250 San Jose CA US 95131","c":"US","o":"Latticework, Inc"}]);

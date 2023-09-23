@@ -1,1 +1,0 @@
-macDetailCallback("000a01000000/24",[{"d":"2002-06-05","t":"add","a":"3050 Coronado Drive\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"SOHOware, Inc."},{"d":"2015-08-27","t":"change","a":"3050 Coronado Drive Santa Clara CA US 95054","c":"US","o":"SOHOware, Inc."}]);

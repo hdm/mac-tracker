@@ -1,1 +1,0 @@
-macDetailCallback("000bb8000000/24",[{"d":"2002-11-19","t":"add","a":"Marukatubiru 3F 4-9-6\nNihonbashi Naniwa-ku\nOsakashi Osaka-hu 556-0005\n","c":"JAPAN","o":"Kihoku Electronic Co.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Marukatubiru 3F 4-9-6 Osakashi Osaka-hu JP 556-0005","c":"JP","o":"Kihoku Electronic Co."}]);

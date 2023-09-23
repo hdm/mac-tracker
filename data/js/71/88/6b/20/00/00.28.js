@@ -1,1 +1,0 @@
-macDetailCallback("71886b200000/28",[{"d":"2015-09-01","t":"add","a":"111, Maeyeong-ro 345beon-gil, Yeongtong-gu\nSuwon-si  Gyeonggi-do  16703\n\n","c":"KR","o":"CVnet"},{"d":"2015-09-02","t":"delete","a":"111, Maeyeong-ro 345beon-gil, Yeongtong-gu\nSuwon-si  Gyeonggi-do  16703\n\n","c":"KR","o":"CVnet"}]);

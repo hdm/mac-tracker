@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5e17000/36",[{"a":"","o":"Private","d":"2017-07-16","t":"add","s":"ieee"},{"d":"2018-11-28","t":"change","s":"ieee-oui36.csv","a":"120 Knowles Drive Los Gatos CA US 95032","c":"US","o":"SA Photonics"}]);

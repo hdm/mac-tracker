@@ -1,1 +1,0 @@
-macDetailCallback("d42dc5000000/24",[{"d":"2019-08-25","t":"add","s":"ieee-oui.csv","a":"4-1-62 Minoshima, Hakata-ku Fukuoka City   JP 812-8531","c":"JP","o":"Panasonic i-PRO Sensing Solutions Co., Ltd."},{"d":"2022-05-20","t":"change","s":"ieee-oui.csv","a":"4-1-62 Minoshima, Hakata-ku Fukuoka City   JP 812-8531","c":"JP","o":"i-PRO Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0021af000000/24",[{"d":"2008-06-18","t":"add","a":"Kabelkamp 20\nHannover  30179\n\n","c":"GERMANY","o":"Radio Frequency Systems","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kabelkamp 20 Hannover  DE 30179","c":"DE","o":"Radio Frequency Systems"}]);

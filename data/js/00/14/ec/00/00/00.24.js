@@ -1,1 +1,0 @@
-macDetailCallback("0014ec000000/24",[{"d":"2005-06-17","t":"add","a":"714 Woolim e-Biz Center 170-5 Guro-dong\nGuro-Gu Seoul 152-769\n\n","c":"KOREA, REPUBLIC OF","o":"Acro Telecom"},{"d":"2015-08-27","t":"change","a":"714 Woolim e-Biz Center 170-5 Guro-dong Guro-Gu Seoul KR 152-769","c":"KR","o":"Acro Telecom"}]);

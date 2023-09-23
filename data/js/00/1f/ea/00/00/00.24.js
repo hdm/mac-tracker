@@ -1,1 +1,0 @@
-macDetailCallback("001fea000000/24",[{"d":"2008-02-09","t":"add","a":"4091 AMTC Center Drive\nClearwater FL 33764\n\n","c":"UNITED STATES","o":"Applied Media Technologies Corporation"},{"d":"2015-08-27","t":"change","a":"4091 AMTC Center Drive Clearwater FL US 33764","c":"US","o":"Applied Media Technologies Corporation"}]);

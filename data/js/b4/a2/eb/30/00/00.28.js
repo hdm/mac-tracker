@@ -1,1 +1,0 @@
-macDetailCallback("b4a2eb300000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"ZPark 27# QianFang Science Building C,  Haidian District, Beijing, China. Beijing Beijing CN 100094","c":"CN","o":"Canaan Creative Co.,Ltd."}]);

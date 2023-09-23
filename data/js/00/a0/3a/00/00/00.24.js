@@ -1,1 +1,0 @@
-macDetailCallback("00a03a000000/24",[{"d":"1998-04-22","t":"add","a":"56 NISHIAKETA-CHO, HIGASHIKUJO\nMINAMI-KU, KYOTO 601\n\n","c":"JAPAN","o":"KUBOTEK CORPORATION"},{"d":"2015-08-27","t":"change","a":"56 NISHIAKETA-CHO, HIGASHIKUJO   JP","c":"JP","o":"KUBOTEK CORPORATION"}]);

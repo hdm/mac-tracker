@@ -1,1 +1,0 @@
-macDetailCallback("00142e000000/24",[{"d":"2005-04-01","t":"add","a":"FehÃ©rvÃ¡ri Ãºt 98.\nBudapest H-1116\n\n","c":"HUNGARY","o":"77 Elektronika Kft."},{"d":"2005-05-07","t":"change","a":"Fehervari ut 98.\nBudapest H-1163\n\n","c":"HUNGARY","o":"77 Elektronika Kft."},{"d":"2015-08-27","t":"change","a":"Fehervari ut 98.  Budapest HU H-1163","c":"HU","o":"77 Elektronika Kft."}]);

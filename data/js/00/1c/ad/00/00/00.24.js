@@ -1,1 +1,0 @@
-macDetailCallback("001cad000000/24",[{"d":"2007-05-29","t":"add","a":"88 Youkeyuan Road,Hongshan District\nWuhan Hubei 430074\n\n","c":"CHINA","o":"Wuhan Telecommunication Devices Co.,Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"88 Youkeyuan Road,Hongshan District Wuhan Hubei CN 430074","c":"CN","o":"Wuhan Telecommunication Devices Co.,Ltd"}]);

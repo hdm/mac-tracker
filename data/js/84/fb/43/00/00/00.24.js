@@ -1,1 +1,0 @@
-macDetailCallback("84fb43000000/24",[{"d":"2022-06-17","t":"add","s":"ieee-oui.csv","a":"#913 9th Kanagawa Science Park R&D Business Park building B,  \n3-2-1 Sakado, Takatsu-ku, Kawasaki City Kanagawa Prefecture JP 213-0012","c":"JP","o":"Central Denshi Seigyo"}]);

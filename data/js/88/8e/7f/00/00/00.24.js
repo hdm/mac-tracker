@@ -1,1 +1,0 @@
-macDetailCallback("888e7f000000/24",[{"d":"2021-04-03","t":"add","s":"ieee-oui.csv","a":"ATOP Information Harbor, Jinjialin Experimental Economic Zone, Mianyang City, Sichuan Province, China Mianyang  CN 621000","c":"CN","o":"ATOP CORPORATION"}]);

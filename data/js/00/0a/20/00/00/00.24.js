@@ -1,1 +1,0 @@
-macDetailCallback("000a20000000/24",[{"d":"2002-06-05","t":"add","a":"840 F Ave., Suite 104\nPlano TX 75074\n\n","c":"UNITED STATES","o":"SVA Networks, Inc."},{"d":"2015-08-27","t":"change","a":"840 F Ave., Suite 104 Plano TX US 75074","c":"US","o":"SVA Networks, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("845787000000/24",[{"d":"2012-01-05","t":"add","a":"7F 720 Namkwang Centlex Bldg, Cheongcheon-dong, Bupyeong-gu\nIncheon  403-030\n\n","c":"KOREA, REPUBLIC OF","o":"DVR C&C Co., Ltd."},{"d":"2015-08-27","t":"change","a":"7F 720 Namkwang Centlex Bldg, Cheongcheon-dong, Bupyeong-gu Incheon  KR 403-030","c":"KR","o":"DVR C&C Co., Ltd."}]);

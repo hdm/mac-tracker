@@ -1,1 +1,0 @@
-macDetailCallback("58208a800000/28",[{"d":"2020-07-24","t":"add","s":"ieee-mam.csv","a":"8F, Woolim Lion's Valley 3cha, 24 Dunchon Daero 388beon-gil, Jungwon-gu Seongnam-si Gyeonggi-do, KOREA KR 13403","c":"KR","o":"SAMIL CTS Co., Ltd."}]);

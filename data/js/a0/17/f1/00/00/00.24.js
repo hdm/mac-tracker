@@ -1,1 +1,0 @@
-macDetailCallback("a017f1000000/24",[{"d":"2022-08-12","t":"add","s":"ieee-oui.csv","a":"No.9 Technology Road 2, High-Tech Zone Zhuhai Guangdong CN 519085","c":"CN","o":"Allwinner Technology Co., Ltd"}]);

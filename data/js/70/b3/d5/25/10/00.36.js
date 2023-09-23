@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5251000/36",[{"d":"2018-10-30","t":"add","s":"ieee-oui36.csv","a":"Hošťálkova 633/49 Praha 6  CZ 16900","c":"CZ","o":"PixelApps s.r.o."},{"d":"2023-01-20","t":"change","s":"ieee-oui36.csv","a":"Hošťálkova 633/49 Praha 6  CZ 16900","c":"CZ","o":"Tap Home, s.r.o."}]);

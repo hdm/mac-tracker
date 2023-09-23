@@ -1,1 +1,0 @@
-macDetailCallback("c808e9000000/24",[{"d":"2014-11-01","t":"add","a":"222 LG-ro, JINWI-MYEON\nPyeongtaek-si Gyeonggi-do 451-713\n\n","c":"KOREA, REPUBLIC OF","o":"LG Electronics"},{"d":"2015-08-27","t":"change","a":"222 LG-ro, JINWI-MYEON Pyeongtaek-si Gyeonggi-do KR 451-713","c":"KR","o":"LG Electronics"}]);

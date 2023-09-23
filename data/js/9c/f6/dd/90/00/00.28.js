@@ -1,1 +1,0 @@
-macDetailCallback("9cf6dd900000/28",[{"a":"Luoyang High-tech District, Chuncheng Road 16th. Luoyang Henan CN 471003","o":"CAMA（Luoyang）Electronics Co.，Ltd","d":"2018-05-06","t":"add","s":"ieee","c":"CN"}]);

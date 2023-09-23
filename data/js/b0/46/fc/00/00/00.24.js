@@ -1,1 +1,0 @@
-macDetailCallback("b046fc000000/24",[{"d":"2012-07-07","t":"add","a":"No. 6, Innovation Road II,\nHsinchu Science Park\nHsinchu  300\n","c":"TAIWAN, PROVINCE OF CHINA","o":"MitraStar Technology Corp."},{"d":"2015-08-27","t":"change","a":"No. 6, Innovation Road II, Hsinchu  TW 300","c":"TW","o":"MitraStar Technology Corp."}]);

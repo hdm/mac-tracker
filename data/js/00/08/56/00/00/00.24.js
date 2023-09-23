@@ -1,1 +1,0 @@
-macDetailCallback("000856000000/24",[{"d":"2001-12-14","t":"add","a":"Hartum Street 14\nJerusalem 97774\n\n","c":"ISRAEL","o":"Gamatronic Electronic Industries Ltd."},{"d":"2015-08-27","t":"change","a":"Hartum Street 14   IL","c":"IL","o":"Gamatronic Electronic Industries Ltd."}]);

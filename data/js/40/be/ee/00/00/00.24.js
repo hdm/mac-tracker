@@ -1,1 +1,0 @@
-macDetailCallback("40beee000000/24",[{"d":"2021-01-16","t":"add","s":"ieee-oui.csv","a":"32G, Tower E, CR Land Building, Tong Gu Road 5#, Nanshan District,,Guangdong,CN  Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Yunding Information Technology Co.,Ltd"}]);

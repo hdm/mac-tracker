@@ -1,1 +1,0 @@
-macDetailCallback("98c81c000000/24",[{"d":"2022-02-20","t":"add","s":"ieee-oui.csv","a":"107C, 31/f, The gateway, Tower 5, Harbour City, 15 canton road, Tsim Sha Tsui, Hong Kong Harbour  HK 999077","c":"HK","o":"BAYTEC LIMITED"}]);

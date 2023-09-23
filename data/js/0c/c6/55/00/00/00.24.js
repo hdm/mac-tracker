@@ -1,1 +1,0 @@
-macDetailCallback("0cc655000000/24",[{"d":"2012-09-13","t":"add","a":"Room 1801,18F, North Star Times Tower,\nNo.8,Beichen East Road\nChaoyang District Beijing 100101\n","c":"CHINA","o":"Wuxi YSTen Technology Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"Room 1801,18F, North Star Times Tower, Chaoyang District Beijing CN 100101","c":"CN","o":"Wuxi YSTen Technology Co.,Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0050c25bc000/36",[{"a":"A-406, GD Soft Science Park, No.11 CaiPin Rd, GZ Science City, GuangZhou GuangDong CN 510663","o":"Guangzhou Hui Si Information Technologies Inc.","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("38a8cd800000/28",[{"d":"2021-07-16","t":"add","s":"ieee-mam.csv","a":"8F-12, No.121, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City  TW 100","c":"TW","o":"Max Way Electronics Co., Ltd."}]);

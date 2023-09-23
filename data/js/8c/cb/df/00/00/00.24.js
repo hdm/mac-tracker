@@ -1,1 +1,0 @@
-macDetailCallback("8ccbdf000000/24",[{"d":"2022-02-24","t":"add","s":"ieee-oui.csv","a":"66-1 Zhongshan Road, Tucheng District New Taipei City Taiwan TW 23680","c":"TW","o":"FOXCONN INTERCONNECT TECHNOLOGY"}]);

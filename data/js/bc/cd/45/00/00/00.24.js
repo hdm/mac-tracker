@@ -1,1 +1,0 @@
-macDetailCallback("bccd45000000/24",[{"d":"2011-02-17","t":"add","a":"VIA BENIGNO CRESPI 12\nMILANO  20159\n\n","c":"ITALY","o":"VOISMART"},{"d":"2015-08-27","t":"change","a":"VIA BENIGNO CRESPI 12 MILANO  IT 20159","c":"IT","o":"VOISMART"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c467b5000000/24",[{"d":"2011-10-28","t":"add","a":"Mileparken 20E\nSkovlunde  2740\n\n","c":"DENMARK","o":"Libratone A/S"},{"d":"2015-03-17","t":"change","a":"Marielundvej 43 A\n2730 HERLEV\n\n","c":"DENMARK","o":"Libratone A/S"},{"d":"2015-08-27","t":"change","a":"Marielundvej 43 A 2730 HERLEV  DK","c":"DK","o":"Libratone A/S"}]);

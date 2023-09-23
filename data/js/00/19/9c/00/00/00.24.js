@@ -1,1 +1,0 @@
-macDetailCallback("00199c000000/24",[{"d":"2006-09-25","t":"add","a":"#514, World Meridian Venture Center II\nGasna-dong\nKeumcheon-gu Seoul 153-803\n","c":"KOREA, REPUBLIC OF","o":"CTRING"},{"d":"2015-08-27","t":"change","a":"#514, World Meridian Venture Center II Keumcheon-gu Seoul KR 153-803","c":"KR","o":"CTRING"}]);

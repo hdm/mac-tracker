@@ -1,1 +1,0 @@
-macDetailCallback("0018ca000000/24",[{"d":"2006-07-01","t":"add","a":"Basilikastrasse 3\nBingen am Rhein  55411\n\n","c":"GERMANY","o":"Viprinet GmbH"},{"d":"2012-11-29","t":"change","a":"BasilikastraÃe 3\nBingen am Rhein  55411\n\n","c":"GERMANY","o":"Viprinet GmbH"},{"d":"2015-08-27","t":"change","a":"Basilikastraße 3 Bingen am Rhein  DE 55411","c":"DE","o":"Viprinet GmbH"}]);

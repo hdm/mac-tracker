@@ -1,1 +1,0 @@
-macDetailCallback("001cfe000000/24",[{"d":"2007-06-16","t":"add","a":"15241 Laguna Canyon Road\nSte 200\nIrvine CA 92618\n","c":"UNITED STATES","o":"Quartics Inc"},{"d":"2015-08-27","t":"change","a":"15241 Laguna Canyon Road Irvine CA US 92618","c":"US","o":"Quartics Inc"}]);

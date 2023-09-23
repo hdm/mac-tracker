@@ -1,1 +1,0 @@
-macDetailCallback("148f21000000/24",[{"d":"2014-10-09","t":"add","a":"1200 E. 151st St\nOlathe KS 66062\n\n","c":"UNITED STATES","o":"Garmin International"},{"d":"2015-08-27","t":"change","a":"1200 E. 151st St Olathe KS US 66062","c":"US","o":"Garmin International"}]);

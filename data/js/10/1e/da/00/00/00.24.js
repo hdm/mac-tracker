@@ -1,1 +1,0 @@
-macDetailCallback("101eda000000/24",[{"d":"2021-02-24","t":"add","s":"ieee-oui.csv","a":"28-32 Boulevard de Grenelle PARIS  FR 75015","c":"FR","o":"INGENICO TERMINALS SAS"},{"d":"2023-08-09","t":"change","s":"ieee-oui.csv","a":"13-17 Rue Pagès Suresnes  FR 92150","c":"FR","o":"INGENICO TERMINALS SAS"}]);

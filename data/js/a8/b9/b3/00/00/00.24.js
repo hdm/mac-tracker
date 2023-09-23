@@ -1,1 +1,0 @@
-macDetailCallback("a8b9b3000000/24",[{"d":"2013-11-22","t":"add","a":"Daerung Post Tower 5 15F\n60-3\nSeoul Gasan-Dong, Geumchen-gu 153-702\n","c":"KOREA, REPUBLIC OF","o":"ESSYS"},{"d":"2015-08-27","t":"change","a":"Daerung Post Tower 5 15F Seoul Gasan-Dong, Geumchen-gu KR 153-702","c":"KR","o":"ESSYS"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("50008c000000/24",[{"d":"2011-11-10","t":"add","a":"41/F, PCCW Tower, Taikoo Place,\nQuarry Bay,\n\n","c":"HONG KONG","o":"Hong Kong Telecommunications (HKT) Limited"},{"d":"2015-08-27","t":"change","a":"41/F, PCCW Tower, Taikoo Place,   HK","c":"HK","o":"Hong Kong Telecommunications (HKT) Limited"}]);

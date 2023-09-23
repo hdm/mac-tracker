@@ -1,1 +1,0 @@
-macDetailCallback("20ff36000000/24",[{"d":"2020-10-13","t":"add","s":"ieee-oui.csv","a":"National Intelligent Speech High-tech Industrialization Base, No. 666, Wangjiang Road West, Hefei An hui CN 230088","c":"CN","o":"IFLYTEK CO.,LTD."}]);

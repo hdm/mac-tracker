@@ -1,1 +1,0 @@
-macDetailCallback("ccd39d000000/28",[{"d":"2019-07-01","t":"add","s":"ieee-mam.csv","a":"6F Nippatsu Nishiguchi Bldg 3-32-1 Tsuruya-cho Kanagawa-ku Yokohama-shi Kanagawa JP 221-0835","c":"JP","o":"INX CO.,LTD."}]);

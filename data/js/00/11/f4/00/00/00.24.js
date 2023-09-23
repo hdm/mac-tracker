@@ -1,1 +1,0 @@
-macDetailCallback("0011f4000000/24",[{"d":"2004-07-24","t":"add","a":"#508, Hankook Moolyu, 853-1 Dongchun-Dong\nYongin-Si Kyungki-Do 449-843\n\n","c":"KOREA, REPUBLIC OF","o":"woori-net"},{"d":"2015-08-27","t":"change","a":"#508, Hankook Moolyu, 853-1 Dongchun-Dong Yongin-Si Kyungki-Do KR 449-843","c":"KR","o":"woori-net"}]);

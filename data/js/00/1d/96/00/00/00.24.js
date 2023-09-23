@@ -1,1 +1,0 @@
-macDetailCallback("001d96000000/24",[{"d":"2007-08-18","t":"add","a":"3001 Summit Ave.\nPlano TX 75074\n\n","c":"UNITED STATES","o":"WatchGuard Video"},{"d":"2015-08-27","t":"change","a":"3001 Summit Ave. Plano TX US 75074","c":"US","o":"WatchGuard Video"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("a0caa5000000/24",[{"d":"2020-04-10","t":"add","s":"ieee-oui.csv","a":"Tower A, NO.2 Lutuan Road, The sountern Of Future Science and Tech Zone, Changping District Beijing Beijing CN 102209","c":"CN","o":"INTELLIGENCE TECHNOLOGY OF CEC CO., LTD"}]);

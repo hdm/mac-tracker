@@ -1,1 +1,0 @@
-macDetailCallback("d85b22000000/24",[{"d":"2022-11-13","t":"add","s":"ieee-oui.csv","a":"8th floor, block a, Huahan technology building, No.16, Langshan Road, North District, Science Park, Nanshan District, Shenzhen Shenzhen Gongdong CN 518000","c":"CN","o":"Shenzhen Hohunet Technology Co., Ltd"}]);

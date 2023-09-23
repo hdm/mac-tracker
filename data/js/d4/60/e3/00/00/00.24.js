@@ -1,1 +1,0 @@
-macDetailCallback("d460e3000000/24",[{"d":"2017-09-29","t":"add","a":"violet_liu@sercomm.com\nMiao-Lih Hsuan    115\n\n","c":"TW","o":"Sercomm Corporation."},{"d":"2018-02-15","t":"change","a":"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsuan  TW 115","c":"TW","o":"Sercomm Corporation."}]);

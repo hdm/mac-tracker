@@ -1,1 +1,0 @@
-macDetailCallback("000725000000/24",[{"d":"2001-10-24","t":"add","a":"5895 Shiloh Road\nSuite 111\nAlpharetta GA 30005\n","c":"UNITED STATES","o":"Bematech International Corp."},{"d":"2015-08-27","t":"change","a":"5895 Shiloh Road Alpharetta GA US 30005","c":"US","o":"Bematech International Corp."}]);

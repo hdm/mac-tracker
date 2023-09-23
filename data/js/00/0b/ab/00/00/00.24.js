@@ -1,1 +1,0 @@
-macDetailCallback("000bab000000/24",[{"d":"2002-11-19","t":"add","a":"No.666, Han-Pu Rd. Yu-Shan\nKun-Shan Jiang Su 215316\n\n","c":"CHINA","o":"Advantech Technology (CHINA) Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"No.666, Han-Pu Rd. Yu-Shan Kun-Shan Jiang Su CN 215316","c":"CN","o":"Advantech Technology (CHINA) Co., Ltd."}]);

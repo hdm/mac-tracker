@@ -1,1 +1,0 @@
-macDetailCallback("0007d6000000/24",[{"d":"2001-10-24","t":"add","a":"P.O. Box 10050\nPetah Tikva 49001\n\n","c":"ISRAEL","o":"Commil Ltd."},{"d":"2015-08-27","t":"change","a":"P.O. Box 10050   IL","c":"IL","o":"Commil Ltd."}]);

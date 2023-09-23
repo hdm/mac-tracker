@@ -1,1 +1,0 @@
-macDetailCallback("604826000000/24",[{"d":"2014-05-22","t":"add","a":"35/F Central Plaza\n18 Harbour Road Wanchai,\nHong Kong\n","c":"CHINA","o":"Newbridge Technologies Int. Ltd."},{"d":"2015-08-27","t":"change","a":"35/F Central Plaza Hong Kong  CN","c":"CN","o":"Newbridge Technologies Int. Ltd."}]);

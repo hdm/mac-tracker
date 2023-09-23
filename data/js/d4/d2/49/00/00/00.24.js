@@ -1,1 +1,0 @@
-macDetailCallback("d4d249000000/24",[{"d":"2011-08-23","t":"add","a":"4th Floor, Holborn Gate\n26 Southampton Buildings\nLondon  WC2A 1AH\n","c":"UNITED KINGDOM","o":"Power Ethernet"},{"d":"2015-08-27","t":"change","a":"4th Floor, Holborn Gate London  GB WC2A 1AH","c":"GB","o":"Power Ethernet"}]);

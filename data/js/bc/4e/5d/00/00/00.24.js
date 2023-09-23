@@ -1,1 +1,0 @@
-macDetailCallback("bc4e5d000000/24",[{"d":"2014-04-11","t":"add","a":"NO.2009 Lihu Avenue,  WuxiStudioA-A3\nWuxi Jiangsu 214000\n\n","c":"CHINA","o":"ZhongMiao Technology Co., Ltd."},{"d":"2015-08-27","t":"change","a":"NO.2009 Lihu Avenue,  WuxiStudioA-A3 Wuxi Jiangsu CN 214000","c":"CN","o":"ZhongMiao Technology Co., Ltd."}]);

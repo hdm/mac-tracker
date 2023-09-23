@@ -1,1 +1,0 @@
-macDetailCallback("000a0f000000/24",[{"d":"2002-06-05","t":"add","a":"Ilryung bldg, 34-2, Cheonho-dong\nGangdong-gu\nSEOUL  134-861\n","c":"KOREA, REPUBLIC OF","o":"Ilryung Telesys, Inc"},{"d":"2015-08-27","t":"change","a":"Ilryung bldg, 34-2, Cheonho-dong SEOUL  KR 134-861","c":"KR","o":"Ilryung Telesys, Inc"}]);

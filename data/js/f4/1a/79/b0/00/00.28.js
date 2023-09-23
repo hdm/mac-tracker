@@ -1,1 +1,0 @@
-macDetailCallback("f41a79b00000/28",[{"d":"2023-08-29","t":"add","s":"ieee-mam.csv","a":"Plant D401-5, No.3 Keji Road, Zhukeng Community, Longtian Street, Pingshan District Shenzhen Guanddong CN 518118","c":"CN","o":"Shenzhen High Speed Technology Co., Ltd"}]);

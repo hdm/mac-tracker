@@ -1,1 +1,0 @@
-macDetailCallback("f8a4fb000000/24",[{"d":"2022-07-01","t":"add","s":"ieee-oui.csv","a":"Building 3, Zifeng Research and Innovation Park phase II, Qiaolin Street, Pukou District Nanjing Jiangsu CN 211806","c":"CN","o":"Nanjing Decowell Automation Co.,LTD"}]);

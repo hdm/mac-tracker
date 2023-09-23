@@ -1,1 +1,0 @@
-macDetailCallback("70886b700000/28",[{"d":"2015-09-02","t":"add","a":"Waldstr.92\n\n\n","c":"Dietzenbach    63128","o":"Flexoptix GmbH"},{"d":"2015-09-03","t":"change","a":"Waldstr.92\nDietzenbach    63128\n\n","c":"DE","o":"Flexoptix GmbH"},{"d":"2015-10-17","t":"delete","a":"Waldstr.92\nDietzenbach    63128\n\n","c":"DE","o":"Flexoptix GmbH"}]);

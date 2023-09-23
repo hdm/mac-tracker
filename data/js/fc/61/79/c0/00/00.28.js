@@ -1,1 +1,0 @@
-macDetailCallback("fc6179c00000/28",[{"d":"2022-04-29","t":"add","s":"ieee-mam.csv","a":"Room 8B1888, Block AB, New Energy Building, No.2239, Nanhai Avenue, Nanguang Community, Nanshan Street, Nanshan District, Shenzhen Shenzhen  CN 518054","c":"CN","o":"Shenzhen Xmitech Electronic Co.,Ltd"}]);

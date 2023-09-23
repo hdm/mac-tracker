@@ -1,1 +1,0 @@
-macDetailCallback("001c5f000000/24",[{"d":"2007-05-13","t":"add","a":"1950 Excel Drive\nMankato MN 56001\n\n","c":"UNITED STATES","o":"Winland Electronics, Inc."},{"d":"2015-08-27","t":"change","a":"1950 Excel Drive Mankato MN US 56001","c":"US","o":"Winland Electronics, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("60fe1e000000/24",[{"d":"2013-03-22","t":"add","a":"2nd Floor of Building 1\nNo.80, Lane 1505 , ZuChongZhi Road,\nPuDong District Shanghai 201203\n","c":"CHINA","o":"China Palms Telecom.Ltd"},{"d":"2015-08-27","t":"change","a":"2nd Floor of Building 1 PuDong District Shanghai US 201203","c":"US","o":"China Palms Telecom.Ltd"}]);

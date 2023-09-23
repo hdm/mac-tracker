@@ -1,1 +1,0 @@
-macDetailCallback("001ba2000000/24",[{"d":"2007-03-01","t":"add","a":"Dimbacher Str. 6\nObersulm BW 74182\n\n","c":"GERMANY","o":"IDS Imaging Development Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Dimbacher Str. 6 Obersulm BW DE 74182","c":"DE","o":"IDS Imaging Development Systems GmbH"}]);

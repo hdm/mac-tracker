@@ -1,1 +1,0 @@
-macDetailCallback("0011a0000000/24",[{"d":"2004-06-18","t":"add","a":"200-7671 Alderbridge Way\nRichmond BC V6X 1Z9\n\n","c":"CANADA","o":"Vtech Engineering Canada Ltd"},{"d":"2015-08-27","t":"change","a":"200-7671 Alderbridge Way Richmond BC CA V6X 1Z9","c":"CA","o":"Vtech Engineering Canada Ltd"}]);

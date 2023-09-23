@@ -1,1 +1,0 @@
-macDetailCallback("08efab000000/24",[{"d":"2014-08-20","t":"add","a":"Calle Albert Einstein 18, 4a\nEd. Salia - PCTCAN\nSantander Cantabria 39011\n","c":"SPAIN","o":"SAYME WIRELESS SENSOR NETWORK"},{"d":"2015-08-27","t":"change","a":"Calle Albert Einstein 18, 4a Santander Cantabria ES 39011","c":"ES","o":"SAYME WIRELESS SENSOR NETWORK"}]);

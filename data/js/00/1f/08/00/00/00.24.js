@@ -1,1 +1,0 @@
-macDetailCallback("001f08000000/24",[{"d":"2007-12-31","t":"add","a":"32 Hacharoshet St\nKiriat Malachi  83101\n\n","c":"ISRAEL","o":"RISCO LTD"},{"d":"2015-08-27","t":"change","a":"32 Hacharoshet St Kiriat Malachi  IL 83101","c":"IL","o":"RISCO LTD"}]);

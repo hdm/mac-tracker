@@ -1,1 +1,0 @@
-macDetailCallback("e4121d000000/24",[{"d":"2013-11-19","t":"add","a":"Samsung Electronics\n#94-1, Imsoo-Dong\nGumi Gyeongbuk 730-350\n","c":"KOREA, REPUBLIC OF","o":"Samsung Electronics Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"#94-1,Imsoo-Dong Gumi Gyeongbuk KR 730-350","c":"KR","o":"Samsung Electronics Co.,Ltd"}]);

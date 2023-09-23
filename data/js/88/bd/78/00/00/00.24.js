@@ -1,1 +1,0 @@
-macDetailCallback("88bd78000000/24",[{"d":"2017-02-08","t":"add","a":"7F, Guomai Building, Guomai Science and Technology Park,  116 East JiangBin Road, Fuzhou Fujian CN 350015","c":"CN","o":"Flaircomm Microelectronics,Inc."}]);

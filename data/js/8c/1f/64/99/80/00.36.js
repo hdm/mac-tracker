@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64998000/36",[{"d":"2021-06-23","t":"add","s":"ieee-oui36.csv","a":"1804 Boulevard Lionel-Boulet, Édifice Archimède VARENNES Quebec CA J3X 1S1","c":"CA","o":"EVLO Stockage Énergie"}]);

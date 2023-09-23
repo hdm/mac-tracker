@@ -1,1 +1,0 @@
-macDetailCallback("f0fddd000000/24",[{"d":"2023-08-16","t":"add","s":"ieee-oui.csv","a":"8F. No. 3 Sec. 3 Zhongxing Rd. Xindian Dist. New Taipei City New Taipei City  TW 23144","c":"TW","o":"Foxtron Vehicle Technologies Co., Ltd."}]);

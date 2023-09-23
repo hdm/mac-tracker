@@ -1,1 +1,0 @@
-macDetailCallback("dc0d30000000/24",[{"d":"2016-06-22","t":"add","a":"#2004, Huichao Science & Technology Building, Jinhai Road, Xixiang Shenzhen Guangdong CN 18000","c":"CN","o":"Shenzhen Feasycom Technology Co., Ltd."}]);

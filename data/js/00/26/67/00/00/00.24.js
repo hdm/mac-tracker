@@ -1,1 +1,0 @@
-macDetailCallback("002667000000/24",[{"d":"2009-06-07","t":"add","a":"3-35-4\nTamagawa\nChofu Tokyo 182-0025\n","c":"JAPAN","o":"CARECOM CO.,LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3-35-4 Chofu Tokyo JP 182-0025","c":"JP","o":"CARECOM CO.,LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("e07f53000000/24",[{"d":"2013-10-25","t":"add","a":"Via Della Scienza, 50\nModena  41122\n\n","c":"ITALY","o":"TECHBOARD SRL"},{"d":"2015-08-27","t":"change","a":"Via Della Scienza, 50 Modena  IT 41122","c":"IT","o":"TECHBOARD SRL"}]);

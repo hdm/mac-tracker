@@ -1,1 +1,0 @@
-macDetailCallback("e874e6000000/24",[{"d":"2014-10-04","t":"add","a":"VIALE SARCA 336\nMILANO  20126\n\n","c":"ITALY","o":"ADB BROADBAND ITALIA"},{"d":"2015-08-27","t":"change","a":"VIALE SARCA 336\nMILANO    20126\n\n","c":"IT","o":"ADB BROADBAND ITALIA"},{"d":"2015-10-30","t":"change","a":"VIALE SARCA 336 MILANO  IT 20126","c":"IT","o":"ADB Broadband Italia"}]);

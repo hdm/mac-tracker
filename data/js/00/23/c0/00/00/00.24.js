@@ -1,1 +1,0 @@
-macDetailCallback("0023c0000000/24",[{"d":"2008-10-08","t":"add","a":"1754 Technology Drive, Suite 208\nSan Jose California 95110\n\n","c":"UNITED STATES","o":"Broadway Networks","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1754 Technology Drive, Suite 208 San Jose California US 95110","c":"US","o":"Broadway Networks"}]);

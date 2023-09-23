@@ -1,1 +1,0 @@
-macDetailCallback("00165e000000/24",[{"d":"2005-11-05","t":"add","a":"4005 Miranda Ave., Suite 210\nPalo Alto CA 94304-1232\n\n","c":"UNITED STATES","o":"Precision I/O"},{"d":"2015-08-27","t":"change","a":"4005 Miranda Ave., Suite 210 Palo Alto CA US 94304-1232","c":"US","o":"Precision I/O"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("9ccbf7000000/24",[{"d":"2022-11-30","t":"add","s":"ieee-oui.csv","a":"13F.-1, No. 167, Wenqing Rd  Guishan Dist Taoyuan City Taoyuan TW 333613","c":"TW","o":"CLOUD STAR TECHNOLOGY CO., LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("702a7d000000/24",[{"d":"2015-03-13","t":"add","a":"Aluddsparken 7D\nStockholm Stockholm 11265\n\n","c":"SWEDEN","o":"EpSpot AB"},{"d":"2015-03-18","t":"change","a":"Aluddsparken 7D\nStockholm 11265\n\n","c":"SWEDEN","o":"EpSpot AB"},{"d":"2015-08-27","t":"change","a":"Aluddsparken 7D  Stockholm SE 11265","c":"SE","o":"EpSpot AB"}]);

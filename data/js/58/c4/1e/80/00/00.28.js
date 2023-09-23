@@ -1,1 +1,0 @@
-macDetailCallback("58c41e800000/28",[{"d":"2023-04-21","t":"add","s":"ieee-mam.csv","a":"Room 618, Floor 6, Building 5, Yard 15, Kechuang Tenth Street, Beijing Economic and Technological Development Zone, Beijing Beijing Beijing CN 100176","c":"CN","o":"Xiaomi EV Technology Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("102874000000/24",[{"d":"2023-06-21","t":"add","s":"ieee-oui.csv","a":"3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District Shenzhen  CN 518071","c":"CN","o":"Shenzhen Jingxun Technology Co., Ltd."}]);

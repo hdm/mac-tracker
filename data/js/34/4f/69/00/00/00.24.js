@@ -1,1 +1,0 @@
-macDetailCallback("344f69000000/24",[{"d":"2011-09-22","t":"add","a":"3, Rue Blaise Pascal\nLANNION FRANCE 22300\n\n","c":"FRANCE","o":"EKINOPS SAS"},{"d":"2015-08-27","t":"change","a":"3, Rue Blaise Pascal LANNION FRANCE FR 22300","c":"FR","o":"EKINOPS SAS"}]);

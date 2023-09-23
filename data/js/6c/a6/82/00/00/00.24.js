@@ -1,1 +1,0 @@
-macDetailCallback("6ca682000000/24",[{"d":"2011-11-01","t":"add","a":"601, Hanlim Veture town, 689-6\nGeumjeong-dong\nGunpo Gyenggi-Do 435-862\n","c":"KOREA, REPUBLIC OF","o":"EDAM information & communications"},{"d":"2015-08-27","t":"change","a":"601, Hanlim Veture town, 689-6 Gunpo Gyenggi-Do KR 435-862","c":"KR","o":"EDAM information & communications"}]);

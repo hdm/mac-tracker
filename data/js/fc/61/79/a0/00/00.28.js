@@ -1,1 +1,0 @@
-macDetailCallback("fc6179a00000/28",[{"d":"2022-04-28","t":"add","s":"ieee-mam.csv","a":"Room 706, Building Pincui, Zhongcui Garden,\nDafen Community, Buji Street, Longgang District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Dptek Technology Co., Ltd."}]);

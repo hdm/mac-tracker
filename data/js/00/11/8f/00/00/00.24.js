@@ -1,1 +1,0 @@
-macDetailCallback("00118f000000/24",[{"d":"2004-06-15","t":"add","a":"Blk 55,Ayer Rajah Crescent, #04-16/24.\n139949\n\n","c":"SINGAPORE","o":"EUTECH INSTRUMENTS PTE. LTD."},{"d":"2015-08-27","t":"change","a":"Blk 55,Ayer Rajah Crescent, #04-16/24.   SG 139949","c":"SG","o":"EUTECH INSTRUMENTS PTE. LTD."}]);

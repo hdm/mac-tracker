@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5d52000/36",[{"d":"2020-12-20","t":"add","s":"ieee-oui36.csv","a":"1311ho, sambo techno tower, Jomaru-ro 385beongil, Bucheon-si Gyeonggi-do KR 14556","c":"KR","o":"Sensoronic Co.,Ltd"}]);

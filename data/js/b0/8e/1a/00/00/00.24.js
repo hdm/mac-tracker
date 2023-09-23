@@ -1,1 +1,0 @@
-macDetailCallback("b08e1a000000/24",[{"d":"2011-11-29","t":"add","a":"Phase II D202-2, 1355 JinJiHu Blvd\nSuzhou Industrial Park\nSuzhou Jiangsu 215021\n","c":"CHINA","o":"URadio Systems Co., Ltd"},{"d":"2015-08-27","t":"change","a":"Phase II D202-2, 1355 JinJiHu Blvd Suzhou Jiangsu CN 215021","c":"CN","o":"URadio Systems Co., Ltd"}]);

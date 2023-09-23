@@ -1,1 +1,0 @@
-macDetailCallback("000e46000000/24",[{"d":"2003-09-08","t":"add","a":"3335-2, Shimonaka, Sanwa-mura\nNakakubiki-gun Niigata 943-0222\n\n","c":"JAPAN","o":"Niigata Seimitsu Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3335-2, Shimonaka, Sanwa-mura Nakakubiki-gun Niigata JP 943-0222","c":"JP","o":"Niigata Seimitsu Co.,Ltd."}]);

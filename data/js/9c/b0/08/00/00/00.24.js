@@ -1,1 +1,0 @@
-macDetailCallback("9cb008000000/24",[{"d":"2011-11-10","t":"add","a":"2-20-1 Nishi-Gotanda\nShinagawa-ku Tokyo 1410031\n\n","c":"JAPAN","o":"Ubiquitous Computing Technology Corporation"},{"d":"2015-08-27","t":"change","a":"2-20-1 Nishi-Gotanda Shinagawa-ku Tokyo JP 1410031","c":"JP","o":"Ubiquitous Computing Technology Corporation"}]);

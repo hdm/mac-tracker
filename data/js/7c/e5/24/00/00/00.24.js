@@ -1,1 +1,0 @@
-macDetailCallback("7ce524000000/24",[{"d":"2014-04-04","t":"add","a":"606 W 28th Street\n7th Floor\nNew York NY 10001\n","c":"UNITED STATES","o":"Quirky, Inc."},{"d":"2015-08-27","t":"change","a":"606 W 28th Street New York NY US 10001","c":"US","o":"Quirky, Inc."}]);

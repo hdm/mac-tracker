@@ -1,1 +1,0 @@
-macDetailCallback("944a09000000/24",[{"d":"2012-05-04","t":"add","a":"98 Inverness Dr East\nEnglewood CO 80112\n\n","c":"UNITED STATES","o":"BitWise Controls"},{"d":"2015-08-27","t":"change","a":"98 Inverness Dr East Englewood CO US 80112","c":"US","o":"BitWise Controls"}]);

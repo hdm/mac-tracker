@@ -1,1 +1,0 @@
-macDetailCallback("001b81000000/24",[{"d":"2007-02-20","t":"add","a":"241 Springside Drive\nAkron Ohio 44333\n\n","c":"UNITED STATES","o":"DATAQ Instruments, Inc."},{"d":"2015-08-27","t":"change","a":"241 Springside Drive Akron Ohio US 44333","c":"US","o":"DATAQ Instruments, Inc."}]);

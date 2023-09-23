@@ -1,1 +1,0 @@
-macDetailCallback("001235000000/24",[{"d":"2004-09-02","t":"add","a":"2601 Telecom Pkwy\nRichardson TX 75082\n\n","c":"UNITED STATES","o":"Andrew Corporation"},{"d":"2015-08-27","t":"change","a":"2601 Telecom Pkwy Richardson TX US 75082","c":"US","o":"Andrew Corporation"}]);

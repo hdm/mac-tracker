@@ -1,1 +1,0 @@
-macDetailCallback("00c5db000000/24",[{"d":"2013-04-27","t":"add","a":"Cardenal Herrera Oria 165\nMadrid 28034\n\n","c":"SPAIN","o":"Datatech Sistemas Digitales Avanzados SL"},{"d":"2015-08-27","t":"change","a":"Cardenal Herrera Oria 165  Madrid ES 28034","c":"ES","o":"Datatech Sistemas Digitales Avanzados SL"}]);

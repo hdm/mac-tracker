@@ -1,1 +1,0 @@
-macDetailCallback("0013e1000000/24",[{"d":"2005-03-06","t":"add","a":"Livdjursgatan 4\nJohanneshov Stockholm SE-12162\n\n","c":"SWEDEN","o":"Iprobe","s":"wireshark.org"},{"d":"2007-08-18","t":"change","a":"Finlandsgatan 12\nKista SE-16474\n\n","c":"SWEDEN","o":"Iprobe AB"},{"d":"2015-08-27","t":"change","a":"Finlandsgatan 12  Kista SE SE-16474","c":"SE","o":"Iprobe AB"}]);

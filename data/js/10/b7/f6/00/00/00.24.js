@@ -1,1 +1,0 @@
-macDetailCallback("10b7f6000000/24",[{"d":"2009-11-14","t":"add","a":"Units 1506A - 1512, Mita Centre,\n552-566 Castle Peak Road\nKwai Chung\n","c":"HONG KONG","o":"Plastoform Industries Ltd."},{"d":"2015-08-27","t":"change","a":"Units 1506A - 1512, Mita Centre, Kwai Chung,  HK","c":"HK","o":"Plastoform Industries Ltd."}]);

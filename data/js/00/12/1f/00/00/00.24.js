@@ -1,1 +1,0 @@
-macDetailCallback("00121f000000/24",[{"d":"2004-08-14","t":"add","a":"9431-41Ave\nEdmonton AB T6E 5X7\n\n","c":"CANADA","o":"Harding Intruments"},{"d":"2013-03-27","t":"change","a":"9431-41Ave\nEdmonton AB T6E 5X7\n\n","c":"CANADA","o":"Harding Instruments"},{"d":"2015-08-27","t":"change","a":"9431-41Ave Edmonton AB CA T6E 5X7","c":"CA","o":"Harding Instruments"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("14ae85200000/28",[{"d":"2019-12-12","t":"add","s":"ieee-mam.csv","a":"UnitA3-A4,Level8,Block A ,International Innovation Park,No.1Keyuanwei Rd.,Laoshan District Qingdao  CN 266100","c":"CN","o":"Qingdao iTechene Technologies Co., Ltd."}]);

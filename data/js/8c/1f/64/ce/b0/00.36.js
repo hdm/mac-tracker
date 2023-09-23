@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64ceb000/36",[{"d":"2022-07-06","t":"add","s":"ieee-oui36.csv","a":"Office 11, Building 288C, Avenue 16, Hidd Block 111 Hidd   BH 111","c":"BH","o":"EUREKA FOR SMART PROPERTIES CO. W.L.L"}]);

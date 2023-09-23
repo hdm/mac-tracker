@@ -1,1 +1,0 @@
-macDetailCallback("48b9c2000000/24",[{"d":"2012-10-10","t":"add","a":"103 Edgevalley Close NW\nCalgary AB T3A 5E9\n\n","c":"CANADA","o":"Teletics Inc."},{"d":"2015-08-27","t":"change","a":"103 Edgevalley Close NW Calgary AB CA T3A 5E9","c":"CA","o":"Teletics Inc."}]);

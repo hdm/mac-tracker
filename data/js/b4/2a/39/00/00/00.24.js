@@ -1,1 +1,0 @@
-macDetailCallback("b42a39000000/24",[{"d":"2011-02-05","t":"add","a":"Vodnanska 675/30\nPraha  198 00\n\n","c":"CZECH REPUBLIC","o":"ORBIT MERRET, spol. s r. o."},{"d":"2015-08-27","t":"change","a":"Vodnanska 675/30 Praha  CZ 198 00","c":"CZ","o":"ORBIT MERRET, spol. s r. o."}]);

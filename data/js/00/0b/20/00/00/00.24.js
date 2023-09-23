@@ -1,1 +1,0 @@
-macDetailCallback("000b20000000/24",[{"d":"2002-09-09","t":"add","a":"111 Hitotsugi, Ueki,\nKamoto Kumamoto 861-0198\n\n","c":"JAPAN","o":"Hirata corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"111 Hitotsugi, Ueki, Kamoto,  Kumamoto JP 861-0198","c":"JP","o":"Hirata corporation"}]);

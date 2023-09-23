@@ -1,1 +1,0 @@
-macDetailCallback("0025bf000000/24",[{"d":"2009-04-05","t":"add","a":"2880 Zanker Rd, Ste 203\nSan Jose CA 95134\n\n","c":"UNITED STATES","o":"Wireless Cables Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1414 Soquel Ave, Ste 212 Santa Cruz CA US 95062","c":"US","o":"Wireless Cables Inc."}]);

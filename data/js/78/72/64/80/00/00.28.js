@@ -1,1 +1,0 @@
-macDetailCallback("787264800000/28",[{"d":"2021-08-28","t":"add","s":"ieee-mam.csv","a":"18B.Block B,First World Plaza,No.7002 West HongLi road,Futian, ShenZhen  CN 518000","c":"CN","o":"Gsou Technology(Shenzhen)Co.,Ltd"}]);

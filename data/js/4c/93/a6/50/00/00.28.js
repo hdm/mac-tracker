@@ -1,1 +1,0 @@
-macDetailCallback("4c93a6500000/28",[{"d":"2020-06-06","t":"add","s":"ieee-mam.csv","a":"","c":"","o":"Private"},{"d":"2022-09-10","t":"change","s":"ieee-mam.csv","a":"2001 Theurer Blvd Winona MN US 55987","c":"US","o":"Fastenal IP Company"}]);

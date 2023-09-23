@@ -1,1 +1,0 @@
-macDetailCallback("001835000000/24",[{"d":"2006-06-13","t":"add","a":"2656 Patton Road\nRoseville MN 55113\n\n","c":"UNITED STATES","o":"ITC"},{"d":"2007-12-31","t":"change","a":"2656 Patton Road\nRoseville MN 55113\n\n","c":"UNITED STATES","o":"Thoratec / ITC"},{"d":"2015-08-27","t":"change","a":"2656 Patton Road Roseville MN US 55113","c":"US","o":"Thoratec / ITC"}]);

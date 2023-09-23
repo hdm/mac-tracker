@@ -1,1 +1,0 @@
-macDetailCallback("ace42e000000/24",[{"d":"2013-05-30","t":"add","a":"SK u-Tower, 25-1, Jeongja-dong, Bundang-gu\nSeongnam-si Gyeonggi-do 463-844\n\n","c":"KOREA, REPUBLIC OF","o":"SK hynix"},{"d":"2015-08-27","t":"change","a":"SK u-Tower, 25-1, Jeongja-dong, Bundang-gu Seongnam-si Gyeonggi-do KR 463-844","c":"KR","o":"SK hynix"}]);

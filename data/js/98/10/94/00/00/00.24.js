@@ -1,1 +1,0 @@
-macDetailCallback("981094000000/24",[{"d":"2013-03-06","t":"add","a":"Room 1903, Block A,\nXiangnian plaza,NO.4060\nShenzhen Guangdong 518000\n","c":"CHINA","o":"Shenzhen Vsun communication technology Co.,ltd"},{"d":"2015-08-27","t":"change","a":"Room 1903, Block A, Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Vsun communication technology Co.,ltd"}]);

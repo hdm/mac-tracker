@@ -1,1 +1,0 @@
-macDetailCallback("2053ca000000/24",[{"d":"2014-02-20","t":"add","a":"Matrix House, Merlin Court\nAtlantic Street\nAltrincham Cheshire WA14 5NL\n","c":"UNITED KINGDOM","o":"Risk Technology Ltd"},{"d":"2015-08-27","t":"change","a":"Matrix House, Merlin Court Altrincham Cheshire GB WA14 5NL","c":"GB","o":"Risk Technology Ltd"}]);

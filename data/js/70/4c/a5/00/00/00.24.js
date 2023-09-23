@@ -1,1 +1,0 @@
-macDetailCallback("704ca5000000/24",[{"d":"2017-01-20","t":"add","a":"899 Kifer Road\n\n\n","c":"Sunnyvale    94086","o":"Fortinet, Inc."},{"d":"2017-01-24","t":"change","a":"899 Kifer Road Sunnyvale  US 94086","c":"US","o":"Fortinet, Inc."},{"d":"2019-07-01","t":"change","s":"ieee-oui.csv","a":"899 Kifer Road Sunnyvale null US 94086","c":"US","o":"Fortinet, Inc."}]);

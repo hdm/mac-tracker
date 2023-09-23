@@ -1,1 +1,0 @@
-macDetailCallback("1845b3000000/28",[{"d":"2021-09-29","t":"add","s":"ieee-mam.csv","a":"2203 Changhong Technology Building, Science and Technology Park shenzhen city GD province CN 518053","c":"CN","o":"leetop tech co.,ltd"}]);

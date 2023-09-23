@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64367000/36",[{"d":"2022-12-25","t":"add","s":"ieee-oui36.csv","a":"Josef-Reiert-Str. 26 Walldorf Baden Württemberg DE 69190","c":"DE","o":"LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG"}]);

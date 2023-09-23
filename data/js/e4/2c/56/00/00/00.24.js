@@ -1,1 +1,0 @@
-macDetailCallback("e42c56000000/24",[{"d":"2011-11-10","t":"add","a":"2905 Stender Way, Suite 78\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"Lilee Systems, Ltd."},{"d":"2015-08-27","t":"change","a":"2905 Stender Way, Suite 78 Santa Clara CA US 95054","c":"US","o":"Lilee Systems, Ltd."}]);

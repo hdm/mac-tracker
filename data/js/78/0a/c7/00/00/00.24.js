@@ -1,1 +1,0 @@
-macDetailCallback("780ac7000000/24",[{"d":"2015-09-10","t":"add","a":"Room 2D, Building 5D, Nanshan District Software Industry Base ShenZhen GuangDong CN 518000","c":"CN","o":"Baofeng TV Co., Ltd."}]);

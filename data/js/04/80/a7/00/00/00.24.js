@@ -1,1 +1,0 @@
-macDetailCallback("0480a7000000/24",[{"d":"2023-04-29","t":"add","s":"ieee-oui.csv","a":"3rd floor ,Building20,QingHu Industrial,\nQingHu community,LongHua District\nShenZhen,China ShenZhen GangDong CN 518100","c":"CN","o":"ShenZhen TianGang Micro Technology CO.LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("4080e1000000/24",[{"d":"2023-08-23","t":"add","s":"ieee-oui.csv","a":"No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China Changsha Hunan CN 410329","c":"CN","o":"FN-LINK TECHNOLOGY Ltd."}]);

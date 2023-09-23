@@ -1,1 +1,0 @@
-macDetailCallback("5c8e8b000000/24",[{"d":"2021-10-24","t":"add","s":"ieee-oui.csv","a":"310, Building D, Shenzhen Zhihui Innovation Center, Hangcheng Industrial Zone, Taoyuan Community, Xixiang Street, Bao'an District Shenzhen Guangdong Province CN 518000","c":"CN","o":"Shenzhen Linghai Electronics Co.,Ltd"}]);

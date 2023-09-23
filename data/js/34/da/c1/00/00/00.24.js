@@ -1,1 +1,0 @@
-macDetailCallback("34dac1000000/24",[{"d":"2018-07-07","t":"add","a":"Winnerway Industrial Area,Nancheng Dongguan City Guangdong Province CN 523087","c":"CN","o":"SAE Technologies Development(Dongguan) Co., Ltd."}]);

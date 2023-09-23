@@ -1,1 +1,0 @@
-macDetailCallback("44d980000000/24",[{"d":"2023-07-19","t":"add","s":"ieee-oui.csv","a":"10th Floor of H Square B/D S, Pangyoyeok-ro 231, Bundang-gu Seongnam-si Gyeonggi-do KR 13494","c":"KR","o":"EVERYBOT INC."}]);

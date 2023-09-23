@@ -1,1 +1,0 @@
-macDetailCallback("001ca9000000/24",[{"d":"2007-05-29","t":"add","a":"Via Manfredi 12\nFlorence Italy 50136\n\n","c":"ITALY","o":"Audiomatica Srl","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Manfredi 12 Florence Italy IT 50136","c":"IT","o":"Audiomatica Srl"}]);

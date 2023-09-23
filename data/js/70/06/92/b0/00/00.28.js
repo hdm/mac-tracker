@@ -1,1 +1,0 @@
-macDetailCallback("700692b00000/28",[{"d":"2023-02-12","t":"add","s":"ieee-mam.csv","a":"10 Hengtong Rd,Nanjing Economic Technological Development Zone Nanjing Jiangsu CN 210038","c":"CN","o":"SWIT Electronics Co.,Ltd"}]);

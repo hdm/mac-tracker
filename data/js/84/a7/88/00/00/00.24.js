@@ -1,1 +1,0 @@
-macDetailCallback("84a788000000/24",[{"d":"2015-05-23","t":"add","a":"8F, 209 Dosan-daero,\nGangnam-gu\nSeoul  135-892\n","c":"KOREA, REPUBLIC OF","o":"Perples"},{"d":"2015-08-27","t":"change","a":"8F, 209 Dosan-daero, Seoul  KR 135-892","c":"KR","o":"Perples"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("e8330d000000/24",[{"d":"2017-10-12","t":"add","a":"Neidenburger Str. 10\n\n\n","c":"Gelsenkirchen    45897","o":"Xaptec GmbH"},{"d":"2017-10-14","t":"change","a":"Neidenburger Str. 10 Gelsenkirchen  DE 45897","c":"DE","o":"Xaptec GmbH"}]);

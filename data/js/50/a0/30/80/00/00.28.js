@@ -1,1 +1,0 @@
-macDetailCallback("50a030800000/28",[{"d":"2021-11-02","t":"add","s":"ieee-mam.csv","a":"No. 19 ChangJiang Road National Hi-Tech DEV. Zone Wuxi Jiangsu CN 214028","c":"CN","o":"GE Medical System China Co. Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8082f5000000/24",[{"d":"2022-06-22","t":"add","s":"ieee-oui.csv","a":"39, Chemin du Champ-des-Filles  Geneva, Plan-les-Quates  CH 1228","c":"CH","o":"STMicrolectronics International NV"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("f463e7000000/24",[{"d":"2021-03-30","t":"add","s":"ieee-oui.csv","a":"6/F, Building A3, Zidong International Creative Park, Zidong Road, Qixia District, Nanjing NAN JING JIANG SU CN 210000","c":"CN","o":"Nanjing Maxon O.E. Tech. Co., LTD"}]);

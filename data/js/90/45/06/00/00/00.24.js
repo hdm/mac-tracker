@@ -1,1 +1,0 @@
-macDetailCallback("904506000000/24",[{"d":"2014-11-11","t":"add","a":"1-14-21, Higashitoyoda\nHino Tokyo 191-0052\n\n","c":"JAPAN","o":"Tokyo Boeki Medisys Inc."},{"d":"2015-08-27","t":"change","a":"1-14-21, Higashitoyoda  Hino Tokyo JP 191-0052","c":"JP","o":"Tokyo Boeki Medisys Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("10c73f000000/24",[{"d":"2010-01-28","t":"add","a":"Klark Teknik Building\nWalter Nash Road\nKidderminster Worcestershire DY11 7HJ\n","c":"UNITED KINGDOM","o":"Midas Klark Teknik Ltd"},{"d":"2015-08-27","t":"change","a":"Klark Teknik Building Kidderminster Worcestershire GB DY11 7HJ","c":"GB","o":"Midas Klark Teknik Ltd"}]);

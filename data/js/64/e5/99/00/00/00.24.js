@@ -1,1 +1,0 @@
-macDetailCallback("64e599000000/24",[{"d":"2013-02-10","t":"add","a":"6F Benposra II B/D\n1197-1 Bojeong-dong\nYong In Kyunggi-do 446-913\n","c":"KOREA, REPUBLIC OF","o":"EFM Networks","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6F, Benposra II 1197-1 Bojeong Giheung Gu Yong In Kyunggi do KR 446913","c":"KR","o":"EFM Networks"}]);

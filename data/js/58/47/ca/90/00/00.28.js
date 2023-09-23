@@ -1,1 +1,0 @@
-macDetailCallback("5847ca900000/28",[{"d":"2022-06-22","t":"add","s":"ieee-mam.csv","a":"ROOM.1202,Yongyue Building, YOUCHEGANG TOWN?XIUZHOU DISTRICT Jiaxing Zhejiang CN 314000","c":"CN","o":"Kingnuo Intelligent Technology (Jiaxing) Co., Ltd."}]);

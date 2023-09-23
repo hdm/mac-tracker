@@ -1,1 +1,0 @@
-macDetailCallback("c49805000000/24",[{"d":"2011-12-24","t":"add","a":"6404 International Parkway\nste 2020\nPlano Texas 75093\n","c":"UNITED STATES","o":"Minieum Networks, Inc"},{"d":"2015-08-27","t":"change","a":"6404 International Parkway Plano Texas US 75093","c":"US","o":"Minieum Networks, Inc"}]);

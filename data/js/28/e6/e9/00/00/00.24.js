@@ -1,1 +1,0 @@
-macDetailCallback("28e6e9000000/24",[{"d":"2014-04-15","t":"add","a":"Justus-von-Liebig Str. 26\nNeustadt Niedersachsen 31535\n\n","c":"GERMANY","o":"SIS Sat Internet Services GmbH"},{"d":"2015-08-27","t":"change","a":"Justus-von-Liebig Str. 26 Neustadt Niedersachsen DE 31535","c":"DE","o":"SIS Sat Internet Services GmbH"}]);

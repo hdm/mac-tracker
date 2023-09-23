@@ -1,1 +1,0 @@
-macDetailCallback("1054d2000000/28",[{"d":"2021-12-25","t":"add","s":"ieee-mam.csv","a":"Rm. 2, 6F., No. 395, Sec. 1, Linsen Rd., East Dist.  Tainan City TAIWAN TW 701024","c":"TW","o":"GIPS Technology Co., Ltd."}]);

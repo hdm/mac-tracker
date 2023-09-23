@@ -1,1 +1,0 @@
-macDetailCallback("fc019e000000/24",[{"d":"2013-06-29","t":"add","a":"105 W. John St\nSeattle WA 98119\n\n","c":"UNITED STATES","o":"VIEVU"},{"d":"2015-08-27","t":"change","a":"105 W. John St Seattle WA US 98119","c":"US","o":"VIEVU"}]);

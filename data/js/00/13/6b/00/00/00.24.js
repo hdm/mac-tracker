@@ -1,1 +1,0 @@
-macDetailCallback("00136b000000/24",[{"d":"2005-01-15","t":"add","a":"2-17-14-503 Hakataekimae\nHakataku Fukuokashi\nFukuoka Fukuokaken 812-0011\n","c":"JAPAN","o":"E-TEC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2-17-14-503 Hakataekimae Fukuoka Fukuokaken JP 812-0011","c":"JP","o":"E-TEC"}]);

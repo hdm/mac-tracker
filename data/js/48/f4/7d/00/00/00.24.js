@@ -1,1 +1,0 @@
-macDetailCallback("48f47d000000/24",[{"d":"2011-02-26","t":"add","a":"Offshore Incorporations Centre\nP.O. Box 957\nRoad Town Tortola VG1110\n","c":"VIRGIN ISLANDS, BRITISH","o":"TechVision Holding  Internation Limited"},{"d":"2015-08-27","t":"change","a":"Offshore Incorporations Centre Road Town Tortola VG VG1110","c":"VG","o":"TechVision Holding  Internation Limited"}]);

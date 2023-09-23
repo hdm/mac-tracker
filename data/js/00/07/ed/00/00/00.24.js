@@ -1,1 +1,0 @@
-macDetailCallback("0007ed000000/24",[{"d":"2001-10-24","t":"add","a":"101 Innovation Drive\nMS 2305\nSan Jose CA 95134\n","c":"UNITED STATES","o":"Altera Corporation"},{"d":"2015-08-27","t":"change","a":"101 Innovation Drive San Jose CA US 95134","c":"US","o":"Altera Corporation"}]);

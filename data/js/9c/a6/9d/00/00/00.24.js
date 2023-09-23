@@ -1,1 +1,0 @@
-macDetailCallback("9ca69d000000/24",[{"d":"2015-05-08","t":"add","a":"Floor 3, Building E, No666 Shengxia Road\nPudong\nShanghai 201203\n","c":"CHINA","o":"Whaley Technology Co.Ltd"},{"d":"2015-08-27","t":"change","a":"Floor 3, Building E, No666 Shengxia Road  Shanghai CN 201203","c":"CN","o":"Whaley Technology Co.Ltd"}]);

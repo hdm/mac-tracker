@@ -1,1 +1,0 @@
-macDetailCallback("0c659a000000/24",[{"d":"2023-06-03","t":"add","s":"ieee-oui.csv","a":"776 Highway 74 South Peachtree City  US 30269","c":"US","o":"Panasonic Automotive Systems Company of America"}]);

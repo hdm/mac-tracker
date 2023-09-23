@@ -1,1 +1,0 @@
-macDetailCallback("d43a2f000000/24",[{"d":"2022-12-11","t":"add","s":"ieee-oui.csv","a":"5th Floor, 3rd Building, SHENZHEN MTC Industrial Park, XiaLilang Rd, Nanwan Street, Long’gang District Shenzhen Guangdong CN 518100","c":"CN","o":"SHENZHEN MTC CO LTD"}]);

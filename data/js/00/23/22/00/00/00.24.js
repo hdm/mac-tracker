@@ -1,1 +1,0 @@
-macDetailCallback("002322000000/24",[{"d":"2008-10-08","t":"add","a":"1583 S. Navajo Way\nChandler Arizona 85286\n\n","c":"UNITED STATES","o":"KISS Teknical Solutions, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1583 S. Navajo Way Chandler Arizona US 85286","c":"US","o":"KISS Teknical Solutions, Inc."}]);

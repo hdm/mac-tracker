@@ -1,1 +1,0 @@
-macDetailCallback("14e4ec000000/24",[{"d":"2011-11-17","t":"add","a":"8440 Warner Drive\nSuite B2\nCulver City CA 90232\n","c":"UNITED STATES","o":"mLogic LLC"},{"d":"2015-08-27","t":"change","a":"8440 Warner Drive Culver City CA US 90232","c":"US","o":"mLogic LLC"}]);

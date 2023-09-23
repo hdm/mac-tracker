@@ -1,1 +1,0 @@
-macDetailCallback("249494000000/24",[{"d":"2020-09-18","t":"add","s":"ieee-oui.csv","a":"RM 1903, 19/F Lee Garden One 33 Hysan Avenue, Causeway Bay HongKong  HK 999077","c":"HK","o":"Hong Kong Bouffalo Lab Limited"}]);

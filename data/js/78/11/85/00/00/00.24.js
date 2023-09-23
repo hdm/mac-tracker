@@ -1,1 +1,0 @@
-macDetailCallback("781185000000/24",[{"d":"2010-02-17","t":"add","a":"703 Evans Ave\nSuite 400\nToronto Ontario M9C 5E9\n","c":"CANADA","o":"NBS Payment Solutions Inc."},{"d":"2015-08-27","t":"change","a":"703 Evans Ave Toronto Ontario CA M9C 5E9","c":"CA","o":"NBS Payment Solutions Inc."}]);

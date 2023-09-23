@@ -1,1 +1,0 @@
-macDetailCallback("002107000000/24",[{"d":"2008-04-14","t":"add","a":"689-47 Geumjeongdong\nGunposi Kyoungkido 436-862\n\n","c":"KOREA, REPUBLIC OF","o":"Seowonintech Co Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"689-47 Geumjeongdong Gunposi Kyoungkido KR 436-862","c":"KR","o":"Seowonintech Co Ltd."}]);

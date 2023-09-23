@@ -1,1 +1,0 @@
-macDetailCallback("ac61b9000000/24",[{"d":"2019-08-24","t":"add","s":"ieee-oui.csv","a":"Room 2205, Westley Square, 48 Hoi Yuen Road, Kwun Tong, Kowloon Hong Kong  HK 00000","c":"HK","o":"WAMA Technology Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("4cbc98800000/28",[{"d":"2018-11-27","t":"add","s":"ieee-mam.csv","a":"No.10, Chiwan 1 Road, Shekou, Nanshan Shenzhen GuangDong CN 518068","c":"CN","o":"Shenzhen Shanling Digital Technology Development Co.,Ltd."}]);

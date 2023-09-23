@@ -1,1 +1,0 @@
-macDetailCallback("888c19000000/24",[{"d":"2010-09-11","t":"add","a":"1, Kaki Bukit Crescent\n416236\n\n","c":"SINGAPORE","o":"Brady Corp Asia Pacific Ltd"},{"d":"2015-08-27","t":"change","a":"1, Kaki Bukit Crescent   SG 416236","c":"SG","o":"Brady Corp Asia Pacific Ltd"}]);

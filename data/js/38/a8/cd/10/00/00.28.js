@@ -1,1 +1,0 @@
-macDetailCallback("38a8cd100000/28",[{"d":"2021-07-14","t":"add","s":"ieee-mam.csv","a":"Building 6, JiuXiangLing Industrial Area, Xili street, Nanshan District, Shenzhen GuangDong CN 518055","c":"CN","o":"Fujica System Co., ltd"}]);

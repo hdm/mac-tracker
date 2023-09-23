@@ -1,1 +1,0 @@
-macDetailCallback("584cee000000/24",[{"d":"2009-08-26","t":"add","a":"No.1 Shangdi Xinxi Road\nHaidian District\nBeijing  100085\n","c":"CHINA","o":"Digital One Technologies, Limited"},{"d":"2015-08-27","t":"change","a":"Room 2203, No.1 Shangdi Xinxi Road Beijing  CN 100085","c":"CN","o":"Digital One Technologies, Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0c6422000000/24",[{"d":"2022-08-31","t":"add","s":"ieee-oui.csv","a":"Room 01 , 27th Floor, No. 1 Building , No. 36 Xiaoyun Road, Chaoyang District Beijing  CN 100027","c":"CN","o":"Beijing Wiseasy Technology Co.,Ltd."}]);

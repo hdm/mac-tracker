@@ -1,1 +1,0 @@
-macDetailCallback("001d7c000000/24",[{"d":"2007-08-18","t":"add","a":"Via Leonardo da Vinci, 92\nCARAVAGGIO BG 24043\n\n","c":"ITALY","o":"ABE Elettronica S.p.A."},{"d":"2015-08-27","t":"change","a":"Via Leonardo da Vinci, 92 CARAVAGGIO BG IT 24043","c":"IT","o":"ABE Elettronica S.p.A."}]);

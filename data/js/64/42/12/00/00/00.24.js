@@ -1,1 +1,0 @@
-macDetailCallback("644212000000/24",[{"d":"2021-08-19","t":"add","s":"ieee-oui.csv","a":"Room 201, No.26, Yifenghua Innovation Industrial Park, Xinshi Community, Dalang Subdistrict, Longhua District. Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Water World Information Co.,Ltd."}]);

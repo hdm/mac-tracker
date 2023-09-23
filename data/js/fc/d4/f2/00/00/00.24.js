@@ -1,1 +1,0 @@
-macDetailCallback("fcd4f2000000/24",[{"d":"2010-09-30","t":"add","a":"One Coca Cola Plaza\nAtlanta GA 30313\n\n","c":"UNITED STATES","o":"The Coca Cola Company"},{"d":"2015-08-27","t":"change","a":"One Coca Cola Plaza Atlanta GA US 30313","c":"US","o":"The Coca Cola Company"}]);

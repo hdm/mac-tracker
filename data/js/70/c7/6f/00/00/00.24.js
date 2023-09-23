@@ -1,1 +1,0 @@
-macDetailCallback("70c76f000000/24",[{"d":"2014-10-30","t":"add","a":"215beon-gil, 119\nGuri-si Gyeonggi-do 471-060\n\n","c":"KOREA, REPUBLIC OF","o":"INNO S"},{"d":"2015-08-27","t":"change","a":"215beon-gil, 119 Guri-si Gyeonggi-do KR 471-060","c":"KR","o":"INNO S"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("500b91300000/28",[{"a":"3rd floor, No. 12, LIYE Road, 2nd industrial District, South Zone, Zhongshan Guangdong CN 528400","o":"EWIN TECHNOLOGY LIMITED","d":"2016-09-04","t":"add","s":"ieee","c":"CN"}]);

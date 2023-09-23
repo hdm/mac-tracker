@@ -1,1 +1,0 @@
-macDetailCallback("6cec5a000000/24",[{"d":"2016-08-06","t":"add","a":"B22 Building, NO.52,Tongle Road, Foxconn Industrial Park, District Jiangnan, Nanning, Guangxi, China Nanning Guangxi CN 530031","c":"CN","o":"Hon Hai Precision Ind. CO.,Ltd."}]);

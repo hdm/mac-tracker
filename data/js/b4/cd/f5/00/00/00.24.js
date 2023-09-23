@@ -1,1 +1,0 @@
-macDetailCallback("b4cdf5000000/24",[{"d":"2021-04-21","t":"add","s":"ieee-oui.csv","a":"No. 6, Lane 546, Sec. 6, Changlu Road Fuhsin Township, Changhua County Taiwan TW 50648","c":"TW","o":"CUB ELECPARTS INC."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c0c3b6000000/24",[{"d":"2013-02-15","t":"add","a":"avenue mercator,5\nWavre Belgium 1300\n\n","c":"BELGIUM","o":"Automatic Systems"},{"d":"2015-08-27","t":"change","a":"avenue mercator,5 Wavre Belgium BE 1300","c":"BE","o":"Automatic Systems"}]);

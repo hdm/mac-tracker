@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5c96000/36",[{"a":"A-1-05, SME Technopreneur Centre Cyberjaya, Cyberjaya Selangor Darul Ehsan MY 63000","o":"UNI DIMENXI SDN BHD","d":"2014-03-23","t":"add","s":"ieee","c":"MY"}]);

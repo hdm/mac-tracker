@@ -1,1 +1,0 @@
-macDetailCallback("000b69000000/24",[{"d":"2002-10-14","t":"add","a":"Vartiokuja 1\nNAARAJARVI NAARAJARVI FIN-76850\n\n","c":"FINLAND","o":"Franke Finland Oy"},{"d":"2015-08-27","t":"change","a":"Vartiokuja 1 NAARAJARVI  FI FIN-76850","c":"FI","o":"Franke Finland Oy"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64f32000/36",[{"d":"2021-11-03","t":"add","s":"ieee-oui36.csv","a":"INVT Guangming Technology Building,Songbai Road ShenZhen Matian,Guangming District CN 518106","c":"CN","o":"Shenzhen INVT Electric Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64a5d000/36",[{"d":"2021-12-25","t":"add","s":"ieee-oui36.csv","a":"1309, Block A, Innovation Building, Majialong Industrial Zone, Nantou Street, Nanshan District,  SHENZHEN  CN 518000","c":"CN","o":"Shenzhen zhushida Technology lnformation Co.,Ltd"}]);

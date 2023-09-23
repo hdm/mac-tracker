@@ -1,1 +1,0 @@
-macDetailCallback("4486c1000000/24",[{"d":"2014-02-21","t":"add","a":"5400 Triangle Parkway\nNorcross GA 30092\n\n","c":"UNITED STATES","o":"Siemens Low Voltage & Products"},{"d":"2015-08-27","t":"change","a":"5400 Triangle Parkway Norcross GA US 30092","c":"US","o":"Siemens Low Voltage & Products"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001d87000000/24",[{"d":"2007-08-18","t":"add","a":"45-11 The Boulevard Mid Valley City\nLingkaran Syed Putra\nKuala Lumpur Selangor 59200\n","c":"MALAYSIA","o":"VigTech Labs Sdn Bhd"},{"d":"2015-08-27","t":"change","a":"45-11 The Boulevard Mid Valley City Kuala Lumpur Selangor MY 59200","c":"MY","o":"VigTech Labs Sdn Bhd"}]);

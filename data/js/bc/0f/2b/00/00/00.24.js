@@ -1,1 +1,0 @@
-macDetailCallback("bc0f2b000000/24",[{"d":"2010-12-23","t":"add","a":"7-8F,No.1198 North Qinzhou Road,\nShanghai  200233\n\n","c":"CHINA","o":"FORTUNE TECHGROUP CO.,LTD"},{"d":"2015-08-27","t":"change","a":"7-8F,No.1198 North Qinzhou Road, Shanghai  CN 200233","c":"CN","o":"FORTUNE TECHGROUP CO.,LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c022f1100000/28",[{"d":"2023-07-04","t":"add","s":"ieee-mam.csv","a":"No.5-2, 3rd Floor, Building A, Wangjiadun Plaza Project, No.52 Changqing Road, Jianghan District,  Wuhan HuBei CN 430000","c":"CN","o":"COMMUP WUHAN NETWORK TECHNOLOGY CO.,LTD"}]);

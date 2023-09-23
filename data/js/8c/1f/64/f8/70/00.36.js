@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64f87000/36",[{"d":"2023-06-13","t":"add","s":"ieee-oui36.csv","a":"Room 202, Building 16, No.618 Dingyuan Road, Songjiang District, Shanghai Shang Hai  CN 201600","c":"CN","o":"Fly Electronic (Shang Hai) Technology Co.,Ltd"}]);

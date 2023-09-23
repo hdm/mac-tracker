@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64e98000/36",[{"d":"2021-07-23","t":"add","s":"ieee-oui36.csv","a":"No.158,Jinchang Road,Jinxi Town,Kunshan City,Jiangsu Province,215324, China Kunshan Jiangsu CN 215324","c":"CN","o":"Luxshare Electronic Technology (Kunshan) LTD"}]);

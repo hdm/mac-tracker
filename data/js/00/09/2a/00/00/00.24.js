@@ -1,1 +1,0 @@
-macDetailCallback("00092a000000/24",[{"d":"2002-03-29","t":"add","a":"1-12-39, Taishidou\nSetagaya-ku Tokyo 154-0004\n\n","c":"JAPAN","o":"MYTECS Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-12-39, Taishidou Setagaya-ku Tokyo JP 154-0004","c":"JP","o":"MYTECS Co.,Ltd."}]);

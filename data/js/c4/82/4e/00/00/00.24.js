@@ -1,1 +1,0 @@
-macDetailCallback("c4824e000000/24",[{"d":"2013-10-17","t":"add","a":"Room1801~1802,\nNo.345 Jinxiang Rd.,Pudong\nShanghai 201206\n","c":"CHINA","o":"Changzhou Uchip Electronics Co., LTD."},{"d":"2015-08-27","t":"change","a":"Room1801~1802,  Shanghai CN 201206","c":"CN","o":"Changzhou Uchip Electronics Co., LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00119c000000/24",[{"d":"2004-06-15","t":"add","a":"358 Eastern Valley Way\nChatswood\nSydney NSW 2067\n","c":"AUSTRALIA","o":"EP&T Energy"},{"d":"2015-08-27","t":"change","a":"358 Eastern Valley Way Sydney NSW AU 2067","c":"AU","o":"EP&T Energy"}]);

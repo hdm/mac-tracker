@@ -1,1 +1,0 @@
-macDetailCallback("001cab000000/24",[{"d":"2007-05-29","t":"add","a":"2832 San Pablo Ave.\nBerkeley CA 94702\n\n","c":"UNITED STATES","o":"Meyer Sound Laboratories, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2832 San Pablo Ave. Berkeley CA US 94702","c":"US","o":"Meyer Sound Laboratories, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("3c7a8a000000/24",[{"d":"2015-06-23","t":"add","a":"6450 SEQUENCE DRIVE\nSAN DIEGO CA 92121\n\n","c":"UNITED STATES","o":"ARRIS GROUP, INC."},{"d":"2015-08-27","t":"change","a":"6450 Sequence Drive San Diego CA US 92121","c":"US","o":"ARRIS Group, Inc."}]);

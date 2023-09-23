@@ -1,1 +1,0 @@
-macDetailCallback("e4907e000000/24",[{"d":"2015-02-14","t":"add","a":"222 West Merchandise Mart Plaza\nChicago IL 60654\n\n","c":"UNITED STATES","o":"Motorola Mobility LLC, a Lenovo Company"},{"d":"2015-08-27","t":"change","a":"222 West Merchandise Mart Plaza Chicago IL US 60654","c":"US","o":"Motorola Mobility LLC, a Lenovo Company"}]);

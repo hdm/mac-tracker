@@ -1,1 +1,0 @@
-macDetailCallback("8c593ce00000/28",[{"d":"2019-04-11","t":"add","s":"ieee-mam.csv","a":"Guangming New District Gongming Office Yulu Community No. 6 Industrial Zone Building 26 Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Tian-Power Technology Co.,Ltd."}]);

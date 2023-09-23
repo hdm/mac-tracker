@@ -1,1 +1,0 @@
-macDetailCallback("8c476e700000/28",[{"d":"2020-10-03","t":"add","s":"ieee-mam.csv","a":"","c":"","o":"Private"},{"d":"2023-04-09","t":"change","s":"ieee-mam.csv","a":"120 Mildred Ave. Venice CA US 90291","c":"US","o":"Syng, Inc."}]);

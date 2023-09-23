@@ -1,1 +1,0 @@
-macDetailCallback("100723100000/28",[{"a":"Floor 6, Jinglong International Plaza, Chaoyang District Beijing CN 100107","o":"Beijing Assem Technology Co., ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

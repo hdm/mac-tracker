@@ -1,1 +1,0 @@
-macDetailCallback("4c5ed3000000/24",[{"d":"2022-12-29","t":"add","s":"ieee-oui.csv","a":"Room 402, No. 2 Building, NO.1 ZhongGuancun East Rd, HaiDian District, Beijing, People’s Republic of China Beijing  CN 100190","c":"CN","o":"Unisyue Technologies Co; LTD."}]);

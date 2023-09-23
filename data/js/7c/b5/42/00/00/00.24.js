@@ -1,1 +1,0 @@
-macDetailCallback("7cb542000000/24",[{"d":"2010-06-24","t":"add","a":"#928, Hyundai Venture Ville\n713 Suseo-dong, Kangnam-gu\nSeoul  135-539\n","c":"KOREA, REPUBLIC OF","o":"ACES Technology"},{"d":"2015-08-27","t":"change","a":"#928, Hyundai Venture Ville Seoul  KR 135-539","c":"KR","o":"ACES Technology"}]);

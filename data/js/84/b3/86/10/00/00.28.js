@@ -1,1 +1,0 @@
-macDetailCallback("84b386100000/28",[{"d":"2022-10-14","t":"add","s":"ieee-mam.csv","a":"24F, Block C, Maoye Center, No. 28, North Section of Tianfu Avenue, High tech Zone, Chengdu, Sichuan Chengdu Sichuan CN 621050","c":"CN","o":"Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64cae000/36",[{"d":"2023-07-01","t":"add","s":"ieee-oui36.csv","a":"Keppel Bay Tower, 1 Harbourfront Avenue #13-03 Singapore Singapore SG 098632","c":"SG","o":"Ophir Manufacturing Solutions Pte Ltd"}]);

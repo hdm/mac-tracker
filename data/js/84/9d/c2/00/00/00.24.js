@@ -1,1 +1,0 @@
-macDetailCallback("849dc2000000/24",[{"d":"2020-08-20","t":"add","s":"ieee-oui.csv","a":"9th Floor, No. 5 Building, 2145 Jinshajiang Rd., Putuo District Shanghai  CN 200333","c":"CN","o":"Shanghai MXCHIP Information Technology Co., Ltd."}]);

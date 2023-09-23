@@ -1,1 +1,0 @@
-macDetailCallback("58c41ec00000/28",[{"d":"2023-04-18","t":"add","s":"ieee-mam.csv","a":"No. 207, Building A4, Lugu Enterprise Plaza, No. 27 Wenxuan Road ChangSha Hunan CN 410205","c":"CN","o":"PQTEL Network Technology Co. , Ltd."}]);

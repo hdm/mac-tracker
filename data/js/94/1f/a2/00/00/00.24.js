@@ -1,1 +1,0 @@
-macDetailCallback("941fa2000000/24",[{"d":"2022-09-10","t":"add","s":"ieee-oui.csv","a":"15F Haida Innovation Plaza, No. 66 of Chuangye Road, Donghu New Technology Development Zone Wuhan Hubei CN 430074","c":"CN","o":"Wuhan YuXin Semiconductor Co., Ltd."}]);

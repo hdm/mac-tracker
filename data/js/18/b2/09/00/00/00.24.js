@@ -1,1 +1,0 @@
-macDetailCallback("18b209000000/24",[{"d":"2010-04-08","t":"add","a":"12651 High Bluff Drive, #100\nSan Diego CA 92130\n\n","c":"UNITED STATES","o":"Torrey Pines Logic, Inc"},{"d":"2015-08-27","t":"change","a":"12651 High Bluff Drive, #100 San Diego CA US 92130","c":"US","o":"Torrey Pines Logic, Inc"}]);

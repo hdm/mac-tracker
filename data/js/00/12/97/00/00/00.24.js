@@ -1,1 +1,0 @@
-macDetailCallback("001297000000/24",[{"d":"2004-10-16","t":"add","a":"3118 Patrick Henry Drive\nSanta Clara CA 95054\n\n","c":"UNITED STATES","o":"O2Micro, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3118 Patrick Henry Drive Santa Clara CA US 95054","c":"US","o":"O2Micro, Inc."}]);

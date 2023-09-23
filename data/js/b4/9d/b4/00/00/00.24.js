@@ -1,1 +1,0 @@
-macDetailCallback("b49db4000000/24",[{"d":"2012-09-21","t":"add","a":"105-1203, 70, Jingeononam-ro\n759beon-gil, Onam-eup,\nNamyangju Gyeonggi-do 472-859\n","c":"KOREA, REPUBLIC OF","o":"Axion Technologies Inc."},{"d":"2015-08-27","t":"change","a":"105-1203, 70, Jingeononam-ro Namyangju Gyeonggi-do KR 472-859","c":"KR","o":"Axion Technologies Inc."}]);

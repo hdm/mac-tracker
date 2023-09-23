@@ -1,1 +1,0 @@
-macDetailCallback("6854c1000000/24",[{"d":"2016-11-01","t":"add","a":"2101 Tasman Dr.\nSanta Clara  CA  95054\n\n","c":"US","o":"ColorTokens, Inc."},{"d":"2016-11-02","t":"change","a":"2101 Tasman Dr. Suite 200A Santa Clara CA US 95054","c":"US","o":"ColorTokens, Inc."}]);

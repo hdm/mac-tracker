@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64254000/36",[{"d":"2022-03-03","t":"add","s":"ieee-oui36.csv","a":"Room 311,312A,Floor 3,Heung Shan TechPort,No.3888 Qinglv North Road,Tangjiawan Town Zhuhai Guangdong CN 519000","c":"CN","o":"Zhuhai Yunzhou Intelligence Technology Ltd."}]);

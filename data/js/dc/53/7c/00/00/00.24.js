@@ -1,1 +1,0 @@
-macDetailCallback("dc537c000000/24",[{"d":"2014-04-29","t":"add","a":"13F., No.1, Taiyuan 1st St.\nZhubei City Hsinchu County 30265\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Compal Broadband Networks, Inc."},{"d":"2015-08-27","t":"change","a":"13F., No.1, Taiyuan 1st St. Zhubei City Hsinchu County TW 30265","c":"TW","o":"Compal Broadband Networks, Inc."}]);

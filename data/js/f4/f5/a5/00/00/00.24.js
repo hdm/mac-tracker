@@ -1,1 +1,0 @@
-macDetailCallback("f4f5a5000000/24",[{"d":"2013-04-13","t":"add","a":"Joensuunkatu 7\nSalo  24101\n\n","c":"FINLAND","o":"Nokia corporation"},{"d":"2015-08-27","t":"change","a":"Joensuunkatu 7\nSalo    24101\n\n","c":"FI","o":"Nokia corporation"},{"d":"2015-11-11","t":"change","a":"Joensuunkatu 7 Salo  FI 24101","c":"FI","o":"Nokia Corporation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("480bb2e00000/28",[{"a":"B zone,floor 2,NO.A5 east Rongchang street .BDA (yizhuang) BeiJing BeiJing BeiJing CN 100176","o":"Beijing MFOX technology Co., Ltd.","d":"2018-01-14","t":"add","s":"ieee","c":"CN"}]);

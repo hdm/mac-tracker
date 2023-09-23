@@ -1,1 +1,0 @@
-macDetailCallback("00129c000000/24",[{"d":"2004-10-16","t":"add","a":"11F, Samhomoolsan B/D 275-6, Yangjae-dong\nSeocho Seoul 137-941\n\n","c":"KOREA, REPUBLIC OF","o":"Yulinet","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"11F, Samhomoolsan B/D 275-6, Yangjae-dong Seocho Seoul KR 137-941","c":"KR","o":"Yulinet"}]);

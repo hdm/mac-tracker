@@ -1,1 +1,0 @@
-macDetailCallback("00262a000000/24",[{"d":"2009-05-10","t":"add","a":"689 NW Stonepine Dr\nBend Oregon 97701\n\n","c":"UNITED STATES","o":"Proxense, LLC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"689 NW Stonepine Dr Bend Oregon US 97701","c":"US","o":"Proxense, LLC"}]);

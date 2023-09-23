@@ -1,1 +1,0 @@
-macDetailCallback("ccd39d500000/28",[{"d":"2018-10-16","t":"add","s":"ieee-mam.csv","a":"Building #43, Dayun Software Town, No.8288 Longgang Road, Henggang Street, Longgang District, Shenzhen Guangdong CN 518000","c":"CN","o":"SHENZHEN ROYOLE TECHNOLOGIES CO., LTD."}]);

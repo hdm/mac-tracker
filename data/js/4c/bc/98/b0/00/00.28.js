@@ -1,1 +1,0 @@
-macDetailCallback("4cbc98b00000/28",[{"d":"2018-11-28","t":"add","s":"ieee-mam.csv","a":"Room1109,Building D,First Place,Nancheng District, Dongguan Dongguan Guangdong CN 523000","c":"CN","o":"Dongguan SmartAction Technology Co.,Ltd"}]);

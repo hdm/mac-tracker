@@ -1,1 +1,0 @@
-macDetailCallback("88ba7f000000/24",[{"d":"2010-01-23","t":"add","a":"#204 KJ Bldg. DaeChi-Dong\nGangNam-Gu\nSeoul  135-847\n","c":"KOREA, REPUBLIC OF","o":"Qfiednet Co., Ltd."},{"d":"2015-08-27","t":"change","a":"#204 KJ Bldg. DaeChi-Dong Seoul  KR 135-847","c":"KR","o":"Qfiednet Co., Ltd."}]);

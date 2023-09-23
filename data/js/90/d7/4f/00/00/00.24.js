@@ -1,1 +1,0 @@
-macDetailCallback("90d74f000000/24",[{"d":"2011-09-29","t":"add","a":"27, rue de la Vistule\nParis  75013\n\n","c":"FRANCE","o":"Bookeen"},{"d":"2015-08-27","t":"change","a":"27, rue de la Vistule Paris  FR 75013","c":"FR","o":"Bookeen"}]);

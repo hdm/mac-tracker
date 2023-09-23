@@ -1,1 +1,0 @@
-macDetailCallback("00094e000000/24",[{"d":"2002-03-29","t":"add","a":"251 Najoles Rd Suite A\nMillersville Maryland 21108\n\n","c":"UNITED STATES","o":"BARTECH SYSTEMS INTERNATIONAL, INC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"251 Najoles Rd Suite A Millersville Maryland US 21108","c":"US","o":"BARTECH SYSTEMS INTERNATIONAL, INC"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("745c9f000000/24",[{"d":"2014-08-12","t":"add","a":"NO86,hechang 7th road\nZhongkai hi-tech District\nHui Zhou Guang Gong 516006\n","c":"CHINA","o":"TCT mobile ltd."},{"d":"2016-02-19","t":"change","a":"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006","c":"CN","o":"TCT mobile ltd"}]);

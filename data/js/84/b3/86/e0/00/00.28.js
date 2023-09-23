@@ -1,1 +1,0 @@
-macDetailCallback("84b386e00000/28",[{"d":"2022-10-18","t":"add","s":"ieee-mam.csv","a":"Room 409, No. 68, Changshou East Road, Yinzhou District NINGBO ZHEJIANG CN 315100","c":"CN","o":"NINGBO XINSUAN TECHNOLOGY CO.,LTD"}]);

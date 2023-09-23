@@ -1,1 +1,0 @@
-macDetailCallback("58c41e700000/28",[{"d":"2023-04-20","t":"add","s":"ieee-mam.csv","a":"11Fl., No.108, Sec. 1, Hsin-Tai-Wu Rd., Hsi-Chih District  Taipei  Taipei TW 221","c":"TW","o":"HwaCom Systems Inc."}]);

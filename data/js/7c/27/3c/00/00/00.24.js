@@ -1,1 +1,0 @@
-macDetailCallback("7c273c000000/24",[{"d":"2022-12-03","t":"add","s":"ieee-oui.csv","a":"Gushu, Xixiang Town, Bao'an District,  Shenzhen City Guangdong Province CN 518100","c":"CN","o":"Shenzhen Yunlink Technology Co., Ltd"}]);

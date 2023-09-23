@@ -1,1 +1,0 @@
-macDetailCallback("a06986000000/24",[{"d":"2009-12-14","t":"add","a":"15F Desay Building\nNo.12 Yunshan West Ave.\nHuizhou Guangdong 516003\n","c":"CHINA","o":"Wellav Technologies Ltd"},{"d":"2015-08-27","t":"change","a":"15F Desay Building Huizhou Guangdong CN 516003","c":"CN","o":"Wellav Technologies Ltd"}]);

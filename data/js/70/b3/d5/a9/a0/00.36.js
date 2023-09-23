@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5a9a000/36",[{"a":"Amphenol Interconnect India Private Ltd, MAHAVEER TECHNO PARK  APIIC, Plot no.6, Survey No.64, Software Units layout, Hi-tech City, Madhapur, HYDERABAD Telangana IN 500081","o":"Amphenol Advanced Sensors","d":"2017-04-30","t":"add","s":"ieee","c":"IN"}]);

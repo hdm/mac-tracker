@@ -1,1 +1,0 @@
-macDetailCallback("001250000000/24",[{"d":"2004-09-09","t":"add","a":"1-35-1, Izumi-Honcho\nKomae-Shi Tokyo 201-8555\n\n","c":"JAPAN","o":"Tokyo Aircaft Instrument Co., Ltd."},{"d":"2015-08-27","t":"change","a":"1-35-1, Izumi-Honcho Komae-Shi Tokyo JP 201-8555","c":"JP","o":"Tokyo Aircaft Instrument Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("885ebd000000/24",[{"d":"2023-06-30","t":"add","s":"ieee-oui.csv","a":"121, Hyeoksinsandan 7-gil, Wanggok-myeon, Naju-si, Jeollanam-do, Republic of Korea Naju-si Jeollanam-do KR 58296","c":"KR","o":"NCKOREA Co.,Ltd."}]);

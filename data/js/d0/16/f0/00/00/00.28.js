@@ -1,1 +1,0 @@
-macDetailCallback("d016f0000000/28",[{"d":"2023-01-05","t":"add","s":"ieee-mam.csv","a":"First Floor,Te’an Building, No.15 Kejibei Second Road, Nanshan District Shenzhen  CN Guangdong","c":"CN","o":"Shenzhen Lesingle Technology CO., LTD."}]);

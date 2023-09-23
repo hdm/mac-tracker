@@ -1,1 +1,0 @@
-macDetailCallback("000d23000000/24",[{"d":"2003-04-25","t":"add","a":"465 West Lawndale #B\nSalt Lake City UT 84115\n\n","c":"UNITED STATES","o":"Smart Solution, Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"465 West Lawndale #B Salt Lake City UT US 84115","c":"US","o":"Smart Solution, Inc"}]);

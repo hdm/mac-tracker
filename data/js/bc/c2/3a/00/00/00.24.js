@@ -1,1 +1,0 @@
-macDetailCallback("bcc23a000000/24",[{"d":"2012-04-12","t":"add","a":"6, rue du Clos Courtel\nCesson Sevigne  35510\n\n","c":"FRANCE","o":"Thomson Video Networks"},{"d":"2015-08-27","t":"change","a":"6, rue du Clos Courtel Cesson Sevigne  FR 35510","c":"FR","o":"Thomson Video Networks"}]);

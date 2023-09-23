@@ -1,1 +1,0 @@
-macDetailCallback("001fb6000000/24",[{"d":"2008-02-09","t":"add","a":"No.18, Sheng Li 1st St., Jen Te Hsiang,\nTainan Taiwan 71758\n\n","c":"CHINA","o":"Chi Lin Technology Co., Ltd."},{"d":"2015-08-27","t":"change","a":"No.18, Sheng Li 1st St., Jen Te Hsiang, Tainan Taiwan CN 71758","c":"CN","o":"Chi Lin Technology Co., Ltd."}]);

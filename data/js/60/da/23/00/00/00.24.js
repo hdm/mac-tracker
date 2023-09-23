@@ -1,1 +1,0 @@
-macDetailCallback("60da23000000/24",[{"d":"2010-10-09","t":"add","a":"#717,133-1,Sangdaewon-Dong\nJungwon-Gu\nSeongnam-Si Gyeonggi-Do 462-120\n","c":"KOREA, REPUBLIC OF","o":"Estech Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"#717,133-1,Sangdaewon-Dong Seongnam-Si Gyeonggi-Do KR 462-120","c":"KR","o":"Estech Co.,Ltd"}]);

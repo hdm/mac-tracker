@@ -1,1 +1,0 @@
-macDetailCallback("8cd08b000000/24",[{"d":"2023-04-27","t":"add","s":"ieee-oui.csv","a":"China Sensor Network International Innovation Park,No.200 Linghu Road WuXI  CN 214135","c":"CN","o":"WuXi Rigosys Technology Co.,LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("24e3de000000/24",[{"d":"2022-06-24","t":"add","s":"ieee-oui.csv","a":"22 Shuitou Road, Doumen Fuzhou Fujian CN 350013","c":"CN","o":"China Telecom Fufu Information Technology Co., Ltd."}]);

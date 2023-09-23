@@ -1,1 +1,0 @@
-macDetailCallback("745889000000/24",[{"d":"2022-06-10","t":"add","s":"ieee-oui.csv","a":"Rua Josefa Gomes de Souza, 382 Extrema Minas Gerais BR 37640-000","c":"BR","o":"Multilaser Industrial S.A."}]);

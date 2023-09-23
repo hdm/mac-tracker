@@ -1,1 +1,0 @@
-macDetailCallback("04ab18000000/24",[{"d":"2018-02-23","t":"add","a":"11F Tokyubancho Bldg. 6-2, Chiyoda-ku Tokyo JP 102-0081","c":"JP","o":"ELECOM CO.,LTD."},{"d":"2020-06-24","t":"change","s":"ieee-oui.csv","a":"2F Kudan First Place Bldg. 4-1-28 Chiyoda-ku Kudan Kita JP 102-0073","c":"JP","o":"ELECOM CO.,LTD."}]);

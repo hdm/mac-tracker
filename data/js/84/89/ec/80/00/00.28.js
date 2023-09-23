@@ -1,1 +1,0 @@
-macDetailCallback("8489ec800000/28",[{"a":"1704, 17/F, Fo Tan Industrial Centre, 26-28 Au Pui Wan Street, Fo Tan, Hong Kong Hong Kong  HK Nil","o":"Arts Digital Technology (HK) Ltd.","d":"2018-05-20","t":"add","s":"ieee","c":"HK"}]);

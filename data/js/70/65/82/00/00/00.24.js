@@ -1,1 +1,0 @@
-macDetailCallback("706582000000/24",[{"d":"2010-07-16","t":"add","a":"Suite 407, No. 166, Ren Ai Road\nSuzhou Industrial Park\nSuzhou Jiangsu 215123\n","c":"CHINA","o":"Suzhou Hanming Technologies Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Suite 407, No. 166, Ren Ai Road Suzhou Jiangsu CN 215123","c":"CN","o":"Suzhou Hanming Technologies Co., Ltd."}]);

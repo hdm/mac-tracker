@@ -1,1 +1,0 @@
-macDetailCallback("00072e000000/24",[{"d":"2001-10-24","t":"add","a":"Skeppsloron 42\n1130 Stockholm\n\n","c":"SWEDEN","o":"North Node AB"},{"d":"2015-08-27","t":"change","a":"Skeppsloron 42   SE","c":"SE","o":"North Node AB"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001421000000/24",[{"d":"2005-03-22","t":"add","a":"Blk 1003, Bukit Merah Central, #04-18\nTechnopreneur Centre\n159836\n","c":"SINGAPORE","o":"Total Wireless Technologies Pte. Ltd."},{"d":"2015-08-27","t":"change","a":"Blk 1003, Bukit Merah Central, #04-18   SG 159836","c":"SG","o":"Total Wireless Technologies Pte. Ltd."}]);

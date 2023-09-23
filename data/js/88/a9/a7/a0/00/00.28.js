@@ -1,1 +1,0 @@
-macDetailCallback("88a9a7a00000/28",[{"a":"Zhejiang Lishui city streets Nanming mountain Shek road Liandu District No. 268 Building 2 block B Lishui Zhejiang CN 323000","o":"Zhejiang Haoteng Electronic Technology Co.,Ltd.","d":"2017-11-26","t":"add","s":"ieee","c":"CN"}]);

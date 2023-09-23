@@ -1,1 +1,0 @@
-macDetailCallback("001e0d000000/24",[{"d":"2007-09-25","t":"add","a":"Vershinina st. 47\nTomsk Tomsk Region 634034\n\n","c":"RUSSIAN FEDERATION","o":"Micran Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Vershinina st. 47 Tomsk Tomsk Region RU 634034","c":"RU","o":"Micran Ltd."}]);

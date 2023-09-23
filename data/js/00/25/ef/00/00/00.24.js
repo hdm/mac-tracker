@@ -1,1 +1,0 @@
-macDetailCallback("0025ef000000/24",[{"d":"2009-04-26","t":"add","a":"7/F,KAWARAMACHI KOYO BLDG.3-4-3,KAWARAMCHI,CHUO-KU,\nOSAKA  541-0048\n\n","c":"JAPAN","o":"I-TEC Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"7/F,KAWARAMACHI KOYO BLDG.3-4-3,KAWARAMCHI,CHUO-KU, OSAKA  JP 541-0048","c":"JP","o":"I-TEC Co., Ltd."}]);

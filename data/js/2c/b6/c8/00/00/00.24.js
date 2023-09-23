@@ -1,1 +1,0 @@
-macDetailCallback("2cb6c8000000/24",[{"d":"2022-06-26","t":"add","s":"ieee-oui.csv","a":"No. 11, East Area, No. 10 Block, East Xibeiwang Road Beijing  CN 100094","c":"CN","o":"Raisecom Technology CO., LTD"}]);

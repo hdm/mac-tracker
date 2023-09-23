@@ -1,1 +1,0 @@
-macDetailCallback("c80258000000/24",[{"d":"2013-05-01","t":"add","a":"Smedebakken 31-33\nOdense N  5270\n\n","c":"DENMARK","o":"ITW GSE ApS"},{"d":"2015-08-27","t":"change","a":"Smedebakken 31-33 Odense N  DK 5270","c":"DK","o":"ITW GSE ApS"}]);

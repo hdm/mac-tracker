@@ -1,1 +1,0 @@
-macDetailCallback("b8266c000000/24",[{"d":"2013-09-21","t":"add","a":"Chemin de Baillot\nMontauban Tarn &amp; Garonne 82000\n\n","c":"FRANCE","o":"ANOV France"},{"d":"2015-08-27","t":"change","a":"Chemin de Baillot Montauban Tarn &amp; Garonne FR 82000","c":"FR","o":"ANOV France"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("18c3f4800000/28",[{"d":"2022-06-01","t":"add","s":"ieee-mam.csv","a":"1307, building A4, workshop 2, LiLang International Jewelry Industrial Park, 31 Bulan Road, xialilang community, Nanwan street, Longgang District Shenzhen Guangdong CN 518112","c":"CN","o":"Shenzhen Liandian Communication Technology Co.LTD"}]);

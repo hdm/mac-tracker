@@ -1,1 +1,0 @@
-macDetailCallback("002172000000/24",[{"d":"2008-06-18","t":"add","a":"Bang-i Dong 51-5, Songpa\nSeoul  138-050\n\n","c":"KOREA, REPUBLIC OF","o":"Seoultek Valley","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Bang-i Dong 51-5, Songpa Seoul  KR 138-050","c":"KR","o":"Seoultek Valley"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("f0007f000000/24",[{"d":"2011-11-05","t":"add","a":"Avenida Infante D. Henrique\n328\nLisbon  1800-223\n","c":"PORTUGAL","o":"Janz - Contadores de Energia, SA"},{"d":"2015-08-27","t":"change","a":"Avenida Infante D. Henrique Lisbon  PT 1800-223","c":"PT","o":"Janz - Contadores de Energia, SA"}]);

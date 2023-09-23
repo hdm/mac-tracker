@@ -1,1 +1,0 @@
-macDetailCallback("0050c29fe000/36",[{"a":"Khasra No. 24, Village Ghumman,1st Floor, Chawla Mansion, Parwanoo Himachal Pradesh IN 173 220","o":"SPECTRA EMBEDDED SYSTEMS","d":"2008-12-07","t":"add","s":"ieee","c":"IN"}]);

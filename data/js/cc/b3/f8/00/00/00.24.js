@@ -1,1 +1,0 @@
-macDetailCallback("ccb3f8000000/24",[{"d":"2012-07-31","t":"add","a":"135,Higashinozaki,Hobara-machi,\nDate-shi Fukushima 960-0695\n\n","c":"JAPAN","o":"FUJITSU ISOTEC LIMITED"},{"d":"2015-08-27","t":"change","a":"135,Higashinozaki,Hobara-machi, Date-shi Fukushima JP 960-0695","c":"JP","o":"FUJITSU ISOTEC LIMITED"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("28b4fb000000/24",[{"d":"2018-11-27","t":"add","s":"ieee-oui.csv","a":"5D F1.6 Block,Tianfa Building,Tianan Chegongmiao Industrial park,Futian Dist shenzhen guangdong CN 518000","c":"CN","o":"Sprocomm Technologies CO.,LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c5109000000/28",[{"d":"2022-04-07","t":"add","s":"ieee-mam.csv","a":"Floor 3, Building 6, Teda Service Outsourcing Industrial Park, 19 Xinhuan West Road, Binhai New Area,  Tianjin  CN 300000","c":"CN","o":"TianJin JointOptic Technology Co., LTD."}]);

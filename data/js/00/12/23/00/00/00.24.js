@@ -1,1 +1,0 @@
-macDetailCallback("001223000000/24",[{"d":"2004-08-19","t":"add","a":"915 Linda Vista Ave.\nMountain View CA 94043\n\n","c":"UNITED STATES","o":"Pixim"},{"d":"2015-08-27","t":"change","a":"915 Linda Vista Ave. Mountain View CA US 94043","c":"US","o":"Pixim"}]);

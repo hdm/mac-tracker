@@ -1,1 +1,0 @@
-macDetailCallback("0002d5000000/24",[{"d":"2000-09-08","t":"add","a":"Cardoulines B2\n1360 rte Dolinis\n06560 Valbonne\n","c":"FRANCE","o":"ACR"},{"d":"2001-10-24","t":"change","a":"Cardoulines B2\n1360 rte Dolinis 06560 Valbonne\n\n","c":"FRANCE","o":"ACR"},{"d":"2015-08-27","t":"change","a":"Cardoulines B2   FR","c":"FR","o":"ACR"}]);

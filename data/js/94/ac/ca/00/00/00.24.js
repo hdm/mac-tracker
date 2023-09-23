@@ -1,1 +1,0 @@
-macDetailCallback("94acca000000/24",[{"d":"2013-02-10","t":"add","a":"HeusteigstraÃe 37\nStuttgart  70108\n\n","c":"GERMANY","o":"trivum technologies GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Heusteigstraße 37 Stuttgart  DE 70108","c":"DE","o":"trivum technologies GmbH"}]);

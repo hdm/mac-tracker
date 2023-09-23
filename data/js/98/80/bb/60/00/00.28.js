@@ -1,1 +1,0 @@
-macDetailCallback("9880bb600000/28",[{"d":"2021-08-19","t":"add","s":"ieee-mam.csv","a":"No.2 Xinxiu Street, Hunnan District, Shenyang Shenyang Liaoning CN 110000","c":"CN","o":"Neusoft Reach Automotive Technology (Shenyang) Co.,Ltd"}]);

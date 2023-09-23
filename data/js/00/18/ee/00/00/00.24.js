@@ -1,1 +1,0 @@
-macDetailCallback("0018ee000000/24",[{"d":"2006-07-09","t":"add","a":"37 M Lark Industrial Parkway\nGreenville RI 02828-3001\n\n","c":"UNITED STATES","o":"Videology Imaging Solutions, Inc."},{"d":"2015-08-27","t":"change","a":"37 M Lark Industrial Parkway Greenville RI US 02828-3001","c":"US","o":"Videology Imaging Solutions, Inc."}]);

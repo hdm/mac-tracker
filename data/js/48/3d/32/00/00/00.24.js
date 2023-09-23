@@ -1,1 +1,0 @@
-macDetailCallback("483d32000000/24",[{"d":"2013-10-24","t":"add","a":"201-60 Bastion Sq\nVictoria BC V8W 1J2\n\n","c":"CANADA","o":"Syscor Controls &amp; Automation"},{"d":"2015-08-27","t":"change","a":"201-60 Bastion Sq Victoria BC CA V8W 1J2","c":"CA","o":"Syscor Controls &amp; Automation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000dee000000/24",[{"d":"2003-09-08","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2005-10-29","t":"change","a":"40 Technology Drive\nWarren NJ 07059\n\n","c":"UNITED STATES","o":"Andrew RF Power Amplifier Group"},{"d":"2015-08-27","t":"change","a":"40 Technology Drive Warren NJ US 07059","c":"US","o":"Andrew RF Power Amplifier Group"}]);

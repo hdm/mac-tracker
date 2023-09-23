@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5474000/36",[{"d":"2020-11-11","t":"add","s":"ieee-oui36.csv","a":"3F 509, Dunchon-daero, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea Seongnam-si Gyeonggi-do KR 13217","c":"KR","o":"DAYOUPLUS"},{"d":"2021-02-09","t":"change","s":"ieee-oui36.csv","a":"815 1st Ave #174 Seattle WA US 98104","c":"US","o":"CTROGERS LLC"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("d88332000000/24",[{"d":"2022-05-26","t":"add","s":"ieee-oui.csv","a":"3 Floor Building No 2, Guangwan Bay No.1 Tangjia Town, Zhuhai City Zhuhai Guangdong CN 519000","c":"CN","o":"TaiXin Semiconductor Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("7c02bc000000/24",[{"d":"2012-06-02","t":"add","a":"319, Bong san-ri, San dong-myun\nGumi city, Kyung Buk\nGumi  730-853\n","c":"KOREA, REPUBLIC OF","o":"Hansung Electronics Co. LTD"},{"d":"2015-08-27","t":"change","a":"319, Bong san-ri, San dong-myun Gumi  KR 730-853","c":"KR","o":"Hansung Electronics Co. LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0024c5000000/24",[{"d":"2008-12-21","t":"add","a":"11 Latham Road\nHuntingdon Cambs PE29 6YE\n\n","c":"UNITED KINGDOM","o":"Meridian Audio Limited","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"11 Latham Road Huntingdon Cambs GB PE29 6YE","c":"GB","o":"Meridian Audio Limited"}]);

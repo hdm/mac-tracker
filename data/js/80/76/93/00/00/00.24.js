@@ -1,1 +1,0 @@
-macDetailCallback("807693000000/24",[{"d":"2011-09-15","t":"add","a":"Wyspianskiego 3\nNowy Sacz woj. Malopolskie 33-300\n\n","c":"POLAND","o":"Newag SA"},{"d":"2015-08-27","t":"change","a":"Wyspianskiego 3 Nowy Sacz woj. Malopolskie PL 33-300","c":"PL","o":"Newag SA"}]);

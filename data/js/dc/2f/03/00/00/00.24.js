@@ -1,1 +1,0 @@
-macDetailCallback("dc2f03000000/24",[{"d":"2014-07-15","t":"add","a":"1/3 Park Village Rama2 Floor 2   C2-2\nSoi Rama 2, Soi 56, Samaedum, Bangkhunthain,\nBangkok Bangkok 10150\n","c":"THAILAND","o":"Step forward Group Co., Ltd."},{"d":"2015-08-27","t":"change","a":"1/3 Park Village Rama2 Floor 2   C2-2 Bangkok Bangkok TH 10150","c":"TH","o":"Step forward Group Co., Ltd."}]);

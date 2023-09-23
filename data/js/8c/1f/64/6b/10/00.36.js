@@ -1,1 +1,0 @@
-macDetailCallback("8c1f646b1000/36",[{"d":"2022-10-30","t":"add","s":"ieee-oui36.csv","a":"907 Hertzogstreet\nRietfontein Pretoria Gauteng ZA 0182","c":"ZA","o":"Specialist Mechanical Engineers (PTY)LTD"}]);

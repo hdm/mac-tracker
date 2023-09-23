@@ -1,1 +1,0 @@
-macDetailCallback("0436b8000000/24",[{"d":"2023-01-20","t":"add","s":"ieee-oui.csv","a":"I&C Building, 24, Pangyo-ro 255beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 13486","c":"KR","o":"I&C Technology"}]);

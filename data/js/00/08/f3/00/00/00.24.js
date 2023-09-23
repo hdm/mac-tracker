@@ -1,1 +1,0 @@
-macDetailCallback("0008f3000000/24",[{"d":"2002-01-30","t":"add","a":"CEEI Cap Alpha\nAvenue de l'Europe, Clapiers\nMontpellier Herault 34940\n","c":"FRANCE","o":"WANY","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"CEEI Cap Alpha Montpellier Herault FR 34940","c":"FR","o":"WANY"}]);

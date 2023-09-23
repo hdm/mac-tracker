@@ -1,1 +1,0 @@
-macDetailCallback("0055da500000/28",[{"a":"162 John Street Toronto Ontario CA M5V2E5","o":"Nanoleaf","d":"2015-10-16","t":"add","s":"ieee","c":"CA"},{"d":"2021-01-15","t":"change","s":"ieee-mam.csv","a":"100 Front Street East, 4th Floor Toronto Ontario CA M5A 1E1","c":"CA","o":"Nanoleaf"}]);

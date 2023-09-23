@@ -1,1 +1,0 @@
-macDetailCallback("0023f2000000/24",[{"d":"2008-10-12","t":"add","a":"suite 914 ACE Techno Tower-9th\nGasan-dong\nGeumcheon-gu SEOUL 153-782\n","c":"KOREA, REPUBLIC OF","o":"TVLogic","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"suite 914 ACE Techno Tower-9th Geumcheon-gu SEOUL KR 153-782","c":"KR","o":"TVLogic"}]);

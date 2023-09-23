@@ -1,1 +1,0 @@
-macDetailCallback("0016de000000/24",[{"d":"2005-12-23","t":"add","a":"905 Honeyspot Rd\nStratford CT 06615\n\n","c":"UNITED STATES","o":"FAST Inc"},{"d":"2015-08-27","t":"change","a":"905 Honeyspot Rd Stratford CT US 06615","c":"US","o":"FAST Inc"}]);

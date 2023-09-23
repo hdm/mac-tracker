@@ -1,1 +1,0 @@
-macDetailCallback("acb74f000000/24",[{"d":"2014-05-31","t":"add","a":"Zizkuv Kopec 617\nCeska Skalice NA 55203\n\n","c":"CZECH REPUBLIC","o":"METEL s.r.o."},{"d":"2015-08-27","t":"change","a":"Zizkuv Kopec 617 Ceska Skalice NA CZ 55203","c":"CZ","o":"METEL s.r.o."}]);

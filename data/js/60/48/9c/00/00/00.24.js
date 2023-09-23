@@ -1,1 +1,0 @@
-macDetailCallback("60489c000000/24",[{"d":"2023-01-12","t":"add","s":"ieee-oui.csv","a":"19H MAXGRAND PLAZA NO.3 TAI YAU STREET SAN PO KONG KL Kowloon  CN 999077","c":"CN","o":"YIPPEE ELECTRONICS CO.,LIMITED"}]);

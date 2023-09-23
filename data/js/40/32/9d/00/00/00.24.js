@@ -1,1 +1,0 @@
-macDetailCallback("40329d000000/24",[{"d":"2021-10-27","t":"add","s":"ieee-oui.csv","a":"Building A2, Ding Bao Hong Green High Garden, Shiyan Street, Bao 'an District SHENZHEN GuangDong CN 518108","c":"CN","o":"Union Image Co.,Ltd"}]);

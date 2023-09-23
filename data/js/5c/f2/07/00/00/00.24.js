@@ -1,1 +1,0 @@
-macDetailCallback("5cf207000000/24",[{"d":"2011-01-19","t":"add","a":"200 New Highway\nAmityville New York 11701\n\n","c":"UNITED STATES","o":"Speco Technologies"},{"d":"2015-08-27","t":"change","a":"200 New Highway Amityville New York US 11701","c":"US","o":"Speco Technologies"}]);

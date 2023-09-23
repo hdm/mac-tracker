@@ -1,1 +1,0 @@
-macDetailCallback("240588000000/24",[{"d":"2018-04-27","t":"add","a":"1600 Amphitheatre Parkway\nMountain View  CA  94043\n\n","c":"UNITED STATES","o":"Google, Inc."},{"d":"2018-04-28","t":"change","a":"1600 Amphitheatre Parkway Mountain View CA US 94043","c":"US","o":"Google, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("44a92c900000/28",[{"d":"2021-05-18","t":"add","s":"ieee-mam.csv","a":"China Electronics Software Park,Yuelu District,Changsha City,Hunan Province Changsha  CN 410013","c":"CN","o":"China Electronics Corporation Greatwall Shengfeifan information system Co.,ltd. Hu'nan computer R.&D. Center"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("94e711000000/24",[{"d":"2010-07-09","t":"add","a":"Gdg CM\nJln Matraman I No 9\nJakarta  13150\n","c":"INDONESIA","o":"Xirka Dama Persada PT"},{"d":"2015-08-27","t":"change","a":"Gdg CM Jakarta  ID 13150","c":"ID","o":"Xirka Dama Persada PT"}]);

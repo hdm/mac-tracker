@@ -1,1 +1,0 @@
-macDetailCallback("000014000000/24",[{"d":"2000-09-08","t":"add","a":"1372 MCDOWELL BLVD.\nPETULAMA, CA  94952\n\n","c":"UNITED STATES","o":"NETRONIX"},{"d":"2001-10-24","t":"change","a":"1372 MCDOWELL BLVD.\nPETULAMA CA 94952\n\n","c":"UNITED STATES","o":"NETRONIX"},{"d":"2015-08-27","t":"change","a":"1372 MCDOWELL BLVD. PETULAMA CA US 94952","c":"US","o":"NETRONIX"}]);

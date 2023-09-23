@@ -1,1 +1,0 @@
-macDetailCallback("f421ae000000/24",[{"d":"2021-12-02","t":"add","s":"ieee-oui.csv","a":"4th Floor Building No.1 , No.701 Naxian Road Pilot Free Trade Zone Shanghai China Shanghai  CN 200000","c":"CN","o":"Shanghai Xiaodu Technology Limited"}]);

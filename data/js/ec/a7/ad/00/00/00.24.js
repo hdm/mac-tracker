@@ -1,1 +1,0 @@
-macDetailCallback("eca7ad000000/24",[{"d":"2022-11-18","t":"add","s":"ieee-oui.csv","a":"A1009,Block A,Jia Hua Building,No.9 Shangdi 3rd Street,Haidian District,Beijing beijing beijing CN 100000","c":"CN","o":"Barrot Technology Co.,Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00089f000000/24",[{"d":"2001-12-14","t":"add","a":"403, 4th floor Elegance 1 Bldg.\n25-2 Gumi-dong Pundang-gu\nSungnam-si Kyunggi-do 463-808\n","c":"KOREA, REPUBLIC OF","o":"EFM Networks"},{"d":"2015-08-27","t":"change","a":"403, 4th floor Elegance 1 Bldg. Sungnam-si Kyunggi-do KR 463-808","c":"KR","o":"EFM Networks"}]);

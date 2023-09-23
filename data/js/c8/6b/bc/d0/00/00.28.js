@@ -1,1 +1,0 @@
-macDetailCallback("c86bbcd00000/28",[{"d":"2023-04-08","t":"add","s":"ieee-mam.csv","a":"Building 12, No.998, Wenyi West Road, Yuhang District, Hangzhou, Zhejiang. Hangzhou Zhejiang CN 330100","c":"CN","o":"SCANTECH(HANGZHOU)CO.,LTD"}]);

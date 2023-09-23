@@ -1,1 +1,0 @@
-macDetailCallback("0002e8000000/24",[{"d":"2000-09-08","t":"add","a":"Energielaan 16\nIZ Bosduin\n2950 Kapellen\n","c":"BELGIUM","o":"E.D.&A."},{"d":"2001-10-24","t":"change","a":"Energielaan 16\nIZ Bosduin 2950 Kapellen\n\n","c":"BELGIUM","o":"E.D.&A."},{"d":"2015-08-27","t":"change","a":"Energielaan 16   BE","c":"BE","o":"E.D.&A."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("e8bb3d000000/24",[{"d":"2013-05-14","t":"add","a":"Room 418, Building 1, Hua Mei Ju (D),\nXinhu Road, Bao An\nShenzhen Guangdong 518101\n","c":"CHINA","o":"Sino Prime-Tech Limited"},{"d":"2015-08-27","t":"change","a":"Room 418, Building 1, Hua Mei Ju (D), Shenzhen Guangdong CN 518101","c":"CN","o":"Sino Prime-Tech Limited"}]);

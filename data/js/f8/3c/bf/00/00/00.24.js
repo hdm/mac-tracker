@@ -1,1 +1,0 @@
-macDetailCallback("f83cbf000000/24",[{"d":"2019-05-31","t":"add","s":"ieee-oui.csv","a":"c-1-2, JALAN BK5A/2B 47180,BANDAR KINRARA PUCHONG SELANGOR MY 47180","c":"MY","o":"BOTATO ELECTRONICS SDN BHD"}]);

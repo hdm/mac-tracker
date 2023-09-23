@@ -1,1 +1,0 @@
-macDetailCallback("04f17d000000/24",[{"d":"2011-11-29","t":"add","a":"2105 Martin Luther King Jr Way\nSuite 200\nBerkeley CA 94704\n","c":"UNITED STATES","o":"Tarana Wireless"},{"d":"2015-08-27","t":"change","a":"2105 Martin Luther King Jr Way Berkeley CA US 94704","c":"US","o":"Tarana Wireless"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("a02833700000/28",[{"a":"Av Romeu Tórtima, 554 Campinas São Paulo BR 13084-791","o":"Kryptus Information Security S/A","d":"2018-05-27","t":"add","s":"ieee","c":"BR"},{"d":"2018-12-15","t":"change","s":"ieee-mam.csv","a":"Rua Maria Tereza Dias da Silva 270 Cidade Universitaria Campinas-SP BR CEP 13083-820","c":"BR","o":"Kryptus Information Security S/A"}]);

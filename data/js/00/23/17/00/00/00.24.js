@@ -1,1 +1,0 @@
-macDetailCallback("002317000000/24",[{"d":"2008-10-08","t":"add","a":"1450 Oakbrook Drive\nSuite 900\nNorcross GA 30093\n","c":"UNITED STATES","o":"Lasercraft Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1450 Oakbrook Drive Norcross GA US 30093","c":"US","o":"Lasercraft Inc"}]);

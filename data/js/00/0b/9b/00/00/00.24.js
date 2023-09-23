@@ -1,1 +1,0 @@
-macDetailCallback("000b9b000000/24",[{"d":"2002-10-23","t":"add","a":"3-27 Funado-cho\nAshiya Hyogo 659-0093\n\n","c":"JAPAN","o":"Sirius System Co, Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3-27 Funado-cho Ashiya Hyogo JP 659-0093","c":"JP","o":"Sirius System Co, Ltd."}]);

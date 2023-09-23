@@ -1,1 +1,0 @@
-macDetailCallback("244e7b500000/28",[{"a":"Nearby the Bus stop of Hanzi Industrial Park,Danjin Road,Hengtang Town Danyang Jiangsu CN 212300","o":"Jiangsu Xuanbo Electronic Technologies Co.,Ltd","d":"2016-08-22","t":"add","s":"ieee","c":"CN"}]);

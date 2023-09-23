@@ -1,1 +1,0 @@
-macDetailCallback("748e08000000/24",[{"d":"2013-03-22","t":"add","a":"No. 6, Lane 229, Sec. 3, Chang-Xing Rd.\nLuzhu Township\nTaoyuan  33852\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Bestek Corp."},{"d":"2015-08-27","t":"change","a":"No. 6, Lane 229, Sec. 3, Chang-Xing Rd. Taoyuan  TW 33852","c":"TW","o":"Bestek Corp."}]);

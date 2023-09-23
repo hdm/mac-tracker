@@ -1,1 +1,0 @@
-macDetailCallback("709bfc000000/24",[{"d":"2013-05-30","t":"add","a":"6F., No. 100, Zhouzi St., Neihu Dist.\nTaipei City  11493\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Bryton Inc."},{"d":"2015-08-27","t":"change","a":"6F., No. 100, Zhouzi St., Neihu Dist. Taipei City  US 11493","c":"US","o":"Bryton Inc."}]);

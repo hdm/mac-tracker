@@ -1,1 +1,0 @@
-macDetailCallback("8430ce000000/24",[{"d":"2023-04-05","t":"add","s":"ieee-oui.csv","a":"1101 Hanjing Financial Center, 9968 Shennan Blvd, Nanshan, Shenzhen Shenzhen  CN 518000","c":"CN","o":"Shenzhen Jaguar Microsystems Co., Ltd"}]);

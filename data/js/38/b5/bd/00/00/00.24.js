@@ -1,1 +1,0 @@
-macDetailCallback("38b5bd000000/24",[{"d":"2012-11-17","t":"add","a":"Einkauf\nRote-Tor-Strasse 14\nOberderdingen  75038\n","c":"GERMANY","o":"E.G.O. Elektro-Ger"},{"d":"2015-08-27","t":"change","a":"Einkauf Oberderdingen  DE 75038","c":"DE","o":"E.G.O. Elektro-Ger"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("50de19700000/28",[{"d":"2019-10-31","t":"add","s":"ieee-mam.csv","a":"Room 2-6, No.8, Haitai development fifth Road, Huayuan industrial Zone , Binhai high-tech District Tianjin Tianjin CN 300450","c":"CN","o":"Tianjin Natianal Health Technology Co.,Ltd"}]);

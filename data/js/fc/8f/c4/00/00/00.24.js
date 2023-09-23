@@ -1,1 +1,0 @@
-macDetailCallback("fc8fc4000000/24",[{"d":"2011-09-15","t":"add","a":"Yuanhe 3 Street,Tongsha Industrial Zone,\nDongcheng Area\nDongguan Guangdong 523127\n","c":"CHINA","o":"Intelligent Technology Inc."},{"d":"2015-08-27","t":"change","a":"Yuanhe 3 Street,Tongsha Industrial Zone, Dongguan Guangdong CN 523127","c":"CN","o":"Intelligent Technology Inc."}]);

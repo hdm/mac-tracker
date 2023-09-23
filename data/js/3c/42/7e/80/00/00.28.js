@@ -1,1 +1,0 @@
-macDetailCallback("3c427e800000/28",[{"a":"22 Floor, Block C1, Nanshan I Park, No. 1001 Xueyuan Road, Nanshan District, Shenzhen guangdong CN 518071","o":"UBTECH ROBOTICS CORP","d":"2018-04-15","t":"add","s":"ieee","c":"CN"}]);

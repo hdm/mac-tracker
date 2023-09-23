@@ -1,1 +1,0 @@
-macDetailCallback("e0319e000000/24",[{"d":"2015-04-28","t":"add","a":"10900 NE 4th ST\nSuite 500\nBellevue Washington 98004\n","c":"UNITED STATES","o":"Valve Corporation"},{"d":"2015-08-27","t":"change","a":"10900 NE 4th ST Bellevue Washington US 98004","c":"US","o":"Valve Corporation"}]);

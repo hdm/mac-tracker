@@ -1,1 +1,0 @@
-macDetailCallback("b461ff000000/24",[{"d":"2012-09-08","t":"add","a":"Baadehavnsgade 2A\nCopenhagen SV Denmark 2450\n\n","c":"DENMARK","o":"Lumigon A/S"},{"d":"2015-08-27","t":"change","a":"Baadehavnsgade 2A Copenhagen SV Denmark DK 2450","c":"DK","o":"Lumigon A/S"}]);

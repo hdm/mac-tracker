@@ -1,1 +1,0 @@
-macDetailCallback("44d5f2000000/28",[{"d":"2019-05-17","t":"add","s":"ieee-mam.csv","a":"17 Ha'Mefalsim St. Kiryat Arye Petach Tikva Israel IL 4951251","c":"IL","o":"TIBA Research & Development (1986) LTD"}]);

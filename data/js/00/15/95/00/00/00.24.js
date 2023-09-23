@@ -1,1 +1,0 @@
-macDetailCallback("001595000000/24",[{"d":"2005-08-24","t":"add","a":"201 - 9865 West Saanich Road\nSidney BC V8L 5Y8\n\n","c":"CANADA","o":"Quester Tangent Corporation"},{"d":"2015-08-27","t":"change","a":"201 - 9865 West Saanich Road Sidney BC CA V8L 5Y8","c":"CA","o":"Quester Tangent Corporation"}]);

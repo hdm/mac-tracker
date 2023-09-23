@@ -1,1 +1,0 @@
-macDetailCallback("e48ad5000000/24",[{"d":"2010-12-22","t":"add","a":"14F, Daerung Posttower3\n182-4, Guro-dong, Guro-gu\nSeoul  152-746\n","c":"KOREA, REPUBLIC OF","o":"RF WINDOW CO., LTD."},{"d":"2015-08-27","t":"change","a":"14F, Daerung Posttower3 Seoul  KR 152-746","c":"KR","o":"RF WINDOW CO., LTD."}]);

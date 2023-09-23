@@ -1,1 +1,0 @@
-macDetailCallback("ac583b000000/24",[{"d":"2009-11-05","t":"add","a":"2-1-11-6F\nShibuya\nShibuya-ku Tokyo 150-0002\n","c":"JAPAN","o":"Human Assembler, Inc."},{"d":"2015-08-27","t":"change","a":"2-1-11-6F Shibuya-ku Tokyo JP 150-0002","c":"JP","o":"Human Assembler, Inc."}]);

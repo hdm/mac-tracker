@@ -1,1 +1,0 @@
-macDetailCallback("001d80000000/24",[{"d":"2007-08-18","t":"add","a":"No.26,Shangdi 6th St.Haidian District,\nBeijing  100085\n\n","c":"CHINA","o":"Beijing Huahuan Eletronics Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"No.26,Shangdi 6th St.Haidian District, Beijing  CN 100085","c":"CN","o":"Beijing Huahuan Eletronics Co.,Ltd"}]);

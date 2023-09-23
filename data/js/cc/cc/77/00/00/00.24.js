@@ -1,1 +1,0 @@
-macDetailCallback("cccc77000000/24",[{"d":"2022-07-20","t":"add","s":"ieee-oui.csv","a":"2nd Fl, Fine Venture Building, 41, Seongnam-daero 925beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea [13496] Bundang-gu  KR 13496","c":"KR","o":"Zaram Technology. Inc."}]);

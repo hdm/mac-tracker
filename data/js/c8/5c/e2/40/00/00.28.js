@@ -1,1 +1,0 @@
-macDetailCallback("c85ce2400000/28",[{"d":"2023-07-22","t":"add","s":"ieee-mam.csv","a":"2F.-1, No.268, Liancheng Rd., Zhonghe Dist., New Taipei City  TW  235038","c":"TW","o":"Jector Digital Corporation"}]);

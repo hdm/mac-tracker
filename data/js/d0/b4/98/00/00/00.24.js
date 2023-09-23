@@ -1,1 +1,0 @@
-macDetailCallback("d0b498000000/24",[{"d":"2012-10-13","t":"add","a":"15000 N Haggerty\nPlymouth Michigan 48170\n\n","c":"UNITED STATES","o":"Robert Bosch LLC Automotive Electronics"},{"d":"2015-08-27","t":"change","a":"15000 N Haggerty Plymouth Michigan US 48170","c":"US","o":"Robert Bosch LLC Automotive Electronics"}]);

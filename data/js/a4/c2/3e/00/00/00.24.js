@@ -1,1 +1,0 @@
-macDetailCallback("a4c23e000000/24",[{"d":"2022-11-22","t":"add","s":"ieee-oui.csv","a":"138 Huize Avenue, Shangxia District Dongjiang Hi tech Industrial Park, Shuikou Huizhou, Guangdong CN 516000","c":"CN","o":"Huizhou Speed Wireless Technology Co.,Ltd"}]);

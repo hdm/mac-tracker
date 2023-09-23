@@ -1,1 +1,0 @@
-macDetailCallback("604a1c000000/24",[{"d":"2013-03-06","t":"add","a":"No.377,Fude 1st Rd\nXizhi City\nTaipei  221\n","c":"TAIWAN, PROVINCE OF CHINA","o":"SUYIN Corporation"},{"d":"2015-08-27","t":"change","a":"No.377,Fude 1st Rd Taipei  TW 221","c":"TW","o":"SUYIN Corporation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000a8f000000/24",[{"d":"2002-08-03","t":"add","a":"306 Riverseven\n4-18 Haregi-Honmachi\nKochi  780-8088\n","c":"JAPAN","o":"Aska International Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"306 Riverseven Kochi  JP 780-8088","c":"JP","o":"Aska International Inc."}]);

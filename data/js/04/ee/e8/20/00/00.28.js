@@ -1,1 +1,0 @@
-macDetailCallback("04eee8200000/28",[{"d":"2021-11-03","t":"add","s":"ieee-mam.csv","a":"No.305-1 Torch Road, High District, WeiHai WeiHai ShanDong CN 264200","c":"CN","o":"Hengke Technology Industry Co., Ltd."}]);

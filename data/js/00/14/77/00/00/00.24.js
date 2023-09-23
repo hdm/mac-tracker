@@ -1,1 +1,0 @@
-macDetailCallback("001477000000/24",[{"d":"2005-05-07","t":"add","a":"950 Cowie st.\nGranby Quebec J2J 1P2\n\n","c":"CANADA","o":"Nertec  Inc."},{"d":"2015-08-27","t":"change","a":"950 Cowie st.\nGranby  Quebec  J2J 1P2\n\n","c":"CA","o":"Nertec  Inc."},{"d":"2018-01-30","t":"change","a":"950 Cowie st. Granby Quebec CA J2J 1P2","c":"CA","o":"Trilliant"}]);

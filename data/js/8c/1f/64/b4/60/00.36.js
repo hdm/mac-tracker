@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64b46000/36",[{"d":"2021-09-11","t":"add","s":"ieee-oui36.csv","a":"SAO MIGUEL STREET, 301 - 201 - TIJUCA RIO DE JANEIRO RIO DE JANEIRO BR 20530420","c":"BR","o":"PHYGITALL SOLUÇÕES EM INTERNET DAS COISAS"}]);

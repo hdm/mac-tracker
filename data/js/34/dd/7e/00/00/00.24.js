@@ -1,1 +1,0 @@
-macDetailCallback("34dd7e000000/24",[{"d":"2019-05-23","t":"add","s":"ieee-oui.csv","a":"Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen Shenzhen Guangdong CN 518000","c":"CN","o":"Umeox Innovations Co.,Ltd"}]);

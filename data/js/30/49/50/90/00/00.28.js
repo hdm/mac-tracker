@@ -1,1 +1,0 @@
-macDetailCallback("304950900000/28",[{"d":"2020-04-26","t":"add","s":"ieee-mam.csv","a":"Room 507, building 1, No. 2071, Hongmei Road, Xuhui District,  Shanghai  CN 200030","c":"CN","o":"Shanghai gatang technology CO.,LTD"}]);

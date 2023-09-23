@@ -1,1 +1,0 @@
-macDetailCallback("0007c6000000/24",[{"d":"2001-10-24","t":"add","a":"Weibe Breite 7\nD-49084 Osnabruck\n\n","c":"GERMANY","o":"VDS Vosskuhler GmbH"},{"d":"2015-08-27","t":"change","a":"Weibe Breite 7   DE","c":"DE","o":"VDS Vosskuhler GmbH"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000f14000000/24",[{"d":"2004-01-23","t":"add","a":"Mindray Building, Keji 12th Road South\nHigh-tech Industrial Park, Nanshan\nShenzhen Guangdong 518057\n","c":"CHINA","o":"Mindray Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Mindray Building, Keji 12th Road South Shenzhen Guangdong CN 518057","c":"CN","o":"Mindray Co., Ltd."}]);

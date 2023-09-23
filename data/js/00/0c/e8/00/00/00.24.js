@@ -1,1 +1,0 @@
-macDetailCallback("000ce8000000/24",[{"d":"2003-04-08","t":"add","a":"HeiQiaoTang TangXia TianHe\nGuangZhou GuangDong 510665\n\n","c":"CHINA","o":"GuangZhou AnJuBao Co., Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"HeiQiaoTang TangXia TianHe GuangZhou GuangDong CN 510665","c":"CN","o":"GuangZhou AnJuBao Co., Ltd"}]);

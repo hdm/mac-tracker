@@ -1,1 +1,0 @@
-macDetailCallback("dc3643500000/28",[{"d":"2021-11-20","t":"add","s":"ieee-mam.csv","a":"4F, BLDG. 4, 16# XIYUAN YI ROAD HANGZHOU, ZHEJIANG,CHINA 310030 hangzhou zhejiang CN 310000","c":"CN","o":"Hangzhou Chingan Tech Co., Ltd."}]);

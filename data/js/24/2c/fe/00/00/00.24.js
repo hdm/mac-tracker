@@ -1,1 +1,0 @@
-macDetailCallback("242cfe000000/24",[{"d":"2022-03-10","t":"add","s":"ieee-oui.csv","a":"No.969 Wenyi West Road, Wuchang Street, Yuhang District Hangzhou Zhejiang CN 310024","c":"CN","o":"Zhejiang Tmall Technology Co., Ltd."}]);

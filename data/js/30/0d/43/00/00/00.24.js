@@ -1,1 +1,0 @@
-macDetailCallback("300d43000000/24",[{"d":"2015-04-14","t":"add","a":"Keilalahdentie 2-4\nEspoo N.A. 02150\n\n","c":"FINLAND","o":"Microsoft Mobile Oy"},{"d":"2015-08-27","t":"change","a":"Keilalahdentie 2-4 Espoo N.A. FI 02150","c":"FI","o":"Microsoft Mobile Oy"}]);

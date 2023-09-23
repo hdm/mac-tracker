@@ -1,1 +1,0 @@
-macDetailCallback("000ba7000000/24",[{"d":"2002-11-19","t":"add","a":"3061-B Zanker Road\nSan Jose CA 95134\n\n","c":"UNITED STATES","o":"Maranti Networks","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3061-B Zanker Road San Jose CA US 95134","c":"US","o":"Maranti Networks"}]);

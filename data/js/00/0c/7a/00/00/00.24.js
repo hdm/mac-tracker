@@ -1,1 +1,0 @@
-macDetailCallback("000c7a000000/24",[{"d":"2003-02-07","t":"add","a":"Anton Maria Schyrle Str. 7\nReutte Tirol 6600\n\n","c":"AUSTRIA","o":"DaTARIUS Technologies GmbH"},{"d":"2015-08-27","t":"change","a":"Anton Maria Schyrle Str. 7 Reutte Tirol AT 6600","c":"AT","o":"DaTARIUS Technologies GmbH"}]);

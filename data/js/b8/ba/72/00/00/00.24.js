@@ -1,1 +1,0 @@
-macDetailCallback("b8ba72000000/24",[{"d":"2010-05-14","t":"add","a":"10 cite rougemont\nParis  75009\n\n","c":"FRANCE","o":"Cynove"},{"d":"2015-08-27","t":"change","a":"10 cite rougemont Paris  FR 75009","c":"FR","o":"Cynove"}]);

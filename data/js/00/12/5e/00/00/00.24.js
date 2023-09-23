@@ -1,1 +1,0 @@
-macDetailCallback("00125e000000/24",[{"d":"2004-09-12","t":"add","a":"via Vetraia, 11\nViareggio LUCCA 55049\n\n","c":"ITALY","o":"CAEN"},{"d":"2015-08-27","t":"change","a":"via Vetraia, 11 Viareggio LUCCA IT 55049","c":"IT","o":"CAEN"}]);

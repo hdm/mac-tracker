@@ -1,1 +1,0 @@
-macDetailCallback("001e23000000/24",[{"d":"2007-09-25","t":"add","a":"1903 S Grant St\nDenver CO 80210\n\n","c":"UNITED STATES","o":"Electronic Educational Devices, Inc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1903 S Grant St Denver CO US 80210","c":"US","o":"Electronic Educational Devices, Inc"}]);

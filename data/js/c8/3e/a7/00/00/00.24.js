@@ -1,1 +1,0 @@
-macDetailCallback("c83ea7000000/24",[{"d":"2010-08-05","t":"add","a":"Heerweg 15A\nDenkendorf BW D-73770\n\n","c":"GERMANY","o":"KUNBUS GmbH"},{"d":"2013-03-27","t":"change","a":"Heerweg 15C\nDenkendorf BW D-73770\n\n","c":"GERMANY","o":"KUNBUS GmbH"},{"d":"2015-08-27","t":"change","a":"Heerweg 15C Denkendorf BW DE D-73770","c":"DE","o":"KUNBUS GmbH"}]);

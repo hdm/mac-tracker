@@ -1,1 +1,0 @@
-macDetailCallback("dcbb96000000/24",[{"d":"2021-05-23","t":"add","s":"ieee-oui.csv","a":"Calle 130A #59C-42, Barrio Ciudad Jardin Norte Bogota Distrito Capital de Bogota CO 111111","c":"CO","o":"Full Solution Telecom"}]);

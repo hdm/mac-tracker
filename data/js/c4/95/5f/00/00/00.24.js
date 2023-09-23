@@ -1,1 +1,0 @@
-macDetailCallback("c4955f000000/24",[{"d":"2023-08-25","t":"add","s":"ieee-oui.csv","a":"3rd Floor, Building A4, Phase I, Zhongan Chuanggu Science and Technology Park, No. 900, Wangjiang West Road, High-tech Zone Hefei Anhui CN 230000","c":"CN","o":"Anhui Saida Technology Limited Liability Company"}]);

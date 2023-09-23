@@ -1,1 +1,0 @@
-macDetailCallback("bcd5b6000000/24",[{"d":"2009-12-01","t":"add","a":"10611 roundwood glen ct\nJacksonville Fl 32256\n\n","c":"UNITED STATES","o":"d2d technologies"},{"d":"2015-08-27","t":"change","a":"10611 roundwood glen ct Jacksonville Fl US 32256","c":"US","o":"d2d technologies"}]);

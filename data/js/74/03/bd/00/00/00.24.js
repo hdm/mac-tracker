@@ -1,1 +1,0 @@
-macDetailCallback("7403bd000000/24",[{"d":"2014-11-11","t":"add","a":"AKAMONDORI Bldg, 30-20, Ohsu 3-chome,\nMinami-ku, Nagoya Aichi Pref. 457-8520\n\n","c":"JAPAN","o":"Buffalo Inc."},{"d":"2015-10-10","t":"change","a":"AKAMONDORI Bldg, 30-20, Ohsu 3-chome, Minami-ku, Nagoya Aichi Pref. JP 457-8520","c":"JP","o":"BUFFALO.INC"}]);

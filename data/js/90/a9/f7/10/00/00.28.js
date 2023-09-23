@@ -1,1 +1,0 @@
-macDetailCallback("90a9f7100000/28",[{"d":"2023-09-08","t":"add","s":"ieee-mam.csv","a":"9F Building 2, Daqian Industrial Park, District 67,XingDong Community, Xin'an Street, Bao'an District Shenzhen  Guangdong CN 518000","c":"CN","o":"Shenzhen Chainway Information Technology Co., Ltd"}]);

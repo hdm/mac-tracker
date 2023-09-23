@@ -1,1 +1,0 @@
-macDetailCallback("40040c000000/24",[{"d":"2011-04-22","t":"add","a":"#411, Will Town, 402-3\nSang-Dong, Wonmi-Gu,\nBucheon-Si Gyeonggi-Do 420-814\n","c":"KOREA, REPUBLIC OF","o":"A&T"},{"d":"2015-08-27","t":"change","a":"#411, Will Town, 402-3 Bucheon-Si Gyeonggi-Do KR 420-814","c":"KR","o":"A&T"}]);

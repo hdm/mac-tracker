@@ -1,1 +1,0 @@
-macDetailCallback("f0af50000000/24",[{"d":"2017-12-20","t":"add","a":"319 Rue Franquet Suite F\n\n\n","c":"Quebec  QC  G1P 4R4","o":"Phantom Intelligence"},{"d":"2017-12-23","t":"change","a":"319 Rue Franquet Suite F Quebec QC CA G1P 4R4","c":"CA","o":"Phantom Intelligence"}]);

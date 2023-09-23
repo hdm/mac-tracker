@@ -1,1 +1,0 @@
-macDetailCallback("00210d000000/24",[{"d":"2008-04-14","t":"add","a":"SARIYUNDONG ILSANDONG-GU\n252-23\nGOYANG KYUNGGI 411530\n","c":"KOREA, REPUBLIC OF","o":"SAMSIN INNOTEC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"SARIYUNDONG ILSANDONG-GU GOYANG KYUNGGI KR 411530","c":"KR","o":"SAMSIN INNOTEC"}]);

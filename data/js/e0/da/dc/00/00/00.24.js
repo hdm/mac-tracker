@@ -1,1 +1,0 @@
-macDetailCallback("e0dadc000000/24",[{"d":"2011-09-02","t":"add","a":"3-12, Moriyacho, Kanagawa-ku\nYokohama-shi Kanagawa 221-0022\n\n","c":"JAPAN","o":"JVC KENWOOD Corporation"},{"d":"2015-08-27","t":"change","a":"3-12, Moriyacho, Kanagawa-ku Yokohama-shi Kanagawa JP 221-0022","c":"JP","o":"JVC KENWOOD Corporation"}]);

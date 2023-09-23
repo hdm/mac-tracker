@@ -1,1 +1,0 @@
-macDetailCallback("0cf9c0000000/24",[{"d":"2015-09-22","t":"add","a":"130 kings road\nBrentwood  Essex  08854\n\n","c":"GB","o":"BSkyB Ltd"},{"d":"2015-11-03","t":"change","a":"130 Kings Road Brentwood Essex GB 08854","c":"GB","o":"BSkyB Ltd"},{"d":"2022-04-10","t":"change","s":"ieee-oui.csv","a":"130 Kings Road Brentwood Essex GB 08854","c":"GB","o":"SKY UK LIMITED"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001d1d000000/24",[{"d":"2007-06-25","t":"add","a":"653-5 Banghak-Dong, Dobong-Ku\nSeoul  132-846\n\n","c":"KOREA, REPUBLIC OF","o":"Inter-M Corporation"},{"d":"2015-08-27","t":"change","a":"653-5 Banghak-Dong, Dobong-Ku Seoul  KR 132-846","c":"KR","o":"Inter-M Corporation"}]);

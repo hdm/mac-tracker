@@ -1,1 +1,0 @@
-macDetailCallback("c09c04000000/24",[{"d":"2016-08-10","t":"add","a":"No. 15, the first Gaoxin road Hi-tech development district Xi'an Shaanxi CN 710075","c":"CN","o":"Shaanxi GuoLian Digital TV Technology Co.,Ltd."}]);

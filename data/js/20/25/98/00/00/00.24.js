@@ -1,1 +1,0 @@
-macDetailCallback("202598000000/24",[{"d":"2011-12-07","t":"add","a":"#401 Sehwa, 355-1\nYatap, Bundang\nSungnam Gyeonggi 463-828\n","c":"KOREA, REPUBLIC OF","o":"Teleview"},{"d":"2015-08-27","t":"change","a":"#401 Sehwa, 355-1 Sungnam Gyeonggi KR 463-828","c":"KR","o":"Teleview"}]);

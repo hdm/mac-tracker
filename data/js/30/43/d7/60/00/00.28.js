@@ -1,1 +1,0 @@
-macDetailCallback("3043d7600000/28",[{"d":"2022-01-20","t":"add","s":"ieee-mam.csv","a":"Area A 3rd Floor, Area A 5rd Floor and 6th Floor, 301, building 2, 7th Industrial Park, Yulv Community,Yutang Street, Guangming District,  Shenzhen  CN 518000","c":"CN","o":"Sprocomm Technologies Co., Ltd.Guangming Branch"}]);

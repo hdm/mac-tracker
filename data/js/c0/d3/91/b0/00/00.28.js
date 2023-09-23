@@ -1,1 +1,0 @@
-macDetailCallback("c0d391b00000/28",[{"a":"","o":"Private","d":"2016-05-22","t":"add","s":"ieee"},{"d":"2022-05-15","t":"change","s":"ieee-mam.csv","a":"No.1027, 24th Main, 11th Cross, Bangalore Karnataka IN 560102","c":"IN","o":"Celliber Technologies Pvt Limited"}]);

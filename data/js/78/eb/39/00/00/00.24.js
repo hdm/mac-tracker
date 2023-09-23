@@ -1,1 +1,0 @@
-macDetailCallback("78eb39000000/24",[{"d":"2015-04-08","t":"add","a":"Av. Gral. Paz 5445\nSan MartÃ­n Buenos Aires 1650\n\n","c":"ARGENTINA","o":"Instituto Nacional de TecnologÃ­a Industrial"},{"d":"2015-08-27","t":"change","a":"Av. Gral. Paz 5445 San Martín Buenos Aires AR 1650 ","c":"AR","o":"Instituto Nacional de Tecnología Industrial"}]);

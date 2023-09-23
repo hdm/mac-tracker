@@ -1,1 +1,0 @@
-macDetailCallback("cc3c3f000000/24",[{"d":"2013-02-23","t":"add","a":"Talhofstr. 32\nGilching Bayern 82205\n\n","c":"GERMANY","o":"SA.S.S. Datentechnik AG"},{"d":"2015-08-27","t":"change","a":"Talhofstr. 32 Gilching Bayern DE 82205","c":"DE","o":"SA.S.S. Datentechnik AG"}]);

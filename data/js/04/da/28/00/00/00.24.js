@@ -1,1 +1,0 @@
-macDetailCallback("04da28000000/24",[{"d":"2022-12-31","t":"add","s":"ieee-oui.csv","a":"3rd Floor, Building A, ICC Industrial Park, Kaicheng Second Road, Hangcheng Street, Baoan District, Shenzhen City shenzhen  CN 518110","c":"CN","o":"Chongqing Zhouhai Intelligent Technology Co., Ltd"}]);

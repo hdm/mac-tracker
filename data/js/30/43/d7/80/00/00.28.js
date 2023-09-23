@@ -1,1 +1,0 @@
-macDetailCallback("3043d7800000/28",[{"d":"2022-01-20","t":"add","s":"ieee-mam.csv","a":"3-36588?No. 1800, Panyuan Road, Changxing Town, Chongming District Shanghai  CN 202150","c":"CN","o":"Kesu (Shanghai) Electronic Technology Co., Ltd"}]);

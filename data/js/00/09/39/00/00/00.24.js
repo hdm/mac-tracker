@@ -1,1 +1,0 @@
-macDetailCallback("000939000000/24",[{"d":"2002-03-29","t":"add","a":"6-8 Shinbashi 4-chome\nMinato-ku Tokyo 105-0004\n\n","c":"JAPAN","o":"ShibaSoku Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6-8 Shinbashi 4-chome Minato-ku Tokyo JP 105-0004","c":"JP","o":"ShibaSoku Co.,Ltd."}]);

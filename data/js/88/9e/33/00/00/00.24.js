@@ -1,1 +1,0 @@
-macDetailCallback("889e33000000/24",[{"d":"2019-02-28","t":"add","s":"ieee-oui.csv","a":"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006","c":"CN","o":"TCT mobile ltd"}]);

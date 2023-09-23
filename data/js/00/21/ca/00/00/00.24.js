@@ -1,1 +1,0 @@
-macDetailCallback("0021ca000000/24",[{"d":"2008-06-18","t":"add","a":"Mobile Techno Bldg Room 910\n573-13, Bokhyeon-dong, Buk-gu\nDae-Gu  702-020\n","c":"KOREA, REPUBLIC OF","o":"ART System Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Mobile Techno Bldg Room 910 Dae-Gu  KR 702-020","c":"KR","o":"ART System Co., Ltd."}]);

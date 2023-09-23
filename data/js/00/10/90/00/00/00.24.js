@@ -1,1 +1,0 @@
-macDetailCallback("001090000000/24",[{"d":"1998-04-22","t":"add","a":"55 TEMPLE PLACE\nBOSTON  MA  02111\n\n","c":"UNITED STATES","o":"CIMETRICS, INC."},{"d":"2001-10-24","t":"change","a":"55 TEMPLE PLACE\nBOSTON MA 02111\n\n","c":"UNITED STATES","o":"CIMETRICS, INC."},{"d":"2015-08-27","t":"change","a":"55 TEMPLE PLACE BOSTON MA US 02111","c":"US","o":"CIMETRICS, INC."}]);

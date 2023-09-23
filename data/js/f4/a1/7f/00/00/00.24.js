@@ -1,1 +1,0 @@
-macDetailCallback("f4a17f000000/24",[{"d":"2022-11-01","t":"add","s":"ieee-oui.csv","a":"No. 650 Qingda Road, Heqing Industrial Zone, Shanghai Shanghai  CN 201201","c":"CN","o":"Marquardt Electronics Technology (Shanghai) Co.Ltd"}]);

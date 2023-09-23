@@ -1,1 +1,0 @@
-macDetailCallback("84f44c000000/24",[{"d":"2022-05-17","t":"add","s":"ieee-oui.csv","a":"6F., No.7, Sec. 2, Xianmin Blvd., Banqiao Dist.,  New Taipei City  TW 22041","c":"TW","o":"International Integrated Systems., Inc."}]);

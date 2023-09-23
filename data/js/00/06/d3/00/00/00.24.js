@@ -1,1 +1,0 @@
-macDetailCallback("0006d3000000/24",[{"d":"2001-10-24","t":"add","a":"1394 Borregor Ave.\nSunnyvale CA 94089\n\n","c":"UNITED STATES","o":"Alpha Telecom, Inc. U.S.A."},{"d":"2015-08-27","t":"change","a":"1394 Borregor Ave. Sunnyvale CA US 94089","c":"US","o":"Alpha Telecom, Inc. U.S.A."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("dcdc07000000/24",[{"d":"2015-07-10","t":"add","a":"Televisieweg 159 1322 BH  Almere\nAlmere - -\n\n","c":"NETHERLANDS","o":"TRP Systems BV"},{"d":"2015-08-27","t":"change","a":"Televisieweg 159 1322 BH  Almere Almere - NL -","c":"NL","o":"TRP Systems BV"}]);

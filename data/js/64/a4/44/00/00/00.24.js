@@ -1,1 +1,0 @@
-macDetailCallback("64a444000000/24",[{"d":"2023-09-01","t":"add","s":"ieee-oui.csv","a":"Loongson Industrial Park, building 2 , Zhongguancun Environmental protection park, Haidian District Beijing  CN 100095","c":"CN","o":"Loongson Technology Corporation Limited"}]);

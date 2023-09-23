@@ -1,1 +1,0 @@
-macDetailCallback("1054d2500000/28",[{"d":"2021-12-25","t":"add","s":"ieee-mam.csv","a":"Unit 10, 16F, Hi-Tech Industrial Centre, Block A, 5-21 Pat Tin Par Street, Tsuen Wan NT, HK Hong Kong  CN 999077","c":"CN","o":"Sybersense"}]);

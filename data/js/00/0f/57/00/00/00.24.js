@@ -1,1 +1,0 @@
-macDetailCallback("000f57000000/24",[{"d":"2004-01-23","t":"add","a":"3F., Hwain Bldg., 1559-12 Seocho 3-dong,\nSecho-gu,\nSeoul  137-873\n","c":"KOREA, REPUBLIC OF","o":"CABLELOGIC Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3F., Hwain Bldg., 1559-12 Seocho 3-dong, Seoul  KR 137-873","c":"KR","o":"CABLELOGIC Co., Ltd."}]);

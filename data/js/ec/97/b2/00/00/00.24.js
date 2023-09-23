@@ -1,1 +1,0 @@
-macDetailCallback("ec97b2000000/24",[{"d":"2019-12-12","t":"add","s":"ieee-oui.csv","a":"198# ChangJiang Road, XuanWu District, 17F, SUMEC Building Nanjing JiangSu CN 210018","c":"CN","o":"SUMEC Machinery & Electric Co.,Ltd."}]);

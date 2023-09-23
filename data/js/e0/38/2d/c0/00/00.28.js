@@ -1,1 +1,0 @@
-macDetailCallback("e0382dc00000/28",[{"d":"2022-09-17","t":"add","s":"ieee-mam.csv","a":"Tianren Road,Chengdu Hi-tech Zone ChengDu Sichuan CN 610041","c":"CN","o":"SiLAND Chengdu Technology Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("147373000000/24",[{"d":"2010-02-13","t":"add","a":"ANIBAL ST.\nGEBZE\nKOCAELI  41470\n","c":"TURKEY","o":"TUBITAK UEKAE"},{"d":"2015-08-27","t":"change","a":"ANIBAL ST. KOCAELI  TR 41470","c":"TR","o":"TUBITAK UEKAE"}]);

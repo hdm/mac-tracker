@@ -1,1 +1,0 @@
-macDetailCallback("e44c6c000000/24",[{"d":"2013-11-12","t":"add","a":"No 3038, Lo Sha Road, Liantang\nLuoHu District\nShenzhen Guangdong 518004\n","c":"CHINA","o":"Shenzhen Guo Wei Electronic Co,. Ltd."},{"d":"2015-08-27","t":"change","a":"No 3038, Lo Sha Road, Liantang Shenzhen Guangdong CN 518004","c":"CN","o":"Shenzhen Guo Wei Electronic Co,. Ltd."}]);

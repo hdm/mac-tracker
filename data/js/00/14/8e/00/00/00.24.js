@@ -1,1 +1,0 @@
-macDetailCallback("00148e000000/24",[{"d":"2005-05-07","t":"add","a":"1-46-15#B1F\nAsahigaoka\nNerima-ku Tokyo 176-0005\n","c":"JAPAN","o":"Tele Power Inc."},{"d":"2015-08-27","t":"change","a":"1-46-15#B1F Nerima-ku Tokyo JP 176-0005","c":"JP","o":"Tele Power Inc."}]);

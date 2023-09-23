@@ -1,1 +1,0 @@
-macDetailCallback("00033f000000/24",[{"d":"2000-09-08","t":"add","a":"3 Azrieli Towers\nTel-Aviv 67023\n\n","c":"ISRAEL","o":"BigBand Networks, Ltd."},{"d":"2015-08-27","t":"change","a":"3 Azrieli Towers   IL","c":"IL","o":"BigBand Networks, Ltd."}]);

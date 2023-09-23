@@ -1,1 +1,0 @@
-macDetailCallback("0022e8000000/24",[{"d":"2008-07-30","t":"add","a":"509-1, Bundang Techno Park D-dong,\n151 Yatap-dong, Bundang-gu\nSeongNam Kyunggi-do 463-760\n","c":"KOREA, REPUBLIC OF","o":"Applition Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"509-1, Bundang Techno Park D-dong, SeongNam Kyunggi-do KR 463-760","c":"KR","o":"Applition Co., Ltd."}]);

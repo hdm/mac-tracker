@@ -1,1 +1,0 @@
-macDetailCallback("ccc261700000/28",[{"d":"2020-04-03","t":"add","s":"ieee-mam.csv","a":"No. 200, Sec. 3, Zhonghuan Rd., Xinzhuang Dist., New Taipei City 24242, Taiwan (R.O.C.) Taipei  TW 24242","c":"TW","o":"Ability Enterprise Co., Ltd"}]);

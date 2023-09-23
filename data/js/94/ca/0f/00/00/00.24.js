@@ -1,1 +1,0 @@
-macDetailCallback("94ca0f000000/24",[{"d":"2012-02-24","t":"add","a":"2840 2nd Ave SE\nCalgary Alberta T2A7X9\n\n","c":"CANADA","o":"Honeywell Analytics"},{"d":"2015-08-27","t":"change","a":"2840 2nd Ave SE Calgary Alberta CA T2A7X9","c":"CA","o":"Honeywell Analytics"}]);

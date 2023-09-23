@@ -1,1 +1,0 @@
-macDetailCallback("001bf4000000/24",[{"d":"2007-04-08","t":"add","a":"RM.1512 15/F SHATIN GALLERIA\n18-24 SHAN MEI ST, FOTAN\n\n","c":"HONG KONG","o":"KENWIN INDUSTRIAL(HK) LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"RM.1512 15/F SHATIN GALLERIA   HK","c":"HK","o":"KENWIN INDUSTRIAL(HK) LTD."}]);

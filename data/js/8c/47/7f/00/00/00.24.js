@@ -1,1 +1,0 @@
-macDetailCallback("8c477f000000/24",[{"d":"2021-11-26","t":"add","s":"ieee-oui.csv","a":"613 Room, 171, Magokjungang-ro, Gangseo-gu, Seoul, Republic of Korea Seoul  KR 07788","c":"KR","o":"NambooSolution"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8caedb000000/24",[{"a":"Predelnaya st 57/2 Ekaterinburg Sverdlovskaya oblast  RU 620161","o":"NAG LLC","d":"2018-09-10","t":"add","s":"ieee","c":"RU"},{"d":"2021-04-04","t":"change","s":"ieee-oui.csv","a":"12A, Krasnolesya Str., off 507 Ekaterinburg Sverdlovskaya oblast RU 620110","c":"RU","o":"NAGTECH LLC"}]);

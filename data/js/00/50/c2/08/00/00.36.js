@@ -1,1 +1,0 @@
-macDetailCallback("0050c2080000/36",[{"a":"21 Avenue de la plaine fleure 38240 Meylon  FR","o":"AIM","d":"2008-07-30","t":"add","s":"ieee","c":"FR"},{"d":"2019-07-01","t":"change","s":"ieee-iab.csv","a":"21 Avenue de la plaine fleure 38240 Meylon  FR 12345","c":"FR","o":"AIM"}]);

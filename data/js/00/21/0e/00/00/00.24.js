@@ -1,1 +1,0 @@
-macDetailCallback("00210e000000/24",[{"d":"2008-04-14","t":"add","a":"31 Lechi St\nBnei - Brak  51114\n\n","c":"ISRAEL","o":"Orpak Systems L.T.D.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"31 Lechi St Bnei - Brak  IL 51114","c":"IL","o":"Orpak Systems L.T.D."}]);

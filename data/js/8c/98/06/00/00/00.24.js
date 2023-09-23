@@ -1,1 +1,0 @@
-macDetailCallback("8c9806000000/24",[{"d":"2022-03-12","t":"add","s":"ieee-oui.csv","a":"the 4th floor,Productivity Building D,#5 Hi-Tech Middle 2nd Road,Shenzhen Hi-Tech Industrial Park, Nanshan District,Shenzhen,China Shenzhen  CN 518000","c":"CN","o":"SHENZHEN SEI ROBOTICS CO.,LTD"}]);

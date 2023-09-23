@@ -1,1 +1,0 @@
-macDetailCallback("70b3d56ac000/36",[{"d":"2020-06-09","t":"add","s":"ieee-oui36.csv","a":"51-17-B Menara BHL Bank, Jalan Sultan Ahmad Shah Georgetown Penang MY 10050","c":"MY","o":"Ketronixs Sdn Bhd"}]);

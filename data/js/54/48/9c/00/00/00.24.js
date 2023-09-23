@@ -1,1 +1,0 @@
-macDetailCallback("54489c000000/24",[{"d":"2016-01-21","t":"add","a":"11F.-6, No. 7,Sec. 3, New Taipei Blvd., Xinzhuang Dist. New Taipei City  TW 24250","c":"TW","o":"CDOUBLES ELECTRONICS CO. LTD."}]);

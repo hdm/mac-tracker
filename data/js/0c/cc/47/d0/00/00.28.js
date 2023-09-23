@@ -1,1 +1,0 @@
-macDetailCallback("0ccc47d00000/28",[{"d":"2022-10-01","t":"add","s":"ieee-mam.csv","a":"Building 2, Yaochuan Industrial Zone, Tangwei Community, Fuhai Street, Bao'an District, Shenzhen 518103,China Shenzhen  CN 518103","c":"CN","o":"GODOX Photo Equipment Co., Ltd."}]);

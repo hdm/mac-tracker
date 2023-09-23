@@ -1,1 +1,0 @@
-macDetailCallback("8c1f643ff000/36",[{"d":"2021-09-01","t":"add","s":"ieee-oui36.csv","a":"Building 2,No 1818,Chengbei Road,Jiading District shanghai shanghai CN 201800","c":"CN","o":"UISEE(SHANGHAI) AUTOMOTIVE TECHNOLOGIES LTD."}]);

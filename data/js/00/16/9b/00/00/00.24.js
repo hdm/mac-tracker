@@ -1,1 +1,0 @@
-macDetailCallback("00169b000000/24",[{"d":"2005-11-29","t":"add","a":"11, 13 avenue de Bel Air\nVilleurbanne Rhone 69100\n\n","c":"FRANCE","o":"Alstom Transport"},{"d":"2015-08-27","t":"change","a":"11, 13 avenue de Bel Air Villeurbanne Rhone FR 69100","c":"FR","o":"Alstom Transport"}]);

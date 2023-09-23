@@ -1,1 +1,0 @@
-macDetailCallback("986d35000000/28",[{"a":"25F, Malata Technology Building, No. 9998 Shennan Avenue, Hi-techPark, Nanshan District Shenzhen GUANGDONG CN 518057","o":"Shenzhen MALATA Mobile Communication Co.,LTD","d":"2016-01-10","t":"add","s":"ieee","c":"CN"}]);

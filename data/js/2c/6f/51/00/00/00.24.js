@@ -1,1 +1,0 @@
-macDetailCallback("2c6f51000000/24",[{"d":"2020-05-01","t":"add","s":"ieee-oui.csv","a":"728 Kaichuang Avenue,Huangpu Distric Guangzhou Guangdong CN 510530","c":"CN","o":"Herospeed Digital Technology Limited"}]);

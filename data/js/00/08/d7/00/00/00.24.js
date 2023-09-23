@@ -1,1 +1,0 @@
-macDetailCallback("0008d7000000/24",[{"d":"2001-12-23","t":"add","a":"1-11-17 Chiyoda\nSagamihara Kanagawa 229-0037\n\n","c":"JAPAN","o":"HOW CORPORATION","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-11-17 Chiyoda Sagamihara Kanagawa JP 229-0037","c":"JP","o":"HOW CORPORATION"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("108286000000/24",[{"d":"2018-12-18","t":"add","s":"ieee-oui.csv","a":"2nd floor, A building, Sanyo New Industrial Area, West of Maoyi, Shajing  Baoan District Shenzhen Shenzhen CN 518104","c":"CN","o":"Luxshare Precision Industry Co.,Ltd"}]);

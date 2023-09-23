@@ -1,1 +1,0 @@
-macDetailCallback("bc2643000000/24",[{"d":"2018-01-03","t":"add","a":"35 Austin Rumble Crt.\n\n\n","c":"King City  ON  L7B0B2","o":"Elprotronic Inc."},{"d":"2018-01-05","t":"change","a":"35 Austin Rumble Crt. King City ON CA L7B0B2","c":"CA","o":"Elprotronic Inc."}]);

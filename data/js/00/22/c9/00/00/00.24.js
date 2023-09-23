@@ -1,1 +1,0 @@
-macDetailCallback("0022c9000000/24",[{"d":"2008-07-19","t":"add","a":"Dohlenstr 32\nOberhausen NRW 46145\n\n","c":"GERMANY","o":"Lenord, Bauer & Co GmbH"},{"d":"2015-08-27","t":"change","a":"Dohlenstr 32 Oberhausen NRW DE 46145","c":"DE","o":"Lenord, Bauer & Co GmbH"}]);

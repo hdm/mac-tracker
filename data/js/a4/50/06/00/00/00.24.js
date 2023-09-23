@@ -1,1 +1,0 @@
-macDetailCallback("a45006000000/24",[{"d":"2020-02-28","t":"add","s":"ieee-oui.csv","a":"longhua dalang huaronglu lianjiangongyeyuan 4-5 shenzhen guangdong CN 518000","c":"CN","o":"SHENZHEN HUACHUANG SHIDAI TECHNOLOGYCO.,LTD"}]);

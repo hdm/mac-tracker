@@ -1,1 +1,0 @@
-macDetailCallback("001a60000000/24",[{"d":"2006-11-29","t":"add","a":"3th Fl.,DaeSan Plaza B/D,Guun-Dong, 12-1,Gwonseon-Gu\nSuwon-si Kyeonggi-Do 441-814\n\n","c":"KOREA, REPUBLIC OF","o":"Wave Electronics Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"3th Fl.,DaeSan Plaza B/D,Guun-Dong, 12-1,Gwonseon-Gu Suwon-si Kyeonggi-Do KR 441-814","c":"KR","o":"Wave Electronics Co.,Ltd."}]);

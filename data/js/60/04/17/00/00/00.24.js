@@ -1,1 +1,0 @@
-macDetailCallback("600417000000/24",[{"d":"2014-07-25","t":"add","a":"Room 805-808, New T Castle B/D, 429-1\nGasan-Dong, Geumchen-Gu\nSeoul 153-803\n","c":"KOREA, REPUBLIC OF","o":"POSBANK CO.,LTD"},{"d":"2015-08-27","t":"change","a":"Room 805-808, New T Castle B/D, 429-1  Seoul KR 153-803","c":"KR","o":"POSBANK CO.,LTD"}]);

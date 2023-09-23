@@ -1,1 +1,0 @@
-macDetailCallback("e0b6f5000000/28",[{"a":"8th F/L, UNIQUEST B/D, 314, Hwangsaeul-ro, Bundang-gu Seongnam-si Gyeonggi-do KR 13591","o":"BeSTAR Corporation","d":"2016-02-21","t":"add","s":"ieee","c":"KR"}]);

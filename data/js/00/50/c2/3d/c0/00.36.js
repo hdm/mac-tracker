@@ -1,1 +1,0 @@
-macDetailCallback("0050c23dc000/36",[{"a":"PO Box 455 Asker  NO N-1373","o":"3D perception","d":"2008-07-30","t":"add","s":"ieee","c":"NO"},{"d":"2023-02-07","t":"change","s":"ieee-iab.csv","a":"Nye Vakas vei 14 Hvalstad  NO 1395","c":"NO","o":"3D perception AS"}]);

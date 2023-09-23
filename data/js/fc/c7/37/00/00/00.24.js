@@ -1,1 +1,0 @@
-macDetailCallback("fcc737000000/24",[{"d":"2022-04-17","t":"add","s":"ieee-oui.csv","a":"Room 12302, building 1, Greenland territorial sea, No. 6, Jinye Road, high tech Zone, Xi'an, Shaanxi xi'an Shaanxi CN 710076","c":"CN","o":"Shaanxi Gangsion Electronic Technology Co., Ltd"}]);

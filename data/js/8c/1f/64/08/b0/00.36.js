@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6408b000/36",[{"d":"2021-09-18","t":"add","s":"ieee-oui36.csv","a":"4012, No. 22, Lane 1800, Sanxin North Road, Songjiang District Shanghai Shanghai CN 201600","c":"CN","o":"Shanghai Shenxu Technology Co., Ltd"}]);

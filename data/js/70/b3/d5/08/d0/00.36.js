@@ -1,1 +1,0 @@
-macDetailCallback("70b3d508d000/36",[{"a":"505 room, No.6-18 building, XinHe road, Shajing town, Baoan district SHENZHEN GUANGDONG CN 518000","o":"Clover Electronics Technology Co., Ltd.","d":"2017-04-30","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("a81374000000/24",[{"d":"2014-05-02","t":"add","a":"1-15 Matsuo cho\nKadoma city Osaka 571-8504\n\n","c":"JAPAN","o":"Panasonic Corporation AVC Networks Company"},{"d":"2015-08-27","t":"change","a":"1-15 Matsuo cho Kadoma city Osaka JP 571-8504","c":"JP","o":"Panasonic Corporation AVC Networks Company"}]);

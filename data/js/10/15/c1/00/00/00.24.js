@@ -1,1 +1,0 @@
-macDetailCallback("1015c1000000/24",[{"d":"2023-02-15","t":"add","s":"ieee-oui.csv","a":"Room 313-2511, 3rd Floor, Shanshui Building, No. 3, Gulou East Street, Miyun District Beijing  CN 101500","c":"CN","o":"Zhanzuo (Beijing) Technology Co., Ltd."}]);

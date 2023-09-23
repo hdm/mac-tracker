@@ -1,1 +1,0 @@
-macDetailCallback("00263d000000/24",[{"d":"2009-05-17","t":"add","a":"1-3-15 Yoshino-cho, Minami-ku\nYokohama Kanagawa 232-0014\n\n","c":"JAPAN","o":"MIA Corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-3-15 Yoshino-cho, Minami-ku Yokohama Kanagawa JP 232-0014","c":"JP","o":"MIA Corporation"}]);

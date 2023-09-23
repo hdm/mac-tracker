@@ -1,1 +1,0 @@
-macDetailCallback("000f0c000000/24",[{"d":"2003-12-21","t":"add","a":"25 CAP DARNETAL\nDARNETAL FRANCE 76160\n\n","c":"FRANCE","o":"SYNCHRONIC ENGINEERING","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"25 CAP DARNETAL DARNETAL FRANCE FR 76160","c":"FR","o":"SYNCHRONIC ENGINEERING"}]);

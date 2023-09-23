@@ -1,1 +1,0 @@
-macDetailCallback("b4b542000000/24",[{"d":"2013-12-14","t":"add","a":"8100 Churchill Ave\nLeeds AL 35094\n\n","c":"UNITED STATES","o":"Hubbell Power Systems, Inc."},{"d":"2015-08-27","t":"change","a":"8100 Churchill Ave Leeds AL US 35094","c":"US","o":"Hubbell Power Systems, Inc."}]);

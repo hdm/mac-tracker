@@ -1,1 +1,0 @@
-macDetailCallback("245dfcb00000/28",[{"d":"2021-01-10","t":"add","s":"ieee-mam.csv","a":"1F., No. 16, Ln. 76, Zhongyang N. Rd., Sanchong Dist New Taipei City Taiwan (R.O.C.) TW  24146","c":"TW","o":"ONLY"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("94fe9d000000/24",[{"d":"2017-10-20","t":"add","a":"SONGGANG SHENZHEN GUANGDONG CN 518105","c":"CN","o":"SHENZHEN GONGJIN ELECTRONICS CO.,LT"}]);

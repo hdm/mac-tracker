@@ -1,1 +1,0 @@
-macDetailCallback("001c20000000/24",[{"d":"2007-04-08","t":"add","a":"Ramgatseweg 17\nRaamsdonksveer NBR 4941 VN\n\n","c":"NETHERLANDS","o":"CLB Benelux","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Ramgatseweg 17 Raamsdonksveer NBR NL 4941 VN","c":"NL","o":"CLB Benelux"}]);

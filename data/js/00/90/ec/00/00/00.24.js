@@ -1,1 +1,0 @@
-macDetailCallback("0090ec000000/24",[{"d":"1998-04-22","t":"add","a":"3 ALLEE DU MOULIN\n66680 CANOHES\n\n","c":"FRANCE","o":"PYRESCOM"},{"d":"2015-08-27","t":"change","a":"3 ALLEE DU MOULIN 66680 CANOHES  FR","c":"FR","o":"PYRESCOM"}]);

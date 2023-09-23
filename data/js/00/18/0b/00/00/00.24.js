@@ -1,1 +1,0 @@
-macDetailCallback("00180b000000/24",[{"d":"2006-04-21","t":"add","a":"307 Orchard City Dr.\nSuite 102\nCampbell CA 95008\n","c":"UNITED STATES","o":"Brilliant Telecommunications"},{"d":"2015-08-27","t":"change","a":"307 Orchard City Dr. Campbell CA US 95008","c":"US","o":"Brilliant Telecommunications"}]);

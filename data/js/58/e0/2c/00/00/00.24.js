@@ -1,1 +1,0 @@
-macDetailCallback("58e02c000000/24",[{"d":"2013-04-05","t":"add","a":"Smedevaenget 5\nAarup  5560\n\n","c":"DENMARK","o":"Micro Technic A/S"},{"d":"2015-08-27","t":"change","a":"Smedevaenget 5 Aarup  DK 5560","c":"DK","o":"Micro Technic A/S"}]);

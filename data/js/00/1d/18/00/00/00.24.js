@@ -1,1 +1,0 @@
-macDetailCallback("001d18000000/24",[{"d":"2007-06-25","t":"add","a":"Rehland 2\nAchim Niedersachsen 28832\n\n","c":"GERMANY","o":"Power Innovation GmbH"},{"d":"2015-08-27","t":"change","a":"Rehland 2 Achim Niedersachsen DE 28832","c":"DE","o":"Power Innovation GmbH"}]);

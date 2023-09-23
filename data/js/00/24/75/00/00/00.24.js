@@ -1,1 +1,0 @@
-macDetailCallback("002475000000/24",[{"d":"2008-11-30","t":"add","a":"1403 ACE TechnoTower 8th\n191-7, Guro-dong, Guro-Gu\nSeoul  152-050\n","c":"KOREA, REPUBLIC OF","o":"Compass System(Embedded Dept.)","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1403 ACE TechnoTower 8th Seoul  KR 152-050","c":"KR","o":"Compass System(Embedded Dept.)"}]);

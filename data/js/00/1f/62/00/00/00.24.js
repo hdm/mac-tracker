@@ -1,1 +1,0 @@
-macDetailCallback("001f62000000/24",[{"d":"2007-12-31","t":"add","a":"Mayakovskogo 15\nStavropol  355000\n\n","c":"RUSSIAN FEDERATION","o":"JSC \"Stilsoft\""},{"d":"2015-08-27","t":"change","a":"Mayakovskogo 15 Stavropol  RU 355000 ","c":"RU","o":"JSC \"Stilsoft\""}]);

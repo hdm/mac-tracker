@@ -1,1 +1,0 @@
-macDetailCallback("4cf45b000000/24",[{"d":"2013-12-18","t":"add","a":"1001 Bayhill Dr\nSte 200\nSan Bruno CA 94066\n","c":"UNITED STATES","o":"Blue Clover Devices"},{"d":"2015-08-27","t":"change","a":"1001 Bayhill Dr San Bruno CA US 94066","c":"US","o":"Blue Clover Devices"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("7c9a9b000000/24",[{"d":"2012-09-18","t":"add","a":"Sir Alexander Fleming n\nPaterna Valencia 46980\n\n","c":"SPAIN","o":"VSE valencia smart energy"},{"d":"2015-08-27","t":"change","a":"Sir Alexander Fleming n Paterna Valencia ES 46980","c":"ES","o":"VSE valencia smart energy"}]);

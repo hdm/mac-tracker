@@ -1,1 +1,0 @@
-macDetailCallback("000679000000/24",[{"d":"2001-06-04","t":"add","a":"11-14-5 Akasaka, Minato-ku,\nTokyo 107-0052\n\n","c":"JAPAN","o":"Konami Corporation"},{"d":"2015-08-27","t":"change","a":"11-14-5 Akasaka, Minato-ku,   JP","c":"JP","o":"Konami Corporation"}]);

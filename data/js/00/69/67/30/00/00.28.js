@@ -1,1 +1,0 @@
-macDetailCallback("006967300000/28",[{"d":"2019-09-25","t":"add","s":"ieee-mam.csv","a":"Jiatai Road West, Shuanglong Industrial Park,Fenghuang Town Zhangjiagang Jiangsu CN 215600","c":"CN","o":"Suzhou Radiant Lighting Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00e0f8000000/24",[{"d":"1998-04-22","t":"add","a":"STENYXEGATAN 21 C\n213 76 MALMOE\n\n","c":"SWEDEN","o":"DIANA CONTROL AB"},{"d":"2002-06-05","t":"change","a":"STENYXEGATAN 21 C\n213 76 MALMOE\n\n","c":"SWEDEN","o":"DICNA CONTROL AB"},{"d":"2015-08-27","t":"change","a":"STENYXEGATAN 21 C 213 76 MALMOE  SE","c":"SE","o":"DICNA CONTROL AB"}]);

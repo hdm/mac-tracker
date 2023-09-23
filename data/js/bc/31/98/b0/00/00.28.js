@@ -1,1 +1,0 @@
-macDetailCallback("bc3198b00000/28",[{"d":"2023-04-05","t":"add","s":"ieee-mam.csv","a":"Building 7, Industrial Park, No.38 North Guandu Road, Wuzhong District, Suzhou Suzhou  CN 320500","c":"CN","o":"Suzhou Anchi Control system.,Co.Ltd"}]);

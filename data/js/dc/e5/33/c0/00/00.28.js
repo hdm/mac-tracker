@@ -1,1 +1,0 @@
-macDetailCallback("dce533c00000/28",[{"a":"PO Box 58275-00200, 2nd Floor Bishop Magua Center, George Padmore Lane, 2nd Floor Bishop Magua Center, George Padmore Lane Nairobi Nairobi KE 00200","o":"BRCK","d":"2017-11-12","t":"add","s":"ieee","c":"KE"}]);

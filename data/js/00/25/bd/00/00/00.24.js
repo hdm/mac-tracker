@@ -1,1 +1,0 @@
-macDetailCallback("0025bd000000/24",[{"d":"2009-04-05","t":"add","a":"viale Eroi di Cefalonia 123\nRoma  00128\n\n","c":"ITALY","o":"Italdata Ingegneria dell'Idea S.p.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"viale Eroi di Cefalonia 123 Roma  IT 00128","c":"IT","o":"Italdata Ingegneria dell'Idea S.p.A."}]);

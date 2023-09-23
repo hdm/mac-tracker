@@ -1,1 +1,0 @@
-macDetailCallback("58c232000000/24",[{"d":"2012-07-07","t":"add","a":"1753, Shimonumabe, Nakahara-Ku\nKawasaki Kanagawa 211-8666\n\n","c":"JAPAN","o":"NEC Corporation"},{"d":"2015-08-27","t":"change","a":"1753, Shimonumabe, Nakahara-Ku, Kawasaki Kanagawa  JP 211-8666","c":"JP","o":"NEC Corporation"}]);

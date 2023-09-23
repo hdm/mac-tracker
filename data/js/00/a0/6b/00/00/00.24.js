@@ -1,1 +1,0 @@
-macDetailCallback("00a06b000000/24",[{"d":"1998-04-22","t":"add","a":"HOLMLUECK 13-15\nD-24972 STEINBERQKIRCHE\n\n","c":"GERMANY","o":"DMS DORSCH MIKROSYSTEM GMBH"},{"d":"2015-08-27","t":"change","a":"HOLMLUECK 13-15   DE","c":"DE","o":"DMS DORSCH MIKROSYSTEM GMBH"}]);

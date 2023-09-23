@@ -1,1 +1,0 @@
-macDetailCallback("001e1e000000/24",[{"d":"2007-09-25","t":"add","a":"12 Clintonville Road\nNorthford CT 0422\n\n","c":"UNITED STATES","o":"Honeywell Life Safety","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"12 Clintonville Road Northford CT US 0422","c":"US","o":"Honeywell Life Safety"}]);

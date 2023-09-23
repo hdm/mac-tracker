@@ -1,1 +1,0 @@
-macDetailCallback("94c9b7600000/28",[{"d":"2021-10-23","t":"add","s":"ieee-mam.csv","a":"RoomB 901 NO.20 Heping Xiyuan West Heping Street Chaoyang District  Beijing  CN 100013","c":"CN","o":"Realtimes Beijing Technology Co., Ltd."}]);

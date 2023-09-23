@@ -1,1 +1,0 @@
-macDetailCallback("0002a1000000/24",[{"d":"2000-09-08","t":"add","a":"PO Box 14645\nSpokane, WA 99214\n\n","c":"UNITED STATES","o":"World Wide Packets"},{"d":"2001-10-24","t":"change","a":"PO Box 14645\nSpokane WA 99214\n\n","c":"UNITED STATES","o":"World Wide Packets"},{"d":"2015-08-27","t":"change","a":"PO Box 14645 Spokane WA US 99214","c":"US","o":"World Wide Packets"}]);

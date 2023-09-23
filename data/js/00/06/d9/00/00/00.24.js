@@ -1,1 +1,0 @@
-macDetailCallback("0006d9000000/24",[{"d":"2001-10-24","t":"add","a":"Via Remo De Feo\n80022 Arzano (Naples)\n\n","c":"ITALY","o":"IPM-Net S.p.a"},{"d":"2002-06-05","t":"change","a":"Via Remo De Feo\n80022 Arzano (Naples)\n\n","c":"ITALY","o":"IPM-Net S.p.A."},{"d":"2015-08-27","t":"change","a":"Via Remo De Feo   IT","c":"IT","o":"IPM-Net S.p.A."}]);

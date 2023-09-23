@@ -1,1 +1,0 @@
-macDetailCallback("001ca6000000/24",[{"d":"2007-05-29","t":"add","a":"1301 KOLON Digital Tower,\n222-7 Kuro-dong\nKuro-gu Seoul 152-848\n","c":"KOREA, REPUBLIC OF","o":"Win4NET","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1301 KOLON Digital Tower, Kuro-gu Seoul KR 152-848","c":"KR","o":"Win4NET"}]);

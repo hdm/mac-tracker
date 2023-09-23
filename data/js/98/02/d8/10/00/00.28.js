@@ -1,1 +1,0 @@
-macDetailCallback("9802d8100000/28",[{"a":"4-5F, E1 Building, TCL International E City, No.1001 Zhongshanyuan Road, Nanshan District Shenzhen, Guangdong CN 518052","o":"SHENZHEN ATEKO PHOTOELECTRICITY CO LTD","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

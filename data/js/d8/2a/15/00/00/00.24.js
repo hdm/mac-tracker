@@ -1,1 +1,0 @@
-macDetailCallback("d82a15000000/24",[{"d":"2013-11-16","t":"add","a":"Via Brennero 34\nVipiteno Bolzano 39049\n\n","c":"ITALY","o":"Leitner SpA"},{"d":"2015-08-27","t":"change","a":"Via Brennero 34 Vipiteno Bolzano IT 39049","c":"IT","o":"Leitner SpA"}]);

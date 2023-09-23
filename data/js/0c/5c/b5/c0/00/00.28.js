@@ -1,1 +1,0 @@
-macDetailCallback("0c5cb5c00000/28",[{"d":"2021-01-27","t":"add","s":"ieee-mam.csv","a":"128 Lixiang East Road,ChangshaEconomic and Technological Development Zone Changsha Hunan CN 410100","c":"CN","o":"Hunan Newman Car NetworKing Technology Co.,Ltd"}]);

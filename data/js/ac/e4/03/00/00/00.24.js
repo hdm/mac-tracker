@@ -1,1 +1,0 @@
-macDetailCallback("ace403000000/24",[{"d":"2022-10-22","t":"add","s":"ieee-oui.csv","a":"6F, M7, MaQueLing, Hi-tech Park, Nanshan District Shenzhen  CN 518000","c":"CN","o":"Shenzhen Visteng Technology CO.,LTD"}]);

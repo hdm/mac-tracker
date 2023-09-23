@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64020000/36",[{"d":"2023-04-26","t":"add","s":"ieee-oui36.csv","a":"Utthunga Technologies Pvt Ltd\n8, 27th Cross, Banashankari 2nd Stage bangalore Karnataka IN 560070","c":"IN","o":"Utthunga Techologies Pvt Ltd"}]);

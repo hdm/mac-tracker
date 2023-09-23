@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5e22000/36",[{"a":"","o":"Private","d":"2017-04-02","t":"add","s":"ieee"},{"d":"2020-08-04","t":"change","s":"ieee-oui36.csv","a":"4301 North Fairfax Drive, Suite 310  Arlington  VA US 22203","c":"US","o":"Federated Wireless, Inc."}]);

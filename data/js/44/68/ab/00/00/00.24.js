@@ -1,1 +1,0 @@
-macDetailCallback("4468ab000000/24",[{"d":"2010-11-20","t":"add","a":"2FL, 1075-1, Wonpyeong-Dong\nGumi City Gyeongsangbuk-Do 730-010\n\n","c":"KOREA, REPUBLIC OF","o":"JUIN COMPANY, LIMITED"},{"d":"2015-08-27","t":"change","a":"2FL, 1075-1, Wonpyeong-Dong Gumi City Gyeongsangbuk-Do KR 730-010","c":"KR","o":"JUIN COMPANY, LIMITED"}]);

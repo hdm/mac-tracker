@@ -1,1 +1,0 @@
-macDetailCallback("0ccc47e00000/28",[{"d":"2022-10-05","t":"add","s":"ieee-mam.csv","a":"Av. Marginal da Rodovia dos Bandeirantes, 800 - Distrito Industrial Jundiaí Sao Paulo BR 13213-008","c":"BR","o":"Foxconn Brasil Industria e Comercio Ltda"}]);

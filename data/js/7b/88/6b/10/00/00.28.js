@@ -1,1 +1,0 @@
-macDetailCallback("7b886b100000/28",[{"d":"2015-08-27","t":"add","a":"20660 Stevens Creeks #345\nCupertino  CA  95014\n\n","c":"US","o":"Bitfinder Inc"},{"d":"2015-09-01","t":"delete","a":"20660 Stevens Creeks #345\nCupertino  CA  95014\n\n","c":"US","o":"Bitfinder Inc"}]);

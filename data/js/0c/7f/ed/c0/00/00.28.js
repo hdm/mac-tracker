@@ -1,1 +1,0 @@
-macDetailCallback("0c7fedc00000/28",[{"d":"2022-04-13","t":"add","s":"ieee-mam.csv","a":"#206 Building A1,#663 Bulong Road,Dafapu Community,Bantian Street, Shenzhen Guangdong CN 518129","c":"CN","o":"Shenzhen MoreSense Technology Co., Ltd."}]);

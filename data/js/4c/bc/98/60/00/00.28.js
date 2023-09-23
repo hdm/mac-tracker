@@ -1,1 +1,0 @@
-macDetailCallback("4cbc98600000/28",[{"d":"2018-11-28","t":"add","s":"ieee-mam.csv","a":"Room507,5th Floor, Zhongguancun Frontier Technology Innovation Building, No. 67 North Fourth Ring Road,Haidian District, Beijing Beijing CN 100089","c":"CN","o":"Humanplus Intelligent Robotics Technology Co.,Ltd."}]);

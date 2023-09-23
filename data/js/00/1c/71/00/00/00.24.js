@@ -1,1 +1,0 @@
-macDetailCallback("001c71000000/24",[{"d":"2007-05-13","t":"add","a":"Bldg 2 Level 3 Suite 305\n2591 Wexford-Bayne Road\nSewickley PA 15143\n","c":"UNITED STATES","o":"Emergent Electronics"},{"d":"2015-08-27","t":"change","a":"Bldg 2 Level 3 Suite 305 Sewickley PA US 15143","c":"US","o":"Emergent Electronics"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00b02a000000/24",[{"d":"2000-09-08","t":"add","a":"Am Stadtgraben 1\nD-88677 Markdorf\n\n","c":"GERMANY","o":"ORSYS GmbH"},{"d":"2001-10-24","t":"change","a":"Am Stadtgraben 25\nD-88677 Markdorf\n\n","c":"GERMANY","o":"ORSYS GmbH"},{"d":"2015-08-27","t":"change","a":"Am Stadtgraben 25 D-88677 Markdorf  DE","c":"DE","o":"ORSYS GmbH"}]);

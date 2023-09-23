@@ -1,1 +1,0 @@
-macDetailCallback("000aaf000000/24",[{"d":"2002-08-03","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2004-02-12","t":"change","a":"2903 Bunker Hill Lane\nSuite 210\nSanta Clara CA 95054\n","c":"UNITED STATES","o":"Pipal Systems"},{"d":"2015-08-27","t":"change","a":"2903 Bunker Hill Lane Santa Clara CA US 95054","c":"US","o":"Pipal Systems"}]);

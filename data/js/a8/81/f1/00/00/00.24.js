@@ -1,1 +1,0 @@
-macDetailCallback("a881f1000000/24",[{"d":"2013-10-29","t":"add","a":"Hoogoorddreef 60\nAmsterdam  1101BE\n\n","c":"NETHERLANDS","o":"BMEYE B.V."},{"d":"2015-08-27","t":"change","a":"Hoogoorddreef 60 Amsterdam  NL 1101BE","c":"NL","o":"BMEYE B.V."}]);

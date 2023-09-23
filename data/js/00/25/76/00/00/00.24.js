@@ -1,1 +1,0 @@
-macDetailCallback("002576000000/24",[{"d":"2009-03-15","t":"add","a":"Route Nationale\nImmeuble Orchis\nLE RHEU  35650\n","c":"FRANCE","o":"NELI TECHNOLOGIES","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Route Nationale LE RHEU  FR 35650","c":"FR","o":"NELI TECHNOLOGIES"}]);

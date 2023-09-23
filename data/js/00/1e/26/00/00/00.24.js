@@ -1,1 +1,0 @@
-macDetailCallback("001e26000000/24",[{"d":"2007-09-25","t":"add","a":"Joyang B/D 6th Floor\n113 Samsung-dong, Kangnam-gu\nSeoul  135-090\n","c":"KOREA, REPUBLIC OF","o":"Digifriends Co. Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Joyang B/D 6th Floor Seoul  KR 135-090","c":"KR","o":"Digifriends Co. Ltd"}]);

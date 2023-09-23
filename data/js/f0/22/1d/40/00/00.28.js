@@ -1,1 +1,0 @@
-macDetailCallback("f0221d400000/28",[{"d":"2022-09-03","t":"add","s":"ieee-mam.csv","a":"11F, Number 277, Songren Rd, Xinyi District, Taipei City, Taiwan 110  Taipei Taiwan TW 101","c":"TW","o":"Synergies Intelligent Systems Inc."}]);

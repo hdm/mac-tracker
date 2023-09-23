@@ -1,1 +1,0 @@
-macDetailCallback("ac64dda00000/28",[{"a":"82/F, International Commerce Centre, 1 Austin Road West Kowloon  HK 0","o":"Bluewave Global Manufacturing Limited","d":"2016-07-10","t":"add","s":"ieee","c":"HK"}]);

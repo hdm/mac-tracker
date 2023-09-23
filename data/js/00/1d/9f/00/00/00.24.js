@@ -1,1 +1,0 @@
-macDetailCallback("001d9f000000/24",[{"d":"2007-08-18","t":"add","a":"Polnocna 44\nKoscian wielkopolskie PL-64000\n\n","c":"POLAND","o":"MATT   R.P.Traczynscy Sp.J."},{"d":"2015-08-27","t":"change","a":"Polnocna 44 Koscian wielkopolskie PL PL-64000","c":"PL","o":"MATT   R.P.Traczynscy Sp.J."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("340b40000000/24",[{"d":"2015-01-14","t":"add","a":"VIA ARCHIMEDE, 10\nSAN MARTINO B.A. (VR) VERONA 37036\n\n","c":"ITALY","o":"MIOS ELETTRONICA SRL"},{"d":"2015-08-27","t":"change","a":"VIA ARCHIMEDE, 10 SAN MARTINO B.A. (VR) VERONA IT 37036","c":"IT","o":"MIOS ELETTRONICA SRL"}]);

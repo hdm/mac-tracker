@@ -1,1 +1,0 @@
-macDetailCallback("58c41ee00000/28",[{"d":"2023-04-25","t":"add","s":"ieee-mam.csv","a":"Huilongguan Town,Changping District Beijing  CN 102208","c":"CN","o":"Beijing Qiangyun Innovation Technology Co.,Ltd"}]);

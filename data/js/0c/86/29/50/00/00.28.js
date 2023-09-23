@@ -1,1 +1,0 @@
-macDetailCallback("0c8629500000/28",[{"d":"2021-12-29","t":"add","s":"ieee-mam.csv","a":"4/F, #16, DaKan Yangmen industrial park, XiLi town,  Nanshan district ShenZhen GuangDong CN 518055","c":"CN","o":"Shenzhen protostellar technology Co., Ltd"}]);

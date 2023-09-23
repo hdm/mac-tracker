@@ -1,1 +1,0 @@
-macDetailCallback("6ca7fa000000/24",[{"d":"2014-10-01","t":"add","a":"132, Haewian-gil, Dunpo-myeon\nAsan-si Chungcheongnam-do 336-873\n\n","c":"KOREA, REPUBLIC OF","o":"YOUNGBO ENGINEERING INC."},{"d":"2015-08-27","t":"change","a":"132, Haewian-gil, Dunpo-myeon Asan-si Chungcheongnam-do KR 336-873","c":"KR","o":"YOUNGBO ENGINEERING INC."}]);

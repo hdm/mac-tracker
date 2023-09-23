@@ -1,1 +1,0 @@
-macDetailCallback("000f33000000/24",[{"d":"2004-01-23","t":"add","a":"#505 Samsung Techno Park Bldg 471\nWoncheon-dong, Youngtong-gu\nSuwon Gyeonggi-do 442-824\n","c":"KOREA, REPUBLIC OF","o":"DUALi Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"#505 Samsung Techno Park Bldg 471 Suwon Gyeonggi-do KR 442-824","c":"KR","o":"DUALi Inc."}]);

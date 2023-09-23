@@ -1,1 +1,0 @@
-macDetailCallback("74e277000000/24",[{"d":"2014-09-25","t":"add","a":"32,Canberra drive,#05-28\n76431\n\n","c":"SINGAPORE","o":"Vizmonet Pte Ltd"},{"d":"2015-08-27","t":"change","a":"32,Canberra drive,#05-28   SG 76431","c":"SG","o":"Vizmonet Pte Ltd"}]);

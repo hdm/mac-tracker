@@ -1,1 +1,0 @@
-macDetailCallback("7c45f9100000/28",[{"d":"2022-11-29","t":"add","s":"ieee-mam.csv","a":"Room 102, Building E8, Lugu Yuyuan, 27 Wenxuan Road, Changsha Hi-tech Development Zone Changsha Hunan CN 410000","c":"CN","o":"Hunan Shengyun Photoelectric Technology Co., LTD"}]);

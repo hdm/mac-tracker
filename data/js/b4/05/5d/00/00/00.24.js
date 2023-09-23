@@ -1,1 +1,0 @@
-macDetailCallback("b4055d000000/24",[{"d":"2019-07-12","t":"add","s":"ieee-oui.csv","a":"No 224 Shanda Road Jinan Shandong CN 250013","c":"CN","o":"Inspur Electronic Information Industry Co.,Ltd."}]);

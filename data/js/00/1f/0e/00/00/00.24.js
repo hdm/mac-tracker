@@ -1,1 +1,0 @@
-macDetailCallback("001f0e000000/24",[{"d":"2007-12-31","t":"add","a":"1-4-4\nNishiki-cho\nTachikawa Tokyo 190-0022\n","c":"JAPAN","o":"Japan Kyastem Co., Ltd"},{"d":"2015-08-27","t":"change","a":"1-4-4 Tachikawa Tokyo JP 190-0022","c":"JP","o":"Japan Kyastem Co., Ltd"}]);

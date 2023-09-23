@@ -1,1 +1,0 @@
-macDetailCallback("001361000000/24",[{"d":"2005-01-15","t":"add","a":"10th Floor, Poonglim Bldg, 823 Yeoksam 1-dong\nGangnam-gu Seoul 135-784\n\n","c":"KOREA, REPUBLIC OF","o":"Biospace Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"10th Floor, Poonglim Bldg, 823 Yeoksam 1-dong Gangnam-gu Seoul KR 135-784","c":"KR","o":"Biospace Co., Ltd."}]);

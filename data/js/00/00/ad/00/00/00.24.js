@@ -1,1 +1,0 @@
-macDetailCallback("0000ad000000/24",[{"d":"2000-09-08","t":"add","a":"MANNING PARK\nBILLERICA MA 01821\n\n","c":"UNITED STATES","o":"BRUKER INSTRUMENTS INC."},{"d":"2015-08-27","t":"change","a":"MANNING PARK BILLERICA MA US 01821","c":"US","o":"BRUKER INSTRUMENTS INC."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("185d6f000000/24",[{"d":"2023-07-25","t":"add","s":"ieee-oui.csv","a":"Proektiruemiy proezd 4062, 6b1, office 71 Moscow  RU 115432","c":"RU","o":"N3com"},{"d":"2023-08-16","t":"change","s":"ieee-oui.csv","a":"18/5 Prospekt Andropova, room 13/9 Moscow  RU 115432","c":"RU","o":"N3com"}]);

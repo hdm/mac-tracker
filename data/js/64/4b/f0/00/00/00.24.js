@@ -1,1 +1,0 @@
-macDetailCallback("644bf0000000/24",[{"d":"2011-10-08","t":"add","a":"1941 Miraloma Ave #B\nPlacentia CA 92870\n\n","c":"UNITED STATES","o":"CalDigit, Inc"},{"d":"2015-08-27","t":"change","a":"1941 Miraloma Ave #B Placentia CA US 92870","c":"US","o":"CalDigit, Inc"}]);

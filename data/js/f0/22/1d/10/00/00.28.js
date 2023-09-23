@@ -1,1 +1,0 @@
-macDetailCallback("f0221d100000/28",[{"d":"2022-09-08","t":"add","s":"ieee-mam.csv","a":"Josef-Beyerle-Strasse 18/1 Weil der Stadt Baden-Württemberg DE 71263","c":"DE","o":"Dr. Eberl MBE Komponenten GmbH"}]);

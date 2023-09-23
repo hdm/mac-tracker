@@ -1,1 +1,0 @@
-macDetailCallback("58856e000000/24",[{"d":"2014-09-25","t":"add","a":"Mathias-Brueggen-Str. 55\nKÃ¶ln  50829\n\n","c":"GERMANY","o":"QSC AG"},{"d":"2015-08-27","t":"change","a":"Mathias-Brueggen-Str. 55 Köln  DE 50829","c":"DE","o":"QSC AG"}]);

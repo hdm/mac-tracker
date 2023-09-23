@@ -1,1 +1,0 @@
-macDetailCallback("c48f07000000/24",[{"d":"2016-03-15","t":"add","a":"Room A, Floor 6, Building 210, Tairan Industry and Trade Park, Che Kung Temple, Futian District, Shenzhen, Guangdong Province ShenZhen Guangdong CN 518000","c":"CN","o":"Shenzhen Yihao Hulian Science and Technology Co., Ltd."}]);

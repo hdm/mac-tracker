@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64ac9000/36",[{"d":"2022-11-25","t":"add","s":"ieee-oui36.csv","a":"Floor 6, R&D Building, No. 37, Shenbei Road, Shenbei New District, Shenyang ShenYang LiaoNing  CN 110000","c":"CN","o":"ShenYang LeShun Technology Co.,Ltd"}]);

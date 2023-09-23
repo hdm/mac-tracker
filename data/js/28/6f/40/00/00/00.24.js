@@ -1,1 +1,0 @@
-macDetailCallback("286f40000000/24",[{"d":"2022-02-19","t":"add","s":"ieee-oui.csv","a":"Section 37, Zhongkai Hi-Tech Development Zone Huizhou Guangdong CN 516006","c":"CN","o":"Tonly Technology Co. Ltd"}]);

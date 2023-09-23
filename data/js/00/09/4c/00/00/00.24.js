@@ -1,1 +1,0 @@
-macDetailCallback("00094c000000/24",[{"d":"2002-03-29","t":"add","a":"1~3 COWEAVER B/D 446-19,\nSEOGYO-DONG, MAPO-GU\nSEOUL  121-841\n","c":"KOREA, REPUBLIC OF","o":"Communication Weaver Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1~3 COWEAVER B/D 446-19, SEOUL  KR 121-841","c":"KR","o":"Communication Weaver Co.,Ltd."}]);

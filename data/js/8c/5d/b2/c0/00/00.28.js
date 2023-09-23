@@ -1,1 +1,0 @@
-macDetailCallback("8c5db2c00000/28",[{"d":"2022-11-17","t":"add","s":"ieee-mam.csv","a":"Room 301, No. 45 Ruiji 2nd Street, Huangpu District,  Guangzhou  CN 510799","c":"CN","o":"HEXIN Technologies Co., Ltd."}]);

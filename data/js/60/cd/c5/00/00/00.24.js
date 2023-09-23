@@ -1,1 +1,0 @@
-macDetailCallback("60cdc5000000/24",[{"d":"2012-09-19","t":"add","a":"No.202, Tung Kuang Road\nTaichung Taiwan 40151\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Taiwan Carol Electronics., Ltd"},{"d":"2015-08-27","t":"change","a":"No.202, Tung Kuang Road Taichung Taiwan TW 40151","c":"TW","o":"Taiwan Carol Electronics., Ltd"}]);

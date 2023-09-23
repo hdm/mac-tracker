@@ -1,1 +1,0 @@
-macDetailCallback("7cc8d0000000/24",[{"d":"2012-05-30","t":"add","a":"No.8 Ziyuan Road,Huayuan Industrial Zone\nTianjin 300384\n\n","c":"CHINA","o":"TIANJIN YAAN TECHNOLOGY CO., LTD."},{"d":"2015-08-27","t":"change","a":"No.8 Ziyuan Road,Huayuan Industrial Zone  Tianjin CN 300384","c":"CN","o":"TIANJIN YAAN TECHNOLOGY CO., LTD."}]);

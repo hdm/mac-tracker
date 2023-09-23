@@ -1,1 +1,0 @@
-macDetailCallback("b8fbaf000000/24",[{"d":"2022-04-15","t":"add","s":"ieee-oui.csv","a":"3~5Floor,No.101,Huili Industry Park,Meixi Road,Tongan District,Xiamen,China. xiamen fujian CN 361000","c":"CN","o":"Xiamen IPRT Technology CO.,LTD"}]);

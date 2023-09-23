@@ -1,1 +1,0 @@
-macDetailCallback("001d66000000/24",[{"d":"2007-08-18","t":"add","a":"Hyundai Telecom Bldg., 4273-12, Shingil-Dong, Youngdungpo-Gu,\nSeoul  150-859\n\n","c":"KOREA, REPUBLIC OF","o":"Hyundai Telecom"},{"d":"2015-08-27","t":"change","a":"Hyundai Telecom Bldg., 4273-12, Shingil-Dong, Youngdungpo-Gu, Seoul  KR 150-859","c":"KR","o":"Hyundai Telecom"}]);

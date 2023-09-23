@@ -1,1 +1,0 @@
-macDetailCallback("002392000000/24",[{"d":"2008-10-08","t":"add","a":"340 Pioneer Way\nMountain View CA 94041\n\n","c":"UNITED STATES","o":"Proteus Industries Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"340 Pioneer Way Mountain View CA US 94041","c":"US","o":"Proteus Industries Inc."}]);

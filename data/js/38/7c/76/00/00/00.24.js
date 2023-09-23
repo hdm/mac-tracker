@@ -1,1 +1,0 @@
-macDetailCallback("387c76000000/24",[{"d":"2022-05-06","t":"add","s":"ieee-oui.csv","a":"141, Lane 351, Taiping Road, Sec.1,Tsao Tuen Nan-Tou Taiwan TW 54261","c":"TW","o":"Universal Global Scientific Industrial Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001721000000/24",[{"d":"2006-01-27","t":"add","a":"Via Valsolda, 15\nMILAN MILANO 20142\n\n","c":"ITALY","o":"FITRE S.p.A."},{"d":"2013-03-15","t":"change","a":"Via Valsolda, 15\nMILANO MI 20142\n\n","c":"ITALY","o":"FITRE S.p.A."},{"d":"2015-08-27","t":"change","a":"Via Valsolda, 15 MILANO MI IT 20142","c":"IT","o":"FITRE S.p.A."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("78bebd000000/24",[{"d":"2012-03-27","t":"add","a":"Holsteiner Chausse 283\nHamburg 22457\n\n","c":"GERMANY","o":"STULZ GmbH"},{"d":"2015-08-27","t":"change","a":"Holsteiner Chausse 283  Hamburg DE 22457","c":"DE","o":"STULZ GmbH"}]);

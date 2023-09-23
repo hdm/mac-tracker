@@ -1,1 +1,0 @@
-macDetailCallback("8cc8f4600000/28",[{"a":"2302F, Block B, Wisdom Building ,Qiao xiang Road,Shahe Street, Nanshan District, Shenzhen Guangdong CN 518000","o":"SHENZHEN D-light Technolgy Limited","d":"2016-11-06","t":"add","s":"ieee","c":"CN"}]);

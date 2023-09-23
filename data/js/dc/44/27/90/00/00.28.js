@@ -1,1 +1,0 @@
-macDetailCallback("dc4427900000/28",[{"a":"No.2 Xinxiu Street,Hunnan New District,Shenyang,Liaoning,China Shenyang Liaoning CN 110179","o":"Neusoft Corporation","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

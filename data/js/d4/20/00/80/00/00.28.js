@@ -1,1 +1,0 @@
-macDetailCallback("d42000800000/28",[{"d":"2022-06-25","t":"add","s":"ieee-mam.csv","a":"3 F, Block A, no.3 Kehai Street, Dalian High-tech Industrial Park, Liaoning Province Dalian  CN 116023","c":"CN","o":"Dalian Baishengyuan Technology Co.,Ltd"}]);

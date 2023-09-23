@@ -1,1 +1,0 @@
-macDetailCallback("000ce4000000/24",[{"d":"2003-04-08","t":"add","a":"9570 SE Lawnfield Rd\nClackamas OR 97015\n\n","c":"UNITED STATES","o":"NeuroCom International, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9570 SE Lawnfield Rd Clackamas OR US 97015","c":"US","o":"NeuroCom International, Inc."}]);

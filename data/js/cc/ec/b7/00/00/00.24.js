@@ -1,1 +1,0 @@
-macDetailCallback("ccecb7000000/24",[{"d":"2023-06-07","t":"add","s":"ieee-oui.csv","a":"Block 128?Huafeng Zhigu-Hangcheng High-tech Industrial Park?Aviation Road?Sanwei Community,Hangcheng Street,Bao’an District Shenzhen Guangdong CN 518128","c":"CN","o":"ShenZhen Linked-Z Intelligent Display Co., Ltd"}]);

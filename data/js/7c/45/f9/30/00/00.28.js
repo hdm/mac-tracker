@@ -1,1 +1,0 @@
-macDetailCallback("7c45f9300000/28",[{"d":"2022-11-25","t":"add","s":"ieee-mam.csv","a":"23F, NO.17 Jugong Road, Binjiang Zone Hangzhou Zhejiang CN 310051","c":"CN","o":"Hangzhou LUXAR Technologies Co., Ltd"}]);

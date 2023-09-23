@@ -1,1 +1,0 @@
-macDetailCallback("0021a2000000/24",[{"d":"2008-06-18","t":"add","a":"Piispanportti 7\nESPOO  02240\n\n","c":"FINLAND","o":"EKE-Electronics Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Piispanportti 7 ESPOO  FI 02240","c":"FI","o":"EKE-Electronics Ltd."}]);

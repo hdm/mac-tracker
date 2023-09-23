@@ -1,1 +1,0 @@
-macDetailCallback("000ab4000000/24",[{"d":"2002-08-03","t":"add","a":"13, chemin du vieux-chene ZIRST\nMEYLAN Isere 38240\n\n","c":"FRANCE","o":"ETIC Telecommunications","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"13, chemin du vieux-chene ZIRST MEYLAN Isere FR 38240","c":"FR","o":"ETIC Telecommunications"}]);

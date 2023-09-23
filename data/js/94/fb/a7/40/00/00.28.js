@@ -1,1 +1,0 @@
-macDetailCallback("94fba7400000/28",[{"d":"2020-03-07","t":"add","s":"ieee-mam.csv","a":"1F., No. 50, Ln. 148, Lide St. Zhonghe Dist. New Taipei City TW 23512","c":"TW","o":"UOI TECHNOLOGY CORPORATION"}]);

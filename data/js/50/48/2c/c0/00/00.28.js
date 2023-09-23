@@ -1,1 +1,0 @@
-macDetailCallback("50482cc00000/28",[{"d":"2023-05-06","t":"add","s":"ieee-mam.csv","a":"6F, Building A, Shuanghuan Information Technology Industrial Park, No.8, Baoqing Rd, Longgang District Shenzhen  CN 518116","c":"CN","o":"Telecam Technology Co.,Ltd"}]);

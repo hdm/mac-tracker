@@ -1,1 +1,0 @@
-macDetailCallback("001ce9000000/24",[{"d":"2007-06-16","t":"add","a":"9/F Win Full Commerical Building, 172-176 Wing Lok Street,\nSheung Wan,\n\n","c":"HONG KONG","o":"Galaxy Technology Limited"},{"d":"2015-08-27","t":"change","a":"9/F Win Full Commerical Building, 172-176 Wing Lok Street, Sheung Wan,  HK","c":"HK","o":"Galaxy Technology Limited"}]);

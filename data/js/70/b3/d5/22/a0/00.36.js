@@ -1,1 +1,0 @@
-macDetailCallback("70b3d522a000/36",[{"a":"4-7-21 Chigasaki-higashi, Tsuzuki-ku Yokohama Kanagawa Prefecture JP 224-0033","o":"Shishido Electrostatic, Ltd.","d":"2018-09-07","t":"add","s":"ieee","c":"JP"}]);

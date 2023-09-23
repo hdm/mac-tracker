@@ -1,1 +1,0 @@
-macDetailCallback("001480000000/24",[{"d":"2005-05-07","t":"add","a":"19-1,Cheongho-ri\nJinwuy-Myun\nPyungtaik Kyunggi-Do 451-713\n","c":"KOREA, REPUBLIC OF","o":"Hitachi-LG Data Storage Korea, Inc"},{"d":"2015-08-27","t":"change","a":"19-1,Cheongho-ri Pyungtaik Kyunggi-Do KR 451-713","c":"KR","o":"Hitachi-LG Data Storage Korea, Inc"}]);

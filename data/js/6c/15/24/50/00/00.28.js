@@ -1,1 +1,0 @@
-macDetailCallback("6c1524500000/28",[{"d":"2022-03-03","t":"add","s":"ieee-mam.csv","a":"Building 2, Yingfeng Industrial Zone, Tantou Community, Songgang Street, Bao'an District Shenzhen Guangzhou CN 51800","c":"CN","o":"Shenzhen Electron Technology Co., LTD."}]);

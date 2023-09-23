@@ -1,1 +1,0 @@
-macDetailCallback("00252d000000/24",[{"d":"2009-02-15","t":"add","a":"Kiryung Bldg. 686-70, Sindaebang-dong\nDongjak-gu,\nSeoul  156-010\n","c":"KOREA, REPUBLIC OF","o":"Kiryung Electronics","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Kiryung Bldg. 686-70, Sindaebang-dong Seoul  KR 156-010","c":"KR","o":"Kiryung Electronics"}]);

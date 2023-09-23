@@ -1,1 +1,0 @@
-macDetailCallback("7c45d0000000/24",[{"d":"2021-11-20","t":"add","s":"ieee-oui.csv","a":"17F., Mid Wing, Yuehai Building, Nanhai Road, Nanshan Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen Wewins Wireless Co., ltd"}]);

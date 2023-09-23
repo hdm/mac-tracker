@@ -1,1 +1,0 @@
-macDetailCallback("70a66a000000/24",[{"d":"2011-11-17","t":"add","a":"Smedsvingen 4\nHvalstad Akershus 1395\n\n","c":"NORWAY","o":"Prox Dynamics AS"},{"d":"2015-08-27","t":"change","a":"Smedsvingen 4 Hvalstad Akershus NO 1395","c":"NO","o":"Prox Dynamics AS"}]);

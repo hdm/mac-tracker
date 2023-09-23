@@ -1,1 +1,0 @@
-macDetailCallback("1054d2c00000/28",[{"d":"2021-12-18","t":"add","s":"ieee-mam.csv","a":"1F, No. 22, Lane 35, Jihu Road, Neihu district Taipei City Taiwan TW 114754","c":"TW","o":"LUXSHARE-ICT Co., Ltd."}]);

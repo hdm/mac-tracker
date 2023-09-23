@@ -1,1 +1,0 @@
-macDetailCallback("48d18e000000/24",[{"d":"2014-02-07","t":"add","a":"#102-805 Digital Empire2\nYeongTong-Gu Sinwon-Ro 88\nSuwon-Si GyeongGi-Do 443-734\n","c":"KOREA, REPUBLIC OF","o":"Metis Communication Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"#102-805 Digital Empire2 Suwon-Si GyeongGi-Do KR 443-734","c":"KR","o":"Metis Communication Co.,Ltd"}]);

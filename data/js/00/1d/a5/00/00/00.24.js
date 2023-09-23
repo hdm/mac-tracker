@@ -1,1 +1,0 @@
-macDetailCallback("001da5000000/24",[{"d":"2007-08-18","t":"add","a":"Langelandsvej 1A\nHerning Herning 7400\n\n","c":"DENMARK","o":"WB Electronics"},{"d":"2015-08-27","t":"change","a":"Langelandsvej 1A Herning Herning DK 7400","c":"DK","o":"WB Electronics"}]);

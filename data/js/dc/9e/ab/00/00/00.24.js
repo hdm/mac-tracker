@@ -1,1 +1,0 @@
-macDetailCallback("dc9eab000000/24",[{"d":"2022-12-29","t":"add","s":"ieee-oui.csv","a":"No. 1-10, Tieshan Road, Biquan Street, Bishan District, Chongqing ChongQing  CN 402760","c":"CN","o":"Chongqing Yipingfang Technology Co., Ltd."}]);

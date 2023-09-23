@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5d97000/36",[{"a":"Rua Gomes de Freitas, 491/204 Porto Alegre - RS (Non U.S.) BR 91380-000","o":"BRS Sistemas Eletronicos","d":"2014-09-28","t":"add","s":"ieee","c":"BR"},{"d":"2020-06-06","t":"change","s":"ieee-oui36.csv","a":"Rua Gomes de Freitas, 491/204 Porto Alegre - RS (Non U.S.) BR 91380-000","c":"BR","o":"BRS Sistemas Eletrônicos"}]);

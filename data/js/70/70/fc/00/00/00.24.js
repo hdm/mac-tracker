@@ -1,1 +1,0 @@
-macDetailCallback("7070fc000000/24",[{"d":"2022-03-12","t":"add","s":"ieee-oui.csv","a":"NO.77 Leighton Road, 17/F Leighton Centre Causeway Bay ,HongKong HongKong  HK 999077","c":"HK","o":"GOLD&WATER INDUSTRIAL LIMITED"}]);

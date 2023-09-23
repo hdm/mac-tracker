@@ -1,1 +1,0 @@
-macDetailCallback("8c1f642d0000/36",[{"d":"2023-03-08","t":"add","s":"ieee-oui36.csv","a":"80 Riverside\nSir Thomas Longley Road Rochester Kent GB ME2 4BH","c":"GB","o":"Cambridge Research Systems Ltd"}]);

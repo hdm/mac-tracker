@@ -1,1 +1,0 @@
-macDetailCallback("e009bf000000/24",[{"d":"2018-11-08","t":"add","s":"ieee-oui.csv","a":"5th floor building 4 pengtengda industrial，langkou community，dalang street longhua newly developed area Shenzhen GuangDong CN 518000","c":"CN","o":"SHENZHEN TONG BO WEI TECHNOLOGY Co.,LTD"}]);

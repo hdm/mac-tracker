@@ -1,1 +1,0 @@
-macDetailCallback("28a5ee000000/24",[{"d":"2014-05-22","t":"add","a":"2/F, NO, 3, QIONGYU ROAD,\nNanshan\nshenzhen Guangdong province 518057\n","c":"CHINA","o":"Shenzhen SDGI CATV Co., Ltd"},{"d":"2015-08-27","t":"change","a":"2/F, NO, 3, QIONGYU ROAD, shenzhen Guangdong province CN 518057","c":"CN","o":"Shenzhen SDGI CATV Co., Ltd"}]);

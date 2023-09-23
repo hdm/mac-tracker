@@ -1,1 +1,0 @@
-macDetailCallback("48a2b8000000/24",[{"d":"2020-06-06","t":"add","s":"ieee-oui.csv","a":"China (Sichuan) Free Trade Test Zone Chengdu Hi-tech Zone 300 Jiaozi Avenue 3 buildings 22 Chengdu Sichuan CN 610041","c":"CN","o":"Chengdu Vision-Zenith Tech.Co,.Ltd"}]);

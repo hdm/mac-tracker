@@ -1,1 +1,0 @@
-macDetailCallback("000b6e000000/24",[{"d":"2002-10-14","t":"add","a":"700 South Myrtle Ave.\nMonrovia CA 91016\n\n","c":"UNITED STATES","o":"Neff Instrument Corp."},{"d":"2015-08-27","t":"change","a":"700 South Myrtle Ave. Monrovia CA US 91016","c":"US","o":"Neff Instrument Corp."}]);

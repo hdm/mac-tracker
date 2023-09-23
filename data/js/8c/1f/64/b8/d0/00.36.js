@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64b8d000/36",[{"d":"2021-11-20","t":"add","s":"ieee-oui36.csv","a":"Room 7-004, 7 / F, Tianxia IC Industrial Park, 133 Yiyuan Road, Nanshan District,  Shenzhen Guangdong CN 518000","c":"CN","o":"Tongye lnnovation Science and Technology (Shenzhen) Co.,Ltd"}]);

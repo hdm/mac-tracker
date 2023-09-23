@@ -1,1 +1,0 @@
-macDetailCallback("fc539e000000/24",[{"d":"2017-01-10","t":"add","a":"Floor 8,East Building,Guilin Technology Mansion,No.650,Caobao Road,XuHui District,Shanghai,P.R.China Shanghai Shanghai CN 200233","c":"CN","o":"Shanghai Wind Technologies Co.,Ltd"}]);

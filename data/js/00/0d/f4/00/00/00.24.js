@@ -1,1 +1,0 @@
-macDetailCallback("000df4000000/24",[{"d":"2003-09-08","t":"add","a":"Room 1006,Haitai building,north si Huan\nZhong Road,Haidian District\nBeijing  100083\n","c":"CHINA","o":"Watertek Co.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Room 1006,Haitai building,north si Huan Beijing  CN 100083","c":"CN","o":"Watertek Co."}]);

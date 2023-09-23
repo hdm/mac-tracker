@@ -1,1 +1,0 @@
-macDetailCallback("74fda0000000/24",[{"d":"2011-06-16","t":"add","a":"No.1555 Jiashan Avenue\nJiashan Zhejiang 314113\n\n","c":"CHINA","o":"Compupal (Group) Corporation"},{"d":"2015-08-27","t":"change","a":"No.1555 Jiashan Avenue Jiashan Zhejiang CN 314113","c":"CN","o":"Compupal (Group) Corporation"}]);

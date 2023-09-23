@@ -1,1 +1,0 @@
-macDetailCallback("50de19b00000/28",[{"d":"2019-11-01","t":"add","s":"ieee-mam.csv","a":"F3 and F4 of Innovation Industrial Park Phase II in Hefei High-tech Zone Hefei  Anhui  CN 230000","c":"CN","o":"BRAINWARE TERAHERTA INFORMATION TECHNOLOGY CO.,LTD."}]);

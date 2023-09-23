@@ -1,1 +1,0 @@
-macDetailCallback("d09fd9800000/28",[{"d":"2021-03-20","t":"add","s":"ieee-mam.csv","a":"No.30, Lane 500, Xinlong Road, Minhang District Shanghai  CN 201101","c":"CN","o":"Queclink Wireless Solutions Co., Ltd."}]);

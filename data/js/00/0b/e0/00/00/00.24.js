@@ -1,1 +1,0 @@
-macDetailCallback("000be0000000/24",[{"d":"2002-12-03","t":"add","a":"16 Ha'haroshet st.\nP.O.B. 2009\nRa'anana  43657\n","c":"ISRAEL","o":"SercoNet Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"16 Ha'haroshet st. Ra'anana  IL 43657","c":"IL","o":"SercoNet Ltd."}]);

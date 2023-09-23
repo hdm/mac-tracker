@@ -1,1 +1,0 @@
-macDetailCallback("001717000000/24",[{"d":"2006-01-14","t":"add","a":"Heinrich Wild Strasse\nHeerbrugg St. Gallen CH-9435\n\n","c":"SWITZERLAND","o":"Leica Geosystems AG"},{"d":"2015-08-27","t":"change","a":"Heinrich Wild Strasse Heerbrugg St. Gallen CH CH-9435","c":"CH","o":"Leica Geosystems AG"}]);

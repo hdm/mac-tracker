@@ -1,1 +1,0 @@
-macDetailCallback("204c6d000000/24",[{"d":"2013-02-21","t":"add","a":"Seestr. 1-3\nTuebingen Baden-Wuerttemberg 72074\n\n","c":"GERMANY","o":"Hugo Brennenstuhl Gmbh & Co. KG."},{"d":"2015-08-27","t":"change","a":"Seestr. 1-3 Tuebingen Baden-Wuerttemberg DE 72074","c":"DE","o":"Hugo Brennenstuhl Gmbh & Co. KG."}]);

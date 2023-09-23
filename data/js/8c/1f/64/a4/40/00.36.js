@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64a44000/36",[{"d":"2022-01-13","t":"add","s":"ieee-oui36.csv","a":"Office # G201-204 NSTP, NUST ISLAMABAD ISLAMABAD Islamabad Capital Territory PK 44000","c":"PK","o":"Rapidev Pvt Ltd"}]);

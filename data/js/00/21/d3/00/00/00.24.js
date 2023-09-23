@@ -1,1 +1,0 @@
-macDetailCallback("0021d3000000/24",[{"d":"2008-06-18","t":"add","a":"Flr.3,NO.29,#69 Guiqing RD\nChina\nShanghai  200233\n","c":"CHINA","o":"BOCOM SECURITY(ASIA PACIFIC) LIMITED","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Flr.3,NO.29,#69 Guiqing RD Shanghai  CN 200233","c":"CN","o":"BOCOM SECURITY(ASIA PACIFIC) LIMITED"}]);

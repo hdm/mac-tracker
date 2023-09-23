@@ -1,1 +1,0 @@
-macDetailCallback("70b3d58e2000/36",[{"d":"2018-11-02","t":"add","s":"ieee-oui36.csv","a":"No. 1117, Pioneer Road, High-tech Zone Jinan City Shandong Province CN 250101","c":"CN","o":"Zhiye Electronics Co., Ltd."}]);

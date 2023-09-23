@@ -1,1 +1,0 @@
-macDetailCallback("001458000000/24",[{"d":"2005-04-14","t":"add","a":"Bjerringbrovej 70\nRodovre  2610\n\n","c":"DENMARK","o":"HS Automatic ApS"},{"d":"2015-08-27","t":"change","a":"Bjerringbrovej 70 Rodovre  DK 2610","c":"DK","o":"HS Automatic ApS"}]);

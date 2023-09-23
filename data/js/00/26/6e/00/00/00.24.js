@@ -1,1 +1,0 @@
-macDetailCallback("00266e000000/24",[{"d":"2009-06-07","t":"add","a":"3-7-6,chidori\nohta Tokyo 146-0083\n\n","c":"JAPAN","o":"Nissho-denki Co.,LTD.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3-7-6,chidori ohta Tokyo JP 146-0083","c":"JP","o":"Nissho-denki Co.,LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000733000000/24",[{"d":"2001-10-24","t":"add","a":"Italiensvej 1-5\nDK-8450 Hammel\n\n","c":"DENMARK","o":"DANCONTROL Engineering"},{"d":"2015-08-27","t":"change","a":"Italiensvej 1-5   DK","c":"DK","o":"DANCONTROL Engineering"}]);

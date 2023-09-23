@@ -1,1 +1,0 @@
-macDetailCallback("0050c2b81000/36",[{"a":"Jung-Stilling-Straße 21 Kaiserslautern Rheinland-Pfalz DE 67663","o":"GHL Advanced Technolgy GmbH & Co. KG","d":"2009-11-08","t":"add","s":"ieee","c":"DE"}]);

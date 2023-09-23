@@ -1,1 +1,0 @@
-macDetailCallback("fca64c000000/24",[{"d":"2021-06-23","t":"add","s":"ieee-oui.csv","a":"No.12, Zhuantang science and technology economic block, Xihu District Hangzhou Zhejiang CN 310024","c":"CN","o":"Alibaba cloud computing Co., Ltd"}]);

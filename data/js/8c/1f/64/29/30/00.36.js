@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64293000/36",[{"d":"2022-12-01","t":"add","s":"ieee-oui36.csv","a":"Hasdrubal Bellegard, 400, CIC Curitiba Paraná BR 81460-120","c":"BR","o":"Landis+Gyr Equipamentos de Medição Ltda"}]);

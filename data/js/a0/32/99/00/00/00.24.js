@@ -1,1 +1,0 @@
-macDetailCallback("a03299000000/24",[{"d":"2015-06-24","t":"add","a":"No.6, ChuangYe Road,\nSHANGDI Information Technology Industry Base\nHaidian District Beijing 100085\n","c":"CHINA","o":"Lenovo (Beijing) Co., Ltd."},{"d":"2015-08-27","t":"change","a":"No.6, ChuangYe Road, Haidian District Beijing CN 100085","c":"CN","o":"Lenovo (Beijing) Co., Ltd."}]);

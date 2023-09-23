@@ -1,1 +1,0 @@
-macDetailCallback("d452c7000000/24",[{"d":"2023-02-15","t":"add","s":"ieee-oui.csv","a":"901,floor 9, jelly loft, building 28, yard 9, Huinan Road, Changping District. Beijing  CN 102208","c":"CN","o":"Beijing L&S Lancom Platform Tech. Co., Ltd."}]);

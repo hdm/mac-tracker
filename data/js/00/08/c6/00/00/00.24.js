@@ -1,1 +1,0 @@
-macDetailCallback("0008c6000000/24",[{"d":"2001-12-23","t":"add","a":"Route d'Angers\n72081 Le Mans\nCedex 9\n","c":"FRANCE","o":"Philips Consumer Communications","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Route d'Angers Cedex 9  FR","c":"FR","o":"Philips Consumer Communications"}]);

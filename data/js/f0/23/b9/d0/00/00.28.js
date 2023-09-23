@@ -1,1 +1,0 @@
-macDetailCallback("f023b9d00000/28",[{"a":"","o":"Private","d":"2017-02-19","t":"add","s":"ieee"},{"d":"2021-01-14","t":"change","s":"ieee-mam.csv","a":"No.17-5, Wensu Street Dongling District Shenyang Liaoning Province CN 110168","c":"CN","o":"Shenyang Ali Technology Company Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("781305400000/28",[{"d":"2021-04-21","t":"add","s":"ieee-mam.csv","a":"Zhihang road Wutong Ave. Hight tech area Jingdezhen City Jiangxi province PRC. Jingdezhen  Jiangxi CN 333000","c":"CN","o":"Jiangxi Winsky Intelligence Technology Co., Ltd"}]);

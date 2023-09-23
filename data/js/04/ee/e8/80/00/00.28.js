@@ -1,1 +1,0 @@
-macDetailCallback("04eee8800000/28",[{"d":"2021-11-07","t":"add","s":"ieee-mam.csv","a":"#927, Gyeonggi business Growh Center, Pangyo 2nd TechnoValley, 42, Changeop-ro, Sujeong-gu Seongnam-si Gyeonggi-do KP 13449","c":"KP","o":"MPEON Co.,Ltd"}]);

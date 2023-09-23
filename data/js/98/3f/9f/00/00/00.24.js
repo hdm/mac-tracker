@@ -1,1 +1,0 @@
-macDetailCallback("983f9f000000/24",[{"d":"2012-11-29","t":"add","a":"399 Linquan St., Dongnan Building 411\nSuzhou Industrial Park\nSuzhou Jiangsu 215123\n","c":"CHINA","o":"China SSJ (Suzhou) Network Technology Inc."},{"d":"2015-08-27","t":"change","a":"399 Linquan St., Dongnan Building 411 Suzhou Jiangsu CN 215123","c":"CN","o":"China SSJ (Suzhou) Network Technology Inc."}]);

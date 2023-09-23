@@ -1,1 +1,0 @@
-macDetailCallback("141fba000000/28",[{"a":"2017#Baoan Internet Industry Base,Langman Gangwan Shenzhen Guangdong CN 518000","o":"Shenzhen Mining Technology Co.,Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

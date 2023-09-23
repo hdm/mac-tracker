@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5737000/36",[{"a":"C-4th & 5th Floor, Digital Empire Building, 980-3 Suwon-si Kyonggi-do KR ASI|KR|KS002|SUWON","o":"SD Biosensor","d":"2015-04-19","t":"add","s":"ieee","c":"KR"}]);

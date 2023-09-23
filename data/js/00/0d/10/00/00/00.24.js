@@ -1,1 +1,0 @@
-macDetailCallback("000d10000000/24",[{"d":"2003-04-13","t":"add","a":"Unkarinpolku 20\nKuopio  70820\n\n","c":"FINLAND","o":"Embedtronics Oy","s":"wireshark.org"},{"d":"2013-03-14","t":"change","a":"LevÃ¤sentie 23\nKuopio  70780\n\n","c":"FINLAND","o":"Embedtronics Oy"},{"d":"2015-08-27","t":"change","a":"Leväsentie 23 Kuopio  FI 70780","c":"FI","o":"Embedtronics Oy"}]);

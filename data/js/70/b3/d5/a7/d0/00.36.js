@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5a7d000/36",[{"d":"2019-07-01","t":"add","s":"ieee-oui36.csv","a":"3-4 Fielding industrial estate, Fulbourn Cambridge Cambridgeshire GB CB21 5ET","c":"GB","o":"Prior Scientific Instruments Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000c24000000/24",[{"d":"2003-01-21","t":"add","a":"","c":null,"o":"PRIVATE","s":"wireshark.org"},{"d":"2005-03-22","t":"change","a":"44, rue d'Estienne d'Orves\nsartrouville yvelines 78500\n\n","c":"FRANCE","o":"ANATOR"},{"d":"2015-08-27","t":"change","a":"44, rue d'Estienne d'Orves sartrouville yvelines FR 78500","c":"FR","o":"ANATOR"}]);

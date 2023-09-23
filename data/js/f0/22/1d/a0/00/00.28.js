@@ -1,1 +1,0 @@
-macDetailCallback("f0221da00000/28",[{"d":"2022-09-02","t":"add","s":"ieee-mam.csv","a":"Room 201, floor 2, building F, Haichuang Park, Zhongdian Haikang Group Co., Ltd., No. 198, aicheng street, Wuchang Street, Yuhang District  Hangzhou Zhejiang  CN 310000","c":"CN","o":"Hangzhou Gold Electronic Equipment Co., Ltd"}]);

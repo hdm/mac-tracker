@@ -1,1 +1,0 @@
-macDetailCallback("4851d0000000/24",[{"d":"2021-12-22","t":"add","s":"ieee-oui.csv","a":"18th Floor,Inno laser Building,18-69 Changwu Mid Road,Changzhou Science & Education Town,Wujin District,Changzhou,Jiangsu213000,China Changzhou Jiangsu CN 213000","c":"CN","o":"Jiangsu Xinsheng Intelligent Technology Co., Ltd."}]);

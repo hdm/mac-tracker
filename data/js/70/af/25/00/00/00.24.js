@@ -1,1 +1,0 @@
-macDetailCallback("70af25000000/24",[{"d":"2014-06-07","t":"add","a":"177-2\nTenma\nFuji Shizuoka 419-0205\n","c":"JAPAN","o":"Nishiyama Industry Co.,LTD."},{"d":"2015-08-27","t":"change","a":"177-2 Fuji Shizuoka JP 419-0205","c":"JP","o":"Nishiyama Industry Co.,LTD."}]);

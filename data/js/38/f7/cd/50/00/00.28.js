@@ -1,1 +1,0 @@
-macDetailCallback("38f7cd500000/28",[{"d":"2020-03-22","t":"add","s":"ieee-mam.csv","a":"No. W, floor 1, building 2, No. 258, Minfeng Road, Pudong New Area Shanghai Shanghai CN 201209","c":"CN","o":"Shanghai qinzhuo Electronic Co., Ltd."}]);

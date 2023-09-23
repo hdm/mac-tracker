@@ -1,1 +1,0 @@
-macDetailCallback("0026f4000000/24",[{"d":"2009-07-24","t":"add","a":"489-2 Maetan 3-dong, Yeong Tong-gu\nSuwon-si Gyeonggi-do 443-803\n\n","c":"KOREA, REPUBLIC OF","o":"Nesslab"},{"d":"2015-08-27","t":"change","a":"489-2 Maetan 3-dong, Yeong Tong-gu Suwon-si Gyeonggi-do KR 443-803","c":"KR","o":"Nesslab"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("481842000000/24",[{"d":"2013-12-05","t":"add","a":"8F Building A, WanDa Square\n18 Guobin Rd. Yangpu District\nShanghai 200433\n","c":"CHINA","o":"Shanghai Winaas Co. Equipment Co. Ltd."},{"d":"2015-08-27","t":"change","a":"8F Building A, WanDa Square  Shanghai CN 200433","c":"CN","o":"Shanghai Winaas Co. Equipment Co. Ltd."}]);

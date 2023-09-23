@@ -1,1 +1,0 @@
-macDetailCallback("50482c200000/28",[{"d":"2023-05-06","t":"add","s":"ieee-mam.csv","a":"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000","c":"HK","o":"BBPOS Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("ecaaa0000000/24",[{"d":"2016-04-12","t":"add","a":"5F No. 76, Ligong St., Beitou District\n\n\n","c":"Taipei City  Taiwan  112","o":"PEGATRON CORPORATION"},{"d":"2016-04-13","t":"change","a":"5F No. 76, Ligong St., Beitou District Taipei City Taiwan TW 112","c":"TW","o":"PEGATRON CORPORATION"}]);

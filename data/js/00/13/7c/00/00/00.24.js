@@ -1,1 +1,0 @@
-macDetailCallback("00137c000000/24",[{"d":"2005-02-06","t":"add","a":"#109, Gayang Techno Town 1487, Gayang-dong,Kangso-gu\nSeoul  157-810\n\n","c":"KOREA, REPUBLIC OF","o":"Kaicom co., Ltd."},{"d":"2015-08-27","t":"change","a":"#109, Gayang Techno Town 1487, Gayang-dong,Kangso-gu Seoul  KR 157-810","c":"KR","o":"Kaicom co., Ltd."}]);

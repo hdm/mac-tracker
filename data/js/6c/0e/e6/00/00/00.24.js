@@ -1,1 +1,0 @@
-macDetailCallback("6c0ee6000000/24",[{"d":"2016-03-04","t":"add","a":"Room 408,Building A,No.33 Wuqing South Road,Wuhou District Chengdu Sichuan CN 610000","c":"CN","o":"Chengdu Xiyida Electronic Technology Co,.Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001a9d000000/24",[{"d":"2006-12-05","t":"add","a":"Shinjuku-Sumitomo Bldg. 20F\n2-6-1 Nishi-Shinjuku\nShinjuku Tokyo 163-0220\n","c":"JAPAN","o":"Skipper Wireless, Inc."},{"d":"2015-08-27","t":"change","a":"Shinjuku-Sumitomo Bldg. 20F Shinjuku Tokyo JP 163-0220","c":"JP","o":"Skipper Wireless, Inc."}]);

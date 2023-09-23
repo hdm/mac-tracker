@@ -1,1 +1,0 @@
-macDetailCallback("24c9a1000000/24",[{"d":"2013-03-12","t":"add","a":"350 West Java Drive\nSunnyvale CA 94089\n\n","c":"UNITED STATES","o":"Ruckus Wireless"},{"d":"2015-08-27","t":"change","a":"350 West Java Drive Sunnyvale CA US 94089","c":"US","o":"Ruckus Wireless"}]);

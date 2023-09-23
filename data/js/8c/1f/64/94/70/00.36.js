@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64947000/36",[{"d":"2021-04-28","t":"add","s":"ieee-oui36.csv","a":"Bolshaya Serpukhovskaya street 25, bld. 2, 1 st floor, room III Moscow  RU 115093","c":"RU","o":"LLC \"TC \"Vympel\""}]);

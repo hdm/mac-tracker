@@ -1,1 +1,0 @@
-macDetailCallback("0023bf000000/24",[{"d":"2008-10-08","t":"add","a":"PO Box 241\nWilsonville Oregon 97070-0241\n\n","c":"UNITED STATES","o":"Mainpine, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"PO Box 241 Wilsonville Oregon US 97070-0241","c":"US","o":"Mainpine, Inc."}]);

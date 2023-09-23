@@ -1,1 +1,0 @@
-macDetailCallback("001af5000000/24",[{"d":"2007-01-06","t":"add","a":"Hyo Chang Bldg, 3F, 1013-6, Inkye-dong Paldal-Gu,\nSuwon City Gyunggi-Do 422-833\n\n","c":"KOREA, REPUBLIC OF","o":"PENTAONE. CO., LTD."},{"d":"2015-08-27","t":"change","a":"Hyo Chang Bldg, 3F, 1013-6, Inkye-dong Paldal-Gu, Suwon City Gyunggi-Do KR 422-833","c":"KR","o":"PENTAONE. CO., LTD."}]);

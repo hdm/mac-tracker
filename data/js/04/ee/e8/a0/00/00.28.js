@@ -1,1 +1,0 @@
-macDetailCallback("04eee8a00000/28",[{"d":"2021-11-03","t":"add","s":"ieee-mam.csv","a":"16F, Block C, Qifengda Building, Taohuayuan Science and Technology Innovation Park, Furong Road, Songgang Street, Baoan District, Shenzhen Guangdong CN 518110","c":"CN","o":"Shenzhen JoiningFree Technology Co.,Ltd"}]);

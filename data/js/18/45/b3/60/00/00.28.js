@@ -1,1 +1,0 @@
-macDetailCallback("1845b3600000/28",[{"d":"2021-09-30","t":"add","s":"ieee-mam.csv","a":"Building B, No. 8 Tianxin Street, Yongkou Management District, Management District, Shijie Town Dongguan Guangdong CN 523290","c":"CN","o":"Harmonic Technology Limited"}]);

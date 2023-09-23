@@ -1,1 +1,0 @@
-macDetailCallback("10dcb6700000/28",[{"d":"2019-07-24","t":"add","s":"ieee-mam.csv","a":"Guang Hui Science Park, No.17 of Min Qing Road, Longhua District Shenzhen  CN 518000","c":"CN","o":"Moya Commumication Technology (Shenzhen) Co.,Ltd."}]);

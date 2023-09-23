@@ -1,1 +1,0 @@
-macDetailCallback("20415a000000/24",[{"d":"2009-10-10","t":"add","a":"Trg tigrovcev 1\nTolmin  5220\n\n","c":"SLOVENIA","o":"Smarteh d.o.o."},{"d":"2015-08-27","t":"change","a":"Trg tigrovcev 1 Tolmin  SI 5220","c":"SI","o":"Smarteh d.o.o."}]);

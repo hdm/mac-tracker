@@ -1,1 +1,0 @@
-macDetailCallback("9447b0000000/24",[{"d":"2020-06-23","t":"add","s":"ieee-oui.csv","a":"Room 2179, Floor2,Block D, Building 33, Centralised Office Area, No.99, Kechuangshisi Road, BDA, Beijing BEIJING BEIJING CN 100176","c":"CN","o":"BEIJING ESWIN COMPUTING TECHNOLOGY CO., LTD"}]);

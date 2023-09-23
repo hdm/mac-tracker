@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6480f000/36",[{"d":"2023-06-15","t":"add","s":"ieee-oui36.csv","a":"Address: 20F.-1, No. 8, Ziqiang S. Rd.,  Zhubei City Hsinchu County TW 30244","c":"TW","o":"ASYS Corporation"}]);

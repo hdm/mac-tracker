@@ -1,1 +1,0 @@
-macDetailCallback("849dc5000000/24",[{"d":"2012-09-26","t":"add","a":"3F, No 6-3 Dusing Rd.\nHsinchu Taiwan 30078\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Centera Photonics Inc."},{"d":"2015-08-27","t":"change","a":"3F, No 6-3 Dusing Rd. Hsinchu Taiwan TW 30078","c":"TW","o":"Centera Photonics Inc."}]);

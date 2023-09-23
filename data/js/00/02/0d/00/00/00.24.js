@@ -1,1 +1,0 @@
-macDetailCallback("00020d000000/24",[{"d":"2000-09-08","t":"add","a":"900 E. Karcher Rd.\nNampa, IA 83687\n\n","c":"UNITED STATES","o":"Micronpc.com"},{"d":"2001-10-24","t":"change","a":"900 E. Karcher Rd.\nNampa IA 83687\n\n","c":"UNITED STATES","o":"Micronpc.com"},{"d":"2015-08-27","t":"change","a":"900 E. Karcher Rd. Nampa IA US 83687","c":"US","o":"Micronpc.com"}]);

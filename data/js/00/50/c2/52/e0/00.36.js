@@ -1,1 +1,0 @@
-macDetailCallback("0050c252e000/36",[{"a":"TAPTON PARK INNOVATION CENTRE CHESTERFIELD DERBYSHIRE GB S41 0TZ","o":"DSP DESIGN","d":"2008-07-30","t":"add","s":"ieee","c":"GB"}]);

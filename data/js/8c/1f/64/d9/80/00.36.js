@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64d98000/36",[{"d":"2022-11-29","t":"add","s":"ieee-oui36.csv","a":"No. 238-15, Ln. 220, Sec. 1, Minyi Rd., Wugu Dist., New Taipei City 248 , Taiwan (R.O.C.) NEW TAIPEI CITY  TW 248","c":"TW","o":"Gnewtek photoelectric technology Ltd."}]);

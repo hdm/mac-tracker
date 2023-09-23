@@ -1,1 +1,0 @@
-macDetailCallback("0008fd000000/24",[{"d":"2002-01-30","t":"add","a":"3F, sejong Building, 379-15, Seokyo-Dong\nMapo-Ku,\nSeoul  121-839\n","c":"KOREA, REPUBLIC OF","o":"BlueKorea Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3F, sejong Building, 379-15, Seokyo-Dong Seoul  KR 121-839","c":"KR","o":"BlueKorea Co., Ltd."}]);

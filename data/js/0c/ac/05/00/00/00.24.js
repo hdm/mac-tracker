@@ -1,1 +1,0 @@
-macDetailCallback("0cac05000000/24",[{"d":"2014-05-10","t":"add","a":"No.6 Nanda'an Hutong, Xizhimeng st\n3 floor\nZicheng District Beijing 100035\n","c":"CHINA","o":"Unitend Technologies Inc."},{"d":"2015-08-27","t":"change","a":"No.6 Nanda'an Hutong, Xizhimeng st Zicheng District Beijing CN 100035","c":"CN","o":"Unitend Technologies Inc."}]);

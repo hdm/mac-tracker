@@ -1,1 +1,0 @@
-macDetailCallback("50a030100000/28",[{"d":"2021-10-30","t":"add","s":"ieee-mam.csv","a":"Floor 18-19, Shared Spaces, Research and Innovation Park, Huachuang Road, Jiangbei New Area  Nanjing Jiangsu CN 210043","c":"CN","o":"XEPIC Corporation Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("1ca0efe00000/28",[{"d":"2021-02-11","t":"add","s":"ieee-mam.csv","a":"Room 336, No.3, Lane 2288, Zuchongzhi Road, Pudong Area Shanghai Shanghai CN 200120","c":"CN","o":"RDA Microelectronics Technologies (Shanghai) Co. , Ltd"}]);

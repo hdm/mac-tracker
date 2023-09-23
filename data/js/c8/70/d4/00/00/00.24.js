@@ -1,1 +1,0 @@
-macDetailCallback("c870d4000000/24",[{"d":"2022-06-15","t":"add","s":"ieee-oui.csv","a":"4F,Block.C,Unis Inforport,Langshan Rd 13,Hi-Tech Industrial Park(North)Nanshan ShenZhen GuangDong CN 518000","c":"CN","o":"IBO Technology Co,Ltd"}]);

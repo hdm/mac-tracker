@@ -1,1 +1,0 @@
-macDetailCallback("000cd9000000/24",[{"d":"2003-04-08","t":"add","a":"408 KT Seocho, 1001-1 Bangbae-dong,\nSeocho-ku\nSeoul  137-850\n","c":"KOREA, REPUBLIC OF","o":"Itcare Co., Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"408 KT Seocho, 1001-1 Bangbae-dong, Seoul  KR 137-850","c":"KR","o":"Itcare Co., Ltd"}]);

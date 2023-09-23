@@ -1,1 +1,0 @@
-macDetailCallback("34f223000000/24",[{"d":"2022-08-06","t":"add","s":"ieee-oui.csv","a":"F5, Hongzhuo Bldg., 1, Rujiangxi Rd., Fuzhou, Fujian, China Fuzhou Fujian CN 350015","c":"CN","o":"Fujian Newland Communication Science Technology Co.,Ltd."}]);

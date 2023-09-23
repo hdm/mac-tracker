@@ -1,1 +1,0 @@
-macDetailCallback("a4561b000000/24",[{"d":"2010-03-05","t":"add","a":"Yogohigashi 1-5-12\nMatsuyama city Ehime prefecture 790-0044\n\n","c":"JAPAN","o":"MCOT Corporation"},{"d":"2015-08-27","t":"change","a":"Yogohigashi 1-5-12 Matsuyama city Ehime prefecture JP 790-0044","c":"JP","o":"MCOT Corporation"}]);

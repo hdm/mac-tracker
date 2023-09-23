@@ -1,1 +1,0 @@
-macDetailCallback("0050c21f3000/36",[{"a":"Ingvald Ystgaards vei 23 N-7047 Trondheim NO","o":"Radionor Communications","d":"2008-07-30","t":"add","s":"ieee","c":"NO"},{"d":"2019-07-01","t":"change","s":"ieee-iab.csv","a":"Ingvald Ystgaards vei 23 N-7047 Trondheim NO 0000","c":"NO","o":"Radionor Communications"}]);

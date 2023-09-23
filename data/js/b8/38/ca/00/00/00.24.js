@@ -1,1 +1,0 @@
-macDetailCallback("b838ca000000/24",[{"d":"2012-11-29","t":"add","a":"2-25-7 sakado,Takatsu-ku\nKawasaki Kanagawa 213-0012\n\n","c":"JAPAN","o":"Kyokko Tsushin System CO.,LTD"},{"d":"2015-08-27","t":"change","a":"2-25-7 sakado,Takatsu-ku Kawasaki Kanagawa JP 213-0012","c":"JP","o":"Kyokko Tsushin System CO.,LTD"}]);

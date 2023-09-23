@@ -1,1 +1,0 @@
-macDetailCallback("300d9e000000/24",[{"d":"2019-06-18","t":"add","s":"ieee-oui.csv","a":"20# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002","c":"CN","o":"Ruijie Networks Co.,LTD"}]);

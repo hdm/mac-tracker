@@ -1,1 +1,0 @@
-macDetailCallback("fc1bff000000/24",[{"d":"2013-07-19","t":"add","a":"Industriestrasse 66\nZug 6301\n\n","c":"SWITZERLAND","o":"V-ZUG AG"},{"d":"2015-08-27","t":"change","a":"Industriestrasse 66  Zug CH 6301","c":"CH","o":"V-ZUG AG"}]);

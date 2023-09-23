@@ -1,1 +1,0 @@
-macDetailCallback("d0d94f700000/28",[{"a":"","o":"Private","d":"2016-04-03","t":"add","s":"ieee"},{"d":"2020-05-07","t":"change","s":"ieee-mam.csv","a":"1340 Satellite Boulevard Suwanee GA US 30345","c":"US","o":"Mitsubishi Electric US, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0050c21d6000/36",[{"a":"floor 10,xinan building,NO.200,zhennin R shanghai  CN 200040","o":"shanghai trend intelligent systems CO.,LTD","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

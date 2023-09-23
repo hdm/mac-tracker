@@ -1,1 +1,0 @@
-macDetailCallback("48fcb6000000/24",[{"d":"2016-03-31","t":"add","a":"UNIT L 1/F MAU LAM COMM BLDG 16-18 MAU LAM ST, JORDAN KL, HK Hong kong  CN 999077","c":"CN","o":"LAVA INTERNATIONAL(H.K) LIMITED"}]);

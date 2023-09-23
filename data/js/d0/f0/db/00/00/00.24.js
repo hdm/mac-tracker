@@ -1,1 +1,0 @@
-macDetailCallback("d0f0db000000/24",[{"d":"2010-02-06","t":"add","a":"100 Headquarters Dr\nSan Jose CA 95134\n\n","c":"UNITED STATES","o":"Ericsson"},{"d":"2013-03-14","t":"change","a":"250 Holger Way\nSAN JOSE CA 95134\n\n","c":"UNITED STATES","o":"Ericsson"},{"d":"2015-08-27","t":"change","a":"250 Holger Way SAN JOSE CA US 95134","c":"US","o":"Ericsson"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0ccef6000000/24",[{"d":"2017-08-23","t":"add","a":"2nd Floor, Factory Building 4, Hi-Tech Industrial Park, Xinpu Economic Development Zone, Xinpu New District Zunyi City Guizhou Province CN 56300","c":"CN","o":"Guizhou Fortuneship Technology Co., Ltd"}]);

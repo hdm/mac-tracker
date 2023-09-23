@@ -1,1 +1,0 @@
-macDetailCallback("78653b000000/24",[{"d":"2020-12-15","t":"add","s":"ieee-oui.csv","a":"3rd Floor # 7, No. 1732 Yanhua industrial park West Renmin Road,Shangyu Shaoxing Zhejiang CN 312000","c":"CN","o":"Shaoxing Ourten Electronics Co., Ltd."}]);

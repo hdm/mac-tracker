@@ -1,1 +1,0 @@
-macDetailCallback("bc0fa7000000/24",[{"d":"2017-10-25","t":"add","a":"350 Treat Ave\nSan Francisco  CA  94110\n\n","c":"UNITED STATES","o":"Ouster"},{"d":"2017-10-26","t":"change","a":"350 Treat Ave San Francisco CA US 94110","c":"US","o":"Ouster"}]);

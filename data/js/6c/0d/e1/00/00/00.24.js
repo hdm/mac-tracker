@@ -1,1 +1,0 @@
-macDetailCallback("6c0de1000000/24",[{"d":"2020-11-18","t":"add","s":"ieee-oui.csv","a":"Dongguan Cannice Precision Manufacturing Co., Ltd. Dongguan Guangdong CN 523170","c":"CN","o":"Dongguan Cannice Precision Manufacturing Co., Ltd."}]);

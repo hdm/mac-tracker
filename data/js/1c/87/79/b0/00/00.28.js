@@ -1,1 +1,0 @@
-macDetailCallback("1c8779b00000/28",[{"d":"2015-09-25","t":"add","a":"Room 1701, Building A, Boya International Center, Lizezhongerlu, Chaoyang District Beijing Beijing CN 100102","c":"CN","o":"Beijing Geedeen Technology Co., Ltd"}]);

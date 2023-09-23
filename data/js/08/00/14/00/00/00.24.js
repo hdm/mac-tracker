@@ -1,1 +1,0 @@
-macDetailCallback("080014000000/24",[{"d":"2000-09-08","t":"add","a":"1599 FLICKINGER AVENUE\nSAN JOSE CA 95131\n\n","c":"UNITED STATES","o":"EXCELAN"},{"d":"2015-08-27","t":"change","a":"1599 FLICKINGER AVENUE SAN JOSE CA US 95131","c":"US","o":"EXCELAN"}]);

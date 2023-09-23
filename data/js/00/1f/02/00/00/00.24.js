@@ -1,1 +1,0 @@
-macDetailCallback("001f02000000/24",[{"d":"2007-12-31","t":"add","a":"31 Kaki Bukit Road 3\n#07-03, Techlink\n417818\n","c":"SINGAPORE","o":"Pixelmetrix Corporation Pte Ltd"},{"d":"2015-08-27","t":"change","a":"31 Kaki Bukit Road 3   SG 417818","c":"SG","o":"Pixelmetrix Corporation Pte Ltd"}]);

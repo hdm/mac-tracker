@@ -1,1 +1,0 @@
-macDetailCallback("50b8a2000000/24",[{"d":"2013-04-10","t":"add","a":"2101 NE Jack London St\nCorvallis Oregon 97330\n\n","c":"UNITED STATES","o":"ImTech Technologies LLC,"},{"d":"2015-08-27","t":"change","a":"2101 NE Jack London St Corvallis Oregon US 97330","c":"US","o":"ImTech Technologies LLC,"}]);

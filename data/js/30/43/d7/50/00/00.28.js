@@ -1,1 +1,0 @@
-macDetailCallback("3043d7500000/28",[{"d":"2022-01-20","t":"add","s":"ieee-mam.csv","a":"2F & 4F,Building 3 North District,2nd Qianjin Road,Liutang Village, Xixiang,Bao'an District Shenzhen Guangdong CN 518102","c":"CN","o":"Shenzhen Mees Hi-Tech Co., Ltd"}]);

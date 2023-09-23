@@ -1,1 +1,0 @@
-macDetailCallback("a08cf2000000/24",[{"d":"2022-05-04","t":"add","s":"ieee-oui.csv","a":"3F, Bldg 5, Gaoxinjian Industrial Park, Fuyuan 1st Road, Heping, Fuhai, Bao'an Shenzhen Guangdong CN 518103","c":"CN","o":"YINUOLINK CO.,LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001f57000000/24",[{"d":"2007-12-31","t":"add","a":"29/167 Moo2, 345 Rd, Lampo,\nBangbuathong\nNonthaburi  11110\n","c":"THAILAND","o":"Phonik Innovation Co.,LTD"},{"d":"2015-08-27","t":"change","a":"29/167 Moo2, 345 Rd, Lampo, Nonthaburi  TH 11110","c":"TH","o":"Phonik Innovation Co.,LTD"}]);

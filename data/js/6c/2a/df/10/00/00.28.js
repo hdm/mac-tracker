@@ -1,1 +1,0 @@
-macDetailCallback("6c2adf100000/28",[{"d":"2023-03-01","t":"add","s":"ieee-mam.csv","a":"North side of the fourth floor of Yunhui Valley b3, Phase II, Software New Town, Yuhua Street Office, High-tech Zone Xi'an Shaanxi Province CN 710000","c":"CN","o":"Xi'an Xindian Equipment Engineering Center Co., Ltd"}]);

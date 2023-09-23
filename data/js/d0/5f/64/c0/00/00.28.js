@@ -1,1 +1,0 @@
-macDetailCallback("d05f64c00000/28",[{"d":"2019-05-18","t":"add","s":"ieee-mam.csv","a":"No.11 Runfa Road, Dongshan Industry Gathering Zone, Jiangning District Nanjing Jiangsu CN 210000","c":"CN","o":"Nanjing Huamai Technology Co.,Ltd"}]);

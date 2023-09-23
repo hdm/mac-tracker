@@ -1,1 +1,0 @@
-macDetailCallback("74c621000000/24",[{"d":"2013-11-13","t":"add","a":"NO1320,2th Ring Road(South)\nTongxiang City Zhejiang Province 314500\n\n","c":"CHINA","o":"Zhejiang Hite Renewable Energy Co.,LTD"},{"d":"2015-08-27","t":"change","a":"NO1320,2th Ring Road(South) Tongxiang City Zhejiang Province CN 314500","c":"CN","o":"Zhejiang Hite Renewable Energy Co.,LTD"}]);

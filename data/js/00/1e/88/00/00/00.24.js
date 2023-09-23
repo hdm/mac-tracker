@@ -1,1 +1,0 @@
-macDetailCallback("001e88000000/24",[{"d":"2007-10-22","t":"add","a":"Minami-Shinagawa 2-15-8\nSinagawa Tokyo 140-0004\n\n","c":"JAPAN","o":"ANDOR SYSTEM SUPPORT CO., LTD."},{"d":"2015-08-27","t":"change","a":"Minami-Shinagawa 2-15-8 Sinagawa Tokyo JP 140-0004","c":"JP","o":"ANDOR SYSTEM SUPPORT CO., LTD."}]);

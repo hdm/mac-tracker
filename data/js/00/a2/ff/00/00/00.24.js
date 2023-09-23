@@ -1,1 +1,0 @@
-macDetailCallback("00a2ff000000/24",[{"d":"2013-07-19","t":"add","a":"OberregauerstraÃe 48\nRegau  4844\n\n","c":"AUSTRIA","o":"abatec group AG"},{"d":"2015-08-27","t":"change","a":"Oberregauerstraße 48 Regau  AT 4844","c":"AT","o":"abatec group AG"}]);

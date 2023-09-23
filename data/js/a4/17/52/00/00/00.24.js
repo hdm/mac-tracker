@@ -1,1 +1,0 @@
-macDetailCallback("a41752000000/24",[{"d":"2021-10-30","t":"add","s":"ieee-oui.csv","a":"No. 3 Sunguvar Street, Chintadripet Chennai Tamil Nadu IN 600002","c":"IN","o":"Hifocus Electronics India Private Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("dc4d23000000/24",[{"d":"2015-12-04","t":"add","a":"Hayetzira\n\n\n","c":"Yokneam    614","o":"MRV Comunications"},{"d":"2015-12-10","t":"change","a":"Hayetzira Yokneam  IL 614","c":"IL","o":"MRV Comunications"}]);

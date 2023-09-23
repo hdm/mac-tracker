@@ -1,1 +1,0 @@
-macDetailCallback("000c3a000000/24",[{"d":"2003-01-21","t":"add","a":"75-85 rue Richelieu\nles Lucs sur Boulogne  85170\n\n","c":"FRANCE","o":"Oxance","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"75-85 rue Richelieu les Lucs sur Boulogne  FR 85170","c":"FR","o":"Oxance"}]);

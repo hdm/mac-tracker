@@ -1,1 +1,0 @@
-macDetailCallback("043d98000000/24",[{"d":"2013-05-14","t":"add","a":"No.1,DianCe Village JiangBei District\nChongqing city 400020\n\n","c":"CHINA","o":"ChongQing QingJia Electronics CO.,LTD"},{"d":"2015-08-27","t":"change","a":"No.1,DianCe Village JiangBei District  Chongqing city CN 400020","c":"CN","o":"ChongQing QingJia Electronics CO.,LTD"}]);

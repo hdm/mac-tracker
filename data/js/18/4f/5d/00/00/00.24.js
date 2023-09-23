@@ -1,1 +1,0 @@
-macDetailCallback("184f5d000000/24",[{"d":"2020-10-07","t":"add","s":"ieee-oui.csv","a":"NAKANO CENTRAL PARK EAST 10-1, Nakano 4-chome Nakano-ku Tokyo JP 164-8570","c":"JP","o":"JRC Mobility Inc."}]);

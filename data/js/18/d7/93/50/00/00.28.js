@@ -1,1 +1,0 @@
-macDetailCallback("18d793500000/28",[{"d":"2021-11-13","t":"add","s":"ieee-mam.csv","a":"A2 Building, ZhiGu Science and Technology Park, Gekeng industrial park, HengLi Town,  China DongGuan GuangDong, CN 523468","c":"CN","o":"DongGuan Orient Electronics & Metal Co.,Ltd"}]);

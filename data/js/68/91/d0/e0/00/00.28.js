@@ -1,1 +1,0 @@
-macDetailCallback("6891d0e00000/28",[{"a":"9th floor, New Yaesu bldg., 3-5-12 nihon-bashi Chuo-ku Tokyo JP 103-0027","o":"Outstanding Technology Co., Ltd.","d":"2016-03-06","t":"add","s":"ieee","c":"JP"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("7408de000000/24",[{"d":"2022-06-10","t":"add","s":"ieee-oui.csv","a":"Building 3A, Block A, Fuzhou Software Park, No.89 Software Road, Gulou District Fuzhou Fujian CN 350008","c":"CN","o":"Fujian Landi Commercial Technology Co., Ltd."}]);

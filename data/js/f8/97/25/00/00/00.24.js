@@ -1,1 +1,0 @@
-macDetailCallback("f89725000000/24",[{"d":"2023-03-11","t":"add","s":"ieee-oui.csv","a":"Building V3, The MIXC, Lane 1799, Wuzhong Road, Minhang District Shanghai Shanghai CN 201103","c":"CN","o":"OPPLE LIGHTING CO., LTD"}]);

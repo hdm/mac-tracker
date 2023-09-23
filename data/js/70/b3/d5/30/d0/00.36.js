@@ -1,1 +1,0 @@
-macDetailCallback("70b3d530d000/36",[{"a":"#516 Complex-dong Heongduk IT Valley, Heonduk 1ro 13, Giheong-gu Young-in Gyeong-gi KR 16954","o":"Fiberbase","d":"2017-06-11","t":"add","s":"ieee","c":"KR"}]);

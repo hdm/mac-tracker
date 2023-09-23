@@ -1,1 +1,0 @@
-macDetailCallback("fca47ac00000/28",[{"d":"2019-04-30","t":"add","s":"ieee-mam.csv","a":"Dingye Business Center321, Building A, Jingbei Industrial Park, No. 82, Intersection of Baoan Avenue and Xin'an 6th Road, Haiyu Community, Xin'an Street, Bao'an District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen ALFEYE Technology CO.,Ltd"}]);

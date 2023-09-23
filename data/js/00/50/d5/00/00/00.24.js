@@ -1,1 +1,0 @@
-macDetailCallback("0050d5000000/24",[{"d":"2000-09-08","t":"add","a":"1-4-1, NAKACHO, MUSASHINO CITY\nTOKYO 180-0006\n\n","c":"JAPAN","o":"AD SYSTEMS CORP."},{"d":"2015-08-27","t":"change","a":"1-4-1, NAKACHO, MUSASHINO CITY TOKYO 180-0006  JP","c":"JP","o":"AD SYSTEMS CORP."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0015b1000000/24",[{"d":"2005-09-09","t":"add","a":"79 Chapel St.\nNewton MA 02458\n\n","c":"UNITED STATES","o":"Ambient Corporation"},{"d":"2015-08-27","t":"change","a":"79 Chapel St. Newton MA US 02458","c":"US","o":"Ambient Corporation"}]);

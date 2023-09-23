@@ -1,1 +1,0 @@
-macDetailCallback("0050c2f53000/36",[{"a":"1F,NO.9, INDUSTRIAL EAST 9th RD., HSINCHU TAIWAN TW 30075","o":"BAYCOM OPTO-ELECTRONICS TECHNOLGY CO., LTD.","d":"2012-03-18","t":"add","s":"ieee","c":"TW"}]);

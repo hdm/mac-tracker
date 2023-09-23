@@ -1,1 +1,0 @@
-macDetailCallback("e4b633000000/24",[{"d":"2022-03-10","t":"add","s":"ieee-oui.csv","a":"Room 2101, Tower C, Swan Tower, Wuxi Software Park, 111 Linghu Avenue, Xinwu District Wuxi  CN 214135","c":"CN","o":"Wuxi Stars Microsystem Technology Co., Ltd"}]);

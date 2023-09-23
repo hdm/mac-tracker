@@ -1,1 +1,0 @@
-macDetailCallback("8c1f646b3000/36",[{"d":"2021-10-06","t":"add","s":"ieee-oui36.csv","a":"Trelan Business Centre, Menerdue Lane Redruth Non-U.S. resident GB TR16 6PD","c":"GB","o":"Feritech Ltd."}]);

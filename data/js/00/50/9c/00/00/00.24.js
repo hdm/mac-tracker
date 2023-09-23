@@ -1,1 +1,0 @@
-macDetailCallback("00509c000000/24",[{"d":"2000-09-08","t":"add","a":"BETASTR. 1\n85774 UNTERFOEHRING\n\n","c":"GERMANY","o":"BETA RESEARCH"},{"d":"2015-08-27","t":"change","a":"BETASTR. 1 85774 UNTERFOEHRING  DE","c":"DE","o":"BETA RESEARCH"}]);

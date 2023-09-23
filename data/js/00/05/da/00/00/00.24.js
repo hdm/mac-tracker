@@ -1,1 +1,0 @@
-macDetailCallback("0005da000000/24",[{"d":"2001-06-04","t":"add","a":"Vossenkamp 4\nD-38104 Braunschweig\n\n","c":"GERMANY","o":"Apex Automationstechnik"},{"d":"2015-08-27","t":"change","a":"Vossenkamp 4   DE","c":"DE","o":"Apex Automationstechnik"}]);

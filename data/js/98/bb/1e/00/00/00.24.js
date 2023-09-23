@@ -1,1 +1,0 @@
-macDetailCallback("98bb1e000000/24",[{"d":"2015-12-09","t":"add","a":"7/Floor, Building 5#, No3000 LongDong Avenue, Pudong District Shanghai Shanghai CN 201203","c":"CN","o":"BYD Precision Manufacture Company Ltd."}]);

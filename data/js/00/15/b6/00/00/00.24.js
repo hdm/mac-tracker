@@ -1,1 +1,0 @@
-macDetailCallback("0015b6000000/24",[{"d":"2005-09-09","t":"add","a":"1-1 Shinmeiwa-cho\nTakarazuka Hyogo 665-8550\n\n","c":"JAPAN","o":"ShinMaywa Industries, Ltd."},{"d":"2015-08-27","t":"change","a":"1-1 Shinmeiwa-cho Takarazuka Hyogo JP 665-8550","c":"JP","o":"ShinMaywa Industries, Ltd."}]);

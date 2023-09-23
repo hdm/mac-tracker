@@ -1,1 +1,0 @@
-macDetailCallback("00180f000000/24",[{"d":"2006-04-21","t":"add","a":"Frederikskaj\nCopenhagen V Denmark 1790V\n\n","c":"DENMARK","o":"Nokia Danmark A/S"},{"d":"2015-08-27","t":"change","a":"Frederikskaj Copenhagen V Denmark DK 1790V","c":"DK","o":"Nokia Danmark A/S"}]);

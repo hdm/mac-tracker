@@ -1,1 +1,0 @@
-macDetailCallback("98dd5b000000/24",[{"d":"2019-12-07","t":"add","s":"ieee-oui.csv","a":"3-9-3 Uchiyama building 7F Nishishinbashi Minato-ku Tokyo Tokyo JP 1050003","c":"JP","o":"TAKUMI JAPAN LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f649f8000/36",[{"d":"2023-07-11","t":"add","s":"ieee-oui36.csv","a":"Hamovil st., Ziporit Industrial Park Nof Hagalil  IL 1710601","c":"IL","o":"Exypnos - Creative Solutions LTD"}]);

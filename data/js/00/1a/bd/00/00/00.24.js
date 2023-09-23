@@ -1,1 +1,0 @@
-macDetailCallback("001abd000000/24",[{"d":"2006-12-12","t":"add","a":"205-1725 St. Laurent Blvd.\nOttawa ON K1G 3V4\n\n","c":"CANADA","o":"Impatica Inc."},{"d":"2015-08-27","t":"change","a":"205-1725 St. Laurent Blvd. Ottawa ON CA K1G 3V4","c":"CA","o":"Impatica Inc."}]);

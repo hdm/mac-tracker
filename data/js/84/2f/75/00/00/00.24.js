@@ -1,1 +1,0 @@
-macDetailCallback("842f75000000/24",[{"d":"2013-02-27","t":"add","a":"Tarjusojantie 12\nKempele Oulu 90440\n\n","c":"FINLAND","o":"Innokas Group"},{"d":"2015-08-27","t":"change","a":"Tarjusojantie 12 Kempele Oulu FI 90440","c":"FI","o":"Innokas Group"}]);

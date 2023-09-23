@@ -1,1 +1,0 @@
-macDetailCallback("78444a000000/24",[{"d":"2021-07-09","t":"add","s":"ieee-oui.csv","a":"Room 1001, 10th floor, Building G3, TCL International E city, Shuguang community, Xili street, Nanshan district, Shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen Aiwinn information Technology Co., Ltd."}]);

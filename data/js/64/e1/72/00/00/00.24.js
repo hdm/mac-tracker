@@ -1,1 +1,0 @@
-macDetailCallback("64e172000000/24",[{"d":"2020-02-27","t":"add","s":"ieee-oui.csv","a":"Room 201,Block A.No.1,Qianwan Road1 Qianhai Shenzhen-HONGKONG Cooperation Zone Shenzhen Guangdong CN 5181000","c":"CN","o":"Shenzhen Qihoo Intelligent Technology Co.,Ltd"}]);

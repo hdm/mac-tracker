@@ -1,1 +1,0 @@
-macDetailCallback("ac7713000000/24",[{"d":"2019-05-09","t":"add","s":"ieee-oui.csv","a":"430 Li Bing Road Zhang Jiang Hi-Tech ParkPudong New Area Shanghai Shanghai CN 201203","c":"CN","o":"Honeywell Safety Products (Shanghai) Co.,Ltd"}]);

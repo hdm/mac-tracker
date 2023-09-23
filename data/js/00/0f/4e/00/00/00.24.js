@@ -1,1 +1,0 @@
-macDetailCallback("000f4e000000/24",[{"d":"2004-01-23","t":"add","a":"Catherinalaan 37\nRotselaar Vlaams Brabant B-3110\n\n","c":"BELGIUM","o":"Cellink","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Catherinalaan 37 Rotselaar Vlaams Brabant BE B-3110","c":"BE","o":"Cellink"}]);

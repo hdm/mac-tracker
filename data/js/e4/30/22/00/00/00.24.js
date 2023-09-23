@@ -1,1 +1,0 @@
-macDetailCallback("e43022000000/24",[{"d":"2017-09-28","t":"add","a":"Plot O-2, Que Vo industrial park (Expanded area),  Nam Son Commune, Bac Ninh City Bac Ninh Province VN 000","c":"VN","o":"Hanwha Techwin Security Vietnam"}]);

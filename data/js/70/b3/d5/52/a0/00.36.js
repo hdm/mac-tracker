@@ -1,1 +1,0 @@
-macDetailCallback("70b3d552a000/36",[{"d":"2019-07-24","t":"add","s":"ieee-oui36.csv","a":"van Nassauweg 2-6 Krimpen aan den IJssel Zuid-Holland NL 2921 LX","c":"LX","o":"Dataflex International BV"}]);

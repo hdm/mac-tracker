@@ -1,1 +1,0 @@
-macDetailCallback("001950000000/24",[{"d":"2006-08-14","t":"add","a":"8400 Balboa Blvd.\nNorthridge CA 91329\n\n","c":"UNITED STATES","o":"Harman Multimedia","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"8400 Balboa Blvd. Northridge CA US 91329","c":"US","o":"Harman Multimedia"}]);

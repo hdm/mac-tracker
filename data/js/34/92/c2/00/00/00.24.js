@@ -1,1 +1,0 @@
-macDetailCallback("3492c2000000/24",[{"d":"2022-01-09","t":"add","s":"ieee-oui.csv","a":"Area-Shinagawa 13F, 1-9-36, Konan, Minato-ku Tokyo Tokyo JP 108-0075","c":"JP","o":"Square Route Co., Ltd."}]);

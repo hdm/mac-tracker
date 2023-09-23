@@ -1,1 +1,0 @@
-macDetailCallback("282536000000/24",[{"d":"2016-03-22","t":"add","a":"Rm.1001,Unit 4,Bld.B,Kexing Science Park,Keyuan Road, Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"SHENZHEN HOLATEK CO.,LTD"}]);

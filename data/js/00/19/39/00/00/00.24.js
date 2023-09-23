@@ -1,1 +1,0 @@
-macDetailCallback("001939000000/24",[{"d":"2006-08-14","t":"add","a":"5th Floor, Yangjae Building, 261, Yangjae-Dong\nSeocho-Gu Seoul 137-130\n\n","c":"KOREA, REPUBLIC OF","o":"Gigamips","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5th Floor, Yangjae Building, 261, Yangjae-Dong Seocho-Gu Seoul KR 137-130","c":"KR","o":"Gigamips"}]);

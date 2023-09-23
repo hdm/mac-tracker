@@ -1,1 +1,0 @@
-macDetailCallback("40d855023000/36",[{"a":"4226 Duzhuang Rd, Minhang District Shanghai Shanghai CN 201108","o":"Shanghai o-solution electronics & Technology Co., Ltd.","d":"2012-10-14","t":"add","s":"ieee","c":"CN"}]);

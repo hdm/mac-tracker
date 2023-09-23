@@ -1,1 +1,0 @@
-macDetailCallback("0c8c69000000/24",[{"d":"2020-12-06","t":"add","s":"ieee-oui.csv","a":"Floor 2,Building A , Hongtian Xinfengze Industrial   Park Huang Pu Community , Xin Qiao District ,Baoan Area shenzhen Guangdong Province CN 518101","c":"CN","o":"Shenzhen elink smart Co., ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00092b000000/24",[{"d":"2002-03-29","t":"add","a":"2001 Corporate Center Drive\nNewbury Park CA 91320\n\n","c":"UNITED STATES","o":"iQstor Networks, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2001 Corporate Center Drive Newbury Park CA US 91320","c":"US","o":"iQstor Networks, Inc."}]);

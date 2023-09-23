@@ -1,1 +1,0 @@
-macDetailCallback("bc3f4e000000/24",[{"d":"2018-06-13","t":"add","a":"No.13 Langshan Rd,HiTech Park,Nanshan District\n\n\n","c":"Shenzhen  Guangdong  518000","o":"Teleepoch Ltd"},{"d":"2018-06-15","t":"change","a":"No.13 Langshan Rd,HiTech Park,Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"Teleepoch Ltd"}]);

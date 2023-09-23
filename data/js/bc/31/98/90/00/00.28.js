@@ -1,1 +1,0 @@
-macDetailCallback("bc3198900000/28",[{"d":"2023-04-05","t":"add","s":"ieee-mam.csv","a":"4 Floor, Building A2, Hengli Industrial Park, No. 168, Xiakeng 1st Road, \nLonggang District, Shenzhen Guangdong CN 518000","c":"CN","o":"Baisstar (Shenzhen) Intelligence Co., Ltd."}]);

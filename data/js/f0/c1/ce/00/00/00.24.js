@@ -1,1 +1,0 @@
-macDetailCallback("f0c1ce000000/24",[{"d":"2022-04-23","t":"add","s":"ieee-oui.csv","a":"No.90 Zijin Rd.,New District,Suzhou,215011,China Suzhou  JiangSu CN 215011","c":"CN","o":"GoodWe Technologies CO., Ltd"}]);

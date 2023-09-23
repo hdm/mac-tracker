@@ -1,1 +1,0 @@
-macDetailCallback("50c0f0000000/24",[{"d":"2021-09-02","t":"add","s":"ieee-oui.csv","a":"202,NO.1 Building,Software Park,KeJiZhongEr Road,GaoXinQu,NanShan, Shenzhen Guangdong CN 518057","c":"CN","o":"Artek Microelectronics Co.,Ltd."}]);

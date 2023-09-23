@@ -1,1 +1,0 @@
-macDetailCallback("ecd68a000000/24",[{"d":"2016-03-24","t":"add","a":"Futian District, 13th Floor , Block B Building Tai Shenzhen Guangdong Province CN 518040","c":"CN","o":"Shenzhen JMicron Intelligent Technology Developmen"}]);

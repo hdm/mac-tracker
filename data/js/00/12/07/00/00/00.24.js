@@ -1,1 +1,0 @@
-macDetailCallback("001207000000/24",[{"d":"2004-08-04","t":"add","a":"Unit 9, 20/F, Metropole Square,\n2 On Yiu Street, Shatin\nGuangdong\n","c":"HONG KONG","o":"Head Strong International Limited"},{"d":"2015-08-27","t":"change","a":"Unit 9, 20/F, Metropole Square,  Guangdong HK","c":"HK","o":"Head Strong International Limited"}]);

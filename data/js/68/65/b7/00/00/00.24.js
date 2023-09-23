@@ -1,1 +1,0 @@
-macDetailCallback("6865b7000000/24",[{"d":"2022-04-22","t":"add","s":"ieee-oui.csv","a":"2 / F, building F, hongfengtai Science Park, Jinyuan Road, Henggang street, Longgang District,  Shenzhen  CN 518000","c":"CN","o":"Zhishang Chuanglian Technology Co., Ltd"}]);

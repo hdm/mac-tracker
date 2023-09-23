@@ -1,1 +1,0 @@
-macDetailCallback("000a14000000/24",[{"d":"2002-06-05","t":"add","a":"Havlickova 260\nKOLIN CZ 280 58\n\n","c":"CZECH REPUBLIC","o":"TECO a.s."},{"d":"2015-08-27","t":"change","a":"Havlickova 260 KOLIN CZ CZ 280 58","c":"CZ","o":"TECO a.s."}]);

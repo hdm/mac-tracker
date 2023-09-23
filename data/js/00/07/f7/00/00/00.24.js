@@ -1,1 +1,0 @@
-macDetailCallback("0007f7000000/24",[{"d":"2001-10-24","t":"add","a":"4645 East Cotton Center Blvd.\nBldg. Two\nPhoenix AZ 85040\n","c":"UNITED STATES","o":"Galtronics"},{"d":"2015-08-27","t":"change","a":"4645 East Cotton Center Blvd. Phoenix AZ US 85040","c":"US","o":"Galtronics"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c8f5d6a00000/28",[{"d":"2021-03-03","t":"add","s":"ieee-mam.csv","a":"No. 7 Bldg., Yulong Block, Longsheng Road, Optronic Industry Area, Nanyang,Henan,P.R.China Nanyang  CN 473000","c":"CN","o":"HENAN FOXSTAR DIGITAL DISPLAY Co.,Ltd."}]);

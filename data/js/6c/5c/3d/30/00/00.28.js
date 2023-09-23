@@ -1,1 +1,0 @@
-macDetailCallback("6c5c3d300000/28",[{"a":"A3 bldg, Kwong Ming, Technology Industrial Zone, Shiwan Town, Boluo County  Huizhou Guangdong CN 516100","o":"KWONG MING ELECTRICAL MANUFACTORY LIMITED","d":"2018-07-29","t":"add","s":"ieee","c":"CN"}]);

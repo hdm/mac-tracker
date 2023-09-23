@@ -1,1 +1,0 @@
-macDetailCallback("bc3198500000/28",[{"d":"2023-04-05","t":"add","s":"ieee-mam.csv","a":"Room603, Building E4, Yunlong HeadQuarters Economic Park, No.5099 Yunlong Avenue, Yunlong Demonstration Zone, Zhuzhou City Zhuzhou  CN 430200","c":"CN","o":"Hunan Gukam Railway Equipment Co.,Ltd"}]);

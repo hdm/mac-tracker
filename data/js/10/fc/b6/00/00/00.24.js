@@ -1,1 +1,0 @@
-macDetailCallback("10fcb6000000/24",[{"d":"2017-06-14","t":"add","a":"#1001, 2-dong, Pangoyo seven venture valley, 228-gil, Pangyo-ro Bundang-gu, Seongnam-si, Gyeonggi-do  KR 13487","c":"KR","o":"mirusystems CO.,LTD"}]);

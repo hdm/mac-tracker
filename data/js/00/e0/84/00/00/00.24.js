@@ -1,1 +1,0 @@
-macDetailCallback("00e084000000/24",[{"d":"1998-04-22","t":"add","a":"3 HAROSHET STR. NEW IND. ZONE\nRAMAT-HASHARON 47279\n\n","c":"ISRAEL","o":"COMPULITE R&D"},{"d":"2015-08-27","t":"change","a":"3 HAROSHET STR. NEW IND. ZONE RAMAT-HASHARON 47279  IL","c":"IL","o":"COMPULITE R&D"}]);

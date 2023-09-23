@@ -1,1 +1,0 @@
-macDetailCallback("785ee8a00000/28",[{"d":"2021-06-25","t":"add","s":"ieee-mam.csv","a":"No.2, Zhengtong Road, Caozili Town, Wuqing District, Tianjin Tianjin Tianjin CN 301727","c":"CN","o":"Yake (Tianjin) Technology Co.,Ltd."}]);

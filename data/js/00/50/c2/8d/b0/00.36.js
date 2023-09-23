@@ -1,1 +1,0 @@
-macDetailCallback("0050c28db000/36",[{"a":"Unit A18, Bellville Business Park Cape Town Western Province ZA 7530","o":"DCOM Network Technology (Pty) Ltd","d":"2008-07-30","t":"add","s":"ieee","c":"ZA"}]);

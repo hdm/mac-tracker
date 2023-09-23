@@ -1,1 +1,0 @@
-macDetailCallback("103034000000/24",[{"d":"2017-04-01","t":"add","a":"Ruzgarlibahce Mah. Kavak Sok. No: 31/1 Smart Plaza B Blok Kat: 4 Istanbul Kavacik Beykoz TR 23805","c":"TR","o":"Cara Systems"}]);

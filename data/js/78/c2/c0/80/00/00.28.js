@@ -1,1 +1,0 @@
-macDetailCallback("78c2c0800000/28",[{"a":"The 8th floor, Zhongguancun Dream Lab Building, No.1 Haidian Street, Haidian District, Beijing City, China Beijing Beijing CN 100086","o":"Beijing Coilabs technology co.,ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

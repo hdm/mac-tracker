@@ -1,1 +1,0 @@
-macDetailCallback("6c68a4000000/24",[{"d":"2023-05-17","t":"add","s":"ieee-oui.csv","a":"601,Building B2,No.162,Science Avenue,Science City,Guangzhou High-tech Industrial Development Zone,Guangdong Province,China Guangzhou Guangdong CN 510663","c":"CN","o":"Guangzhou V-Solution Telecommunication Technology Co.,Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("1c11e1000000/24",[{"d":"2012-08-01","t":"add","a":"Jarvikatu 2-4\nVaasa Western Finland 65101\n\n","c":"FINLAND","o":"Wartsila Finland Oy"},{"d":"2015-08-27","t":"change","a":"Jarvikatu 2-4 Vaasa Western Finland FI 65101","c":"FI","o":"Wartsila Finland Oy"}]);

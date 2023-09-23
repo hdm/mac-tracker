@@ -1,1 +1,0 @@
-macDetailCallback("885d90600000/28",[{"a":"42A, Lorong Teras Jaya 2, Kawasan Perniagaan Teras Jaya Butterworth Pulau Pinang MY 13400","o":"Hi-Profile Achievement (M) Sdn Bhd","d":"2015-10-16","t":"add","s":"ieee","c":"MY"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0052c8000000/24",[{"d":"2022-04-23","t":"add","s":"ieee-oui.csv","a":"10F., No. 169, Sec. 4, Zhongxiao E. Rd., Da-an Dist. Taipei City  TW 10690","c":"TW","o":"Made Studio Design Ltd."}]);

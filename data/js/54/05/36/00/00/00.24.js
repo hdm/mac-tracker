@@ -1,1 +1,0 @@
-macDetailCallback("540536000000/24",[{"d":"2013-06-18","t":"add","a":"Itsehallintokuja 6\nEspoo FI-02600\n\n","c":"FINLAND","o":"Vivago Oy"},{"d":"2015-08-27","t":"change","a":"Itsehallintokuja 6  Espoo FI FI-02600","c":"FI","o":"Vivago Oy"}]);

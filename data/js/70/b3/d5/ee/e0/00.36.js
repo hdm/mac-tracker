@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5eee000/36",[{"a":"C/Sepulveda, 6 ALCOBENDAS MADRID ES 28108","o":"SOCIEDAD IBERICA DE CONSTRUCCIONES ELECTRICAS, S.A. (SICE)","d":"2015-11-01","t":"add","s":"ieee","c":"ES"}]);

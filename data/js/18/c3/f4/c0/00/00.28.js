@@ -1,1 +1,0 @@
-macDetailCallback("18c3f4c00000/28",[{"d":"2022-06-01","t":"add","s":"ieee-mam.csv","a":"Room107, Building 2, No.600, 21 Street, ETDA, HANGZHOU Zhejiang CN 310018","c":"CN","o":"HANGZHOU ZHONGKEJIGUANG TECHNOLOGY CO., LTD"}]);

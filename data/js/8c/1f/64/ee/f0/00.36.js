@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64eef000/36",[{"d":"2021-06-23","t":"add","s":"ieee-oui36.csv","a":"3F.-1, No. 268, Liancheng Rd., Zhonghe Dist. New Taipei City  Taiwan (R.O.C.) TW 235","c":"TW","o":"AiUnion Co.,Ltd"}]);

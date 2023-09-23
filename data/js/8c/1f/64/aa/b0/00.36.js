@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64aab000/36",[{"d":"2021-05-07","t":"add","s":"ieee-oui36.csv","a":"No. 909, Longaobei Road,Jinan,Shandong Jinan Shandong CN 250101","c":"CN","o":"BlueSword Intelligent Technology Co., Ltd."}]);

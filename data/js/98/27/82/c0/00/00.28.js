@@ -1,1 +1,0 @@
-macDetailCallback("982782c00000/28",[{"d":"2020-12-13","t":"add","s":"ieee-mam.csv","a":"Porzeczkowa 12 Ustro? Please select region, state or province PL 43-450","c":"PL","o":"KRISTECH Krzysztof Kajstura"}]);

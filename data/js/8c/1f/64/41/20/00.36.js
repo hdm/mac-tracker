@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64412000/36",[{"d":"2022-12-09","t":"add","s":"ieee-oui36.csv","a":"P.I. La Figuera - C/ Rosa Luxemburgo, 34 Alaquas Valencia ES 46970","c":"ES","o":"Comercial Electronica Studio-2 s.l."}]);

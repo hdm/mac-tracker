@@ -1,1 +1,0 @@
-macDetailCallback("94c014000000/24",[{"d":"2013-12-21","t":"add","a":"ul. Gdynska 32\n26-600 Radom\nPL9482565081 Mazowieckie 26-600\n","c":"POLAND","o":"Sorter Sp. j. Konrad Grzeszczyk MichaA, Ziomek"},{"d":"2015-08-27","t":"change","a":"ul. Gdynska 32 PL9482565081 Mazowieckie PL 26-600","c":"PL","o":"Sorter Sp. j. Konrad Grzeszczyk MichaA, Ziomek"}]);

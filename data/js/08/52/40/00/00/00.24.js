@@ -1,1 +1,0 @@
-macDetailCallback("085240000000/24",[{"d":"2013-09-11","t":"add","a":"Heisterner Weg 8 - 12\nBurbach Nordrhein-Westfalen 57299\n\n","c":"GERMANY","o":"EbV Elektronikbau- und Vertriebs GmbH"},{"d":"2015-08-27","t":"change","a":"Heisterner Weg 8 - 12 Burbach Nordrhein-Westfalen DE 57299","c":"DE","o":"EbV Elektronikbau- und Vertriebs GmbH"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c02dee000000/24",[{"d":"2015-06-05","t":"add","a":"232 Townsend St\nSan Francisco CA 94107\n\n","c":"UNITED STATES","o":"Cuff"},{"d":"2015-08-27","t":"change","a":"232 Townsend St San Francisco CA US 94107","c":"US","o":"Cuff"}]);

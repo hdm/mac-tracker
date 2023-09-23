@@ -1,1 +1,0 @@
-macDetailCallback("a09f7a000000/24",[{"d":"2021-06-24","t":"add","s":"ieee-oui.csv","a":"PIot No.S31102, PO Box:18224, Jebel Ali Free Zone,Dubai,UAE Dubai  AE 18224","c":"AE","o":"D-Link Middle East FZCO"}]);

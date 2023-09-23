@@ -1,1 +1,0 @@
-macDetailCallback("008076000000/24",[{"d":"2000-09-08","t":"add","a":"P.O. BOX 12889\nRTP, NC  27709\n\n","c":"UNITED STATES","o":"MCNC"},{"d":"2001-10-24","t":"change","a":"P.O. BOX 12889\nRTP NC 27709\n\n","c":"UNITED STATES","o":"MCNC"},{"d":"2015-08-27","t":"change","a":"P.O. BOX 12889 RTP NC US 27709","c":"US","o":"MCNC"}]);

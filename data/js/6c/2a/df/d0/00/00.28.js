@@ -1,1 +1,0 @@
-macDetailCallback("6c2adfd00000/28",[{"d":"2023-02-24","t":"add","s":"ieee-mam.csv","a":"No. 2, 5th Floor, Building 9, No. 360, Wuke West 5th Road,Wuhou District Chengdu Sichuan CN 610000","c":"CN","o":"Sichuan Huidian Qiming Intelligent Technology Co.,Ltd"}]);

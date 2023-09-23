@@ -1,1 +1,0 @@
-macDetailCallback("885d90200000/28",[{"a":"153B 3L, Namdong Industrial Complex, 729-2, Gojan-dong Incheon Kyeong-gi KR 405-822","o":"DAIDONG Industrial System Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"KR"}]);

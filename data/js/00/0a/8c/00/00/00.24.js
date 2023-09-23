@@ -1,1 +1,0 @@
-macDetailCallback("000a8c000000/24",[{"d":"2002-08-03","t":"add","a":"Ulloi ut 102.\nBudapest  H-1089\n\n","c":"HUNGARY","o":"Guardware Systems Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Ulloi ut 102. Budapest  HU H-1089","c":"HU","o":"Guardware Systems Ltd."}]);

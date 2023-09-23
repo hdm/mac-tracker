@@ -1,1 +1,0 @@
-macDetailCallback("80c6ca000000/24",[{"d":"2010-07-15","t":"add","a":"Pillhof 47\nFrangarto Bolzano 39010\n\n","c":"ITALY","o":"Endian s.r.l."},{"d":"2015-08-27","t":"change","a":"Pillhof 47 Frangarto Bolzano IT 39010","c":"IT","o":"Endian s.r.l."}]);

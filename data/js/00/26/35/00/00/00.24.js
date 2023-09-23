@@ -1,1 +1,0 @@
-macDetailCallback("002635000000/24",[{"d":"2009-05-17","t":"add","a":"Waidhausenstr. 3/19\nVienna  1140\n\n","c":"AUSTRIA","o":"Bluetechnix GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Waidhausenstr. 3/19 Vienna  AT 1140","c":"AT","o":"Bluetechnix GmbH"}]);

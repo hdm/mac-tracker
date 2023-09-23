@@ -1,1 +1,0 @@
-macDetailCallback("4c917a200000/28",[{"a":"No.117-386, Yunhan Road Beibei District Chongqing CN 400714","o":"Chongqing Unisinsight Technology Co.,Ltd.","d":"2018-09-23","t":"add","s":"ieee","c":"CN"}]);

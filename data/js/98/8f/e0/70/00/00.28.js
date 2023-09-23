@@ -1,1 +1,0 @@
-macDetailCallback("988fe0700000/28",[{"d":"2021-12-08","t":"add","s":"ieee-mam.csv","a":"5F, Building 1, Lane 60 Na Xian Road, Pudong District, Shanghai 201210 P.R.China Shanghai  CN 200127","c":"CN","o":"China Huaxin Post and Telecom Technologies Co., Ltd."}]);

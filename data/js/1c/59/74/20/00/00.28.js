@@ -1,1 +1,0 @@
-macDetailCallback("1c5974200000/28",[{"d":"2022-02-18","t":"add","s":"ieee-mam.csv","a":"17 Shiyan Avenue, Yufengshan Town, Yubei District, Chongqing  CN 400000","c":"CN","o":"Chongqing Taishan Cable Co., Ltd"}]);

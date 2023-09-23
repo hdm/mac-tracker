@@ -1,1 +1,0 @@
-macDetailCallback("00183c000000/24",[{"d":"2006-06-13","t":"add","a":"6F Leo Complex\n44 Residency Cross Road\nBangalore Karnataka 560025\n","c":"INDIA","o":"Encore Software Limited"},{"d":"2015-08-27","t":"change","a":"6F Leo Complex Bangalore Karnataka IN 560025","c":"IN","o":"Encore Software Limited"}]);

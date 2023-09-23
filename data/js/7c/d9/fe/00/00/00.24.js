@@ -1,1 +1,0 @@
-macDetailCallback("7cd9fe000000/24",[{"d":"2012-05-12","t":"add","a":"2-5-4 Mitsuyanaka\nYodogawa-ku\nOsaka Osaka-fu 532-0036\n","c":"JAPAN","o":"New Cosmos Electric Co., Ltd."},{"d":"2015-08-27","t":"change","a":"2-5-4 Mitsuyanaka Osaka Osaka-fu JP 532-0036","c":"JP","o":"New Cosmos Electric Co., Ltd."}]);

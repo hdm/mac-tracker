@@ -1,1 +1,0 @@
-macDetailCallback("18863a000000/24",[{"d":"2012-06-07","t":"add","a":"838 rue de l'Aiguelongue\nMontpellier Etat 34090\n\n","c":"FRANCE","o":"DIGITAL ART SYSTEM"},{"d":"2015-08-27","t":"change","a":"838 rue de l'Aiguelongue Montpellier Etat FR 34090","c":"FR","o":"DIGITAL ART SYSTEM"}]);

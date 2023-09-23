@@ -1,1 +1,0 @@
-macDetailCallback("282c02600000/28",[{"a":"Old No : 9, New No : 15, II Street Etn., III Main Road , CIT Nagar, Nandanam Chennai Tamilnadu IN 600035","o":"Lookman Electroplast Industries Ltd","d":"2017-10-22","t":"add","s":"ieee","c":"IN"}]);

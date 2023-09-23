@@ -1,1 +1,0 @@
-macDetailCallback("500b91500000/28",[{"a":"NO.168 shugangdong road yangzhou city jiangsu china yangzhou  CN 225000","o":"jiangsu zhongling high-tech CO.,LTD.","d":"2016-09-04","t":"add","s":"ieee","c":"CN"}]);

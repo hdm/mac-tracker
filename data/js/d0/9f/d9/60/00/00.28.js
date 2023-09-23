@@ -1,1 +1,0 @@
-macDetailCallback("d09fd9600000/28",[{"d":"2021-03-23","t":"add","s":"ieee-mam.csv","a":"5/F,Unit B,Block12,ShenZhenwan Science and Technology Ecological Garden,Nanshan Dist. Shenzhen Guangdong CN 518000","c":"CN","o":"Elevoc Technology Co., Ltd."}]);

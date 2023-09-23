@@ -1,1 +1,0 @@
-macDetailCallback("0007dd000000/24",[{"d":"2001-10-24","t":"add","a":"3130 West Warren Ave.\nFremont CA 94538\n\n","c":"UNITED STATES","o":"Cradle Technologies"},{"d":"2015-08-27","t":"change","a":"3130 West Warren Ave. Fremont CA US 94538","c":"US","o":"Cradle Technologies"}]);

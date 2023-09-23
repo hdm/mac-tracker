@@ -1,1 +1,0 @@
-macDetailCallback("9c00d3000000/24",[{"d":"2021-09-01","t":"add","s":"ieee-oui.csv","a":"Aike intelligent industrial park, 167 gongchang Road, Xinhu street, Guangming New District, SHENZHEN GUANGDONG CN 518000","c":"CN","o":"SHENZHEN IK WORLD Technology Co., Ltd"}]);

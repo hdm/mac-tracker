@@ -1,1 +1,0 @@
-macDetailCallback("a8de68000000/24",[{"d":"2022-04-17","t":"add","s":"ieee-oui.csv","a":"Floor7,Block B,Yicheng wealth center,No. 22,Ronghua Middle Road,Beijing Economic and Technological Development Zone Beijing Beijing CN 100000","c":"CN","o":"Beijing Wide Technology Co.,Ltd"}]);

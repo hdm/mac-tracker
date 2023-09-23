@@ -1,1 +1,0 @@
-macDetailCallback("701135000000/24",[{"d":"2021-07-31","t":"add","s":"ieee-oui.csv","a":"9F/925, Anyang SK V1 Center, 25-32, LS-ro 116beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do anyang city Gyeonggi-do KR 14118","c":"KR","o":"Livesecu co., Ltd"}]);

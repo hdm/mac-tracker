@@ -1,1 +1,0 @@
-macDetailCallback("189552000000/24",[{"d":"2020-04-26","t":"add","s":"ieee-oui.csv","a":"TianliaoBuilding F14, New Materials Industrial Park, Xueyuan Blvd?Nanshan Shenzhen Guangdong CN 518055","c":"CN","o":"1MORE"}]);

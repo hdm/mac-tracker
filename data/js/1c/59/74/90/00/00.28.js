@@ -1,1 +1,0 @@
-macDetailCallback("1c5974900000/28",[{"d":"2022-02-19","t":"add","s":"ieee-mam.csv","a":"1001,21#,No.1158 Zhongxin RD,Songjiang district Shanghai shanghai  CN 201614","c":"CN","o":"Shanghai Laisi Information Technology Co.,Ltd"}]);

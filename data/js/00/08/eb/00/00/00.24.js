@@ -1,1 +1,0 @@
-macDetailCallback("0008eb000000/24",[{"d":"2002-01-30","t":"add","a":"406 OmiyaOhtaka Bldg. 1-103\nKishiki-cho\nSaitama  330-0843\n","c":"JAPAN","o":"ROMWin Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"406 OmiyaOhtaka Bldg. 1-103 Saitama  US 330-0843","c":"US","o":"ROMWin Co.,Ltd."}]);

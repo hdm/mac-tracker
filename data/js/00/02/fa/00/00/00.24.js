@@ -1,1 +1,0 @@
-macDetailCallback("0002fa000000/24",[{"d":"2000-09-08","t":"add","a":"2-15 Hamazaki-Dori,\nHyogo-ku, Kobe\n\n","c":"JAPAN","o":"DX Antenna Co., Ltd."},{"d":"2015-08-27","t":"change","a":"2-15 Hamazaki-Dori,   JP","c":"JP","o":"DX Antenna Co., Ltd."}]);

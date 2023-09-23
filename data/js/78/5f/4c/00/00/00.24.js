@@ -1,1 +1,0 @@
-macDetailCallback("785f4c000000/24",[{"d":"2015-01-17","t":"add","a":"7F, No.126, Lane 235, Baoqiao Rd., Xindian Dist.\nNew Taipei City Taipei 231\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"Argox Information Co., Ltd."},{"d":"2015-08-27","t":"change","a":"7F, No.126, Lane 235, Baoqiao Rd., Xindian Dist. New Taipei City Taipei TW 231","c":"TW","o":"Argox Information Co., Ltd."}]);

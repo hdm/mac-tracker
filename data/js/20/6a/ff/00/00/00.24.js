@@ -1,1 +1,0 @@
-macDetailCallback("206aff000000/24",[{"d":"2010-06-03","t":"add","a":"A22 Buliding, Dorset Green Tech. Park\nWinfrith Newburgh\nDorchester Dorset DT2 8ZB\n","c":"UNITED KINGDOM","o":"Atlas Elektronik UK Limited"},{"d":"2015-08-27","t":"change","a":"A22 Buliding, Dorset Green Tech. Park Dorchester Dorset GB DT2 8ZB","c":"GB","o":"Atlas Elektronik UK Limited"}]);

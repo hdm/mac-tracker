@@ -1,1 +1,0 @@
-macDetailCallback("a8995c000000/24",[{"d":"2009-11-13","t":"add","a":"Brandstrasse 33\nSchlieren  8952\n\n","c":"SWITZERLAND","o":"aizo ag"},{"d":"2015-08-27","t":"change","a":"Brandstrasse 33 Schlieren  CH 8952","c":"CH","o":"aizo ag"}]);

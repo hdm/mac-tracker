@@ -1,1 +1,0 @@
-macDetailCallback("001680000000/24",[{"d":"2005-11-24","t":"add","a":"950 Sandhill Road\nReno NV 89521\n\n","c":"UNITED STATES","o":"Bally Gaming + Systems"},{"d":"2015-08-27","t":"change","a":"950 Sandhill Road Reno NV US 89521","c":"US","o":"Bally Gaming + Systems"}]);

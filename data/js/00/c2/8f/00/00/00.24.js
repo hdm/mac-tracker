@@ -1,1 +1,0 @@
-macDetailCallback("00c28f000000/24",[{"d":"2022-09-17","t":"add","s":"ieee-oui.csv","a":"2nd. TOC Bldg. 7-21-11 Nishi-Gotanda, \nShinagawa-ku, Tokyo Tokyo  JP 141-0031","c":"JP","o":"Allied Telesis K.K."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("4c022e000000/24",[{"d":"2010-03-26","t":"add","a":"6F, J-Tower, 24-5 Bangi-dong, Songpa-Gu\nSeoul  138-050\n\n","c":"KOREA, REPUBLIC OF","o":"CMR KOREA CO., LTD"},{"d":"2015-08-27","t":"change","a":"6F, J-Tower, 24-5 Bangi-dong, Songpa-Gu Seoul  KR 138-050","c":"KR","o":"CMR KOREA CO., LTD"}]);

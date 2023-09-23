@@ -1,1 +1,0 @@
-macDetailCallback("5c6aeca00000/28",[{"d":"2022-12-08","t":"add","s":"ieee-mam.csv","a":"Room 6008, 6th Floor, Jincheng(Baode) Industrial Area, Lixin South Road No.201, FUyong,Baoan,Shenzhen.Guangdong,China Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Olax Technology CO.,Ltd"}]);

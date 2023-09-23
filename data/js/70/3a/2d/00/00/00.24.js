@@ -1,1 +1,0 @@
-macDetailCallback("703a2d000000/24",[{"d":"2020-08-23","t":"add","s":"ieee-oui.csv","a":"Room 1803, BaiRuiDa Building, Bantian Sub-district, LongGang District Shenzhen GuangDong CN 518000","c":"CN","o":"Shenzhen V-Link Technology CO., LTD."}]);

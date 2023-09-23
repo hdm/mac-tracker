@@ -1,1 +1,0 @@
-macDetailCallback("00227c000000/24",[{"d":"2008-06-18","t":"add","a":"649-2,Suwolam-ri,Seotan-Myun\nPyongtaek Kyonggi-Do 451-852\n\n","c":"KOREA, REPUBLIC OF","o":"Woori SMT Co.,ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"649-2,Suwolam-ri,Seotan-Myun Pyongtaek Kyonggi-Do KR 451-852","c":"KR","o":"Woori SMT Co.,ltd"}]);

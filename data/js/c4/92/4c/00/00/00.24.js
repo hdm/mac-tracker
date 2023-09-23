@@ -1,1 +1,0 @@
-macDetailCallback("c4924c000000/24",[{"d":"2014-12-06","t":"add","a":"2-6-7 SAKANE\nKAWANISHI-CITY HYOGO 666-0021\n\n","c":"JAPAN","o":"KEISOKUKI CENTER CO.,LTD."},{"d":"2015-08-27","t":"change","a":"2-6-7 SAKANE KAWANISHI-CITY HYOGO JP 666-0021","c":"JP","o":"KEISOKUKI CENTER CO.,LTD."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000790000000/24",[{"d":"2001-10-24","t":"add","a":"Blk 25, Kallang Avenue #07-01/04\nKallang Basin Ind. Est\n339416\n","c":"SINGAPORE","o":"Tri-M Technologies (s) Limited"},{"d":"2015-08-27","t":"change","a":"Blk 25, Kallang Avenue #07-01/04   SG 339416","c":"SG","o":"Tri-M Technologies (s) Limited"}]);

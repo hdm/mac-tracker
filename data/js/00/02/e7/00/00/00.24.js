@@ -1,1 +1,0 @@
-macDetailCallback("0002e7000000/24",[{"d":"2000-09-08","t":"add","a":"Wilhelm-Schickard-Str 14\n76131 Karlsruhe\n\n","c":"GERMANY","o":"CAB GmbH & Co KG"},{"d":"2015-08-27","t":"change","a":"Wilhelm-Schickard-Str 14   DE","c":"DE","o":"CAB GmbH & Co KG"}]);

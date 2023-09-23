@@ -1,1 +1,0 @@
-macDetailCallback("fc0877000000/24",[{"d":"2009-10-07","t":"add","a":"1022 Heyl Rd\nWooster OH 44691\n\n","c":"UNITED STATES","o":"Prentke Romich Company"},{"d":"2015-08-27","t":"change","a":"1022 Heyl Rd Wooster OH US 44691","c":"US","o":"Prentke Romich Company"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("241510500000/28",[{"d":"2019-06-01","t":"add","s":"ieee-mam.csv","a":"Dehuida Science and Technology Park, Huoyanshan Road, Anyuan District Ganzhou Jiangxi CN 342100","c":"CN","o":"GANZHOU DEHUIDA TECHNOLOGY CO., LTD"}]);

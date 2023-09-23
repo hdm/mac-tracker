@@ -1,1 +1,0 @@
-macDetailCallback("0060f7000000/24",[{"d":"1998-04-22","t":"add","a":"P.O. BOX 582\nSTELLENBOSCH,  7599\n\n","c":"SOUTH AFRICA","o":"DATAFUSION SYSTEMS"},{"d":"2015-08-27","t":"change","a":"P.O. BOX 582 STELLENBOSCH,  7599  ZA","c":"ZA","o":"DATAFUSION SYSTEMS"}]);

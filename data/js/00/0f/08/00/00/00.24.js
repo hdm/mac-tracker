@@ -1,1 +1,0 @@
-macDetailCallback("000f08000000/24",[{"d":"2003-12-21","t":"add","a":"Nuijamiestentie 5 A\nHelsinki - 00400\n\n","c":"FINLAND","o":"Indagon Oy","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Nuijamiestentie 5 A Helsinki - FI 00400","c":"FI","o":"Indagon Oy"}]);

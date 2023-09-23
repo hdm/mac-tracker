@@ -1,1 +1,0 @@
-macDetailCallback("0018b6000000/24",[{"d":"2006-07-01","t":"add","a":"1010 Stewart Dr.\nSunnyvale California 94085\n\n","c":"UNITED STATES","o":"S3C, Inc."},{"d":"2015-08-27","t":"change","a":"1010 Stewart Dr. Sunnyvale California US 94085","c":"US","o":"S3C, Inc."}]);

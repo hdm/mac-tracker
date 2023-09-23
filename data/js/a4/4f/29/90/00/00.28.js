@@ -1,1 +1,0 @@
-macDetailCallback("a44f29900000/28",[{"a":"2-8 Level 8 Wisma Manjalara Kuala Lumpur Wilayah Persekutuan Kuala Lumpur MY 52200","o":"Certi Networks Sdn Bhd","d":"2015-10-16","t":"add","s":"ieee","c":"MY"}]);

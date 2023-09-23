@@ -1,1 +1,0 @@
-macDetailCallback("b8d4e7000000/24",[{"d":"2019-12-20","t":"add","s":"ieee-oui.csv","a":"3333 Scott Blvd Santa Clara CA US 95054","c":"US","o":"Aruba, a Hewlett Packard Enterprise Company"}]);

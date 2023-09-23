@@ -1,1 +1,0 @@
-macDetailCallback("28061e000000/24",[{"d":"2010-08-28","t":"add","a":"No.88,Kechuang South Road,\nWangchun Industry Zone\nNingbo Zhejiang 315000\n","c":"CHINA","o":"NINGBO GLOBAL USEFUL ELECTRIC CO.,LTD"},{"d":"2015-08-27","t":"change","a":"No.88,Kechuang South Road, Ningbo Zhejiang CN 315000","c":"CN","o":"NINGBO GLOBAL USEFUL ELECTRIC CO.,LTD"}]);

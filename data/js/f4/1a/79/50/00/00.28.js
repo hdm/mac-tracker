@@ -1,1 +1,0 @@
-macDetailCallback("f41a79500000/28",[{"d":"2023-08-29","t":"add","s":"ieee-mam.csv","a":"Room 501, 5th Floor, Building 3, Harbor No.1 Science and Technology Park, No. 1 Jintang Road, Tangjiawan Town, Zhuhai, Guangdong. ZhuHai GuangDong CN 519085","c":"CN","o":"Meta-Bounds Inc."}]);

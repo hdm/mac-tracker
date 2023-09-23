@@ -1,1 +1,0 @@
-macDetailCallback("0000ce000000/24",[{"d":"2000-09-08","t":"add","a":"35 ORVILLE DRIVE\nBOHEMIA, NY  11716\n\n","c":"UNITED STATES","o":"MEGADATA CORP."},{"d":"2001-10-24","t":"change","a":"35 ORVILLE DRIVE\nBOHEMIA NY 11716\n\n","c":"UNITED STATES","o":"MEGADATA CORP."},{"d":"2015-08-27","t":"change","a":"35 ORVILLE DRIVE BOHEMIA NY US 11716","c":"US","o":"MEGADATA CORP."}]);

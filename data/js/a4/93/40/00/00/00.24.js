@@ -1,1 +1,0 @@
-macDetailCallback("a49340000000/24",[{"d":"2020-04-04","t":"add","s":"ieee-oui.csv","a":"206.2/F,Building No.1.No.1 Gaoxin Three Street. Huilongguan Town,Changping District Beijing Beijing CN 102206","c":"CN","o":"Beijing Supvan Information Technology Co.,Ltd."}]);

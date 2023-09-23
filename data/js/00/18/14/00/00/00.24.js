@@ -1,1 +1,0 @@
-macDetailCallback("001814000000/24",[{"d":"2006-06-13","t":"add","a":"20-1, Sakado 1-chome, Takatsu-ku,\nKawasaki-shi  213-8533\n\n","c":"JAPAN","o":"Mitutoyo Corporation"},{"d":"2015-08-27","t":"change","a":"20-1, Sakado 1-chome, Takatsu-ku, Kawasaki-shi  JP 213-8533","c":"JP","o":"Mitutoyo Corporation"}]);

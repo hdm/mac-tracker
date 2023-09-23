@@ -1,1 +1,0 @@
-macDetailCallback("000859000000/24",[{"d":"2001-12-14","t":"add","a":"2 Southern Floor 702 Building\nBaGuaLing Industrial Zone Shenzhen\n\n","c":"CHINA","o":"ShenZhen Unitone Electronics Co., Ltd."},{"d":"2015-08-27","t":"change","a":"2 Southern Floor 702 Building   CN","c":"CN","o":"ShenZhen Unitone Electronics Co., Ltd."}]);

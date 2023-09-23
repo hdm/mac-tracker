@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64ed4000/36",[{"d":"2021-08-15","t":"add","s":"ieee-oui36.csv","a":"Add: F5, B1, Chitic Science & Technology Park, No.260, 6th Road, Xiasha, EDA, Hangzhou, Zhejiang, China  HANGZHOU ZHEJIANG CN 310018","c":"CN","o":"ZHEJIANG CHITIC-SAFEWAY NEW ENERGY TECHNICAL CO.,LTD."}]);

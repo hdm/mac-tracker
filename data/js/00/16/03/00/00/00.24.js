@@ -1,1 +1,0 @@
-macDetailCallback("001603000000/24",[{"d":"2005-10-01","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2007-12-31","t":"change","a":"Shingsung offcetel A511, 1588-1\nSecho Seoul 137-070\n\n","c":"KOREA, REPUBLIC OF","o":"COOLKSKY Co., LTD"},{"d":"2015-08-27","t":"change","a":"Shingsung offcetel A511, 1588-1 Secho  Seoul KR 137-070","c":"KR","o":"COOLKSKY Co., LTD"}]);

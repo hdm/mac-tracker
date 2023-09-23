@@ -1,1 +1,0 @@
-macDetailCallback("e06cf6000000/24",[{"d":"2021-09-26","t":"add","s":"ieee-oui.csv","a":"Suite 4006, 40/F Central Plaza, 18 Harbour Road, Wanchai, Hong Kong  HK No code","c":"HK","o":"ESSENCORE limited"}]);

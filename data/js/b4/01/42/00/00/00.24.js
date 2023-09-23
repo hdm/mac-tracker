@@ -1,1 +1,0 @@
-macDetailCallback("b40142000000/24",[{"d":"2010-08-24","t":"add","a":"No.381,xingangzhong road ,\nGuangZhou GuangDong 510310\n\n","c":"CHINA","o":"GCI Science & Technology Co.,LTD"},{"d":"2015-08-27","t":"change","a":"No.381,xingangzhong road , GuangZhou GuangDong CN 510310","c":"CN","o":"GCI Science & Technology Co.,LTD"}]);

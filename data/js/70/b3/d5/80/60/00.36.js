@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5806000/36",[{"d":"2020-09-05","t":"add","s":"ieee-oui36.csv","a":"807-3, 8 / F, block F, No. 9, Shangdi Third Street, Haidian District Beijing  CN 100085","c":"CN","o":"International Super Computer Co., Ltd."}]);

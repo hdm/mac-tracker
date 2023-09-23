@@ -1,1 +1,0 @@
-macDetailCallback("bc3198700000/28",[{"d":"2023-04-06","t":"add","s":"ieee-mam.csv","a":"Delixi Hutou Industrial Park (joint-stock company), No. 155 Zhandong Road, Dianhou Village, Liushi Town, Yueqing City, Wenzhou City Wenzhou Zhejiang CN 325088","c":"CN","o":"Zhejiang Delixi Electric Appliance Co., Ltd"}]);

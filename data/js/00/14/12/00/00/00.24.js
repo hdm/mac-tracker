@@ -1,1 +1,0 @@
-macDetailCallback("001412000000/24",[{"d":"2005-03-22","t":"add","a":"Industriestrasse 49\nZug 6300\n\n","c":"SWITZERLAND","o":"S-TEC electronics AG"},{"d":"2015-08-27","t":"change","a":"Industriestrasse 49  Zug CH 6300","c":"CH","o":"S-TEC electronics AG"}]);

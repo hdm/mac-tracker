@@ -1,1 +1,0 @@
-macDetailCallback("a0165c000000/24",[{"d":"2011-04-21","t":"add","a":"Malha Technology Park\nJerusalem  96951\n\n","c":"ISRAEL","o":"TangoTec Ltd."},{"d":"2013-07-23","t":"change","a":"Malha Technology Park\nJerusalem  96951\n\n","c":"ISRAEL","o":"Triteka LTD"},{"d":"2015-08-27","t":"change","a":"Malha Technology Park Jerusalem  IL 96951","c":"IL","o":"Triteka LTD"}]);

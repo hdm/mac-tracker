@@ -1,1 +1,0 @@
-macDetailCallback("5491af800000/28",[{"d":"2023-06-01","t":"add","s":"ieee-mam.csv","a":"oom 401-46, 4th Floor, Building 5, Changsha Zhongdian Software Park Phase 1, No. 39 Jianshan Road, High tech Development Zone, Changsha City, Hunan Province, China Changsha Hunan CN 410205","c":"CN","o":"Hunan Quanying Electronics Co. , Ltd."}]);

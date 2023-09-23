@@ -1,1 +1,0 @@
-macDetailCallback("0050c2d5e000/36",[{"a":"2-6-35, Honcho Yonezawasi Yamagata JP 992-0037","o":"infinitec co., ltd.","d":"2010-11-10","t":"add","s":"ieee","c":"JP"},{"d":"2021-10-23","t":"change","s":"ieee-iab.csv","a":"2-32-3, Kita-shinagawa Tokyo  Shinagawa-ku JP 140-0001","c":"JP","o":"PRIVATECH Inc."}]);

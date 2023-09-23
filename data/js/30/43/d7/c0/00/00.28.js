@@ -1,1 +1,0 @@
-macDetailCallback("3043d7c00000/28",[{"d":"2022-01-16","t":"add","s":"ieee-mam.csv","a":"Room 706, building 3, no.20 east road, jingan district. Shang hai  CN 200040","c":"CN","o":"Xiaoniu network technology (Shanghai) Co., Ltd."}]);

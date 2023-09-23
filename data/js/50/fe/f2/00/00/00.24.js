@@ -1,1 +1,0 @@
-macDetailCallback("50fef2000000/24",[{"d":"2014-04-11","t":"add","a":"II floor, TIDEL Park,\n4, Rajiv Gandhi Salai, Taramani p.o\nChennai Tamilnadu 600113\n","c":"INDIA","o":"Sify Technologies Ltd"},{"d":"2015-08-27","t":"change","a":"II floor, TIDEL Park, chennai Tamilnadu IN 600113","c":"IN","o":"Sify Technologies Ltd"}]);

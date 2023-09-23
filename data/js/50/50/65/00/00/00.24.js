@@ -1,1 +1,0 @@
-macDetailCallback("505065000000/24",[{"d":"2014-05-01","t":"add","a":"2762-8\nChino-City Nagano-Pref. 391-0001\n\n","c":"JAPAN","o":"TAKT Corporation"},{"d":"2015-08-27","t":"change","a":"2762-8 Chino-City Nagano-Pref. JP 391-0001","c":"JP","o":"TAKT Corporation"}]);

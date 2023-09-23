@@ -1,1 +1,0 @@
-macDetailCallback("1c5974500000/28",[{"d":"2022-02-25","t":"add","s":"ieee-mam.csv","a":"601-6 Mitehuapujing No.9 Jinxiu Mid Road Longtian Street Pingshan Distinct Shenzhen  Guangdong CN 518118","c":"CN","o":"Shenzhen Shi Fang Communication Technology Co., Ltd"}]);

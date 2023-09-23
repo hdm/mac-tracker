@@ -1,1 +1,0 @@
-macDetailCallback("0009b8000000/24",[{"d":"2002-06-05","t":"add","a":"10095 Judy Avenue\nCupertino CA 95014\n\n","c":"UNITED STATES","o":"Entise Systems"},{"d":"2015-08-27","t":"change","a":"10095 Judy Avenue Cupertino CA US 95014","c":"US","o":"Entise Systems"}]);

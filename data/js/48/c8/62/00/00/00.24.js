@@ -1,1 +1,0 @@
-macDetailCallback("48c862000000/24",[{"d":"2011-04-28","t":"add","a":"326#,Building 4,Zhongxing Industrial Park,Chuangye\nShenzhen Guangdong 518054\n\n","c":"CHINA","o":"Simo Wireless,Inc."},{"d":"2015-08-27","t":"change","a":"326#,Building 4,Zhongxing Industrial Park,Chuangye Shenzhen Guangdong CN 518054","c":"CN","o":"Simo Wireless,Inc."}]);

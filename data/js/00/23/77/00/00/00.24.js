@@ -1,1 +1,0 @@
-macDetailCallback("002377000000/24",[{"d":"2008-10-08","t":"add","a":"9 Clayton Wood Bank\nWest Park Ring Road\nLeeds  LS16 6QZ\n","c":"UNITED KINGDOM","o":"Isotek Electronics Ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"9 Clayton Wood Bank Leeds  GB LS16 6QZ","c":"GB","o":"Isotek Electronics Ltd"}]);

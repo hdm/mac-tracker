@@ -1,1 +1,0 @@
-macDetailCallback("0009c7000000/24",[{"d":"2002-06-05","t":"add","a":"110-5 Maryoung -ri Seosu-myun\nKunsan Chonbuk 573-940\n\n","c":"KOREA, REPUBLIC OF","o":"Movistec"},{"d":"2015-08-27","t":"change","a":"110-5 Maryoung -ri Seosu-myun Kunsan Chonbuk KR 573-940","c":"KR","o":"Movistec"}]);

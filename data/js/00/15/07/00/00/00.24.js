@@ -1,1 +1,0 @@
-macDetailCallback("001507000000/24",[{"d":"2005-06-25","t":"add","a":"2911 Peach Street\nPO Box 8036\nWisconsin Rapids Wisconsin 54494\n","c":"UNITED STATES","o":"Renaissance Learning Inc"},{"d":"2015-08-27","t":"change","a":"2911 Peach Street Wisconsin Rapids Wisconsin US 54494","c":"US","o":"Renaissance Learning Inc"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("4c2258000000/24",[{"d":"2012-10-03","t":"add","a":"605 Market Street\nSuite 1350\nSan Francisco CA 94105\n","c":"UNITED STATES","o":"cozybit, Inc."},{"d":"2015-08-27","t":"change","a":"605 Market Street San Francisco CA US 94105","c":"US","o":"cozybit, Inc."}]);

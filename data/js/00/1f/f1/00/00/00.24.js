@@ -1,1 +1,0 @@
-macDetailCallback("001ff1000000/24",[{"d":"2008-02-20","t":"add","a":"3 Korinthoy St\nMetamorfosi\nAthens Attiki 14451\n","c":"GREECE","o":"Paradox Hellas S.A.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"3 Korinthoy St Athens Attiki GR 14451","c":"GR","o":"Paradox Hellas S.A."}]);

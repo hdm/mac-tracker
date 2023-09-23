@@ -1,1 +1,0 @@
-macDetailCallback("70b3d51bd000/36",[{"d":"2018-10-04","t":"add","s":"ieee-oui36.csv","a":"Room 2039, Shenhai Building, Wanzhong Village, Bulong Road, Minzhi, Longhua district,  City: Shenzhen Shenzhen Guangdong CN 518131 ","c":"CN","o":"Shenzhen Siera Technology Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64eb7000/36",[{"d":"2021-12-15","t":"add","s":"ieee-oui36.csv","a":"Kolhoznaya str., 8A, Room 20, 2nd Floor Lubertsy Lubertsy City District, Moscow Region RU 140002","c":"RU","o":"Delta Solutions LLC"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("002295000000/24",[{"d":"2008-06-21","t":"add","a":"Via Pio La Torre 1\nTavullia PU 61010\n\n","c":"ITALY","o":"SGM Technology for lighting spa","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Via Pio La Torre 1 Tavullia PU IT 61010","c":"IT","o":"SGM Technology for lighting spa"}]);

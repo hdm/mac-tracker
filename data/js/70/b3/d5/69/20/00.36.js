@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5692000/36",[{"a":"15 Floor, Investment building, Shennan Road 4009, Futian Shenzhen  CN 518031","o":"HOSIN INDUSTRIAL LIMITED","d":"2016-06-12","t":"add","s":"ieee","c":"CN"}]);

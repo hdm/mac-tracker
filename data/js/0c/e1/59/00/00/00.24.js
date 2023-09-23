@@ -1,1 +1,0 @@
-macDetailCallback("0ce159000000/24",[{"d":"2021-04-24","t":"add","s":"ieee-oui.csv","a":"Zone B, 4/F, Building A6, Qinghu Dongli Industrial Park, No. 416 Xuegang North Road, Longhua  District, Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen iStartek Technology Co., Ltd."}]);

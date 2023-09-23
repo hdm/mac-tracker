@@ -1,1 +1,0 @@
-macDetailCallback("30b29f000000/24",[{"d":"2023-02-24","t":"add","s":"ieee-oui.csv","a":"Shinjuku Monolith, 3-1 Nishi-Shinjuku 2-chome Shinjuku-ku Tokyo JP 163-0910","c":"JP","o":"EVIDENT CORPORATION"}]);

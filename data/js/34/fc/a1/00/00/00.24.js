@@ -1,1 +1,0 @@
-macDetailCallback("34fca1000000/24",[{"d":"2021-03-03","t":"add","s":"ieee-oui.csv","a":"No.502, Building 5, No. 528, Yuefei Road, Shibantan Street, Xindu District Chengdu Sichuan CN 610000","c":"CN","o":"Micronet union Technology(Chengdu)Co., Ltd."}]);

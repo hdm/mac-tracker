@@ -1,1 +1,0 @@
-macDetailCallback("c8f5d6b00000/28",[{"d":"2021-03-06","t":"add","s":"ieee-mam.csv","a":"Av. Progres 56, Pol. Ind. els Garrofers Vilassar de Mar Barcelona ES 08340","c":"ES","o":"United Barcode Systems"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001f37000000/24",[{"d":"2007-12-31","t":"add","a":"#515 lisantekeunotaun\n1141-1 Baekseok-Dong, lisandong-Gu\nGoyang Gyeonggi 410-722\n","c":"KOREA, REPUBLIC OF","o":"Genesis I&C"},{"d":"2015-08-27","t":"change","a":"#515 lisantekeunotaun Goyang Gyeonggi KR 410-722","c":"KR","o":"Genesis I&C"}]);

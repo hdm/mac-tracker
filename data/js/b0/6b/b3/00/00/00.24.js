@@ -1,1 +1,0 @@
-macDetailCallback("b06bb3000000/24",[{"d":"2022-08-26","t":"add","s":"ieee-oui.csv","a":"Unit 01, 10/F Carnival Comm BLDG 18 Java RD,North Point, Hong Kong Hong Kong  HK 100036","c":"HK","o":"GRT"}]);

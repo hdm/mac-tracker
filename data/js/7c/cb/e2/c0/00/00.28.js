@@ -1,1 +1,0 @@
-macDetailCallback("7ccbe2c00000/28",[{"a":"calle zuatzu nº1 (edif ulia) pabellon 7 (parque emp. zuatzu) san sebastian guipuzcoa ES 20018","o":"mirakonta s.l.","d":"2016-08-28","t":"add","s":"ieee","c":"ES"}]);

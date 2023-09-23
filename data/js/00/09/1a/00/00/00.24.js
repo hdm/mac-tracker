@@ -1,1 +1,0 @@
-macDetailCallback("00091a000000/24",[{"d":"2002-01-30","t":"add","a":"15/F., Macat Center, No. 63 Macat Road\nHuizhou Guangdong 516001\n\n","c":"CHINA","o":"Macat Optics & Electronics Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"15/F., Macat Center, No. 63 Macat Road Huizhou Guangdong CN 516001","c":"CN","o":"Macat Optics & Electronics Co., Ltd."}]);

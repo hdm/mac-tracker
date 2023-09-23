@@ -1,1 +1,0 @@
-macDetailCallback("00213f000000/24",[{"d":"2008-06-18","t":"add","a":"Rm. 1608, 16/F., Metropole Square,\n2 On Yiu St., Shatin,\nNew Territories,\n","c":"HONG KONG","o":"A-Team Technology Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Rm. 1608, 16/F., Metropole Square, New Territories,  HK","c":"HK","o":"A-Team Technology Ltd."}]);

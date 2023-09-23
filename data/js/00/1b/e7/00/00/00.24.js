@@ -1,1 +1,0 @@
-macDetailCallback("001be7000000/24",[{"d":"2007-04-08","t":"add","a":"Suite 510, Shanghang Building\nHongli Road\nShen Zhen Guang Dong 518028\n","c":"CHINA","o":"Postek Electronics Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Suite 510, Shanghang Building Shen Zhen Guang Dong CN 518028","c":"CN","o":"Postek Electronics Co., Ltd."}]);

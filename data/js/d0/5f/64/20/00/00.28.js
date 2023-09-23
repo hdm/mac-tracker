@@ -1,1 +1,0 @@
-macDetailCallback("d05f64200000/28",[{"d":"2019-05-09","t":"add","s":"ieee-mam.csv","a":"RM510,418GuipingRoad.Caohejing Hi-TECH-PARK SHANGHAI  CN 200233","c":"CN","o":"SHANGHAI ZHONGMI COMMUNICATION TECHNOLOGY CO.,LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001975000000/24",[{"d":"2006-08-27","t":"add","a":"Jia#2 of Xili of Baiyun road,Xicheng district\nBeijing  100045\n\n","c":"CHINA","o":"Beijing Huisen networks technology Inc"},{"d":"2015-08-27","t":"change","a":"Jia#2 of Xili of Baiyun road,Xicheng district Beijing  CN 100045","c":"CN","o":"Beijing Huisen networks technology Inc"}]);

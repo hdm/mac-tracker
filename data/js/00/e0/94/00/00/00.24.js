@@ -1,1 +1,0 @@
-macDetailCallback("00e094000000/24",[{"d":"1998-04-22","t":"add","a":"VIA TORINO\n603-IVREA(TO)\n\n","c":"ITALY","o":"OSAI SRL"},{"d":"2002-06-05","t":"change","a":"VIA TORINO\n603-IVREA (TO)\n\n","c":"ITALY","o":"OSAI SRL"},{"d":"2015-08-27","t":"change","a":"VIA TORINO 603-IVREA (TO)  IT","c":"IT","o":"OSAI SRL"}]);

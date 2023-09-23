@@ -1,1 +1,0 @@
-macDetailCallback("a8016d000000/24",[{"d":"2018-05-11","t":"add","a":"965 W Chicago Ave\nChicago  IL  60642\n\n","c":"UNITED STATES","o":"Aiwa Corporation"},{"d":"2018-05-12","t":"change","a":"965 W Chicago Ave Chicago IL US 60642","c":"US","o":"Aiwa Corporation"}]);

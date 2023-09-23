@@ -1,1 +1,0 @@
-macDetailCallback("0050c285a000/36",[{"a":"Voc.Pischiello 20 06065 Passignano sul Trasimeno (PG)  IT","o":"ART SPA","d":"2008-07-30","t":"add","s":"ieee","c":"IT"},{"d":"2019-07-01","t":"change","s":"ieee-iab.csv","a":"Voc.Pischiello 20 06065 Passignano sul Trasimeno (PG)  IT 00000","c":"IT","o":"ART SPA"}]);

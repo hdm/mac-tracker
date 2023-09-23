@@ -1,1 +1,0 @@
-macDetailCallback("0050c249e000/36",[{"a":"No. 515 of Xinzhuang Industry Park Shenfu Road Shanghai Province Shanghai CN 201108","o":"Armorlink Co .Ltd","d":"2008-07-30","t":"add","s":"ieee","c":"CN"}]);

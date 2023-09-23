@@ -1,1 +1,0 @@
-macDetailCallback("883cc5600000/28",[{"d":"2022-06-15","t":"add","s":"ieee-mam.csv","a":"RM2509, Island Place Tower\n510 King's Road, North Point Hong Kong  HK 999077","c":"HK","o":"mfJebsen Electronics Ltd."}]);

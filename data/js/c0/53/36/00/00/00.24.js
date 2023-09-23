@@ -1,1 +1,0 @@
-macDetailCallback("c05336000000/24",[{"d":"2018-11-27","t":"add","s":"ieee-oui.csv","a":"7 floor, No.1 Automobile Museum South Road, Fengtai Science and Technology Park, Beijing Beijing CN 100070","c":"CN","o":"Beijing National Railway Research & Design Institute of Signal & Communication Group Co..Ltd."}]);

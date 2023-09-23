@@ -1,1 +1,0 @@
-macDetailCallback("b02347000000/24",[{"d":"2022-01-15","t":"add","s":"ieee-oui.csv","a":"Room 2108,  21 Floor, Building No.1 of Chang Fu Jin Mao Tower, No.5 Shi Hua Road, Futian District Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Giant Microelectronics Company Limited"}]);

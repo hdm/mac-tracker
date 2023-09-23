@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64b14000/36",[{"d":"2022-10-14","t":"add","s":"ieee-oui36.csv","a":"4-3-8, Minatomirai, Nishi-ku Yokohama-shi Kanagawa-ken JP 220-0012","c":"JP","o":"Murata Manufacturing CO., Ltd."}]);

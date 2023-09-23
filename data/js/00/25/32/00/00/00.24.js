@@ -1,1 +1,0 @@
-macDetailCallback("002532000000/24",[{"d":"2009-02-15","t":"add","a":"4018 Patriot Drive\nSuite 100\nDurham NC 27709\n","c":"UNITED STATES","o":"Digital Recorders","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4018 Patriot Drive Durham NC US 27709","c":"US","o":"Digital Recorders"}]);

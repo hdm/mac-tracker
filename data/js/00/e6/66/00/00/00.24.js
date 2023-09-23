@@ -1,1 +1,0 @@
-macDetailCallback("00e666000000/24",[{"d":"2012-08-14","t":"add","a":"6F.,No.866,Zhongzheng Rd.,Zhonghe Dist.,\nNew Taipei City Taiwan 23586\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"ARIMA Communications Corp."},{"d":"2015-08-27","t":"change","a":"6F.,No.866,Zhongzheng Rd.,Zhonghe Dist., New Taipei City Taiwan TW 23586","c":"TW","o":"ARIMA Communications Corp."}]);

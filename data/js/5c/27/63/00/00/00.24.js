@@ -1,1 +1,0 @@
-macDetailCallback("5c2763000000/24",[{"d":"2022-06-28","t":"add","s":"ieee-oui.csv","a":"1630, 3F, Phase I, International Science Park, No.1355 Jinjihu Avenue, Suzhou Jiangsu CN 215021","c":"CN","o":"Itibia Technologies"}]);

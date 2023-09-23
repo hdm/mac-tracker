@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64a84000/36",[{"d":"2022-02-13","t":"add","s":"ieee-oui36.csv","a":"No.10 Shangdi Road, Haidian District Beijing Beijing CN 100085","c":"CN","o":"Beijing Wenrise Technology Co., Ltd."}]);

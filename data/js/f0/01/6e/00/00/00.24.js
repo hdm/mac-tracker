@@ -1,1 +1,0 @@
-macDetailCallback("f0016e000000/24",[{"d":"2021-01-28","t":"add","s":"ieee-oui.csv","a":"6/F Changshang Building, No.29 North Xinhua Street, Xicheng District Beijing  CN 100031","c":"CN","o":"Tianyi Telecom Terminals Company Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("105c3b000000/24",[{"d":"2013-03-19","t":"add","a":"7720 Lehigh Ave\nNiles IL 60714\n\n","c":"UNITED STATES","o":"Perma-Pipe, Inc."},{"d":"2015-08-27","t":"change","a":"7720 Lehigh Ave Niles IL US 60714","c":"US","o":"Perma-Pipe, Inc."}]);

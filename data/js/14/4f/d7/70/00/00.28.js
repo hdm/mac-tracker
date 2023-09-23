@@ -1,1 +1,0 @@
-macDetailCallback("144fd7700000/28",[{"a":"Room610, LangShanGe Building, Yugu Hi-Tech Park, Liuxin Road 1183, Nanshan District Shenzhen Guangdong CN 518000","o":"Shenzhen V-Streaming Technology Co., Ltd.","d":"2016-12-11","t":"add","s":"ieee","c":"CN"}]);

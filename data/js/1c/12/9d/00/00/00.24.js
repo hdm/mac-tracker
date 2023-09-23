@@ -1,1 +1,0 @@
-macDetailCallback("1c129d000000/24",[{"d":"2009-12-30","t":"add","a":"Working Group H7/Sub C7 (IEEE PC37.238)\n445 Hoes Lane\nPiscataway NJ 08854\n","c":"UNITED STATES","o":"IEEE PES PSRC/SUB"},{"d":"2015-08-27","t":"change","a":"Working Group H7/Sub C7 (IEEE PC37.238) Piscataway NJ US 08854","c":"US","o":"IEEE PES PSRC/SUB"}]);

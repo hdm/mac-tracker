@@ -1,1 +1,0 @@
-macDetailCallback("000fbf000000/24",[{"d":"2004-03-17","t":"add","a":"ul. Jaskowa Dolina 15\nGdansk  80-252\n\n","c":"POLAND","o":"DGT Sp. z o.o.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"ul. Jaskowa Dolina 15 Gdansk woj. pomorskie PL 80-252","c":"PL","o":"DGT Sp. z o.o."}]);

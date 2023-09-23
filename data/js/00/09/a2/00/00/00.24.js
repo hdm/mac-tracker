@@ -1,1 +1,0 @@
-macDetailCallback("0009a2000000/24",[{"d":"2002-03-29","t":"add","a":"2-5-12-201 Kyonancho\nMusashino-city Tokyo 180-0023\n\n","c":"JAPAN","o":"Interface Co., Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2-5-12-201 Kyonancho Musashino-city Tokyo JP 180-0023","c":"JP","o":"Interface Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("7c2587000000/24",[{"d":"2014-05-31","t":"add","a":"No. 502 1th Building TaiHe Square\nShangCheng District\nHangZhou QianJiangRoad 310002\n","c":"CHINA","o":"chaowifi.com"},{"d":"2015-08-27","t":"change","a":"No. 502 1th Building TaiHe Square HangZhou QianJiangRoad CN 310002","c":"CN","o":"chaowifi.com"}]);

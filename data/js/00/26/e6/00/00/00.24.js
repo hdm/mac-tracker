@@ -1,1 +1,0 @@
-macDetailCallback("0026e6000000/24",[{"d":"2009-07-21","t":"add","a":"Vision bldg. 150-3\nSimgok-Dong, Wonmi-Ku\nBuchon Kyunggi-Do 420-822\n","c":"KOREA, REPUBLIC OF","o":"Visionhitech Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Vision bldg. 150-3 Buchon Kyunggi-Do KR 420-822","c":"KR","o":"Visionhitech Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("14373b000000/24",[{"d":"2011-06-09","t":"add","a":"#1001, Kranz Techno, 5442-1\nSangdaewon-dong, Jungwon-gu\nSeongnam-si Gyunggi-do 462-729\n","c":"KOREA, REPUBLIC OF","o":"PROCOM Systems"},{"d":"2015-08-27","t":"change","a":"#1001, Kranz Techno, 5442-1 Seongnam-si Gyunggi-do KR 462-729","c":"KR","o":"PROCOM Systems"}]);

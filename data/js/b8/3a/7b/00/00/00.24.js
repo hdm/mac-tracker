@@ -1,1 +1,0 @@
-macDetailCallback("b83a7b000000/24",[{"d":"2011-03-01","t":"add","a":"803-24th Ave SE, Unit 200\nCalgary Alberta T2G 1P5\n\n","c":"CANADA","o":"Worldplay (Canada) Inc."},{"d":"2015-08-27","t":"change","a":"803 - 24th Ave SE, Unit 200 Calgary Alberta CA T2G 1P5","c":"CA","o":"Worldplay (Canada) Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("6cd032000000/24",[{"d":"2012-09-28","t":"add","a":"16, Woomyeon-dong, Seocho-gu\nSeoul  137-724\n\n","c":"KOREA, REPUBLIC OF","o":"LG Electronics"},{"d":"2015-08-27","t":"change","a":"16, Woomyeon-dong, Seocho-gu Seoul  KR 137-724","c":"KR","o":"LG Electronics"}]);

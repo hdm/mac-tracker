@@ -1,1 +1,0 @@
-macDetailCallback("0024d9000000/24",[{"d":"2009-01-04","t":"add","a":"755 Main Street\nBuilding 3\nMonroe CT 06468\n","c":"UNITED STATES","o":"BICOM, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"755 Main Street Monroe CT US 06468","c":"US","o":"BICOM, Inc."}]);

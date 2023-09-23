@@ -1,1 +1,0 @@
-macDetailCallback("0018b5000000/24",[{"d":"2006-07-01","t":"add","a":"Naritaweg 126\nAmsterdam Noord Holland 1043 CA\n\n","c":"NETHERLANDS","o":"Magna Carta"},{"d":"2015-08-27","t":"change","a":"Naritaweg 126 Amsterdam Noord Holland NL 1043 CA","c":"NL","o":"Magna Carta"}]);

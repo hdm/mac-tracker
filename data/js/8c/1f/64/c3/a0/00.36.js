@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64c3a000/36",[{"d":"2022-04-23","t":"add","s":"ieee-oui36.csv","a":"Room 1401,building 4,yard 1, Beiqing Road No.81, Haidian District Beijing Beijing CN 100086","c":"CN","o":"YUSUR Technology Co., Ltd."}]);

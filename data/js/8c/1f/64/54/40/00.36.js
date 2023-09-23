@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64544000/36",[{"d":"2022-05-07","t":"add","s":"ieee-oui36.csv","a":"#677, 1st Floor, 27th Main, 13th Cross Road,\nHSR Layout, Sector 1 Bengaluru Karnataka IN 560102","c":"IN","o":"Tinkerbee Innovations Private Limited"}]);

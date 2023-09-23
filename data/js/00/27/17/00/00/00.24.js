@@ -1,1 +1,0 @@
-macDetailCallback("002717000000/24",[{"d":"2009-07-31","t":"add","a":"Wei 3 Road, Dingmao, Eco.Dev.Zone,\nJiangsu\nZhenjiang  212009\n","c":"CHINA","o":"CE Digital(Zhenjiang)Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"Wei 3 Road, Dingmao, Eco.Dev.Zone, Zhenjiang  CN 212009","c":"CN","o":"CE Digital(Zhenjiang)Co.,Ltd"}]);

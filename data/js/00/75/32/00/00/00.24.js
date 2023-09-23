@@ -1,1 +1,0 @@
-macDetailCallback("007532000000/24",[{"d":"2014-02-28","t":"add","a":"Mariettahof 27\nHaarlem NH 2033WS\n\n","c":"NETHERLANDS","o":"INID BV"},{"d":"2015-08-27","t":"change","a":"Mariettahof 27 Haarlem NH NL 2033WS","c":"NL","o":"INID BV"}]);

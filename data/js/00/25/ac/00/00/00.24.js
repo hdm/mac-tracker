@@ -1,1 +1,0 @@
-macDetailCallback("0025ac000000/24",[{"d":"2009-03-29","t":"add","a":"1-15 Shin-ogawa machi\nShinjyuku-ku Tokyo 162-0814\n\n","c":"JAPAN","o":"I-Tech corporation","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1-15 Shin-ogawa machi Shinjyuku-ku Tokyo JP 162-0814","c":"JP","o":"I-Tech corporation"}]);

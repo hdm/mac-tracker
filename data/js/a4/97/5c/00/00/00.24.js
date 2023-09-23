@@ -1,1 +1,0 @@
-macDetailCallback("a4975c000000/24",[{"d":"2019-01-01","t":"add","s":"ieee-oui.csv","a":"23/F,Tai Ping Industrial Centre ,Block 1 Hong Kong  CN 000000","c":"CN","o":"VTech Telecommunications Ltd."}]);

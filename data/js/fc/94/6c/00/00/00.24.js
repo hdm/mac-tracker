@@ -1,1 +1,0 @@
-macDetailCallback("fc946c000000/24",[{"d":"2011-09-01","t":"add","a":"#1301 KOLONG Digital Villent 222-7 Guro-dong Guro-gu\nSEOUL  152-777\n\n","c":"KOREA, REPUBLIC OF","o":"UBIVELOX"},{"d":"2015-08-27","t":"change","a":"#1301 KOLONG Digital Villent 222-7 Guro-dong Guro-gu SEOUL  KR 152-777","c":"KR","o":"UBIVELOX"}]);

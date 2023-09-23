@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5e64000/36",[{"d":"2020-06-13","t":"add","s":"ieee-oui36.csv","a":"9F, No. 649-3, Zhong Zheng Rd.,, Xin Zhuang Dist., New Taipei City,, TAIWAN(R.O.C.) 24257 Taiwan TW SHINJUANG","c":"TW","o":"HONG JIANG ELECTRONICS CO., LTD."}]);

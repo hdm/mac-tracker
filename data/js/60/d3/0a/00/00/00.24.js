@@ -1,1 +1,0 @@
-macDetailCallback("60d30a000000/24",[{"d":"2009-08-20","t":"add","a":"Units 05-07, 16/F, Greenfield Tower, Concordia Plaza,\n1 Science Museum Rd., TST East\nKowloon\n","c":"HONG KONG","o":"Quatius Limited"},{"d":"2015-08-27","t":"change","a":"Units 05-07, 16/F, Greenfield Tower, Concordia Plaza, Kowloon  HK","c":"HK","o":"Quatius Limited"}]);

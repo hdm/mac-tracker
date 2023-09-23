@@ -1,1 +1,0 @@
-macDetailCallback("001340000000/24",[{"d":"2005-01-15","t":"add","a":"via S. Pertini,5\nMartellago VENEZIA 30030\n\n","c":"ITALY","o":"AD.EL s.r.l.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"via S. Pertini,5 Martellago VENEZIA IT 30030","c":"IT","o":"AD.EL s.r.l."}]);

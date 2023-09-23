@@ -1,1 +1,0 @@
-macDetailCallback("38f557000000/24",[{"d":"2015-07-11","t":"add","a":"2262 N. FIRST ST.\nSAN JOSE CA 95134\n\n","c":"UNITED STATES","o":"JOLATA, INC."},{"d":"2015-08-27","t":"change","a":"2262 N. FIRST ST. SAN JOSE CA US 95134","c":"US","o":"JOLATA, INC."}]);

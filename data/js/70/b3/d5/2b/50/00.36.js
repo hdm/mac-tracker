@@ -1,1 +1,0 @@
-macDetailCallback("70b3d52b5000/36",[{"d":"2019-10-26","t":"add","s":"ieee-oui36.csv","a":"429/A,Kalasagar Shopping Hub, Sattadhar Cross Road Ahmedabad Gujarat IN 380061","c":"IN","o":"Dosepack India LLP"}]);

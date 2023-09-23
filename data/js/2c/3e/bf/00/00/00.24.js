@@ -1,1 +1,0 @@
-macDetailCallback("2c3ebf000000/24",[{"d":"2023-03-05","t":"add","s":"ieee-oui.csv","a":"Room 25,Block 2, Shenzhen New Generation Industrial Park, no.136 ZhongKang Road, Meidu community, Meilin Street, Futian District Shenzhen Guangzhou CN 518000","c":"CN","o":"HOSIN Global Electronics Co., Ltd."}]);

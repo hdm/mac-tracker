@@ -1,1 +1,0 @@
-macDetailCallback("9405bb000000/28",[{"d":"2020-01-12","t":"add","s":"ieee-mam.csv","a":"Room2907, Building 2 of Minghui International, No.39 of Shiling Road, Laoshan District Qingdao Shandong CN 266000","c":"CN","o":"Qingdao Maotran Electronics co., ltd"}]);

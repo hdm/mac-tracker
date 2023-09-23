@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5c95000/36",[{"d":"2019-10-04","t":"add","s":"ieee-oui36.csv","a":"Floor 17, Building D6, Tianfu Software Park, Chengdu Sichuan CN 610041","c":"CN","o":"Chengdu Meihuan Technology Co., Ltd"}]);

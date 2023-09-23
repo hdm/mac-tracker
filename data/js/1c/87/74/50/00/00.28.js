@@ -1,1 +1,0 @@
-macDetailCallback("1c8774500000/28",[{"d":"2015-10-31","t":"add","a":"D9G Fuhua Plaza, 8# North Street, Chaoyangmen, Dongcheng District Beijing Beijing CN 100027","c":"CN","o":"Xiaoxinge (Tangshan) Electronic Technology Co., Ltd."}]);

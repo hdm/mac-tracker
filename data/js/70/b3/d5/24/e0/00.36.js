@@ -1,1 +1,0 @@
-macDetailCallback("70b3d524e000/36",[{"a":"6-419, Hi-tech Incubation Park, No.1480 Tianfu Ave Chengdu Sichuan CN 610000","o":"Chengdu Cove Technology CO.,LTD","d":"2017-12-31","t":"add","s":"ieee","c":"CN"}]);

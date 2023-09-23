@@ -1,1 +1,0 @@
-macDetailCallback("000d5f000000/24",[{"d":"2003-06-01","t":"add","a":"1919 boul lionel bertrand\n#202\nBoisbriand Quebec J7H 1N8\n","c":"CANADA","o":"Minds Inc"},{"d":"2015-08-27","t":"change","a":"1919 boul lionel bertrand Boisbriand Quebec CA J7H 1N8","c":"CA","o":"Minds Inc"}]);

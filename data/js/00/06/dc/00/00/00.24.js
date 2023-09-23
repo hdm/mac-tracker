@@ -1,1 +1,0 @@
-macDetailCallback("0006dc000000/24",[{"d":"2001-10-24","t":"add","a":"4727 Paseo Padre Parkway\nFremont CA 94555\n\n","c":"UNITED STATES","o":"Syabas Technology (Amquest)"},{"d":"2015-08-27","t":"change","a":"4727 Paseo Padre Parkway Fremont CA US 94555","c":"US","o":"Syabas Technology (Amquest)"}]);

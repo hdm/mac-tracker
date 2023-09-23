@@ -1,1 +1,0 @@
-macDetailCallback("0019d5000000/24",[{"d":"2006-09-25","t":"add","a":"1517 146th Ave\nDorr MI 49323\n\n","c":"UNITED STATES","o":"IP Innovations, Inc."},{"d":"2015-08-27","t":"change","a":"1517 146th Ave Dorr MI US 49323","c":"US","o":"IP Innovations, Inc."}]);

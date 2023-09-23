@@ -1,1 +1,0 @@
-macDetailCallback("0014dc000000/24",[{"d":"2005-06-07","t":"add","a":"Postbus 181\nBussum NH 1400 AD\n\n","c":"NETHERLANDS","o":"Communication System Design & Manufacturing (CSDM)"},{"d":"2015-08-27","t":"change","a":"Postbus 181 Bussum NH NL 1400 AD","c":"NL","o":"Communication System Design & Manufacturing (CSDM)"}]);

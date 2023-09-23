@@ -1,1 +1,0 @@
-macDetailCallback("9cdb07000000/24",[{"a":"Heinrich-Hertz-Strasse 1-3 Monheim am Rhein NRW DE 40789","o":"Thum+Mahr GmbH","d":"2018-09-10","t":"add","s":"ieee","c":"DE"},{"d":"2022-08-25","t":"change","s":"ieee-oui.csv","a":"Heinrich-Hertz-Strasse 1-3 Monheim am Rhein NRW DE 40789","c":"DE","o":"Yellowtec GmbH"}]);

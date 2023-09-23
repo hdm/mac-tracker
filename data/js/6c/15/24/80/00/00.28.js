@@ -1,1 +1,0 @@
-macDetailCallback("6c1524800000/28",[{"d":"2022-03-03","t":"add","s":"ieee-mam.csv","a":"9F Building2, Phase2, Gaoxinqi Industrial Park ,  Bao'an District ShenZhen GuangDong CN 518102","c":"CN","o":"ShenZhen Chainway Information Technology Co., Ltd."}]);

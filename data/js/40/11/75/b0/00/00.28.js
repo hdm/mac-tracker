@@ -1,1 +1,0 @@
-macDetailCallback("401175b00000/28",[{"d":"2019-07-11","t":"add","s":"ieee-mam.csv","a":"Yongli International Center, Sanlitun, Chaoyang District Beijing Beijing CN 100027","c":"CN","o":"Chongqing IQIYI Intelligence Technology Co., Ltd."}]);

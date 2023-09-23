@@ -1,1 +1,0 @@
-macDetailCallback("ecdfc9000000/24",[{"d":"2022-06-17","t":"add","s":"ieee-oui.csv","a":"Room 313, Unit B, Building 2, 399 Danfeng Road, Binjiang District Hangzhou Zhejiang CN 310051","c":"CN","o":"Hangzhou Microimage Software Co., Ltd"}]);

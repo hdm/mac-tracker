@@ -1,1 +1,0 @@
-macDetailCallback("00506b000000/24",[{"d":"2000-09-08","t":"add","a":"802 S. MAIN STREET\nWAYLAND  MI  49348\n\n","c":"UNITED STATES","o":"SPX-ATEG"},{"d":"2001-10-24","t":"change","a":"802 S. MAIN STREET\nWAYLAND MI 49348\n\n","c":"UNITED STATES","o":"SPX-ATEG"},{"d":"2015-08-27","t":"change","a":"802 S. MAIN STREET WAYLAND MI US 49348","c":"US","o":"SPX-ATEG"}]);

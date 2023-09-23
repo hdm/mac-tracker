@@ -1,1 +1,0 @@
-macDetailCallback("001e57000000/24",[{"d":"2007-10-04","t":"add","a":"Klukovice 313, Praha - 5\nPraha  152 00\n\n","c":"CZECH REPUBLIC","o":"ALCOMA, spol. s r.o."},{"d":"2015-08-27","t":"change","a":"Klukovice 313, Praha - 5 Praha  CZ 152 00","c":"CZ","o":"ALCOMA, spol. s r.o."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00245e000000/24",[{"d":"2008-11-23","t":"add","a":"2201-2202, COFCO Property Tower,\n3rd Bao'an District\nShenzhen Guangdong 518101\n","c":"CHINA","o":"Hivision Co.,ltd","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2201-2202, COFCO Property Tower, Shenzhen Guangdong CN 518101","c":"CN","o":"Hivision Co.,ltd"}]);

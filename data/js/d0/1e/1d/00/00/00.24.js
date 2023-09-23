@@ -1,1 +1,0 @@
-macDetailCallback("d01e1d000000/24",[{"d":"2021-03-25","t":"add","s":"ieee-oui.csv","a":"Shop No. 7, Sonawala Building, 1st Floor, Proctor Road, Grant Road (E) Mumbai Maharashtra IN 400007","c":"IN","o":"SaiNXT Technologies LLP"}]);

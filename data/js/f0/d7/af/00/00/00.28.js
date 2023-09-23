@@ -1,1 +1,0 @@
-macDetailCallback("f0d7af000000/28",[{"d":"2020-04-17","t":"add","s":"ieee-mam.csv","a":"Matsumura BLDG, 2-2-23,Shibazaki-cho, Tachikawa-shi Tokyo Japan JP 1900023","c":"JP","o":"ID Tech Japan Co.,Ltd."}]);

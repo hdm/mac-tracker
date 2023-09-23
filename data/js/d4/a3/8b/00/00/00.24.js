@@ -1,1 +1,0 @@
-macDetailCallback("d4a38b000000/24",[{"d":"2023-07-13","t":"add","s":"ieee-oui.csv","a":"No.158, Chuangyuan Road, SIP, Suzhou, Jiangsu, China suzhou jiangsu CN 215000","c":"CN","o":"ELE(GROUP)CO.,LTD"}]);

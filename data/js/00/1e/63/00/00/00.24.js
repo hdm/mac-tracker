@@ -1,1 +1,0 @@
-macDetailCallback("001e63000000/24",[{"d":"2007-10-05","t":"add","a":"Route de Moncor 4\nFribourg  CH-1701\n\n","c":"SWITZERLAND","o":"Vibro-Meter SA"},{"d":"2015-08-27","t":"change","a":"Route de Moncor 4 Fribourg  CH CH-1701","c":"CH","o":"Vibro-Meter SA"}]);

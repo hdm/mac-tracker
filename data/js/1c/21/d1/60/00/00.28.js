@@ -1,1 +1,0 @@
-macDetailCallback("1c21d1600000/28",[{"a":"Hongshan District Luo Yu RoadBainaohui room 1513 Wuhan Hubei CN 430000","o":"Wuhan TieChi Detection Technology Co., Ltd.","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

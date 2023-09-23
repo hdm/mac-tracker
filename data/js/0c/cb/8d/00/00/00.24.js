@@ -1,1 +1,0 @@
-macDetailCallback("0ccb8d000000/24",[{"d":"2013-08-08","t":"add","a":"Otto-Hahn-Str. 7-11\nOelbronn-Duerrn  75248\n\n","c":"GERMANY","o":"ASCO Numatics GmbH"},{"d":"2015-08-27","t":"change","a":"Otto-Hahn-Str. 7-11 Oelbronn-Duerrn  DE 75248","c":"DE","o":"ASCO Numatics GmbH"}]);

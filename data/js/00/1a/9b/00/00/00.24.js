@@ -1,1 +1,0 @@
-macDetailCallback("001a9b000000/24",[{"d":"2006-12-05","t":"add","a":"Staldenbachstrasse 30\nPfaeffikon ZH 8808\n\n","c":"SWITZERLAND","o":"ADEC & Parter AG"},{"d":"2015-08-27","t":"change","a":"Staldenbachstrasse 30 Pfaeffikon ZH CH 8808","c":"CH","o":"ADEC & Parter AG"}]);

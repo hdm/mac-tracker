@@ -1,1 +1,0 @@
-macDetailCallback("2c4e7d000000/24",[{"d":"2019-07-01","t":"add","s":"ieee-oui.csv","a":"2F-3, No.5, Sec. 3, New Taipei Blvd.,, XinZhung Dist,  New Taipei City 選擇州 TW 242","c":"TW","o":"Chunghua Intelligent Network Equipment Inc."}]);

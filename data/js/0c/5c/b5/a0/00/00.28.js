@@ -1,1 +1,0 @@
-macDetailCallback("0c5cb5a00000/28",[{"d":"2021-01-29","t":"add","s":"ieee-mam.csv","a":"167 Jingkai 9th Street, Zhengzhou Economic Development Zone Zhengzhou  CN 45000","c":"CN","o":"Zhengzhou coal machinery hydraulic electric control Co.,Ltd"}]);

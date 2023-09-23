@@ -1,1 +1,0 @@
-macDetailCallback("6cdffb100000/28",[{"a":"No.2,1 Floor,Kelly Building,No.115 Xingtong Avenue,Guilin Street office, Tongnan District Chongqing Chongqing CN 402660","o":"Chongqing Baoli Yota Technologies Limited","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

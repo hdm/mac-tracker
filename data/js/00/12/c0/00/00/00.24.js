@@ -1,1 +1,0 @@
-macDetailCallback("0012c0000000/24",[{"d":"2004-11-16","t":"add","a":"6329 Chelton Drive\nOakland CA 94611\n\n","c":"UNITED STATES","o":"HotLava Systems, Inc."},{"d":"2015-08-27","t":"change","a":"6329 Chelton Drive Oakland CA US 94611","c":"US","o":"HotLava Systems, Inc."}]);

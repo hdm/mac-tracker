@@ -1,1 +1,0 @@
-macDetailCallback("000e79000000/24",[{"d":"2003-12-21","t":"add","a":"4034 Clipper Ct.\nFremont CA 94538\n\n","c":"UNITED STATES","o":"Ample Communications Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"4034 Clipper Ct. Fremont CA US 94538","c":"US","o":"Ample Communications Inc."}]);

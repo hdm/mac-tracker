@@ -1,1 +1,0 @@
-macDetailCallback("141973000000/24",[{"d":"2021-06-11","t":"add","s":"ieee-oui.csv","a":"Room 4046, Building 1, Yard 10, Beiqijia Hongfu, Changping District Beijing  CN 102209","c":"CN","o":"Beijing Yunyi Times Technology Co.,Ltd"}]);

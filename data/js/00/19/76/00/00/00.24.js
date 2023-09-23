@@ -1,1 +1,0 @@
-macDetailCallback("001976000000/24",[{"d":"2006-08-27","t":"add","a":"156 River Road\nWillington CT 06279\n\n","c":"UNITED STATES","o":"Xipher Technologies, LLC"},{"d":"2015-08-27","t":"change","a":"156 River Road Willington CT US 06279","c":"US","o":"Xipher Technologies, LLC"}]);

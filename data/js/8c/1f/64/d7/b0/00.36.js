@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64d7b000/36",[{"d":"2023-07-25","t":"add","s":"ieee-oui36.csv","a":"room202, 260, Changnyong-daero, Yeongtong-gu Suwon-si Gyeonggi-do KR 16229","c":"KR","o":"Global Design Solutions Korea"}]);

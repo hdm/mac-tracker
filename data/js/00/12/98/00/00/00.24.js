@@ -1,1 +1,0 @@
-macDetailCallback("001298000000/24",[{"d":"2004-10-16","t":"add","a":"21/F Block A, Hailrun Complex, 6021 ShenNan Blvd., ShenZhen, PR China.\nSHENZHEN GUANGDONG 518040\n\n","c":"CHINA","o":"MICO ELECTRIC(SHENZHEN) LIMITED","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"SHENZHEN GUANGDONG CN 518040","c":"CN","o":"MICO ELECTRIC(SHENZHEN) LIMITED"}]);

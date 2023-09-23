@@ -1,1 +1,0 @@
-macDetailCallback("b8d812400000/28",[{"a":"5F., No.7, Lixing 3rd Rd., East Dist., Hsinchu City 30078, Taiwan (R.O.C.) HsinChu Taiwan TW 30078","o":"V5 Technology Corporation","d":"2015-10-16","t":"add","s":"ieee","c":"TW"}]);

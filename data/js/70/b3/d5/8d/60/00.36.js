@@ -1,1 +1,0 @@
-macDetailCallback("70b3d58d6000/36",[{"d":"2021-02-21","t":"add","s":"ieee-oui36.csv","a":"Room 02, 102-1 / F, building 32, yard 69, Yanfu Road, Fangshan District Beijing Beijing CN 102488","c":"CN","o":"Beijing Xiansheng Technology Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0019b9000000/24",[{"d":"2006-09-25","t":"add","a":"One Dell Way\nMS 8545\nRound Rock TX 78682\n","c":"UNITED STATES","o":"Dell Inc."},{"d":"2015-08-27","t":"change","a":"One Dell Way Round Rock TX US 78682","c":"US","o":"Dell Inc."}]);

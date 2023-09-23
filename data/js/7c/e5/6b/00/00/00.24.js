@@ -1,1 +1,0 @@
-macDetailCallback("7ce56b000000/24",[{"d":"2013-06-12","t":"add","a":"Houcheng Yuanjiaqiao ,Jingang Town\nZhangjiagang Jiangsu 215631\n\n","c":"CHINA","o":"ESEN Optoelectronics Technology Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"Houcheng Yuanjiaqiao ,Jingang Town Zhangjiagang Jiangsu CN 215631","c":"CN","o":"ESEN Optoelectronics Technology Co.,Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001d6f000000/24",[{"d":"2007-08-18","t":"add","a":"Chainzone Tech. Ind Park, Nanxin 1st Rd.\nGuicheng Nanhai\nFoshan Guangdong 528200\n","c":"CHINA","o":"Chainzone Technology Co., Ltd"},{"d":"2015-08-27","t":"change","a":"Chainzone Tech. Ind Park, Nanxin 1st Rd. Foshan Guangdong CN 528200","c":"CN","o":"Chainzone Technology Co., Ltd"}]);

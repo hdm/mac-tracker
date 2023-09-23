@@ -1,1 +1,0 @@
-macDetailCallback("d02212500000/28",[{"a":"R.709-(2), B Zone, No.668 Eastern Beijing Rd. Shanghai P.R.C Shanghai Shanghai CN 200001","o":"Shanghai Routech Co., Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

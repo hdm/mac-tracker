@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64114000/36",[{"d":"2023-08-05","t":"add","s":"ieee-oui36.csv","a":"?Israel Medical Systems Ltd. P.O.Box 102, Industrial zone, Ma'alot 24952 Maalot Israel IL 24952","c":"IL","o":"Sanmina SCI Medical"}]);

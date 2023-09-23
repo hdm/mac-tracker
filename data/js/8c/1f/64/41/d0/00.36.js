@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6441d000/36",[{"d":"2021-10-09","t":"add","s":"ieee-oui36.csv","a":"51-10, The Boulevard, Mid Valley City Lingkaran Syed Putra Kuala Lumpur MY 59200","c":"MY","o":"Aspen Spectra Sdn Bhd"}]);

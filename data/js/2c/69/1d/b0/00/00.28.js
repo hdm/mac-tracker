@@ -1,1 +1,0 @@
-macDetailCallback("2c691db00000/28",[{"d":"2022-05-20","t":"add","s":"ieee-mam.csv","a":"Room 401, No. 5, Jiayi Industrial Park, Guihua Community, Guanlan Street, Longhua District, Shenzhen Shenzhen Guangdong CN 518109","c":"CN","o":"Shenzhen Daren HI-Tech Electronics Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000fba000000/24",[{"d":"2004-03-17","t":"add","a":"Berglinds vag 13\nwarmdo  S-13900\n\n","c":"SWEDEN","o":"Tevebox AB","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Berglinds vag 13 warmdo  SE S-13900","c":"SE","o":"Tevebox AB"}]);

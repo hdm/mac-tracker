@@ -1,1 +1,0 @@
-macDetailCallback("5ceb68000000/24",[{"d":"2015-02-04","t":"add","a":"5th Floor,Hongye Industrial Park,\nLe Chuk Kok village,West Township, BaoAn\nShenZhen GuangDong 518006\n","c":"CHINA","o":"Cheerstar Technology Co., Ltd"},{"d":"2015-08-27","t":"change","a":"5th Floor,Hongye Industrial Park, ShenZhen GuangDong CN 518006","c":"CN","o":"Cheerstar Technology Co., Ltd"}]);

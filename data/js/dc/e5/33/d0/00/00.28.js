@@ -1,1 +1,0 @@
-macDetailCallback("dce533d00000/28",[{"a":"NO.2 aimin road,Xiangcheng district  Suzhou city Jiangsu Province CN 215002","o":"Suzhou ATES electronic technology co.LTD","d":"2017-11-12","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("303d08000000/24",[{"d":"2012-08-31","t":"add","a":"Beloura Office Park, Ed.10\nQuinta da Beloura\nSintra  2710-693\n","c":"PORTUGAL","o":"GLINTT TES S.A."},{"d":"2015-08-27","t":"change","a":"Beloura Office Park, Ed.10 Sintra  PT 2710-693","c":"PT","o":"GLINTT TES S.A."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("189ba5e00000/28",[{"a":"No.36, Huaya 1st Rd., Guishan Dist., Taoyuan City 33383, Taiwan Taoyuan City Taiwan CN 33383","o":"Taiwan Name Plate Co.,LTD","d":"2017-05-28","t":"add","s":"ieee","c":"CN"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001b02000000/24",[{"d":"2007-01-06","t":"add","a":"517-15 SangDaeWon-Dong\nSeongNam-City GyeongGi-Do 462-806\n\n","c":"KOREA, REPUBLIC OF","o":"ED Co.Ltd"},{"d":"2015-08-27","t":"change","a":"517-15 SangDaeWon-Dong SeongNam-City GyeongGi-Do KR 462-806","c":"KR","o":"ED Co.Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("fcc23d000000/24",[{"d":"2011-06-21","t":"add","a":"1150 E Cheyenne Mtn Blvd\nColorado Springs CO 80906\n\n","c":"UNITED STATES","o":"Atmel Corporation"},{"d":"2015-08-27","t":"change","a":"1150 E Cheyenne Mtn Blvd Colorado Springs CO US 80906","c":"US","o":"Atmel Corporation"}]);

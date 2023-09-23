@@ -1,1 +1,0 @@
-macDetailCallback("a89008000000/24",[{"d":"2014-11-15","t":"add","a":"Room 1601, Floor 16\nTian Zuo International Tower\nZhongGuanCun South Street Beijing 100000\n","c":"CHINA","o":"Beijing Yuecheng Technology Co. Ltd."},{"d":"2015-08-27","t":"change","a":"Room 1601, Floor 16 Beijing Beijing CN 100000","c":"CN","o":"Beijing Yuecheng Technology Co. Ltd."}]);

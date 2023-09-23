@@ -1,1 +1,0 @@
-macDetailCallback("8c593c000000/28",[{"d":"2019-04-09","t":"add","s":"ieee-mam.csv","a":"Chaozhi Group, 13th Floor, Zhongqing Building, Haixi Science and Technology Park, Shangjie Town, Minhou County Fuzhou Fujian CN 350000","c":"CN","o":"Fujian Chaozhi Group Co., Ltd."}]);

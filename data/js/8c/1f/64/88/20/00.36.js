@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64882000/36",[{"d":"2022-10-15","t":"add","s":"ieee-oui36.csv","a":"Rm. E, 3F., No. 3, Yuandong Rd., Banqiao Dist.,  New Taipei City 220,   TW 220","c":"TW","o":"TMY TECHNOLOGY INC."}]);

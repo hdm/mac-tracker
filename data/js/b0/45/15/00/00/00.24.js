@@ -1,1 +1,0 @@
-macDetailCallback("b04515000000/24",[{"d":"2014-06-19","t":"add","a":"1925 West Field Court Suite100\nLake Forest IL 60045\n\n","c":"UNITED STATES","o":"mira fitness,LLC."},{"d":"2015-08-27","t":"change","a":"1925 West Field Court Suite100 Lake Forest IL US 60045","c":"US","o":"mira fitness,LLC."}]);

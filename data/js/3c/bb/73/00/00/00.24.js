@@ -1,1 +1,0 @@
-macDetailCallback("3cbb73000000/24",[{"d":"2015-09-30","t":"add","a":"F17A, JinSong Building, Tairan Industrial & Trade Park, Chegongmiao, Shennan Road，Futian District Shenzhen Guangdong CN 518040","c":"CN","o":"Shenzhen Xinguodu Technology Co., Ltd."}]);

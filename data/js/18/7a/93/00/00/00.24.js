@@ -1,1 +1,0 @@
-macDetailCallback("187a93000000/24",[{"d":"2012-10-27","t":"add","a":"Room A3, 1F., No.1, Lixing 1st Rd\nScience-Based Industrial Park\nHsinchu  30078\n","c":"TAIWAN, PROVINCE OF CHINA","o":"AMICCOM Electronics Corporation"},{"d":"2015-08-27","t":"change","a":"Room A3, 1F., No.1, Lixing 1st Rd Hsinchu  TW 30078","c":"TW","o":"AMICCOM Electronics Corporation"}]);

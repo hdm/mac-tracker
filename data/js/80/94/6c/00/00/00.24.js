@@ -1,1 +1,0 @@
-macDetailCallback("80946c000000/24",[{"d":"2011-09-29","t":"add","a":"15-7 Nishikubo-cho\nHodogaya-ku, Yokohama-shi Kanagawa 240-0022\n\n","c":"JAPAN","o":"TOKYO RADAR CORPORATION"},{"d":"2015-08-27","t":"change","a":"15-7 Nishikubo-cho Hodogaya-ku, Yokohama-shi Kanagawa JP 240-0022","c":"JP","o":"TOKYO RADAR CORPORATION"}]);

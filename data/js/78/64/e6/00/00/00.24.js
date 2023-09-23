@@ -1,1 +1,0 @@
-macDetailCallback("7864e6000000/24",[{"d":"2015-11-24","t":"add","a":"Room 1106,11 Floor，The XinYuan Square, No 418 Gui ping Road shanghai shanghai CN 20233","c":"CN","o":"Green Motive Technology Limited"}]);

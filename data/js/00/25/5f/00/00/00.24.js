@@ -1,1 +1,0 @@
-macDetailCallback("00255f000000/24",[{"d":"2009-03-01","t":"add","a":"Ringstrasse 39\nTherwil  4106\n\n","c":"SWITZERLAND","o":"SenTec AG","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Ringstrasse 39 Therwil  CH 4106","c":"CH","o":"SenTec AG"}]);

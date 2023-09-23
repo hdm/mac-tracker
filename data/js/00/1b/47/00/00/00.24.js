@@ -1,1 +1,0 @@
-macDetailCallback("001b47000000/24",[{"d":"2007-02-09","t":"add","a":"Aagade 15B\nAalborg  9000\n\n","c":"DENMARK","o":"Futarque A/S"},{"d":"2015-08-27","t":"change","a":"Aagade 15B Aalborg  DK 9000","c":"DK","o":"Futarque A/S"}]);

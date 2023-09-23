@@ -1,1 +1,0 @@
-macDetailCallback("00139e000000/24",[{"d":"2005-02-06","t":"add","a":"9300 Trans Canada Highway\nSaint-Laurent Quebec H4S 1K5\n\n","c":"CANADA","o":"Ciara Technologies Inc."},{"d":"2015-08-27","t":"change","a":"9300 Trans Canada Highway Saint-Laurent Quebec CA H4S 1K5","c":"CA","o":"Ciara Technologies Inc."}]);

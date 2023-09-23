@@ -1,1 +1,0 @@
-macDetailCallback("802afa000000/24",[{"d":"2012-04-24","t":"add","a":"Dr.-Kurt-Schumacher-Ring 3\nWettstetten Bayern 85139\n\n","c":"GERMANY","o":"Germaneers GmbH"},{"d":"2015-08-27","t":"change","a":"Dr.-Kurt-Schumacher-Ring 3 Wettstetten Bayern DE 85139","c":"DE","o":"Germaneers GmbH"}]);

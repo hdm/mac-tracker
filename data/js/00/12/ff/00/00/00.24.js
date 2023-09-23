@@ -1,1 +1,0 @@
-macDetailCallback("0012ff000000/24",[{"d":"2004-12-11","t":"add","a":"Weverskade 110\nMaassluis Zuid-Holland 3147PA\n\n","c":"NETHERLANDS","o":"Lely Industries N.V."},{"d":"2015-08-27","t":"change","a":"Weverskade 110 Maassluis Zuid-Holland NL 3147PA","c":"NL","o":"Lely Industries N.V."}]);

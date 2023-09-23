@@ -1,1 +1,0 @@
-macDetailCallback("005218000000/24",[{"d":"2010-01-13","t":"add","a":"No.155 Chunhui Road, Xishan District,\nWuxi Jiangsu 214101\n\n","c":"CHINA","o":"Wuxi Keboda Electron Co.Ltd"},{"d":"2015-08-27","t":"change","a":"No.155 Chunhui Road, Xishan District,  Wuxi Jiangsu CN 214101","c":"CN","o":"Wuxi Keboda Electron Co.Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("bc6641900000/28",[{"a":"4th Floor, No.6 Block Science&Technologt Industrial Park of Privately Owned Enterprises Shenzhen Guangdong CN 518000","o":"Shenzhen General Measure Technology Co., Ltd","d":"2015-10-16","t":"add","s":"ieee","c":"CN"}]);

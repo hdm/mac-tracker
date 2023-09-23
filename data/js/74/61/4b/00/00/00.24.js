@@ -1,1 +1,0 @@
-macDetailCallback("74614b000000/24",[{"d":"2016-09-22","t":"add","a":"Yubei District Longxi Street Hongjin Road No. 498, building  Jialeziguang No.1 12-12, 12-13, 12-13, 12-14, 12-15 Chongqing Chongqing City CN 401120","c":"CN","o":"Chongqing Huijiatong Information Technology Co., Ltd."}]);

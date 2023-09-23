@@ -1,1 +1,0 @@
-macDetailCallback("002134000000/24",[{"d":"2008-04-14","t":"add","a":"1153 Warner Ave\nTustin CA 92780\n\n","c":"UNITED STATES","o":"Brandywine Communications","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1153 Warner Ave Tustin CA US 92780","c":"US","o":"Brandywine Communications"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("0c5cb5000000/28",[{"d":"2021-01-30","t":"add","s":"ieee-mam.csv","a":"2F., No. 37, Ln. 11, Sec. 6, Minquan E. Rd., Neihu Dist. Taipei Taiwan (R.O.C.) TW 114","c":"TW","o":"Yamasei"}]);

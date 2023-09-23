@@ -1,1 +1,0 @@
-macDetailCallback("f8b568200000/28",[{"a":"Room20A, 20th Floor, HSAE Technology Building, Nanshan District,  Shenzhen  CN 518000","o":"Shenzhen New-Bund Technology Co., Ltd.","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);

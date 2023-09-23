@@ -1,1 +1,0 @@
-macDetailCallback("0014f0000000/24",[{"d":"2005-06-17","t":"add","a":"Box 110 65\nStora Raby Byavag 88\nLund  220 11\n","c":"SWEDEN","o":"Business Security OL AB"},{"d":"2015-08-27","t":"change","a":"Box 110 65 Lund  SE 220 11","c":"SE","o":"Business Security OL AB"}]);

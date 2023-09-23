@@ -1,1 +1,0 @@
-macDetailCallback("000d62000000/24",[{"d":"2003-06-01","t":"add","a":"Maerkische Strasse\nDabendorf Brandenburg 15806\n\n","c":"GERMANY","o":"Funkwerk Dabendorf GmbH"},{"d":"2015-08-27","t":"change","a":"Maerkische Strasse Dabendorf Brandenburg DE 15806","c":"DE","o":"Funkwerk Dabendorf GmbH"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("883cc5500000/28",[{"d":"2022-06-04","t":"add","s":"ieee-mam.csv","a":"4F, Building (5), No. 8, Hangyi Road, Fengxian District, Shanghai Shanghai  CN 201499","c":"CN","o":"Shanghai Ucan Automation Equipment Co., Ltd."}]);

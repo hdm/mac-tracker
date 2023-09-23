@@ -1,1 +1,0 @@
-macDetailCallback("043385000000/24",[{"a":"Room 319, Jiaoqiao Town Office Building, Economic and Technical development zone, Nanchang City, Jiangxi Province. Nanchang  CN 330013","o":"Nanchang BlackShark Co.,Ltd.","d":"2018-08-12","t":"add","s":"ieee","c":"CN"}]);

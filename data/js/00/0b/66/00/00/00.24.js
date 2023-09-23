@@ -1,1 +1,0 @@
-macDetailCallback("000b66000000/24",[{"d":"2002-10-14","t":"add","a":"Capital Tower 15F,\n931 Doonsan-dong, Seo-gu\nDaejeon  302120\n","c":"KOREA, REPUBLIC OF","o":"Teralink Communications"},{"d":"2015-08-27","t":"change","a":"Capital Tower 15F, Daejeon  KR 302120","c":"KR","o":"Teralink Communications"}]);

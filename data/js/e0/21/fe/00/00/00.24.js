@@ -1,1 +1,0 @@
-macDetailCallback("e021fe000000/24",[{"d":"2023-04-11","t":"add","s":"ieee-oui.csv","a":"1001, Building 3, Chongwen Park, Nanshan ZhiYuan, Liuxian Avenue, Nanshan District, Shenzhen City, China. ShenZhen Guangdong CN 518000","c":"CN","o":"Richer Link Technologies CO.,LTD"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00249f000000/24",[{"d":"2008-12-07","t":"add","a":"440 Phillip Street\nWaterloo Ontario N2L 5R9\n\n","c":"CANADA","o":"RIM Testing Services","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"440 Phillip Street Waterloo Ontario CA N2L 5R9","c":"CA","o":"RIM Testing Services"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("70b3d52da000/36",[{"a":"Achyut Mansion,H.No 7-1-621/48,Flat No 201,Above Sindhu Travels, Hyderabad Andhra Pradesh IN 500038","o":"Skywave Networks Private Limited","d":"2014-04-06","t":"add","s":"ieee","c":"IN"}]);

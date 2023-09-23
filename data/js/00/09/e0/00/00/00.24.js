@@ -1,1 +1,0 @@
-macDetailCallback("0009e0000000/24",[{"d":"2002-06-05","t":"add","a":"Rue de la Maladiere 71\nCH-2007 Neuchatel Neuchatel 2007\n\n","c":"SWITZERLAND","o":"XEMICS S.A."},{"d":"2015-08-27","t":"change","a":"Rue de la Maladiere 71 CH-2007 Neuchatel Neuchatel CH 2007","c":"CH","o":"XEMICS S.A."}]);

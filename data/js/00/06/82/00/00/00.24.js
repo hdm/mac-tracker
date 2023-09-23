@@ -1,1 +1,0 @@
-macDetailCallback("000682000000/24",[{"d":"2001-06-04","t":"add","a":"4190 Still Creek Dr.\nVancouver B.C.\n\n","c":"Canada V5C 6C6","o":"Convedia"},{"d":"2001-12-14","t":"change","a":"4190 Still Creek Dr.\nVancouver B.C.\nV5C 6C6\n","c":"CANADA","o":"Convedia"},{"d":"2015-08-27","t":"change","a":"4190 Still Creek Dr.   CA V5C 6C6","c":"CA","o":"Convedia"}]);

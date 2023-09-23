@@ -1,1 +1,0 @@
-macDetailCallback("603fc5000000/24",[{"d":"2011-07-06","t":"add","a":"904HO, ACE TWIN TOWER 1-CHA\n212-1 GURO-DONG, GURO-GU\nSEOUL  152-779\n","c":"KOREA, REPUBLIC OF","o":"COX CO., LTD"},{"d":"2015-08-27","t":"change","a":"904HO, ACE TWIN TOWER 1-CHA SEOUL  KR 152-779","c":"KR","o":"COX CO., LTD"}]);

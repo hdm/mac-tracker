@@ -1,1 +1,0 @@
-macDetailCallback("002521000000/24",[{"d":"2009-02-08","t":"add","a":"5622 Edgemoor Drive\nHouston Texas 77081\n\n","c":"UNITED STATES","o":"Logitek Electronic Systems, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5622 Edgemoor Drive Houston Texas US 77081","c":"US","o":"Logitek Electronic Systems, Inc."}]);

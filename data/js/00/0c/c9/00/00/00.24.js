@@ -1,1 +1,0 @@
-macDetailCallback("000cc9000000/24",[{"d":"2003-04-08","t":"add","a":"1475-10,HWA HYUN BLD. 2nd Floor,\nSEOCHO-DONG,SEOCHO-GU,\nSEOUL  137-071\n","c":"KOREA, REPUBLIC OF","o":"ILWOO DATA & TECHNOLOGY CO.,LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1475-10,HWA HYUN BLD. 2nd Floor, SEOUL  KR 137-071","c":"KR","o":"ILWOO DATA & TECHNOLOGY CO.,LTD"}]);

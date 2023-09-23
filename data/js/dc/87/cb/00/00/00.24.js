@@ -1,1 +1,0 @@
-macDetailCallback("dc87cb000000/24",[{"d":"2021-02-07","t":"add","s":"ieee-oui.csv","a":"A-17, No. 101, 6F, Building 24, No. 68, Beiqing Road, Haidian District Beijing Beijing CN 100094","c":"CN","o":"Beijing Perfectek Technologies Co., Ltd."}]);

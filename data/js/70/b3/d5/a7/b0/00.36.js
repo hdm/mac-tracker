@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5a7b000/36",[{"d":"2018-11-15","t":"add","s":"ieee-oui36.csv","a":"Avenida das Américas 3301 Bloco 01 Lojas 102/110 Rio de Janeiro RJ BR 22631-003","c":"BR","o":"SmartSafe"}]);

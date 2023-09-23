@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5aa1000/36",[{"a":"4/F,Building two,YuChang Industrial Park,No.28,Guangda Road,Henggang Street,Longgang,Shenzhen. shenzhen  CN 518000","o":"Shenzhen Weema TV Technology Co.,Ltd.","d":"2016-04-10","t":"add","s":"ieee","c":"CN"}]);

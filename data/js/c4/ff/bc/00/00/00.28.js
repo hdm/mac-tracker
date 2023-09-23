@@ -1,1 +1,0 @@
-macDetailCallback("c4ffbc000000/28",[{"a":"Protonenlaan 24 Uden NB NL 5405 NE","o":"Danego BV","d":"2017-10-29","t":"add","s":"ieee","c":"NE"},{"d":"2023-07-27","t":"change","s":"ieee-mam.csv","a":"Protonenlaan 28 Uden NB NL 5405 NE","c":"NE","o":"Danego BV"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64408000/36",[{"d":"2023-01-31","t":"add","s":"ieee-oui36.csv","a":"716ho, SKV1 AP Tower\n16, Gasan digital 1-ro, Geumcheon-gu seoul  KR 08591","c":"KR","o":"techone system"}]);

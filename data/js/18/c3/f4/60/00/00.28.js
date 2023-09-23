@@ -1,1 +1,0 @@
-macDetailCallback("18c3f4600000/28",[{"d":"2022-06-01","t":"add","s":"ieee-mam.csv","a":"Ine.2nd  Floor,No 39,Region  C,Tongpan Road,Gulou District Fuzhou Fujian CN 350000","c":"CN","o":"VeriFone Systems (China), Inc."}]);

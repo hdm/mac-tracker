@@ -1,1 +1,0 @@
-macDetailCallback("c4d489000000/24",[{"d":"2010-09-17","t":"add","a":"10  Floor YaHua Building, Xi'anBei Road,\nXuzhou JiangSu 221006\n\n","c":"CHINA","o":"JiangSu Joyque Information Industry Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"10  Floor YaHua Building, Xi'anBei Road, Xuzhou JiangSu CN 221006","c":"CN","o":"JiangSu Joyque Information Industry Co.,Ltd"}]);

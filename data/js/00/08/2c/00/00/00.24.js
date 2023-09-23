@@ -1,1 +1,0 @@
-macDetailCallback("00082c000000/24",[{"d":"2001-12-14","t":"add","a":"Abt. Est., Homag Str. 3-5\nD-72296 Schopfloch\n\n","c":"GERMANY","o":"Homag AG"},{"d":"2015-08-27","t":"change","a":"Abt. Ess-Mp., Homag Str. 3-5   DE","c":"DE","o":"Homag AG"}]);

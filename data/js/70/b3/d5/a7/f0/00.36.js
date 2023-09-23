@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5a7f000/36",[{"d":"2019-12-04","t":"add","s":"ieee-oui36.csv","a":"PLOT NO.180 PHASE V SECTOR56, HSIIDC I.E KUNDLI SONEPAT SONEPAT HARYANA IN 131028","c":"IN","o":"AUDIO VISUAL DIGITAL SYSTEMS"}]);

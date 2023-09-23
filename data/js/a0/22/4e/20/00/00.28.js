@@ -1,1 +1,0 @@
-macDetailCallback("a0224e200000/28",[{"d":"2019-10-03","t":"add","s":"ieee-mam.csv","a":"B.Novodmitrovskaya Street, house 12, building 15 Moscow  RU 127015","c":"RU","o":"Closed Joint-Stock Company \"NORSI-TRANS\""}]);

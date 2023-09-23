@@ -1,1 +1,0 @@
-macDetailCallback("b47d76000000/24",[{"d":"2022-02-24","t":"add","s":"ieee-oui.csv","a":"Room 4, Office IV, Floor 4 Rochdelskaya street, 15, b.15 Moscow, 123376 Russia Moscow  RU 123376","c":"RU","o":"KNS Group LLC"}]);

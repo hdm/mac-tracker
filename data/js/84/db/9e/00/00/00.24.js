@@ -1,1 +1,0 @@
-macDetailCallback("84db9e000000/24",[{"d":"2017-11-07","t":"add","a":"Postbox 2005 Stockholm  SE 10311","c":"SE","o":"Aifloo AB"},{"d":"2020-11-14","t":"change","s":"ieee-oui.csv","a":"Munkbron 11 Stockholm  SE 111 28","c":"SE","o":"Pink Nectarine Health AB"}]);

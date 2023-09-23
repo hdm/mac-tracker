@@ -1,1 +1,0 @@
-macDetailCallback("70b3d549d000/36",[{"d":"2019-07-23","t":"add","s":"ieee-oui36.csv","a":"Room 432, Block A,CMEC Plaza, Buji Road 1028 Shenzhen Guangdong CN 518001","c":"CN","o":"Shenzhen Chanslink Network Technology Co., Ltd"}]);

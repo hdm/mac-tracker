@@ -1,1 +1,0 @@
-macDetailCallback("002616000000/24",[{"d":"2009-05-03","t":"add","a":"8200 Market Boulevard\nChanhassen MN 55317\n\n","c":"UNITED STATES","o":"Rosemount Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"8200 Market Boulevard Chanhassen MN US 55317","c":"US","o":"Rosemount Inc."}]);

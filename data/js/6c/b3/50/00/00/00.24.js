@@ -1,1 +1,0 @@
-macDetailCallback("6cb350000000/24",[{"d":"2013-05-14","t":"add","a":"B6,717 Zhongshan South Road\nWuhu Anhui 241000\n\n","c":"CHINA","o":"Anhui comhigher tech co.,ltd"},{"d":"2015-08-27","t":"change","a":"B6,717 Zhongshan South Road Wuhu Anhui CN 241000","c":"CN","o":"Anhui comhigher tech co.,ltd"}]);

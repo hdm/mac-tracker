@@ -1,1 +1,0 @@
-macDetailCallback("3c912b000000/24",[{"d":"2014-10-29","t":"add","a":"1735 Technology Dr Suite 520\nSan Jose CA 95110\n\n","c":"UNITED STATES","o":"Vexata Inc"},{"d":"2015-08-27","t":"change","a":"1735 Technology Dr Suite 520 San Jose CA US 95110","c":"US","o":"Vexata Inc"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00192e000000/24",[{"d":"2006-08-14","t":"add","a":"420 N Bonita Ave\nTucson AZ 85745\n\n","c":"UNITED STATES","o":"Spectral Instruments, Inc.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"420 N Bonita Ave Tucson AZ US 85745","c":"US","o":"Spectral Instruments, Inc."}]);

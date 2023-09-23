@@ -1,1 +1,0 @@
-macDetailCallback("800a06000000/24",[{"d":"2011-12-24","t":"add","a":"60 shimoishida,azabu-cho,\nMiyoshi-shi Aichi-ken 470-0206\n\n","c":"JAPAN","o":"COMTEC co.,ltd"},{"d":"2015-08-27","t":"change","a":"60 shimoishida,azabu-cho, Miyoshi-shi Aichi-ken JP 470-0206","c":"JP","o":"COMTEC co.,ltd"}]);

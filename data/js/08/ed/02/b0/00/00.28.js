@@ -1,1 +1,0 @@
-macDetailCallback("08ed02b00000/28",[{"a":"Rm. 1, 17F., No.104, Sec. 1, Xintai 5th Rd., Xizhi Dist. New Taipei City  TW 22102","o":"Szok Energy and Communication Co., Ltd.","d":"2017-01-22","t":"add","s":"ieee","c":"TW"}]);

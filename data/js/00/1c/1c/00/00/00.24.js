@@ -1,1 +1,0 @@
-macDetailCallback("001c1c000000/24",[{"d":"2007-04-08","t":"add","a":"Ignaz-Koeck-Strasse 19\nVienna  A-1210\n\n","c":"AUSTRIA","o":"Center Communication Systems GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Ignaz-Koeck-Strasse 19 Vienna  AT A-1210","c":"AT","o":"Center Communication Systems GmbH"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("001816000000/24",[{"d":"2006-06-13","t":"add","a":"Cheongdong Building 2F\n1344-29 Seocho dong Seocho ku\nSeoul  137-070\n","c":"KOREA, REPUBLIC OF","o":"Ubixon Co., Ltd."},{"d":"2015-08-27","t":"change","a":"Cheongdong Building 2F Seoul  KR 137-070","c":"KR","o":"Ubixon Co., Ltd."}]);

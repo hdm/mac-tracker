@@ -1,1 +1,0 @@
-macDetailCallback("ac02ef000000/24",[{"d":"2011-05-21","t":"add","a":"3 rue Broussais\nParis  75014\n\n","c":"FRANCE","o":"Comsis"},{"d":"2015-08-27","t":"change","a":"3 rue Broussais Paris  FR 75014","c":"FR","o":"Comsis"}]);

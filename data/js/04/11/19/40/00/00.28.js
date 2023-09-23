@@ -1,1 +1,0 @@
-macDetailCallback("041119400000/28",[{"d":"2020-12-19","t":"add","s":"ieee-mam.csv","a":"Rm2327, Building23, No.18 Anningzhuang East Road, Haidian District Bei Jing  CN 100000","c":"CN","o":"Bolicom Innovation Technology (BeiJing) Co.,LTD."}]);

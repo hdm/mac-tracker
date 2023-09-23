@@ -1,1 +1,0 @@
-macDetailCallback("c40049000000/24",[{"d":"2015-08-04","t":"add","a":"100 Enterprise Way\nSTE C250\nScotts Valley CA 95066\n","c":"UNITED STATES","o":"Kamama"},{"d":"2015-08-27","t":"change","a":"100 Enterprise Way Scotts Valley CA US 95066","c":"US","o":"Kamama"}]);

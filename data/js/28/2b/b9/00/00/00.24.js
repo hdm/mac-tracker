@@ -1,1 +1,0 @@
-macDetailCallback("282bb9000000/24",[{"d":"2022-06-04","t":"add","s":"ieee-oui.csv","a":"Room 05, 15th Floor, Yihua Financial Technology Building, 3939 Baishi Road, Binhai Community, Yuehai Street, Nanshan District, Shenzhen China Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Xiongxin Technology Co.,Ltd"}]);

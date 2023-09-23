@@ -1,1 +1,0 @@
-macDetailCallback("70b3d53a3000/36",[{"d":"2020-04-29","t":"add","s":"ieee-oui36.csv","a":"Fukuyoshi-cho Billding 7F, Roppongi 2-2-6 MINATO-KU TOKYO JP 1060032","c":"JP","o":"CDS Institute of Management Strategy, Inc."}]);

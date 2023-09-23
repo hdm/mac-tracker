@@ -1,1 +1,0 @@
-macDetailCallback("dcfad5000000/24",[{"d":"2010-04-24","t":"add","a":"Franz-Josefs-Kai 1\nVienna  1010\n\n","c":"AUSTRIA","o":"STRONG Ges.m.b.H."},{"d":"2015-08-27","t":"change","a":"Franz-Josefs-Kai 1 Vienna  AT 1010","c":"AT","o":"STRONG Ges.m.b.H."}]);

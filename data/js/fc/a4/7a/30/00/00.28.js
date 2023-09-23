@@ -1,1 +1,0 @@
-macDetailCallback("fca47a300000/28",[{"d":"2019-04-25","t":"add","s":"ieee-mam.csv","a":"ROD VICE PREF HERMENEGILDO TONOLI, 2285 ITUPEVA SAO PAULO BR 13295000","c":"BR","o":"Cliptech Industria e Comercio Ltda"}]);

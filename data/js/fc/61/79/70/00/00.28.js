@@ -1,1 +1,0 @@
-macDetailCallback("fc6179700000/28",[{"d":"2022-04-28","t":"add","s":"ieee-mam.csv","a":"2207 Yamuna Building Techno Park Phase 3 Trivandrum Kerala  IN 695583","c":"IN","o":"Kvaliteta Systems and Solutions Private Limited"}]);

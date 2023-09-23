@@ -1,1 +1,0 @@
-macDetailCallback("485a67000000/24",[{"d":"2021-04-21","t":"add","s":"ieee-oui.csv","a":"11th Floor, Building A, Xi 'an National Digital Publishing Base, No. 996, Tiangu 7th Road, Software New City, Xi 'an High-tech Zone, Shaanxi Province Xi’an Shaanxi CN 710000","c":"CN","o":"Shaanxi Ruixun Electronic Information Technology Co., Ltd"}]);

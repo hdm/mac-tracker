@@ -1,1 +1,0 @@
-macDetailCallback("0c8629b00000/28",[{"d":"2022-01-07","t":"add","s":"ieee-mam.csv","a":"Block 5012 Techplace II, #01-05 Ang Mo Kio Avenue 5 Singapore Singapore SG 569876","c":"SG","o":"Akribis Systems"}]);

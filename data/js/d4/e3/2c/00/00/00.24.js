@@ -1,1 +1,0 @@
-macDetailCallback("d4e32c000000/24",[{"d":"2010-11-04","t":"add","a":"Bregstrasse 1\nFurtwangen  D-78120\n\n","c":"GERMANY","o":"S. Siedle & Sohne"},{"d":"2015-08-27","t":"change","a":"Bregstrasse 1 Furtwangen  DE D-78120","c":"DE","o":"S. Siedle & Sohne"}]);

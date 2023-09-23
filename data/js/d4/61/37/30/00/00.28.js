@@ -1,1 +1,0 @@
-macDetailCallback("d46137300000/28",[{"d":"2022-08-26","t":"add","s":"ieee-mam.csv","a":"22F,High-tech Zone Union Tower 63 Xuefu Road Shenzhen China Shenzhen Guangdong CN 518000","c":"CN","o":"APPOTRONICS CO., LTD"}]);

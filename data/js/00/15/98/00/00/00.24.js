@@ -1,1 +1,0 @@
-macDetailCallback("001598000000/24",[{"d":"2005-08-24","t":"add","a":"Vojkova 10\nIdrija  5280\n\n","c":"SLOVENIA","o":"Kolektor group"},{"d":"2015-08-27","t":"change","a":"Vojkova 10 Idrija  SI 5280","c":"SI","o":"Kolektor group"}]);

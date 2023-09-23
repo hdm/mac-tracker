@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6427b000/36",[{"d":"2023-06-20","t":"add","s":"ieee-oui36.csv","a":"5825 N. Sam Houston Pkwy W\nSuite 220 Houston TX 77086 United S Houston TX US 77086","c":"US","o":"Oriux"}]);

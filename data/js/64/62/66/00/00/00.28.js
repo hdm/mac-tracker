@@ -1,1 +1,0 @@
-macDetailCallback("646266000000/28",[{"d":"2019-12-19","t":"add","s":"ieee-mam.csv","a":"1408-1415 Tower A BUGG Building,No.18 N. Taipingzhuang Rd,haidian District Beijing Beijing CN 100000","c":"CN","o":"MiiVii Dynamics Technology CO.,LTD"}]);

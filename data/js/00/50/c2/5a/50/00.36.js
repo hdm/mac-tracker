@@ -1,1 +1,0 @@
-macDetailCallback("0050c25a5000/36",[{"a":"Poligono Malpica G. Quejido, 74 Zaragoza  ES 50007","o":"Equipos de Telecomunicación  Optoelectronicos, S.A.","d":"2008-07-30","t":"add","s":"ieee","c":"ES"}]);

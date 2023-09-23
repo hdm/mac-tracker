@@ -1,1 +1,0 @@
-macDetailCallback("0009c6000000/24",[{"d":"2002-06-05","t":"add","a":"5600 Rowland Road\nSuite 205\nMinnetonka MN 55343\n","c":"UNITED STATES","o":"Visionics Corporation"},{"d":"2015-08-27","t":"change","a":"5600 Rowland Road Minnetonka MN US 55343","c":"US","o":"Visionics Corporation"}]);

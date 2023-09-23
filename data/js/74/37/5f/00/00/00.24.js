@@ -1,1 +1,0 @@
-macDetailCallback("74375f000000/24",[{"d":"2022-04-10","t":"add","s":"ieee-oui.csv","a":"Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City Calamba  PH Lot 1","c":"PH","o":"SERCOMM PHILIPPINES INC"}]);

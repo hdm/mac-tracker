@@ -1,1 +1,0 @@
-macDetailCallback("f80dea000000/24",[{"d":"2013-02-14","t":"add","a":"No.33, Lane 181, Chung Hwa Road,\nSection 4,\nHsin Chu  30060\n","c":"TAIWAN, PROVINCE OF CHINA","o":"ZyCast Technology Inc."},{"d":"2015-08-27","t":"change","a":"No.33, Lane 181, Chung Hwa Road, Hsin Chu  TW 30060","c":"TW","o":"ZyCast Technology Inc."}]);

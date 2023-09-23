@@ -1,1 +1,0 @@
-macDetailCallback("0c7fedd00000/28",[{"d":"2022-04-13","t":"add","s":"ieee-mam.csv","a":"#1201, 8, Seongnam-dearo 331beon-gil Bundang-gu, Seongnam-si Gyeonggi-do KR 13558","c":"KR","o":"ALT Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8c1f64c03000/36",[{"d":"2021-04-25","t":"add","s":"ieee-oui36.csv","a":"34, Pureundeulpan-ro 567 Beon-gil, Paltan-myeon Hwaseong-si Gyeonggi-do KR 18529","c":"KR","o":"Abiman Engineering"}]);

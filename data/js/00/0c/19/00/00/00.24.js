@@ -1,1 +1,0 @@
-macDetailCallback("000c19000000/24",[{"d":"2003-01-21","t":"add","a":"Elbchaussee 1\nHamburg  22765\n\n","c":"GERMANY","o":"Telio Communications GmbH","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Elbchaussee 1 Hamburg  DE 22765","c":"DE","o":"Telio Communications GmbH"}]);

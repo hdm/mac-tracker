@@ -1,1 +1,0 @@
-macDetailCallback("ec9f0d900000/28",[{"a":"B-7F,Silicon Park, 35, Pangyo-ro 255 beon-gil,Bundang-gu Seongnam si Gyeonggi-do. KOREA KR 13486","o":"FCI","d":"2017-08-06","t":"add","s":"ieee","c":"KR"}]);

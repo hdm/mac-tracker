@@ -1,1 +1,0 @@
-macDetailCallback("1874e2b00000/28",[{"d":"2021-04-02","t":"add","s":"ieee-mam.csv","a":"Area B, Floor 101-2, Floor 3, Floor 5 and Floor 6 of area B, Building No. 8, Guixiang Community Plaza Road, Guanlan Street, Longhua District, Shenzhen.  Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen Jooan Technology  Co., Ltd"}]);

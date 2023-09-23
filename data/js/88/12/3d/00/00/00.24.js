@@ -1,1 +1,0 @@
-macDetailCallback("88123d000000/24",[{"d":"2019-09-07","t":"add","s":"ieee-oui.csv","a":"Room 201, Building 3, 18 Dongchang Road, Suzhou Industry Park, Suzhou, PRC. Zip Code: 215000 Suzhou  CN 215000","c":"CN","o":"Suzhou Aquila Solutions Inc."}]);

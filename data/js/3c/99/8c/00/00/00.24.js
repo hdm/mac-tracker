@@ -1,1 +1,0 @@
-macDetailCallback("3c998c000000/24",[{"d":"2022-11-11","t":"add","s":"ieee-oui.csv","a":"4F Matubara Building  3-22-14 Shibuyaku Higashi Tokyo  JP 150-0011","c":"JP","o":"Houwa System Design Corp."}]);

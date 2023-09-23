@@ -1,1 +1,0 @@
-macDetailCallback("44ce3a000000/24",[{"d":"2020-08-16","t":"add","s":"ieee-oui.csv","a":"C4, 9th Floor, 266 New Century Avenue, Tongzhou District Nantong City Jiangsu Province CN 226300","c":"CN","o":"Jiangsu Huacun Electronic Technology Co., Ltd."}]);

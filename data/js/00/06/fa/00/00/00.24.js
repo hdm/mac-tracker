@@ -1,1 +1,0 @@
-macDetailCallback("0006fa000000/24",[{"d":"2001-10-24","t":"add","a":"1-9-11, Hakataekihigashi,\nHakata-ku, Fukuoka-shi,\nFukuoka  812-0013\n","c":"JAPAN","o":"IP SQUARE Co, Ltd."},{"d":"2015-08-27","t":"change","a":"1-9-11, Hakataekihigashi, Fukuoka  JP 812-0013","c":"JP","o":"IP SQUARE Co, Ltd."}]);

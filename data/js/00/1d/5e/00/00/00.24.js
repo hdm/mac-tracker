@@ -1,1 +1,0 @@
-macDetailCallback("001d5e000000/24",[{"d":"2007-08-18","t":"add","a":"BONA Bld. 4th Fl., 548-18\nDogok-1Dong, Kangnam-Ku,\nSeoul  135-158\n","c":"KOREA, REPUBLIC OF","o":"COMING MEDIA CORP."},{"d":"2015-08-27","t":"change","a":"BONA Bld. 4th Fl., 548-18 Seoul  KR 135-158","c":"KR","o":"COMING MEDIA CORP."}]);

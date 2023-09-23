@@ -1,1 +1,0 @@
-macDetailCallback("e0382d500000/28",[{"d":"2022-09-15","t":"add","s":"ieee-mam.csv","a":"Room 1402, No. 85, Xiangxue Avenue middle, Huangpu District Guangzhou Guangdong CN 200233","c":"CN","o":"Weishi Intelligent Information Technology (Guangzhou) Co., LTD"}]);

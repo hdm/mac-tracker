@@ -1,1 +1,0 @@
-macDetailCallback("24d13f000000/24",[{"d":"2014-05-20","t":"add","a":"1512, Seoulsup IT Valley,\n77, Seongsuil-ro, Seongdong-gu,\nSeoul 133-822\n","c":"KOREA, REPUBLIC OF","o":"MEXUS CO.,LTD"},{"d":"2015-08-27","t":"change","a":"1512, Seoulsup IT Valley, Seoul Seoul KR 133-822","c":"KR","o":"MEXUS CO.,LTD"}]);

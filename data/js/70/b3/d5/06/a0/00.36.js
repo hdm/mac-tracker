@@ -1,1 +1,0 @@
-macDetailCallback("70b3d506a000/36",[{"d":"2019-09-18","t":"add","s":"ieee-oui36.csv","a":"Room403/410, 2nd Building, No 4 South of Industrial Rd, Songshan Lake industrial Park,  Dongguan  Guangdong CN 523808","c":"CN","o":"Guangdong Centnet Technology Co.,Ltd"}]);

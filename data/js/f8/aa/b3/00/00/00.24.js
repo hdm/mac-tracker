@@ -1,1 +1,0 @@
-macDetailCallback("f8aab3000000/24",[{"d":"2022-08-07","t":"add","s":"ieee-oui.csv","a":"1-3 Bld 1,NO.7 South Jianghui Rd,Binjiang District Hangzhou Zhejiang CN 310051","c":"CN","o":"DESSMANN (China) Machinery & Electronic  Co., Ltd"}]);

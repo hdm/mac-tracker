@@ -1,1 +1,0 @@
-macDetailCallback("9c3583000000/24",[{"d":"2014-05-22","t":"add","a":"2400 N.W. 55th Court.\nFt. Lauderdale FL 33309\n\n","c":"UNITED STATES","o":"Nipro Diagnostics, Inc"},{"d":"2015-08-27","t":"change","a":"2400 N.W. 55th Court. Ft. Lauderdale FL US 33309","c":"US","o":"Nipro Diagnostics, Inc"}]);

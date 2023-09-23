@@ -1,1 +1,0 @@
-macDetailCallback("dcb4c4000000/24",[{"d":"2011-06-18","t":"add","a":"1 Microsoft Way\nRedmond WA 98052\n\n","c":"UNITED STATES","o":"Microsoft XCG"},{"d":"2015-08-27","t":"change","a":"1 Microsoft Way Redmond WA US 98052","c":"US","o":"Microsoft XCG"}]);

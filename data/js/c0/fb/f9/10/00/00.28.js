@@ -1,1 +1,0 @@
-macDetailCallback("c0fbf9100000/28",[{"d":"2021-03-13","t":"add","s":"ieee-mam.csv","a":"2-1-1 Ojima, Koto-ku Tokyo Select Stat JP 136-8535","c":"JP","o":"LIXIL Corporation"},{"d":"2023-03-03","t":"change","s":"ieee-mam.csv","a":"Osaki Garden Tower, 1-1 Nishi-Shinagawa 1-chome, Shinagawa-ku Tokyo  JP 141-0033","c":"JP","o":"LIXIL Corporation"}]);

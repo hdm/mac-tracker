@@ -1,1 +1,0 @@
-macDetailCallback("001a5f000000/24",[{"d":"2006-11-29","t":"add","a":"Snowpolis\nVuokatti Kainuu 88610\n\n","c":"FINLAND","o":"KitWorks.fi Ltd."},{"d":"2015-08-27","t":"change","a":"Snowpolis Vuokatti Kainuu FI 88610","c":"FI","o":"KitWorks.fi Ltd."}]);

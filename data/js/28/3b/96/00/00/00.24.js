@@ -1,1 +1,0 @@
-macDetailCallback("283b96000000/24",[{"d":"2014-01-01","t":"add","a":"Mivtahim 2\nPetah Tikva Israel 4951774\n\n","c":"ISRAEL","o":"Cool Control LTD"},{"d":"2015-08-27","t":"change","a":"Mivtahim 2 Petah Tikva Israel IL 4951774","c":"IL","o":"Cool Control LTD"}]);

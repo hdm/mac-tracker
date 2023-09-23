@@ -1,1 +1,0 @@
-macDetailCallback("1cae3e700000/28",[{"d":"2021-07-28","t":"add","s":"ieee-mam.csv","a":"8F., No. 8, Ln. 47, Sec. 3, Nangang Rd., Nangang Dist., Taipei City  TW 115004","c":"TW","o":"NextDrive Co."}]);

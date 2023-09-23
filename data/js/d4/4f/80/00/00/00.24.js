@@ -1,1 +1,0 @@
-macDetailCallback("d44f80000000/24",[{"d":"2010-12-04","t":"add","a":"Koenigswall 16-18\nRecklinghausen North-Rhine-Westphalia 45657\n\n","c":"GERMANY","o":"Kemper Digital GmbH"},{"d":"2015-08-27","t":"change","a":"Koenigswall 16-18 Recklinghausen North-Rhine-Westphalia DE 45657","c":"DE","o":"Kemper Digital GmbH"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00144e000000/24",[{"d":"2005-04-07","t":"add","a":"36/1, Nakhimovskiy pr-t\nMoscow 117218\n\n","c":"RUSSIAN FEDERATION","o":"SRISA"},{"d":"2015-08-27","t":"change","a":"36/1, Nakhimovskiy pr-t  Moscow RU 117218","c":"RU","o":"SRISA"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8497b8000000/24",[{"d":"2010-06-04","t":"add","a":"15920 Bernardo Center Drive\nSan Diego CA 92127\n\n","c":"UNITED STATES","o":"Memjet Inc."},{"d":"2015-08-27","t":"change","a":"15920 Bernardo Center Drive San Diego CA US 92127","c":"US","o":"Memjet Inc."}]);

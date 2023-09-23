@@ -1,1 +1,0 @@
-macDetailCallback("280c28000000/24",[{"d":"2015-12-08","t":"add","a":"11F.-6, No.251, Fuxing 1st St., Zhubei City, Hsinchu County 302, Taiwan (R.O.C.) Zhubei City  TW 30271","c":"TW","o":"Unigen DataStorage Corporation"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("90cfbe000000/24",[{"d":"2023-04-02","t":"add","s":"ieee-oui.csv","a":"Av. Vereador Jose Diniz\n2280 São Paulo São Paulo BR 04604-003","c":"BR","o":"Enablers Solucoes e Consultoria em Dispositivos"}]);

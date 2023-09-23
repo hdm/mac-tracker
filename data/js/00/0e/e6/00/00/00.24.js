@@ -1,1 +1,0 @@
-macDetailCallback("000ee6000000/24",[{"d":"2003-12-21","t":"add","a":"17 Atirey-Yeda Street\nKfar-Saba  44643\n\n","c":"ISRAEL","o":"Adimos Systems LTD","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"17 Atirey-Yeda Street Kfar-Saba  IL 44643","c":"IL","o":"Adimos Systems LTD"}]);

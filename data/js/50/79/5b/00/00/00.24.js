@@ -1,1 +1,0 @@
-macDetailCallback("50795b000000/24",[{"d":"2011-01-25","t":"add","a":"Cerro Colorado 5240 piso 14\nSantiago Region Metropolitana 8320000\n\n","c":"CHILE","o":"Interexport Telecomunicaciones S.A."},{"d":"2015-08-27","t":"change","a":"Cerro Colorado 5240 piso 14 Santiago Region Metropolitana US 8320000","c":"US","o":"Interexport Telecomunicaciones S.A."}]);

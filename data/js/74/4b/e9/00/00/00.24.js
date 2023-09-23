@@ -1,1 +1,0 @@
-macDetailCallback("744be9000000/24",[{"d":"2013-04-23","t":"add","a":"7F.-9,NO.112,Xinmin St\nZhonghe Dist\nNew Taipei City  235\n","c":"TAIWAN, PROVINCE OF CHINA","o":"EXPLORER HYPERTECH CO.,LTD"},{"d":"2015-08-27","t":"change","a":"7F.-9,NO.112,Xinmin St New Taipei City  TW 235","c":"TW","o":"EXPLORER HYPERTECH CO.,LTD"}]);

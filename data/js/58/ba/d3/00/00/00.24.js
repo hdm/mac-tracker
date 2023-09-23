@@ -1,1 +1,0 @@
-macDetailCallback("58bad3000000/24",[{"d":"2023-07-27","t":"add","s":"ieee-oui.csv","a":"9 Fl, Bldg. C, Optoelectric Science & Technology Park,  No. 6 Yuhe Road Nanjing Jiangbei New Area CN 211800","c":"CN","o":"NANJING CASELA TECHNOLOGIES CORPORATION LIMITED"}]);

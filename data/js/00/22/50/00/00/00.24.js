@@ -1,1 +1,0 @@
-macDetailCallback("002250000000/24",[{"d":"2008-06-18","t":"add","a":"2333 Alumni Park Plaza\nSuite 305\nLexington KY 40517\n","c":"UNITED STATES","o":"Point Six Wireless, LLC","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2333 Alumni Park Plaza Lexington KY US 40517","c":"US","o":"Point Six Wireless, LLC"}]);

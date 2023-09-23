@@ -1,1 +1,0 @@
-macDetailCallback("8c1f641a5000/36",[{"d":"2022-05-06","t":"add","s":"ieee-oui36.csv","a":"Dialtronics Systems Pvt Ltd, #201, Sirisampada Hitech, Kavuri Hills, Madhapur Hyderabad Telangana IN 500081","c":"IN","o":"DIALTRONICS SYSTEMS PVT LTD"}]);

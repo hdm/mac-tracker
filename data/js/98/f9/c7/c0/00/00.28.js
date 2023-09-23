@@ -1,1 +1,0 @@
-macDetailCallback("98f9c7c00000/28",[{"a":"4F & 6F, Overseas plant south, Skyworth Industrial Park, Shiyan Street, Bao'an  District, Shenzhen Guangdong CN 518101","o":"ShenZhen Chuangwei Electronic Appliance Co.,Ltd","d":"2018-09-07","t":"add","s":"ieee","c":"CN"}]);

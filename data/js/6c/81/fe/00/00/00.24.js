@@ -1,1 +1,0 @@
-macDetailCallback("6c81fe000000/24",[{"d":"2011-01-25","t":"add","a":"1-2681\nHirosawa-cho\nKiryu Gunma 376-8555\n","c":"JAPAN","o":"Mitsuba Corporation"},{"d":"2015-08-27","t":"change","a":"1-2681 Kiryu Gunma JP 376-8555","c":"JP","o":"Mitsuba Corporation"}]);

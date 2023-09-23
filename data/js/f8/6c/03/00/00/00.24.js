@@ -1,1 +1,0 @@
-macDetailCallback("f86c03000000/24",[{"d":"2020-03-18","t":"add","s":"ieee-oui.csv","a":"TOWER B 5/F, SHANSHUI BUILDING, NANSHAN YUNGU INNOVATION INDUSTRY PARK, 1183 LIUXIAN AVENUE, NANSHAN, SHENZHEN, CHINA Shenzhen  CN 518000","c":"CN","o":"Shenzhen Teleone Technology Co., Ltd"}]);

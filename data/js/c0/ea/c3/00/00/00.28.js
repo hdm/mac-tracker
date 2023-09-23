@@ -1,1 +1,0 @@
-macDetailCallback("c0eac3000000/28",[{"d":"2022-11-23","t":"add","s":"ieee-mam.csv","a":"1-2-A33, Building A, No. 111 Bantang Road, Chaohu Economic Development Zone Chaohu  CN 238000","c":"CN","o":"Anhui Shengjiaruiduo Electronic Technology Co., Ltd."}]);

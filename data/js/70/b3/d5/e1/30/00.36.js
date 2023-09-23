@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5e13000/36",[{"d":"2020-11-14","t":"add","s":"ieee-oui36.csv","a":"Room 1902,Block A,Global Fortune Plaza,88 Suhui Road,Suzhou Industrial Park SuZhou Jiangsu CN 215021","c":"CN","o":"Suzhou ZhiCai Co.,Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("f0aca4000000/24",[{"d":"2012-08-07","t":"add","a":"Haller Str. 45-53\nCrailsheim Baden Wurttemberg 74564\n\n","c":"GERMANY","o":"HBC-radiomatic"},{"d":"2015-08-27","t":"change","a":"Haller Str. 45-53 Crailsheim Baden Wurttemberg DE 74564","c":"DE","o":"HBC-radiomatic"}]);

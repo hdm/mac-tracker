@@ -1,1 +1,0 @@
-macDetailCallback("0050c2ef6000/36",[{"a":"Azrieli Circular Tower, 132 Menachem Begin Rd Tel Aviv Israel IL 67021","o":"Netline Communication Technologies","d":"2011-12-11","t":"add","s":"ieee","c":"IL"}]);

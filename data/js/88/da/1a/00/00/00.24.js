@@ -1,1 +1,0 @@
-macDetailCallback("88da1a000000/24",[{"d":"2017-06-09","t":"add","a":"2107, N. First St San Jose CA US 95131-2019","c":"US","o":"Redpine Signals, Inc."},{"d":"2020-08-07","t":"change","s":"ieee-oui.csv","a":"Plot 87, Sagar Society  Hyderabad AP IN 500034","c":"IN","o":"Redpine Signals, Inc."}]);

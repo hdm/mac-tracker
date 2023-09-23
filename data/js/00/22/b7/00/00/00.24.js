@@ -1,1 +1,0 @@
-macDetailCallback("0022b7000000/24",[{"d":"2008-07-19","t":"add","a":"Beutherner Strasse 43\nNuernberg Bayern 90471\n\n","c":"GERMANY","o":"GSS Grundig SAT-Systems GmbH"},{"d":"2015-08-27","t":"change","a":"Beutherner Strasse 43 Nuernberg Bayern DE 90471","c":"DE","o":"GSS Grundig SAT-Systems GmbH"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("708b78000000/24",[{"d":"2010-08-12","t":"add","a":"rm1404, blk A, ,5 - 21 Pak Tin Par Street\nHi-Tech Industrial Centre,\nTsuen Wan\n","c":"HONG KONG","o":"citygrow technology co., ltd"},{"d":"2015-08-27","t":"change","a":"rm1404, blk A, ,5 - 21 Pak Tin Par Street Tsuen Wan  HK","c":"HK","o":"citygrow technology co., ltd"}]);

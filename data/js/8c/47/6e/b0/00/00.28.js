@@ -1,1 +1,0 @@
-macDetailCallback("8c476eb00000/28",[{"d":"2020-10-06","t":"add","s":"ieee-mam.csv","a":"18th unit, No.2, Houman Alley Abbaspour Av.,  Vanak Sq. Tehran IR 1435633413","c":"IR","o":"Faravid Communication&Data Analysis"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("34df2a000000/24",[{"d":"2010-07-29","t":"add","a":"16/F., Tower 1, Grand Central Plaza,138 Shatin Rural\nCommittee Road,Shatin, N.T.,\n523930\n","c":"HONG KONG","o":"Fujikon Industrial Co.,Limited"},{"d":"2015-08-27","t":"change","a":"16/F., Tower 1, Grand Central Plaza,138 Shatin Rural    HK 523930","c":"HK","o":"Fujikon Industrial Co.,Limited"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("00118c000000/24",[{"d":"2004-06-15","t":"add","a":"P.O. Box 270\nJefferson City Missouri 65102\n\n","c":"UNITED STATES","o":"Missouri Department of Transportation"},{"d":"2015-08-27","t":"change","a":"P.O. Box 270 Jefferson City Missouri US 65102","c":"US","o":"Missouri Department of Transportation"}]);

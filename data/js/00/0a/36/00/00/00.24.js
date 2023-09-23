@@ -1,1 +1,0 @@
-macDetailCallback("000a36000000/24",[{"d":"2002-06-05","t":"add","a":"Zone Industrielle\nSaint Sernin sur Rance Aveyron F-12380\n\n","c":"FRANCE","o":"Synelec Telecom Multimedia"},{"d":"2015-08-27","t":"change","a":"Zone Industrielle Saint Sernin sur Rance Aveyron FR F-12380","c":"FR","o":"Synelec Telecom Multimedia"}]);

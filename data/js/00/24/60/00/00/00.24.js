@@ -1,1 +1,0 @@
-macDetailCallback("002460000000/24",[{"d":"2008-11-23","t":"add","a":"58 Bei Si Huan Xi Rd\nIdeal Plaza, Suite 413\nBeijing 100080\n","c":"CHINA","o":"Giaval Science Development Co. Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"58 Bei Si Huan Xi Rd  Beijing CN 100080","c":"CN","o":"Giaval Science Development Co. Ltd."}]);

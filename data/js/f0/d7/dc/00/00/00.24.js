@@ -1,1 +1,0 @@
-macDetailCallback("f0d7dc000000/24",[{"d":"2018-06-12","t":"add","a":"10th Floor, Building 2, SBI Venture Street, Hongshan District Wuhan Hubei CN 430074","c":"CN","o":"Wesine (Wuhan) Technology Co., Ltd."}]);

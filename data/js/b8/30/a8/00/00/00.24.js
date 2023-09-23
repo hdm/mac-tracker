@@ -1,1 +1,0 @@
-macDetailCallback("b830a8000000/24",[{"d":"2013-05-03","t":"add","a":"15th Keren Hayesod St.\nTirat Hacarmel Israel 15223\n\n","c":"ISRAEL","o":"Road-Track Telematics Development"},{"d":"2015-08-27","t":"change","a":"15th Keren Hayesod St. Tirat Hacarmel Israel IL 15223","c":"IL","o":"Road-Track Telematics Development"}]);

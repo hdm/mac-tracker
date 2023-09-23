@@ -1,1 +1,0 @@
-macDetailCallback("002208000000/24",[{"d":"2008-06-18","t":"add","a":"5520 Explorer Drive, 4th Floor\nMississauga ON L4W 5L1\n\n","c":"CANADA","o":"Certicom Corp","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"5520 Explorer Drive, 4th Floor Mississauga ON CA L4W 5L1","c":"CA","o":"Certicom Corp"}]);

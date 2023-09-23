@@ -1,1 +1,0 @@
-macDetailCallback("001f8f000000/24",[{"d":"2008-01-14","t":"add","a":"404-408 Main Bd, FDUSP, No.11 Guotai Rd.\nShanghai  200433\n\n","c":"CHINA","o":"Shanghai Bellmann Digital Source Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"404-408 Main Bd, FDUSP, No.11 Guotai Rd. Shanghai  CN 200433","c":"CN","o":"Shanghai Bellmann Digital Source Co.,Ltd."}]);

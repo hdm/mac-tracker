@@ -1,1 +1,0 @@
-macDetailCallback("001ca7000000/24",[{"d":"2007-05-29","t":"add","a":"2nd Floor, 2, Dai Wang Street,\nTai Po Industrial Estate, Tai Po, N.T.\nHong Kong 852\n","c":"CHINA","o":"International Quartz Limited","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2nd Floor, 2, Dai Wang Street,  Hong Kong CN 852","c":"CN","o":"International Quartz Limited"}]);

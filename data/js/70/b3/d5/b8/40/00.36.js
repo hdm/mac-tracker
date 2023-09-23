@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5b84000/36",[{"d":"2019-07-18","t":"add","s":"ieee-oui36.csv","a":"Komsomolsky avenue, 90-17 Perm Perm Region RU 614010","c":"RU","o":"OOO Research and Production Center \"Computer Technologies\""}]);

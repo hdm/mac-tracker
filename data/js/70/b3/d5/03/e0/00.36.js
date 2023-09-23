@@ -1,1 +1,0 @@
-macDetailCallback("70b3d503e000/36",[{"d":"2019-10-02","t":"add","s":"ieee-oui36.csv","a":"No.127, Jianguo 1st Rd., Lingya Dist.  Kaohsiung City   TW 802","c":"TW","o":"Guan Show Technologe Co., Ltd."}]);

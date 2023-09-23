@@ -1,1 +1,0 @@
-macDetailCallback("5cf286900000/28",[{"a":"3 floor,1Building, No.3 West of ShangXue Science and technology park, Bantian town, LongGang District ShenZhen Guangdong CN 518100","o":"Shenzhen VST Automotive Electronics Co., LTD","d":"2015-12-20","t":"add","s":"ieee","c":"CN"}]);

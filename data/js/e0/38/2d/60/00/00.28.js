@@ -1,1 +1,0 @@
-macDetailCallback("e0382d600000/28",[{"d":"2022-09-21","t":"add","s":"ieee-mam.csv","a":"8F., No. 182, Sec. 2, Dunhua S. Rd., Da’an Dist., Taipei City 106033 , Taiwan (R.O.C.) Taipei City  Da’an Dist., TW 106033","c":"TW","o":"iTracxing"}]);

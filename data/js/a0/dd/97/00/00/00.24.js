@@ -1,1 +1,0 @@
-macDetailCallback("a0dd97000000/24",[{"d":"2012-10-13","t":"add","a":"6FL 352, Zhonghua 1st Rd.\nKaohsiung  804\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"PolarLink Technologies, Ltd"},{"d":"2015-08-27","t":"change","a":"6FL 352, Zhonghua 1st Rd. Kaohsiung 804 Taiwan Kaohsiung Taiwan TW 804","c":"TW","o":"PolarLink Technologies, Ltd"}]);

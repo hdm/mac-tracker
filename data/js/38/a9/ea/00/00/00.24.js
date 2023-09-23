@@ -1,1 +1,0 @@
-macDetailCallback("38a9ea000000/24",[{"d":"2021-08-10","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2022-07-28","t":"change","s":"ieee-oui.csv","a":"FLAT/RM 3A-7 12/F, KAISER CENTRE, NO.18 CENTRE STREET, SAI YING PUN, HK HONGKONG  HK 000000","c":"HK","o":"HK DAPU ELECTRONIC TECHNOLOGY CO., LIMITED"}]);

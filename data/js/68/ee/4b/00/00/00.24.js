@@ -1,1 +1,0 @@
-macDetailCallback("68ee4b000000/24",[{"d":"2022-07-06","t":"add","s":"ieee-oui.csv","a":"Room 1209, 12 / F, Building 1, Yaohua Foundation Building, Shennan Avenue, Futian District Shenzhen Guangdong CN 518040","c":"CN","o":"Sharetronic Data Technology Co.,Ltd"}]);

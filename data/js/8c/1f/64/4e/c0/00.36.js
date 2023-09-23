@@ -1,1 +1,0 @@
-macDetailCallback("8c1f644ec000/36",[{"d":"2021-09-10","t":"add","s":"ieee-oui36.csv","a":"Unit 11-12, Stanhope Gate, Stanhope Rd Camberley Surrey GB GU15 3DW","c":"GB","o":"XOR UK Corporation Limited"}]);

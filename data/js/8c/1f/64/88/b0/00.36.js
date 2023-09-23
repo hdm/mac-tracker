@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6488b000/36",[{"d":"2022-10-07","t":"add","s":"ieee-oui36.csv","a":"10F., NO. 3-2, YUANQU ST., NANGANG DIST., TAIPEI CITY 11503, Taiwan Taipei NANGANG TW 115","c":"TW","o":"Taiwan Aulisa Medical Devices Technologies, Inc"}]);

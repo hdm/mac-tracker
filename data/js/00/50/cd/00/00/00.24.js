@@ -1,1 +1,0 @@
-macDetailCallback("0050cd000000/24",[{"d":"2000-09-08","t":"add","a":"SKALHUSE 5\n9240 NIBE\n\n","c":"DENMARK","o":"DIGIANSWER A/S"},{"d":"2015-08-27","t":"change","a":"SKALHUSE 5   DK","c":"DK","o":"DIGIANSWER A/S"}]);

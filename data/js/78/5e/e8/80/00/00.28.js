@@ -1,1 +1,0 @@
-macDetailCallback("785ee8800000/28",[{"d":"2021-06-30","t":"add","s":"ieee-mam.csv","a":"No.3 Jincheng First Road, Guzhang Industrial Park, Shicheng County, Ganzhou City, Jiangxi Ganzhou   CN 341000","c":"CN","o":"Jiangxi guoxuan radio and television technology Co.,Ltd"}]);

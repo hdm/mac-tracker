@@ -1,1 +1,0 @@
-macDetailCallback("488f4c000000/24",[{"d":"2022-08-17","t":"add","s":"ieee-oui.csv","a":"F/5 Building -E ,Fenda Hight Technology Park,Sanwei Hangcheng Street,Bao'an ,Shenzhen  shenzhen gangdong CN 518101","c":"CN","o":"shenzhen trolink  Technology Co.,Ltd"}]);

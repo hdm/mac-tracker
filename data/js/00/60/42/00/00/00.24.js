@@ -1,1 +1,0 @@
-macDetailCallback("006042000000/24",[{"d":"1998-04-22","t":"add","a":"1201 COMMERCE\nRICHARDSON  TX  75081\n\n","c":"UNITED STATES","o":"TKS (USA), INC."},{"d":"2001-10-24","t":"change","a":"1201 COMMERCE\nRICHARDSON TX 75081\n\n","c":"UNITED STATES","o":"TKS (USA), INC."},{"d":"2015-08-27","t":"change","a":"1201 COMMERCE RICHARDSON TX US 75081","c":"US","o":"TKS (USA), INC."}]);

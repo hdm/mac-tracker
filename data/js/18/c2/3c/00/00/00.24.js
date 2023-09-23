@@ -1,1 +1,0 @@
-macDetailCallback("18c23c000000/24",[{"d":"2021-10-24","t":"add","s":"ieee-oui.csv","a":"8th Floor, JinQi Wisdom Valley, No.1 TangLing Road, LinXian Ave, Taoyuan Residential District,Nanshan District ShenZhen GuangDong CN 518055","c":"CN","o":"Lumi United Technology Co., Ltd"}]);

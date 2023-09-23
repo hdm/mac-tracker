@@ -1,1 +1,0 @@
-macDetailCallback("8c1f645ae000/36",[{"d":"2021-12-08","t":"add","s":"ieee-oui36.csv","a":"No.78 Keling Rd, Building 4, Room 201, SND Suzhou Jiangsu CN 215000","c":"CN","o":"Suzhou Motorcomm Electronic Technology Co., Ltd"}]);

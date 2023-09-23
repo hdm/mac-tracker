@@ -1,1 +1,0 @@
-macDetailCallback("345aba000000/24",[{"d":"2018-04-20","t":"add","a":"Bao'an District, No. 400 Xiangshan Avenue\n\n\n","c":"ShenZhen  GuangDong  518105","o":"tcloud intelligence"},{"d":"2018-04-24","t":"change","a":"Bao'an District, No. 400 Xiangshan Avenue ShenZhen GuangDong CN 518105","c":"CN","o":"tcloud intelligence"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("20b0f7000000/24",[{"d":"2010-05-11","t":"add","a":"Technoparkstrasse 1\nZurich ZH CH-8005\n\n","c":"SWITZERLAND","o":"Enclustra GmbH"},{"d":"2015-08-27","t":"change","a":"Technoparkstrasse 1 Zurich ZH CH CH-8005","c":"CH","o":"Enclustra GmbH"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("bc2392000000/24",[{"d":"2019-06-19","t":"add","s":"ieee-oui.csv","a":"No.3001, Bao He Road, Baolong Industrial, Longgang Street,Longgang Zone, Shenzhen shenzhen  CN 518116","c":"CN","o":"BYD Precision Manufacture Company Ltd."}]);

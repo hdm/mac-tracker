@@ -1,1 +1,0 @@
-macDetailCallback("0009ab000000/24",[{"d":"2002-03-29","t":"add","a":"Karvaamokuja 3\nHelsinki  FIN 00380\n\n","c":"FINLAND","o":"Netcontrol Oy","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Karvaamokuja 3 Helsinki  FI FIN 00380","c":"FI","o":"Netcontrol Oy"}]);

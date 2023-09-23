@@ -1,1 +1,0 @@
-macDetailCallback("0007e5000000/24",[{"d":"2001-10-24","t":"add","a":"1-24-4 Marusen 2nd Bld. 4F,\nHigashi-Ueno, Taito-ku\nTokyo\n","c":"JAPAN","o":"Coup Corporation"},{"d":"2015-08-27","t":"change","a":"1-24-4 Marusen 2nd Bld. 4F, Tokyo  JP","c":"JP","o":"Coup Corporation"}]);

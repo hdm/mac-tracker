@@ -1,1 +1,0 @@
-macDetailCallback("000b59000000/24",[{"d":"2002-10-14","t":"add","a":"5828 Reeds Rd.\nMission Kansas 66202\n\n","c":"UNITED STATES","o":"ScriptPro, LLC"},{"d":"2015-08-27","t":"change","a":"5828 Reeds Rd. Mission Kansas US 66202","c":"US","o":"ScriptPro, LLC"}]);

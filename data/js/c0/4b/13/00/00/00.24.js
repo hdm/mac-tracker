@@ -1,1 +1,0 @@
-macDetailCallback("c04b13000000/24",[{"d":"2021-02-11","t":"add","s":"ieee-oui.csv","a":"10A, Center of Shenmao, News Road 59, Meiling community, Lianhua Street, Futian district Shenzhen  CN 518034","c":"CN","o":"WonderSound Technology Co., Ltd"}]);

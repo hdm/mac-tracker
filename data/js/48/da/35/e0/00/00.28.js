@@ -1,1 +1,0 @@
-macDetailCallback("48da35e00000/28",[{"d":"2023-06-23","t":"add","s":"ieee-mam.csv","a":"3rd Floor, Plot No- 76, Sector- A\n(Above SBI Metropolitan Branch)\nMetropolitan Housing Cooperative Society Ltd\nKolkata - 700105, West Bengal, India Kolkata West Bengal IN 700105","c":"IN","o":"Neps Technologies Private Limited"}]);

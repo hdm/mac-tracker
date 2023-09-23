@@ -1,1 +1,0 @@
-macDetailCallback("00082a000000/24",[{"d":"2001-12-14","t":"add","a":"120-13160 Vanier Place,\nRichmond, BC,\nV6V 2J2\n","c":"CANADA","o":"Powerwallz Network Security"},{"d":"2015-08-27","t":"change","a":"120-13160 Vanier Place,   CA V6V 2J2","c":"CA","o":"Powerwallz Network Security"}]);

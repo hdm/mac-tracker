@@ -1,1 +1,0 @@
-macDetailCallback("f41c71000000/24",[{"d":"2022-05-14","t":"add","s":"ieee-oui.csv","a":"17/F,Block 1A,Software Industry Base, XueFu Road,Nanshan  District, Shenzhen GuangDong CN 518100","c":"CN","o":"SHENZHEN SANMU COMMUNICATION TECHNOLOGY CO., LTD"}]);

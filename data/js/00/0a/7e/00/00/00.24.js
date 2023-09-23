@@ -1,1 +1,0 @@
-macDetailCallback("000a7e000000/24",[{"d":"2002-08-03","t":"add","a":"1610 Des Peres Road\nSuite 370\nSt. Louis MO 63131\n","c":"UNITED STATES","o":"The Advantage Group","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"1610 Des Peres Road St. Louis MO US 63131","c":"US","o":"The Advantage Group"}]);

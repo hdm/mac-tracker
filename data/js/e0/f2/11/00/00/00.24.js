@@ -1,1 +1,0 @@
-macDetailCallback("e0f211000000/24",[{"d":"2011-03-11","t":"add","a":"Via Dante, 18\nRenate Brianza MB 20055\n\n","c":"ITALY","o":"Digitalwatt"},{"d":"2015-08-27","t":"change","a":"Via Dante, 18 Renate Brianza MB IT 20055","c":"IT","o":"Digitalwatt"}]);

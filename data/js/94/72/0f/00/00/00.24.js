@@ -1,1 +1,0 @@
-macDetailCallback("94720f000000/24",[{"d":"2022-09-29","t":"add","s":"ieee-oui.csv","a":"Dongli Section, Highway 324, Chenghai Shantou Guangdong CN 515829","c":"CN","o":"Guangdong Nanguang Photo&Video Systems Co., Ltd."}]);

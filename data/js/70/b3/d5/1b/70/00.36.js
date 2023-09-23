@@ -1,1 +1,0 @@
-macDetailCallback("70b3d51b7000/36",[{"d":"2020-11-07","t":"add","s":"ieee-oui36.csv","a":"9F, No.97, Jingye 1st Road  Zhongshan Dist.,Taipei City 104451 Taiwan Taipei Taipei TW 104451","c":"TW","o":"ULSee Inc"}]);

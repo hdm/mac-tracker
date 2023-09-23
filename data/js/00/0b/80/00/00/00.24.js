@@ -1,1 +1,0 @@
-macDetailCallback("000b80000000/24",[{"d":"2002-10-14","t":"add","a":"","c":null,"o":"PRIVATE"},{"d":"2006-01-03","t":"change","a":"9 Hamenofim St.\nP.O.Box 12256\nHerzliya Israel 46733\n","c":"ISRAEL","o":"Lycium Networks"},{"d":"2015-08-27","t":"change","a":"9 Hamenofim St. Herzliya Israel IL 46733","c":"IL","o":"Lycium Networks"}]);

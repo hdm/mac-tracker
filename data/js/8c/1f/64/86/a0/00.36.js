@@ -1,1 +1,0 @@
-macDetailCallback("8c1f6486a000/36",[{"d":"2022-09-24","t":"add","s":"ieee-oui36.csv","a":"Heinrich-Hertz-Straße 7 Waghäusel Baden-Württemberg DE 68753","c":"DE","o":"VisionTools Bildanalyse Systeme GmbH"}]);

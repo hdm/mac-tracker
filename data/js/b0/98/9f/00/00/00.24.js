@@ -1,1 +1,0 @@
-macDetailCallback("b0989f000000/24",[{"d":"2013-09-25","t":"add","a":"53-94 Jinwisandan-ro, Jinwuy-Myun\nPyungtaek-City Kyunggi-Do 451-862\n\n","c":"KOREA, REPUBLIC OF","o":"LG CNS"},{"d":"2015-08-27","t":"change","a":"53-94 Jinwisandan-ro, Jinwuy-Myun Pyungtaek-City Kyunggi-Do KR 451-862","c":"KR","o":"LG CNS"}]);

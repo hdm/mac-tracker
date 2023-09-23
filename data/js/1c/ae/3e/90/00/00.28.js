@@ -1,1 +1,0 @@
-macDetailCallback("1cae3e900000/28",[{"d":"2021-08-01","t":"add","s":"ieee-mam.csv","a":"Room 405,18 Building,No. 3333, Huaning Street, Minhang District Shanghai  CN 210036","c":"CN","o":"China Convert Technology Co., Ltd."}]);

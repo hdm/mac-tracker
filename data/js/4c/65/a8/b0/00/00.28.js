@@ -1,1 +1,0 @@
-macDetailCallback("4c65a8b00000/28",[{"a":"Room 403-405, Building C, Baoan New Generation Information Technology Industrial Park, No.139, Chuangye 2 Rd., Baoan District ShenZhen GuangDong CN 518101","o":"ZMIN Technologies","d":"2017-03-26","t":"add","s":"ieee","c":"CN"}]);

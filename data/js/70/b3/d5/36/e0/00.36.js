@@ -1,1 +1,0 @@
-macDetailCallback("70b3d536e000/36",[{"d":"2018-10-20","t":"add","s":"ieee-oui36.csv","a":"Polígono Industrial Escopar, Calle E, Nº 1 Peralta Navarra ES 31350","c":"ES","o":"Electrónica Falcón S.A.U"}]);

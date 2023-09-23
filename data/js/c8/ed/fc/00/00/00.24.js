@@ -1,1 +1,0 @@
-macDetailCallback("c8edfc000000/24",[{"d":"2022-10-11","t":"add","s":"ieee-oui.csv","a":"Room 206, Building A2, Hangcheng Park, Xixiang Street, Bao'an District Shenzhen Guangdong CN 518100","c":"CN","o":"Shenzhen Ideaform Industrial Product Design Co., Ltd"}]);

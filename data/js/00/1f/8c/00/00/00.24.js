@@ -1,1 +1,0 @@
-macDetailCallback("001f8c000000/24",[{"d":"2008-01-14","t":"add","a":"Shimodachiuri-agaru\nKarasuma-dori, Kamigyo-ku\nKyoto Kyoto 602-8011\n","c":"JAPAN","o":"CCS Inc."},{"d":"2015-08-27","t":"change","a":"Shimodachiuri-agaru Kyoto Kyoto JP 602-8011","c":"JP","o":"CCS Inc."}]);

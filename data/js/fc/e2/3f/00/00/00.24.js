@@ -1,1 +1,0 @@
-macDetailCallback("fce23f000000/24",[{"d":"2010-03-04","t":"add","a":"Via Pastrengo 3/b\nSeriate Bergamo 24068\n\n","c":"ITALY","o":"CLAY PAKY SPA"},{"d":"2015-08-27","t":"change","a":"Via Pastrengo 3/b Seriate Bergamo IT 24068","c":"IT","o":"CLAY PAKY SPA"}]);

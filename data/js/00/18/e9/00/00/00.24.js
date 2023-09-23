@@ -1,1 +1,0 @@
-macDetailCallback("0018e9000000/24",[{"d":"2006-07-09","t":"add","a":"8-2-39 nanko-higashi\nSuminoe-ku\nOsaka-shi Osaka-fu 559-0031\n","c":"JAPAN","o":"Numata Corporation"},{"d":"2015-08-27","t":"change","a":"8-2-39 nanko-higashi Osaka-shi Osaka-fu JP 559-0031","c":"JP","o":"Numata Corporation"}]);

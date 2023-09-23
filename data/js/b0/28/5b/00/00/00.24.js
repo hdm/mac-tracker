@@ -1,1 +1,0 @@
-macDetailCallback("b0285b000000/24",[{"d":"2022-03-11","t":"add","s":"ieee-oui.csv","a":"No.8,Yanbao Block,Hutian Road,Pingdi Street,Longgang District Shenzhen City Guangdong Province CN 518117","c":"CN","o":"JUHUA Technology Inc."}]);

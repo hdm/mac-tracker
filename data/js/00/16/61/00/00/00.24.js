@@ -1,1 +1,0 @@
-macDetailCallback("001661000000/24",[{"d":"2005-11-06","t":"add","a":"3rd Floor, Temple Towers, #672\nAnna Salai, Nandanam,\nChennai Tamil Nadu 600035\n","c":"INDIA","o":"Novatium Solutions (P) Ltd"},{"d":"2015-08-27","t":"change","a":"3rd Floor, Temple Towers, #672 Chennai Tamil Nadu IN 600035","c":"IN","o":"Novatium Solutions (P) Ltd"}]);

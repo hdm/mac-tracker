@@ -1,1 +1,0 @@
-macDetailCallback("b8ff6f000000/24",[{"d":"2010-09-02","t":"add","a":"Design Building 903, NO.63,\nChiFeng Road,YangPu District,\nShanghai  200092\n","c":"CHINA","o":"Shanghai Typrotech Technology Co.Ltd"},{"d":"2015-08-27","t":"change","a":"Design Building 903, NO.63,  Shanghai  CN 200092","c":"CN","o":"Shanghai Typrotech Technology Co.Ltd"}]);

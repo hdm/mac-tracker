@@ -1,1 +1,0 @@
-macDetailCallback("306112000000/24",[{"d":"2013-05-18","t":"add","a":"Georg-Kaindl-StraÃe 11\nOtterfing  83624\n\n","c":"GERMANY","o":"PAV GmbH"},{"d":"2015-08-27","t":"change","a":"Georg-Kaindl-Straße 11 Otterfing  DE 83624","c":"DE","o":"PAV GmbH"}]);

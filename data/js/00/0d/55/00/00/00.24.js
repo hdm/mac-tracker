@@ -1,1 +1,0 @@
-macDetailCallback("000d55000000/24",[{"d":"2003-06-01","t":"add","a":"6F,Beijing Capital Times Square,88# Xich\nBeijing  100031\n\n","c":"CHINA","o":"SANYCOM Technology Co.,Ltd"},{"d":"2015-08-27","t":"change","a":"6F,Beijing Capital Times Square,88# Xich Beijing  CN 100031","c":"CN","o":"SANYCOM Technology Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5360000/36",[{"a":"Jl.Timor Blok E5, MM2100 Industrial Town Jatiwangi Cikarang Barat Bekasi Jawa Barat ID 17530","o":"PT. Emsonic Indonesia","d":"2018-05-20","t":"add","s":"ieee","c":"ID"}]);

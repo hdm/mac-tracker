@@ -1,1 +1,0 @@
-macDetailCallback("001ead000000/24",[{"d":"2007-11-20","t":"add","a":"6th floor, Unit G, No.668, East Beijing Road,\nShanghai  200001\n\n","c":"CHINA","o":"Wingtech Group Limited","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"6th floor, Unit G, No.668, East Beijing Road, Shanghai  CN 200001","c":"CN","o":"Wingtech Group Limited"}]);

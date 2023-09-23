@@ -1,1 +1,0 @@
-macDetailCallback("e05a9fb00000/28",[{"d":"2018-11-17","t":"add","s":"ieee-mam.csv","a":"Room 1903, Industrial and Research building of Sun Yat-Sen university,no.1, Yuexing 4th road, Yuehai street,Nanshan district Shenzhen Guangdong CN 518057","c":"CN","o":"Shenzhen Rongan Networks Technology Co.,Ltd"}]);

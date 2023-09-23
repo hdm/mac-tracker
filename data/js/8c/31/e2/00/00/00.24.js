@@ -1,1 +1,0 @@
-macDetailCallback("8c31e2000000/24",[{"d":"2020-12-31","t":"add","s":"ieee-oui.csv","a":"3F 509, Dunchon-daero, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea Seongnam-si Gyeonggi-do KR 13217","c":"KR","o":"DAYOUPLUS"}]);

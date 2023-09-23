@@ -1,1 +1,0 @@
-macDetailCallback("980637d00000/28",[{"d":"2019-05-22","t":"add","s":"ieee-mam.csv","a":"Room 201,Huiheng Building,No.12,Gaoxin South 7th Road,Yuehai Steet,Nanshan District Shenzhen Guangdong CN 518000","c":"CN","o":"VR Technology(Shenzhen) Limited"}]);

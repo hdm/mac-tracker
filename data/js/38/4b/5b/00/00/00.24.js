@@ -1,1 +1,0 @@
-macDetailCallback("384b5b000000/24",[{"d":"2019-10-16","t":"add","s":"ieee-oui.csv","a":"12/F,JunZi Plaza, Qiaoxiang Road, Futian District Shenzhen Guangdong CN 518000","c":"CN","o":"ZTRON TECHNOLOGY LIMITED"}]);

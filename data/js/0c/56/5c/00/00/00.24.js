@@ -1,1 +1,0 @@
-macDetailCallback("0c565c000000/24",[{"d":"2012-05-03","t":"add","a":"Unit 1808 18/F Tower 3 Enterprise Square\n9 Sheung Yuet Road\nKowloon Bay\n","c":"HONG KONG","o":"HyBroad Vision (Hong Kong) Technology Co Ltd"},{"d":"2015-08-27","t":"change","a":"Unit 1808 18/F Tower 3 Enterprise Square Kowloon Bay  HK","c":"HK","o":"HyBroad Vision (Hong Kong) Technology Co Ltd"}]);

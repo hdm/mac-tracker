@@ -1,1 +1,0 @@
-macDetailCallback("841e26000000/24",[{"d":"2013-03-21","t":"add","a":"#606,ACE Techno Tower 10,470-5\nGasan-Dong, Geumcheon-gu, Seoul  153-789\n\n","c":"KOREA, REPUBLIC OF","o":"KERNEL-I Co.,LTD"},{"d":"2015-08-27","t":"change","a":"#606,ACE Techno Tower 10,470-5 Gasan-Dong, Geumcheon-gu, Seoul Korea KR 153-789","c":"KR","o":"KERNEL-I Co.,LTD"}]);

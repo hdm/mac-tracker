@@ -1,1 +1,0 @@
-macDetailCallback("0030f3000000/24",[{"d":"2000-09-08","t":"add","a":"P.O. Box 947\nCorvallis  OR  97339\n\n","c":"UNITED STATES","o":"At Work Computers"},{"d":"2001-10-24","t":"change","a":"P.O. Box 947\nCorvallis OR 97339\n\n","c":"UNITED STATES","o":"At Work Computers"},{"d":"2015-08-27","t":"change","a":"P.O. Box 947 Corvallis OR US 97339","c":"US","o":"At Work Computers"}]);

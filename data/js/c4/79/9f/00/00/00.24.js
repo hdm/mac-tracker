@@ -1,1 +1,0 @@
-macDetailCallback("c4799f000000/24",[{"d":"2023-04-02","t":"add","s":"ieee-oui.csv","a":"Room 202,2nd.Floor,3rd.Building,Kuiqiao Road, No.2,Tangxia Town,Dongguan Dongguan Guangdong CN 523000","c":"CN","o":"Haiguang Smart Device Co.,Ltd."}]);

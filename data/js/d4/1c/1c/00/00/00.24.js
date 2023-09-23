@@ -1,1 +1,0 @@
-macDetailCallback("d41c1c000000/24",[{"d":"2011-06-30","t":"add","a":"Via Raffaello Sanzio 13\nReggio Emilia Italy 42124\n\n","c":"ITALY","o":"RCF S.P.A."},{"d":"2015-08-27","t":"change","a":"Via Raffaello Sanzio 13 Reggio Emilia Italy IT 42124","c":"IT","o":"RCF S.P.A."}]);

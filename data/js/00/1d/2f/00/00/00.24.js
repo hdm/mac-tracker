@@ -1,1 +1,0 @@
-macDetailCallback("001d2f000000/24",[{"d":"2007-08-18","t":"add","a":"335 Plantation Way\nRoswell Ga 30075\n\n","c":"UNITED STATES","o":"QuantumVision Corporation"},{"d":"2015-08-27","t":"change","a":"335 Plantation Way Roswell Ga US 30075","c":"US","o":"QuantumVision Corporation"}]);

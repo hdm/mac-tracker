@@ -1,1 +1,0 @@
-macDetailCallback("402c76d00000/28",[{"d":"2019-10-26","t":"add","s":"ieee-mam.csv","a":"No. 3, Dasonggang, Jiangnan Avenue Middle Road, Haizhu District, Guangzhou (office only) Guangzhou Guangdong CN 510220","c":"CN","o":"Guangzhou Qi'an Technology Co., Ltd."}]);

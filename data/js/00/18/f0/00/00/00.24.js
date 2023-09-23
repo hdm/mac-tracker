@@ -1,1 +1,0 @@
-macDetailCallback("0018f0000000/24",[{"d":"2006-07-09","t":"add","a":"3F Sungwoo Bldg. 717-3, Sooseo-Dong\nKangnam-Gu\nSeoul  135-220\n","c":"KOREA, REPUBLIC OF","o":"JOYTOTO Co., Ltd."},{"d":"2015-08-27","t":"change","a":"3F Sungwoo Bldg. 717-3, Sooseo-Dong Seoul  KR 135-220","c":"KR","o":"JOYTOTO Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000e95000000/24",[{"d":"2003-12-21","t":"add","a":"8F Fukushima BLDG. 6-25-11,Nishi-Gotanda\nShinagawa-Ku Tokyo 141-0031\n\n","c":"JAPAN","o":"Fujiya Denki Seisakusho Co.,Ltd.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"8F Fukushima BLDG. 6-25-11,Nishi-Gotanda Shinagawa-Ku Tokyo JP 141-0031","c":"JP","o":"Fujiya Denki Seisakusho Co.,Ltd."}]);

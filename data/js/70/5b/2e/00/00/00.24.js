@@ -1,1 +1,0 @@
-macDetailCallback("705b2e000000/24",[{"d":"2014-04-26","t":"add","a":"Room 12, 18F., No.65, Gaotie 7th Road\nZhubei City Hsinchu County 302\n\n","c":"TAIWAN, PROVINCE OF CHINA","o":"M2Communication Inc."},{"d":"2015-08-27","t":"change","a":"Room 12, 18F., No.65, Gaotie 7th Road Zhubei City Hsinchu County TW 302","c":"TW","o":"M2Communication Inc."}]);

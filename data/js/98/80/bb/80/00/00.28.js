@@ -1,1 +1,0 @@
-macDetailCallback("9880bb800000/28",[{"d":"2021-08-14","t":"add","s":"ieee-mam.csv","a":"5F, No. 50, Lane 1 , Sec.2, Guodao Rd.,  Lujhou Dist.,  New Taipei City,  TW 247020","c":"TW","o":"Jyh Eng Technology Co., Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("c4a559000000/28",[{"d":"2022-10-29","t":"add","s":"ieee-mam.csv","a":"4F Shinagawa East One Tower, 2-16-1, Konan Minato-ku Tokyo JP 1080075","c":"JP","o":"Archermind Japan Co.,Ltd."}]);

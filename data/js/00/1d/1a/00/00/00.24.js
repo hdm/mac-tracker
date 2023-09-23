@@ -1,1 +1,0 @@
-macDetailCallback("001d1a000000/24",[{"d":"2007-06-25","t":"add","a":"C/Andres Obispo, 37. Pl. 4.\nMadrid  28043\n\n","c":"SPAIN","o":"OvisLink S.A."},{"d":"2015-08-27","t":"change","a":"C/Andres Obispo, 37. Pl. 4. Madrid  ES 28043","c":"ES","o":"OvisLink S.A."}]);

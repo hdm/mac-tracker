@@ -1,1 +1,0 @@
-macDetailCallback("68da73900000/28",[{"d":"2023-04-27","t":"add","s":"ieee-mam.csv","a":"No. 815 Shen Fu Road Xinzhuang Industry Park Shanghai  CN 201108","c":"CN","o":"Nadex Machinery(Shanghai) Co.,Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("700136000000/24",[{"d":"2014-12-17","t":"add","a":"26FL., No. 29, Sec. 2, Jung Jeng E. Rd\nDan Shuei Dist\nNew Taipei City  25170\n","c":"TAIWAN, PROVINCE OF CHINA","o":"FATEK Automation Corporation"},{"d":"2015-08-27","t":"change","a":"5F., NO.300, SEC. 1, NEIHU RD Taipei City  TW 114","c":"TW","o":"FATEK Automation Corporation"}]);

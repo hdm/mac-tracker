@@ -1,1 +1,0 @@
-macDetailCallback("00206e000000/24",[{"d":"1998-04-22","t":"add","a":"P.O. BOX 55\nARGYLE  TX  76226\n\n","c":"UNITED STATES","o":"XACT, INC."},{"d":"2001-10-24","t":"change","a":"P.O. BOX 55\nARGYLE TX 76226\n\n","c":"UNITED STATES","o":"XACT, INC."},{"d":"2015-08-27","t":"change","a":"P.O. BOX 55 ARGYLE TX US 76226","c":"US","o":"XACT, INC."}]);

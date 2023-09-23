@@ -1,1 +1,0 @@
-macDetailCallback("001557000000/24",[{"d":"2005-08-04","t":"add","a":"Via Jervis 77\nIvrea Torino 10015\n\n","c":"ITALY","o":"Olivetti"},{"d":"2015-08-27","t":"change","a":"Via Jervis 77 Ivrea Torino IT 10015","c":"IT","o":"Olivetti"}]);

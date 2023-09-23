@@ -1,1 +1,0 @@
-macDetailCallback("e44cc7400000/28",[{"d":"2018-12-04","t":"add","s":"ieee-mam.csv","a":"No. 88, pubin avenue, jiangpu street, pukou district, nanjing city nanjing Jiangsu CN 210000","c":"CN","o":"Beijing Zhongchuangwei Nanjing Quantum Communication Technology Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("50b695000000/24",[{"d":"2013-11-02","t":"add","a":"6F, No.3, Industry 5 Road, Shekou\nShenzhen Guangdong 518067\n\n","c":"CHINA","o":"Micropoint Biotechnologies,Inc."},{"d":"2015-08-27","t":"change","a":"6F, No.3, Industry 5 Road, Shekou Shenzhen Guangdong CN 518067","c":"CN","o":"Micropoint Biotechnologies,Inc."}]);

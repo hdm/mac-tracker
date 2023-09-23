@@ -1,1 +1,0 @@
-macDetailCallback("2ca780000000/24",[{"d":"2010-02-06","t":"add","a":"R476, AngelCity 1st,\n161, Guemgok, Bundang\nSeongnam, Kyungki 463-862\n","c":"KOREA, REPUBLIC OF","o":"True Technologies Inc."},{"d":"2015-08-27","t":"change","a":"R476, AngelCity 1st, Seongnam, Kyungki KR 463-862","c":"KR","o":"True Technologies Inc."}]);

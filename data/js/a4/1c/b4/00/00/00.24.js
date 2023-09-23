@@ -1,1 +1,0 @@
-macDetailCallback("a41cb4000000/24",[{"d":"2022-06-02","t":"add","s":"ieee-oui.csv","a":"No.157, Shanying Rd., Gueishan Dist., Taoyuan City 333424, Taiwan (R.O.C.) Taoyuan City  TW 333424","c":"TW","o":"DFI Inc"}]);

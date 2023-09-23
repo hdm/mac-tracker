@@ -1,1 +1,0 @@
-macDetailCallback("9cbd9d000000/24",[{"d":"2013-11-14","t":"add","a":"2F Tenjin central place,\n1-10-24, Tenjin, Chuo-ku\nFukuoka-shi Fukuoka 810-0001\n","c":"JAPAN","o":"SkyDisk, Inc."},{"d":"2015-08-27","t":"change","a":"2F Tenjin central place, Fukuoka-shi Fukuoka JP 810-0001","c":"JP","o":"SkyDisk, Inc."}]);

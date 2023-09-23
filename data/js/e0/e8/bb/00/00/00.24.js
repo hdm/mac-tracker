@@ -1,1 +1,0 @@
-macDetailCallback("e0e8bb000000/24",[{"d":"2020-12-06","t":"add","s":"ieee-oui.csv","a":"Room612,613,615,6Floors,Block3,Hengji center,N0.18 Jianguomen inner Street,Dondcheng Distict, Beijing,P.R.China Beijing  CN 100005","c":"CN","o":"Unicom Vsens Telecommunications Co., Ltd."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("fc1186000000/24",[{"d":"2013-02-10","t":"add","a":"Rhodes Way\nWatford Hertfordshire WD24 4YW\n\n","c":"UNITED KINGDOM","o":"Logic3 plc","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"Rhodes Way Watford Hertfordshire GB WD24 4YW","c":"GB","o":"Logic3 plc"}]);

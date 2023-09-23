@@ -1,1 +1,0 @@
-macDetailCallback("fc478d000000/24",[{"d":"2023-09-09","t":"add","s":"ieee-oui.csv","a":"15/F, Building A1, Qiaode Science & Technology Park, No.7 Road, Hi-Tech Industry Park ,Guangming new district Shenzhen Guang Dong  CN 518000","c":"CN","o":"SHENZHEN TOPWELL TECHNOLOGY CO., LTD."}]);

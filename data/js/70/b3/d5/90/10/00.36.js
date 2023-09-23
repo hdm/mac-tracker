@@ -1,1 +1,0 @@
-macDetailCallback("70b3d5901000/36",[{"a":"Yana Fabrittsyusa str., 10 Pskov  RU 180017","o":"ATS-CONVERS","d":"2015-09-27","t":"add","s":"ieee","c":"RU"},{"d":"2021-04-21","t":"change","s":"ieee-oui36.csv","a":"Yana Fabrittsyusa str., 10 Pskov  RU 180017","c":"RU","o":"ATS-CONVERS,LLC"}]);

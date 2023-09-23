@@ -1,1 +1,0 @@
-macDetailCallback("eabea7000000/24",[{"a":"","o":"Private","d":"2017-11-26","t":"add","s":"ieee"},{"d":"2019-10-24","t":"change","s":"ieee-cid.csv","a":"614 Chapala St Santa Barbara CA US 93101","c":"US","o":"Sonos, Inc."}]);

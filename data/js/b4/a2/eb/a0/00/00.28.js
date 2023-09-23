@@ -1,1 +1,0 @@
-macDetailCallback("b4a2eba00000/28",[{"d":"2019-04-13","t":"add","s":"ieee-mam.csv","a":"Industrial Area,Huanghu Town,Yuhang District Hangzhou Zhejiang CN 311118","c":"CN","o":"Hengkang（Hangzhou）Co.,Ltd"}]);

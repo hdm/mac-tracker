@@ -1,1 +1,0 @@
-macDetailCallback("2c7155000000/24",[{"d":"2013-07-23","t":"add","a":"1806, STX-V Tower\n371-37 Gasan-dong, Geumcheon-gu\nSeoul  153-803\n","c":"KOREA, REPUBLIC OF","o":"HiveMotion"},{"d":"2015-08-27","t":"change","a":"1806, STX-V Tower Seoul  KR 153-803","c":"KR","o":"HiveMotion"}]);

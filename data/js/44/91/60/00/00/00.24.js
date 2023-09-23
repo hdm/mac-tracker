@@ -1,1 +1,0 @@
-macDetailCallback("449160000000/24",[{"d":"2017-08-12","t":"add","a":"1-10-1, Higashikotari\n\n\n","c":"Nagaokakyo-shi  Kyoto  617-8555","o":"Murata Manufacturing Co., Ltd."},{"d":"2017-08-15","t":"change","a":"1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555","c":"JP","o":"Murata Manufacturing Co., Ltd."}]);

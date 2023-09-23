@@ -1,1 +1,0 @@
-macDetailCallback("70b3d583a000/36",[{"d":"2019-03-09","t":"add","s":"ieee-oui36.csv","a":"Circuito Corral de Piedras #36, Polígono Empresarial San Miguel San Miguel de Allende Guanajuato MX 37880","c":"MX","o":"EMDEP CENTRO TECNOLOGICO MEXICO"}]);

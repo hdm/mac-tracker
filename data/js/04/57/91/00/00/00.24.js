@@ -1,1 +1,0 @@
-macDetailCallback("045791000000/24",[{"d":"2023-05-26","t":"add","s":"ieee-oui.csv","a":"Block 3, Dong Huan Industrial Park, Sha Jing Town, Bao’an District, Shenzhen City, Guangdong Province, China ShenZHEN GuangDong CN 518104","c":"CN","o":"Shenzhenshi Xinzhongxin Technology Co.Ltd"}]);

@@ -1,1 +1,0 @@
-macDetailCallback("080042000000/24",[{"d":"2000-11-23","t":"add","a":"\n\n\n","c":"JAPAN","o":"JAPAN MACNICS CORP.","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"JP","c":"JP","o":"JAPAN MACNICS CORP."},{"d":"2021-06-13","t":"change","s":"ieee-oui.csv","a":"1-6-3 Shin-Yokohama Kohoku-ku Yokohama JP 222-8561","c":"JP","o":"MACNICA, Inc."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("8020af000000/24",[{"d":"2012-01-17","t":"add","a":"Dornych 57\nBrno  61700\n\n","c":"CZECH REPUBLIC","o":"Trade FIDES, a.s."},{"d":"2015-08-27","t":"change","a":"Dornych 57 Brno  CZ 61700","c":"CZ","o":"Trade FIDES, a.s."}]);

@@ -1,1 +1,0 @@
-macDetailCallback("000de7000000/24",[{"d":"2003-09-08","t":"add","a":"2333 East Walton Blvd.\nAuburn Hills MI 48326\n\n","c":"UNITED STATES","o":"Snap-on OEM Group","s":"wireshark.org"},{"d":"2015-08-27","t":"change","a":"2333 East Walton Blvd. Auburn Hills MI US 48326","c":"US","o":"Snap-on OEM Group"}]);

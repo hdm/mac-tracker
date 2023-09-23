@@ -1,1 +1,0 @@
-macDetailCallback("a09805000000/24",[{"d":"2009-08-12","t":"add","a":"F2,Building No.14,Shangsha Science &\nTechnology Park,No.9283,Binhe Road\nShenZhen GuangDong 518031\n","c":"CHINA","o":"OpenVox Communication Co Ltd"},{"d":"2015-08-27","t":"change","a":"F2,Building No.14,Shangsha Science & ShenZhen GuangDong CN 518031","c":"CN","o":"OpenVox Communication Co Ltd"}]);

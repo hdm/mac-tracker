@@ -1,1 +1,0 @@
-macDetailCallback("988fe0800000/28",[{"d":"2021-12-09","t":"add","s":"ieee-mam.csv","a":"5/f, biological building, 1326 Yanan West road, Changning District Shanghai Shanghai CN 200052","c":"CN","o":"Changzhou Perceptime Technology Co.,Ltd."}]);

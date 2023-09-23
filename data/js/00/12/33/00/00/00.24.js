@@ -1,1 +1,0 @@
-macDetailCallback("001233000000/24",[{"d":"2004-09-02","t":"add","a":"3-2-1 Shinyoshidahigashi Kohoku-ku\nYokohama Kanagawa 223-8572\n\n","c":"JAPAN","o":"JRC TOKKI Co.,Ltd."},{"d":"2015-08-27","t":"change","a":"3-2-1 Shinyoshidahigashi Kohoku-ku Yokohama Kanagawa JP 223-8572","c":"JP","o":"JRC TOKKI Co.,Ltd."}]);

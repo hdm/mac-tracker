@@ -1,1 +1,0 @@
-macDetailCallback("c02e26000000/24",[{"d":"2019-08-03","t":"add","s":"ieee-oui.csv","a":"","c":"","o":"Private"},{"d":"2022-06-14","t":"change","s":"ieee-oui.csv","a":"11085 Knott Avenue Cypress CA US 90630","c":"US","o":"iRhythm Technologies, Inc."}]);

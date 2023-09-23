@@ -1,1 +1,0 @@
-macDetailCallback("a03768000000/24",[{"d":"2023-03-30","t":"add","s":"ieee-oui.csv","a":"2/F, Wanji Industrial Park, No.39, the 2th Keji Middle Road, Yuehai street, NanshanDist Shenzhen Guangdong CN 518000","c":"CN","o":"Shenzhen E-Life Intelligence Technology Co.,Ltd."}]);

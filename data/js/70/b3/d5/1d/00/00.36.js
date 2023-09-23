@@ -1,1 +1,0 @@
-macDetailCallback("70b3d51d0000/36",[{"a":"INVT Bldg., GaoFa Scientific Park, Longjing, Nanshan, Shenzhen. Shenzhen Guangdong CN 518055","o":"Shenzhen INVT Electric Co.,Ltd","d":"2017-10-22","t":"add","s":"ieee","c":"CN"}]);

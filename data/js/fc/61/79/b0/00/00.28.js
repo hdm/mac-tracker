@@ -1,1 +1,0 @@
-macDetailCallback("fc6179b00000/28",[{"d":"2022-04-29","t":"add","s":"ieee-mam.csv","a":"No 36. North Street, West Zone, Economic & Technological Development Area, Tianjin, China Tianjin Tianjin CN 300457","c":"CN","o":"Fulian Precision Electronics(Tianjin) Co., Ltd"}]);

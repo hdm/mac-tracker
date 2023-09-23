@@ -1,1 +1,0 @@
-macDetailCallback("001269000000/24",[{"d":"2004-09-22","t":"add","a":"Dong-kwan B/D, 5F, 1566-2\nSeocho-dong, Seocho-gu\nseoul  137-874\n","c":"KOREA, REPUBLIC OF","o":"Value Electronics"},{"d":"2015-08-27","t":"change","a":"Dong-kwan B/D, 5F, 1566-2 seoul  KR 137-874","c":"KR","o":"Value Electronics"}]);

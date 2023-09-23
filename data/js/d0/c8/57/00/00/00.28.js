@@ -1,1 +1,0 @@
-macDetailCallback("d0c857000000/28",[{"d":"2019-03-27","t":"add","s":"ieee-mam.csv","a":"18F, No.88, Sec. 2, Chung Hsiao E.Rd.,  Taipei,  Taiwan  TW 10050","c":"TW","o":"YUAN High-Tech Development Co., Ltd."}]);

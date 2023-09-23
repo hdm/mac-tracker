@@ -1,1 +1,0 @@
-macDetailCallback("506b4b000000/24",[{"d":"2017-10-19","t":"add","a":"350 Oakmead Parkway, Suite 100 Sunnyvale CA US 94085","c":"US","o":"Mellanox Technologies, Inc."},{"d":"2019-06-26","t":"change","s":"ieee-oui.csv","a":"350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085","c":"US","o":"Mellanox Technologies, Inc."}]);
