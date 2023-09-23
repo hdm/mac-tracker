@@ -63,12 +63,6 @@ def update(addr, date, org, address, source)
 	end
 end
 
-def prefix_to_path(str)
-	prefix, mask = str.split("/", 2)
-	segments = prefix.scan(/[a-f0-9]{2}/)
-	segments.join("/") + ".#{mask}.js"
-end
-
 def mash_encoding(str)
 	str.force_encoding("utf-8").scrub{|bytes| '<'+bytes.unpack('H*')[0]+'>' }.strip
 end
@@ -136,34 +130,13 @@ def download_ieee_csv(url)
 	File.open(path, "w") do |fd|
 		fd.write(data)
 	end
-	CSV.parse(data.chomp, col_sep: ",", encoding: "utf-8", liberal_parsing: true)
+	return CSV.parse(data.chomp, col_sep: ",", encoding: "utf-8", liberal_parsing: true)
 end
 
 def write_results
 	jdata = JSON.dump(@data)
 	File.open(File.join(@based, "data", "macs.json"), "wb") do |fd|
 		fd.write(jdata)
-	end
-
-	entries = {}
-
-	@data.each_pair do |k,v|
-
-		entries[k] = [v.first['d'], v.last['d'], v.last['o'], v.last['c'], v.last['a'] ]
-
-		path = prefix_to_path(k)
-		dpath = File.join(@based, "data", "js", path)
-		dname = File.dirname(dpath)
-		FileUtils.mkdir_p(dname)
-		jdata = JSON.dump(v)
-		File.open(dpath, "wb") do |fd|
-			fd.puts "macDetailCallback(\"#{k}\"," + jdata + ");\n"
-		end
-	end
-	
-	jdata = JSON.dump(entries)
-	File.open(File.join(@based, "data", "js", "mac.js"), "wb") do |fd|
-		fd.write("var macData = " + jdata + ";\n")
 	end
 end
 
