@@ -24,9 +24,6 @@ MA-M,88A6EFD,Hash Mining s.r.o.,Ceskomoravska 142/18 Praha  CZ 19000
 MA-M,38B8EBB,PEZY Computing K.K.,"5F Chiyodaogawamachi Crosta, 1-11 Kanda Ogawamachi Chiyoda-ku Tokyo JP 101-0052 "
 MA-M,50482CD,"KIDO SPORTS CO., LTD.","Kido Building, 395 Gonghang-daero, Gangseo-gu Seoul Seoul KR 07590 "
 MA-M,50482C9,Soter Technologies,101 Comac St Ronkonkoma NY US 11779 
-MA-M,50482C2,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
-MA-M,CCD31E6,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
-MA-M,D016F0E,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
 MA-M,68DA73A,"Shenzhen Haiyingzhilian Industrial Co., Ltd.",2-5/F? #8FactoryBld?Yu'an Factory Area ?LongchengIndustryPark?Gao feng Community ?Dalang Street ?LonghuaDisrict Shenzhen Guangdong CN 518000 
 MA-M,68DA739,"Nadex Machinery(Shanghai) Co.,Ltd",No. 815 Shen Fu Road Xinzhuang Industry Park Shanghai  CN 201108 
 MA-M,58C41EC,"PQTEL Network Technology Co. , Ltd.","No. 207, Building A4, Lugu Enterprise Plaza, No. 27 Wenxuan Road ChangSha Hunan CN 410205 "
@@ -1026,6 +1023,11 @@ MA-M,78392D7,"Shenzhen C & D Electronics Co., Ltd.","9th FIoor, Building 9, No.1
 MA-M,C898DB6,"Quantum Co., Ltd.","909-15, Ganam-ro, Ganam-eup Yeoju-si Gyeonggi-do KR 12660 "
 MA-M,C898DBA,CHAMPIN,"No. 90-3, Sec. 4, Chongde Rd., Tanzi Dist. Taichung  TW 427020 "
 MA-M,78392D8,Dreamtek,"Room 508, Building A2, Zhongan Chuanggu Science Park Phase I, 900 Wangjiang West Road, High-tech Zone, Hefei, Anhui china Anhui CN 230000 "
+MA-M,78392D2,"Chengdu Shiketong Technology Co.,Ltd","No.10, Floor 5, Unit 2, Building 2, No.85, Wukexi Road, Management Committee, Wuhou District, Chengdu Chengdu  CN 610003 "
+MA-M,D016F0E,BBPOS Limited,"15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong  HK 00000 "
+MA-M,CCD31E6,BBPOS Limited,"15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong  HK 00000 "
+MA-M,50482C2,BBPOS Limited,"15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong  HK 00000 "
+MA-M,78392DB,"MedRx, Inc",1200 Starkey Rd Ste.105 Largo FL US 33771 
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C875,"Psync Labs, Inc.",1825 Allison Way San Jose CA US 95132 
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
@@ -1986,10 +1988,11 @@ MA-M,008DF46,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 
 MA-M,EC9A0C2,"Shenzhen Yitoa Digital Technology Co., Ltd.","2F, C building, Yitoa Science and Technology Industrial Park, 18 Baihuayuan Boad, 2nd Industrial Zone, Guangming Street, Guangming New District Shenzhen Guangdong CN 518107 "
 MA-M,EC9A0C1,"Shenzhen Naxiang Technology Co., Ltd","Room 319, Building A, Area C, Baoan Internet Industry Base, No. 2005, Xingye Road, Haoye Community, Xixiang Street, Baoan District, Shenzhen Shenzhen Guangdong  CN 518100 "
 MA-M,008DF4A,Adel System srl,"VIA LUIGI BARCHI, 9/B Reggio Emilia  IT 42124 "
+MA-M,C898DBB,"Shenzhen Hooolink Technology Co., LTD","Building B, Qinghu Science and Technology Park, Longhua District Shenzhen Guangdong CN 518110 "
+MA-M,78392D0,Neuron GmbH,Badenerstrasse 9 Brugg  CH 5200 
 MA-M,C898DB4,"Shenzhen IBD Intelligence Technology Co,.Ltd.","2nd Floor, Building 2, Dexin Chang Wisdom Park, No. 23 Heping Road, Longhua Street, Longhua District shenzhen guangdong CN 518000 "
 MA-M,C898DB7,J&R Technology Limited,"6A,Building A1,XingYi Industrial Park,Fuyong Town,Bao'an District,Shenzhen Shenzhen Guangdong CN 518103 "
 MA-M,C898DBD,"Quilt Systems, Inc","1800 Broadway St, Suite 2 REDWOOD CITY CA US 94063 "
-MA-M,C898DBB,"Shenzhen Hooolink Technology Co., LTD","Building B, Qinghu Science and Technology Park, Longhua District Shenzhen Guangdong CN 518110 "
 MA-M,B84C87A,"Altronix , Corp","140 58th St. Bldg A, Ste 2N Brooklyn NY US 11220 "
 MA-M,8CC8F47,TableSafe,"12220 113th Ave NE, Suite 220 Kirkland WA US 98034 "
 MA-M,58E8760,"Zhuhai Raysharp Technology Co.,Ltd","No.100 of Keji Liu Rd.6, Hi-Tech Zone Zhuhai Guangdong CN  519080 "
@@ -4087,7 +4090,6 @@ MA-M,D015BB4,Esders GmbH,Hammer-Tannen-Strasse 26-30 Haselünne  DE 49740
 MA-M,50482C4,Hy-Line Computer Components GmbH,Inselkammerstr. 10 Unterhaching  DE 82008 
 MA-M,50482CC,"Telecam Technology Co.,Ltd","6F, Building A, Shuanghuan Information Technology Industrial Park, No.8, Baoqing Rd, Longgang District Shenzhen  CN 518116 "
 MA-M,50482C3,Immunity Networks and Technologies Pvt Ltd,804 DLH Park Rani Sati Nagar s v Road Goregaon West Mumbai  Maharashtra  IN 400104 
-MA-M,10DCB6C,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
 MA-M,C8F5D63,BBPOS Limited,"Suite 1602, Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong China HK 00000 "
 MA-M,68DA73B,Gamber-Johnson LLC,5001 Joerns Dr Stevens Point WI US 54481 
 MA-M,68DA73C,Delta Surge Inc.,3230 Osgood Common Fremont CA US 94539 
@@ -5097,3 +5099,4 @@ MA-M,C898DBC,Smartrend Manufacturing Group,6-1249 Clarence Ave Winnipeg Manitoba
 MA-M,C898DB0,Unicore Communications Inc.,F3.No.7 Fengxian East Road Yongfeng Industrial Base. Haidian Beijing. Beijing  CN 100094 
 MA-M,78392D9,"AVATR Co., LTD.","No. 24, 1st Floor, Building 1, 106, West Section of Jinkai Avenue, Yubei District, Chongqing Chongqing Chongqing CN 401121 "
 MA-M,C898DB3,"Shenzhen Kedakeda Technology Co., Ltd.","Room 201,Building A,No.1,Qianwan Road,Qianhai Shenzhen-Hong Kong Cooperation Zone,Shenzhen,China (Registered with Shenzhen Qianhai Business Secretary Co., Ltd.) Shenzhen GUANGDONG CN 518000 "
+MA-M,10DCB6C,BBPOS Limited,"15/F., Tower 2, Nina Tower, 8 Yeung Uk Road, Tsuen Wan, NT Hong Kong  HK 00000 "
