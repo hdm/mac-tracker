@@ -946,7 +946,6 @@ MA-S,70B3D5D38,"Vista Research, Inc.","2231 Crystal Drive, Suite 515 Arlington V
 MA-S,70B3D545C,AlyTech,3 rue Condorcet Juvisy sur Orge  FR 91260 
 MA-S,70B3D57E3,RedLeaf Security,"1226 Islington Avenue, Center Tower, 8-10th Floor Toronto  CA M8X 1Y8 "
 MA-S,70B3D52F9,CONSOSPY,"2, AVENUE GALILEE CHASSENEUIL-DU-POITOU VIENNE FR 86360 "
-MA-S,70B3D50BE,ChamSys Ltd,"Unit 3B Richmond Works, Pitt Road Southampton Hampshire GB SO15 3FQ "
 MA-S,70B3D511D,Dakton Microlabs LLC,"520 Brickell Key Drive, A-1811 Miami FL US 33131 "
 MA-S,70B3D539D,Comark Interactive Solutions,430 Fortune Blvd Milford MA US 01757 
 MA-S,70B3D5A3C,Wave Music Ltd,Suite 1309 Asia Standard Tower 59-65 Queens Road Central  Hong Kong HK 000000 
@@ -1177,6 +1176,7 @@ MA-S,8C1F64F92,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 6953
 MA-S,8C1F642A6,Radiation Solutions Inc.,5875 Whittle Road Mississauga Ontario CA L4Z 2H4 
 MA-S,70B3D508B,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,8C1F64C35,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
+MA-S,70B3D50BE,Chamsys Ltd,"Unit 3B Richmond Works, Pitt Road Southampton Hampshire GB SO15 3FQ "
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64DE5,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
@@ -2113,7 +2113,6 @@ MA-S,70B3D5996,XpertSea Solutions inc.,2700 Jean-Perrin suite 170 Québec QC CA 
 MA-S,70B3D59D4,Wartsila Voyage Limited,13-18 City Quay Dublin 2  IE D02 ED70 
 MA-S,70B3D5BB8,Al Kamel Systems S.L.,"Priora Xixilona, 93 La Garriga Barcelona ES 08530 "
 MA-S,70B3D5671,Sea Shell Corporation,"10th Fl. Chuohtanimachi bldg. 9-3-7, Tanimachi, Chuohku Osaka  JP 542-0012 "
-MA-S,001BC5042,ChamSys Ltd,Unit 3B Richmond Works Southampton Hampshire GB SO15 3FQ 
 MA-S,70B3D5FC1,InDiCor,Kornstr. 18 Horgenzell  DE 88263 
 MA-S,70B3D5D07,Waversa Systems,"#1002 Pankyo-Innovalley, 622 Sampyong-dong, Bundang-gu Seongnam-si, Kyeonggi-do  KR 13486 "
 MA-S,70B3D5081,IST Technologies (SHENZHEN) Limited,"Flat 1203, Block C6, HengFeng Industrial City, HeZhou, Shenzhen Guangdong CN 518126 "
@@ -2355,6 +2354,7 @@ MA-S,70B3D5C45,STIEBEL ELTRON GMBH & CO. KG,Dr.-Stiebel-Strasse 33 Holzminden  D
 MA-S,8C1F64203,"ENTOSS Co.,Ltd","7-75, Geurugogae-ro 188beon-gil, Gwangjeok-myeon Yangju-si Gyeonggi-do KR 11415 "
 MA-S,8C1F646DD,ViewSonic Corp,"10 Point Drive Brea, CA 92821 USA LA CA US 92821 "
 MA-S,8C1F64F68,"YUYAMA MFG Co.,Ltd","1-4-30 MEISHINGUCHI,TOYONAKA OSAKA JP 561-0841 "
+MA-S,001BC5042,Chamsys Ltd,Unit 3B Richmond Works Southampton Hampshire GB SO15 3FQ 
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,8C1F64D09,"Minartime(Beijing)Science &Technology Development Co.,Ltd","1201B, 12th Floor, Building 4, No. 2 Ronghua South Road Beijing Economic and Technological Development Zone, Beijing (Yizhuang Group, High-end Industrial Area, Beijing Pilot Free Trade Zone) Beijing  CN 100176 "
@@ -4709,6 +4709,7 @@ Millbrook Southampton Hampshire GB SO15 0LJ "
 MA-S,8C1F64631,"HAIYANG OLIX CO.,LTD.",103-903 BUCHEONTECHNOPARK 364 SAMJEONG BUCHEON GEYONGGI KR 421-740 
 MA-S,8C1F64CDD,The Signalling Company,Rue des Deux Gares n°82 Anderlecht Brussels BE B1070 
 MA-S,8C1F64F14,Elektrosil GmbH,Ruhrstrasse 53 Hamburg  DE 22761 
+MA-S,8C1F6473E,"Beijing LJ Technology Co., Ltd.","1011-1018, 10th Floor, Zhixing Building,No.3 Shangyuan Village,Haidian District Beijing Beijing CN 100080 "
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
 MA-S,8C1F64201,Hiwin Mikrosystem Corp.,NO 6 JINGKE CENTRAL RD  TAICHUNG CITY TAIWAN 40841 TAICHUNG  TW 40841 
@@ -5862,11 +5863,11 @@ MA-S,8C1F64C13,Glucoloop AG,Albisriederstrasse 203A Zürich  CH 8047
 MA-S,8C1F64FD2,"Guo He Xing Ke (ShenZhen) Technology Co.,Ltd.","4th Floor, Building 2, Jiuzhou Industrial Park, #10, 19th Rd,  Tongguan Rd, Tianliao Community, Yutang, Guangming Dist., Shenzhen,Guangdong Province,China Guangdong province ShenZhen CN 518107 "
 MA-S,8C1F64DB1,"Shanghai Yamato Scale Co., Ltd","No. 368, Qingda Road, Heqing Industrial Field, Pudong Shanghai  CN 201201 "
 MA-S,8C1F64F90,Enfabrica,295 N Bernardo Ave #200 Mountain View CA US 94043 
-MA-S,8C1F64110,"Xian Linking Backhaul Telecom Technology Co.,Ltd","Room 1-304,No.15 Building,Zhenye Mansion,No.800,Guangan Road,CBE District Xi'an,Shannxi,China Xi'an Shaanxi CN 710038 "
-MA-S,8C1F64B81,"Shenzhen Kings IoT Co., Ltd","D102, Yibao Garden, Hangcheng Road, Xixiang, Baoan
-Baoan district Shenzhen City  CN 518126 "
 MA-S,70B3D5CD9,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,70B3D52E0,Peter Huber Kaeltemaschinenbau SE,Kaeltemaschinenbau GmbH Offenburg Ba-Wue DE 77656 
 MA-S,70B3D5D7B,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
+MA-S,8C1F64110,"Xian Linking Backhaul Telecom Technology Co.,Ltd","Room 1-304,No.15 Building,Zhenye Mansion,No.800,Guangan Road,CBE District Xi'an,Shannxi,China Xi'an Shaanxi CN 710038 "
 MA-S,70B3D5DC4,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
 MA-S,8C1F64AA3,Peter Huber Kaeltemaschinenbau SE,Werner-von-Siemens-Str. 1 Offenburg Ba-Wue DE 77656 
+MA-S,8C1F64B81,"Shenzhen Kings IoT Co., Ltd","D102, Yibao Garden, Hangcheng Road, Xixiang, Baoan
+Baoan district Shenzhen City  CN 518126 "
