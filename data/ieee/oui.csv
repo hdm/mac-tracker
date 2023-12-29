@@ -1907,7 +1907,6 @@ MA-L,500084,Siemens Canada,300 Applewood Crescent Concord Ontario CA L4K 5C7
 MA-L,44B433,"tide.co.,ltd","9F Kapeul GreatValley A-dong, Digitalro 9-ghil 32, Geumcheon-gu seoul seoul KR ASIKRKS006 "
 MA-L,00214F,"ALPSALPINE CO,.LTD","1-2-1, Okinouchi, Soma-city, Fukushima-pref., JP 976-8501 "
 MA-L,247D4D,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,D8A6FD,Ghost Locomotion,800 California St.  Suite 200 Mountain View CA US 94041 
 MA-L,DC21B9,Sentec Co.Ltd,"10, Baekseokgongdan 1-ro, Seobuk-gu  Cheonan-si Chungcheongnam-do KR 31094 "
 MA-L,6CDFFB,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,203233,SHENZHEN BILIAN ELECTRONIC CO.，LTD,"NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
@@ -6994,6 +6993,9 @@ MA-L,6453E0,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,688BF4,"Arista Network, Inc.",5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,D83D3F,JOYNED GmbH,Nockhofweg 26c Mutters  AT 6162 
 MA-L,C0E5DA,"Qingdao Intelligent&Precise Electronics Co.,Ltd.",No.218 Qianwangang Road Qingdao Shangdong CN 266510 
+MA-L,202351,TP-LINK CORPORATION PTE. LTD.,7 Temasek Boulevard #29-03 Suntec Tower One Singapore  SG 038987 
+MA-L,8C8474,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
+MA-L,D8A6FD,Ghost Autonomy Inc.,800 California St.  Suite 200 Mountain View CA US 94041 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -13930,6 +13932,8 @@ MA-L,C43EAB,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,CC4460,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,F43149,Pixel FX,8001 Moore Road Indianapolis IN US 46278 
 MA-L,34EA10,Orbic North America,555 Wireless Blvd. Hauppauge NY US 11788 
+MA-L,78E996,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,6C92CF,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -20926,6 +20930,9 @@ MA-L,143B51,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,D07380,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,ACFCE3,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,042DAD,Areus GmbH,Einsteinstrasse 13 Herrenberg Baden-Wuerttemberg DE 71083 
+MA-L,781C1E,"Chongqing Yipingfang Technology Co., Ltd.","No. 1-10, Tieshan Road, Biquan Street, Bishan District, Chongqing ChongQing  CN 402760 "
+MA-L,78A13E,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,48CA43,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,B4C799,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,58696C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,8C8394,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
@@ -25552,7 +25559,6 @@ MA-L,0025EA,Iphion BV,Willemstraat 106 Eindhoven  NL 5616GE
 MA-L,0025BE,Tektrap Systems Inc.,15 Buteau St. Gatineau Quebec CA J8Z 1V4 
 MA-L,0025B5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0025FE,Pilot Electronics Corporation,"No. 2, Tzu-Chiang 3rd Road, Chung-Li Industrial Zone, Taoyuan  Hsien TW 32063 "
-MA-L,0025FC,ENDA ENDUSTRIYEL ELEKTRONIK LTD. STI.,Y. Dudullu Barbaros C. Kutup S. No. 20 Istanbul  TR 34775 
 MA-L,0025D7,CEDO,Videnska 127 BRNO  CZ 61900 
 MA-L,0025D8,KOREA MAINTENANCE,"3F HAELIM BUIDING 103-7, GURO-5DONG SEOUL  KR 152-842 "
 MA-L,0025D2,"InpegVision Co., Ltd","226-3, Bugok-dong, Geumjeong-gu, Busan  KR 609-320 "
@@ -27938,6 +27944,10 @@ MA-L,046ECB,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,F0ED19,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,D0EF76,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,C4D8D5,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,ECCD4C,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,984A6B,"Ruijie Networks Co.,LTD","No. 2, 7th floor, xingwangruijie, haixi hi-tech industrial park, high-tech zone, fuzhou city Fuzhou Fujian CN 350002 "
+MA-L,D04FAB,"Yoqu Technology (Shenzhen) Co., Ltd.","No. 525, Block C, New Generation Information Technology Industrial Park, Chuangye 2nd Road, Bao'an District, Shenzhen Guangdong CN 518000 "
+MA-L,0025FC,ENDA,Y. Dudullu Barbaros C. Kutup S. No. 20 Istanbul  TR 34775 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -34921,3 +34931,5 @@ MA-L,38F45E,"H1-Radio co.,ltd","#1510,Building A,123,Beolmal-ro,Dongan-gu Anyang
 MA-L,74FECE,TP-LINK CORPORATION PTE. LTD.,7 Temasek Boulevard #29-03 Suntec Tower One Singapore  SG 038987 
 MA-L,94BB43,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
 MA-L,E0DAD7,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,B8E28C,MOTOROLA SOLUTIONS MALAYSIA SDN. BHD.,"INNOPLEX, NO. 2A, MEDAN BAYAN LEPAS, BAYAN LEPAS TECHNOPLEX BAYAN LEPAS PENANG MY 11900 "
+MA-L,188B0E,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
