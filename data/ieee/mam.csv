@@ -1068,6 +1068,7 @@ MA-M,9015643,Clinton Electronics Corporation,6701 Clinton Road Loves Park IL US 
 MA-M,9015640,"Fengzhushou Co., Ltd.","Room 901-909, No. 660, Huangpu Avenue Middle, Tianhe District, Guangzhou Guangzhou Guangdong CN 510000 "
 MA-M,9015645,Relectrify Pty Ltd,4/113-117 Adderley Street  West Melbourne Victoria AU 3003 
 MA-M,0863323,Umano Medical Inc.,"230, Boul. Nilus-Leclerc L'Islet Québec CA G0R 2C0 "
+MA-M,0863322,innovative specialized security solutions,irqah riyadh  SA 12583 
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C875,"Psync Labs, Inc.",1825 Allison Way San Jose CA US 95132 
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
@@ -2359,7 +2360,6 @@ MA-M,5848490,Beijing Zhongyuanyishang Technology Co Ltd,"Unit 404, 4th Floor, Bu
 MA-M,5848491,SKAARHOJ ApS,Rosenkaeret 11C Soeborg  DK 2860 
 MA-M,5848499,"Shenzhen Tongye Technology Co.,Ltd","Meitai Industry Zone, Guanguang Road, Guihua zone, Guanlan street, Longhua District, Shenzhen Shenzhen  CN 518000 "
 MA-M,44A92CE,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
-MA-M,44A92C3,Luxonis Holding Corporation,7901 Shaffer Parkway Littleton CO US 80127 
 MA-M,F02A2BD,"Definitely Win Corp.,Ltd.","2F., No. 48, Da'an St., Xizhi Dist., New Taipei City Taiwan (R.O.C.) TW 221041 "
 MA-M,F02A2B0,Merlin Security Inc., 11836 Clark St Arcadia CA US 91006 
 MA-M,44A92C5,"Shenzhen Lianfaxun Electronic Technology Co.,Ltd","No. 25, Tianrong road, Tianliao second industrial park, Yutang street, Guangming new district Shenzhen Guangdong  CN 518132 "
@@ -3143,6 +3143,11 @@ MA-M,904E913,Great Talent Technology Limited,"No.13 Langshan Rd,HiTech Park,Nans
 MA-M,901564C,LINAK A/S,"Smedevænget 8
 6430 Guderup Guderup Jylland DK 6430 "
 MA-M,9015649,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
+MA-M,0863320,Eaton,"Eaton
+MTL Instruments Pvt Ltd, 
+No:3, Old Mahabalipuram Road,
+Sholinganallur, Chennai 600119 India Chennai Tamilnadu IN 600119 "
+MA-M,44A92C3,Luxonis Holding Corporation,"1942 Broadway St., STE 314C Boulder CO US 80302 "
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C870,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -5164,7 +5169,6 @@ MA-M,F40E116,Alpha Design Technologies Pvt Ltd,"#9, Service Road, HAL II Stage B
 MA-M,141FBA5,Inttelix Brasil Tecnologia e Sistemas Ltda," Rua Desembargador Jorge Fontana, 112B, Belvedere Belo Horizonte Minas Gerais BR 30320-670 "
 MA-M,141FBA0,"Shenzhen Mining Technology Co.,Ltd.","2017#Baoan Internet Industry Base,Langman Gangwan Shenzhen Guangdong CN 518000 "
 MA-M,7C70BCD,mk-messtechnik GmbH,Zeppelinstr. 1 Notzingen D DE 73274 
-MA-M,141FBA6,Thales Communications & Security SAS,BP 57 Bretigny-sur-Orge CEDEX France FR F 91229 
 MA-M,141FBAD,"AJIS(DALIAN)co.,LTD",Room 202B Dalian Liaoning CN 116023 
 MA-M,F40E11B,BRADAR INDUSTRIA SA,"AVENIDA SHISHIMA HIFUMI,2911 SÃO JOSE DOS CAMPOS SÃO PAULO BR 12244-000 "
 MA-M,BC3400D,"Hangzhou Linker Digital Technology Co., Ltd","4-5F, C Building, Jinrun Tech-Garden, 399# Qiuyi Road, Binjiang District Hangzhou ZheJiang CN 310052 "
@@ -5262,3 +5266,4 @@ MA-M,80A579E,Unplugged Technologies Ltd.,"3 Hakidma st., Yokneam Yokneam  IL 206
 MA-M,9015647,"Hangzhou System Technology Co.,Ltd","1401, 14th Floor, West Lake Advertising Building, No. 18 Xiyuan 1st Road, Xihu District Hangzhou Zhejiang CN 310030 "
 MA-M,9015648,Heliogen,130 W Union St Pasadena CA US 91103 
 MA-M,901564D,"Jiangsu Kangjie Data Co., Ltd.","Jingquan Impression Building No.18, 128 Ma'anshan Road, Dantu District Zhenjiang Jiangsu CN 212114 "
+MA-M,141FBA6,Revenue Collection Systems France SAS,Zone Industrielle les Bordes Le Plessis-Pate  FR 91220 
