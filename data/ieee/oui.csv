@@ -375,7 +375,6 @@ MA-L,E8D775,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,84398F,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
 MA-L,B4EDD5,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,5C64F1,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,90B4DD,Private,
 MA-L,B838EF,ADVA Optical Networking Ltd.,ADVAntage House York  GB YO30 4RY 
 MA-L,64EC65,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,F42462,"Selcom Electronics (Shanghai) Co., Ltd","A7/A24 No.5399, Waiqingsong Road, Qing Pu Shanghai Shanghai CN 201707 "
@@ -7048,6 +7047,10 @@ MA-L,484AE9,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothi
 MA-L,808DB7,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,24F27F,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,787E42,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,90B4DD,ZPT R&D,"Hovås Snöbärsväg 2, lgh 201 Hovås  SE 43654 "
+MA-L,0C6825,"Suzhou HYC technology Co., Ltd.","8#,Qingqiu Lane,SIP,Suzhou,Jiangsu,China Suzhou Jiangsu CN 215127 "
+MA-L,AC1518,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,648FDB,Huaqin Technology Co.LTD,"11th Floor,Unit 12,No.399 Keyuan Road,Pudong, Shanghai  Shanghai  Pudong CN 201203 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14012,21 +14015,23 @@ MA-L,9C5A80,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089
 MA-L,58FE7E,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,34194D,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,6C80AB,ifanr Inc,397 Xingang Middle Road Guangzhou Guangdong CN 511000 
-MA-L,20185B,"Shenzhen Jingxun Technology Co., Ltd.","3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District Shenzhen  CN 518071 "
-MA-L,5CED8C,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,5CBA2C,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,004E35,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,8030E0,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,B0B867,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,2817CB,Software Freedom Conservancy,137 MONTAGUE ST STE 380 Brooklyn NY US 11201 
 MA-L,089734,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,EC9B8B,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,D06726,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,004E35,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,8030E0,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,B0B867,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,94F128,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville  US 95747 
 MA-L,C8B5AD,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,00FD45,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,2817CB,Software Freedom Conservancy,137 MONTAGUE ST STE 380 Brooklyn NY US 11201 
+MA-L,5CED8C,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,5CBA2C,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,7C0CFA,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,3483D5,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,00FD45,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,20185B,"Shenzhen Jingxun Technology Co., Ltd.","3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District Shenzhen  CN 518071 "
+MA-L,7C5E98,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,C40826,"HISENSE VISUAL TECHNOLOGY CO.,LTD",Qianwangang Road 218 Qingdao Shandong CN 266510 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21052,6 +21057,7 @@ MA-L,4448C1,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothi
 MA-L,48DF37,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,E8F724,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,508A7F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,3877CD,KOKUSAI ELECTRIC CORPORATION,"2-1 Yasuuchi, Yatsuo-Machi Toyama Toyama JP 939-2393 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -28088,8 +28094,11 @@ MA-L,98CB38,Boxin Communications Limited Liability Company,"NO.22,Changsheng,Str
 MA-L,30C6AB,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,286847,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,48E663,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,DCECE3,HORYS TECHNOLOGIES LLC,8 the Green suite R Dover  US 19901 
-MA-L,54778A,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,A4403D,"Shenzhen Baseus Technology Co., Ltd.","2nd Floor, Building B, Baseus Intelligence Park, No.2008, Xuegang Rd,Gangtou Community,Bantian Street, Longgang District Shenzhen  CN 518172 "
+MA-L,ECEBB8,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,98F2B3,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,F40343,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,001438,Hewlett Packard Enterprise – WW Corporate Headquarters,20555 State Highway 249 Houston TX US 77070 
 MA-L,D4F5EF,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,08F1EA,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,9C8CD8,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
@@ -28098,13 +28107,12 @@ MA-L,904C81,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothi
 MA-L,B88303,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,040973,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,3817C3,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,ECEBB8,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,98F2B3,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,F40343,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,001438,Hewlett Packard Enterprise – WW Corporate Headquarters,20555 State Highway 249 Houston TX US 77070 
+MA-L,4C8125,"ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd","Runye Precision Manufacturing Industrial Park, among the north of Xiangjing Road, the west of Xinpi Road and the south of Yangzi Road, located in the High-tech Zone, Heyuan City, Guangdong Province  Heyuan City Guangdong Province CN 518100 "
+MA-L,54778A,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,70106F,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,44C532,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,30D4E2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,DCECE3,HORYS TECHNOLOGIES LLC,8 the Green suite R Dover  US 19901 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -35113,15 +35121,16 @@ MA-L,34E3FB,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,B05A44,Fibocom Wireless Inc.,"1101,Tower A, Building 6, Shenzhen International Innovation Valley, Dashi 1st Rd, Nanshan Shenzhen Guangdong CN 518055 "
 MA-L,38F18F,"Technicolor (China) Technology Co., Ltd.","No.A2181,2F,Zhongguancun Dongsheng Science and Technology Park, Jia No.18, Xueqing Rd., Haidian District Beijing  CN 100083 "
 MA-L,601D16,Med-Eng Holdings ULC,2400 St. Laurent Blvd. Ottawa Ontario CA K1G 6C4 
-MA-L,303FBB,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,9CDC71,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,88E9A4,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,9440C9,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,943FC2,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,40B93C,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,A8BD27,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,D89403,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,E0071B,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
-MA-L,4099F6,"Telink Semiconductor(Shanghai) Co.,Ltd","Bldg 3, No.1500, Zuchongzhi Rd shanghai   CN 201203 "
-MA-L,985A98,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,303FBB,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,9CDC71,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,88E9A4,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,943FC2,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,40B93C,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
+MA-L,9440C9,Hewlett Packard Enterprise – WW Corporate Headquarters,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,E0AD9B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,985A98,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,4099F6,"Telink Semiconductor(Shanghai) Co.,Ltd","Bldg 3, No.1500, Zuchongzhi Rd shanghai   CN 201203 "
+MA-L,08A6F7,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
