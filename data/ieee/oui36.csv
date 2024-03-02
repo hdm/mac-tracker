@@ -2304,7 +2304,6 @@ MA-S,8C1F64FED,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247
 MA-S,8C1F64B98,"Calamity, Inc.",Singerstraße 41 Berlin  DE 10243 
 MA-S,8C1F646A4,Automata Spa,Via Carducci 705 Caronno Pertusella Varese IT 21042 
 MA-S,8C1F64B79,AddSecure Smart Grids,Campus Gräsvik 1 Karlskrona  SE 37175 
-MA-S,8C1F6480E,Taoglas IoT Solutions Ltd ,"DCU Alpha , Innovation House, Old Finglas Road  DUBLIN 11 Dublin IE D11 KXN4 "
 MA-S,8C1F647B7,James G. Biddle dba Megger,400 Opportunity Way Phoenixville PA US 19460 
 MA-S,8C1F64D17,I.S.A. - Altanova group srl,via Freguglia 2 Milano MI IT 20122 
 MA-S,8C1F64FAB,LIAN Corporation,"#705 7F, 84 Gasan Digital 1-ro, Geumcheon-gu Seoul  KR 08590 "
@@ -2359,6 +2358,9 @@ MA-S,8C1F64014,Cristal Controles Ltee,2025 Lavoisier #135 Quebec  CA G1N 4L6
 MA-S,70B3D59D4,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
 MA-S,8C1F6438E,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180 
 MA-S,8C1F64319,Exato Company,50 Cottage Ave Lancaster PA US 17602 
+MA-S,8C1F6480E,TxWireless Limited,"DCU Alpha, Innovation Campus, Old Finglas Road Dublin Glasnevin IE D11 KXN4 "
+MA-S,8C1F6443A,Spacelite Inc,152 Bull Domingo Lane Westcliffe CO US 81252 
+MA-S,8C1F64CA2,eumig industrie-TV GmbH.,Gewerbeparkstrasse 9 Anif Salzburg AT 5081 
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,70B3D5159,RCH SPA,Via Cendon 39 Silea  IT 31057 
@@ -3335,7 +3337,6 @@ MA-S,70B3D52F1,Inspike S.R.L.,via G. De Castillia 7 Vimercate MB IT 20871
 MA-S,70B3D50DF,B.E.A. sa,Allée des Noisetiers 5 Angleur Liege BE 4031 
 MA-S,70B3D5D9C,Subinitial LLC,10160 Three Oaks Way Santee CA US 92071 
 MA-S,70B3D5823,SP Controls,930 Linde Ave South San Francisco CA US 94080 
-MA-S,70B3D5923,eumig industrie-tv GmbH,Gewerbeparkstr. 9 Anif Salzburg AT 5081 
 MA-S,70B3D5B78,HOERMANN GmbH,Hauptstr. 45-47 Kirchseeon Bavaria DE 85614 
 MA-S,70B3D5D0A,Private,
 MA-S,70B3D5146,3City Electronics,Jaskowa Dolina 9/5a Gdansk pomorskie PL 80-252 
@@ -3531,6 +3532,7 @@ MA-S,8C1F64D4F,Henan Creatbot Technology Limited,"6#, Chaoya Industry Park, Hang
 MA-S,8C1F64BD5,Pro-Custom Group,13030 Alondra Blvd. unit 101 Cerritos CA US 90703 
 MA-S,8C1F64BFE,PuS GmbH und Co. KG,Hainstr. 13 Gera Germany DE 07545 
 MA-S,8C1F64E71,Alma,La Bastide Blanche Bat B4 Vitrolles PACA FR 13127 
+MA-S,70B3D5923,eumig industrie-TV GmbH.,Gewerbeparkstr. 9 Anif Salzburg AT 5081 
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
 MA-S,8C1F644F6,Private,
@@ -4713,6 +4715,7 @@ MA-S,8C1F64D77,Private,
 MA-S,8C1F6425F,Acuris Inc,"A-810 D-tech tower, 33 Gwacheondae-7gil Gwacheon-si Gyeonggi-do KR 13840 "
 MA-S,8C1F64755,Flextronics International Kft,38. Zrinyi Str. Zalaegerszeg Zala HU 8900 
 MA-S,8C1F640A0,TECHNIWAVE,35 RUE DE MONTFORT - ZA LE CLOS DE VILLARCEAUX THOIRY  FR 78770 
+MA-S,8C1F6422D,KAYSONS ELECTRICALS PRIVATE LIMITED,"SH 15/79 A, Shivpur Varanasi Uttar Pradesh IN 221003 "
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,8C1F643C8,BTG Instruments AB,Industrigatan 1-3 Saffle Varmland SE 66132 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
@@ -5874,3 +5877,4 @@ MA-S,8C1F64273,Distran AG,Heinrichstrasse 200 Zurich  CH 8005
 MA-S,8C1F64ABF,STACKIOT TECHNOLOGIES PRIVATE LIMITED,"UNIT 1 TO 6, 3RD FLOOR, JMD EMPIRE SQUARE, MG ROAD, SECTOR 28 GURUGRAM HARYANA IN 122001 "
 MA-S,8C1F6407D,Talleres de Escoriaza SAU,"Barrio Ventas 35, Irun Irun Gipuzkoa ES 20305 "
 MA-S,8C1F64ACB,Villari B.V.,Oostsingel 209 Delft  NL 2612HL 
+MA-S,8C1F642BF,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
