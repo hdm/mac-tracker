@@ -7073,14 +7073,18 @@ MA-L,000B86,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA
 MA-L,883A30,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,7CA62A,Hewlett Packard Enterprise ,8000 Foothills Blvd. Roseville CA US 95747 
 MA-L,2462CE,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
-MA-L,68B76B,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,D8D8E5,Vantiva Connected Home - Technologies Telco,"4855 Peachtree Industrial Blvd, Suite 200 Norcross GA US 30902 "
+MA-L,4C2338,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,4472AC,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,A86E84,TP-LINK CORPORATION PTE. LTD.,7 Temasek Boulevard #29-03 Suntec Tower One Singapore  SG 038987 
 MA-L,888C1B,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
+MA-L,3CF083,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,C0D941,"Shenzhen VMAX Software Co., Ltd.","Yinhe Fengyun Building, Gaoxin North Sixth Road Shenzhen Guangdong CN 518000 "
+MA-L,68B76B,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,9C1221,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
 MA-L,103F8C,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,F09E9E,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,D8D8E5,Vantiva Connected Home - Technologies Telco,"4855 Peachtree Industrial Blvd, Suite 200 Norcross GA US 30902 "
-MA-L,4C2338,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
+MA-L,3C94FD,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14093,6 +14097,7 @@ MA-L,ECFCC6,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA
 MA-L,64E881,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,EC3BAF,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,48E2AD,HUMAX NETWORKS,"HUMAX VILLAGE, 216Hwangsaeul-ro, Bundang gu Seongnam-si Gyeonggi-do KR 13595 "
+MA-L,5038AB,PROVE,"CNT Tower, 338 Hennessy Road, Wan Chai Hong Kong  HK 000000 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21150,6 +21155,8 @@ MA-L,7C573C,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA
 MA-L,348A12,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,E0604A,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,E80690,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,1063A3,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,5006F5,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110 
 MA-L,B4C799,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,58696C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,8C8394,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
@@ -35285,6 +35292,7 @@ MA-L,9460D5,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA
 MA-L,882510,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
 MA-L,D4E053,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,441244,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
-MA-L,B837B2,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
 MA-L,54F0B1,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr CA US 95002 
+MA-L,B837B2,Hewlett Packard Enterprise,3333 Scott Blvd Santa Clara CA US 95054 
+MA-L,0CD3A1,Monthly Kitchen,"Monthly Kitchen, 6F, 312, Yeongdong-daero, Gangnam-gu Seoul  KR 06177 "
 MA-L,001EC6,"Leviton Manufacturing Co., Inc",10385 SW Avery St Tualatin OR US 97062 
