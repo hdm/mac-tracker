@@ -3770,7 +3770,6 @@ MA-L,086DF2,"Shenzhen MIMOWAVE Technology Co.,Ltd", Shenzhen Guangdong CN 518172
 MA-L,98C0EB,Global Regency Ltd,"20F, Phase A, Wenjin Plaza, Shen Zhen Guangdong CN 518000 "
 MA-L,D09C30,"Foster Electric Company, Limited","1-1-109, Tsutsujigaoka Akishima Tokyo JP 196-8550 "
 MA-L,949F3F,Optek Digital Technology company limited,"Room508 Build A, Shennan Garden, Shenzhen Science and Industry Park, Nanshan Shenzhen GuangDong CN 518057 "
-MA-L,E817FC,Fujitsu Cloud Technologies Limited,"JR Kawasaki Tower, 1-5, Omiyacho, Saiwai-ku Kawasaki-shi Kanagawa-ken,  JP 212-0014 "
 MA-L,78FEE2,"Shanghai Diveo Technology Co., Ltd","No.8,Lane 777,LongWu Rd  Shanghai CN 200232 "
 MA-L,444891,"HDMI Licensing, LLC","1140 East Arques, Suite 100 Sunnyvale CA US 94085 "
 MA-L,FC923B,Nokia Corporation,Joensuunkatu 7 Salo N.A. FI 24101 
@@ -7115,10 +7114,15 @@ MA-L,BC2978,Prama Hikvision India Private Limited,"Prama Hikvision India Pvt Ltd
 MA-L,1423F3,Broadcom Limited,15191 Alton Parkway Irvine CA US 92618 
 MA-L,9CDAA8,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,9C0E51,Schneider Electric,35 Rue Joseph Monier Rueil Malmaison  FR 92500 
-MA-L,C8EED7,Lightspeed Technologies Inc.,11509 SW Herman Rd Tualatin OR US 97062 
-MA-L,58D15A,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,0C07DF,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,203B34,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,EC09C9,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,6C3A36,Glowforge Inc,"1938 Occidental Ave S, Suite C, Seattle WA US  98134 "
+MA-L,C8EED7,Lightspeed Technologies Inc.,11509 SW Herman Rd Tualatin OR US 97062 
+MA-L,603192,OVT India pvt Ltd ,"C-45, Sector 57 Rd, Rajat Vihar, Block C, Sector 57, Noida, Uttar Pradesh 201301 Noida  IN 201301 "
+MA-L,0CEA14,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+MA-L,58D15A,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,E817FC,Fujitsu Limited,"Fujitsu Technology Park, 4-1-1 Kamikodanaka Nakahara-ku Kawasaki Kanagawa JP 211-8588 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14161,8 +14165,11 @@ MA-L,F49ECE,"Sena Technologies Co., Ltd.","19 Heolleung-ro 569-gil, Gangnam-gu S
 MA-L,34105D,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,F0D635,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,F87A39,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,EC5BCD,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,9CDBCB,"Funshion Online Technologies Co.,Ltd","5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan Wuhan CN/Hubei CN 430000 "
+MA-L,382CE5,Tuya Smart Inc.,FLAT/RM 806 BLK ? 8/F CHEUNG SHA WAN PLAZA 833 CHEUNG SHA WAN ROAD KL hongkong Hong Kong CN 999077 
+MA-L,847848,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+MA-L,C418FC,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,EC5BCD,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21241,15 +21248,18 @@ MA-L,241651,Chipsea Technologies (Shenzhen) Corp.,"3 / F, Block A, Building 2, S
 MA-L,58769C,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
 MA-L,F0090D,TP-LINK CORPORATION PTE. LTD.,7 Temasek Boulevard #29-03 Suntec Tower One Singapore  SG 038987 
 MA-L,54FA89,Medtronic CRM,8200 Coral Sea Street NE MVN22 Mounds View MN US 55112 
-MA-L,0C85E1,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,905F7A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,F8F58C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,282E89,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,90FB5D,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,7C72E7,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,3030D0,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,54FEEB,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,14BEFC,"Nanjing Jiahao Technology Co., Ltd.","Moling Industrial Park, Development Zone, Jiangning, Nanjing Nanjing Jiangsu CN 211111 "
-MA-L,E01CA7,"Arista Networks, Inc.",5453 Great America Parkway Santa Clara  US 95054 
 MA-L,441690,"Wuxi Ranke Technology Co., Ltd.","110-268, 1st Floor, Building A10, No,777 Jianzhu West Road, Livuan Street Binhy District Wuxi Jiangsu CN 214062 "
+MA-L,14BEFC,"Nanjing Jiahao Technology Co., Ltd.","Moling Industrial Park, Development Zone, Jiangning, Nanjing Nanjing Jiangsu CN 211111 "
+MA-L,905F7A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,F8F58C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,E01CA7,"Arista Networks, Inc.",5453 Great America Parkway Santa Clara  US 95054 
+MA-L,0C85E1,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,20DBEA,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -28373,6 +28383,8 @@ MA-L,3C3B77,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,E84A78,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,7402E1,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,58FCE3,"Funshion Online Technologies Co.,Ltd","2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing Beijing  CN 100029 "
+MA-L,D0AE05,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,48A170,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -35452,11 +35464,16 @@ MA-L,849E56,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Ton
 MA-L,249E7D,"Beijing Roborock Technology Co., Ltd.","Floor 6,Building C,Kangjian Baosheng Plaza,No. 8 Heiquan Road,Haidian District Beijing Beijing CN 100085 "
 MA-L,909F22,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,2CCA16,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,14147D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,5C8AAE,CHINA DRAGON TECHNOLOGY LIMITED,"B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City ShenZhen  CN 518100 "
-MA-L,7C2C67,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,102381,"Barrot Technology Co.,LTD","A1009, Block A, Jia Hua Building, No.9 Shangdisanjie St, Haidian District,  beijing beijing CN 100000 "
+MA-L,E8B723,"Shenzhen Vatilon Electronics Co.,Ltd","2nd F No. 5th Bldg., SZCG Guanlan Automotive Electronics Characteristic Industrial Park, No.299 Guanping Rd. Longhua, Shenzhen Shenzhen  CN 518000 "
 MA-L,1889A0,"Funshion Online Technologies Co.,Ltd","5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan Wuhan CN/Hubei CN 430000 "
 MA-L,983F66,"Funshion Online Technologies Co.,Ltd","5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan Wuhan CN/Hubei CN 430000 "
 MA-L,8431A8,"Funshion Online Technologies Co.,Ltd","5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan Wuhan CN/Hubei CN 430000 "
+MA-L,5C8AAE,CHINA DRAGON TECHNOLOGY LIMITED,"B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City ShenZhen  CN 518100 "
+MA-L,7C2C67,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,DC69B5,eero inc.,660 3rd Street San Francisco CA US 94107 
-MA-L,102381,"Barrot Technology Co.,LTD","A1009, Block A, Jia Hua Building, No.9 Shangdisanjie St, Haidian District,  beijing beijing CN 100000 "
+MA-L,14147D,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,C08A60,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,C8608F,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,98874C,SERVERCOM (INDIA) PRIVATE LIMITED,E-43/1 OKHLA INDUSTRIAL AREA PHASE-II NEW DELHI SOUTH DELHI NEW DELHI  IN NA 
+MA-L,1C6A1B,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
