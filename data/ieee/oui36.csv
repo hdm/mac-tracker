@@ -88,7 +88,6 @@ MA-S,8C1F64B14,"Murata Manufacturing CO., Ltd.","4-3-8, Minatomirai, Nishi-ku Yo
 MA-S,8C1F64744,CHASEO CONNECTOME,"2floor, 14, Nambusunhwan-ro 378-gil Gangnam-gu seoul KR 06296 "
 MA-S,8C1F649A5,Xi‘an Shengxin Science& Technology Development Co.?Ltd.,"No.3,Electronic West Street,Electronic Industrial Park, Hi-tech Zone ,Xi'an City,Shaanxi Province Xi‘an  CN 710065 "
 MA-S,8C1F649E8,GHM Messtechnik GmbH,"Tenter Weg, 2-8 Remscheid  DE 42897 "
-MA-S,8C1F645D6,"Portrait Displays, Inc.",6663 OWENS DR PLEASANTON  US 94588 
 MA-S,8C1F641D8,Mesomat inc.,"175 Longwood Road South, Suite 303A Hamilton Ontario CA L8P0A1 "
 MA-S,8C1F6490D,Algodue Elettronica Srl,"Via P. Gobetti, 16F Maggiora NO IT 28014 "
 MA-S,8C1F649B2,Emerson Rosemount Analytical,8200 Market Blvd. Chanhassen MN US 55317-9687 
@@ -1229,6 +1228,7 @@ MA-S,8C1F642D5,J&J Philippines Corporation,"Lot 24 Phase 1-A First Philippine In
 MA-S,8C1F64E3C,Finotex Electronic Solutions PVT LTD,F-443D Road No. 12 V.K.I Area Jaipur Jaipur Rajasthan IN 302013 
 MA-S,8C1F64720,"Hangzhou Huasu Technology CO., LTD.","2nd & 3rd Floor of No.3 Building, No.1418-50 Moganshan Road, Hangzhou, China Hangzhou  CN 310000 "
 MA-S,8C1F64566,Ultiroam,"C/O Arena Partners, Immeuble Nice Premier A 455 Promenade des Anglais Nice Alpes Maritimes FR 06200 "
+MA-S,8C1F645D6,"Portrait Displays, Inc.","4637 Chabot Drive, Suite 115 Pleasanton CA US 94588 "
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64E80,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
@@ -3930,7 +3930,6 @@ MA-S,8C1F64135,Yuval Fichman,37 Mishmar Hayarden St. Tel Aviv  IL 6986519
 MA-S,70B3D5508,INSEVIS GmbH,Am Weichselgarten 7 Erlangen  DE D-91058 
 MA-S,8C1F64D7E,Thales Belgium,Rue Des Frères Taymans 28 Tubize Brussels BE 1480 
 MA-S,8C1F64856,Garten Automation,"Av. Herbert Hadler, 1367 Pelotas Rio Grande do Sul BR 96050460 "
-MA-S,8C1F64903,"Portrait Displays, Inc.",6663 OWENS DR PLEASANTON CA US 94588 
 MA-S,8C1F64264,BR. Voss Ingenjörsfirma AB,Getängsvägen 4 Borås  SE 50468 
 MA-S,8C1F64A57,EkspertStroyProekt,"office 422, str.1, d.1, ul. Eniseyskaya Moscow  RU 129344 "
 MA-S,8C1F64549,Brad Technology,20 Avenue des Erables Avignon  FR 84000 
@@ -4081,7 +4080,6 @@ MA-S,70B3D5B75,Grossenbacher Systeme AG,Spinnereistrasse 10 St. Gallen  CH 9008
 MA-S,70B3D5D2A,ITsynergy Ltd,9 Bonhill Street London  GB EC2A 4DJ 
 MA-S,70B3D5C94,Vars Technology ,Squires gate industrial estate Unit 14 Blackpool lancashire  GB FY4 3RN 
 MA-S,70B3D5641,Burk Technology,7 Beaver Brook road Littleton MA US 01460 
-MA-S,70B3D5D77,"Portrait Displays, Inc.",6663 OWENS DR PLEASANTON CA US 94588 
 MA-S,70B3D5869,chargeBIG,Pragstraße 26-46 Stuttgart  DE 70376 
 MA-S,70B3D51E7,DogWatch Inc,10 Michigan Drive Natick  US 01760 
 MA-S,70B3D50DB,Cryptotronix LLC,P.O. Box 273029 Fort Collins CO US 80525 
@@ -4910,13 +4908,15 @@ MA-S,8C1F64B6C,"Laser Mechanisms, Inc.",25325 Regency Dr. Novi MI US 48375
 MA-S,8C1F64DCB,"Beijing Ceresdata Technology Co., LTD","Tower B 2th FI., Bldg.12,(East Zone) No.10 Xibeiwangdong Road, Haidian District Beijing Beijing CN 100193 "
 MA-S,8C1F641E8,Haptech Defense Systems,612 Andrew Higgins Blvd 1st floor New Orleans LA US 70130 
 MA-S,8C1F64477,Blaucomm Ltd,Unit 11 Mercian Park Tamworth Staffordshire GB B77 4DP 
-MA-S,8C1F64F60,"Portrait Displays, Inc.",6663 OWENS DR PLEASANTON  US 94588 
 MA-S,8C1F646A3,Becton Dickinson,7 Loveton Circle Sparks  US 21152 
 MA-S,8C1F64F6C,Sonatronic,8 rue Montespan Evry  FR 91000 
 MA-S,8C1F64D49,FUTURE LIFE TECHNOLOGY,"13Fl., No. 963, Jong-Jeng Rd., Jong-Ho Dist., New Taipei City, Taiwan 23544 New Taipei ChangHua County TW 23544 "
 MA-S,8C1F64465,IXORIGUE TECHNOLOGIES SL,Calle Bailen 41 Madrid Madrid ES 28005 
 MA-S,8C1F64C67,Oriux,5825 N. Sam Houston Pkwy WSuite 220 Houston TX 77086 United S Houston TX US 77086 
 MA-S,8C1F64E2F,Breas Medical AB,Företagsvägen 1 Mölnlycke  SE SE-435 33 
+MA-S,70B3D5D77,"Portrait Displays, Inc.","4637 Chabot Drive, Suite 115 Pleasanton CA US 94588 "
+MA-S,8C1F64903,"Portrait Displays, Inc.","4637 Chabot Drive, Suite 115 Pleasanton CA US 94588 "
+MA-S,8C1F64F60,"Portrait Displays, Inc.","4637 Chabot Drive, Suite 115 Pleasanton CA US 94588 "
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,8C1F643C8,BTG Instruments AB,Industrigatan 1-3 Saffle Varmland SE 66132 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
@@ -6142,3 +6142,5 @@ MA-S,8C1F64DE2,Softgent sp. z o.o.,Budowlanych 31d/301 Gdansk  PL 80-298
 MA-S,8C1F6421A,Exicom Technologies India Pvt. Ltd.,"1002, Quantum Tower, Off S. V. Road, Rambaug Lane, Malad (w) Mumbai  IN 400064 "
 MA-S,8C1F649C6,Golding Audio Ltd,"8 Peartree Business Centre, Stanway Colchester Essex GB CO30JN "
 MA-S,8C1F648FB,Televic Rail GmbH,Teltowkanalstr.1 Berlin  DE 12247 
+MA-S,8C1F640A5,Gomero Nordic AB,Kämpegatan 16 Gothenburg  SE 411 04 
+MA-S,8C1F64D58,Zumbach Electronic AG,Hauptstrasse 93 Orpund  CH 2552 
