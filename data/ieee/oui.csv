@@ -7252,6 +7252,9 @@ MA-L,905671,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,70BD96,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,BCFCE7,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
 MA-L,081287,"Jiangxi Risound Electronics Co.,LTD","No 271,innovation Avenue, Jinggangshan economic and Technological Development Zone Ji'an Jiangxi CN 343100 "
+MA-L,6C4F89,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
+MA-L,A809B1,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,34A8DB,SenArch ApS,"C/O DTU Science Park Diplomvej 372, 1. Kgs Lyngby Copenhagen DK 2800 "
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14411,6 +14414,8 @@ MA-L,F4650B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,B41678,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,3CDC03,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,C0A3C7,Telink Micro LLC,2975 Scott Blvd #120 Santa Clara  US 95054 
+MA-L,4C6460,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
+MA-L,E826CF,"Shenzhen Jingxun Technology Co., Ltd.","3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District Shenzhen  CN 518071 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21611,9 +21616,16 @@ MA-L,E4D58B,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road 
 MA-L,0C979B,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
 MA-L,500401,TelHi Corporation,"1-32-2, Kosuge Katsushika-ku Tokyo JP 1240001 "
 MA-L,08F4F0,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,E805DC,"Verifone, Inc.","2560 North First Street, Suite 220 San Jose CA US 95131 "
-MA-L,5C013B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,28DB02,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,881566,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,2845AC,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,A44380,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,1086F4,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,D450EE,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
+MA-L,24215E,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,5C013B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,544DD4,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+MA-L,E805DC,"Verifone, Inc.","2560 North First Street, Suite 220 San Jose CA US 95131 "
 MA-L,A0FB68,Miba Battery Systems GmbH,Maximilianstrasse 4 Bad Leonfelden  AT 4190 
 MA-L,B4C799,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,58696C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -28890,6 +28902,10 @@ MA-L,74051D,"Jiangxi Risound Electronics Co.,LTD","No 271,innovation Avenue, Jin
 MA-L,A8E291,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
 MA-L,148F34,TECNO MOBILE LIMITED,"ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG Hong Kong Hong Kong HK 999077 "
 MA-L,40D521,LG Innotek,"26, HANAMSANDAN 5BEON-RO Gwangju Gwangsan-gu KR 506-731 "
+MA-L,4485DA,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
+MA-L,3C7625,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,60B0E8,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,B83C20,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -36104,3 +36120,7 @@ MA-L,4CC096,"Shenzhen SuperElectron Technology Co.,Ltd.","1213-1214, haosheng bu
 MA-L,648624,"Beijing Global Safety Technology Co., LTD.","Building 1, No.3 Fengxiu Middle Road, Haidian District Beijing  CN 100000 "
 MA-L,886746,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,840F2A,"Jiangxi Risound Electronics Co.,LTD","No 271,innovation Avenue, Jinggangshan economic and Technological Development Zone Jian  Jiangxi CN 343100 "
+MA-L,BCFF54,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,E4B107,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,58B18F,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,4C2B3B,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
