@@ -2187,8 +2187,8 @@ MA-M,B0475E9,MIVO Technology AB,Ruddammsvägen 43 Stockholm  SE 11419
 MA-M,B0475E0,"Shenzhen C & D Electronics Co., Ltd.","9th FIoor, Building 9, No.1 Qingxiang road, BaoNeng Science and TechnoIogy Industrial Park, Longhua New District ShenZhen GuangDong CN 518000 "
 MA-M,ACEF925,PROGNOST Systems GmbH,Daimlerstrasse 10 Rheine NRW DE 48431 
 MA-M,0C47A90,DIGITAL TELEMEDIA TECHNOLOGY PRIVATE LIMITED,"E-169,E Block,Sector-63,NOIDA,Gautambuddha Nagar,Uttar Pradesh,201301 Uttar Pradesh  IN 201301 "
-MA-M,0C47A9D,DIG_LINK,"166, Gosan-ro Gunpo-si Gyeonggi-do KR 15850 "
 MA-M,0C47A9A,"Lens Technology (Xiangtan) Co.,Ltd","16 Baishi West Road, Xiangtan Economic and Technological Development Zone Xiangtan Hunan CN 411100 "
+MA-M,0C47A9D,DIG_LINK,"166, Gosan-ro Gunpo-si Gyeonggi-do KR 15850 "
 MA-M,B84C87A,"Altronix , Corp","140 58th St. Bldg A, Ste 2N Brooklyn NY US 11220 "
 MA-M,8CC8F47,TableSafe,"12220 113th Ave NE, Suite 220 Kirkland WA US 98034 "
 MA-M,58E8760,"Zhuhai Raysharp Technology Co.,Ltd","No.100 of Keji Liu Rd.6, Hi-Tech Zone Zhuhai Guangdong CN  519080 "
@@ -3628,7 +3628,6 @@ MA-M,245DFCE,Dodge,6040 Ponders Court Greenville SC US 29615
 MA-M,E86CC79,"Hangzhou Lanxum Security Technology Co., Ltd","Room 402, Block A, 4th Floor, Building 3, No. 351 changhe Road, Changhe Street, Binjiang District Hangzhou Zhejiang CN 310000 "
 MA-M,E86CC76,KLAB,"94-23,Techno 2-ro Yuseong-gu Daejeon KR 34014 "
 MA-M,0411198,"Shenzhen YIZHENG Technology Co.,Ltd","2305, block A7, Chuangzhi Yuncheng, Liuxian Avenue, Xili Town, Nanshan District ShenZhen GuangDong CN 518000 "
-MA-M,245DFCC,Senix Corporation,"10516 Route 116, Suite 300 Hinesburg VT US 05461 "
 MA-M,245DFCD,"Hunan Honestone lntelligence Technology Co.,Ltd","705, Building 1, Fortune Plaza, Wankuntu, Xiangzhang Road, Yuhua District, Changsha City, Changsha  CN 410007 "
 MA-M,041119E,JULIDA LIMITED,"1F., NO. 137, DATONG ST., BEITOU DIST. TAIPEI CITY Taiwan TW 112 "
 MA-M,0411190,FORT Robotics Inc.,"170 S. Independence Mall, Suite 275W Philadelphia PA US 19106 "
@@ -4436,6 +4435,7 @@ MA-M,ACEF928,"Hangzhou Lifesmart Technology Co., Ltd.","Yuesheng International C
 MA-M,ACEF92E,"JET OPTOELECTRONICS CO., LTD.","7F, 300 Yangguang St Taipei City Neihu Dist. TW 11491 "
 MA-M,0C47A97,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,0C47A94,Private,
+MA-M,245DFCC,Senix ,"10516 Route 116, Suite 300 Hinesburg VT US 05461 "
 MA-M,B84C87E,Private,
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,301F9A9,Deep Sentinel ,600 Main Street Suite C PLEASANTON CA US 94566 
@@ -5564,3 +5564,4 @@ MA-M,B0475E7,MK Vision Joint Stock Company,"Lot C-1B, Thang Long Vinh Phuc Indus
 MA-M,ACEF92D,Robotic Assistance Devices Residential Inc,10800 Galaxie Ave Ferndale MI US 48220 
 MA-M,ACEF92B,"Hunan ciwei intelligent Technology Co., LTD","Building 1, Hepu High tech Industrial Park，Daoxian High-tech Zone,  Yongzhou City  CN 425300 "
 MA-M,ACEF924,LIFT CONTROLS PRIVATE LIMITED,"Survey no 39/1, Murdi, Khandepar, Ponda Ponda Goa IN 403406 "
+MA-M,0C47A9C,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
