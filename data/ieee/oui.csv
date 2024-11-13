@@ -14520,13 +14520,14 @@ MA-L,343E25,OHSUNG,"335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA GUMI GYEONG BUK KR 73
 MA-L,844D4C,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806-2807 
 MA-L,58D61F,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,6C63F8,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
-MA-L,28DE1C,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
-MA-L,347069,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,D8C80C,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
-MA-L,186BE2,LYLINK LIMITED,"RM 511, 5/F, MING SANG IND BLDG, 19-21 HING YIP STREET, KWUN TONG，HONG KONG HONGKONG  HK 999077 "
-MA-L,EC74CD,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,A8741D,Phoenix Contact GmbH & Co. KG,Dringenauer Str. 30 Bad Pyrmont - DE D-31812 
 MA-L,CCCCEA,Phoenix Contact GmbH & Co. KG,Dringenauer Str. 30 Bad Pyrmont - DE D-31812 
+MA-L,28DE1C,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
+MA-L,186BE2,LYLINK LIMITED,"RM 511, 5/F, MING SANG IND BLDG, 19-21 HING YIP STREET, KWUN TONG，HONG KONG HONGKONG  HK 999077 "
+MA-L,D8C80C,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
+MA-L,347069,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,EC74CD,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,0C93A5,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21795,10 +21796,10 @@ MA-L,689575,"Zhejiang Bodyguard Electronic Co., Ltd","598 Xinwen Road, Xinqiao T
 MA-L,20538D,"Hon Hai Precision Industry Co., Ltd.",GuangDongShenZhen ShenZhen GuangDong CN 518109 
 MA-L,9CE91E,TEJAS NETWORKS LTD,Plot 25 JP Software Park Electronics City Phase-1 Bangalore Karnataka IN 560100 
 MA-L,C8FB54,iMin Technology Pte. Ltd.,11 Bishan Street 21 #03-05 Singapore 573943 Singapore  SG 573943 
-MA-L,58DF59,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,C0F853,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,0447CA,"GREE ELECTRIC APPLIANCES, INC. OF ZHUHAI","West Jinji Rd, Qianshan Zhuhai Guangdong CN 519070 "
 MA-L,C02D2E,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
+MA-L,C0F853,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
+MA-L,58DF59,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,44AC85,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -29134,6 +29135,10 @@ MA-L,9CBAC9,Telit Communication s.p.a,Via stazione di prosecco 5B SGONICO Triest
 MA-L,2CDFE6,"Raisecom Technology CO., LTD","No. 11, East Area, No. 10 Block, East Xibeiwang Road Beijing  CN 100094 "
 MA-L,1C0B8B,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
 MA-L,7CBF77,SPEEDTECH CORP. JIO,"No. 568, Sec. 1, Minsheng N. Rd., Guishan Dist., Taoyuan City 338, Taiwan Taoyuan  TW 338 "
+MA-L,8845F0,"GUANGDONG GENIUS TECHNOLOGY CO., LTD.","No.168, Middle Road Of East Gate Xiaobian Community Chang'an Town CN 523851 "
+MA-L,1C784B,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
+MA-L,807933,"Aigentec Technology(Zhejiang) Co., Ltd.","Room 211, Block D, No. 798 Jin 1st Road, Economic & Technological Development Zone, Xiaoshan District, Hangzhou City, Zhejiang Province (Self-declared) Hangzhou  CN 311200 "
+MA-L,D849BF,CELESTICA INC.,1900-5140 Yonge Street PO Box 42    Toronto Ontario CA M2N 6L7 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
