@@ -7305,11 +7305,11 @@ MA-L,E46447,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074
 MA-L,C87023,Altice Labs,"NIF 504705610, Rua Eng. José Ferreira Pinto Basto Aveiro  PT 3810-106 "
 MA-L,382228,Telink Micro LLC,2975 Scott Blvd #120 Santa Clara  US 95054 
 MA-L,542722,Lacroix,17 Rue Océane Saint-Herblain  FR 44800 
-MA-L,A88F99,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,50E099,"HangZhou Atuo Future Technology Co., Ltd","Room E505-1, 5th Floor, Unit 1, Building 10, Alibaba Digital Ecological Innovation Park, No. 1 Aicheng Street, Wuchang Street, Yuhang District HANGZHOU  CN 310000 "
 MA-L,68508C,"Shanghai Sunmi Technology Co.,Ltd.","Room 505, KIC Plaza, No.388 Song Hu Road, Yang Pu District, Shanghai, China Shanghai Yang Pu District CN 200433 "
 MA-L,D823E0,SPEEDTECH CORP. JIO,"No. 568, Sec. 1, Minsheng N. Rd., Guishan Dist., Taoyuan City 338, Taiwan Taoyuan  TW 338 "
 MA-L,A47D78,Edgecore Americas Networking Corporation,20 Mason Irvine CA US 92618 
-MA-L,50E099,"HangZhou Atuo Future Technology Co., Ltd","Room E505-1, 5th Floor, Unit 1, Building 10, Alibaba Digital Ecological Innovation Park, No. 1 Aicheng Street, Wuchang Street, Yuhang District HANGZHOU  CN 310000 "
+MA-L,A88F99,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,E8CF83,Dell Inc.,One Dell Way Round Rock  TX US 78682 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14528,6 +14528,9 @@ MA-L,D8C80C,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,347069,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,EC74CD,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,0C93A5,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,CC1228,"HISENSE VISUAL TECHNOLOGY CO.,LTD",Qianwangang Road 218 Qingdao Shandong CN 266510 
+MA-L,3CE86E,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
+MA-L,0CED71,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21801,6 +21804,8 @@ MA-L,C02D2E,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xiche
 MA-L,C0F853,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,58DF59,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,44AC85,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,E022A1,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,E4FD8C,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -36417,3 +36422,5 @@ MA-L,B4CADD,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,1480CC,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,00A045,Phoenix Contact GmbH & Co. KG,POSTFACH 1341 lower saxony  DE D-31812 
 MA-L,FCB577,Cortex Security Inc,3350 Ulmerton Rd Suite 24 Clearwater  FL US 33762 
+MA-L,FCC2E5,"HOLOWITS TECHNOLOGIES CO.,LTD","1 HARBOURFRONT AVENUE,#14-08,KEPPEL BAY TOWER,SINGAPORE  Singapore  SG 098632 "
+MA-L,981E89,Tianyi Telecom Terminals Company Limited,"12-19 floors inside 101, Floor 4-33, Building 1, Yard 1, Fenghuang Zui Street, Fengtai District, Beijing Beijing  CN 100073 "
