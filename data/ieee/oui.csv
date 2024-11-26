@@ -7327,6 +7327,7 @@ MA-L,588C81,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,3486DA,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,F8CE21,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
 MA-L,F8C903,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+MA-L,7C8C09,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14556,13 +14557,13 @@ MA-L,A00CE2,"Shenzhen Shokz Co., Ltd.",Baoan District Shiyan street Shancheng In
 MA-L,58FB3E,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,C02CED,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,7071B3,Brain Corporation,10182 Telesis Ct UNIT 100 San Diego CA US 92121 
-MA-L,A4E88D,FN-LINK TECHNOLOGY Ltd.,"No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China Changsha Hunan CN 410329 "
-MA-L,98EE94,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
-MA-L,209952,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
-MA-L,284D92,Luminator Technology Group Global LLC,900 Klein Road Plano Texas US 75074 
-MA-L,5CA436,Shenzhen G-world Technology Incorporated Company,"1602, Xingtong Building, No. 88, Baoxing Road, Haiwang Community, Xin 'an Street, Bao 'an District Shenzhen Guangdong CN 518100 "
 MA-L,38182B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,6858A0,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
+MA-L,284D92,Luminator Technology Group Global LLC,900 Klein Road Plano Texas US 75074 
+MA-L,5CA436,Shenzhen G-world Technology Incorporated Company,"1602, Xingtong Building, No. 88, Baoxing Road, Haiwang Community, Xin 'an Street, Bao 'an District Shenzhen Guangdong CN 518100 "
+MA-L,98EE94,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,209952,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,A4E88D,FN-LINK TECHNOLOGY Ltd.,"No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China Changsha Hunan CN 410329 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21852,6 +21853,9 @@ MA-L,646306,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erq
 MA-L,6C9AB4,Brodersen A/S,Islevdalvej 187  Rødovre Hovedstaden DK 2610 
 MA-L,E45D39,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,0490C0,Forvia,Rixbecker Straße 75 Lippstadt  DE 59552 
+MA-L,388D3D,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,50EE32,"Hon Hai Precision Industry Co.,LTD","66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA  TAIPEI 66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI  CN 33859 "
+MA-L,10A450,Kwikset,110 Sargent Dr. New Haven CT US 06511 
 MA-L,B4C799,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,58696C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,8C8394,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
@@ -29199,7 +29203,7 @@ MA-L,D429A7,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE
 MA-L,D8F1D8,"OI ELECTRIC CO.,LTD",7-3-16 KIKUNA YOKOHAMA KANAGAWA-KEN JP 222-0011 
 MA-L,742981,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,18DF26,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
-MA-L,807933,"Aigentec Technology(Zhejiang) Co., Ltd.","Room 211, Block D, No. 79, Jinyi Road, Economic and Technological Development Zone, Xiaoshan District Hangzhou  CN 311200 "
+MA-L,807933,"Aigentec Technology(Zhejiang) Co., Ltd."," Room 211, Block D, No. 79, Jinyi Road, Economic and Technological Development Zone, Xiaoshan District Hangzhou Zhejiang Province CN 311200 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -36487,3 +36491,6 @@ MA-L,4CDA38,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,CCDAB5,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,30E4D8,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,9C4782,"TP-LINK TECHNOLOGIES CO.,LTD.","Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan Shenzhen Guangdong CN 518057 "
+MA-L,5000E6,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
+MA-L,90BFD9,Smart Innovation LLC,"7F,Tower B,Jianxing ShenZhen GuangZhou CN 518055 "
+MA-L,B88880,Shanghai Imilab Technology Co.Ltd,"29F, A Tower, New Caohejing International Business Center, Guiping Road, Xuhui District Shanghai Shanghai CN 200000 "
