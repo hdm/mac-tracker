@@ -7367,6 +7367,9 @@ MA-L,ECDD24,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,30BE29,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,8449EE,Demant Enterprise A/S,Kongebakken 9 Smorum  DK 2765 
 MA-L,3C9722,"shenzhen worldelite electronics co., LTD","Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist Shenzhen Guangdong CN 51800 "
+MA-L,04208A,浙江路川科技有限公司,仓前街道IT公园A幢805 杭州市 浙江省 CN 311121 
+MA-L,A0E06D,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,903CDA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14626,12 +14629,14 @@ MA-L,B4107A,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507
 MA-L,543ADF,"Qualfiber Technology Co.,Ltd","No. 55 building,Zhangkeng Industrial Park,Minzhi,Longhua District,Shenzhen,Guangdong Province,China shenzhen Guangdong CN 518000 "
 MA-L,043D6E,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,5C0610,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,701AD5,Avigilon Alta,"13428 Maxella Ave, #866 Marina Del Rey CA US 90292 "
-MA-L,4CB82C,"Cambridge Mobile Telematics, Inc.",314 Main Street Suite 1200 Cambridge MA US 02142 
-MA-L,30BD13,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
+MA-L,F4D454,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
 MA-L,BC3E0B,"Panasonic Connect Co., Ltd.","4-1-62 Minoshima, Hakata-ku Fukuoka-shi Fukuoka JP 812-8531 "
 MA-L,B46415,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","601,Building B2,No.162,Science Avenue,Science City,Guangzhou High-tech Industrial Development Zone,Guangdong Province,China Guangzhou Guangdong CN 510663 "
-MA-L,F4D454,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
+MA-L,30BD13,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
+MA-L,701AD5,Avigilon Alta,"13428 Maxella Ave, #866 Marina Del Rey CA US 90292 "
+MA-L,4CB82C,"Cambridge Mobile Telematics, Inc.",314 Main Street Suite 1200 Cambridge MA US 02142 
+MA-L,A844AA,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,D87D45,"Nicent Technology Co., Ltd.","F/4, BLK1, No.9 JinHeng 1st Rd. Hi-Tech Park Zhuhai Guangdong CN 519085 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -21560,7 +21565,6 @@ MA-L,5CA3EB,SKODA DIGITAL s.r.o.,Na Rovince 874 Ostrava Hrabova CZ 720 00
 MA-L,5CBE05,ISPEC,"8 Palyong-ro, Uichang-gu, Changwon-si Gyeongsangnam-do  KR 51395 "
 MA-L,08524E,"Shenzhen Fangcheng Baiyi Technology Co., Ltd.","1401, Block B, Rongchao Binhai Building, No. 2021, Haixiu Road, Area N26, Haibin Community, Xin'an Street, Xixiang Shenzhen Guangdong CN 518101 "
 MA-L,ACF42C,Earda Technologies co Ltd,"Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455 "
-MA-L,3877CD,KOKUSAI ELECTRIC CORPORATION,"2-1 Yasuuchi, Yatsuo-Machi Toyama Toyama JP 939-2393 "
 MA-L,508A7F,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,98A878,Agnigate Technologies Private Limited,"75-ROHIT NAGAR, PHASE-2, E-8 EXTENSION, BAWADIYA KALAN, BHOPAL BHOPAL Madhya Pradesh IN 462026 "
 MA-L,E8B527,"Phyplus Technology (Shanghai) Co., Ltd","3th Floor, Building 23, 676 Wuxing Road, Pudong New District, Shanghai Shanghai Shanghai CN 201204 "
@@ -21956,6 +21960,9 @@ MA-L,44C20C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,88948E,Max Weishaupt SE,Max-Weishaupt-Str. 14 Schwendi  DE 88475 
 MA-L,74ADCB,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,647B40,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
+MA-L,186041,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,A06B4A,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District Hui Zhou Guang Dong CN 516006 "
+MA-L,3877CD,KOKUSAI DENKI Electric Inc.,"32 Miyuki-cho Kodaira-shi, Tokyo 187-8511, Japan Tokyo  Japan JP 187-8511 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -29343,6 +29350,9 @@ MA-L,109166,"Shenzhen Yinwang Intelligent Technologies Co.,Ltd.","101 Room 101, 
 MA-L,84F758,"Huizhou BYD Electronic Co., Ltd.","Xiangshui River, Economic Development Zone, Daya Bay, Huizhou, Guangdong, China Huizhou Guangdong CN 516000 "
 MA-L,80CA52,"Wistron InfoComm(Chongqing)Co.,Ltd.","No.18-9 Baohong Avenue, Wangjia Street, Yubei District, Chongqing  Chongqing Yubei CN 4001120 "
 MA-L,F003BC,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,D4E5C9,Senao Networks Inc.,"No.500, Fusing 3rd RD., Kuei-Shan Dist. Taoyuan  Taiwan TW 333001 "
+MA-L,9C4B6B,iFlight Technology Company Limited,Science Park West Avenue Hongkon  HK 999077 
+MA-L,4C4968,"Ruijie Networks Co.,LTD","Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District Fuzhou  CN 35000 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
