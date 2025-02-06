@@ -112,7 +112,6 @@ MA-L,8C53E6,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park
 MA-L,708185,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,50D33B,cloudnineinfo,xiaoshan Wujin load #19 hangzhou zhejiang CN 311258 
 MA-L,84C8A0,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
-MA-L,C0E911,RealNetworks,"1501 1st Ave S., #600 Seattle WA US 98134 "
 MA-L,8C3B4A,"Universal Global Scientific Industrial Co., Ltd.","141, Lane 351, Taiping Road, Sec.1,Tsao Tuen Nan-Tou Taiwan TW 54261 "
 MA-L,A88B28,"SHENZHEN DIYANG SMART TECHNOLOGY CO.,LTD.","Room 202, Building 4, Research & Creation Valley High-tech Incubation Park, Gongming Street, Guangming District, Shenzhen(www.diyangsmart.com) Shenzhen Guangdong CN 518107 "
 MA-L,08F01E,eero inc.,660 3rd Street San Francisco CA US 94107 
@@ -7403,7 +7402,9 @@ MA-L,D42DC5,"i-PRO Co., Ltd.","14th Floor, Shinagawa Intercity Building A, 2-15-
 MA-L,9CDFB3,NXP Semiconductor (Tianjin) LTD.,"No.15 Xinghua Avenue, Xiqing Economic Development Area Tianjin  CN 300385 "
 MA-L,BC8D7E,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,640864,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,A4A404,Bubendorff SAS,"9, allée de la Gare Mulhouse  FR 68100 "
 MA-L,001C2B,Hive,30 Station Road Cambridge Cambridgeshire GB CB1 2RE 
+MA-L,C0E911,RealNetworks,568 1st Avenue S. Suite 600  Seattle WA US 98104 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14709,6 +14710,9 @@ MA-L,00D0CE,TASKING Labs,"BRODISCE 7, 10C  Trzin  SI 1236 "
 MA-L,E0280A,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,8CC573,Xsight Labs LTD.,1 Leshem Street Kiryat Gat Other (Non US) IL 8258401 
 MA-L,9CDAB7,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
+MA-L,38165A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,808800,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,148121,TOP WING Corporation,1-10-2-1102 Sakae-cho  Higashimurayama Tokyo JP 189-0013 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -29507,6 +29511,7 @@ MA-L,0025DF,"Axon Enterprise, Inc.",17800 N 85th St. Scottsdale AZ US 85255
 MA-L,080FE5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,604A77,Finder SpA,via Drubiaglio 14 Almese TO IT 10040 
 MA-L,084B44,Robert Bosch Elektronika Kft. ,Robert Bosch út 1 Hatvan Heves HU 3000 
+MA-L,90F964,Rawasi Co,"6-20, 206, Rokubancho Chiyoda City Tokyo JP 102-0085 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -36866,3 +36871,4 @@ MA-L,10B676,HP Inc.,10300 Energy Dr Spring TX US 77389
 MA-L,54DCE9,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,9CE549,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,C4224E,Telink Micro LLC,2975 Scott Blvd #120 Santa Clara  US 95054 
+MA-L,90B942,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
