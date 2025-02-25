@@ -7414,8 +7414,9 @@ MA-L,F0F6C1,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117
 MA-L,D42DC5,"i-PRO Co., Ltd.","14th Floor, Shinagawa Intercity Building A, 2-15-1  Minato-ku Konan JP 108-6014 "
 MA-L,6CB077,ALL Winner (Hong Kong) Limited,"Unit No.1301,13F,Sunbeam Plaza,1155 Canton Road,Mongkok,Kowloon,Hong Kong Hong Kong  CN 999077 "
 MA-L,D09288,Powertek Limited,C/Mirador d'Encamp 16 Torre 4 Baix 2n Encamp Encamp AD AD200 
-MA-L,6882F2,FIXME GmbH,Holzmarkt 1  Cologne NW DE 50676 
+MA-L,9C65EB,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,943EFD,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,6882F2,FIXME GmbH,Holzmarkt 1  Cologne NW DE 50676 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,E01C41,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,BCF310,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14733,10 +14734,12 @@ MA-L,347E5C,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117
 MA-L,00047E,TKH Security B.V.,Werner von Siemensstraat 7 Zoetermeer Zoetermeer NL 2712 
 MA-L,000E58,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117 
 MA-L,287B11,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
-MA-L,68B1C9,"IYO, Inc",2606 Spring Street Redwood City CA US 94063 
-MA-L,004B12,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,444A37,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,94390E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,C895CE,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,405ECF,Esconet Technologies Limited,"D-147, Okhla Industrial Area, Phase - 1 New Delhi Delhi IN 110020 "
+MA-L,004B12,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,68B1C9,"IYO, Inc",2606 Spring Street Redwood City CA US 94063 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22110,6 +22113,7 @@ MA-L,64DD68,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science 
 MA-L,387707,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,74CA60,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117 
 MA-L,38420B,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117 
+MA-L,80E4BA,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,B4C799,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,58696C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,8C8394,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
@@ -29554,13 +29558,15 @@ MA-L,0C07F3,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,98247B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,588336,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,BCA68D,Continetal Automotive Systems Sibiu,Str. Salzburg nr.8 Sibiu  RO 550018 
-MA-L,2CDA3F,DongGuan Ramaxel Memory Technology Limited,"32 Industrial East Road, Songshan Lake High-tech Industrial Development Zone Dongguan Guangdong CN 523000 "
-MA-L,804AF2,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117 
-MA-L,0001CC,Brand Maker Enabler Inc. ,2F Toyokawa Bldg Shimomaruko  Oota ku Tokyo JP 00000 
-MA-L,30F028,Bosch Sicherheitssysteme GmbH,Fritz-Schäffer-Straße 9 Munich  DE 81737 
-MA-L,50787D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,343839,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,A09A52,"Shenzhen MoreSense Technology Co., Ltd. ","#206 Building A1,#663 Bulong Road,Dafapu Community,Bantian Street, Shenzhen Guangdong CN 518129 "
+MA-L,30F028,Bosch Sicherheitssysteme GmbH,Fritz-Schäffer-Straße 9 Munich  DE 81737 
+MA-L,2CDA3F,DongGuan Ramaxel Memory Technology Limited,"32 Industrial East Road, Songshan Lake High-tech Industrial Development Zone Dongguan Guangdong CN 523000 "
+MA-L,50787D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,FC6D77,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,804AF2,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117 
+MA-L,0001CC,Brand Maker Enabler Inc. ,2F Toyokawa Bldg Shimomaruko  Oota ku Tokyo JP 00000 
+MA-L,381868,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -34893,7 +34899,6 @@ MA-L,001147,Secom-Industry co.LTD.,Fukuoka Kuramoto Ichihonki 3-3 Shiroishi Miya
 MA-L,00114A,"KAYABA INDUSTRY Co,.Ltd.","World Trade Center Bldg., 4-1 Minato-ku, Tokyo Meto. JP 105-6111 "
 MA-L,001142,e-SMARTCOM  INC.,"3F, 216, Imok-Dong Suwon Kyoungki-Do KR 440-310 "
 MA-L,001120,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,000FEC,ARKUS Inc.,"3-8 Chuo-cho 3-8 Noda, Kitaa-Ku  JP 700-0971 "
 MA-L,000FED,"Anam Electronics Co., Ltd",645 Sungkok-dong Ansan-city Kyungki-do KR 425-834 
 MA-L,000FDD,SORDIN AB,Rorlaggarvagen 8 Varnamo Smaland SE S-331 34 
 MA-L,00114D,"Atsumi Electric Co.,LTD.","4-2-2 Shin-Miyakoda, Kita-ku Hamamatsu Shizuoka JP 431-2103 "
@@ -36931,3 +36936,12 @@ MA-L,A80B6B,Chipsea Technologies (Shenzhen) Corp.,"3 / F, Block A, Building 2, S
 MA-L,54EF5B,Science Corporation,300 Wind River Way Alameda CA US 94501 
 MA-L,C4710F,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,1CF43F,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,000FEC,GopherTec Inc.,"3-8 Chuo-cho 3-8 Noda, Kitaa-Ku  JP 700-0971 "
+MA-L,C0A810,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,04F0EE,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,BCF105,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,98FE3E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
+MA-L,58263A,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,D4FE28,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,6C55B1,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,50995A,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
