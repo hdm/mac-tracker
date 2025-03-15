@@ -36,6 +36,7 @@ CID,8A0775,HORYS TECHNOLOGIES LLC,8 the Green suite R Dover  US 19901
 CID,2ADBD7,Vesper Technologies,"Unit 5 Rugby Park, Bletchley Road Stockport Cheshire GB SK4 3EJ "
 CID,3AC6CF,Parakey AB,Sankt Eriksgatan 6 Göteborg  SE 41666 
 CID,2A1597,COTSWORKS,749 Miner Road Highland Heights OH US 44143 
+CID,FA7ACB,Ultra Ethernet Consortium,"c/o The Linux Foundation, 548 Market St. PMB 57274 San Francisco CA US 94104-5401 "
 CID,CAC276,Saab Seaeye Ltd,20 Brunel Way Fareham Hampshire GB PO15 5SD 
 CID,DAE6D7,"NVM Express, Inc. ",3855 SW 153rd Drive Beaverton OR US 97003 
 CID,4AED1D,Astera Labs Inc,"2901 Tasman Dr, #204 Santa Clara CA US 95054 "
@@ -53,7 +54,6 @@ CID,FAD988,Momentum Data Systems,5432 Bolsa Ave Unit B Huntington Beach CA US 92
 CID,BA4DEA,Environexus,50 Ricketts Road Mount Waverley VIC AU 3149 
 CID,EAB89B,"Thread Group, Inc.","2400 Camino Ramon, Ste 375 San Ramon CA US 94583 "
 CID,7A84F0,"McDowell Signal Processing, LLC (dba McDSP)",2083 Old Middlefield Way #204 Mountain View CA US 94043 
-CID,BAA2D0,Wireless Broadband Alliance Ltd,3 Tai Seng Dr #04-01 Singapore  SG 535216 
 CID,BAF21C,ISO/TC22/SC31,Behrenstr. 35 Berlin Berlin DE 10117 
 CID,DA0D38,"Farpointe Data, Inc.",1376 Borregas Ave  Sunnyvale CA US 94089 
 CID,DAC87D,SE Development AB,Box 2096 Karlstad  SE 650 02 
@@ -81,6 +81,7 @@ CID,EA8F96,"Proficium, LLC",1624 Pacific St Union City CA US 94587
 CID,3A1EC0,GENESIS,1325 Capital Circle Lawrenceville GA US 30043 
 CID,BA2DFC,"LINKWING(DONGGUAN)INTELLIGENT ELECTRONICS CO.,LTD","ROOM 101, BUILDING 5, NO.3 XIN CHENG ROAD, SONGSHANHU PARK, DONGGUAN CITY, GUANDONG PROVINCE, CN DONGGUAN GUANGDONG CN 523808 "
 CID,CA083C,"Western Digital Technologies, Inc.",5601 Great Oaks Parkway San Jose CA US 95119-1003 
+CID,BAA2D0,"Wireless Broadband Alliance, Inc","5000 Executive Parkway, Suite 302 San Ramon CA SG 94583  "
 CID,8A852E,Kampr Systems,2047 Kings Lane San Mateo CA US 94402 
 CID,FA00E7,Quantum Machines ltd,Hamasger 35 Tel Aviv  IL 6721407 
 CID,6A71E6,FuelCloud,124 SW Dennis Ave. Hillsboro OR US 97123 
@@ -97,7 +98,6 @@ CID,7A15EC,"Yatomi Techology(ZheJiang) Co.,Ltd","No8 FuYuan Road, YaoZhuang Town
 CID,6A8EAF,Waoo,True Møllevej 9 Tilst Aarhus Municipallity DK 8381 
 CID,4AE03F,Chengdu Superxon communication Technology Co. Ltd.,"No.666, Shaojia Street, Shuangliu District Chengdu Sichuan CN 610225 "
 CID,5A18FF,FiRa Consortium,3855 SW 153RD Drive Beaverton OR US 97003 
-CID,5A03BA,Wireless Broadband Alliance Ltd,3 Tai Seng Dr #04-01 Singapore  SG 535216 
 CID,EABC04,G3-PLC Alliance,34 place des Corolles Paris PARIS LA DEFENSE CEDEX  FR 92079 
 CID,3A3541,Raspberry Pi (Trading) Ltd,"Maurice Wilkes Building, St Johns Innovation Park Cambridge Cambridgeshire GB CB4 0DS "
 CID,BAC485,Fraunhofer IIS,Am Wolfsmantel 33 Erlangen Bayern DE 91058 
@@ -119,6 +119,7 @@ CID,FA556F,SymbolicIO,379 Thornall Edison NJ US 08837
 CID,BA03C6,Schüco International KG,Karolinenstr. 1 - 15 Bielefeld  DE 33609 
 CID,EADA6E,FUJIFILM Recording Media GmbH,Fujistraße 1 Kleve  DE 47533 
 CID,0AF99D,Fitipower Integrated Technology,"3 Floor, No.6-8, Duxing Rd.,Hsinchu Science-Park Hsinchu  TW 30078 "
+CID,5A03BA,"Wireless Broadband Alliance, Inc","5000 Executive Parkway, Suite 302 San Ramon CA SG 94583  "
 CID,DAC451,Takaratomy,7-9-10 Tateishi Katsushika-ku Tokyo JP 124-8511 
 CID,BAC8C4,"Transponder & Reader Engineered Systems, Inc",9651 Chalma Avenue  Baton Rouge LA US 70814 
 CID,CA7DDD,"EmOne (Thailand) Co.,Ltd.",39/1 Soi.Sangkhom Songkhro 12 Lat Phrao Bangkok TH 10230 
