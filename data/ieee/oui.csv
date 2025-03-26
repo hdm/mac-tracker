@@ -7710,8 +7710,6 @@ MA-L,04A526,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,20BA36,u-blox AG,"Zuercherstrasse, 68  Thalwil Switzerland CH CH-8800 "
 MA-L,D80AE6,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,489E9D,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
-MA-L,C0DD8A,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
-MA-L,CCA174,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,18F46B,Telenor Connexion AB,116 88 Stockholm Sverige SE SE-116 88 
 MA-L,28EA0B,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,A41437,"Hangzhou Hikvision Digital Technology Co.,Ltd.","No.469,Jianghui Road Hangzhou Zhejiang CN 310052 "
@@ -14236,7 +14234,6 @@ MA-L,D8F760,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074
 MA-L,005092,Rigaku Corporation Osaka Plant,"14-8, Akaoji, Takatsuki Osaka  JP 569-1146 "
 MA-L,A8CFE0,GDN Enterprises Private Limited,"D-348, Sector-63, Gautam Buddha Nagar, Noida, Uttar Pradesh - 201301 Noida Uttar Pradesh IN 201301 "
 MA-L,54C6A6,"Hubei Yangtze Mason Semiconductor Technology  Co., Ltd.","9F,Qingshan Big Data Valley, No.1,Jianshe 2nd Road, Qingshan District, Wuhan, Hubei Wuhan, Hubei  CN 430080 "
-MA-L,D0B3C2,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,40B82D,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,B0B369,"Shenzhen SDMC Technology CO.,Ltd.","Room 1022, Floor 10, Building A, Customs Building, No. 2, Xin'an 3rd Road, Dalang Community, Xin'an Street, Bao'an District Shenzhen GUANGDONG CN 518101 "
 MA-L,C43EAB,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -14789,14 +14786,19 @@ MA-L,B882F2,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park
 MA-L,8CCD55,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,4027A8,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,D4B4C0,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
-MA-L,F4462A,maxon zub,Buzibachstrasse 31 Rothenburg  CH 6023 
-MA-L,CC3BFB,Ring LLC,12515 Cerise Ave Hawthorne CA US 90250 
-MA-L,A842A1,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606 
-MA-L,687FF0,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606 
+MA-L,C87CE2,Infrawaves,"9th Floor, Block S1, Lujiazui Riverside Center, 5179 Binjiang Avenue, Pudong New District, Shanghai Shanghai Select State CN 200000 "
+MA-L,CCA174,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94025 
+MA-L,C0DD8A,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,C006C3,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606 
 MA-L,7CC2C6,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606 
 MA-L,50BBB5,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
+MA-L,A842A1,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606 
+MA-L,687FF0,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606 
 MA-L,04F41C,Routerboard.com,Mikrotikls SIA Riga Riga LV LV1009 
+MA-L,CC3BFB,Ring LLC,12515 Cerise Ave Hawthorne CA US 90250 
+MA-L,F4462A,maxon zub,Buzibachstrasse 31 Rothenburg  CH 6023 
+MA-L,D0B3C2,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94025 
+MA-L,AC50EE,Tianyi Telecom Terminals Company Limited,"12-19 floors inside 101, Floor 4-33, Building 1, Yard 1, Fenghuang Zui Street, Fengtai District, Beijing Beijing  CN 100073 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -14871,7 +14873,6 @@ MA-L,7C6130,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,80B989,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C4524F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,603E5F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,94F929,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,E03717,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
 MA-L,905851,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
 MA-L,087E64,Vantiva USA LLC,5030 Sugarloaf Parkway Bldg 6  Lawrenceville GA US 30044 
@@ -15072,7 +15073,6 @@ MA-L,D096FB,DZS Inc.,"DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu 
 MA-L,000147,DZS Inc.,7001 Oakport Street Oakland CA US 94621 
 MA-L,000271,DZS Inc.,7001 Oakport Street Oakland CA US 94621 
 MA-L,9C65FA,AcSiP,"3F., No. 246, Bo'ai St., Shulin Dist., New Taipei  TW 23805 "
-MA-L,882508,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,1868CB,"Hangzhou Hikvision Digital Technology Co.,Ltd.","No.469,Jianghui Road Hangzhou Zhejiang CN 310052 "
 MA-L,BCBAC2,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road Hangzhou Zhejiang CN 310052 
 MA-L,C82B6B,"shenzhen worldelite electronics co., LTD","Office 5 F, Xiang Yu Industrial Park, Longsheng Road, Longgang Dist Shenzhen Guangdong CN 51800 "
@@ -21567,7 +21567,6 @@ MA-L,C01693,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erq
 MA-L,FC5B8C,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,284E44,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,802EC3,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,D4D659,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,80053A,CHeKT Inc.,5870 Greenwood Rd. Shreveport LA US 71119 
 MA-L,D8B32F,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,EC90C1,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -22203,6 +22202,11 @@ MA-L,AC15A2,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606
 MA-L,F0090D,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA SG 92606 
 MA-L,189CE1,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,8CE9FF,Dell Inc.,One Dell Way Round Rock  TX US 78682 
+MA-L,8C501A,Private,
+MA-L,882508,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94025 
+MA-L,94F929,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94025 
+MA-L,D4D659,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94025 
+MA-L,441D64,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -22490,7 +22494,6 @@ MA-L,68C8EB,Rockwell Automation,1 Allen-Bradley Dr. Mayfield Heights OH US 44124
 MA-L,7CBFAE,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,80AFCA,"Shenzhen Cudy Technology Co., Ltd.","Room A606, Gaoxinqi Industrial Park, Baoan 67 Dist Baoan 67 District, Shenzhen  CN 518101 "
 MA-L,1C6E74,EnOcean Edge Inc.,8184 S. Highland Dr. Ste C5 Sandy UT US 84093 
-MA-L,B417A8,"Meta Platforms Technologies, LLC",1 Hacker Way Menlo Park CA US 94025 
 MA-L,C09573,AIxLink,"Office 2702, Unit3, Building 1, Shudu Center Phase II. 333 Jiqing Third Road. High-Tech Zone Chegndu Sichuan CN 610041 "
 MA-L,04472A,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
 MA-L,C02C17,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -29690,6 +29693,7 @@ MA-L,B01921,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA SG 92606
 MA-L,3C52A1,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606 
 MA-L,5091E3,TP-Link Systems Inc,5 Peters Canyon Rd Suit 300 Irvine CA HK 92606 
 MA-L,24DF17,"Shenzhen Sande Dacom Electronics Co., Ltd",bantian shenzhen Guangdong CN 518129 
+MA-L,B417A8,"Meta Platforms, Inc.",1 Hacker Way Menlo Park CA US 94025 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
@@ -29967,7 +29971,6 @@ MA-L,001D9C,Rockwell Automation,1 Allen-Bradley Dr. Mayfield Heights OH US 44124
 MA-L,D019D3,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
 MA-L,CCACFE,"Telink Semiconductor (Shanghai) Co., Ltd.","No. 1500 Zuchongzhi Rd, Building #3 Shanghai  CN 201203 "
 MA-L,886EDD,"Micronet union Technology(Chengdu)Co., Ltd."," No.502, Building 5, No. 528, Yuefei Road, Shibantan Street, Xindu District Chengdu Sichuan CN 610000 "
-MA-L,80F3EF,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,D8B249,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,C49D08,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,4C5ED3,Unisyue Technologies Co; LTD.,"Room 402, No. 2 Building, NO.1 ZhongGuancun East Rd, HaiDian District, Beijing, People’s Republic of China Beijing  CN 100190 "
@@ -36579,7 +36582,6 @@ MA-L,E4B063,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,20F094,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,60C22A,"Allwinner Technology Co., Ltd","No.9 Technology Road 2, High-Tech Zone Zhuhai Guangdong CN 519085 "
 MA-L,700894,Liteon Technology Corporation,"4F, 90, Chien 1 Road New Taipei City Taiwan TW 23585 "
-MA-L,8457F7,"Meta Platforms Technologies, LLC",1601 Willow Rd Menlo Park CA US 94025 
 MA-L,8813BF,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,345F45,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,A41162,Arlo Technology,"480 North McCarthy Blvd, Suite 200 Milpitas CA US 95035 "
@@ -37104,3 +37106,7 @@ MA-L,503A0F,ALL Winner (Hong Kong) Limited,"Unit No.1301,13F,Sunbeam Plaza,1155 
 MA-L,EC34E2,Private,
 MA-L,C8AAB2,"SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD","Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China SHENZHEN GUANGDONG CN 518057 "
 MA-L,E4197F,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,88225B,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
+MA-L,80F3EF,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94025 
+MA-L,8457F7,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94025 
+MA-L,A84674,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
