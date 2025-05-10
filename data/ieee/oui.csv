@@ -7493,6 +7493,7 @@ MA-L,88C78F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,48C381,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,0C1C31,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057 "
 MA-L,30C91B,"Zhen Shi Information Technology（Shanghai）Co.,Ltd.","5F, Building 3?No. 401 Caobao Road, Xuhui District, Shanghai, ChinaShanghai  Shanghai  CN 200233 "
+MA-L,A8ED71,Analogue Enterprises Limited,"2-6 Foo Ming Street, 2J Po Ming Building Causeway Bay  HK 999077 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14891,6 +14892,7 @@ MA-L,34588A,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,E08C3C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,74D5B8,Infraeo Inc,101 E Old Settlers Blvd #160 Round Rock TX US 78664 
 MA-L,2002C9,"Zhejiang Huayi IOT Technology Co.,Ltd","Room 7001, floor 7, building 1, No. 8, gaoshun Road, Wuchang Street, Yuhang District, Hangzhou City, Zhejiang Province  Hangzhou Zhejiang CN 310000 "
+MA-L,E48A93,"HISENSE VISUAL TECHNOLOGY CO.,LTD",Qianwangang Road 218 Qingdao Shandong CN 266510 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -29229,7 +29231,6 @@ MA-L,3C0868,Power Plus Communications AG,Dudenstrasse 6 Mannheim  DE 68167
 MA-L,901564,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,408F9A,KanEL Sweden AB,Peter Myndes backe 16 Stockholm  SE 11846 
 MA-L,001CA1,Akamai Technologies Inc.,145 Broadway Cambridge MA US 02142 
-MA-L,507973,"Inagile Electronic Technology Co.,LTD.","Building 9,no.1 guanpu road suzhou City Jiangsu Province,P.R.China Suzhou  CN 215000 "
 MA-L,5C3548,Aditya Infotech Ltd.,"Khemka Square, A-12, Sector-4, Noida Uttar Pradesh IN 201301 "
 MA-L,20500F,Fiber Groep B.V.,Transistorstraat 7 Almere Flevoland NL 1322CJ 
 MA-L,D009F5,Hosiden Corporation,"4-33, Kitakyuhoji 1-chome Yao Osaka JP 5810071 "
@@ -29879,6 +29880,10 @@ MA-L,CC40F3,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunny
 MA-L,841FE8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,94C2EF,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,E467A6,BSH Hausgeräte GmbH,Im Gewerbepark B35 Regensburg Bayern DE 93059 
+MA-L,507973,"Inagile Electronic Technology Co.,LTD.","Building 8, No.1 Jingyi Road, Wuzhong Free Trade Zone, Suzhou, Jiangsu, China Suzhou  CN 215000 "
+MA-L,7CE913,Fantasia Trading LLC,"5350 Ontario Mills Pkwy, Suite 100 Ontario CA US 91764 "
+MA-L,382A8B,"nFore Technology Co., Ltd.","5F, No.31, Ln. 258, Ruiguang Rd., Neihu Dist.,  Taipei city  TW 114 "
+MA-L,74A57E,Panasonic Ecology Systems,"4017, Azashimonakata, Takaki-cho Kasugai Aichi JP 4868522 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37331,3 +37336,4 @@ MA-L,603C68,Garmin International,1200 E. 151st St Olathe KS US 66062
 MA-L,5CA64F,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,64CDF1,"KO & AL Co., Ltd","#202, 251 Yatap-ro, Bundang-gu Seongnam-si Gyeonggi-do KR 13508 "
 MA-L,185111,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
+MA-L,2051F5,Earda Technologies co Ltd,"Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455 "
