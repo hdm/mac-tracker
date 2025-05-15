@@ -7484,14 +7484,14 @@ MA-L,089707,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,A401DE,SERCOMM PHILIPPINES INC,"Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City Calamba  PH Lot 1 "
 MA-L,68F44B,Home Control Singapore Pte Ltd,"1 Paya Lebar Link, PLQ 1, #04-01(Office 448) Singapore  SG 408533 "
 MA-L,C89009,"Budderfly, LLC",2 Trap Falls Road Shelton CT US 06484 
-MA-L,0C8DDB,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,CC03D9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,A8ED71,Analogue Enterprises Limited,"2-6 Foo Ming Street, 2J Po Ming Building Causeway Bay  HK 999077 "
 MA-L,10D657,"Siemens Industrial Automation Products Ltd., Chengdu","Tianyuan Road No.99, High Tech Zone West Chengdu Sichuan Province CN 611731  "
 MA-L,88C78F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,A8ED71,Analogue Enterprises Limited,"2-6 Foo Ming Street, 2J Po Ming Building Causeway Bay  HK 999077 "
+MA-L,48C381,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,0C1C31,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057 "
 MA-L,30C91B,"Zhen Shi Information Technology（Shanghai）Co.,Ltd.","5F, Building 3?No. 401 Caobao Road, Xuhui District, Shanghai, ChinaShanghai  Shanghai  CN 200233 "
-MA-L,48C381,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,0C8DDB,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,CC03D9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,A8469D,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,6CDEA9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F040EC,RainX PTE. LTD.,83B Tanjong Pagar Road Singapore  SG 088504 
@@ -14901,6 +14901,7 @@ MA-L,A4AD9E,NEXAIOT,"13F., No. 922, Zhongzheng Rd., Zhonghe Dist New Taipei City
 MA-L,94742E,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057 "
 MA-L,FCA2DF,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,C4493E,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,609849,Nokia solutions and networks Pvt Ltd,"Radiance Ivy terrace, Block 4, 9R, Egattur, Chennai Chennai TamilNadu IN 600130 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22355,11 +22356,12 @@ MA-L,8CBAFC,JOYNEXT GmbH,Gewerbepark Merbitz 5 Dresden Saxony DE 01156
 MA-L,1897F1,"KOSTAL (Shanghai) Management Co., Ltd.","No. 189, Xingping Road, Jiading District, Shanghai, P.R.China Shanghai Shanghai CN 201822 "
 MA-L,F4F50B,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,040F66,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,A4D530,Avaya LLC,350 Mt Kimble Morristown NJ US 07960 
 MA-L,3456FE,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,B80756,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,A4D530,Avaya LLC,350 Mt Kimble Morristown NJ US 07960 
 MA-L,A4DB4C,RAI Institute,145 Broadway Cambridge MA US 02142 
 MA-L,A0885E,"Anhui Xiangyao New Energy Technology Co., Ltd.","No. 2, District 4, Intelligent Industrial Park, South District, Lieshan Economic Development Zone Huaibei City Anhui Province CN 235065 "
+MA-L,34BC5E,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -29887,16 +29889,18 @@ MA-L,841FE8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,94C2EF,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,E467A6,BSH Hausgeräte GmbH,Im Gewerbepark B35 Regensburg Bayern DE 93059 
 MA-L,507973,"Inagile Electronic Technology Co.,LTD.","Building 8, No.1 Jingyi Road, Wuzhong Free Trade Zone, Suzhou, Jiangsu, China Suzhou  CN 215000 "
-MA-L,30D51F,Prolights,Via Adriano Olivetti snc Minturno Latina IT 04026 
-MA-L,18FB8E,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
+MA-L,74A57E,Panasonic Ecology Systems,"4017, Azashimonakata, Takaki-cho Kasugai Aichi JP 4868522 "
+MA-L,7CE913,Fantasia Trading LLC,"5350 Ontario Mills Pkwy, Suite 100 Ontario CA US 91764 "
+MA-L,E0CBBC,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,683A1E,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F89E28,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,388479,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,74A57E,Panasonic Ecology Systems,"4017, Azashimonakata, Takaki-cho Kasugai Aichi JP 4868522 "
-MA-L,6C15DB,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
-MA-L,7CE913,Fantasia Trading LLC,"5350 Ontario Mills Pkwy, Suite 100 Ontario CA US 91764 "
 MA-L,382A8B,"nFore Technology Co., Ltd.","5F, No.31, Ln. 258, Ruiguang Rd., Neihu Dist.,  Taipei city  TW 114 "
-MA-L,E0CBBC,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,18FB8E,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
+MA-L,30D51F,Prolights,Via Adriano Olivetti snc Minturno Latina IT 04026 
+MA-L,6C15DB,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,2C6F37,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,941787,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37344,10 +37348,11 @@ MA-L,603C68,Garmin International,1200 E. 151st St Olathe KS US 66062
 MA-L,5CA64F,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,64CDF1,"KO & AL Co., Ltd","#202, 251 Yatap-ro, Bundang-gu Seongnam-si Gyeonggi-do KR 13508 "
 MA-L,185111,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana CA US 92707 
+MA-L,4CBB6F,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
 MA-L,2051F5,Earda Technologies co Ltd,"Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District Guangzhou Guangdong CN 511455 "
-MA-L,A083B4,Velorum B.V,Kalkhofseweg 20 Haps  NL 5443NA 
 MA-L,AC17C8,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,981888,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,4CC8A1,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,64A0AC,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806-2807 
 MA-L,B4E85C,fünfeinhalb Funksysteme GmbH,Chemnitzer Straße 78A Dresden Saxony DE 01187  
+MA-L,64A0AC,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806-2807 
+MA-L,A083B4,Velorum B.V,Kalkhofseweg 20 Haps  NL 5443NA 
