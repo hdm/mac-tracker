@@ -7484,14 +7484,14 @@ MA-L,089707,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,A401DE,SERCOMM PHILIPPINES INC,"Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City Calamba  PH Lot 1 "
 MA-L,68F44B,Home Control Singapore Pte Ltd,"1 Paya Lebar Link, PLQ 1, #04-01(Office 448) Singapore  SG 408533 "
 MA-L,C89009,"Budderfly, LLC",2 Trap Falls Road Shelton CT US 06484 
-MA-L,A8ED71,Analogue Enterprises Limited,"2-6 Foo Ming Street, 2J Po Ming Building Causeway Bay  HK 999077 "
-MA-L,10D657,"Siemens Industrial Automation Products Ltd., Chengdu","Tianyuan Road No.99, High Tech Zone West Chengdu Sichuan Province CN 611731  "
-MA-L,88C78F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,48C381,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
-MA-L,0C1C31,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057 "
-MA-L,30C91B,"Zhen Shi Information Technology（Shanghai）Co.,Ltd.","5F, Building 3?No. 401 Caobao Road, Xuhui District, Shanghai, ChinaShanghai  Shanghai  CN 200233 "
 MA-L,0C8DDB,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,CC03D9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,10D657,"Siemens Industrial Automation Products Ltd., Chengdu","Tianyuan Road No.99, High Tech Zone West Chengdu Sichuan Province CN 611731  "
+MA-L,88C78F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,A8ED71,Analogue Enterprises Limited,"2-6 Foo Ming Street, 2J Po Ming Building Causeway Bay  HK 999077 "
+MA-L,0C1C31,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057 "
+MA-L,30C91B,"Zhen Shi Information Technology（Shanghai）Co.,Ltd.","5F, Building 3?No. 401 Caobao Road, Xuhui District, Shanghai, ChinaShanghai  Shanghai  CN 200233 "
+MA-L,48C381,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,A8469D,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,6CDEA9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F040EC,RainX PTE. LTD.,83B Tanjong Pagar Road Singapore  SG 088504 
@@ -8305,7 +8305,6 @@ MA-L,DC973A,Verana Networks,"100 Apollo Drive, Suite 201 Chelmsford MA US 01824 
 MA-L,FC7692,"Semptian Co.,Ltd.","Floor 19, Block 1A,  Phase 1, International Innovation Valley, Xili Community, Nanshan District Shenzhen Guangdong CN 518052 "
 MA-L,FCAFBE,TireCheck GmbH,Schmelzofenvorstadt 33 Heidenheim/Brenz Baden-Württemberg DE 89520 
 MA-L,1848BE,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
-MA-L,202027,Shenzhen Sundray Technologies Company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,686725,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,886EE1,Erbe Elektromedizin GmbH,Waldhoernlestrasse 17 Tuebingen Baden-Wuerttemberg DE 72072 
 MA-L,C475AB,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
@@ -9641,7 +9640,6 @@ MA-L,88E90F,innomdlelab,"Unnam 1 gil, 3  Seocho-gu Seoul KR 06778 "
 MA-L,0010D8,CALISTA,56A Packhorse Road Bucks SL9 8EF ENGLAND GB  
 MA-L,002194,Ping Communication,Brenden 18 Appenzell Meistersrüte AI CH 9050 
 MA-L,1894C6,"ShenZhen Chenyee Technology Co., Ltd.","32F, Tower A, East Pacific International Center, No.7888, Shennan Avenue, Futian District Shenzhen  CN 518040 "
-MA-L,703A73,Shenzhen Sundray Technologies Company Limited,"6th Floor,Block A1, Nanshan iPark, No.1001 XueYuan Road, Nanshan District Shenzhen Guangdong CN 518057 "
 MA-L,80AD16,Xiaomi Communications Co Ltd,"The Rainbow City of China Resources NO.68, Qinghe Middle Street Haidian District, Beijing CN 100085 "
 MA-L,044EAF,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,98D863,"Shanghai High-Flying Electronics Technology Co., Ltd","Room 1002 ,#1Building,No.3000 Longdong Avenue,Pudong District,Shanghai,China shanghai shanghai CN 201203 "
@@ -9945,7 +9943,6 @@ MA-L,800010,AT&T,3300 E Renner Road Richardson TX US 75082
 MA-L,0C3CCD,"Universal Global Scientific Industrial Co., Ltd.","141, Lane 351, Taiping Road, Sec.1,Tsao Tuen Nan-Tou Taiwan TW 54261 "
 MA-L,14ABC5,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3 Kulim Kedah MY 09000 "
 MA-L,0024F1,"Shenzhen Fanhai Sanjiang Electronics Co., Ltd.","3Floor-Guangcai Xintiandi Building,Nanshan Rd,Nanshan, Shenzhen Guangdong CN 518054 "
-MA-L,A80CCA,Shenzhen Sundray Technologies Company Limited,"6th Floor,Block A1, Nanshan iPark, No.1001 XueYuan Road, Nanshan District Shenzhen Guangdong CN 518057 "
 MA-L,50D213,CviLux Corporation,"9F,No.9,Lane 3,Sec.1,Chung-Cheng East Road, Tamshui New Taipei City  TW 25147 "
 MA-L,001E29,Hypertherm Inc,15 Great Hollow Rd Hanover NH US 03755 
 MA-L,7CC6C4,Kolff Computer Supplies b.v.,Kuipershaven 22 Dordrecht Zuid-Holland NL 3311 AL 
@@ -14902,6 +14899,9 @@ MA-L,94742E,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech I
 MA-L,FCA2DF,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,C4493E,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,609849,Nokia solutions and networks Pvt Ltd,"Radiance Ivy terrace, Block 4, 9R, Egattur, Chennai Chennai TamilNadu IN 600130 "
+MA-L,A80CCA,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark, No.1001 XueYuan Road, Nanshan District Shenzhen Guangdong CN 518057 "
+MA-L,703A73,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark, No.1001 XueYuan Road, Nanshan District Shenzhen Guangdong CN 518057 "
+MA-L,202027,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -15254,7 +15254,6 @@ MA-L,7415F5,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,48A98A,Routerboard.com,Mikrotikls SIA Riga Riga LV LV1009 
 MA-L,E88843,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,28022E,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,ACFC82,Shenzhen Sundray Technologies Company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,705A6F,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCA313,"Shenzhen Changjin Communication Technology Co.,Ltd","6th Floor, Saibo Building, Tenglong Road, Minzhi Street, Longhua District, Shenzhen Shenzhen  CN 518000 "
 MA-L,182654,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -15734,7 +15733,6 @@ MA-L,185345,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,E48210,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,F8F7B9,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,9C2BA6,"Ruijie Networks Co.,LTD","No. 2, 7th floor, xingwangruijie, haixi hi-tech industrial park, high-tech zone, fuzhou city Fuzhou Fujian CN 350002 "
-MA-L,941457,Shenzhen Sundray Technologies Company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,BC5729,"Shenzhen KKM Co., Ltd","Room 3B,Building 6A, BaoNeng Park, QingXiang Road, LongHua District ShenZhen Guangdong CN 518000 "
 MA-L,64B94E,Dell Technologies,"Matam Park, Bld 8B, PO Box 15046 3190500 HAIFA ISRAEL  HAIFA  HAIFA  IL 15046  "
 MA-L,5447E8,Syrotech Networks. Ltd.,"UNIT NO.-5 20F, KIN WING INDUSTERIAL BUILDING,33 KIN WING STREET TUEN MUN  HK 999077 "
@@ -16104,7 +16102,6 @@ MA-L,ACFAA5,digitron,"tehnopark A -701, 697 PanGyo-ro, Bundong  Seongnam GyeongG
 MA-L,B40EDE,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,6C146E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,44E968,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,4CEF56,Shenzhen Sundray Technologies Company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,E84F4B,"Shenzhen Delos Electronic Co., Ltd","Rm 603, Tower B, Galaxy World Building, No.1 Yabao Road,Longgang District,Shenzhen,P.R.China. shenzhen guangdong CN 518000 "
 MA-L,B04A39,"Beijing Roborock Technology Co., Ltd.","Floor 6,Building C,Kangjian Baosheng Plaza,No. 8 Heiquan Road,Haidian District Beijing Beijing CN 100085 "
 MA-L,A4F9E4,"AirVine Scientific, Inc.","1500 Wyatt Drive, Suite 9 Santa Clara CA US 95054 "
@@ -21721,7 +21718,6 @@ MA-L,7CD3E5,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,B8876E,Intertech Services AG,"Werftestrasse 4,  Luzern  CH 6005 "
 MA-L,3C0B4F,Intertech Services AG,"Werftestrasse 4,  Luzern  CH 6005 "
 MA-L,6C62FE,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
-MA-L,C8A23B,Shenzhen Sundray Technologies Company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,9C9ED5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,743822,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,B83BAB,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
@@ -22356,12 +22352,17 @@ MA-L,8CBAFC,JOYNEXT GmbH,Gewerbepark Merbitz 5 Dresden Saxony DE 01156
 MA-L,1897F1,"KOSTAL (Shanghai) Management Co., Ltd.","No. 189, Xingping Road, Jiading District, Shanghai, P.R.China Shanghai Shanghai CN 201822 "
 MA-L,F4F50B,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,040F66,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
-MA-L,A4D530,Avaya LLC,350 Mt Kimble Morristown NJ US 07960 
 MA-L,3456FE,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,B80756,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,A4D530,Avaya LLC,350 Mt Kimble Morristown NJ US 07960 
 MA-L,A4DB4C,RAI Institute,145 Broadway Cambridge MA US 02142 
 MA-L,A0885E,"Anhui Xiangyao New Energy Technology Co., Ltd.","No. 2, District 4, Intelligent Industrial Park, South District, Lieshan Economic Development Zone Huaibei City Anhui Province CN 235065 "
 MA-L,34BC5E,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,4CEF56,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,941457,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,ACFC82,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,C8A23B,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,7C152D,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -23882,7 +23883,6 @@ MA-L,B8CEF6,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunny
 MA-L,B4F18C,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,C432D1,Farlink Technology Limited,"Flat A&B,9/F,Wing Cheong Factory Building,121 King Lam Street,Cheung Sha Wan,Hong Kong. Hongkong  HK 0000 "
 MA-L,6CDDBC,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,186F2D,Shenzhen Sundray Technologies Company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,F84FAD,"Hui Zhou Gaoshengda Technology Co.,LTD","No.75,Zhongkai High-Tech Development District,Huizhou Hui Zhou Guangdong CN 516006 "
 MA-L,4C0A3D,ADNACOM INC.,200-5050 Kingsway Burnaby BC CA V5H 4H2 
 MA-L,CC7F76,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
@@ -24074,7 +24074,6 @@ MA-L,F43E66,Bee Computing (HK) Limited,"Room 1902, 19/F, Lee Garden One 33 Hysan
 MA-L,DC396F,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95 Berlin Berlin DE 10559 
 MA-L,B4C476,Wuhan Maritime Communication Research Institute,"No.312 Luoyu road, Hongshan District Wuhan Hubei CN 430079 "
 MA-L,683489,LEA Professional,635 S. Lafayette Blvd South Bend IN US 46601 
-MA-L,9C3A9A,Shenzhen Sundray Technologies Company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,B46C47,Panasonic Appliances Company,2-3-1-2 Noji-higashi Kusatsu City Shiga JP 525-8555 
 MA-L,94BF80,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,64FF0A,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
@@ -25794,7 +25793,6 @@ MA-L,44962B,Aidon Oy,Piippukatu 11 Jyvaskyla Jyvaskyla FI 40100
 MA-L,E807BF,"SHENZHEN BOOMTECH INDUSTRY CO.,LTD","Floor 6 East, Bldg 6, Yusheng Industrial Area, Xixiang, Bao'an District Shenzhen Guangdong CN 518000 "
 MA-L,84F129,Metrascale Inc.,400 Liberty Ave. Brooklyn NY US 11207 
 MA-L,B89ACD,"ELITE OPTOELECTRONIC(ASIA)CO.,LTD","A9 jin Fu 1 Road,Tangchun lndustrial zone,Liaobu Town,Dongguan City,Guangdong Province Liaobu dongguan /guangdong CN 523400 "
-MA-L,D468BA,Shenzhen Sundray Technologies Company Limited,"6th Floor,Block A1, Nanshan iPark,  Nanshan District, Shenzhen 518055 Guangdong CN  "
 MA-L,F01E34,"ORICO Technologies Co., Ltd","F-9, Block14A, Zhonghaixin Science &Technology Zone ShenZhen Guangdong CN 518116 "
 MA-L,DCE026,"Patrol Tag, Inc",2800 Western Ave Seattle WA US 98121 
 MA-L,B40566,"SP Best Corporation Co., LTD.","555/25 B-Avenue, Sukhaphibal 5 Road Saimai Bangkok TH 10220 "
@@ -29889,18 +29887,21 @@ MA-L,841FE8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,94C2EF,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,E467A6,BSH Hausgeräte GmbH,Im Gewerbepark B35 Regensburg Bayern DE 93059 
 MA-L,507973,"Inagile Electronic Technology Co.,LTD.","Building 8, No.1 Jingyi Road, Wuzhong Free Trade Zone, Suzhou, Jiangsu, China Suzhou  CN 215000 "
-MA-L,74A57E,Panasonic Ecology Systems,"4017, Azashimonakata, Takaki-cho Kasugai Aichi JP 4868522 "
-MA-L,7CE913,Fantasia Trading LLC,"5350 Ontario Mills Pkwy, Suite 100 Ontario CA US 91764 "
-MA-L,E0CBBC,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,30D51F,Prolights,Via Adriano Olivetti snc Minturno Latina IT 04026 
+MA-L,18FB8E,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
 MA-L,683A1E,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F89E28,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,388479,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,382A8B,"nFore Technology Co., Ltd.","5F, No.31, Ln. 258, Ruiguang Rd., Neihu Dist.,  Taipei city  TW 114 "
-MA-L,18FB8E,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
-MA-L,30D51F,Prolights,Via Adriano Olivetti snc Minturno Latina IT 04026 
+MA-L,74A57E,Panasonic Ecology Systems,"4017, Azashimonakata, Takaki-cho Kasugai Aichi JP 4868522 "
 MA-L,6C15DB,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,7CE913,Fantasia Trading LLC,"5350 Ontario Mills Pkwy, Suite 100 Ontario CA US 91764 "
+MA-L,382A8B,"nFore Technology Co., Ltd.","5F, No.31, Ln. 258, Ruiguang Rd., Neihu Dist.,  Taipei city  TW 114 "
+MA-L,E0CBBC,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,2C6F37,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,941787,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,D468BA,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark,  Nanshan District, Shenzhen 518055 Guangdong CN  "
+MA-L,9C3A9A,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,186F2D,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -36718,7 +36719,6 @@ MA-L,48A3BD,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,042322,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,28DE59,Domus NTW CORP.,"6188 NW 74th Ave, Miami FL US 33166 "
 MA-L,B8D0F0,FCNT LLC,"Sanki Yamato Building, 7-10-1 Chuorinkan Yamato Kanagawa JP 242-8588 "
-MA-L,102F6E,Shenzhen Sundray Technologies Company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,702AD7,"New H3C Intelligence Terminal Co., Ltd.","Room 406-100, 1 Yichuang Street, China-Singapore Guangzhou Knowledge City, Huangpu District, Guangzhou. Guangzhou  Guangdong CN 510030 "
 MA-L,ECC342,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,94BE50,Remote Solution,"71, Gunpo, cheom dan, san eop 2-ro Gunpo-si Gyeonggi-do, Korea Gunpo-si Gyeonggi-do KR 15880 "
@@ -37356,3 +37356,5 @@ MA-L,4CC8A1,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158
 MA-L,B4E85C,fünfeinhalb Funksysteme GmbH,Chemnitzer Straße 78A Dresden Saxony DE 01187  
 MA-L,64A0AC,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806-2807 
 MA-L,A083B4,Velorum B.V,Kalkhofseweg 20 Haps  NL 5443NA 
+MA-L,1025CE,ELKA - Torantriebe GmbH u. Co. Betriebs KG,Dithmarscher Straße 9 Tönning  DE 25832 
+MA-L,102F6E,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
