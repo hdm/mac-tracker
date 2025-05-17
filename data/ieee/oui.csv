@@ -7497,6 +7497,9 @@ MA-L,6CDEA9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158
 MA-L,F040EC,RainX PTE. LTD.,83B Tanjong Pagar Road Singapore  SG 088504 
 MA-L,C877F3,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
 MA-L,8C4E46,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,4024D2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,1C0EAF,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,3C7787,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14893,15 +14896,17 @@ MA-L,A01AE3,Edgecore Americas Networking Corporation,20 Mason Irvine CA US 92618
 MA-L,5088C7,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
 MA-L,74D5B8,Infraeo Inc,101 E Old Settlers Blvd #160 Round Rock TX US 78664 
 MA-L,2C3F0B,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,8CDD0B,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,A4AD9E,NEXAIOT,"13F., No. 922, Zhongzheng Rd., Zhonghe Dist New Taipei City TW 235 "
 MA-L,94742E,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057 "
-MA-L,FCA2DF,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,C4493E,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
-MA-L,609849,Nokia solutions and networks Pvt Ltd,"Radiance Ivy terrace, Block 4, 9R, Egattur, Chennai Chennai TamilNadu IN 600130 "
+MA-L,94EF50,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,903FC3,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,A80CCA,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark, No.1001 XueYuan Road, Nanshan District Shenzhen Guangdong CN 518057 "
 MA-L,703A73,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark, No.1001 XueYuan Road, Nanshan District Shenzhen Guangdong CN 518057 "
 MA-L,202027,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,609849,Nokia solutions and networks Pvt Ltd,"Radiance Ivy terrace, Block 4, 9R, Egattur, Chennai Chennai TamilNadu IN 600130 "
+MA-L,C4493E,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,8CDD0B,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,FCA2DF,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22355,14 +22360,16 @@ MA-L,040F66,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618
 MA-L,3456FE,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,B80756,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,A4D530,Avaya LLC,350 Mt Kimble Morristown NJ US 07960 
-MA-L,A4DB4C,RAI Institute,145 Broadway Cambridge MA US 02142 
-MA-L,A0885E,"Anhui Xiangyao New Energy Technology Co., Ltd.","No. 2, District 4, Intelligent Industrial Park, South District, Lieshan Economic Development Zone Huaibei City Anhui Province CN 235065 "
-MA-L,34BC5E,eero inc.,660 3rd Street San Francisco CA US 94107 
-MA-L,4CEF56,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,941457,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,ACFC82,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,C8A23B,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,7C152D,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
+MA-L,D8F12E,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,A0885E,"Anhui Xiangyao New Energy Technology Co., Ltd.","No. 2, District 4, Intelligent Industrial Park, South District, Lieshan Economic Development Zone Huaibei City Anhui Province CN 235065 "
+MA-L,4CEF56,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,A4DB4C,RAI Institute,145 Broadway Cambridge MA US 02142 
+MA-L,34BC5E,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,F8EFB1,"Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.","Room 809, Building B, No. 567 Yueming Road, Xixing Street, Hangzhou Binjiang Distric CN 310000 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -29902,6 +29909,12 @@ MA-L,941787,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,D468BA,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark,  Nanshan District, Shenzhen 518055 Guangdong CN  "
 MA-L,9C3A9A,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,186F2D,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,08B3D6,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,782B60,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,70B51A,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,FC79DD,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,F414BF,LG Innotek,"26, HANAMSANDAN 5BEON-RO Gwangju Gwangsan-gu KR 506-731 "
+MA-L,587961,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37358,3 +37371,5 @@ MA-L,64A0AC,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806-2807
 MA-L,A083B4,Velorum B.V,Kalkhofseweg 20 Haps  NL 5443NA 
 MA-L,1025CE,ELKA - Torantriebe GmbH u. Co. Betriebs KG,Dithmarscher Straße 9 Tönning  DE 25832 
 MA-L,102F6E,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,B00B22,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,8C0572,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "

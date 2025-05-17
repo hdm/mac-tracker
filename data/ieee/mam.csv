@@ -3384,7 +3384,6 @@ MA-M,C4CC370,"KAIS Co.,Ltd.","#103-5, Ssangyong Techno 3rd., 397 Seokcheon-ro Bu
 MA-M,60A4348,"TIME ENGINEERING CO., LTD.","Totsubo 5-98 Ohguchi-cho, Niwa-gun Aichi JP 480-0125 "
 MA-M,60A4349,"Shenzhen HantangFengyun Technology Co.,Ltd","741, HUAMEIJU Building 2.， 82 of Haiyu Community., Xin'an Street, Bao'an District, Shenzhen Shenzhen  CN 518000 "
 MA-M,60A4341,EEG Enterprises Inc,586 Main Street Farmingdale NY US 11735 
-MA-M,60A4342,"Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.","Room 17337, No. 260 Jiangshu Road, Xixing Street, Binjiang District, Hangzhou City, Zhejiang Province Hangzhou  CN 310000 "
 MA-M,C8FFBF2,Cognizant Mobility GmbH,Ingolstädter Str. 45 München  DE 80807 
 MA-M,60A434B,"Bweetech Electronics Technology (Shanghai) Co.,Ltd","Room705-707,Building1,Lane99,NorthHuting Road,Shanghai Shanghai Shanghai CN 200000 "
 MA-M,1063A35,"Lianxin (Dalian) Technology Co.,Ltd","No. 318, No. 3, No. 3, Renxian Street, Dalian High-tech Industrial Park, Liaoning Province Dalian  CN 116000 "
@@ -3510,8 +3509,9 @@ MA-M,F01204E,"Tianjin Tianchuan Electric Drive Co.,Ltd.","No. 354 Innovation Ave
 MA-M,F01204D,LightShark,"Saler, 14 Silla Valencia ES 46460 "
 MA-M,2C7AF41,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,2C7AF4B,"Arira Platforms, LLC","2001 Gateway Place, Suite 500W San Jose CA US 95110 "
-MA-M,FCA2DF9,"Beijing KSL Electromechanical Technology Development Co.,Ltd","Room 501-1, 5th Floor, Building 23, Courtyard 6, Haiying Road, Fengtai District, Beijing, China Beijing  CN 100071 "
 MA-M,FCA2DF6,"shenzhen zovoton electronic co.,ltd","1F 4 Blok, jinrui zhonghe industrial park, huarong road, tongsheng community, dalang street, longhua district, Shenzhen city, Guangdong province, china shenzhen guangdong CN 518100 "
+MA-M,FCA2DF9,"Beijing KSL Electromechanical Technology Development Co.,Ltd","Room 501-1, 5th Floor, Building 23, Courtyard 6, Haiying Road, Fengtai District, Beijing, China Beijing  CN 100071 "
+MA-M,60A4342,"Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.","Room 809, Building B, No. 567 Yueming Road, Xixing Street, Hangzhou Binjiang Distric CN 310000 "
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C876,"HORIBA Precision Instruments (Beijing) Co.,Ltd","Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China Beijing Shunyi CN 101318 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -5839,3 +5839,4 @@ MA-M,2C7AF4C,Reonel Oy,Hiomotie 32 Helsinki  FI 00380
 MA-M,2C7AF47,"Jinan LinkCtrl IoT Co., Ltd",li cheng qu shi ji da dao 11977 hao zhong xin jin xiu tian di dong yuan yi qu 21 hao lou 726 ji nan shi shandong CN 250031 
 MA-M,FCA2DFA,BPL MEDICAL TECHNOLOGIES PRIVATE LIMITED,11KM BANNERGHATTA MAIN ROAD ARAKERE BANGALORE BANGALORE KARNATAKA IN 560076 
 MA-M,FCA2DFD,"MBio Diagnostics, Inc.",4550 Byrd Dr Loveland  US 80538 
+MA-M,FCA2DF2,PDI COMMUNICATION SYSTEMS INC.,40 GREENWOOD LN SPRINGBORO OH US 45066 
