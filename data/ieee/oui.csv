@@ -7455,14 +7455,14 @@ MA-L,089707,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,A401DE,SERCOMM PHILIPPINES INC,"Lot 1 & 5, Phase 1, Filinvest Technology Park 1, Brgy. Punta, Calamba City Calamba  PH Lot 1 "
 MA-L,68F44B,Home Control Singapore Pte Ltd,"1 Paya Lebar Link, PLQ 1, #04-01(Office 448) Singapore  SG 408533 "
 MA-L,C89009,"Budderfly, LLC",2 Trap Falls Road Shelton CT US 06484 
-MA-L,0C8DDB,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,CC03D9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,A8ED71,Analogue Enterprises Limited,"2-6 Foo Ming Street, 2J Po Ming Building Causeway Bay  HK 999077 "
 MA-L,10D657,"Siemens Industrial Automation Products Ltd., Chengdu","Tianyuan Road No.99, High Tech Zone West Chengdu Sichuan Province CN 611731  "
 MA-L,88C78F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,A8ED71,Analogue Enterprises Limited,"2-6 Foo Ming Street, 2J Po Ming Building Causeway Bay  HK 999077 "
+MA-L,48C381,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,0C1C31,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057 "
 MA-L,30C91B,"Zhen Shi Information Technology（Shanghai）Co.,Ltd.","5F, Building 3?No. 401 Caobao Road, Xuhui District, Shanghai, ChinaShanghai  Shanghai  CN 200233 "
-MA-L,48C381,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,0C8DDB,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,CC03D9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F040EC,RainX PTE. LTD.,83B Tanjong Pagar Road Singapore  SG 088504 
 MA-L,C877F3,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
 MA-L,4024D2,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
@@ -7471,20 +7471,18 @@ MA-L,3C7787,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,8C4E46,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,A8469D,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,6CDEA9,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,D424DD,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,BC2EC3,"Shenzhen Tianruixiang Communication Equipment Co.,Ltd","12/F, Building B,Longhua Digital Innovation Center, Longhua District, Shenzhen,China. Shenzhen Guangdong CN 518000 "
 MA-L,3870F2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,C4BB03,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,246078,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,989BCB,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,BC2EC3,"Shenzhen Tianruixiang Communication Equipment Co.,Ltd","12/F, Building B,Longhua Digital Innovation Center, Longhua District, Shenzhen,China. Shenzhen Guangdong CN 518000 "
 MA-L,D012CB,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,9C57BC,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,8470D7,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,787689,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,28EC22,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,C8C6FE,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,D424DD,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,089BF1,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,303422,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,9C57BC,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,989BCB,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,8470D7,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,787689,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,605F8D,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,6CAEF6,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,7CFE90,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
@@ -7504,12 +7502,19 @@ MA-L,DC7CF7,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xiche
 MA-L,2C5683,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,1C4176,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,94FF61,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,140808,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,28EC22,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,C8C6FE,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,30292B,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,140808,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,8CE4DB,"Shenzhen MiaoMing Intelligent Technology Co.,Ltd","3F, Building 2, No. 1310, Kukeng Sightseeing Road, Kukeng Community, Guanlan Street, Longhua District Shenzhen Guangdong CN 518110 "
 MA-L,302450,"Hangzhou Huacheng Network Technology Co.,Ltd","13th Floor, Building 3, No. 582, Liye Road, Changhe Street, Binjiang District, Hangzhou, China (Zhejiang) Pilot Free Trade Zone Hangzhou  CN 311200 "
 MA-L,4CD546,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
 MA-L,989D40,"MIWA LOCK CO.,LTD.","1028-1,Yamagami Tamaki-tyou Mie JP 519-0436 "
+MA-L,3409C9,"Dongguan Huayin Electronic Technology Co., Ltd.","Room 101, No.8 Xinglong 3rd Road, Shipai Town Dongguan Guangdong CN 523000 "
+MA-L,70856C,"Ruijie Networks Co.,LTD","Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District Fuzhou  CN 35000 "
+MA-L,BC9D37,Telink Micro LLC,2975 Scott Blvd #120 Santa Clara  US 95054 
+MA-L,C43396,"Dongguan Hele Electronics Co., Ltd.","Room101, Block1, No.38, DaojiaoDahouRoad, DaojiaoTown,  Dongguan City GuangdongProvince CN 523000 "
+MA-L,4CABF3,"Universal Electronics, Inc.",201 E. Sandpointe Ave Santa Ana  US 92707 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14873,34 +14878,38 @@ MA-L,74D5B8,Infraeo Inc,101 E Old Settlers Blvd #160 Round Rock TX US 78664
 MA-L,2C3F0B,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,A4AD9E,NEXAIOT,"13F., No. 922, Zhongzheng Rd., Zhonghe Dist New Taipei City TW 235 "
 MA-L,94742E,"MERCUSYS TECHNOLOGIES CO., LTD.","3F,Zone B,Building R1,High-Tech Industrial Village,No.023 High-Tech South 4 Road,Nanshan,Shenzhen Shenzhen Guangdong CN 518057 "
-MA-L,94EF50,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
-MA-L,903FC3,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,A80CCA,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark, No.1001 XueYuan Road, Nanshan District Shenzhen Guangdong CN 518057 "
 MA-L,703A73,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark, No.1001 XueYuan Road, Nanshan District Shenzhen Guangdong CN 518057 "
 MA-L,202027,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,903FC3,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,609849,Nokia solutions and networks Pvt Ltd,"Radiance Ivy terrace, Block 4, 9R, Egattur, Chennai Chennai TamilNadu IN 600130 "
 MA-L,C4493E,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,94EF50,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,FCA2DF,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,CC6200,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,54EAE1,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,7C692B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,386EB2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,18CEDF,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
-MA-L,00337A,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
-MA-L,C0544D,"Nokia Shanghai Bell Co., Ltd.","No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai Shanghai   CN 201206 "
-MA-L,CCCE1E,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,7CFF4D,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,7CC882,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,3CA62F,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,3C3712,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,0C7274,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,04B4FE,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,C0544D,"Nokia Shanghai Bell Co., Ltd.","No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai Shanghai   CN 201206 "
+MA-L,CCCE1E,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,7CFF4D,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,60577D,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,ACEC85,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,0C1C1A,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,64C269,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,74B6B6,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,30578E,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,F021E0,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,4C0143,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,F8BBBF,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,00AB48,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,7CC882,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,18CEDF,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,00337A,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,481F66,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,0815AE,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,F4BFBB,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
@@ -14911,24 +14920,24 @@ MA-L,FC2E19,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xiche
 MA-L,6C0F0B,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,EC9B2D,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,DC152D,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,60577D,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,ACEC85,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,0C1C1A,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,64C269,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,7093C1,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,64DAED,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,7C5E98,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,60F419,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,54926A,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
 MA-L,0C93A5,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,A8130B,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,8CDD0B,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,B83FD2,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,A41B34,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,B4B9E6,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,54926A,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
 MA-L,04585D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,D0789A,Vantiva - Connected Home,"4855 Peachtree Industrial Blvd, Suite 200 Norcross GA US 30902 "
 MA-L,C4864F,Beijing BitIntelligence Information Technology Co. Ltd.,"Room 708, Founder International Building, No. 52, North Fourth Ring West Road, Haidian District Beijing Beijing CN 100080 "
+MA-L,C87F2B,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
+MA-L,707DA1,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,74675F,5653," NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON KUNSHAN SUZHOU CN 215300 "
+MA-L,D83EEF,COOSEA GROUP (HK) COMPANY LIMITED,"Unit 56 16F Multifield Plaza,37A Part Avenue.Tsim Sha Tsui,KL,Hong Kong,SAR CHINA Hong Kong  CN 999077 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22341,18 +22350,17 @@ MA-L,8CBAFC,JOYNEXT GmbH,Gewerbepark Merbitz 5 Dresden Saxony DE 01156
 MA-L,1897F1,"KOSTAL (Shanghai) Management Co., Ltd.","No. 189, Xingping Road, Jiading District, Shanghai, P.R.China Shanghai Shanghai CN 201822 "
 MA-L,F4F50B,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,040F66,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
-MA-L,3456FE,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,B80756,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,A4D530,Avaya LLC,350 Mt Kimble Morristown NJ US 07960 
+MA-L,3456FE,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,4CEF56,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,941457,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,ACFC82,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,C8A23B,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
-MA-L,7C152D,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
-MA-L,D8F12E,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,A0885E,"Anhui Xiangyao New Energy Technology Co., Ltd.","No. 2, District 4, Intelligent Industrial Park, South District, Lieshan Economic Development Zone Huaibei City Anhui Province CN 235065 "
-MA-L,4CEF56,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
+MA-L,7C152D,Renesas Electronics (Penang) Sdn. Bhd.,"Phase 3, Bayan Lepas FIZ Bayan Lepas Penang MY 11900 "
 MA-L,A4DB4C,RAI Institute,145 Broadway Cambridge MA US 02142 
 MA-L,34BC5E,eero inc.,660 3rd Street San Francisco CA US 94107 
+MA-L,B80756,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F8EFB1,"Hangzhou Zhongxinhui lntelligent Technology Co.,Ltd.","Room 809, Building B, No. 567 Yueming Road, Xixing Street, Hangzhou Binjiang Distric CN 310000 "
 MA-L,2C91AB,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,DC15C8,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
@@ -22364,21 +22372,17 @@ MA-L,008497,"Shenzhen MiaoMing Intelligent Technology Co.,Ltd","3F, Building 2, 
 MA-L,287AB4,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,78DC87,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,E00855,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,103D3E,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,D8F12E,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
 MA-L,90473C,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,74ADB7,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,78C313,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,CC5CDE,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,0C14D2,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,781053,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,94BE09,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,BC9E2C,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,C80C53,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,544DD4,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,C02D2E,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,7089CC,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,B4D0A9,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,AC710C,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,103D3E,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,D0CBDD,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,44AC85,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,18A9ED,eero inc.,660 3rd Street  San Francisco CA US 94107 
@@ -22397,10 +22401,16 @@ MA-L,08C0EB,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunn
 MA-L,9C0591,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,58A2E1,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,B0CF0E,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
-MA-L,204D52,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
+MA-L,94BE09,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,BC9E2C,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,C80C53,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,544DD4,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,C02D2E,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,885721,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,E49652,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,D4A5B4,"Hengji Jiaye (Hangzhou) Technology Co., Ltd","Room 809, Building B, Yingfeite Technology Park, No. 459 Jianghong Road, Changhe Street, Binjiang District, Hangzhou City, Zhejiang Province Hangzhou Zhejiang CN 310000 "
+MA-L,204D52,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100  Sunnyvale CA US 94085 "
+MA-L,A03C20,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -29888,68 +29898,68 @@ MA-L,841FE8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,94C2EF,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,E467A6,BSH Hausgeräte GmbH,Im Gewerbepark B35 Regensburg Bayern DE 93059 
 MA-L,507973,"Inagile Electronic Technology Co.,LTD.","Building 8, No.1 Jingyi Road, Wuzhong Free Trade Zone, Suzhou, Jiangsu, China Suzhou  CN 215000 "
-MA-L,30D51F,Prolights,Via Adriano Olivetti snc Minturno Latina IT 04026 
-MA-L,18FB8E,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
+MA-L,74A57E,Panasonic Ecology Systems,"4017, Azashimonakata, Takaki-cho Kasugai Aichi JP 4868522 "
+MA-L,7CE913,Fantasia Trading LLC,"5350 Ontario Mills Pkwy, Suite 100 Ontario CA US 91764 "
+MA-L,E0CBBC,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,683A1E,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F89E28,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,388479,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
-MA-L,74A57E,Panasonic Ecology Systems,"4017, Azashimonakata, Takaki-cho Kasugai Aichi JP 4868522 "
-MA-L,6C15DB,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
-MA-L,7CE913,Fantasia Trading LLC,"5350 Ontario Mills Pkwy, Suite 100 Ontario CA US 91764 "
 MA-L,382A8B,"nFore Technology Co., Ltd.","5F, No.31, Ln. 258, Ruiguang Rd., Neihu Dist.,  Taipei city  TW 114 "
-MA-L,E0CBBC,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
+MA-L,18FB8E,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
+MA-L,30D51F,Prolights,Via Adriano Olivetti snc Minturno Latina IT 04026 
 MA-L,D468BA,Shenzhen Sundray Technologies company Limited,"6th Floor,Block A1, Nanshan iPark,  Nanshan District, Shenzhen 518055 Guangdong CN  "
 MA-L,9C3A9A,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,186F2D,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
-MA-L,08B3D6,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,782B60,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,70B51A,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,FC79DD,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,C853E1,"Douyin Vision Co., Ltd","No.1 Building, Zhonghang Square, West Road of the Northern 3rd Circuit, Haidian Distrct Beijing Beijing CN 100098 "
-MA-L,DC396F,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,F414BF,LG Innotek,"26, HANAMSANDAN 5BEON-RO Gwangju Gwangsan-gu KR 506-731 "
 MA-L,5C4979,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,DC396F,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,C853E1,"Douyin Vision Co., Ltd","No.1 Building, Zhonghang Square, West Road of the Northern 3rd Circuit, Haidian Distrct Beijing Beijing CN 100098 "
+MA-L,08B3D6,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,2C6F37,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,941787,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,6C15DB,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,587961,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
-MA-L,F414BF,LG Innotek,"26, HANAMSANDAN 5BEON-RO Gwangju Gwangsan-gu KR 506-731 "
-MA-L,50E636,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,60B58D,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,34E1A9,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,48DD0C,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,3C5CF1,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,F8BC0E,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,C4F174,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,649714,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,40475E,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,20E6DF,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,5027A9,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,D88ED4,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,649714,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,20BECD,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,C8B82F,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,1422DB,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,189088,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,48DD0C,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,50E636,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,E8D3EB,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,C06F98,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,8C53D2,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,20BECD,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,C8B82F,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,24615A,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,3CE3E7,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,187CAA,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,507097,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,E83A4B,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,B86061,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,C875F4,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,8C1A50,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,88DA18,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,ACF70D,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District Beijing  CN 100053 "
 MA-L,248A07,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,E41D2D,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,98039B,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,F85C24,Sonos Inc.,301 Coromar Drive Goleta CA US 93117 
+MA-L,B86061,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,C875F4,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,8C1A50,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,88DA18,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,B8CEF6,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,C470BD,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,B8E924,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
-MA-L,2C5EAB,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,507097,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,E83A4B,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,3CE3E7,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,187CAA,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,6CC36A,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
-MA-L,F85C24,Sonos Inc.,301 Coromar Drive Goleta CA US 93117 
+MA-L,2C5EAB,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,8C53D2,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37357,12 +37367,13 @@ MA-L,4CC8A1,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158
 MA-L,B4E85C,fünfeinhalb Funksysteme GmbH,Chemnitzer Straße 78A Dresden Saxony DE 01187  
 MA-L,64A0AC,Adtran Inc,901 Explorer Blvd. Huntsville AL US 35806-2807 
 MA-L,A083B4,Velorum B.V,Kalkhofseweg 20 Haps  NL 5443NA 
+MA-L,8C0572,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,9C7DC0,"Tech4home, Lda",Rua de Fundoes N151 Sao Joao da Madeira Aveiro PT 3700-121 
 MA-L,600A8C,Shenzhen Sundray Technologies company Limited,"1st Floor Building A1, Nanshan i Park, No.1001 Xueyuan Road,   Nanshan District, Shenzhen, Guangdong Province, P. R. China Shenzhen GuangDong CN 518057 "
 MA-L,102F6E,Shenzhen Sundray Technologies company Limited,"5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China Shenzhen Guangdong CN 518057 "
 MA-L,B00B22,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,8C0572,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
 MA-L,1025CE,ELKA - Torantriebe GmbH u. Co. Betriebs KG,Dithmarscher Straße 9 Tönning  DE 25832 
-MA-L,9C7DC0,"Tech4home, Lda",Rua de Fundoes N151 Sao Joao da Madeira Aveiro PT 3700-121 
+MA-L,B4E53E,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,20A716,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,C09B9E,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,DCEC4F,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
@@ -37372,51 +37383,50 @@ MA-L,3061A2,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,E0286D,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,444E6D,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,F0B014,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,485D35,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,B4FC7D,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,98A965,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,EC7427,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,C8E306,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,78D6D6,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,D43F32,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,A08E24,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,74427F,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,1CED6F,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,485D35,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,B42046,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,C03653,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,D405DE,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,9C0B05,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,74427F,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
-MA-L,1CED6F,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,7C49CF,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,242D6C,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,303A4A,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,DC69B5,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,B4FC7D,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
+MA-L,98A965,AVM Audiovisuelles Marketing und Computersysteme GmbH,Alt-Moabit 95  Berlin Berlin DE 10559 
 MA-L,5CA5BC,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,A8B088,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,B4E53E,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,886746,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,24F3E3,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,E4197F,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,FC3D73,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,1479F3,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,3C574F,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,00CFC0,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,4062EA,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,E0456D,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,508CF5,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,E4C0CC,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,C01692,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,00E22C,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,E0E0C2,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,782E56,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,946DAE,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
-MA-L,FC6A1C,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
-MA-L,A088C2,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
-MA-L,7C49CF,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,242D6C,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,303A4A,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,DC69B5,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,00CFC0,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,4062EA,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,E0456D,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,508CF5,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,5C75C6,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,241281,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,64C582,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,448EEC,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,946DAE,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,FC6A1C,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,A088C2,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,E09D73,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,5000E6,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
-MA-L,448EEC,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,50CF56,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,80030D,CANON INC.,"30-2 Shimomaruko 3-chome, Ohta-ku Tokyo JP 146-8501 "
 MA-L,F8F295,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
