@@ -7546,6 +7546,7 @@ MA-L,A02B44,WaveGo Tech LLC,"16192 CoastalHighway, Lewes,Sussex.DE 19958 Lewes D
 MA-L,00D626,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,08736F,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,C89009,Budderfly Inc.,2 Trap Falls Road Shelton CT US 06484 
+MA-L,0455B2,"Huaqin Technology Co.,Ltd",Pudong New Area Shanghai  CN 201203 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14958,7 +14959,6 @@ MA-L,8CDD0B,eero inc.,660 3rd Street  San Francisco CA US 94107
 MA-L,B83FD2,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,A41B34,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,B4B9E6,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,74675F,5653," NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON KUNSHAN SUZHOU CN 215300 "
 MA-L,D83EEF,COOSEA GROUP (HK) COMPANY LIMITED,"Unit 56 16F Multifield Plaza,37A Part Avenue.Tsim Sha Tsui,KL,Hong Kong,SAR CHINA Hong Kong  CN 999077 "
 MA-L,707DA1,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,04585D,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
@@ -14987,6 +14987,7 @@ MA-L,F8E252,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,FC9F2A,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,6475DA,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,B0CCCE,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,74675F,"COMPAL INFO (KUNSHAN) CO., LTD"," NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON KUNSHAN SUZHOU CN 215300 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22479,6 +22480,8 @@ MA-L,34DAA1,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,CC22FE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,CC67D8,"Telin Semiconductor (Wuhan) Co.,Ltd","Room 1003 Buliding 5 , 2377 Shenkun Road ,Minhang District Shanghai  CN 201106 "
 MA-L,2CF814,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,64AC2B,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,243408,Edgecore Americas Networking Corporation,20 Mason Irvine CA US 92618 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30044,6 +30047,8 @@ MA-L,E08614,"Inseego Wireless, Inc","9710 Scranton Rd., Suite 200 San Diego CA U
 MA-L,48CA68,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,747786,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,D842F7,"Tozed Kangwei Tech Co.,Ltd","Room 1301, NO. 37 Jinlong , Nansha Street, Xiangjiang Financial Business Center, Nansha District GuangZhou  CN 511466 "
+MA-L,087671,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
+MA-L,A46B1F,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37545,3 +37550,4 @@ MA-L,68A593,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,A82C89,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,801242,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,B8011F,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,804005,"Guangdong COROS Sports Technology Co.,Ltd","Room 601 & 701, Bld. 2, No.2, Science and Technology 9 Rd, Songshan Lake Hi-Tech Zone, Dongguan 523808, Guandong, China Dongguan Guangdong CN 523808 "
