@@ -14990,13 +14990,16 @@ MA-L,4435B9,NetComm Wireless Pty Ltd,"Level 1, 18-20 Orion Road Sydney NSW AU 20
 MA-L,6475DA,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
 MA-L,DCBB3D,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville  US 27560 
 MA-L,B0CCCE,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,FCB214,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,2C9520,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,B89C13,Alps Alpine,"20-1, Yoshima Industrial Park Iwaki Fukushima JP 970-1192 "
+MA-L,BC76F9,Ubiquoss Inc,"8F Ubiquoss B/D, 68, Pangyo-ro 255beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 463-400 "
+MA-L,24D1A1,"Shenzhen Cultraview Digital Technology Co., Ltd","F6,M6,Maqueling, High-tech park, Nanshan district Shenzhen Guangdong CN 518057 "
 MA-L,74675F,"COMPAL INFO (KUNSHAN) CO., LTD"," NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON KUNSHAN SUZHOU CN 215300 "
 MA-L,449FDA,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,A81F79,Yingling Innovations Pte. Ltd.,24 Sin Ming Lane #06-97 Midview  SG 573970 
-MA-L,B89C13,Alps Alpine,"20-1, Yoshima Industrial Park Iwaki Fukushima JP 970-1192 "
-MA-L,BC76F9,Ubiquoss Inc,"8F Ubiquoss B/D, 68, Pangyo-ro 255beon-gil, Bundang-gu Seongnam-si Gyeonggi-do KR 463-400 "
+MA-L,FCB214,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,2C9520,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,DCB4D9,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,983268,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22490,12 +22493,12 @@ MA-L,CC67D8,"Telin Semiconductor (Wuhan) Co.,Ltd","Room 1003 Buliding 5 , 2377 S
 MA-L,64AC2B,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,CC22FE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,34DAA1,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,243408,Edgecore Americas Networking Corporation,20 Mason Irvine CA US 92618 
 MA-L,CCFAF1,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,2C9D5A,"Flaircomm Microelectronics,Inc.","7F，Guomai Building,Guomai Science and Technology Park,116 Jiangbin East Avenue,Mawei District,Fuzhou City Fuzhou FUJIAN CN 350015 "
 MA-L,88DA04,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,04749E,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,8C8B5B,Wistron Neweb Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,243408,Edgecore Americas Networking Corporation,20 Mason Irvine CA US 92618 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30068,6 +30071,8 @@ MA-L,DC121D,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,40EB21,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,A8C407,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,508D62,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,68FE71,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,D86B83,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37576,3 +37581,5 @@ MA-L,98F3F6,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,B025AA,AIstone Global Limited,"29/F. , One Exchange Square 8  Connaught Place  Centa Hong Kong CN 999077 "
 MA-L,A039F9,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,B48931,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,48F6EE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,7C31FA,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
