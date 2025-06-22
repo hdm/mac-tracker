@@ -11,6 +11,7 @@ require 'fileutils'
 #
 # MAC Tracker
 #
+@macs = {}
 @data = {}
 @today = Time.now.strftime("%Y-%m-%d")
 @based = File.expand_path(File.dirname(__FILE__))
@@ -29,10 +30,9 @@ def country_from_address(address)
 	return c
 end
 
-def update(addr, date, org, address, source)
-
+def update_registration(addr, date, org, address, source)
+	# Track MAC registration changes
 	country = country_from_address(address)
-
 	if ! @data[addr]
 		@data[addr] = [
 			{
@@ -61,6 +61,22 @@ def update(addr, date, org, address, source)
 			'c' => country.to_s,
 			'o' => mash_encoding(org),		
 		}
+	end
+end
+
+def update_age(addr, date, org, address, source)
+	# Track MAC ages
+	if ! @macs[addr]
+		@macs[addr] = [date, source]
+		return
+	end
+
+	odate = @macs[addr].first.gsub("-", "").to_i
+	ndate = date.gsub("-", "").to_i
+
+	# Overwrite if new record is older
+	if ndate < odate
+		@macs[addr] = [date, source]
 	end
 end
 
@@ -102,8 +118,13 @@ def load_ieee_urls
     			addr = "#{addr_base}/#{addr_mask}".downcase
 
     			# skip duplicates (~2 examples so far)
-    			next if processed[addr]
-    			update(addr, @today, info[2], info[3].to_s.gsub("\\n", "\n"), "ieee-#{File.basename(url_path)}")
+    			if processed[addr]
+					log("Skipping duplicate registration for #{addr} from #{url_path}")
+					next
+				end
+
+    			update_registration(addr, @today, info[2], info[3].to_s.gsub("\\n", "\n"), "ieee-#{File.basename(url_path)}")
+    			update_age(addr, @today, info[2], info[3].to_s.gsub("\\n", "\n"), "ieee-#{File.basename(url_path)}")
     			processed[addr] = true
     		end
     	end
@@ -134,16 +155,27 @@ def download_ieee_csv(url)
 	return CSV.parse(data.chomp, col_sep: ",", encoding: "utf-8", liberal_parsing: true)
 end
 
+def sortable_prefix(str)
+	prefix, mask = str.split("/")
+	mask = mask.rjust(2, "0")
+	mask + prefix
+end
+
 def write_results
 	jdata = JSON.dump(@data)
 	File.open(File.join(@based, "data", "macs.json"), "wb") do |fd|
 		fd.write(jdata)
 	end
+	fd = File.open(File.join(@based, "data", "mac-ages.csv"), "wb")
+	@macs.keys.sort{|a,b| sortable_prefix(b) <=> sortable_prefix(a) }.
+		each do |mac|
+		fd.puts [mac, @macs[mac][0], @macs[mac][1]].join(",")
+	end
+	fd.close
 	File.open(File.join(@based, "data", "updated.txt"), "wb") do |fd|
 		fd.write(@now)
 	end
 end
-
 
 def log(msg)
 	$stdout.puts "#{Time.now.to_s} #{msg}"
