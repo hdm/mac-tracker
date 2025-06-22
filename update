@@ -14,6 +14,7 @@ require 'fileutils'
 @data = {}
 @today = Time.now.strftime("%Y-%m-%d")
 @based = File.expand_path(File.dirname(__FILE__))
+@now = Time.now.to_s
 
 Dir.chdir(@based)
 
@@ -138,7 +139,11 @@ def write_results
 	File.open(File.join(@based, "data", "macs.json"), "wb") do |fd|
 		fd.write(jdata)
 	end
+	File.open(File.join(@based, "data", "updated.txt"), "wb") do |fd|
+		fd.write(@now)
+	end
 end
+
 
 def log(msg)
 	$stdout.puts "#{Time.now.to_s} #{msg}"
