@@ -22,7 +22,7 @@ The JSON dump is a mapping of prefixes by mask to an array of registration entri
 Each entry starts with an `add` record and is followed by zero or more `change` records.
 Each entry includes the date (`d`), type (`t`), physical address (`a`), associated country (`c`), the organization name (`o`), and the source (`s`) of the records.
 
-In the example below, the prefix `000e02000000` correlates to `00:0e:02:00:00:00`, with a 24-bit (3-byte) mask.
+In the example below, the prefix `000e02000000` maps the MAC address range `00:0e:02:00:00:00` with a 24-bit (3-byte) mask.
 
 
 ```json
@@ -45,7 +45,7 @@ In the example below, the prefix `000e02000000` correlates to `00:0e:02:00:00:00
   ],
   ```
 
-This prefix has a 24-bit mask, which conveniently maps to 3 bytes, and matches all addresses in the form of  `00:0e:02:XX:XX:XX`. 
+This 24-bit mask conveniently maps to 3 bytes, and matches all addresses in the form of  `00:0e:02:XX:XX:XX`. 
 The mask can vary based on the block size and may be listed as `/24`, `/28`, or `/36`.  The mask refers to the number of leading bits in 
 the prefix that match that registration.  A `/36` prefix would mask the first 36 bits of the full 48-bit address, leaving just 12 bits 
 for unique addresses, which allows for only 4096 unique MACs. By contrast, the larger `/24` masks allow for 16.7m million unique MACs.
