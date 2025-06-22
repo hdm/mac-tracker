@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 6,16 * * *'
+    - cron: '5 6,18 * * *'
 
 name: 'Auto: Update files from IEEE'
 jobs:
@@ -21,7 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          ruby ./update
+          ruby ./update && curl -s https://hc-ping.com/5224ca44-6041-4c1c-a92a-15679062037b
       - name: create-pull-request
         uses: peter-evans/create-pull-request@v7
         id: cpr
