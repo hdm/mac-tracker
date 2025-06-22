@@ -6,7 +6,7 @@ on:
 name: 'Auto: Update files from IEEE'
 jobs:
   generate:
-    runs-on: ubuntu-latest-4-cores
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -23,7 +23,7 @@ jobs:
         run: |
           ruby ./update
       - name: create-pull-request
-        uses: peter-evans/create-pull-request@253935418100774e6d13aa1d877700be09f535f5 # v7
+        uses: peter-evans/create-pull-request@v7
         id: cpr
         with:
           committer: "GitHub <noreply@github.com>"
