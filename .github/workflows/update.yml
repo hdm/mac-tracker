@@ -14,8 +14,6 @@ jobs:
           fetch-depth: 1
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.12
       - name: Update from IEEE
         shell: bash
         env:
