@@ -1,0 +1,41 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '5 3 * * *'
+
+name: 'Auto: Update files from generators'
+jobs:
+  generate:
+    runs-on: ubuntu-latest-4-cores
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.12
+      - name: Update from IEEE
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ruby ./update
+      - name: create-pull-request
+        uses: peter-evans/create-pull-request@253935418100774e6d13aa1d877700be09f535f5 # v7
+        id: cpr
+        with:
+          committer: "GitHub <noreply@github.com>"
+          author: "GitHub <noreply@github.com>"
+          commit-message: "Auto: Update files from IEEE"
+          branch: auto/update-ieee
+          delete-branch: true
+          title: 'Auto: Update files from IEEE'
+          add-paths: data
+          labels: |
+            autoupdate
+      - name: Enable Pull Request Automerge
+        run: gh pr merge -d --merge --auto "${{ steps.cpr.outputs.pull-request-number }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
