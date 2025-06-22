@@ -74,7 +74,7 @@ address to an entry.
 
 ## Updates
 
-We use GitHub Actions to update this repository twice a day these IEEE URLs:
+We use GitHub Actions to update this repository twice a day from these IEEE URLs:
  * https://standards-oui.ieee.org/oui/oui.csv
  * https://standards-oui.ieee.org/cid/cid.csv
  * https://standards-oui.ieee.org/iab/iab.csv
