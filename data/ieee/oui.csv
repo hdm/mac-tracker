@@ -7616,16 +7616,17 @@ MA-L,E08CFE,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,38C6CE,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
 MA-L,F4063C,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,8C91A4,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
-MA-L,F4D7E4,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
-MA-L,BC34D6,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
-MA-L,CCE4D1,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,181628,SharkNinja Operating LLC,"89 A Street, Suite 100 02494 Needham Needham MA US 02494 "
-MA-L,0C9AE6,"SZ DJI TECHNOLOGY CO.,LTD","DJI Sky City,No55 Xianyuan Road,Nanshan District shenzhen Guangdong CN 518057 "
 MA-L,4CC5D9,Dell Inc.,One Dell Way Round Rock  TX US 78682 
 MA-L,98E081,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,04AE47,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
+MA-L,BC34D6,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
+MA-L,CCE4D1,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,E87EEF,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,882F92,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,F4D7E4,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
+MA-L,0C9AE6,"SZ DJI TECHNOLOGY CO.,LTD","DJI Sky City,No55 Xianyuan Road,Nanshan District shenzhen Guangdong CN 518057 "
+MA-L,8856A6,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15131,6 +15132,9 @@ MA-L,80D1CE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,4438F3,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,04A924,"Mist Systems, Inc.","1601 South De Anza Blvd, Suite 248 Cupertino CA US 95014 "
 MA-L,4C8E19,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,20988E,"Shenzhen Feasycom Co., Ltd","Box 508, Building A, Phoenix Wisdom Valley, No. 50, Tiezi Road, Xixiang, Bao'an, Shenzhen Shenzhen  CN 518102 "
+MA-L,14D5C6,"slash dev slash agents, inc","334 Brannan St, Floor 2 San Francisco CA US 94107 "
+MA-L,D885AC,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -30319,6 +30323,8 @@ MA-L,B0BC8E,SkyMirr,"930 South Harbor City Blvd, Suite 503 Melbourne FL US 32901
 MA-L,88546B,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,B014DF,MitraStar Technology Corp.,"No. 6, Innovation Road II, Hsinchu  TW 300 "
 MA-L,ACF466,HP Inc.,10300 Energy Dr Spring TX US 77389 
+MA-L,10E66B,"Kaon Broadband CO., LTD.","884-3, Seongnam-daero, Bundang-gu Seongnam-si  KR 13517 "
+MA-L,2805A5,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37877,3 +37883,4 @@ MA-L,902962,"Linkpower Microelectronics Co., Ltd.","905, B1, 999-8, Gaolang East
 MA-L,200E0F,Panasonic Marketing Middle East & Africa FZE,P.OBox17985JebelAli Dubai Dubai AE 17985 
 MA-L,2C157E,RADIODATA GmbH,Newtonstraße 18 Berlin  DE 12489 
 MA-L,849D4B,Shenzhen Boomtech Industrial Corporation,"905/906,BuildingA, Huizhi R&D Center. Xixiang,Bao'an District Shenzhen  CN 518100 "
+MA-L,A43A39,"AURORA TECHNOLOGIES CO.,LTD.","ROOM 1006, BLOCK B, QIANHAI ECONOMIC AND TRADE CENTER, CHINA MERCHANTS GROUP, NO.151 WEST FREE TRADE STREET, QIANHAI, SHENZHEN  CN 518000 "
