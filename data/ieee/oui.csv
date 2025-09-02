@@ -15165,11 +15165,12 @@ MA-L,B02EBA,Earda Technologies co Ltd,"Block A,Lianfeng Creative Park, #2 Jishen
 MA-L,0C3D5E,"Nanjing Qinheng Microelectronics Co., Ltd.","No.18, Ningshuang Road  Nanjing Jiangsu CN 210012 "
 MA-L,5CBF03,Emoco Labs Ab,Valhallavägen 5 Lidingö  SE 18151 
 MA-L,B8CEED,Broadcom,1320 Ridder Park San Jose CA US 95131 
-MA-L,54BAD9,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
 MA-L,CC0DCB,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,30E044,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
-MA-L,74317E,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,EC97E0,"Hangzhou Ezviz Software Co.,Ltd.","17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District Hangzhou Zhejiang CN 310051 "
+MA-L,605E65,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,54BAD9,Intelbras,"BR 101, km 210, S/N° São José Santa Catarina BR 88104800 "
+MA-L,74317E,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22734,6 +22735,7 @@ MA-L,6C4725,"Rochester Network Supply, Inc.","1319 Research Forest, Macedon NY U
 MA-L,8049BF,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
 MA-L,6CD8FB,Qorvo Utrecht B.V.,Leidseveer 10 Utrecht Utrecht NL 3511 SB 
 MA-L,B097E6,FUJIAN FUCAN WECON CO LTD,"Wecon Tech Park, No.58 Jiangbin East Avenue, Mawei, Fuzhou, China FUZHOU FUJIAN CN 350015 "
+MA-L,B45CB5,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -28294,7 +28296,6 @@ MA-L,000B4D,Emuzed,46750 Lakeview Boulevard Fremont California US 94538
 MA-L,000B3D,CONTAL OK Ltd.,Frana Mraza 2/289 Zilina  SK 01124 
 MA-L,000B31,"Yantai ZhiYang Scientific and technology industry CO., LTD","5F-4, NO. 64, Gong-Jian Rd. Hsi-Chih City Taipei County CN 221 "
 MA-L,0091D6,"Crystal Group, Inc.",850 Kacena Rd. Hiawatha IA US 52233 
-MA-L,000B0F,Bosch Rexroth,Luchthavenweg 20 Eindhoven Noord Brabant NL NL5657 EB 
 MA-L,000B0C,Agile Systems Inc.,575 Kumpf Drive Waterloo Ontario CA N2V 1K3 
 MA-L,000B0A,dBm Optics,300 S. Public Road Lafayette Colorado US 80026 
 MA-L,000B09,Ifoundry Systems Singapore,"Block 1, Unit 101B, Innovation Centre, 1   SG 637722 "
@@ -30383,6 +30384,7 @@ MA-L,54D60D,"Hangzhou Ezviz Software Co.,Ltd.","17th Floor, Building D, No.188 Q
 MA-L,588FCF,"Hangzhou Ezviz Software Co.,Ltd.","17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District Hangzhou Zhejiang CN 310051 "
 MA-L,78A6A0,"Hangzhou Ezviz Software Co.,Ltd.","17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District Hangzhou Zhejiang CN 310051 "
 MA-L,0C3623,"Nokia Shanghai Bell Co., Ltd.","No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai Shanghai   CN 201206 "
+MA-L,000B0F,Bosch Rexroth AG,Bgm.-Dr.Nebel-Str.2 Lohr am Main  NL 97816  
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -35233,7 +35235,6 @@ MA-L,001BD6,Kelvin Hughes Ltd,New North Road Ilford Essex GB IG6 2UR
 MA-L,001BCF,Dataupia Corporation,One Alewife Center Cambridge MA US 02140 
 MA-L,001B8B,"NEC Platforms, Ltd.",800 Shimomata Kakegawa Shizuoka JP 436-8501 
 MA-L,001B82,"Taiwan Semiconductor Co., Ltd.","11F, No. 205, Sec. 3, Beishin Rd, Shindian Taipei TW 231 "
-MA-L,001B85,MAN Energy Solutions,Teglholmsgade 41 Copenhagen  DK 2450 
 MA-L,001B8C,JMicron Technology Corp.,"1F, No.13, Innovation Road 1 Hsinchu  TW 300 "
 MA-L,001B91,EFKON AG,Dietrich-Keller-Strasse 20 8074 Raaba  AT  
 MA-L,001B89,EMZA Visual Sense Ltd.,"20 Ha'ta'as St., Beith Hapamon Kfar Saba  IL 44425 "
@@ -37957,3 +37958,4 @@ MA-L,AC1C26,"Hangzhou Ezviz Software Co.,Ltd.","17th Floor, Building D, No.188 Q
 MA-L,C02E1D,Nokia Solutions and Networks GmbH & Co. KG,Werinherstrasse 91 München Bavaria DE D-81541 
 MA-L,BC8753,Sera Network Inc.,"2F, No.60, 321 Ln., Yangguang St., Neihu Dist., Taipei Taiwan TW 114717 "
 MA-L,50FACB,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,001B85,Everllence,Teglholmsgade 41 Copenhagen  DK 2450 
