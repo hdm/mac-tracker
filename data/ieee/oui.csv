@@ -7686,6 +7686,8 @@ MA-L,2C658D,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,94AA07,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
 MA-L,84083A,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,1016B1,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,20CBCC,"GridVisibility, inc.",1502 Meeker Dr Longmont CO US 80504 
+MA-L,F49AB1,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15252,8 +15254,8 @@ MA-L,2CEAFC,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,042405,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,30836B,"SteeRetail Co.,Ltd.","2-6-1, Kitamigata, Takatsu-ku Kawasaki City Kanagawa Pref. JP 213-8511 "
 MA-L,D056F2,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
-MA-L,5C3977,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,74F92C,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+MA-L,5C3977,Juniper Networks,1133 Innovation Way Sunnyvale CA US 94089 
 MA-L,00047E,TKH Security B.V.,Werner von Siemensstraat 7 Zoetermeer Zoetermeer NL 2712PN 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
@@ -30539,18 +30541,20 @@ MA-L,806132,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,C467A1,Accelight Technologies (Wuhan) Inc.,"777 Guanggu 3rd, Bldg. #16, 5th Floor, Wuhan Hubei, P. R. CN 430205 "
 MA-L,D8332A,"Ruijie Networks Co.,LTD","Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District Fuzhou  CN 35000 "
 MA-L,8818F1,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,50926A,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
-MA-L,989E80,tonies GmbH,Oststraße 119 Düsseldorf NRW DE 40210 
-MA-L,24C35D,Duke University,300 Fuller Street Box 104100 Durham NC US 27708 
+MA-L,E41613,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
+MA-L,1C984B,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,983FA4,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,041CDB,Siba Service,"6F, Kobe Commerce, Industry and Trade Center Building, 5-1-14 Hamabe-dori, Chuo-ku Kobe-shi Hyogo-ken JP 6510083 "
-MA-L,9453FF,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,E0C932,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,543631,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,849265,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,90B021,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,74FA29,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+MA-L,989E80,tonies GmbH,Oststraße 119 Düsseldorf NRW DE 40210 
+MA-L,24C35D,Duke University,300 Fuller Street Box 104100 Durham NC US 27708 
+MA-L,50926A,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
+MA-L,041CDB,Siba Service,"6F, Kobe Commerce, Industry and Trade Center Building, 5-1-14 Hamabe-dori, Chuo-ku Kobe-shi Hyogo-ken JP 6510083 "
 MA-L,A43FA7,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
+MA-L,74FA29,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
+MA-L,9453FF,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
