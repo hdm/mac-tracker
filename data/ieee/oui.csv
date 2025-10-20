@@ -556,7 +556,6 @@ MA-L,BCF88B,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,68539D,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,0443FD,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
 MA-L,A4897E,"Guangzhou Yuhong Technology Co.,Ltd.","Room 402, No. 11 Software Road, Tianhe District, Guangzhou Guangzhou Guangdong CN 510640 "
-MA-L,BCD767,BAE Systems Apllied Intelligence,170 Waterside House Guildford Surrey GB GU2 7RQ 
 MA-L,EC1D9E,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,80646F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,3CA7AE,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -7700,6 +7699,8 @@ MA-L,0015EA,Hensoldt South Africa (Pty) Ltd,64/74 White Road Cape Town Western P
 MA-L,7CD4A8,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,903196,"SHENZHEN IP-COM NETWORKS CO.,LTD.","Room 101, Unit A, First Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China SHENZHEN Guangdong Province CN 518052 "
 MA-L,18ACC2,"TCL King Electrical Appliances(Huizhou)Co.,Ltd","B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen guangdong China CN 518058 "
+MA-L,00BC99,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
+MA-L,BCD767,BAE Systems Apllied Intelligence,"Waterside House, 170 Priestley Road, Surrey Research Park Guildford Surrey GB GU2 7RQ "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15273,11 +15274,13 @@ MA-L,0820E7,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunn
 MA-L,60B763,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,304D1F,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,F04EA4,HP Inc.,10300 Energy Dr Spring TX US 77389 
-MA-L,0024AE,IDEMIA Secure Transactions,2 Place Samuel de Champlain Courbevoie  FR 92400 
 MA-L,0CBFB4,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,C83374,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,A8DD9F,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,74675F,"COMPAL INFORMATION(KUNSHAN)CO.,LTD.","No.25 , THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE KUNSHAN SUZHOU CN 215300 "
+MA-L,E072A1,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,ACA704,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,0024AE,IDEMIA FRANCE SAS,2 Place Samuel de Champlain Courbevoie  FR 92400 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22893,6 +22896,7 @@ MA-L,90FB93,Renesas Design US Inc.,"6024 Silver Creek valley Road  San Jose, CA 
 MA-L,6CA042,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,6C76F7,MainStreaming SpA,"Viale Sarca, 336/F Milan MI IT 20126 "
 MA-L,68ABA9,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
+MA-L,40A44A,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30602,6 +30606,8 @@ MA-L,5CC41D,Stone Devices Sdn. Bhd.,"NO 25, JALAN I-PARK SAC 4, TAMAN PERINDUSTR
 MA-L,689FD4,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,DC44B1,Hilti Corporation,Feldkircherstrasse 100 Schaan  LI 9494 
 MA-L,50D06D,Bird Buddy,"169 Madison Avenue, Suite 15233 New York NY US 10016 "
+MA-L,3076F5,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,ACE6BB,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
