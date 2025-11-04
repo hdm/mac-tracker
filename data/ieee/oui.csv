@@ -2911,7 +2911,6 @@ MA-L,A4C7DE,"Cambridge Industries(Group) Co.,Ltd.","22 Floor,Qilai Tower;889 Yis
 MA-L,0019C7,"Cambridge Industries(Group) Co.,Ltd.","Room 309,333 Hong Qiao Road Shanghai  CN 200030 "
 MA-L,70D931,"Cambridge Industries(Group) Co.,Ltd.","22Floor,Qilai Tower;889Yishan Road shanghai  CN 200233 "
 MA-L,C43655,"Shenzhen Fenglian Technology Co., Ltd.","Room 302, 3F, Block 2, Oriental Cyberport, No. 2, Xinxi Road Shenzhen  Guangdong CN 518057 "
-MA-L,E0B9E5,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,0270B3,DATA RECALL LTD.,SONDES PLACE 12345 UNITED GB KINGDOM 
 MA-L,000136,CyberTAN Technology Inc.,"99, Park Avenue III Hsinchu  TW 12345 "
 MA-L,0030DA,Comtrend Corporation,"3F-1, 10 Lane 609, Chongxin Road, Section 5,  New Taipei City, Taiwan TW 24159 "
@@ -3566,7 +3565,6 @@ MA-L,488244,Life Fitness / Div. of Brunswick,10601 W. Belmont Ave Franklin Park 
 MA-L,C83168,eZEX corporation,"Rm 508, Ssangyong IT Twin-Tower II, 442-5 Seongnam-si Gyeonggi-do KR 462-120 "
 MA-L,D05AF1,"Shenzhen Pulier Tech CO.,Ltd","3rd Floor, NO. B Buliding, District A, Shajing minzhu jiujiu industrial park , Shenzhen, China Shenzhen Guangdong CN 518104 "
 MA-L,40B3CD,"Chiyoda Electronics Co.,Ltd.",1-3-11 Nishiki-cho Warabi Saitama JP  
-MA-L,30918F,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,5CF4AB,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,08B2A3,Cynny Italia S.r.L.,"Via delle Mantellate, 8 Firenze FI IT 59021 "
 MA-L,FCE186,"A3M Co., LTD","KeumJeong Highview 2F #205, Gunpo Gyeonggi KR 435-845 "
@@ -3777,7 +3775,6 @@ MA-L,308999,"Guangdong East Power Co.,","No.6 Northern Industry Road,Songshan la
 MA-L,A47ACF,VIBICOM COMMUNICATIONS INC.,900 CORPORATE DRIVE MAHWAH NEW JERSEY US 074030 
 MA-L,BC261D,HONG KONG TECON TECHNOLOGY,"ROOM 2802,BLOCK A,SHEN FANG OLAZA Shenzhen Guangdong CN 518000 "
 MA-L,204C6D,Hugo Brennenstuhl Gmbh & Co. KG.,Seestr. 1-3 Tuebingen Baden-Wuerttemberg DE 72074 
-MA-L,9C9726,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,7C0507,PEGATRON CORPORATION,"5F No. 76, Ligong St., Beitou District Taipei City Taiwan TW 112 "
 MA-L,880905,MTMCommunications,2-3-10 Honmachi Ichinomiya-shi Aichi-ken US 491-0853 
 MA-L,F4B381,WindowMaster A/S,Skelstedet 13 Vedbaek  DK 2950 
@@ -7710,6 +7707,9 @@ MA-L,44FB76,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Don
 MA-L,202BDA,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,808F97,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,4CE20F,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,9C9726,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,30918F,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,E0B9E5,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -8539,7 +8539,6 @@ MA-L,DC2C6E,Routerboard.com,Mikrotikls SIA Riga Riga LV LV1009
 MA-L,C4BDE5,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,3453D2,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,3429EF,"Qingdao Haier Technology Co.,Ltd","A01, No.1, Haier Road, Laoshan District, Qingdao Shan dong CN 266000 "
-MA-L,A0B53C,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,541D61,"YEESTOR Microelectronics Co., Ltd","7th Floor, Block A1, Digital Technology Park, Gaoxin 7th Road South, Shenzhen  CN 518057 "
 MA-L,700971,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,D01B49,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
@@ -15304,6 +15303,9 @@ MA-L,882985,"SZ DJI TECHNOLOGY CO.,LTD","DJI Sky City, No55 Xianyuan Road, Nansh
 MA-L,2482CA,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,901C9E,Alcatel-Lucent Enterprise,2000 Corporate Center Dr Suite A Thousand Oaks  US 91320 
 MA-L,50E0F9,GE Vernova,1800 Nelson Rd Longmont CO US 80501 
+MA-L,BC121F,ACCTON TECHNOLOGY CORPORATION,"No.1, Creation Road 3, Hsinchu Science Park, Hsinchu  TW 30077 "
+MA-L,70D07E,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,A0B53C,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -16367,7 +16369,6 @@ MA-L,B844AE,TCT mobile ltd,"No.86 hechang 7th road, zhongkai, Hi-Tech District H
 MA-L,F8AA3F,DWnet Technologies(Suzhou) Corporation,"No.8,Tangzhuang Road, Suzhou Industrial Park, Jiangsu, China Suzhou  CN 21500 "
 MA-L,0CCF89,SHENZHEN BILIAN ELECTRONIC CO.，LTD,"NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
 MA-L,AC5AFC,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,D4351D,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,F077C3,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,049081,"Pensando Systems, Inc.",570 Alder Drive Milpitas CA US 95035 
 MA-L,4C796E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
@@ -17549,7 +17550,6 @@ MA-L,5C6776,IDS Imaging Development Systems GmbH,Dimbacher Str. 6 Obersulm BW DE
 MA-L,1CDDEA,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,B8D94D,Sagemcom Broadband SAS,"250, route de l'Empereur Rueil Malmaison Cedex hauts de seine FR 92848 "
 MA-L,189BA5,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,A491B1,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,1C7022,"Murata Manufacturing Co., Ltd.","1-10-1, Higashikotari Nagaokakyo-shi Kyoto JP 617-8555 "
 MA-L,CC9891,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,28BF89,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
@@ -18701,7 +18701,6 @@ MA-L,C49FF3,"Mciao Technologies, Inc.","Room304, Building 1, No.288 Qiuyi Rd., B
 MA-L,788E33,"Jiangsu SEUIC Technology Co.,Ltd",NO23.Wenzhu Road.Yuhuatai Distrct. Nanjing Jiangsu Province CN 210012 
 MA-L,884157,"Shenzhen Atsmart Technology Co.,Ltd.","East 3F ,2 Building, Meijing Industry Park, Qiaoxiang Road, Nanshan District Shenzhen Guangdong CN 518000 "
 MA-L,D89A34,"Beijing SHENQI Technology Co., Ltd.",No.6 Shang Di West Road  Haidian District Beijing CN 100085 
-MA-L,C4EA1D,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,7CF90E,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,382B78,"ECO PLUGS ENTERPRISE CO., LTD","10F,-6, No.117, Sec.2, Zhongbei Rd., Zhongli Dist., Taoyuan Taiwan TW 32097 "
 MA-L,A47B2C,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
@@ -19445,7 +19444,6 @@ MA-L,C436DA,Rusteletech Ltd.,"Ordzhonikidze Str. 11, Bldg. 40, Off. 15  Moscow  
 MA-L,688470,"eSSys Co.,Ltd","Daerung Post Tower 5 15F, 60-3 Seoul Geumcheon-gu KR 153-702 "
 MA-L,8C5CA1,"d-broad,INC",3-17-5 ShinYokohama Kouhoku-Ku Yokohama Kanagawa JP 222-0033 
 MA-L,D43AE9,"DONGGUAN ipt INDUSTRIAL CO., LTD","No.66-1.Ist New Area, Nanshe Dist., Chigang,Humen, Dongguan Guangdong CN 52390 "
-MA-L,589835,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,E8CC32,Micronet  LTD,Hametzuda 27 Azor  IL 58001 
 MA-L,E4DD79,"En-Vision America, Inc.",1845 Hovey Ave Normal IL US 61761 
 MA-L,18F650,Multimedia Pacific Limited,"1 Matheson Street, Shell Tower 29F/12   HK 000000 "
@@ -22930,6 +22928,11 @@ MA-L,D8E374,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erq
 MA-L,941865,NETGEAR,3553 N. First Street San Jose CA US 95134 
 MA-L,E046EE,NETGEAR,3553 N. First Street San Jose CA US 95134 
 MA-L,603FFB,Telink Micro LLC,2975 Scott Blvd #120 Santa Clara  US 95054 
+MA-L,D878F0,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,589835,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,C4EA1D,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,A491B1,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,D4351D,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -24847,7 +24850,6 @@ MA-L,54068B,Ningbo Deli Kebei Technology Co.LTD,"zone 2nd , 301#, Road Xuxiake, 
 MA-L,549FAE,iBASE Gaming Inc,"2F., No.542-17, Zhongzheng Rd Xinzhuang Dist., New Taipei City  TW 24255 "
 MA-L,00EABD,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,74BFC0,CANON INC.,"30-2 Shimomaruko 3-chome, Ohta-ku Tokyo JP 146-8501 "
-MA-L,20B001,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,181DEA,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,185680,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3  Kulim Kedah MY 09000 "
 MA-L,C8D9D2,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070 
@@ -26733,7 +26735,6 @@ MA-L,503955,Cisco SPVTG,5030 Sugarloaf Parkway Lawrenceville GA US 30044
 MA-L,34996F,VPI Engineering,"11814 S. Election Rd., Suite 200 Draper UT US 84020 "
 MA-L,7CD9FE,"New Cosmos Electric Co., Ltd.",2-5-4 Mitsuyanaka Osaka Osaka-fu JP 532-0036 
 MA-L,CCC104,Applied Technical Systems,P.O. Box 5705 Shreveport LA US 71135 
-MA-L,A4B1E9,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,4C72B9,PEGATRON CORPORATION,"5F No. 76, Ligong St., Beitou District Taipei City Taiwan TW 112 "
 MA-L,907025,"Garea Microsys Co.,Ltd.","4th Floor, Building 2, Software Park Suzhou Jiangsu CN 215163 "
 MA-L,10D1DC,INSTAR Deutschland GmbH,Auf der Hostert 17 Huenstetten Bechtheim Hessen DE 65510 
@@ -30652,6 +30653,9 @@ MA-L,60A954,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,441A5C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,380FE4,Dedicated Network Partners Oy,Valimotie 13a Helsinki  FI 00380  
 MA-L,44658A,Dukelana LLC,2945 Bell Rd #365 Auburn CA US 95603 
+MA-L,FC3D98,ACCTON TECHNOLOGY CORPORATION,"No.1, Creation Road 3, Hsinchu Science Park, Hsinchu  TW 30077 "
+MA-L,A4B1E9,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,20B001,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -31091,7 +31095,6 @@ MA-L,00841E,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158
 MA-L,546503,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F85B9B,iMercury,"2-14 Kanda Tsukasamachi, Chiyoda-ku Tokyo JP 101-0048 "
 MA-L,000941,Allied Telesis K.K.,Technical Center/No.2 TOC Bldg. Shinagawa-ku  US 141-0031 
-MA-L,D4925E,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,E8473A,"Hon Hai Precision Industry Co.,LTD","66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA  TAIPEI 66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI  CN 33859 "
 MA-L,D80E29,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,10BF67,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
@@ -33093,7 +33096,6 @@ MA-L,A4580F,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,48F97C,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,C0BFC0,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,A08CF8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,101331,Technicolor Delivery Technologies Belgium NV,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
 MA-L,4CB81C,SAM Electronics GmbH,Behringstr. 120 Hamburg Hamburg DE 22763 
 MA-L,44D244,Seiko Epson Corporation,80 Harashinden Shiojiri-shi Nagano-ken JP 399-0785 
 MA-L,7CF95C,U.I. Lapp GmbH,Schulze-Delitzsch-Strasse 25 Stuttgart  DE 70565 
@@ -38284,3 +38286,7 @@ MA-L,0836C9,NETGEAR,3553 N. First Street San Jose CA US 95134
 MA-L,6CCDD6,NETGEAR,3553 N. First Street San Jose CA US 95134 
 MA-L,503123,FN-LINK TECHNOLOGY Ltd.,"No.8, Litong Road, Liuyang Economic & Technical Development Zone, Changsha, Hunan,China Changsha Hunan CN 410329 "
 MA-L,3CEFA5,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
+MA-L,30CB89,OnLogic Inc,435 Community Drive South Burlington VT US 05403 
+MA-L,E48F09,ithinx GmbH,Am Kabellager 5-7 Koeln / Cologne  DE 51063 
+MA-L,101331,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
+MA-L,D4925E,Vantiva Technologies Belgium,Prins Boudewijnlaan 47 Edegem - Belgium  BE B-2650 
