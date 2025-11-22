@@ -6932,7 +6932,6 @@ MA-L,E817FC,Fujitsu Limited,"Fujitsu Technology Park, 4-1-1 Kamikodanaka Nakahar
 MA-L,E82281,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
 MA-L,203B34,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,B43D6B,NXP Semiconductor (Tianjin) LTD.,"No.15 Xinghua Avenue, Xiqing Economic Development Area Tianjin  CN 300385 "
-MA-L,4CD7C8,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","601,Building B2,No.162,Science Avenue,Science City,Guangzhou High-tech Industrial Development Zone,Guangdong Province,China Guangzhou Guangdong CN 510663 "
 MA-L,A42902,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
 MA-L,6CD008,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,508CC9,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -7739,6 +7738,7 @@ MA-L,B0435D,MechoShade,1497 Poinsettia Ave. Vista CA US 92081
 MA-L,9C04B6,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,3455E5,"SJIT Co., Ltd.",54-33 Dongtanhana 1-gil Hwaseong-si Gyeonggi-do KR 18423 
 MA-L,BCAA82,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,4CD7C8,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","13/F, Building 1, No.13 Bohua 4th Road,  Huangpu District Guangzhou Guangdong CN 510663 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -14914,7 +14914,6 @@ MA-L,043D6E,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-L,5C0610,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,F4D454,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
 MA-L,BC3E0B,"Panasonic Connect Co., Ltd.","4-1-62 Minoshima, Hakata-ku Fukuoka-shi Fukuoka JP 812-8531 "
-MA-L,B46415,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","601,Building B2,No.162,Science Avenue,Science City,Guangzhou High-tech Industrial Development Zone,Guangdong Province,China Guangzhou Guangdong CN 510663 "
 MA-L,30BD13,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,701AD5,Avigilon Alta,"13428 Maxella Ave, #866 Marina Del Rey CA US 90292 "
 MA-L,4CB82C,"Cambridge Mobile Telematics, Inc.",314 Main Street Suite 1200 Cambridge MA US 02142 
@@ -15349,13 +15348,14 @@ MA-L,943B22,NETGEAR,3553 N. First Street San Jose CA US 95134
 MA-L,B8A792,"Sichuan Tianyi Comheart Telecom Co.,LTD","No.198,First Section,Snow Mountain Avenue, Jinyuan Town, Dayi County Chengdu Sichuan CN 611330 "
 MA-L,C8E713,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
 MA-L,587607,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,F0C88B,Wyze Labs Inc, 22522 29TH DR SE L101 BOTHELL WA US 98021 
+MA-L,5483BB,"Honda Motor Co., Ltd","Toranomon Alcea Tower, 2-2-3 Toranomon, Minato-ku,  Tokyo  JP 105-8404 "
+MA-L,E096E8,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,A81378,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,B46415,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","13/F, Building 1, No.13 Bohua 4th Road,  Huangpu District Guangzhou Guangdong CN 510663 "
 MA-L,1C8EE6,VTECH TELECOMMUNICATIONS LIMITED,BLOCK 01 23-24/F TAT PING INDUSTRIAL CENTRE 57 TING KOK ROAD TAI PONT DONG GUAN GUANG ZHOU CN 52300 
 MA-L,845B0C,eFAB P.S.A.,al. Solidarości 129/131/197 VATID: PL5272968735 Warsaw Mazowieckie PL 00-898 
 MA-L,90AF59,Choice IT Global LLC,14900 James Rd #200 Rogers MN US 55374 
-MA-L,5483BB,"Honda Motor Co., Ltd","Toranomon Alcea Tower, 2-2-3 Toranomon, Minato-ku,  Tokyo  JP 105-8404 "
-MA-L,E096E8,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
+MA-L,F0C88B,Wyze Labs Inc, 22522 29TH DR SE L101 BOTHELL WA US 98021 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -15414,7 +15414,6 @@ MA-L,D8097F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,848687,weiyuantechnology,"Room 111, Floor 1, Building 8, No. 48, Jiubao Street, Shangcheng District Hangzhou City  CN 310000 "
 MA-L,00E63A,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,44E761,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
-MA-L,6C68A4,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","601,Building B2,No.162,Science Avenue,Science City,Guangzhou High-tech Industrial Development Zone,Guangdong Province,China Guangzhou Guangdong CN 510663 "
 MA-L,44B59C,Tenet Networks Private Limited,"15 B, HIG Flats, Swarnim Vihar, Sector 82 Noida Uttar Pradesh IN 201304 "
 MA-L,A436C7,LG Innotek,"26, Hanamsandan 5beon-ro Gwangju Gwangsan-gu KR 506-731 "
 MA-L,38F6ED,EVK DI Kerschhaggl GmbH,Josef Krainer Str. 35 Graz Styria AT A8074 
@@ -22996,13 +22995,15 @@ MA-L,24559A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,2453ED,Dell Inc.,One Dell Way Round Rock  TX US 78682 
 MA-L,B0FB15,"Ezurio, LLC","3F.-1, No.145, Xianzheng 9th Rd., Zhubei  TW 30251 "
 MA-L,ECC07A,"Ezurio, LLC","3F.-1, No.145, Xianzheng 9th Rd., Zhubei  TW 30251 "
-MA-L,0CE709,Sentyron B.V,P.O. box 638 Delft ZH NL 2600 AP 
-MA-L,B082E2,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
-MA-L,141826,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,20E59B,Panasonic Automotive Systems,"1578-5 , Uegawa-chou Matsusaka Mie JP 5150041 "
+MA-L,A4CF03,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
 MA-L,FCE6C6,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
 MA-L,6C3E51,Mindray North America,800 MacArthur Blvd Mahwah NJ US 07430 
-MA-L,A4CF03,"Realme Chongqing Mobile Telecommunications Corp.,Ltd.","No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing. Chongqing  China CN 401120 "
+MA-L,141826,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
+MA-L,20E59B,Panasonic Automotive Systems,"1578-5 , Uegawa-chou Matsusaka Mie JP 5150041 "
+MA-L,0CE709,Sentyron B.V,P.O. box 638 Delft ZH NL 2600 AP 
+MA-L,B082E2,ASUSTek COMPUTER INC.,"15,Li-Te Rd., Peitou, Taipei 112, Taiwan Taipei Taiwan TW 112 "
+MA-L,6C68A4,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","13/F, Building 1, No.13 Bohua 4th Road,  Huangpu District Guangzhou Guangdong CN 510663 "
+MA-L,90C952,"Durin, Inc",440 N Wolfe Rd Sunnyvale CA US 94085 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -38400,3 +38401,4 @@ MA-L,281DAA,ASTI India Private Limited,"Plot No. 75, Ukardi, Japanese Industrial
 MA-L,C0188C,Altus Sistemas de Automação S.A.,"Av. Theodomiro Porto da Fonseca, 3101 - lote 01 - Cristo Rei São Leopoldo Rio Grande do Sul BR 93022-715 "
 MA-L,403802,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,70A8A5,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
+MA-L,A4F4CA,Private,
