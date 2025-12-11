@@ -7765,6 +7765,8 @@ MA-L,CCAFE3,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507
 MA-L,14C19F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,AC3AE2,NVIDIA Corporation,2701 San Tomas Expressway Santa Clara CA US 95050 
 MA-L,70AD43,Blink by Amazon ,100 Riverpark Drive North Reading  MA US 01864 
+MA-L,B81E61,TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO ,"Av. Buriti, 1900 – Setor B – Distrito Industrial Manaus Amazonas BR 69075-000 "
+MA-L,406E0F,SKYASTAR TECHNOLOGLES(ZHUHAI) LTD,"3F, 5# Building, Maker Town, Jinwan, Zhuhai, Guangdong, 519090 China ZHUHAI Guangdong CN 519090 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15403,6 +15405,7 @@ MA-L,E82D79,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijin
 MA-L,ACD3FB,Arycs Technologies Inc,718 University Ave Suite 200 Los Gatos  US 95032 
 MA-L,2C9D90,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,E46DAB,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,9074AE,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -20641,7 +20644,6 @@ MA-L,001209,Fastrax Ltd,Valimotie 7 Vantaa FI FI 01510
 MA-L,00120B,Chinasys Technologies Limited,"10/F,CAGW Building,No.30 Haidian South Road Beijing  CN 100080 "
 MA-L,001205,"Terrasat Communications, Inc.","235 Vineyard Court, suite 100 Morgan Hill California US 95037 "
 MA-L,001254,Spectra Technologies Holdings Company Ltd,"Unit 1301-09, Tower II   HK 852 "
-MA-L,00124F,nVent,"1665 Utica Avenue, Suite 700 St Louis Park MN US 55416 "
 MA-L,001249,Delta Elettronica S.p.A.,Via Astico 41 Varese  IT 21100 
 MA-L,001221,B.Braun Melsungen AG,Schwarzenberger Weg 73-79 Melsungen Hessen DE 34212 
 MA-L,001212,PLUS  Corporation,"1033-1, Oshitate Inagi-shi Tokyo JP 206-0811 "
@@ -23066,19 +23068,20 @@ MA-L,086A0B,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158
 MA-L,C86340,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,34F015,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
 MA-L,FC268C,Signify B.V.,High Tech Campus 7 Eindhoven  NL 5656AE 
-MA-L,A0F262,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
-MA-L,A05866,Qorvo Utrecht B.V.,Leidseveer 10 Utrecht Utrecht NL 3511 SB 
-MA-L,7C6D12,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
-MA-L,64CE0C,"Funshion Online Technologies Co.,Ltd","2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing Beijing   CN 100029 "
-MA-L,844880,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
-MA-L,60B4A2,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,140B9E,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,CCC4B2,"Shenzhen Trolink Technology Co.,LTD","7th Floor, Building 5, Phase 2, Donghua Intelligent Manufacturing Park, Sanwei Community, Hangcheng Street, Bao'an District Shenzhen Guangdong CN 518101 "
 MA-L,E83DC1,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,247121,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,BCABF5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,B8C924,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,A0F262,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,A05866,Qorvo Utrecht B.V.,Leidseveer 10 Utrecht Utrecht NL 3511 SB 
+MA-L,7C6D12,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
+MA-L,CCC4B2,"Shenzhen Trolink Technology Co.,LTD","7th Floor, Building 5, Phase 2, Donghua Intelligent Manufacturing Park, Sanwei Community, Hangcheng Street, Bao'an District Shenzhen Guangdong CN 518101 "
+MA-L,60B4A2,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,140B9E,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
+MA-L,64CE0C,"Funshion Online Technologies Co.,Ltd","2101, Floor 1-2, Building 9, Anzhen Xili District 3, Chaoyang District, Beijing Beijing   CN 100029 "
 MA-L,8813C2,Tendyron Corporation,"Tendyron Building,Zhongguancun NO.1 Park,Beiqing Road,Haidian District,Beijing,China Beijing  CN 100000 "
+MA-L,844880,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,00124F,Chemelex LLC,"1665 Utica Avenue, Suite 700 St Louis Park MN US 55416 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
