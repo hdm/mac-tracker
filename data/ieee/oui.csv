@@ -7761,17 +7761,19 @@ MA-L,5C3AA2,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701
 MA-L,CCAFE3,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,14C19F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,AC3AE2,NVIDIA Corporation,2701 San Tomas Expressway Santa Clara CA US 95050 
-MA-L,0002DC, GENERAL Inc.,"   3-3-17,Suenaga,Takatsu-ku Kawasaki-City Kanagawa-Pref JP 213-8502 "
-MA-L,D400CA,AUMOVIO Systems Romania S.R.L.,"Str. Salzburg Nr. 8, 550018  Sibiu Sibiu RO 550018 "
 MA-L,408556,AUMOVIO Technologies Romania S.R.L.,"Str Siemens no.1, 300701 Timisoara, Romania Timisoara  RO 300701 "
 MA-L,8C5F48,"AUMOVIO Systems, Inc.",3901 North First Street San Jose CA US 95134 
 MA-L,24085D,AUMOVIO Aftermarket GmbH,Sodener Strasse 9 Schwalbach am Taunus Hessen DE 65824 
 MA-L,D494FB,"AUMOVIO Systems, Inc.",21440 W. Lake Cook Rd. Deer Park IL US 60010 
 MA-L,442063,AUMOVIO Germany GmbH,Siemensstr. 12 Regensburg  DE 93055 
 MA-L,E41E33,AUMOVIO Germany GmbH,Heinrich-Hertz-Strasse 45 Villingen-Schwenningen  DE 78052 
-MA-L,447CAC,Invictus-AV,17650 Hillcrest Drive Meadow Vista CA US 95722 
 MA-L,6CD552,SHENZHEN BILIAN ELECTRONIC CO.，LTD,"NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district shenzhen guangdong CN 518000 "
+MA-L,D400CA,AUMOVIO Systems Romania S.R.L.,"Str. Salzburg Nr. 8, 550018  Sibiu Sibiu RO 550018 "
+MA-L,447CAC,Invictus-AV,17650 Hillcrest Drive Meadow Vista CA US 95722 
+MA-L,0002DC, GENERAL Inc.,"   3-3-17,Suenaga,Takatsu-ku Kawasaki-City Kanagawa-Pref JP 213-8502 "
 MA-L,C4B16B,Advantech Czech,Sokolska 71 Usti nad Orlici  CZ 56204 
+MA-L,B4ABF3,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,A4AB39,Shenzhen Taichi Technology Limited,"A1710, Nanshan Cloud Technology Building, Vanke Cloud City, Liuxin Third Street, Xili Community, Xili Street, Nanshan District,  Shenzhen Guangdong Province CN 518000 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15420,6 +15422,7 @@ MA-L,9074AE,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City
 MA-L,DC74CE,ITOCHU Techno-Solutions Corporation,"Kamiyacho Trust Tower, 4-1-1, Toranomon, Minato-ku, Tokyo Tokyo JP 105-6950 "
 MA-L,1003CD,Calix Inc.,2777 Orchard Pkwy San Jose CA US 95131 
 MA-L,B4E25B,HP Inc.,10300 Energy Dr Spring TX US 77389 
+MA-L,D8FC92,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23098,6 +23101,8 @@ MA-L,00124F,Chemelex LLC,"1665 Utica Avenue, Suite 700 St Louis Park MN US 55416
 MA-L,F03012,AUMOVIO Autonomous Mobility Germany GmbH,Ringlerstr. 17 Ingolstadt  DE 85057 
 MA-L,B4DDD0,AUMOVIO Hungary Kft.,Napmátka u. 6. Budapest Pest HU H-1106 
 MA-L,942D3A,PRIZOR VIZTECH LIMITED,"514, Maple Trade Ctr Rd, near Surdhara Circle, Thaltej Ahmedabad Gujarat  IN 380052 "
+MA-L,081814,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
+MA-L,30487D,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
