@@ -3708,10 +3708,10 @@ MA-M,006A5EB,AUMOVIO Brazil Industry Ltda.,"Av. Senador Adolf Schindling, 131 Gu
 MA-M,B4ABF36,SNSYS,"7f 830, Dongtansunhwan-daero Hwaseong-si Gyeonggi-do KR 18468 "
 MA-M,B4ABF33,NubiCubi,"Egon Eiermann Allee 4b, Karlsruhe 76187  Karlsruhe Baden Wurttenberg DE 76187 "
 MA-M,B4ABF30,VOOMAX TECHNOLOGY LIMITED,"11/F CENTRALTOWER 28 QUEEN'S RD CENTRAL,CENTRAL HONG KONG  HK 999077 "
-MA-M,60159FC,Terrestar Solutions Inc,"1035 Av. Laurier O, suite 300 Montreal Quebec CA H2V 2L1 "
-MA-M,EC74CD6,Platypus," 405, Corner One Smart Tower, 131 Dongtanyeongcheon-ro Hwaseong-si, Gyeonggi-do Hwaseong-si, KR 18467 "
-MA-M,60159FA,"QingDao Hiincom Electronics Co., Ltd",No.1 JinYe Road Qingdao Shan Dong CN 266111 
 MA-M,60159F8,"HUIZHOU BOHUI CONNECTION TECHNOLOGY CO., LTD",中国广东省惠州市惠城区东江高新区东兴大道111号泓淋工业园 惠州 广东省 CN 516000 
+MA-M,60159FA,"QingDao Hiincom Electronics Co., Ltd",No.1 JinYe Road Qingdao Shan Dong CN 266111 
+MA-M,EC74CD6,Platypus," 405, Corner One Smart Tower, 131 Dongtanyeongcheon-ro Hwaseong-si, Gyeonggi-do Hwaseong-si, KR 18467 "
+MA-M,60159FC,Terrestar Solutions Inc,"1035 Av. Laurier O, suite 300 Montreal Quebec CA H2V 2L1 "
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C876,"HORIBA Precision Instruments (Beijing) Co.,Ltd","Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China Beijing Shunyi CN 101318 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -4931,9 +4931,9 @@ MA-M,58AD08C,"Also, Inc.",630 Hansen Way Palo Alto CA US 94306
 MA-M,58AD089,"Wuxi Qinghexiaobei Technology Co., Ltd.","801C,Building E, Yingchuang Power, NO.1 Shangdi East Road, Haidian District, Beijing  Beijing Beijing CN 100085  "
 MA-M,58AD084,"Shenzhen Yumutek co.,ltd","501, 5th Floor, Building 8, Changyuan New Materials Port, No. 2 Gaoxin Middle Road, Nanshan District Shenzhen Guangdong CN 518000 "
 MA-M,60159FD,FF Videosistemas SL,"Calle Vizcaya, 2 Las Rozas de Madrid Madrid ES 28231 "
-MA-M,60159FB,"Lens Technology(Xiangtan) Co.,Ltd","16 Baishi WestRoad,Xiantan Economic and Technological Development Zone Xiantan Hunan CN 411100 "
 MA-M,B4ABF3C,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,60159F1,Klaric GmbH & Co. KG,Kesselstr. 17 Stuttgart  DE 70327 
+MA-M,60159FB,"Lens Technology(Xiangtan) Co.,Ltd","16 Baishi WestRoad,Xiangtan Economic and Technological Development Zone Xiangtan Hunan  CN 411100 "
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,B84C87E,Private,
 MA-M,B84C871,em-trak,"wireless house, westfield industrial estate Midsomer Norton Bath Somerset GB BA3 4BS "
@@ -6180,3 +6180,5 @@ MA-M,58AD085,Vanguard Protex Global,720 Brooker Creek Blvd Oldsmar FL US 34677
 MA-M,B4ABF35,"Shenzhen Quanzhixin Information Technology Co.,Ltd","Jinhuanyu Building,Xixiang street,Bao'an District Shenzhen Guangdong CN 518100 "
 MA-M,B4ABF37,FrontGrade Technologies,2815 Newby Road SW Huntsville AL US 35805 
 MA-M,60159F0,yst,"Um al ramuol, Al fattan skytower Dubai  AE 123200 "
+MA-M,60159F2,"Voxai Technology Co.,Ltd.",1211 Dongfangkejidasha Shenzhen Guangdong CN 518040 
+MA-M,60159F4,MICRO-TEX PTE.LTD.,"131B LORONG 1 TOA PAYOH, #10-544 TOA PAYOH CREST  SG 312131 "
