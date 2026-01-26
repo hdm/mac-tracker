@@ -17,7 +17,7 @@ jobs:
         with:
           go-version: '1.24'
       - name: Build update tool
-        run: go build -o update update.go
+        run: go build -ldflags="-s -w" -o update update.go
       - name: Update from IEEE
         shell: bash
         env:

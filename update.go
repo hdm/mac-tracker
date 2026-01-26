@@ -331,7 +331,7 @@ func sortablePrefix(str string) string {
 	prefix := parts[0]
 	mask := parts[1]
 
-	// Right-pad mask to 2 digits
+	// Left-pad mask to 2 digits with zeros
 	for len(mask) < 2 {
 		mask = "0" + mask
 	}
