@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"context"
 	"encoding/csv"
 	"encoding/hex"
@@ -9,6 +10,7 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"path"
 	"path/filepath"
 	"regexp"
 	"sort"
@@ -33,12 +35,14 @@ type MACData map[string][]RegistrationEntry
 // MACAges stores the earliest registration for each MAC
 type MACAges map[string][2]string // [date, source]
 
+const MaxRetries = 30
+
 var (
-	macs   MACAges
-	data   MACData
-	today  string
-	based  string
-	now    string
+	macs  MACAges
+	data  MACData
+	today string
+	based string
+	now   string
 )
 
 func main() {
@@ -64,6 +68,7 @@ func main() {
 		logMsg(fmt.Sprintf("Failed to load current dataset: %v", err))
 		os.Exit(1)
 	}
+	logMsg("")
 
 	// Load IEEE URLs
 	logMsg("Loading the IEEE URLs")
@@ -86,6 +91,8 @@ func logMsg(msg string) {
 	fmt.Printf("%s %s\n", time.Now().String(), msg)
 }
 
+var countryRegex = regexp.MustCompile(`\b([A-Z]{2})\b`)
+
 func countryFromAddress(address string) string {
 	if len(address) == 0 {
 		return ""
@@ -94,7 +101,7 @@ func countryFromAddress(address string) string {
 	parts := regexp.MustCompile(`\s+`).Split(address, -1)
 	var c string
 	for i := len(parts) - 1; i >= 0; i-- {
-		if matched, _ := regexp.MatchString(`^[A-Z]{2}$`, parts[i]); matched {
+		if matched := countryRegex.MatchString(parts[i]); matched {
 			c = parts[i]
 			break
 		}
@@ -196,6 +203,8 @@ func loadCurrent() error {
 	return json.Unmarshal(fileData, &data)
 }
 
+var matchRegistry = regexp.MustCompile(`^Registry$`)
+
 func loadIEEEURLs() error {
 	ieeeURLs := []struct {
 		url        string
@@ -229,7 +238,7 @@ func loadIEEEURLs() error {
 			}
 
 			// Skip header rows
-			if matched, _ := regexp.MatchString(`^Registry`, info[0]); matched {
+			if matched := matchRegistry.MatchString(info[0]); matched {
 				continue
 			}
 
@@ -261,8 +270,8 @@ func loadIEEEURLs() error {
 }
 
 func downloadIEEECSV(ctx context.Context, url string) ([][]string, error) {
-	name := filepath.Base(url)
-	path := filepath.Join(based, "data", "ieee", name)
+	name := path.Base(url)
+	fpath := path.Join(based, "data", "ieee", name)
 
 	var data []byte
 	var err error
@@ -278,15 +287,19 @@ func downloadIEEECSV(ctx context.Context, url string) ([][]string, error) {
 			continue
 		}
 
+		req.Header.Set("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36")
+
 		resp, err := http.DefaultClient.Do(req)
 		if err != nil {
 			// Don't retry on timeout or context cancellation
 			if ctx.Err() != nil {
 				return nil, ctx.Err()
 			}
-			if retries == 5 {
+			if retries == MaxRetries {
 				return nil, err
 			}
+			logMsg(fmt.Sprintf("HTTP err %s from %s, retrying...", err, url))
+			time.Sleep(time.Second)
 			continue
 		}
 
@@ -294,30 +307,47 @@ func downloadIEEECSV(ctx context.Context, url string) ([][]string, error) {
 		resp.Body.Close()
 
 		if err != nil {
-			if retries == 5 {
+			if retries == MaxRetries {
 				return nil, err
 			}
+			logMsg(fmt.Sprintf("HTTP read error %s %s, retrying...", err, url))
+			time.Sleep(time.Second)
 			continue
 		}
 
+		if resp.StatusCode != 200 {
+			if retries == MaxRetries {
+				return nil, fmt.Errorf("HTTP %d from %s", resp.StatusCode, url)
+			}
+			logMsg(fmt.Sprintf("HTTP %d from %s, retrying...", resp.StatusCode, url))
+			time.Sleep(time.Second)
+			continue
+		}
 		// Success
 		break
 	}
 
+	data = bytes.TrimSpace(data)
+
 	// Write to file
-	if err := os.WriteFile(path, data, 0644); err != nil {
+	if err := os.WriteFile(fpath, data, 0644); err != nil {
 		return nil, err
 	}
 
 	// Parse CSV
 	// Remove trailing newlines before parsing
-	dataStr := strings.TrimRight(string(data), "\n\r")
-	reader := csv.NewReader(strings.NewReader(dataStr))
+	reader := csv.NewReader(bytes.NewReader(data))
 	reader.LazyQuotes = true // liberal_parsing equivalent
-
 	records, err := reader.ReadAll()
 	if err != nil {
 		return nil, err
+	}
+
+	// Trim whitespace from all fields
+	for i := range records {
+		for j := range records[i] {
+			records[i][j] = strings.TrimSpace(records[i][j])
+		}
 	}
 
 	return records, nil

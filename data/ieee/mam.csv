@@ -2918,7 +2918,6 @@ MA-M,6431392,Smartplus Inc.,415 steelcase road east markham Ontario CA L3R1G3
 MA-M,0069674,"Command Alkon, Inc","1800 International Park Dr., Ste 400 Birmingham AL US 35243 "
 MA-M,6431395,"Shenzhen He&e Technology Co.,Ltd.","2nd Floor, Building A7, Shenzhen Low Carbon Technology Demonstration Park, Silicon Valley Power, Guiyue Road, Guanlan Street, Longhua District, Shenzhen, China ShenZhen  CN 518100 "
 MA-M,6431398,Shenzhen Huanyin Electronics Ltd.,"Room 1707, 17/F, West Block, Nanshan Digital Culture Industrial Base, Nanshan District Shenzhen Guangdong CN 519052 "
-MA-M,5062551,"Hagiwara Solutions Co., Ltd ","7F, Sakae TV BLD, 3-10-32, Nishiki, Naka-ku, Nagoya City Aichi Prefecture JP 460-0003 "
 MA-M,506255A,CCTV Manufacturer,"Room 1807,Bagua 4 Rd,Futian District Shenzhen Guangdong CN 518029 "
 MA-M,5062558,"Roda industrial development Co.,Ltd.","2-3F,Building C,Unistar Park,GenYu Road,GuangMing New District Shenzhen  CN 518000 "
 MA-M,F8B568E,ZAO &quot;RADIUS Avtomatika&quot;,"Panfilovskiy prospekt, 10/3 Zelenograd Moscow RU 124489 "
@@ -3734,6 +3733,7 @@ MA-M,083C032,Wildtech,23 Leinster Road Christchurch  NZ 8014
 MA-M,083C031,SNM Technology,"664, Sosa-ro Bucheon-si Gyeonggi-do KR 14474 "
 MA-M,8077866,"Glorious, LLC",13809 Research Blvd  Suite 500 PMB 93206 Austin TX US 78750 
 MA-M,083C030,Federal Signal SSG,2645 Federal Signal Drive University Park IL US 60484 
+MA-M,5062551,"Hagiwara Solutions Co., Ltd ","9F, DP Square Higashi-Sakura, 1-14-11  Higashi-Sakura Higashi-ku, Nagoya  JP 461-000 "
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C876,"HORIBA Precision Instruments (Beijing) Co.,Ltd","Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China Beijing Shunyi CN 101318 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -4965,6 +4965,7 @@ MA-M,083C03D,"Yinglian Technology Co.,Ltd","Room 802, 8th Floor, Building 5, Wen
 MA-M,083C038,GS Industrie-Elektronik GmbH,Porschestrasse 11 Leverkusen  DE 51381 
 MA-M,083C035,LEADTEK BIOMED INC.,"18 F., No. 166, Jian 1st Rd., Zhonghe Dist. New Taipei City  TW 235 "
 MA-M,083C03E,Prozone,New Railway Road jalandhar Punjab IN 144001 
+MA-M,34D7F56,DREAMTECH,"10F, U-Space 2 A Tower, 670 Daewangpangyo-ro, Bundang-Gu, Seongnam-Si, Gyeonggi-Do, Republic of Korea Gyeonggi-Do  KR 13494 "
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,B84C87E,Private,
 MA-M,B84C871,em-trak,"wireless house, westfield industrial estate Midsomer Norton Bath Somerset GB BA3 4BS "
@@ -6110,7 +6111,6 @@ MA-M,BCDFE18,Cortex Systems,601 NW 8th st McMinnville OR US 97128
 MA-M,9CE5499,"Hangzhou Xieneng Technology Co., Ltd.","8-16F, Zhejiang Science and Technology Industry Building, No. 80 Gucui Road, Xihu District, Hangzhou City Hangzhou Zhejiang CN 310012 "
 MA-M,9CE5492,Volumatic Limited,Taurus House Coventry Warwickshire GB CV6 5PY 
 MA-M,9CE549D,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
-MA-M,04A16F4,"Xiamen Akubela Innovation Technology CO., Ltd.","9/F, No.56 Guanri Road, Software Park II, Xiamen 361009, China Xiamen Fujian CN 350000 "
 MA-M,04A16FC,Broadband International,11650 NW 102nd Road Miami FL US 33178 
 MA-M,6C27C8C,SHENZHEN EVIEW GPS TECHNOLOGY,"Rm 201, building 1-A, Nankechuang Industrial Park, Gaofeng Road, Longhua district Shenzhen Guangdong CN 518109 "
 MA-M,6C27C8E,ScentedVents,4208 W Nike Drive  West Jordan UT US 84088 
@@ -6222,3 +6222,4 @@ MA-M,807786C,Cornerstone Technology (Shenzhen) Limited,"Room 43D, Unit 1, China 
 MA-M,8077865,ADIANCE TECHNOLOGIES PVT LTD,House 7 Arista At Eight Corporate House Rajpath Rangoli road Bodakdev Ahmedabad AHMEDABAD Gujarat IN 380054 
 MA-M,083C039,INNOS TECHNOLOGIES INC.,"4711 Yonge Street, 10th Floor, North York, Canada North York Ontario CA M2N 6K8 "
 MA-M,34D7F5C,Lucy Electric Manufacturing and Technologies India Pvt Ltd,"Survey Number 26-30, Noorpura, Baska, Ta. Halol Dist. Panchamahal Vadodara Gujarat IN 389350 "
+MA-M,04A16F4,"Akubela Co., Ltd.","9/F, No.56 Guanri Road, Software Park II, Xiamen 361009, China Xiamen Fujian CN 350000 "
