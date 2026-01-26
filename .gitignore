@@ -1,2 +1,5 @@
 update.log
 update.sh
+update-go
+update
+*.test
