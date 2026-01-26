@@ -1,0 +1,199 @@
+#!/usr/bin/env ruby
+# encoding 'utf-8'
+
+require "timeout"
+require "net/http"
+require "uri"
+require "json"
+require "csv"
+require 'fileutils'
+
+#
+# MAC Tracker
+#
+@macs = {}
+@data = {}
+@today = Time.now.strftime("%Y-%m-%d")
+@based = File.expand_path(File.dirname(__FILE__))
+@now = Time.now.to_s
+
+Dir.chdir(@based)
+
+def country_from_address(address)
+	if address.to_s.length == 0 
+		return ""
+	end
+	c = address.split(/\s+/).select{|x| x =~ /^[A-Z]{2}$/}.last
+	if ! ( c && c.length == 2)
+		return ""
+	end
+	return c
+end
+
+def update_registration(addr, date, org, address, source)
+	# Track MAC registration changes
+	country = country_from_address(address)
+	if ! @data[addr]
+		@data[addr] = [
+			{
+				'd' => date,
+				't' => 'add',
+				's' => source,
+				'a' => mash_encoding(address.to_s),
+				'c' => country.to_s,
+				'o' => mash_encoding(org),
+			}
+		]
+		return
+	end
+
+	s_n_org = squash_cosmetic_changes(org)
+	s_n_add = squash_cosmetic_changes(address)
+	s_o_org = squash_cosmetic_changes(@data[addr].last['o'])
+	s_o_add = squash_cosmetic_changes(@data[addr].last['a'])
+
+	if s_n_org != s_o_org || s_n_add != s_o_add
+		@data[addr]  << {
+			'd' => date,
+			't' => 'change',
+			's' => source,
+			'a' => mash_encoding(address.to_s),
+			'c' => country.to_s,
+			'o' => mash_encoding(org),		
+		}
+	end
+end
+
+def update_age(addr, date, org, address, source)
+	# Track MAC ages
+	if ! @macs[addr]
+		@macs[addr] = [date, source]
+		return
+	end
+
+	odate = @macs[addr].first.gsub("-", "").to_i
+	ndate = date.gsub("-", "").to_i
+
+	# Overwrite if new record is older
+	if ndate < odate
+		@macs[addr] = [date, source]
+	end
+end
+
+def mash_encoding(str)
+	str.force_encoding("utf-8").scrub{|bytes| '<'+bytes.unpack('H*')[0]+'>' }.strip
+end
+
+def squash_cosmetic_changes(str)
+	mash_encoding(str).downcase.strip
+end
+
+def load_current
+	@data = JSON.parse(File.read(File.join(@based, "data", "macs.json")))
+end
+
+def load_ieee_urls
+	ieee_urls =  [
+		["https://standards-oui.ieee.org/oui/oui.csv", 37585],
+		["https://standards-oui.ieee.org/cid/cid.csv", 200], 
+		["https://standards-oui.ieee.org/iab/iab.csv", 4576],
+		["https://standards-oui.ieee.org/oui28/mam.csv", 5890],
+		["https://standards-oui.ieee.org/oui36/oui36.csv", 6560],
+    ]
+    ieee_urls.each do |url_info|
+    	processed = {}
+
+    	url_path, url_min_records = url_info
+    	Timeout.timeout(300) do 
+    		records = download_ieee_csv(url_path)
+    		if records.length < url_min_records
+    			raise RuntimeError, "URL #{url_path} only has #{records.length} records (wanted >= #{url_min_records})"
+    		end
+    		records.each do |info|
+
+    			next if info.first =~ /^Registry/
+    			addr_base = info[1]
+    			addr_mask = ((addr_base.length / 2.0) * 8).to_i
+				addr_base = addr_base.ljust(12, "0")
+    			addr = "#{addr_base}/#{addr_mask}".downcase
+
+    			# skip duplicates (~2 examples so far)
+    			if processed[addr]
+					log("Skipping duplicate registration for #{addr} from #{url_path}")
+					next
+				end
+
+    			update_registration(addr, @today, info[2], info[3].to_s.gsub("\\n", "\n"), "ieee-#{File.basename(url_path)}")
+    			update_age(addr, @today, info[2], info[3].to_s.gsub("\\n", "\n"), "ieee-#{File.basename(url_path)}")
+    			processed[addr] = true
+    		end
+    	end
+    end
+end
+
+def download_ieee_csv(url)
+	name = File.basename(url)
+	path = File.join(@based, "data", "ieee", name)
+
+	retries = 0 
+	begin
+		data = Net::HTTP.get(URI(url))
+	rescue ::Timeout, ::Interrupt
+		raise $!
+	rescue ::Exception
+		if retries > 5
+			raise $1
+		end
+		retries += 1
+		sleep(5)
+		retry
+	end
+
+	File.open(path, "w") do |fd|
+		fd.write(data)
+	end
+	return CSV.parse(data.chomp, col_sep: ",", encoding: "utf-8", liberal_parsing: true)
+end
+
+def sortable_prefix(str)
+	prefix, mask = str.split("/")
+	mask = mask.rjust(2, "0")
+	mask + prefix
+end
+
+def write_results
+	jdata = JSON.dump(@data)
+	File.open(File.join(@based, "data", "macs.json"), "wb") do |fd|
+		fd.write(jdata)
+	end
+	fd = File.open(File.join(@based, "data", "mac-ages.csv"), "wb")
+	@macs.keys.sort{|a,b| sortable_prefix(b) <=> sortable_prefix(a) }.
+		each do |mac|
+		fd.puts [mac, @macs[mac][0], @macs[mac][1]].join(",")
+	end
+	fd.close
+	File.open(File.join(@based, "data", "updated.txt"), "wb") do |fd|
+		fd.write(@now)
+	end
+end
+
+def log(msg)
+	$stdout.puts "#{Time.now.to_s} #{msg}"
+	$stdout.flush
+end
+
+log("Starting update for #{@today.to_s}")
+
+# Sources
+log("Loading current dataset")
+load_current()
+
+log("Loading the IEEE URLs")
+old_count = @data.keys.length 
+load_ieee_urls()
+new_count = @data.keys.length 
+
+# Generate merged output
+log("Writing results for #{@data.keys.length} entries (#{old_count} -> #{new_count})")
+write_results()
+

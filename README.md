@@ -12,7 +12,7 @@ This repository generates two data files:
 
 * [MAC Ages CSV](https://raw.githubusercontent.com/hdm/mac-tracker/refs/heads/main/data/mac-ages.csv): This is a simplified CSV that maps each prefix to the earliest registration record. If you need to estimate the age of a device, the initial registration date is a great choice, especially for newer prefixes. 
 
-If you would like to maintain a fork of this repository, you need a system with a recent version of Ruby (2.2+), and to run the `update` script in the main directory at whatever interval makes sense. This script will load the current dataset, download the IEEE CSV files, update records as necessary, and save the new dataset.
+If you would like to maintain a fork of this repository, you need a system with Go 1.24+ (or Ruby 2.2+ for the legacy version). Build the update tool with `go build -o update update.go` and run the `./update` script in the main directory at whatever interval makes sense. This script will load the current dataset, download the IEEE CSV files, update records as necessary, and save the new dataset. The update script includes automatic retry logic to handle temporary IEEE website outages.
 
 Previously the mac-ages.csv file was updated via a separate repository called `mac-ages`. This secondary repository was archived on June 22, 2025.
 
