@@ -7818,6 +7818,7 @@ MA-L,DCB43F,eero inc.,660 3rd Street  San Francisco CA US 94107
 MA-L,448346,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,787871,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,DCDEE3,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,0CCDD0,CHINA DRAGON TECHNOLOGY LIMITED,"B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City ShenZhen  CN 518100 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15519,6 +15520,7 @@ MA-L,2CB1B7,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunn
 MA-L,845029,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,949CBE,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,88BA74,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,0C8509,"SHEN ZHEN TENDA TECHNOLOGY CO.,LTD","6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China Shenzhen  CN 518052 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23242,6 +23244,7 @@ MA-L,E4C801,BLU Products Inc,8600 NW 36th Street  Suite 200 Miami FL US 33166
 MA-L,8C6914,FREEBOX SAS,16 rue de la Ville l'Eveque PARIS IdF FR 75008 
 MA-L,DC7EF5,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,8CD066,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,7CB40F,Fibocom Wireless Inc.,"1101,Tower A, Building 6, Shenzhen International Innovation Valley, Dashi 1st Rd, Nanshan Shenzhen Guangdong CN 518055 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -31069,14 +31072,15 @@ MA-L,F4A157,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,A8724D,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,6457BA,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,34D7F5,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,B8CC38,"Shenzhen Yinwang Intelligent Technologies Co., Ltd.","Room101, Building A1, No.1, Jingyue Road,  Jiulongshan Community, Fucheng Street,  Longhua District  Shenzhen Guangdong CN 518110 "
+MA-L,343DA9,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,C47BE3,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,60720B,BLU Products Inc,8600 NW 36th Street  Suite 200 Miami FL US 33166 
 MA-L,80FD7A,BLU Products Inc,8600 NW 36th Street  Suite 200 Miami FL US 33166 
 MA-L,A8CA87,"ZHEJIANG DAHUA ZHILIAN CO.,LTD","No.28, Dongqiao Road, Dongzhou Street, Fuyang District, Hangzhou, P.R. China HANGZHOU  CN 311400 "
-MA-L,343DA9,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,C47BE3,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,B8CC38,"Shenzhen Yinwang Intelligent Technologies Co., Ltd.","Room101, Building A1, No.1, Jingyue Road,  Jiulongshan Community, Fucheng Street,  Longhua District  Shenzhen Guangdong CN 518110 "
-MA-L,746A84,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,A861EC,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,746A84,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,DC5D31,ITEL MOBILE LIMITED,"RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K Hong Kong KOWLOON HK 999077 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -38814,4 +38818,5 @@ MA-L,9047C2,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,4840D5,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,1C8C6E,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,649B8F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
-MA-L,289E1E,Texas Instruments,12500 TI Blvd Dallas TX US 75243
+MA-L,289E1E,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,CCC530,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
