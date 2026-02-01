@@ -16,45 +16,41 @@ func TestFullUpdate(t *testing.T) {
 		t.Skip("Skipping full update test in short mode")
 	}
 
-	// Initialize global variables
-	macs = make(MACAges)
-	data = make(MACData)
-	today = "2026-01-26" // Fixed date for testing
-	now = "2026-01-26 00:00:00 +0000 UTC"
-
-	var err error
-	based, err = os.Getwd()
-	if err != nil {
-		t.Fatalf("Failed to get working directory: %v", err)
+	info := &MACUpdate{
+		ages:  make(MACAges),
+		data:  make(MACData),
+		today: "2026-01-26", // Fixed date for testing
+		now:   "2026-01-26 00:00:00 +0000 UTC",
+		dir:   getBaseDirectory(),
 	}
 
 	// Load current dataset
-	if err := loadCurrent(); err != nil {
+	if err := loadCurrent(info); err != nil {
 		t.Fatalf("Failed to load current dataset: %v", err)
 	}
 
-	oldCount := len(data)
+	oldCount := len(info.data)
 
 	// Load from local IEEE files instead of downloading
-	if err := loadIEEEFromLocal(); err != nil {
+	if err := loadIEEEFromLocal(info); err != nil {
 		t.Fatalf("Failed to load IEEE data: %v", err)
 	}
 
-	newCount := len(data)
+	newCount := len(info.data)
 
-	t.Logf("Processed %d entries (%d -> %d)", len(data), oldCount, newCount)
+	t.Logf("Processed %d entries (%d -> %d)", len(info.data), oldCount, newCount)
 
 	// Verify we have data
-	if len(data) == 0 {
+	if len(info.data) == 0 {
 		t.Fatal("No data was loaded")
 	}
 
-	if len(macs) == 0 {
+	if len(info.ages) == 0 {
 		t.Fatal("No MAC ages were tracked")
 	}
 }
 
-func loadIEEEFromLocal() error {
+func loadIEEEFromLocal(info *MACUpdate) error {
 	ieeeFiles := []struct {
 		filename   string
 		minRecords int
@@ -68,7 +64,7 @@ func loadIEEEFromLocal() error {
 
 	for _, fileInfo := range ieeeFiles {
 		processed := make(map[string]bool)
-		path := filepath.Join(based, "data", "ieee", fileInfo.filename)
+		path := filepath.Join(info.dir, "data", "ieee", fileInfo.filename)
 
 		data, err := os.ReadFile(path)
 		if err != nil {
@@ -89,17 +85,17 @@ func loadIEEEFromLocal() error {
 			return fmt.Errorf("file %s only has %d records (wanted >= %d)", fileInfo.filename, len(records), fileInfo.minRecords)
 		}
 
-		for _, info := range records {
-			if len(info) < 4 {
+		for _, rec := range records {
+			if len(rec) < 4 {
 				continue
 			}
 
 			// Skip header rows
-			if strings.HasPrefix(info[0], "Registry") {
+			if strings.HasPrefix(rec[0], "Registry") {
 				continue
 			}
 
-			addrBase := info[1]
+			addrBase := rec[1]
 			addrMask := int((float64(len(addrBase)) / 2.0) * 8)
 			// Pad with zeros to 12 characters
 			for len(addrBase) < 12 {
@@ -113,11 +109,11 @@ func loadIEEEFromLocal() error {
 			}
 
 			// Replace literal \n with actual newlines
-			address := strings.ReplaceAll(info[3], "\\n", "\n")
+			address := strings.ReplaceAll(rec[3], "\\n", "\n")
 
 			sourceName := "ieee-" + fileInfo.filename
-			updateRegistration(addr, today, info[2], address, sourceName)
-			updateAge(addr, today, sourceName)
+			updateRegistration(info, addr, info.today, rec[2], address, sourceName)
+			updateAge(info, addr, info.today, sourceName)
 			processed[addr] = true
 		}
 	}
@@ -153,5 +149,39 @@ func TestJSONOutput(t *testing.T) {
 
 	if len(decoded) != 1 {
 		t.Errorf("Expected 1 entry, got %d", len(decoded))
+	}
+}
+
+func TestMACAges(t *testing.T) {
+	info := &MACUpdate{
+		ages:  make(MACAges),
+		data:  make(MACData),
+		today: "2026-01-26",
+		now:   "2026-01-26 00:00:00 +0000 UTC",
+		dir:   getBaseDirectory(),
+	}
+
+	if err := loadCurrent(info); err != nil {
+		t.Fatalf("Failed to load current dataset: %v", err)
+	}
+
+	if err := loadCurrentMACAges(info); err != nil {
+		t.Fatalf("Failed to load current dataset: %v", err)
+	}
+
+	if len(info.ages) < 56720 {
+		t.Errorf("Expected at least 56720 MAC ages, got %d", len(info.ages))
+	}
+
+	dateCnts := make(map[string]int)
+	for _, dates := range info.ages {
+		if len(dates) > 0 {
+			dateCnts[dates[0]]++
+		}
+	}
+
+	// Check for a known date
+	if cnt, ok := dateCnts["1998-04-22"]; !ok || cnt < 1850 {
+		t.Errorf("Expected at least 1850 prefixes for date 1998-04-22, got %d", cnt)
 	}
 }
