@@ -2,7 +2,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '5 0,8,16 * * *'
-
+permissions:
+  contents: write
+  pull-requests: write
 name: 'Auto: Update files from IEEE'
 jobs:
   generate:
@@ -38,6 +40,6 @@ jobs:
           labels: |
             autoupdate
       - name: Enable Pull Request Automerge
-        run: gh pr merge -d --merge --auto "${{ steps.cpr.outputs.pull-request-number }}"
+        run: gh pr merge -d --merge --admin "${{ steps.cpr.outputs.pull-request-number }}"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
