@@ -7834,6 +7834,9 @@ MA-L,F88475,"i5LED, LLC",3127 Fite Circle Suite D Sacramento CA US 95827
 MA-L,449F79,onsemi,5701 N Pima Rd  Scottsdale AZ US 85250 
 MA-L,04DBD9,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,FC8FA4,NXP Semiconductors Taiwan Ltd.,"No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
+MA-L,A46177,AMOSENSE,Narutu street 56 SEOUL Sucho gu KR 06527 
+MA-L,58DF70,Private,
+MA-L,54014A,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15539,8 +15542,10 @@ MA-L,185F27,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart 
 MA-L,0C8509,"SHEN ZHEN TENDA TECHNOLOGY CO.,LTD","6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China Shenzhen  CN 518052 "
 MA-L,8079EF,"SUB-ZERO GROUP, INC.",2835 Buds Drive Fitchburg WI US 53719 
 MA-L,845029,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
-MA-L,98F04C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,681268,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,B4C0C3,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,3CBE8E,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
+MA-L,98F04C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0005BA,"XK22 Enterprises, LLC",2646 Wooster Rd.  Rocky River OH US 44116 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
@@ -31118,14 +31123,15 @@ MA-L,B08CB3,FN-LINK TECHNOLOGY Ltd.,"No.8, Litong Road, Liuyang Economic & Techn
 MA-L,F00C51,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,80E869,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,D489C1,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
-MA-L,8C0F7E,"TCL King Electrical Appliances(Huizhou)Co.,Ltd","B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen guangdong China CN 518058 "
-MA-L,847CEE,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,089536,Actiontec Electronics Inc.,2445 Augustine Dr #501 Santa Clara  CA US 95054 
-MA-L,089B27,GSD VIET NAM TECHNOLOGY COMPANY LIMITED,"PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD HO CHI MINH CITY HO CHI MINH VN 820000 "
-MA-L,906F18,"Afero, Inc.","4410 El Camino Real, Suite 200 Los Altos  US 94022 "
-MA-L,685EDF,NXP Semiconductors Taiwan Ltd.,"No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
 MA-L,24D660,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,18C3E4,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,8C0F7E,"TCL King Electrical Appliances(Huizhou)Co.,Ltd","B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen guangdong China CN 518058 "
+MA-L,089B27,GSD VIET NAM TECHNOLOGY COMPANY LIMITED,"PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD HO CHI MINH CITY HO CHI MINH VN 820000 "
+MA-L,685EDF,NXP Semiconductors Taiwan Ltd.,"No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
+MA-L,089536,Actiontec Electronics Inc.,2445 Augustine Dr #501 Santa Clara  CA US 95054 
+MA-L,847CEE,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,C03A55,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,906F18,"Afero, Inc.","4410 El Camino Real, Suite 200 Los Altos  US 94022 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
