@@ -7773,7 +7773,6 @@ MA-L,B4ABF3,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,A4AB39,Shenzhen Taichi Technology Limited,"A1710, Nanshan Cloud Technology Building, Vanke Cloud City, Liuxin Third Street, Xili Community, Xili Street, Nanshan District,  Shenzhen Guangdong Province CN 518000 "
 MA-L,6CF43D,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
 MA-L,D02C39,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,002689,General Dynamics Land Systems Inc.,1231 Tech Court Westminster MD US 21157 
 MA-L,1CFF3F,Cust2mate,4 Ariel Sharon St Givatayim  IL 5320047 
 MA-L,7483A0,"Shenzhen MiaoMing Intelligent Technology Co.,Ltd","3F, Building 2, No. 1310, Kukeng Sightseeing Road, Kukeng Community, Guanlan Street, Longhua District Shenzhen Guangdong CN 518110 "
 MA-L,186945,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
@@ -7841,6 +7840,7 @@ MA-L,FC8FA4,NXP Semiconductors Taiwan Ltd.,"No. 10, Jing 5th Rd., Nanzi Dist., K
 MA-L,2CDEF5,TVS REGZA Corporation,"19F, Kowa Kawasaki West Exit Building 66-2 Horikawa-cho, Saiwai-ku Kawasaki-shi Kanagawa JP 2120013 "
 MA-L,90DF06,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
 MA-L,50EE87,HPRO,8500 Balboa Blvd Northridge CA US 91329 
+MA-L,002689,General Dynamics Land Systems Inc.,38500 Mound Road Sterling Heights MI US 48310-3200 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15551,13 +15551,13 @@ MA-L,B4C0C3,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618
 MA-L,3CBE8E,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
 MA-L,98F04C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,0005BA,"XK22 Enterprises, LLC",2646 Wooster Rd.  Rocky River OH US 44116 
-MA-L,203389,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,344A86,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,DC69CC,LG Innotek,"26, HANAMSANDAN 5BEON-RO Gwangju Gwangsan-gu KR 506-731 "
-MA-L,D0C6BE,HPRO-Video,8500 Balboa Blvd Northridge CA US 91329 
-MA-L,0C83F4,"Canopy Works, Inc.","1875 Mission St, Ste 103 San Francisco CA US 94103 "
 MA-L,C02D10,MOHAN ELECTRONICS AND SYSTEMS,"571, STREET NO. 6, CHANDERLOK, SHAHDARA, DELHI DELHI DELHI IN 110093 "
 MA-L,7498F4,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
+MA-L,0C83F4,"Canopy Works, Inc.","1875 Mission St, Ste 103 San Francisco CA US 94103 "
+MA-L,203389,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
+MA-L,D0C6BE,HPRO-Video,8500 Balboa Blvd Northridge CA US 91329 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23301,6 +23301,8 @@ MA-L,000B7C,Electro-Voice Dynacord LLC,130 Perinton Parkway Fairport NY US 14450
 MA-L,BC0023,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
 MA-L,887CC1,Zebronics India Pvt Ltd,"No 13/7, Smith Road, Royapettah Chennai Tamil Nadu IN 600002 "
 MA-L,3CCB01,"Beijing Lingji innovations Technology Co., LTD.","Room 106, 1F, A1 Bldg. Zhongguancun Dongsheng Technology Park (Northern Territory), No. 66, Xixiaokou Rd, Haidian Dist., Beijing, China Beijing Beijing CN 100192 "
+MA-L,8C4EBB,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,EC315F,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
