@@ -45,7 +45,6 @@ MA-L,E465B8,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,E001C7,"Hui Zhou Gaoshengda Technology Co.,LTD","No.2,Jin-da Road,Huinan Industrial Park Hui Zhou Guangdong CN 516025 "
 MA-L,B4DF91,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,98EE8C,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,FC500C,Sitehop Ltd,"The Workstation, 15 Paternoster Row Sheffield South Yorkshire GB S1 2BX "
 MA-L,50E478,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
 MA-L,90C710,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,48D475,Lampuga GmbH,Werkstr. 11 Rastatt  DE 76437 
@@ -7842,6 +7841,7 @@ MA-L,EC73F6,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mian
 MA-L,002689,General Dynamics Land Systems Inc.,38500 Mound Road Sterling Heights MI US 48310-3200 
 MA-L,0C6F8B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,50EE87,HPRO,8500 Balboa Blvd Northridge CA US 91329 
+MA-L,FC500C,Sitehop Ltd,9 South Street Sheffield South Yorkshire GB S2 5QX 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -36554,7 +36554,6 @@ MA-L,000D4D,Ninelanes,#405 4F Diplomatic Center Seoul  KR 1376-1
 MA-L,000D12,AXELL Corporation,Akihabara UDX South Wing 10F Chiyoda-ku Tokyo JP 101-8973 
 MA-L,000D0A,Barco Projection Systems NV,Beneluxpark 21 Kortrijk West Flanders BE 8500 
 MA-L,000CDC,"BECS Technology, Inc",9487 Dielman Rock Island Industrial Driv St. Louis MO US 63132 
-MA-L,000CDE,ABB STOTZ-KONTAKT GmbH,Eppelheimer Straße 82 Heidelberg Baden-Württemberg DE 69123 
 MA-L,000D15,Voipac s.r.o.,Ul. Janka Krala 3 Trencin  SK 911 01 
 MA-L,000D0F,Finlux Ltd,Radiomiehenkatu 3 Turku  FI FIN-20321 
 MA-L,000D2E,Matsushita Avionics Systems Corporation,26200 Enterprise Way Lake Forest CA US 92630 
@@ -38928,3 +38927,4 @@ MA-L,6C4033,"Beijing Megwang Technology Co., Ltd.","Room 1316, 1st Floor, Buildi
 MA-L,3CBFD7,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,887E9B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,542A43,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,000CDE,ABB AG.,Eppelheimer Straße 82 Heidelberg Baden-Württemberg DE 69123 
