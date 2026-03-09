@@ -17,15 +17,13 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
-          go-version: '1.24'
-      - name: Build update tool
-        run: go build -ldflags="-s -w" -o update update.go
+          go-version: '1.26'
       - name: Update from IEEE
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          ./update && curl -s https://hc-ping.com/5224ca44-6041-4c1c-a92a-15679062037b
+          go run cmd/update/main.go && curl -s https://hc-ping.com/5224ca44-6041-4c1c-a92a-15679062037b
       - name: create-pull-request
         uses: peter-evans/create-pull-request@v7
         id: cpr
@@ -36,7 +34,7 @@ jobs:
           branch: auto/update-ieee
           delete-branch: true
           title: 'Auto: Update files from IEEE'
-          add-paths: data
+          add-paths: data, oui_table.go
           labels: |
             autoupdate
       - name: Enable Pull Request Automerge
