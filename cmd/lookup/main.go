@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	mactracker "github.com/hdm/mac-tracker"
+	mactracker "github.com/runZeroInc/mac-tracker"
 )
 
 func main() {

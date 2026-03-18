@@ -20,7 +20,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	mactracker "github.com/hdm/mac-tracker"
+	mactracker "github.com/runZeroInc/mac-tracker"
 )
 
 // RegistrationEntry represents a single MAC address registration or change event

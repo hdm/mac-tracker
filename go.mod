@@ -1,3 +1,3 @@
-module github.com/hdm/mac-tracker
+module github.com/runZeroInc/mac-tracker
 
 go 1.24

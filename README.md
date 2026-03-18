@@ -8,9 +8,9 @@ This dataset is updated daily from the IEEE CSV files and new file revisions are
 
 This repository generates two data files:
 
-* [MAC Tracker JSON](https://raw.githubusercontent.com/hdm/mac-tracker/refs/heads/main/data/macs.json): This is a full JSON dump of each prefix and  going back to around 1998. If you are building a tool to handle MAC lookups, this is the file to work with.
+* [MAC Tracker JSON](https://raw.githubusercontent.com/runZeroInc/mac-tracker/refs/heads/main/data/macs.json): This is a full JSON dump of each prefix and  going back to around 1998. If you are building a tool to handle MAC lookups, this is the file to work with.
 
-* [MAC Ages CSV](https://raw.githubusercontent.com/hdm/mac-tracker/refs/heads/main/data/mac-ages.csv): This is a simplified CSV that maps each prefix to the earliest registration record. If you need to estimate the age of a device, the initial registration date is a great choice, especially for newer prefixes. 
+* [MAC Ages CSV](https://raw.githubusercontent.com/runZeroInc/mac-tracker/refs/heads/main/data/mac-ages.csv): This is a simplified CSV that maps each prefix to the earliest registration record. If you need to estimate the age of a device, the initial registration date is a great choice, especially for newer prefixes. 
 
 If you would like to maintain a fork of this repository, you need a system with Go 1.24+ (or Ruby 2.2+ for the legacy version). Build the update tool with `go build -o update update.go` and run the `./update` script in the main directory at whatever interval makes sense. This script will load the current dataset, download the IEEE CSV files, update records as necessary, and save the new dataset. The update script includes automatic retry logic to handle temporary IEEE website outages.
 
@@ -81,7 +81,7 @@ We use GitHub Actions to update this repository twice a day from these IEEE URLs
  * https://standards-oui.ieee.org/oui28/mam.csv
  * https://standards-oui.ieee.org/oui36/oui36.csv
 
-The GitHub Actions also modify https://raw.githubusercontent.com/hdm/mac-tracker/refs/heads/main/data/updated.txt to include the time of the last sync.
+The GitHub Actions also modify https://raw.githubusercontent.com/runZeroInc/mac-tracker/refs/heads/main/data/updated.txt to include the time of the last sync.
 
 ## History
 
