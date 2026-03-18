@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"os"
 
-	mactracker "github.com/hdm/mac-tracker"
+	mactracker "github.com/runZeroInc/mac-tracker"
 )
 
 func main() {
 	for _, v := range os.Args[1:] {
-		block := mactracker.MACLookup(v)
+		block := mactracker.Lookup(v)
 		if block == nil {
 			fmt.Printf("%s: No match found\n", v)
 			continue
