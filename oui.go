@@ -4,6 +4,7 @@ import (
 	"encoding/hex"
 	"net"
 	"strconv"
+	"sync"
 )
 
 // ouiTables is the list of sources to use for lookups, in order of priority.
@@ -53,8 +54,11 @@ type OuiBlock struct {
 }
 
 // OuiDB is a collection of OUI blocks indexed by masked-prefix keys.
+// When loadFunc is set, the Blocks map is populated lazily on first Lookup.
 type OuiDB struct {
-	Blocks map[string]*OuiBlock
+	Blocks   map[string]*OuiBlock
+	loadOnce sync.Once
+	loadFunc func() map[string]*OuiBlock
 }
 
 // ParseMAC parses s as an IEEE 802 MAC-48, EUI-48, or EUI-64 using one of the
@@ -185,6 +189,9 @@ func (address OuiHardwareAddr) Mask(mask []byte) []byte {
 
 // Lookup searches the database for the most-specific OUI block matching address.
 func (m *OuiDB) Lookup(address OuiHardwareAddr) *OuiBlock {
+	if m.loadFunc != nil {
+		m.loadOnce.Do(func() { m.Blocks = m.loadFunc() })
+	}
 	for _, k := range lookupKeys(address) {
 		if _, skip := OUISkipPrefixes[k]; skip {
 			continue
