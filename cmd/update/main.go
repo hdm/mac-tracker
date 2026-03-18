@@ -469,8 +469,8 @@ func writeResults(info *MACUpdate) error {
 		return err
 	}
 
-	// Write updated Go table
-	writeGoTable(info)
+	// Write updated binary OUI table
+	writeOUIBin(info)
 	return nil
 }
 
@@ -502,9 +502,8 @@ func getBaseDirectory() string {
 	return execd
 }
 
-func writeGoTable(info *MACUpdate) {
-	// Emit blocks in order of largest mask first, to make precise matching faster
-	blocksByMask := make(map[int][]string)
+func writeOUIBin(info *MACUpdate) {
+	db := &mactracker.OuiDB{Blocks: make(map[string]*mactracker.OuiBlock, len(info.data))}
 
 	for prefix, entries := range info.data {
 		addrMaskBits := strings.SplitN(prefix, "/", 2)
@@ -523,7 +522,6 @@ func writeGoTable(info *MACUpdate) {
 			log.Fatalf("error parsing mac %#v: %s", addrMaskBits[0], perr)
 		}
 
-		// Track the added date and the last organization name
 		firstAdded := ""
 		lastOrg := ""
 		lastCountry := ""
@@ -537,63 +535,36 @@ func writeGoTable(info *MACUpdate) {
 			lastCountry = strings.TrimSpace(entry.Country)
 		}
 
-		// Generate the struct for the OUI table
-		addrBytesLookupKey := [6]byte{}
-		addrBytes := []string{}
-		for _, b := range addr {
-			addrBytes = append(addrBytes, fmt.Sprintf("0x%.2x", b))
+		var oui [6]byte
+		copy(oui[:], addr)
+		mkey := hex.EncodeToString(oui[:]) + "/" + strconv.Itoa(maskInt)
+
+		db.Blocks[mkey] = &mactracker.OuiBlock{
+			Oui:     oui[:],
+			Mask:    maskInt,
+			Vendor:  sanitizeString(lastOrg),
+			Added:   firstAdded,
+			Country: sanitizeString(strings.ToUpper(lastCountry)),
+			Address: sanitizeString(lastAddress),
 		}
-
-		copy(addrBytesLookupKey[:], addr)
-
-		mkey := hex.EncodeToString(addrBytesLookupKey[:]) + "/" + strconv.Itoa(maskInt)
-		line := fmt.Sprintf("\t%q: { Oui:[]byte{%s}, Mask:%d, Vendor:%q, Added:%q, Country:%q, Address:%q },",
-			mkey,
-			strings.Join(addrBytes, ","),
-			maskInt,
-			cleanMetaString(lastOrg),
-			firstAdded,
-			cleanMetaString(strings.ToUpper(lastCountry)),
-			cleanMetaString(lastAddress),
-		)
-		blocksByMask[maskInt] = append(blocksByMask[maskInt], line)
 	}
 
-	out, err := os.Create(filepath.Join(info.dir, "oui_table.go"))
+	data, err := mactracker.EncodeOUIDB(db)
 	if err != nil {
-		fmt.Fprintf(os.Stderr, "could not open output: %s\n", err)
-		os.Exit(1)
+		log.Fatalf("error encoding OUI database: %s", err)
 	}
 
-	fmt.Fprintf(out, "package mactracker\n\n// OUITable contains IEEE registrations\nvar OUITable = OuiDB{Blocks: map[string]*OuiBlock{\n")
-
-	maskSizes := []int{}
-	for maskSize := range blocksByMask {
-		maskSizes = append(maskSizes, maskSize)
+	outPath := filepath.Join(info.dir, "oui_table.bin.gz")
+	if err := os.WriteFile(outPath, data, 0644); err != nil {
+		log.Fatalf("error writing OUI database: %s", err)
 	}
 
-	sort.Stable(sort.Reverse(sort.IntSlice(maskSizes)))
-
-	for _, maskSize := range maskSizes {
-		lines := []string{}
-		lines = append(lines, blocksByMask[maskSize]...)
-		sort.Strings(lines)
-		fmt.Fprintln(out, strings.Join(lines, "\n"))
-	}
-
-	fmt.Fprintf(out, "	},\n}\n")
-	fmt.Fprintf(os.Stderr, "OUITable: wrote %d entries\n", len(info.data))
+	log.Printf("OUITable: wrote %d entries to %s (%d bytes)", len(db.Blocks), outPath, len(data))
 	log.Printf("[**] MAC OUI information update complete")
 }
 
-func cleanMetaString(o string) string {
-	return strings.ReplaceAll(sanitizeString(o), "\"", "\\\"")
-}
-
-// SanitizeString scrubs a given string of invalid UTF8 and nulls
+// sanitizeString scrubs a given string of invalid UTF8 and nulls
 func sanitizeString(s string) string {
-	// Remove invalid UTF-8 sequences
 	s = strings.ToValidUTF8(s, "")
-	// Remove null bytes that break PostgreSQL jsonb
 	return strings.ReplaceAll(s, "\x00", "")
 }
