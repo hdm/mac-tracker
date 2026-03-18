@@ -25,7 +25,7 @@ var OUITableVirtual = OuiDB{Blocks: map[string]*OuiBlock{
 	"545200000000/24": {Oui: []byte{0x54, 0x52, 0x00, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Linux KVM", Added: "2008-09-01", Virtual: VirtTypeKVM},
 	"001c42000000/24": {Oui: []byte{0x00, 0x1c, 0x42, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Parallels, Inc.", Added: "2007-05-13", Virtual: VirtTypeParallels},
 	"2cc260000000/24": {Oui: []byte{0x2c, 0xc2, 0x60, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Oracle Corporation", Added: "2012-01-19", Virtual: VirtTypeOracle},
-	"080027000000/24": {Oui: []byte{0x08, 0x00, 0x27, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "PCS Systemtechnik GmbH", Added: "2000-09-08", Virtual: VirtTypeVirtualBox},
+	"080027000000/24": {Oui: []byte{0x08, 0x00, 0x27, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Oracle Corporation", Added: "2004-01-23", Virtual: VirtTypeVirtualBox}, // VirtualBox reused a registered OUI, but it's widely recognized as a virtual prefix
 	"0021f6000000/24": {Oui: []byte{0x00, 0x21, 0xf6, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Oracle Corporation", Added: "2008-06-18", Virtual: VirtTypeVirtualBox},
 	"000f4b000000/24": {Oui: []byte{0x00, 0x0f, 0x4b, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Oracle Corporation", Added: "2004-01-23", Virtual: VirtTypeVirtualBox},
 	"005056000000/24": {Oui: []byte{0x00, 0x50, 0x56, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "VMware, Inc.", Added: "2000-01-04", Virtual: VirtTypeVMware},
@@ -38,6 +38,7 @@ var OUITableVirtual = OuiDB{Blocks: map[string]*OuiBlock{
 	"0003ff000000/24": {Oui: []byte{0x00, 0x03, 0xff, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Microsoft Corporation", Added: "2000-11-09", Virtual: VirtTypeHyperV},
 	"001dd8000000/24": {Oui: []byte{0x00, 0x1d, 0xd8, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Microsoft Corporation", Added: "2007-09-25", Virtual: VirtTypeHyperV},
 	"bc2411000000/24": {Oui: []byte{0xbc, 0x24, 0x11, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Proxmox Server Solutions GmbH", Added: "2023-06-16", Virtual: VirtTypeProxmox},
+	"42010a000000/24": {Oui: []byte{0x42, 0x01, 0x0a, 0x00, 0x02, 0x01}, Mask: 24, Vendor: "Google LLC", Added: "2023-06-16", Virtual: VirtTypeGCP},
 }}
 
 // LookupVirtual returns the virtualization platform name (e.g. "VMware", "QEMU")

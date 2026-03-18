@@ -15,8 +15,14 @@ func TestOuiLookup(t *testing.T) {
 		t.Errorf("Expected to find no block for unknown OUI, got %v", block)
 	}
 
-	// Test private OUI with override
-	block = LookupBytes(OuiHardwareAddr{0x50, 0x14, 0x00, 0x00, 0x00, 0x00})
+	// Test lookup of a private registration with an override
+	block = LookupBytes(OuiHardwareAddr{0xd0, 0xc9, 0x07, 0x01, 0x02, 0x03})
+	if block == nil || block.Vendor != "Govee" {
+		t.Errorf("Expected to find Govee for private OUI, got %v", block)
+	}
+
+	// Test lookup of a known virtual OUI
+	block = LookupBytes(OuiHardwareAddr{0x50, 0x54, 0x00, 0x00, 0x00, 0x00})
 	if block == nil || block.Vendor != "QEMU" {
 		t.Errorf("Expected to find QEMU for private OUI, got %v", block)
 	}
