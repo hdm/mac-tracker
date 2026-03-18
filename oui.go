@@ -36,11 +36,27 @@ import (
 	"encoding/hex"
 	"net"
 	"strconv"
-	"strings"
 )
 
 // OuiHardwareAddr extends net.HardwareAddr
 type OuiHardwareAddr net.HardwareAddr
+
+// HasLAA returns true if the locally administered bit is set in the OUI.
+func (a OuiHardwareAddr) HasLAA() bool {
+	return a[0]&2 == 2
+}
+
+// WithoutLAA returns a copy of the OUI with the locally administered bit cleared.
+func (a OuiHardwareAddr) WithoutLAA() OuiHardwareAddr {
+	if a.HasLAA() {
+		a[0] &^= 2
+	}
+	return a
+}
+
+func (a OuiHardwareAddr) String() string {
+	return net.HardwareAddr(a).String()
+}
 
 // OuiBlock defines an OUI prefix/mask for known hardware addresses
 type OuiBlock struct {
@@ -57,21 +73,13 @@ type OuiDB struct {
 	Blocks map[string]*OuiBlock
 }
 
-// OUISkipPrefixes is a set of prefixes to skip to avoid bad lookups.
-var OUISkipPrefixes = map[string]struct{}{
-	// Mask: 24
-	"000000000000/24": {}, // The zero OUI is registered to Xerox but is typically invalid input
+// ouiTables is the list of sources to use for lookups, in order of priority.
+// The first table to return a match will be used, so the order is important.
+var ouiTables = map[string]OuiDB{
+	"extra":   OUITableExtra,
+	"default": OUITable,
+	"virtual": OUITableVirtual,
 }
-
-// OUITableExtra is an override for unofficial and private registrations.
-var OUITableExtra = OuiDB{Blocks: map[string]*OuiBlock{
-	// Mask: 24
-	"00cafe000000/24": {Oui: []byte{0x00, 0xca, 0xfe, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Xensource, Inc.", Added: "2005-10-29"},
-	"d0c907000000/24": {Oui: []byte{0xd0, 0xc9, 0x07, 0x00, 0x00, 0x00}, Mask: 24, Vendor: "Govee", Added: "2023-12-14"}, // Private: Smart light bulbs
-	// Mask: 16
-	"525400000000/16": {Oui: []byte{0x52, 0x54, 0x00, 0x00, 0x00, 0x00}, Mask: 16, Vendor: "QEMU", Added: "2009-03-04"}, // With LAA bit
-	"501400000000/16": {Oui: []byte{0x50, 0x14, 0x00, 0x00, 0x00, 0x00}, Mask: 16, Vendor: "QEMU", Added: "2009-03-04"}, // Without LAA bit
-}}
 
 // ouiMasks defines the CIDR mask sizes we use for lookups, in order of specificity. The /16 mask size isn't official but is used by QEMU.
 var ouiMasks = []int{36, 28, 24, 16}
@@ -97,7 +105,7 @@ func ParseMAC(s string) (OuiHardwareAddr, error) {
 		cleanStr = append(cleanStr, byte(c))
 	}
 
-	// Decode the remaining string as hex
+	// Decode the remaining string as hex.
 	// This is optimized to avoid converting the []byte to a string
 	// only to have hex.DecodeString() convert it back to a []byte
 	// which is about 2x faster than just letting DecodeString() do it.
@@ -154,18 +162,14 @@ func MACLookup(s string) *OuiBlock {
 
 // MACLookupBytes returns the first matching OUI match as a block
 func MACLookupBytes(addr []byte) *OuiBlock {
-	block := OUITable.Lookup(OuiHardwareAddr(addr))
-	if block != nil {
-		// If the registration is private, check for an override in our Extra table
-		if strings.EqualFold(block.Vendor, "Private") {
-			privateBlock := OUITableExtra.Lookup(OuiHardwareAddr(addr))
-			if privateBlock != nil {
-				return privateBlock
-			}
+	hwa := OuiHardwareAddr(addr)
+	for _, table := range ouiTables {
+		block := table.Lookup(hwa)
+		if block != nil {
+			return block
 		}
-		return block
 	}
-	return OUITableExtra.Lookup(OuiHardwareAddr(addr))
+	return nil
 }
 
 // Mask returns the result of masking the address with mask.
@@ -186,6 +190,9 @@ func (address OuiHardwareAddr) Mask(mask []byte) []byte {
 // Lookup finds the OUI for the specified address
 func (m *OuiDB) Lookup(address OuiHardwareAddr) *OuiBlock {
 	for _, k := range MACGetLookupKeys(address) {
+		if _, skip := OUISkipPrefixes[k]; skip {
+			continue
+		}
 		if f, ok := m.Blocks[k]; ok {
 			return f
 		}
