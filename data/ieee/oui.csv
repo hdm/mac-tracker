@@ -7884,6 +7884,7 @@ MA-L,1C2D60,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC 
 MA-L,84EB0C,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,5414E9,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,ACADEF,Wanan Hongsheng  Electronic Co.Ltd," 1st section of industrial pack,Wan'An County,Ji'An City Ji'An City ,jiangxi province CN 343800 "
+MA-L,F4F91E,INGRAM MICRO SERVICES,100 CHEMIN DE BAILLOT MONTAUBAN  FR 82000 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -8726,7 +8727,6 @@ MA-L,5C0214,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office B
 MA-L,E42805,Pivotal Optics,125 Wolf Road Suite 315 Albany NY US 12205 
 MA-L,381F8D,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,208C47,Tenstorrent Inc,150 Ferrand Dr #901 Toronto ON CA M3C 3E5 
-MA-L,6815D3,Zaklady Elektroniki i Mechaniki Precyzyjnej R&G S.A.,ul. Traugutta 7 Mielec  PL 39-300 
 MA-L,0080E7,Leonardo UK Ltd,Christopher Martin Road Basildon Essex  GB SS14 3EL 
 MA-L,3C9FC3,"Beijing Sinead Technology Co., Ltd. ","Room 504,Block A, New material Building, Yongfeng industrial, Haiding District, Beijing.China Beijing Beijing CN 100094 "
 MA-L,00B0EC,EACEM,"Avenue Louise 140, Bte 6 B-1050 BRUSSELS  BE  "
@@ -15642,6 +15642,8 @@ MA-L,F4B821,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568
 MA-L,8C49CF,Private,
 MA-L,74F714,"Lushare Precision Industry Co.,LTD","No.313, Beihuan Road, Tiesong, Qingxi Town, Dongguan Guangdong CN 523650 "
 MA-L,A0146D,"Suzhou NODKA Automation Technology Co.,Ltd","NO.480, Yinzang Road, Linhu Town, Wuzhong District Suzhou Jiangsu CN 215106 "
+MA-L,6815D3,R&G PLUS Sp. z o.o.,ul. Traugutta 7 Mielec  PL 39-300 
+MA-L,90F04C,"Nokia Solutions (Shanghai) Co.,Ltd.","No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai 201206,P.R.China Shanghai  Pudong New Area CN 201206 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -39121,3 +39123,4 @@ MA-L,38879C,Ei Electronics,Unit 40-47 Shannon Industrial Estate Shannon Co. Clar
 MA-L,F4204D,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,7C5184,"Unis Flash Memory Technology(Chengdu)Co.,Ltd.","Room 302, Block B, Ziguang Xinyun, No. 2555 Yizhou Avenue, High-tech Zone, Chengdu Sichuan CN 610000 "
 MA-L,E8F674,"Jiang Su Fulian Communication Technology Co.,Ltd","Yongan Community, the south of Lanling Road, Danyang Development Distinct zhenjiang jiangsu CN 212300 "
+MA-L,CC6146,GSD VIET NAM TECHNOLOGY COMPANY LIMITED,"PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD HO CHI MINH CITY HO CHI MINH VN 820000 "
