@@ -7898,6 +7898,7 @@ MA-L,A40F25,eero inc.,660 3rd Street  San Francisco CA US 94107
 MA-L,1438FA,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,F040EC,LOOPDESIGNLAB PTE. LTD,83B Tanjong Pagar Road Singapore  SG 088504 
 MA-L,D0845D,"B&C Transit, Inc.",701 Seco Road Monroeville PA US 15146 
+MA-L,90848E,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15666,6 +15667,7 @@ MA-L,54BB8F,ACCTON TECHNOLOGY CORPORATION,"No.1, Creation Road 3, Hsinchu Scienc
 MA-L,741348,Blink by Amazon ,100 Riverpark Drive North Reading  MA US 01864 
 MA-L,70C288,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,748FBF,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
+MA-L,681977,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23450,6 +23452,9 @@ MA-L,44BD8D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area S
 MA-L,28047A,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,3422CF,"AUMOVIO Systems, Inc.",21440 W. Lake Cook Rd. Deer Park IL US 60010 
 MA-L,E09559,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,B8D08F,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-L,F84068,"SZ DJI Ronin Technology Co., Ltd.","Skyworth Semiconductor Design Building 18 Gaoxin South 4th Avenue, Nanshan District shenzhen Guangdong CN 518057 "
+MA-L,24BA79,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -27141,7 +27146,6 @@ MA-L,A08A87,"HuiZhou KaiYue Electronic Co.,Ltd","3#,Ruttang 2nd area,Tongcheng A
 MA-L,18E8DD,MODULETEK,Unit 4A.4F.B Building. Shenfubao Science and Technology Industrial Park Shenzhen Guangdong CN 518038 
 MA-L,D073D5,LIFI LABS MANAGEMENT PTY LTD,7 Cubitt St Richmond Victoria AU 3121 
 MA-L,149448,BLU CASTLE S.A.,5 RUE BONNEVOIE  LUXEMBOURG US L-1260 
-MA-L,48F925,Maestronic,Futura plaza 2103 Kwun Tong  HK 88 
 MA-L,68831A,Pandora Mobility Corporation,"1F., No.33, Fude St Taoyuan Guishan TW 333 "
 MA-L,D429EA,Zimory GmbH,Revalerstrasse 100 Berlin Brandenburg DE 10245 
 MA-L,34ADE4,"Shanghai Chint Power Systems Co., Ltd.","855 Wenhe Road, Block 4   CN 201614 "
@@ -31362,6 +31366,8 @@ MA-L,CCDD28,ACCTON TECHNOLOGY CORPORATION,"No.1, Creation Road 3, Hsinchu Scienc
 MA-L,447B45,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,CCE7DE,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,286926,"OPTOKON, a.s.",Červený Kříž 250 Jihlava  CZ 586 01 
+MA-L,48F925,Maestronic,#205-3689 1st Avenue East Vancouver  CA 88BC V5M 1C2 
+MA-L,4CA03D,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -39173,3 +39179,4 @@ MA-L,44EF26,"Qingdao Intelligent&Precise Electronics Co.,Ltd.",No.218 Qianwangan
 MA-L,689268,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,EC34E2,Yasmina Labs Trading FZE,"LB182702WS08, Jebel Ali Freezone Dubai Dubai AE LB182702WS08 "
 MA-L,F4253C,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,4C6E44,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
