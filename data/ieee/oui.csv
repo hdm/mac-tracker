@@ -7900,6 +7900,8 @@ MA-L,7831C4,Panascais ehf.,Suðurlandsbraut 4 Reykjavík  IS 108
 MA-L,D0845D,"B&C Transit, Inc.",701 Seco Road Monroeville PA US 15146 
 MA-L,90848E,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
 MA-L,8C1801,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,4C6CA1,Chipsea Technologies (Shenzhen) Crop.,"Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen Shenzhen  CN 518000 "
+MA-L,80456B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15673,6 +15675,7 @@ MA-L,70C288,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,741348,Blink by Amazon ,100 Riverpark Drive North Reading  MA US 01864 
 MA-L,803B70,Private,
 MA-L,64D363,Seyond ,160 San Gabriel Dr Sunnyvale CA US 94086 
+MA-L,90922C,"Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.","No. 108, Haisen Street, High-tech Industrial Development Zone Changzhi Shanxi CN 046000 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23464,6 +23467,7 @@ MA-L,30535B,"Shenzhen Comnect Technology Co.,LTD","5F, Building 8A, Shenzhen Int
 MA-L,0C025B,Microchip Technology Inc.,2355 W. Chandler Blvd. Chandler AZ US 85224 
 MA-L,A8754E,"Nexlawn Intelligent Technology (Suzhou) Co., Ltd.","10/F, Building B, No. 7 Qian Zhu Road, Taihu Street, Suzhou Jiangsu Province CN 215100 "
 MA-L,589204,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,480951,"Guangzhou Trustmo Information System Co.,LTD","19th Floor, No.123 Tiyu West Road, Tianhe District, Guangzhou City,Guangdong P.R. China Guangzhou Guangdong CN 510000 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -31378,6 +31382,8 @@ MA-L,286926,"OPTOKON, a.s.",Červený Kříž 250 Jihlava  CZ 586 01
 MA-L,48F925,Maestronic,#205-3689 1st Avenue East Vancouver  CA 88BC V5M 1C2 
 MA-L,4CA03D,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
 MA-L,38FF59,Dell Inc.,One Dell Way Round Rock  TX US 78682 
+MA-L,B87B4D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,D40592,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -39189,8 +39195,9 @@ MA-L,689268,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart 
 MA-L,EC34E2,Yasmina Labs Trading FZE,"LB182702WS08, Jebel Ali Freezone Dubai Dubai AE LB182702WS08 "
 MA-L,143EC2,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,F4253C,eero inc.,660 3rd Street  San Francisco CA US 94107 
-MA-L,4C6E44,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,E4FF69,Holiday Robotics,"4F, 70, Nonhyeon-ro 85-gil, Gangnam-gu Seoul  KR 06234 "
-MA-L,10F1C7,Tachyon Networks Inc,4783 W Stoney Brook Ln Highland UT US 84003 
 MA-L,1C23A2,FRITZ! Technology GmbH,Alt-Moabit 95 Berlin Berlin DE 10559 
 MA-L,9C862B,MOTOROLA SOLUTIONS MALAYSIA SDN. BHD.,"INNOPLEX, NO. 2A, MEDAN BAYAN LEPAS, BAYAN LEPAS TECHNOPLEX BAYAN LEPAS PENANG MY 11900 "
+MA-L,E0D3F0,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,10F1C7,Tachyon Networks Inc,4783 W Stoney Brook Ln Highland UT US 84003 
+MA-L,E4FF69,Holiday Robotics,"4F, 70, Nonhyeon-ro 85-gil, Gangnam-gu Seoul  KR 06234 "
+MA-L,4C6E44,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
